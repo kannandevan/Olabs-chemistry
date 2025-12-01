@@ -1,0 +1,791 @@
+*{
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -moz-user-drag: none;
+    user-drag:none;
+}
+#mainDiv {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+.sim-canvas{
+    overflow: hidden;
+}
+.absolute {
+    position: absolute;
+}
+
+#limewaterLabel{
+display: none;
+}
+
+/* CONTROLS */
+.thumbs {
+    width: 100%;
+    gap: 10px
+}
+
+.bottle-thumb {
+    width: 43%;
+    /* height: 30%; */
+    /* background-color: aqua; */
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.gap-10 {
+    gap: 10px;
+    display: inline-flex;
+
+}
+
+.box {
+    width: 100%;
+    /* border: .05px solid; */
+
+}
+
+.salt-bottle-with-cap {
+    width: 50%;
+    transition: .5s;
+}
+
+.bottle-thumb:hover {
+    box-shadow: 1px 1px 6px 1px #878787;
+    background-color: antiquewhite;
+}
+
+.bottle-thumb:hover .salt-bottle-with-cap {
+    width: 56%;
+}
+
+.thumb-active {
+    box-shadow: 1px 1px 6px 1px #878787;
+    background-color: antiquewhite;
+}
+
+.thumb-active .salt-bottle-with-cap {
+    width: 56%;
+}
+
+.bottle-thumb:hover .salt-name {
+    text-decoration: underline;
+}
+
+.salt-name {
+    font-size: 1.1vw;
+}
+
+/* CONTROLS END */
+#screen_1 {
+    /* display: none; */
+}
+
+#screen_2 {
+    display: none;
+}
+
+#bg {
+    width: 100%;
+    height: 100%;
+}
+
+#mainDiv img {
+    position: absolute;
+}
+
+.screen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+
+
+.flex-break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.align-self-center {
+    align-self: center;
+}
+
+.align-item-center {
+    align-items: center;
+
+}
+
+.flex-justify-center {
+    justify-content: center;
+}
+
+
+
+
+
+/* CANVAS */
+.label{
+    width: 150%;
+    left: -15%;
+    top: 24%;
+    z-index: 5;
+}
+
+.boiling-click-div{
+    /* background-color: blue; */
+    width: 100%;
+    height: 100%;
+    z-index: 6;
+    position: absolute;
+}
+.salt-bottle {
+    left: 83%;
+    top: 52%;
+    width: 14%;
+    display: none;
+    z-index: 1;
+    cursor: auto !important;
+}
+
+#saltBottle2,
+#saltBottle3 {
+    display: none;
+    cursor: auto !important;
+}
+
+.salt-bottle-cap {
+    left: 82.5%;
+    width: 15%;
+    top: 47%;
+    display: none;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.spatula-salt-div {
+
+    position: absolute;
+    width: 17%;
+    height: 17%;
+    left: 67%;
+    /* top: 82%; */
+    top: 76%;
+    cursor: pointer;
+
+}
+
+.spatula {
+    width: 100%;
+
+}
+
+.salt-spatula {
+    width: 20.5%;
+    left: 4%;
+    top: 36%;
+    display: none;
+}
+
+.wash-bottle {
+    width: 12%;
+    top: 46%;
+    left: 55%;
+}
+
+.cylinder-solution-div {
+    position: absolute;
+    width: 9%;
+    height: 43%;
+    /* left: 46%; */
+    left: 42%;
+    top: 42%;
+}
+
+.measuring-cylinder {
+    width: 100%;
+}
+
+.solution-div {
+    position: absolute;
+    width: 51%;
+    height: 39%;
+    top: 60%;
+    left: 25%;
+    background-color: rgb(255 255 255 / 35%);
+    display: none;
+}
+
+.solution-div-1ml {
+    position: absolute;
+    width: 51%;
+    height: 9%;
+    top: 91%;
+    left: 25%;
+    background-color: rgb(255 255 255 / 35%);
+    display: none;
+}
+
+.measuring-cylinder-solution {
+    width: 100%;
+    display: none;
+}
+
+.measuring-cylinder-solution-1 {
+    width: 100%;
+    display: none;
+}
+
+.spatula-bottle-drop-area {
+    position: absolute;
+    width: 20%;
+    height: 31%;
+    top: 27%;
+    left: 79%;
+    /* border: solid; */
+    /* display: none; */
+}
+
+.spatula-tube-drop-area-1 {
+    position: absolute;
+    width: 13%;
+    height: 44%;
+    top: 0%;
+    left: 4%;
+    /* /* border: solid; */
+    /* display: none; */
+}
+
+.spatula-tube-drop-area-2 {
+    position: absolute;
+    width: 13%;
+    height: 44%;
+    top: 0%;
+    left: 14%;
+    /* border: solid; */
+}
+
+.spatula-tube-drop-area-3 {
+    position: absolute;
+    width: 13%;
+    height: 44%;
+    top: 0%;
+    left: 24%;
+    /* border: solid; */
+}
+
+.washbottle-cylinder-drop-area {
+    position: absolute;
+    width: 24%;
+    height: 44%;
+    top: 0%;
+    left: 38%;
+    /* border: solid; */
+}
+
+.boiling-tube-with-stand-div {
+    position: absolute;
+    width: 45%;
+    height: 29%;
+    top: 57%;
+    left: -1%;
+}
+
+.boiling-tube-stand {
+    width: 100%;
+}
+
+
+.salt-in-boiling-tube {
+    width: 63%;
+    top: 86%;
+    display: none;
+}
+
+#saltTube1 {
+    left: 21.5%;
+
+}
+
+#saltTube2 {
+    left: 20%;
+
+}
+
+#saltTube3 {
+    left: 24%;
+
+}
+
+.poring-animation-img-1 {
+    height: 50%;
+    left: 44.8%;
+    top: 38.5%;
+    width: 3%;
+    display: none;
+}
+
+.poring-animation-img {
+    width: 3%;
+    top: 38%;
+    height: 56%;
+    display: none;
+
+}
+
+#poringAnimationImg2 {
+    left: 8.6%;
+}
+
+#poringAnimationImg3 {
+    left: 19%;
+}
+
+#poringAnimationImg4 {
+    left: 30%;
+}
+
+.boiling-tube-div {
+    width: 13.5%;
+    height: 153%;
+    position: absolute;
+    top: -36%;
+    z-index: 2;
+}
+
+#boilingTubeDiv1 {
+    left: 18%;
+}
+
+#boilingTubeDiv2 {
+    left: 41%;
+}
+
+#boilingTubeDiv3 {
+    left: 64%;
+}
+
+.boiling-tube {
+    width: 100%;
+}
+
+#boilingTubeSolutin1,
+#boilingTubeSolutin2,
+#boilingTubeSolutin3 {
+    position: absolute;
+    width: 100%;
+    height: 103%;
+    display: none;
+}
+
+.drop-area {
+    display: none;
+}
+
+.btnNext {
+
+
+         width: 14%;
+left: 82%;
+ height: 9%;
+top: 2%;
+position: absolute;
+        
+         font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important;
+        
+         -moz-border-bottom-colors: none;
+        
+         -moz-border-left-colors: none;
+        
+         -moz-border-right-colors: none;
+        
+         -moz-border-top-colors: none;
+        
+         border-color: #AAAAAA #AAAAAA #888888;
+        
+         border-image: none;
+        
+         border-radius: 4px 4px 4px 4px;
+        
+         border-style: solid;
+        
+         border-width: 1px;
+        
+         box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+        
+         color: #333333;
+        
+         cursor: pointer;
+        
+         display: inline-block;
+        
+         float: none;
+        
+         font-size: 19px;
+        
+         font-weight: bold;
+        
+         line-height: 0.3em;
+        
+         margin: 0px;
+        
+         padding: 0.45em 0.8em;
+        
+         text-decoration: none;
+        
+         background: #eeeeee;
+        
+         background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+        
+         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8));
+        
+         background: -webkit-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        
+         background: -o-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        
+         background: -ms-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        
+         background: linear-gradient(to bottom, #eeeeee 0%,#c8c8c8 100%);
+        
+         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 );
+        
+         display: none;
+         z-index: 100;
+        
+
+}
+.glass-rod {
+    height: 45%;
+    left: 64%;
+    top: 52%;
+   //transform: rotate(77deg);
+    z-index: 5;
+    display: none;
+}
+/* .glass-rod {
+    height: 30%;
+    left: 64%;
+    top: 67%;
+
+    z-index: 5;
+    display: none;
+} */
+.salt-bottle,
+.salt-bottle-cap,
+.spatula-salt-div,
+.wash-bottle,
+.cylinder-solution-div {
+    /* display: none; */
+}
+
+.red-litmus {
+    width: 10%;
+    left: 52%;
+    top: 72%;
+    height: 13%;
+    display: none;
+}
+
+.red-litmus-drop-area1 {
+    position: absolute;
+    width: 15%;
+    height: 53%;
+    left: 49%;
+    top: 32%;
+    z-index: 5;
+    /* border: solid; */
+}
+
+.water-drop-animation-div {
+    width: 2%;
+
+    left: 57%;
+    top: 56%;
+    position: absolute;
+}
+
+.water-drop-animation-div img {
+    width: 100%;
+    display: none;
+}
+
+.litmus-red-to-blue-animation-div {
+    width: 10%;
+    left: 52%;
+    top: 72%;
+    height: 13%;
+}
+
+.litmus-red-to-blue-animation-div img {
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+.inference {
+    width: 7%;
+    height: 11%;
+    left: 1%;
+    top: 11%;
+    display: none;
+    cursor: pointer;
+}
+
+.hcl-bottle-div {
+    position: absolute;
+    width: 9%;
+    height: 31%;
+    left: 66%;
+    top: 54%;
+    z-index: 100;
+    display: none;
+}
+
+.hcl-bottle-body {
+    width: 100%;
+}
+
+.hcl-bottle-solution {
+    width: 100%;
+    top: 43%;
+}
+
+.hcl-bottle-solution-rotation {
+    width: 198%;
+    top: 36%;
+    left: -41%;
+    transform: rotate(93deg);
+    display: none;
+}
+
+.hcl-bottle-cap {
+    left: 68%;
+    top: 44%;
+    width: 5%;
+    display: none;
+}
+
+.boiling-water-2 {
+    width: 84%;
+    height: 20%;
+    top: 31.68389%;
+    left: 12.3%;
+    background-color: rgb(255 255 255 / 39%);
+    position: absolute;
+    display: none;
+}
+
+.brisk-div {
+    position: absolute;
+    width: 108%;
+    height: 10%;
+    top: 37%;
+    left: 4%;
+}
+
+.brisk-div img {
+    width: 100%;
+    display: none;
+}
+
+.note {
+    width: 96.4%;
+    background: wheat;
+    padding: 10px;
+    text-align: center;
+    font-size: 1vw;
+    display: none;
+    top: 39%;
+    z-index: 100;
+}
+
+.cork {
+    /* left: 64%;
+    top: 86%; */
+    width: 5%;
+    z-index: 3;
+    display: none;
+    z-index: 1;
+    left: 84%;
+    top: 66%;
+}
+
+.thistle-funnel {
+    z-index: 2;
+    display: none;
+    left: 92%;
+    top: 41%;
+    width: 7%;
+    z-index: 2;
+    /* transform: rotate(78deg); */
+}
+
+.dropper {
+    position: absolute !important;
+    left: 69%;
+    top: 40.5%;
+    width: 3.1%;
+    height: 30%;
+    display: none;
+
+}
+
+.dropper-img {
+    width: 100%;
+}
+
+.dropper-soln {
+    top: 63%;
+    left: 23.5%;
+    width: 45%;
+}
+
+.glass-tube {
+    width: 17%;
+    top: 72%;
+    left: 45%;
+    display: none;
+    z-index: 0;
+
+}
+
+.last-drop-area {
+    position: absolute;
+    width: 25%;
+    height: 53%;
+    left: 19%;
+    top: 0%;
+    display: none;
+}
+
+.hcl-drop {
+    width: .9%;
+    left: 29.5%;
+    top: 28%;
+    display: none;
+}
+
+.stand-div {
+    position: absolute;
+    width: 20%;
+    height: 28%;
+    left: 78%;
+    top: 52%;
+    display: none;
+}
+
+.stand-base {
+    width: 100%;
+}
+
+.test-tube-div {
+    position: absolute;
+    height: 107%;
+    width: 19%;
+    left: 39%;
+    top: -34%;
+}
+.test-tube{
+    width: 100%;
+}
+.stand-top{
+    top: 33%;
+    left: 11%;
+    width: 73%;
+}
+.test-solution-div {
+    position: absolute;
+    width: 90%;
+    height: 80%;
+    top: 26%;
+    left: 12%;
+    background-color: rgb(255 255 255 / 35%);
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+.testTube-drop-area{
+    position: absolute;
+    width: 25%;
+    height: 84%;
+    top: 7%;
+    left: 25%;
+    display: none;
+}
+/* Canvas end */
+
+.item-label{
+    width: 11.5%;
+
+}
+.label-wash-bottle{
+    width: 11.5%;
+    left: 56%;
+    top: 91%;
+}
+.label-measuring-cylinder{
+    width: 11.5%;
+    left: 41%;
+    top: 91%;
+}
+.label-spatula{
+    width: 11.5%;
+    left: 71%;
+    top: 91%;
+}
+.label-glass-rod{
+    top: 90%;
+    left: 67%;
+}
+.label-litmus{
+    left: 50%;
+    top: 87%;
+}
+.label-hcl-bottle{
+    left: 65%;
+    top: 88%;
+}
+.label-thistle-funnel{
+    left: 88%;
+    top: 86%;
+}
+.label-cork{
+    left: 81%;
+    top: 78%;
+}
+.label-delivery-tube{
+    left: 48%;
+    top: 75%;
+}
+#limewaterLabel{
+    display: none;
+    left: 82%;
+    top: 80%;
+    width: 11.5%;
+}
+.label-page2,.label-page4,.label-page3{
+    display: none;
+}
+#note0{
+    display: none
+}
+#note1{
+    display:none ;
+}
+.last-help-div{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 87%;
+    top: 43%;
+}

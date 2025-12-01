@@ -1,0 +1,3287 @@
+@font-face {
+	font-family:MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+/* ---------DRY HEAT TEST -------------*/
+#preliminaryDryHeat{
+	display:none;
+}
+.container{
+	position:absolute;
+	left:397px;
+	width:195px;
+	height:331px;
+}
+#stand_in_dryHeat{
+	position:absolute;
+	top:10px;
+}
+#limewater1_in_dryHeat{
+	position:absolute;
+	top: 203px;
+	left: 300px;
+	display:none;
+}
+#limewater2_in_dryHeat{
+	position:absolute;
+	top: 203px;
+	left: 300px;
+	display:none;
+}
+#milkySoln_in_dryHeat{
+	position:absolute;
+	top: 274px;
+	left: 310px;
+	width: 26px;
+	height: 89px;
+	overflow: hidden;
+	opacity:0;
+	display:none;
+}
+#milkySoln{
+	position:absolute;
+	top: -59px;
+}
+#burnerhelpDiv{
+	position:absolute;
+	top: 292px;
+	left: 164px;
+	width:10px;
+	height:10px;
+	
+}
+#bunorOn{
+	position:absolute;
+	top: 292px;
+	left: 164px;
+	display:none;
+}
+#bunorOff{
+	position:absolute;
+	top: 282px;
+	left: 162px;
+	padding:10px 10px 10px 10px;
+	cursor:pointer;
+}
+#tube1_in_dryHeat{
+	position:absolute;
+	top: 84px;
+	left: 193px;
+	display:none;
+}
+#cork1_in_dryHeat{
+	position:absolute;
+	top: 99px;
+	left: 180px;
+	display:none;
+}
+#tube2_in_dryHeat{
+	position:absolute;
+	top: 84px;
+	left: 193px;
+	display:none;
+}
+#cork2_in_dryHeat{
+	position:absolute;
+	top: 99px;
+	left: 180px;
+	display:none;
+}
+#ammoniumAll{
+	display:none;
+}
+#NH3_in_dryHeat{
+	position: absolute;
+	left: 290px;
+	top: 251px;	
+}
+#NH3cork_in_dryHeat{
+	position: absolute;
+	left: 299px;
+	top: 245px;
+	width: 17px;
+	height: 17px;	
+}
+#NH3lABEL_in_dryHeat{
+	position: absolute;
+	left: 293px;
+	top: 289px;
+	font-family:MRKGPEN;
+	font-size:12px;
+	text-align:center;	
+}
+#paper_in_dryHeat{
+	position: absolute;
+	left: 181px;
+	top: 84px;
+	display:none;
+}
+#paperChange_in_dryHeat{
+	position: absolute;
+	left: 181px;
+	top: 84px;
+	opacity:0;
+}
+#glass_rod_dryHeat{
+	position: absolute;
+	left: 295px;
+	top: 207px;
+	padding:10px 10px 10px 10px;
+	cursor:pointer;
+	display:none;
+}
+#dryHeatflame {
+	position:absolute;
+	left: 188px;
+	top: 221px;
+	display:none;
+}
+.dryHeatflame1 {
+	position: absolute;
+}
+.dryHeatflame2 {
+	position: absolute;
+	display: none;
+}
+.dryHeatflame3 {
+	position: absolute;
+	display: none;
+}
+.dryHeatflame4 {
+	position: absolute;
+	display: none;
+}
+.dryHeatflame5 {
+	position: absolute;
+	display: none;
+}
+#dragItem2_0{
+	position: absolute;
+	left: 47px;
+	top: 204px;
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+}
+#dragItem2_1{
+	position: absolute;
+	left: 32px;
+	top: 130px;
+	width: 18px;
+	height: 17px;
+	cursor: pointer;
+}
+#dragItem2_2{
+	position: absolute;
+	left: 103px;
+	top: 97px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#container2_1{s
+	display:block;
+}
+#container2_2{
+	display:none;
+}
+#container2_3{
+	display:none;
+}
+#dragItem2_3{
+	position: absolute;
+	left: 24px;
+	top: 72px;
+	width: 41px;
+	height: 14px;
+	cursor: pointer;
+}
+#text2_0{
+	position:absolute;
+	top: 162px;
+	left: 0px;
+}
+#text2_1{
+	position:absolute;
+	top: 162px;
+	left: 82px;
+}
+#text2_2{
+	position: absolute;
+	top: 270px;
+	left: 0px;
+	width: 162px;
+}
+#text2_3{
+	position:absolute;
+	top: 114px;
+	left: 5px;
+	width: 71px;
+}
+#text2_4{
+	position:absolute;
+	top: 83px;
+	left: 9px;
+	width: 72px;
+}
+#text2_5{
+	position:absolute;
+	top: 82px;
+	left: 83px;
+	width: 73px;
+}
+#text2_6{
+	position:absolute;
+	top: 176px;
+	left: 12px;
+}
+#text2_7{
+	position:absolute;
+	top: 126px;
+	left: 85px;	
+}
+#text2_8{
+	position:absolute;
+	top: 224px;
+	left: 58px;
+}
+#text2_9{
+	position:absolute;
+	top: 175px;
+	left: 106px;
+}
+#text2_10{
+	position:absolute;
+	top: 278px;
+	left: 53px;
+}
+#Item2Img{
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	top: 15px;
+	left: 18px;
+}
+#drag2Item{
+	position: absolute;
+	width: 29px;
+	height: 54px;
+	top: 16px;
+	left: 9px;
+}
+#dragItem2_4{
+	position: absolute;
+	width: 45px;
+	height: 67px;
+	top: 34px;
+	left: 94px;
+	cursor: pointer;
+}
+#nh3Label2_1{
+	position:absolute;
+	top: 47px;
+	left: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 7px;
+	padding: 0px 0px 0px 6px;
+}
+#dragItem2_5{
+	position: absolute;
+	left: 34px;
+	top: 22px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#dragItem2_6{
+	position: absolute;
+	left: 94px;
+	top: 44px;
+	width: 41px;
+	height: 14px;
+	cursor: pointer;
+}
+#dragItem2_7{
+	position: absolute;
+	left: 24px;
+	top: 136px;
+	width: 41px;
+	height: 14px;
+	cursor: pointer;
+}
+#dragItem2_8{
+	position: absolute;
+	left: 70px;
+	top: 147px;
+	height: 55px;
+	padding: 10px 10px 10px 10px;
+	cursor: pointer;
+}
+#dragItem2_9{
+	position: absolute;
+	left: 47px;
+	top: 211px;
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+}
+#dragItem2_10{
+	position: absolute;
+	left: 110px;
+	top: 135px;
+	width: 18px;
+	height: 17px;
+	cursor: pointer;
+}
+#inferButton{
+	position: absolute;
+	cursor:pointer;
+	display:none;
+}
+#salt_in_dryHeat{
+	position: absolute;
+	left: 178px;
+	top: 215px;
+}
+#smokeImg{
+	position: absolute;
+	width: 21px;
+	height:265px;	
+}
+#smokeDiv{
+	position: absolute;
+	width: 18px;
+	height: 107px;
+	top: 0px;
+	left: 185px;
+	overflow:hidden;
+	display:none;
+}
+.smoke{
+	display: block;
+	position: relative;	
+	opacity: 1;
+	-webkit-animation: smokeMove1 10s infinite normal;
+	-moz-animation: smokeMove1 10s infinite normal;
+	-o-animation: smokeMove1 10s infinite normal;
+	-ms-animation: smokeMove1 10s infinite normal;
+	animation: smokeMove1 10s infinite normal;
+}
+@-webkit-keyframes smokeMove1 {
+	0% {
+		top: 11px;
+	}
+ 	100% {
+		top: -50px;
+	}
+}
+@-moz-keyframes smokeMove1 {
+	0% {
+		top: 11px;
+	}
+	100% {
+		top: -50px;
+	}
+}
+@-o-keyframes smokeMove1 {
+	0% {
+		top: 11px;
+	}
+	100% {
+		top: -50px;
+	}
+}
+
+
+/*---------CONFIRMATION CARBONATE-----------------------*/
+#carbonateTest{
+	display:none;
+}
+#stand_carbonateTest{
+	position:absolute;
+	top:10px;
+}
+#confirm_drag0_0{
+	position: absolute;
+	left: 465px;
+	top: 25px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#confirmText0_0{
+	position: absolute;
+	top: 92px;
+	left: 457px;
+}
+#testube_carbonateTest{
+	position:absolute;
+	left: 200px;
+	top: -10px;
+	display:block;
+	width:31px;
+	height:119px;	
+}
+#hclSoln_carbonateTest{
+	position: absolute;
+	top: 70px;
+	left: 2px;
+	width: 26px;
+	height: 50px;
+	overflow: hidden;
+}
+#hclSoln{
+	position:absolute;
+	top: -66px;
+}
+#saltSoln_carbonateTest{
+	position: absolute;
+	top: 168px;
+	left: 142px;
+	width: 26px;
+	height: 22px;
+	overflow: hidden;
+}
+#saltSoln{
+	position:absolute;
+	top:-92px;
+}
+#testubeImg_carbonate{
+	position:absolute;
+}
+#testubeNil_carbonate{
+	position:absolute;
+	top: 70px;
+	left: 140px;
+}
+#precipitate_mgso4{
+	position: absolute;
+	left: 141px;
+	top: 178px;
+	display:none;
+}
+/*---------LIME TEST ----------------------------*/
+#lime_test{
+	display:none;
+}
+#textLime_0{
+	position:absolute;
+	top: 162px;
+	left: 28px;
+}
+#textLime_1{
+	position:absolute;
+	top: 162px;
+	left: 97px;
+}
+#textLime_2{
+	position: absolute;
+	top: 270px;
+	left: 64px;
+}
+#dragLime_0{
+	position: absolute;
+	left: 47px;
+	top: 204px;
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+}
+#dragLime_1{
+	position: absolute;
+	left: 32px;
+	top: 130px;
+	width: 18px;
+	height: 17px;
+	cursor: pointer;
+}
+#dragLime_2{
+	position: absolute;
+	left: 103px;
+	top: 97px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#container_Lime{
+	position:absolute;
+	left: 401px;
+	top: 24px;
+}
+#tube_limeTest{
+	position:absolute;
+	top: 40px;
+	left: 156px;
+	display:none;
+}
+#cork_limeTest{
+	position:absolute;
+	top: 63px;
+	left: 142px;
+	display:none;
+}
+#limewater_limeTest{
+	position:absolute;
+	top: 176px;
+	left: 262px;
+	display:none;
+}
+#milkySoln_Limetest{
+	position:absolute;
+	top: 247px;
+	left: 274px;
+	width: 26px;
+	height: 89px;
+	overflow: hidden;
+	opacity:0;
+	display:block;
+}
+#milkySolnLime
+{
+	position:absolute;
+	top: -59px;
+}
+/*--------CONFIRMATION NiTRATE AND SULPHIDE ----*/
+#sulphideTest{
+	display:none;
+}
+#stand_nsCommon{
+	position:absolute;
+	top:17px;
+	left:0px;	
+}
+#drag_nsBottle{
+	position:absolute;
+	top: 70px;
+	left: 450px;
+	width: 45px;
+	height: 97px;
+	cursor:pointer;
+}
+#nsDropper{
+	position:absolute;
+	top: 0px;
+	left: 9px;
+	width: 10px;
+	height: 59px;
+}
+#nsBottle{
+	position:absolute;
+	top: 28px;
+	left: 0px;
+	width: 31px;
+	height: 64px;
+}
+#ns_BottleLabel{
+	position: absolute;
+	top: 67px;
+	left: 4px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 3px;
+	width: 21px;
+	text-align:center;
+}
+#text_ns_Bottle{
+	position: absolute;
+	top: 170px;
+	left: 415px;
+	width: 101px;
+	text-align: center;
+}
+#nsCommondropper{
+	position:absolute;
+	top: 164px;
+	left: 258px;
+	cursor:pointer;
+}
+#ns_drop{
+	position:absolute;
+	top: 93px;
+	left: 6px;
+	display:none;	
+}
+#ns_dropper{
+	position:absolute;	
+}
+#ns_bottle{
+	position:absolute;
+	top: 209px;
+	left: 242px;
+}
+#ns_waterTxt{
+	position:absolute;
+	top: 272px;
+	left: 242px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 5px;
+	font-weight: 800;
+	text-align: center;
+	width: 46px;
+}
+#saltSoln_nscommon{
+	position: absolute;
+	top: 192px;
+	left: 142px;
+	width: 26px;
+	height: 22px;
+	overflow: hidden;
+}
+#saltSoln_ns{
+	position:absolute;
+	top: -92px;
+}
+#testubeNil_ns{
+	position:absolute;
+	top: 94px;
+	left: 140px;
+}
+#borderSaltSoln_ns{
+	position:absolute;
+	top: 192px;
+	left: 142px;
+	width: 26px;
+	height: 1px;
+	overflow:hidden;
+}
+#saltSolnBorder_ns{
+	position:absolute;
+	top:-92px;
+}
+#ns_bottleInstage{
+	display:none;
+}
+#precipitate_nscommon{
+	position: absolute;
+	left: 141px;
+	top: 202px;
+	opacity:0;
+	display:none;
+}
+#titlebrownRingtest{
+	position:absolute;
+	width: 160px;
+	top: 4px;
+	left: 393px;
+	font-weight:800;
+	text-align:center;
+}
+#holdertestube_brownRing {
+	position:absolute;
+	left:34px;
+	top:100px;
+}
+#testtubesolnBorder {
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	position:absolute;
+	left:-1px;
+	top:-1px;
+	opacity: 0.5;
+}
+#testtubesolnDiv_brownRing {
+	position: absolute;
+	left: 197px;
+	top: 137px;
+	width: 24px;
+	height: 30px;
+	overflow:hidden;
+}
+#testtubesoln_brownRing {
+	position: absolute;
+	left: 0px;
+	top: -75px;
+	width:24px;
+	height:108px;
+	background-color:#d3d8da;
+	opacity:0.6;
+}
+#brownRing_brownRing {
+	position: absolute;
+	left: 2px;
+	top: 40px;
+	background-color: #6d3126;
+	height: 2px;
+	width: 22px;
+	display:none;
+}
+#soln_brownRing {
+	position: absolute;
+	left: 197px;
+	top: 165px;
+	width: 24px;
+	height: 5px;
+	overflow:hidden;
+	display:block;
+}
+#solnImg_brownRing {
+	position: absolute;
+	left: 0px;
+	top: -103px;
+}
+#bottleSoln_brownRing{
+	position: absolute;
+	top: 88px;
+	left: 458px;
+	width: 41px;
+	height: 69px;
+	border-bottom-right-radius:1em;
+	border-bottom-left-radius:1em;
+	border-top-left-radius:50em;
+	border-top-right-radius:50em;
+	background-color:#97cba3;
+}
+#bottle_brownRing {
+	position: absolute;
+	top: 66px;
+	left: 458px;
+	width: 44px;
+	height: 93px;
+}
+#bottleLabel_brownRing {
+	position: absolute;
+	top: 120px;
+	left: 454px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 47px;
+	text-align: center;
+}
+#dropper_brownRing {
+	position:absolute;
+	top: 23px;
+	left: 471px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#dropper_brownRingImg {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#dropper2_brownRing {
+	position:absolute;
+	top: 179px;
+	left: 471px;
+	width: 16px;
+	height: 93px;
+	cursor:pointer;
+}
+#dropper2_brownRingImg {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#bottle2_brownRing {
+	position: absolute;
+	top: 222px;
+	left: 458px;
+	width: 44px;
+	height: 93px;
+}
+#bottle2Label_brownRing {
+	position: absolute;
+	top: 277px;
+	left: 454px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 47px;
+	text-align: center;
+}
+#bottleLbl_brownRing {
+	position:absolute;
+	top: 162px;
+	left: 413px;
+	width: 124px;
+	text-align: center;
+}
+#bottleLbl2_brownRing {
+	position:absolute;
+	top: 318px;
+	left: 413px;
+	width: 124px;
+	text-align: center;
+}
+#drop_brownRing {
+	position:absolute;
+	top: 108px;
+	left: 242px;
+	display:none;
+}
+#drop2_brownRing {
+	position:absolute;
+	top: 125px;
+	left: 241px;
+	display:none;
+}
+/*Dil. H2SO4 Test*/
+#preliminarydilH2SO4 {
+	display:none;
+}
+#bubblesintube{
+	position: absolute;
+	width: 22px;
+	height: 8px;
+	top: 194px;
+	left: 138px;
+	display: none;
+	z-index: 1;
+	overflow: hidden;
+}
+.bubbleintube 
+{
+	width: 3px;
+	height: 3px;
+	background-color:#FFF;
+	position:absolute;
+	
+}
+#x1 {
+	left: 6px;
+	top: 20px;
+	opacity: 0.5; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bub 3s  infinite;
+	-moz-animation: bub 3s  infinite;
+	-o-animation: bub 3s  infinite;
+}
+#x2 {
+	left: 8px;
+	top: 20px;
+	opacity: 0.5; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bub 4s  infinite;
+	-moz-animation: bub 4s  infinite;
+	-o-animation: bub 4s  infinite;
+}
+#x3 {
+	left: 9px;
+	top: 20px;
+	opacity: 0.5; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bub 5s  infinite;
+	-moz-animation: bub 5s  infinite;
+	-o-animation: bub 5s  infinite;
+}
+#x4 {
+	left: 15px;
+	top: 20px;
+	opacity: 0.5; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bub 2s  infinite;
+	-moz-animation: bub 2s  infinite;
+	-o-animation: bub 2s  infinite;
+}
+#x5 {
+	left: 20px;
+	top: 20px;
+	opacity: 0.5; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bub 6s  infinite;
+	-moz-animation: bub 6s  infinite;
+	-o-animation: bub 6s  infinite;
+}
+@-webkit-keyframes bub {
+from{top:100%;-webkit-transform: rotate(0deg);}
+to{top:0%;-webkit-transform: rotate(360deg);}
+}
+@-moz-keyframes bub {
+from{top:100%;-moz-transform: rotate(0deg);}
+to{top:0%;-moz-transform: rotate(360deg);}
+}
+@-o-keyframes bub {
+from{top:100%;-0-transform: rotate(0deg);}
+to{top:0%;-0-transform: rotate(360deg);}
+}
+
+
+
+#titledilH2SO4{
+	position:absolute;
+	width: 160px;
+	top: 4px;
+	left: 393px;
+	font-weight:800;
+	text-align:center;
+}
+#stand_dilH2SO4 {
+	position:absolute;
+	top: 17px;
+}
+#saltSoln_dilH2SO4 {
+	position: absolute;
+	top: 199px;
+	left: 139px;
+	width: 28px;
+	height: 6px;
+	display:block;
+	overflow:hidden;
+}
+#solnBorder_dilH2SO4 {
+	position:absolute;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	left:0px;
+	top:-1px;
+	opacity:1;
+	
+}
+#saltSolnImg_dilH2SO4 {
+	position:absolute;
+	top: -107px;
+}
+#testube_dilH2SO4 {
+	position:absolute;
+	top: 87px;
+	left: 137px;
+}
+#salt_dilH2SO4 {
+	position:absolute;
+	top: 195px;
+	left: 139px;
+}
+#drop_dilH2SO4 {
+	position:absolute;
+	top: 93px;
+	left: 150px;
+	display:none;
+}
+#drop2_dilH2SO4 {
+	position:absolute;
+	top: 110px;
+	left: 150px;
+	display:none;
+}
+#dropper_dilH2SO4 {
+	position:absolute;
+	top: 186px;
+	left: 335px;
+	width:16px;
+	height:93px;
+	cursor:pointer;
+}
+#dropperImg_dilH2SO4 {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#bottle_dilH2SO4 {
+	position:absolute;
+	top: 230px;
+	left: 320px;
+}
+#tube_dilH2SO4 {
+	position:absolute;
+	top: 62px;
+	left: 151px;
+	display:none;
+}
+#cork_dilH2SO4 {
+	position:absolute;
+	top: 81px;
+	left: 139px;
+	display:none;
+}
+#milkySoln_dilH2SO4 {
+	position:absolute;
+	top: 253px;
+	left: 269px;
+	width: 26px;
+	height: 89px;
+	overflow: hidden;
+	opacity:0;
+}
+#milkySolnImg_dilH2SO4 {
+	position:absolute;
+	top: -67px;
+}
+#milkySolnBorder_dilH2SO4 {
+	position:absolute;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	left:-1px;
+	top:-1px;
+	opacity: 0.5;
+}
+#soln_dilH2SO4 {
+	position:absolute;
+	top: 253px;
+	left: 269px;
+	width: 26px;
+	height: 89px;
+	overflow: hidden;
+	opacity:1;
+	display:block;
+}
+#solnImg_dilH2SO4 {
+	position:absolute;
+	top: -65px;
+}
+#solnchangeBorder_dilH2SO4 {
+	position:absolute;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	left:-1px;
+	top:-1px;
+	opacity: 0.5;
+}
+#limewater_dilH2SO4 {
+	position:absolute;
+	top: 182px;
+	left: 267px;
+	display:none;
+}
+#ferrusSulphateLabel_dilH2SO4 {
+	position:absolute;
+	top: 195px;
+	left: 9px;
+	width: 72px;
+}
+#potassiumdichromateLabel_dilH2SO4 {
+	position:absolute;
+	top: 102px;
+	left: 14px;
+	width: 128px;
+}
+#acetateLabel_dilH2SO4 {
+	position:absolute;
+	top: 54px;
+	left: 2px;
+}
+#limewaterLabel_dilH2SO4 {
+	position:absolute;
+	top: 200px;
+	left: 90px;
+}
+#corkLabel_dilH2SO4 {
+	position:absolute;
+	top: 298px;
+	left: 0px;
+	width: 80px;
+}
+#tubeLabel_dilH2SO4 {
+	position:absolute;
+	top: 298px;
+	left: 80px;
+	width: 84px;
+}
+#potassiumdichromateDrag_dilH2SO4 {
+	position: absolute;
+	left: 44px;
+	top: 83px;
+	cursor: pointer;
+}
+#acetateDrag_dilH2SO4 {
+	position: absolute;
+	left: 44px;
+	top: 31px;
+	cursor: pointer;
+}
+#limewaterDrag_dilH2SO4 {
+	position: absolute;
+	left: 110px;
+	top: 135px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#ferrusSulphateDrag_dilH2SO4 {
+	position: absolute;
+	left: 34px;
+	top: 135px;
+	width: 24px;
+	height: 82px;
+	cursor: pointer;
+}
+#ferrusSulphatetesttubeImg_dilH2SO4 {
+	position: absolute;
+	width: 15px;
+	height: 57px;
+}
+#ferrusSulphateDiv_dilH2SO4 {
+	position: absolute;
+	left: 0px;
+	top: 32px;
+	width: 15px;
+	height: 28px;
+	overflow: hidden;
+}
+#ferrusSulphateImg_dilH2SO4 {
+	position: absolute;
+	left: 0px;
+	top: -33px;
+	width: 15px;
+	height: 57px;
+}
+#corkDrag_dilH2SO4 {
+	position: absolute;
+	left: 37px;
+	top: 256px;
+	width: 18px;
+	height: 17px;
+	cursor: pointer;
+}
+#tubeDrag_dilH2SO4 {
+	position: absolute;
+	left: 82px;
+	top: 231px;
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+}
+#bottleLabel_dilH2SO4 {
+	position: absolute;
+	left: 322px;
+	top: 286px;
+	font-family: MRKGPEN;
+	font-size: 12px;
+	text-align: center;
+	width: 46px;
+}
+#paper_dilH2SO4 {
+	position: absolute;
+	left: 140px;
+	top: 67px;
+	display:none;
+}
+#paperChange_dilH2SO4 {
+	position: absolute;
+	left: 140px;
+	top: 67px;
+	opacity:0;
+}
+#smokeDivstillImg_dilH2SO4 {
+	position: absolute;
+	width:30px;
+	left:-5px;
+	height:265px;
+}
+#smokeDivstill_dilH2SO4 {
+	position: absolute;
+	width: 21px;
+	height: 0px;
+	top: 198px;
+	left: 142px;
+	overflow:hidden;
+	display:none;
+}
+#smokeImg_dilH2SO4 {
+	position: absolute;
+	width:30px;
+	left:-5px;
+	height:265px;
+}
+#smokeDiv_dilH2SO4 {
+	position: absolute;
+	width: 21px;
+	height: 205px;
+	top: 0px;
+	left: 142px;
+	overflow:hidden;
+	opacity:0;
+	display:none;
+}
+/*Independent group test*/
+#independentgroupTest {
+	display:none;
+}
+#titlegroupTest{
+	position:absolute;
+	width: 160px;
+	top: 4px;
+	left: 393px;
+	font-weight:800;
+	text-align:center;
+}
+#stand_groupTest {
+	position:absolute;
+	top: 17px;
+	left: -24px;
+}
+#testtubestand_groupTest {
+	position:absolute;
+	top: 225px;
+	left: 226px;
+}
+#funnel_groupTest {
+	position:absolute;
+	top: 224px;
+	left: 304px;
+}
+#funnelDrag_groupTest{
+	position:absolute;
+	top: 224px;
+	left: 304px;
+	width:53px;
+	height:71px;
+	cursor:pointer;
+}
+#testube_groupTest {
+	position:absolute;
+	top: 197px;
+	left: 264px;
+}
+#testtubeDiv_groupTest {
+	position: absolute;
+	top: 111px;
+	left: 152px;
+	width: 31px;
+	height: 117px;
+	overflow:hidden;	
+}
+#testtubeDrag_groupTest{
+	position: absolute;
+	top: 111px;
+	left: 152px;
+	width:31px;
+	height:117px;
+	cursor:pointer;
+}
+#hclsoln_groupTest{
+	position: absolute;
+	left: 14px;
+	top: 116px;
+	width: 0px;	
+	height: 16px;
+	display:none;
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	border-radius:0px 0px 9px 9px;
+}
+#solnpourImg_groupTest {
+	position:absolute;
+	top: 213px;
+	left: 277px;
+	width: 0;
+	height:0;
+	border-radius: 3px 3px 0px 0px;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 100px solid #FFFFFF;
+	opacity: 0.5;
+	display:none;
+}
+
+#hclsolnBorder_groupTest {
+	position: absolute;
+	top: 110px;
+	left: 3px;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	opacity: 0.5;
+	display:none;
+}
+#bacl2soln_groupTest {
+	position: absolute;
+	top: 310px;
+	left: 268px;
+	width: 26px;
+	height: 0px;
+	background-color: #FFFFFF;
+	opacity:0.2;
+	border-radius: 0px 0px 7px 7px;
+	display:none;
+}
+#bacl2solnBorder_groupTest {
+	position: absolute;
+	top: 311px;
+	left: 267px;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	opacity:1;
+	display:none;
+}
+#salt_groupTest {
+	position: absolute;
+	top: 217px;
+	left: 153px;
+}
+#hcldropper_groupTest {
+	position: absolute;
+	top: 18px;
+	left: 420px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#hcldropperImg_groupTest {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#hclbottle_groupTest {
+	position: absolute;
+	top: 61px;
+	left: 408px;
+	width: 44px;
+	height: 93px;
+}
+#hclbottleLabel_groupTest {
+	position: absolute;
+	top: 115px;
+	left: 406px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#hcltxtLabel_groupTest {
+	position: absolute;
+	top: 158px;
+	left: 370px;
+	width: 124px;
+	text-align: center;
+}
+#bacl2dropper_groupTest {
+	position: absolute;
+	top: 18px;
+	left: 512px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#bacl2dropperImg_groupTest {
+	position:absolute;
+	top: 51px;
+	left:515px;
+}
+#bacl2bottle_groupTest {
+	position: absolute;
+	top: 61px;
+	left: 500px;
+	width: 44px;
+	height: 93px;
+}
+#bacl2bottleLabel_groupTest {
+	position: absolute;
+	top: 115px;
+	left: 498px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#bacl2txtLabel_groupTest {
+	position: absolute;
+	top: 158px;
+	left: 461px;
+	width: 124px;
+	text-align: center;
+}
+#hno3dropper_groupTest {
+	position: absolute;
+	top: 177px;
+	left: 420px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#hno3dropperImg_groupTest {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#hno3bottle_groupTest {
+	position: absolute;
+	top: 220px;
+	left: 408px;
+	width: 44px;
+	height: 93px;
+}
+#hno3bottleLabel_groupTest {
+	position: absolute;
+	top: 274px;
+	left: 406px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#hno3txtLabel_groupTest {
+	position: absolute;
+	top: 317px;
+	left: 364px;
+	width: 124px;
+	text-align: center;
+}
+#nh3dropper_groupTest {
+	position: absolute;
+	top: 175px;
+	left: 511px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#nh3dropperImg_groupTest {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#nh3bottle_groupTest {
+	position:absolute;
+	top: 218px;
+	left: 498px;
+	width: 44px;
+	height: 93px;
+}
+#nh3bottleLabel_groupTest {
+	position: absolute;
+	top: 269px;
+	left: 496px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#nh3txtLabel_groupTest {
+	position:absolute;
+	top: 310px;
+	left: 455px;
+	width: 124px;
+	text-align: center;
+}
+#drop_groupTest{
+	position:absolute;
+	top: 108px;
+	left: 167px;
+	display:none;
+}
+#drop2_groupTest{	
+	position:absolute;
+	top: 122px;
+	left: 167px;
+	display:none;
+}
+#precipitate_groupTest{	
+	position:absolute;
+	top: 296px;
+	left: 266px;
+	opacity:0;
+	display:none;
+	width:28px;
+	height:16px;
+	overflow:hidden;
+}
+#precipitateImg_groupTest{
+	position:absolute;
+	top:-96px;
+	
+}
+#burnerhelpDiv_groupTest {
+	position:absolute;
+	top: 283px;
+	left: 132px;
+	width:36px;
+	height:36px;
+}
+#bunorOn_groupTest{
+	position:absolute;
+	top: 299px;
+	left: 139px;
+	display:none;
+}
+#bunorOff_groupTest{
+	position:absolute;
+	top: 289px;
+	left: 136px;
+	padding:10px 10px 10px 10px;
+	cursor:pointer;
+}
+#flame_groupTest {
+	position:absolute;
+	left: 163px;
+	top: 228px;
+	display:none;
+}
+.flame1_groupTest {
+	position: absolute;
+}
+.flame2_groupTest {
+	position: absolute;
+	display: none;
+}
+.flame3_groupTest {
+	position: absolute;
+	display: none;
+}
+.flame4_groupTest {
+	position: absolute;
+	display: none;
+}
+/* Match stick Test */
+#matchstickTest{
+	display:none;
+}
+#titlematchstick{
+	position:absolute;
+	width: 160px;
+	top: 4px;
+	left: 393px;
+	font-weight:800;
+	text-align:center;
+}
+#na2co3Div_matchstick{
+	position:absolute;
+	top: 50px;
+	left: 416px;
+	width:123px;
+	height:33px;
+}
+#na2co3_matchstick{
+	position:absolute;
+	top: 0px;
+	left: 19px;
+	width: 86px;
+	height: 21px;
+}
+#watchglassna2co3_matchstick{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+}
+#charcoalDiv_matchstick{
+	position:absolute;
+	top: 122px;
+	left: 416px;
+	width:123px;
+	height:33px;
+}
+#charcoal_matchstick{
+	position:absolute;
+	top: 0px;
+	left: 19px;
+	width: 86px;
+	height: 21px;
+}
+#watchglasscharcoal_matchstick{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+}
+#watchglass_matchstick{
+	position:absolute;
+	top: 285px;
+	left: 44px;
+}
+#salt_matchstick{
+	position:absolute;
+	top: 290px;
+	left: 82px;
+	width: 46px;
+	height: 14px;
+}
+#na2co2onstage_matchstick{
+	position:absolute;
+	top: 294px;
+	left: 102px;
+	width: 0px;
+	height: 0px;
+}
+#charcoalonstage_matchstick{
+	position:absolute;
+	top: 294px;
+	left: 102px;
+	width: 0px;
+	height: 0px;
+}
+#burner_matchstick{
+	position:absolute;
+	top: 199px;
+	left: 253px;
+}
+#burnerclosed_matchstick{
+	position:absolute;
+	top: 252px;
+	left: 302px;
+	padding: 9px 6px 7px 4px;
+	display:none;
+}
+#burnerclosedDiv_matchstick{
+	position:absolute;
+	top: 257px;
+	left: 301px;
+	width: 17px;
+	height: 17px;
+	cursor:pointer;
+}
+#spatulana2co3Div_matchstick{
+	position:absolute;
+	top: 8px;
+	left: 460px;
+	width:102px;
+	height:57px;
+	cursor:pointer;
+}
+#spatulana2co3powder_matchstick{
+	position:absolute;
+	top: 45px;
+	left: 0px;
+	width:19px;
+	height:13px;
+}
+#spatulana2co3_matchstick{
+	position:absolute;
+	top: 0px;
+	left:0px;
+}
+#spatulacharcoalDiv_matchstick{
+	position:absolute;
+	top: 83px;
+	left: 460px;
+	width:102px;
+	height:57px;
+	cursor:pointer;
+}
+#spatulacharcoalpowder_matchstick{
+	position:absolute;
+	top: 44px;
+	left: 0px;
+}
+#spatulacharcoal_matchstick{
+	position:absolute;
+	top: 0px;
+	left:0px;
+}
+#rod_matchstick{
+	position:absolute;
+	top: 260px;
+	left: 400px;
+	width: 135px;
+	padding: 10px;
+	cursor:pointer;
+}
+#matchstick_matchstick{
+	position:absolute;
+	top: 284px;
+	left: 443px;
+	padding: 20px;
+	cursor:pointer;
+}
+#stickflame_matchstick {
+	position:absolute;
+	left: 78px;
+	top: -5px;
+	display:none;
+}
+.stickflame1_matchstick {
+	position: absolute;
+}
+.stickflame2_matchstick {
+	position: absolute;
+	display: none;
+}
+.stickflame3_matchstick {
+	position: absolute;
+	display: none;
+}
+#petridish_matchstick{
+	position:absolute;
+	top: 183px;
+	left: 393px;
+	width: 95px;
+	height:38px;
+	cursor:pointer;
+}
+#water_matchstick{
+	position:absolute;
+	top: 155px;
+	left: 511px;
+	width: 47px;
+	height: 90px;
+	cursor:pointer;
+}
+#water_matchstickImg{
+	width: 47px;
+	height: 90px;
+
+}
+#burnerhelpDiv_matchstick {
+	position:absolute;
+	top: 251px;
+	left: 314px;
+	width: 50px;
+	height: 50px;
+}
+#bunorOn_matchstick {
+	position:absolute;
+	top: 272px;
+	left: 341px;
+	display:none;
+}
+#bunorOff_matchstick {
+	position:absolute;
+	top: 249px;
+	left: 314px;
+	padding: 24px 14px 21px 28px;
+	cursor:pointer;
+}
+#na2co3Label_matchstick{
+	position:absolute;
+	top: 83px;
+	left: 425px;
+}
+#charcoalLabel_matchstick{
+	position:absolute;
+	top: 157px;
+	left: 449px;
+}
+#rodLabel_matchstick{
+	position:absolute;
+	top: 279px;
+	left: 413px;
+}
+#nitroprussideLabel_matchstick{
+	position:absolute;
+	top: 219px;
+	left: 390px;
+	width: 100px;
+}
+#matchstickLabel_matchstick{
+	position:absolute;
+	top: 316px;
+	left: 465px;
+}
+#waterLabel_matchstick{
+	position:absolute;
+	top: 249px;
+	left: 518px;
+}
+#waterLblonBottle_matchstick{
+	position:absolute;
+	top: 57px;
+	left: 10px;
+	font-family:MRKGPEN;
+	font-size: 8px;
+	width:44px;
+	text-align:center;
+}
+#waterDiv_matchstick{
+	position:absolute;
+	width: 3px;
+	height: 0px;
+	top: 217px;
+	left: 111px;
+	background-color: #FFF;
+	opacity: 0.4;
+	border-radius: 12px 10px 30px 27px;
+}
+#mixture_matchstick {
+	position:absolute;
+	left: 82px;
+	top: 290px;
+	display:none;
+}
+.mixture1_matchstick {
+	position: absolute;
+	width: 46px;
+	height: 14px;
+}
+.mixture2_matchstick {
+	position: absolute;
+	display: none;
+	width: 46px;
+	height: 14px;
+}
+.mixture3_matchstick {
+	position: absolute;
+	display: none;
+	width: 46px;
+	height: 14px;
+}
+.mixture4_matchstick {
+	position: absolute;
+	display: none;
+	width: 46px;
+	height: 14px;
+}
+#rodStage_matchstick{
+	position:absolute;
+	top:188px;
+	left: 98px;
+	width: 84px;
+	height:107px;
+	cursor:pointer;
+	display:none;
+}
+#petridishStage_matchstick{
+	position:absolute;
+	top: 237px;
+	left: 152px;
+	display:none;
+}
+@-webkit-keyframes myOrbit {
+    from { -webkit-transform: rotate(0deg) translateX(10px) rotate(0deg); }
+    to   { -webkit-transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+}
+@-moz-keyframes myOrbit {
+    from { -moz-transform: rotate(0deg) translateX(10px) rotate(0deg); }
+    to   { -moz-transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+}
+
+#burnerflame_matchstick{
+	position:absolute;
+	left: 305px;
+	top: 136px;
+	display:none;
+}
+.burnerflame1_matchstick {
+	position: absolute;
+	display: block;
+}
+.burnerflame2_matchstick {
+	position: absolute;
+	display: none;
+}
+.burnerflame3_matchstick {
+	position: absolute;
+	display: none;
+}
+.burnerflame4_matchstick {
+	position: absolute;
+	display: none;
+}
+#flame_matchstick {
+	position:absolute;
+	left: 306px;
+	top: 172px;
+	display:none;
+}
+.flame1_matchstick {
+	position: absolute;
+	display: block;
+}
+.flame2_matchstick {
+	position: absolute;
+	display: none;
+}
+.flame3_matchstick {
+	position: absolute;
+	display: none;
+}
+.flame4_matchstick {
+	position: absolute;
+	display: none;
+}
+#violetstreakDiv_matchstick{
+	position: absolute;
+	top: 233px;
+	left: 140px;	
+	display:none;
+}
+/*Ammonium molybdate test */
+#ammoniummolybdateTestDiv{
+	display:none;
+}
+#titleAmmoniummolybdate{
+	position:absolute;
+	width: 160px;
+	top: 4px;
+	left: 393px;
+	font-weight:800;
+	text-align:center;
+}
+#stand_ammoniummolybdate {
+	position:absolute;
+	top: 17px;
+	left: -24px;
+}
+
+#salt_ammoniummolybdate {
+	position: absolute;
+	top: 217px;
+	left: 153px;
+}
+#hno3dropper_ammoniummolybdate {
+	position: absolute;
+	top: 18px;
+	left: 468px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#hno3dropperImg_ammoniummolybdate {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#hno3bottle_ammoniummolybdate {
+	position: absolute;
+	top: 61px;
+	left: 456px;
+	width: 44px;
+	height: 93px;
+}
+#hno3bottleLabel_ammoniummolybdate{
+	position: absolute;
+	top: 115px;
+	left: 454px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#hno3txtLabel_ammoniummolybdate {
+	position: absolute;
+	top: 158px;
+	left:418px;
+	width: 124px;
+	text-align: center;
+}
+#nh3dropper_ammoniummolybdate {
+	position: absolute;
+	top: 177px;
+	left: 468px;
+	width: 16px;
+	height: 93px;
+	cursor: pointer;
+}
+#nh3dropperImg_ammoniummolybdate {
+	position:absolute;
+	top: 51px;
+	left:5px;
+}
+#nh3bottle_ammoniummolybdate {
+	position: absolute;
+	top: 220px;
+	left: 456px;
+	width: 44px;
+	height: 93px;
+}
+#nh3bottleLabel_ammoniummolybdate {
+	position: absolute;
+	top: 271px;
+	left: 453px;
+	font-family: MRKGPEN;
+	font-size: 9px;
+	width: 44px;
+	text-align: center;
+}
+#nh3txtLabel_ammoniummolybdate{
+	position: absolute;
+	top: 319px;
+	left: 408px;
+	width: 132px;
+	text-align: center;
+}
+#drop_ammoniummolybdate{
+	position:absolute;
+	top: 108px;
+	left: 167px;
+	display:none;
+}
+#drop2_ammoniummolybdate{	
+	position:absolute;
+	top: 122px;
+	left: 167px;
+	display:none;
+}
+#precipitate_ammoniummolybdate{	
+	position:absolute;
+	top: 207px;
+	left: 154px;
+	opacity:0;
+	display:none;
+}
+#burnerhelpDiv_ammoniummolybdate {
+	position:absolute;
+	top: 283px;
+	left: 132px;
+	width:36px;
+	height:36px;
+}
+#bunorOn_ammoniummolybdate{
+	position:absolute;
+	top: 299px;
+	left: 139px;
+	display:none;
+}
+#bunorOff_ammoniummolybdate{
+	position:absolute;
+	top: 289px;
+	left: 136px;
+	padding:10px 10px 10px 10px;
+	cursor:pointer;
+}
+#flame_ammoniummolybdate {
+	position:absolute;
+	left: 163px;
+	top: 228px;
+	display:none;
+}
+.flame1_ammoniummolybdate {
+	position: absolute;
+}
+.flame2_ammoniummolybdate {
+	position: absolute;
+	display: none;
+}
+.flame3_ammoniummolybdate {
+	position: absolute;
+	display: none;
+}
+.flame4_ammoniummolybdate {
+	position: absolute;
+	display: none;
+}
+#testtubeDiv_ammoniummolybdate {
+	position: absolute;
+	top: 111px;
+	left: 152px;
+	width: 31px;
+	height: 117px;
+	overflow:hidden;	
+}
+#hno3soln_ammoniummolybdate{
+	position: absolute;
+	left: 14px;
+	top: 116px;
+	width: 0px;	
+	height: 0px;
+	display:none;
+	background-color: #FF0;
+	opacity: 0.3;
+	border-radius: 0px 0px 7px 7px;
+}
+#hno3solnBorder_ammoniummolybdate {
+	position: absolute;
+	top: 110px;
+	left: 3px;
+	width:24px;
+	height:0px;
+	border:1px solid #FFF;
+	opacity: 0.5;
+	display:none;
+}
+/* ------------PHYSICAL EXAMINATION------------------*/
+.varTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding:0px 0px 0px 12px;
+}
+.dropBox{
+	width:172px;
+	margin: 3px 0px 22px 12px;
+}
+#controlImage{
+	position:absolute;
+	left:390px;
+	width:195px;
+	height:331px;
+	z-index:0;
+}
+#watchglass{
+	position:absolute;
+	left:415px;
+	top:38px;
+}
+#phyWglass_1{
+	position: absolute;
+	left: 126px;
+	top: 156px;
+}
+#phySaltDrag{
+	position:absolute;
+	left:446px;
+	top:43px;
+	width:45px;
+	height:14px;
+	z-index:1;
+	cursor:pointer;
+}
+#bottle{
+	position:absolute;
+	left:451px;
+	top:145px;
+	z-index:0;
+}
+#dropper{
+	position:relative;
+}
+#salt{
+	position:absolute;
+	left:460px;
+	top:44px;
+}
+#dropperDrop{
+	position:absolute;
+	left:170px;
+	top:35px;
+	width:45px;
+	height:120px;
+}
+#drop{
+	position:relative;
+	left:6px;
+	top:42px;
+}
+#dropperWraper{
+	position:absolute;
+	left:466px;
+	top:101px;
+	width:18px;
+	height:95px;
+	z-index:0;
+	cursor:pointer;
+}
+#waterTxt{
+	position:absolute;
+	left:453px;
+	top:203px;
+	font-family:MRKGPEN;
+	font-size:19px;
+	text-align:center;
+	z-index:0;
+	width: 43px;
+}
+#tooltip{
+	position:absolute;
+	left:183px;
+	top:90px;
+	display:none;
+}
+#confirmationTxt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position:absolute;
+	left:178px;
+	top:103px;
+	width:163px;
+	height:28px;
+	text-align:center;
+}
+.varResult{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 0px 0px 0px 6px;
+	text-align:center;
+}
+.varLabel{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:800;
+	padding: 0px 0px 3px 0px;	
+	text-align:center;
+}
+#physicalCanvas{
+	position:absolute;
+	width:392px;
+	height:337px;
+	left:0px;
+	top:0px;
+}
+#mainDiv {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:570px;
+	height:337px;
+	overflow:hidden;
+	background:#FFF;
+	opacity:0.99;
+}
+
+#container1{
+	position:absolute;
+	width:195px;
+	height:0px;
+	top:15px;
+	left:-34px;
+}
+#dragItem1_0{
+	position:absolute;	
+	width:40px;
+	height:14px;
+	top: 84px;
+	left: 52px;
+}
+#Item1Img{
+	position:absolute;
+	width: 25px;
+	height: 53px;
+	top: 38px;
+	left: 0px;
+}
+#drag1Item{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 7px;
+}
+#dragItem1_1{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 144px;
+}
+#hand{
+	position:absolute;
+	width: 70px;
+	height: 53px;
+	top: 260px;
+	left: 433px;
+	z-index:10;
+}
+#text1_0{
+	position:absolute;
+	top: 117px;
+	left: 38px;
+}
+#text1_1{
+	position:absolute;
+	top: 117px;
+	left: 121px;
+}
+#text1_2{
+	position:absolute;
+	top: 315px;
+	left: 456px;
+}
+#water1_1{
+	position:absolute;
+	top: 69px;
+	left: -6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 6px;
+}
+#titleDryHeat{
+	position:absolute;
+	width:143px;
+	top:4px;
+	left:400px;
+	font-weight:800;
+	text-decoration:underline;
+}
+/*------------CONFIRMATION ACETATE--------------*/
+#acetateWatchglass{    
+	position:absolute;
+	left:19px;
+	top:300px;
+}
+#acetateSalt{
+	position:absolute;
+	left:55px;
+	top:305px;
+}
+#acetateControls{
+	position:absolute;
+	left:360px;
+	width:195px;
+	height:331px;
+	z-index:3;
+}
+#acetateHeading{
+	position:absolute;
+	width:195px;
+	top:2px;
+	left:28px;
+	font-weight:800;
+}
+#actWGlass{
+	position:absolute;
+	top: 117px;
+	left: 38px;
+}
+#actSodiumBottle{
+	position:absolute;
+	top: 117px;
+	left: 114px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 0px 0px 0px 6px;
+}
+#actSodium{
+	position:absolute;
+	top: 69px;
+	left: -6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 6px;
+}
+#actContainer{	
+	position: absolute;
+	width: 195px;
+	height: 150px;
+	top: 8px;
+	left: 0px;
+}
+#actOxalic{
+	position: absolute;
+	width: 80px;
+	height: 28px;
+	top: 179px;
+	left: 72px;
+	z-index: 4;
+}
+#actOxalicTxt{
+	position:absolute;
+	top: 212px;
+	left: 82px;
+}
+#actOxalicAcid{
+	position: absolute;
+	top: 182px;
+	left: 88px;
+	z-index: 4;
+}
+#actOxalicAcidDrag{
+	position: absolute;
+	top: 183px;
+	left: 97px;
+	width:30px;
+	height:9px;
+	cursor:pointer;
+	z-index: 4;	
+}
+#act_hand{
+	position:absolute;
+	width: 50px;
+	height: 33px;
+	top: 248px;
+	left: 92px;
+	z-index:6;
+}
+#act_text1_2{
+	position:absolute;
+	top: 286px;
+	left: 101px;
+}
+#act_Wglass{
+	position:absolute;	
+	width:40px;
+	height:14px;
+	top: 84px;
+	left: 52px;
+}
+#actWglass_1{
+	position: absolute;
+	left: 126px;
+	top: 156px;
+}
+#actDropperWraper{
+	position:absolute;
+	left:267px;
+	top:178px;
+	width:18px;
+	height:95px;
+}
+#actDropper{
+	position:relative;
+}
+#actDrop{
+	position:relative;
+	left:6px;
+	top:42px;
+}
+#actBottle{
+	position:absolute;
+	left:251px;
+	top:230px;
+}
+#act_Item1Img{
+	position:absolute;
+	width: 25px;
+	height: 53px;
+	top: 38px;
+	left: 0px;
+}
+#act_drag1Item{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 7px;
+}
+#act_dragItem1_1{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 144px;
+}
+#act_waterTxt{
+	position:absolute;
+	left:238px;
+	top:289px;
+	font-family:MRKGPEN;
+	font-size:16px;
+	text-align:center;
+	width: 74px;
+}
+#acetateSaltDrag{
+	position:absolute;
+	left:65px;
+	top:290px;
+	width:30px;
+	height:9px;
+	z-index:3;
+	cursor:pointer;
+}
+#act_dropperDrop{
+	position:absolute;
+	left:170px;
+	top:30px;
+	width:20px;
+	height:120px;
+}
+#actConfTxt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position:absolute;
+	left:187px;
+	top:102px;
+	width:163px;
+	height:28px;
+	text-align:center;
+}
+
+/*---------Confirmation of acetate(Ester test)-------*/
+#esterWatchglass{
+	position:absolute;
+	left:416px;
+	top:282px;
+}
+#esterSalt{
+	position:absolute;
+	left:454px;
+	top:287px;
+}
+#esterSaltDrag{
+	position:absolute;
+	left:462px;
+	top:289px;
+	width:20px;
+	height:9px;
+	z-index:3;
+	cursor:pointer;
+}
+#ester_h2so4{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 424px;
+	cursor:pointer;
+}
+#ester_h2so4_dropperCtrl{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 9px;
+}
+#ester_h2so4_bottleCtrl{
+	position:absolute;
+	width: 30px;
+	height: 58px;
+	top: 38px;
+	left: 0px;
+}
+.ctlrBottleLabel{
+	position:absolute;
+	top: 72px;
+	left: -6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 7px;
+}
+#esterH2so4{
+	position:absolute;	
+	width:71px;
+	height:12px;
+	top: 111px;
+	left: 401px;
+}
+#ester_dragItem1_1{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 514px;
+	cursor:pointer;
+}
+#ester_dropperCtrl{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 8px;
+}
+#ester_bottleCtrl{
+	position:absolute;
+	width: 30px;
+	height: 58px;
+	top: 38px;
+	left: 0px;
+}
+#esterEthylTxt{
+	position:absolute;	
+	width:75px;
+	height:17px;
+	top:111px;
+	left:483px;
+}
+#esterBeakerCtrl{
+	position:absolute;
+	width:70px;
+	height:80px;
+}
+#esterBeakerWrap{
+	position:absolute;
+	width:70px;
+	height:80px;
+	top: 150px;
+	left: 443px;
+	cursor:pointer;
+}
+#esterBeakerTxt{
+	position:absolute;	
+	width:75px;
+	height:13px;
+	top:235px;
+	left:460px;
+}
+#esterSaltTxt{
+	position:absolute;	
+	width:75px;
+	height:13px;
+	top:319px;
+	left:443px;
+}
+#estr_stand{
+	position:absolute;
+	left:-67px;
+	top:22px;
+	z-index:1;
+}
+#esterTesttubeWrap{
+	position:absolute;
+	width:25px;
+	height:118px;
+	left:111px;
+	top:120px;
+	z-index:0;
+}
+#estr_testtube{
+	position:relative;
+}
+#estr_testtubeSolution{
+	position:relative;
+	width: 25px;
+	height: 13px;
+	left: 3px;
+	top: -13px;
+	border-radius: 0px 0px 10px 10px;
+	background-color: #FFFFFF;
+	opacity: 0.3;
+}
+#esterFlame{
+	position:absolute;
+	left:119px;
+	top:233px;
+	opacity:0.5;
+	visibility:hidden;
+}
+#esterBurnerOff{
+	position:absolute;
+	left:98px;
+	top:304px;
+	cursor:pointer;
+	z-index:3;
+	visibility:visible;
+}
+#esterBurnerOn{
+	position:absolute;
+	left:102px;
+	top:304px;
+	cursor:pointer;
+	visibility:hidden;
+	z-index:3;
+}
+.dropperWrapers{
+	position:absolute;
+	left:210px;
+	top:23px;
+	width:18px;
+	height:95px;
+	cursor:pointer;
+}
+.droppers{
+	position:relative;
+}
+.drops{
+	position:relative;
+	left:6px;
+	top:42px;
+}
+.bottles{
+	position:absolute;
+	left:195px;
+	top:75px;
+}
+.canBottleTxt{
+	position:absolute;
+	left:181px;
+	top:134px;
+	font-family:MRKGPEN;
+	font-size:16px;
+	text-align:center;
+	width: 74px;
+}
+#esterBeakerWater{
+	position:relative;
+	width:63px;
+	height:27px;
+	left:3px;
+	top:49px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-top:solid 1px #FFFFFF;
+	border-radius: 0px 0px 7px 7px;
+}
+#esterBeakerCan{
+	position:absolute;
+}
+#esterBeakerWrapCan{
+	position:absolute;
+	width:100px;
+	height:115px;
+	top: 217px;
+	left: 240px;
+}
+#esterBeakerWaterCan{
+	position:relative;
+	width:92px;
+	height:42px;
+	left:4px;
+	top:71px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-top:solid 1px #FFFFFF;
+	border-radius: 0px 0px 17px 17px;
+}
+.esterDropArea{
+	position:absolute;
+	width:24px;
+	height:111px;
+	left:114px;
+	top:7px;
+}
+#esterFinalSol{
+	position:absolute;
+	width:6px;
+	height:0px;
+	left:271px;
+	top:183px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-radius:0px 4px 0px 0px;
+}
+#esterInferenceWrap{
+	position:absolute;
+	left:283px;
+	top:144px;
+}
+#esterConfTxt{
+	left:6px;
+	top:-55px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#acetateWatchglass{    /*Confirmation of acetate*/
+	position:absolute;
+	left:19px;
+	top:285px;
+}
+#acetateSalt{
+	position:absolute;
+	left:55px;
+	top:290px;
+}
+#acetateControls{
+	position:absolute;
+	left:360px;
+	width:195px;
+	height:331px;
+	z-index:3;
+}
+#acetateHeading{
+	position:absolute;
+	width:195px;
+	top:2px;
+	left:28px;
+	font-weight:800;
+}
+#actWGlass{
+	position:absolute;
+	top: 117px;
+	left: 38px;
+}
+#actSodiumBottle{
+	position:absolute;
+	top: 117px;
+	left: 114px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding: 0px 0px 0px 6px;
+}
+#actSodium{
+	position:absolute;
+	top: 69px;
+	left: -6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 6px;
+}
+#actContainer{	
+	position: absolute;
+	width: 195px;
+	height: 150px;
+	top: 8px;
+	left: 0px;
+}
+#actOxalic{
+	position: absolute;
+	width: 80px;
+	height: 28px;
+	top: 179px;
+	left: 72px;
+	z-index: 4;
+}
+#actOxalicTxt{
+	position:absolute;
+	top: 212px;
+	left: 82px;
+}
+#actOxalicAcid{
+	position: absolute;
+	top: 182px;
+	left: 88px;
+	z-index: 4;
+}
+#actOxalicAcidDrag{
+	position: absolute;
+	top: 183px;
+	left: 97px;
+	width:30px;
+	height:9px;
+	cursor:pointer;
+	z-index: 4;
+	
+}
+#act_hand{
+	position:absolute;
+	width: 50px;
+	height: 33px;
+	top: 248px;
+	left: 92px;
+	z-index:6;
+}
+#act_text1_2{
+	position:absolute;
+	top: 286px;
+	left: 101px;
+}
+#act_Wglass{
+	position:absolute;	
+	width:40px;
+	height:14px;
+	top: 84px;
+	left: 52px;
+}
+
+#actDropperWraper{
+	position:absolute;
+	left:267px;
+	top:176px;
+	width:18px;
+	height:95px;
+}
+#actDropper{
+	position:relative;
+}
+#actDrop{
+	position:relative;
+	left:6px;
+	top:42px;
+}
+#act_Item1Img{
+	position:absolute;
+	width: 25px;
+	height: 53px;
+	top: 38px;
+	left: 0px;
+}
+#act_drag1Item{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 7px;
+}
+#act_dragItem1_1{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 144px;
+
+}
+#act_waterTxt{
+	position:absolute;
+	left:238px;
+	top:289px;
+	font-family:MRKGPEN;
+	font-size:16px;
+	text-align:center;
+	width: 74px;
+}
+#acetateSaltDrag{
+	position:absolute;
+	left:65px;
+	top:305px;
+	width:30px;
+	height:9px;
+	z-index:3;
+	cursor:pointer;
+}
+#act_dropperDrop{
+	position:absolute;
+	left:170px;
+	top:30px;
+	width:20px;
+	height:120px;
+}
+#actConfTxt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position:absolute;
+	left:187px;
+	top:102px;
+	width:163px;
+	height:28px;
+	text-align:center;
+}
+#act_tooltip{	
+	position:absolute;
+	left:187px;
+	top:92px;
+}
+/*Potassium Permanganate Test */
+.ctrlDroper{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	z-index:0;
+}
+.dropArea{
+	position:absolute;
+	width: 30px;
+	height: 118px;
+}
+.testtubeStand{
+	position:absolute;
+	left:-67px;
+	top:22px;
+	z-index:1;
+}
+.flame{
+	position:absolute;
+	left:119px;
+	top:233px;
+	opacity:0.5;
+	display:none;
+}
+.burnerOff{
+	position:absolute;
+	left:98px;
+	top:304px;
+	cursor:pointer;
+	z-index:3;
+}
+.burnerOn{
+	position:absolute;
+	left:102px;
+	top:304px;
+	cursor:pointer;
+	display:none;
+	z-index:3;
+}
+/*Confirmation of acetate(Ester test)*/
+#esterWatchglass{
+	position:absolute;
+	left:416px;
+	top:282px;
+}
+#esterSalt{
+	position:absolute;
+	left:454px;
+	top:287px;
+}
+#esterSaltDrag{
+	position:absolute;
+	left:462px;
+	top:289px;
+	width:20px;
+	height:9px;
+	z-index:3;
+	cursor:pointer;
+}
+#ester_h2so4{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 424px;
+	cursor:pointer;
+}
+#ester_h2so4_dropperCtrl{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 9px;
+}
+#ester_h2so4_bottleCtrl{
+	position:absolute;
+	width: 30px;
+	height: 58px;
+	top: 38px;
+	left: 0px;
+}
+.ctlrBottleLabel{
+	position:absolute;
+	top: 72px;
+	left: -6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 7px;
+	height:13px;
+}
+#esterH2so4{
+	position:absolute;	
+	width:71px;
+	height:24px;
+	top: 111px;
+	left: 401px;
+}
+#ester_dragItem1_1{
+	position:absolute;
+	width: 45px;
+	height: 97px;
+	top: 10px;
+	left: 514px;
+	cursor:pointer;
+}
+#ester_dropperCtrl{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	top: 17px;
+	left: 8px;
+}
+#ester_bottleCtrl{
+	position:absolute;
+	width: 30px;
+	height: 58px;
+	top: 38px;
+	left: 0px;
+}
+#esterEthylTxt{
+	position:absolute;	
+	width:75px;
+	height:13px;
+	top:111px;
+	left:483px;
+}
+#esterBeakerCtrl{
+	position:absolute;
+	width:70px;
+	height:80px;
+}
+#esterBeakerWrap{
+	position:absolute;
+	width:70px;
+	height:80px;
+	top: 150px;
+	left: 443px;
+	cursor:pointer;
+}
+#esterBeakerTxt{
+	position:absolute;	
+	width:75px;
+	height:13px;
+	top:235px;
+	left:460px;
+}
+#esterSaltTxt{
+	position:absolute;	
+	width:75px;
+	height:13px;
+	top:319px;
+	left:443px;
+}
+#estr_stand{
+	position:absolute;
+	left:-67px;
+	top:22px;
+	z-index:1;
+}
+#esterTesttubeWrap{
+	position:absolute;
+	width:25px;
+	height:118px;
+	left:111px;
+	top:120px;
+	z-index:0;
+}
+#estr_testtube{
+	position:relative;
+}
+#estr_testtubeSolution{
+	position:relative;
+	width: 25px;
+	height: 13px;
+	left: 3px;
+	top: -16px;
+	border-radius: 0px 0px 10px 10px;
+	background-color: #FFFFFF;
+	opacity: 0.3;
+}
+#esterFlame{
+	position:absolute;
+	left:119px;
+	top:233px;
+	opacity:0.5;
+	visibility:hidden;
+}
+#esterBurnerOff{
+	position:absolute;
+	left:98px;
+	top:304px;
+	cursor:pointer;
+	z-index:3;
+	visibility:visible;
+}
+#esterBurnerOn{
+	position:absolute;
+	left:102px;
+	top:304px;
+	cursor:pointer;
+	visibility:hidden;
+	z-index:3;
+}
+.dropperWrapers{
+	position:absolute;
+	left:210px;
+	top:23px;
+	width:18px;
+	height:95px;
+	cursor:pointer;
+}
+.droppers{
+	position:relative;
+}
+.drops{
+	position:relative;
+	left:0px;
+	top:62px;
+}
+.dropsCtrl{
+	position:relative;
+	left:7px;
+	top:9px;
+}
+.bottles{
+	position:absolute;
+	left:195px;
+	top:75px;
+}
+.canBottleTxt{
+	position:absolute;
+	left:181px;
+	top:134px;
+	font-family:MRKGPEN;
+	font-size:16px;
+	text-align:center;
+	width: 74px;
+}
+#esterBeakerWater{
+	position:relative;
+	width:63px;
+	height:27px;
+	left:3px;
+	top:49px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-top:solid 1px #FFFFFF;
+	border-radius: 0px 0px 7px 7px;
+}
+#esterBeakerCan{
+	position:absolute;
+}
+#esterBeakerWrapCan{
+	position:absolute;
+	width:100px;
+	height:115px;
+	top: 217px;
+	left: 240px;
+}
+#esterBeakerWaterCan{
+	position:relative;
+	width:92px;
+	height:42px;
+	left:4px;
+	top:71px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-top:solid 1px #FFFFFF;
+	border-radius: 0px 0px 17px 17px;
+}
+.esterDropArea{
+	position:absolute;
+	width:24px;
+	height:111px;
+	left:114px;
+	top:7px;
+}
+#esterFinalSol{
+	position:absolute;
+	width:6px;
+	height:0px;
+	left:271px;
+	top:183px;
+	background-color:#FFFFFF;
+	opacity:0.2;
+	border-radius:0px 4px 0px 0px;
+}
+#esterInferenceWrap{
+	position:absolute;
+	left:283px;
+	top:144px;
+}
+#esterConfTxt{
+	left:6px;
+	top:-55px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+/*-------Confirmation of acetate(Feric Chloride Test)-----*/
+.droperCtrl{
+	position:relative;
+	width: 9px;
+	height: 45px;
+	top: 3px;
+	left: 21px;
+}
+.bottleCtrl{
+	position: relative;
+	width: 30px;
+	height: 58px;
+	top: 38px;
+	left: 0px;
+}
+.bottleLblCtrl{
+	position: relative;
+	top: 12px;
+	left: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	padding: 0px 0px 0px 7px;
+}
+#feric_Water{
+	position:absolute;
+	left:416px;
+	top:25px;
+}
+#feric_Hcl{
+	position:absolute;
+	left:490px;
+	top:25px;
+}
+#ferricStand{
+	position:absolute;
+	left:230px;
+	top:230px;
+	z-index:2;
+}
+.testtubeStand{
+	position:absolute;
+	left:-67px;
+	top:22px;
+	z-index:1;
+}
+#feric_testtubeSolutions{
+	position:absolute;
+	width: 25px;
+	height: 0px;
+	left: 113px;
+	top: 240px;
+	border-radius: 0px 0px 10px 10px;
+	background-color: #d93b37;
+	opacity: 0.9;
+}
+.flame{
+	position:absolute;
+	left:119px;
+	top:233px;
+	opacity:0.5;
+	display:none;
+}
+.burnerOff{
+	position:absolute;
+	left:98px;
+	top:304px;
+	cursor:pointer;
+	z-index:3;
+}
+.burnerOn{
+	position:absolute;
+	left:102px;
+	top:304px;
+	cursor:pointer;
+	display:none;
+	z-index:3;
+}
+.ctrlDroper{
+	position:absolute;
+	width: 9px;
+	height: 45px;
+	z-index:0;
+}
+.dropArea{
+	position:absolute;
+	width: 30px;
+	height: 118px;
+}
+/*------Silver nitrate test of chloride------*/
+.cl_sn_buble{
+	position:absolute;
+	width:3px;
+	height:3px;
+	border-radius:3px;
+	border:solid 1px #FFFFFF;
+	opacity:.6;
+	top:22px;
+	z-index:2;
+	display:none;
+}

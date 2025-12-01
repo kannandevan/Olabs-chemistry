@@ -1,0 +1,1759 @@
+.varTitle {
+    list-style-type: decimal;
+}
+.varBox,.varTitle,#type,.trip-content,.labName,.mainTitle p,.main p{
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+
+#canvasBox
+{
+    -moz-user-select: none; 
+    -webkit-user-select: none; 
+    -ms-user-select:none; 
+    user-select:none;
+    -o-user-select:none;
+}
+/* #canvasBox
+{
+    -moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;
+} */
+
+#board
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board1
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board2
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board3
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board4
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board5
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#board6
+{
+    position: absolute;
+    top: -8px;
+    left: 184px;
+}
+#bg
+{
+    position: absolute;
+    top: -5px;
+}
+#bg1
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+#bg2
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+#bg3
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+#bg4
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+#bg5
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+#bg6
+{
+    position: absolute;
+    top: -5px;
+    /* display: none; */
+}
+.questionLayout {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #0d102eed;
+ 
+    top: 0%;
+    z-index: 1000;
+ 
+}
+.questionNumber
+{
+    position: absolute;
+    width: 100%;
+    height: 12%;
+    background-color: #c0c1c900;
+    top: 2%;
+    border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 3%;
+    font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 82%;
+    font-family: 'Inconsolata';
+}
+.questionText
+{
+    position: absolute;
+    color: #cac9cbb3;
+    top: 18%;
+    left: 3%;
+    /* background-color: rgb(36, 14, 66); */
+    width: 94%;
+    height: 21%;
+}
+.questionTextAlignment
+{
+    position: absolute;
+    width: 94%;
+    height: 75%;
+    top: 11%;
+    left: 2%;
+    font-size: .9rem;
+    color: #fcf8f8;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: not-allowed;
+}
+.OptionOne
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 38%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionTwo
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 52%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionThree
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 66%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionFour
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 76%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.optionTestDesign {
+    position: absolute;
+    color: #ffffff;
+    font-size: .8rem;
+    top: 20%;
+    left: 5%;
+}
+.optionNo
+{
+    padding-right: 7px;
+}
+#reset
+{
+    position: absolute;
+    left: 20%;
+    top: 88%;
+}
+#figure1
+{
+    position: absolute; 
+}
+#beakerA
+{
+    position: absolute;
+    left: 5px;
+    top: 130px;
+    width: 100px;
+}
+#beakerWaterA
+{
+    position: absolute;
+    left: 12px;
+    top: 214px;
+    height: 33px;
+    width: 89px;
+}
+
+#beakerB
+{
+    position: absolute;
+    left: 117px;
+    top: 130px;
+    width: 100px;
+}
+#beakerWaterB
+{
+    position: absolute;
+    left: 124px;
+    top: 214px;
+    height: 33px;
+    width: 89px;
+}
+
+#beakerC
+{
+    position: absolute;
+    left: 230px;
+    top: 130px;
+    width: 100px;
+}
+#beakerWaterC
+{
+    position: absolute;
+    left: 237px;
+    top: 214px;
+    height: 33px;
+    width: 89px;
+}
+#beakerD
+{
+    position: absolute;
+    left: 345px;
+    top: 130px;
+    width: 100px;
+}
+#beakerWaterD
+{
+    position: absolute;
+    left: 352px;
+    top: 214px;
+    height: 33px;
+    width: 89px;
+}
+
+#dropperWithHCLLiq 
+{
+    position: absolute;
+    top: 108px;
+    left: 496px;
+    height: 97px;
+    width: 20px;
+    cursor: pointer;
+}
+#dropperHCL
+{
+    position: absolute; 
+    /* left: 471px;
+    top: 93px; */
+}
+#dropperLiquidHCL
+{
+    position: absolute; 
+    top: 50px;
+    left: 5px;
+
+}
+ 
+#bottleHCL 
+{
+    position: absolute;
+    left: 481px;
+    top: 150px;
+    height: 98px;
+    width: 50px;
+}
+#watchhydroxide
+{
+    position: absolute;
+    height: 37px;
+    width: 85px;
+    top: 256px;
+    left: 306px;
+    /* border: solid; */
+}
+#watchglass
+{
+    position: absolute;
+    top: 9px;
+    left: -4px;
+}
+#sodiHydroxide
+{
+    position: absolute;
+    top: 11px;
+    left: 24px;
+}
+
+#watchchloride
+{
+    position: absolute;
+    height: 37px;
+    width: 85px;
+    top: 256px;
+    left: 434px;
+    /* border: solid; */
+}
+#watchglasschloride
+{
+    position: absolute;
+    top: 9px;
+    left: -4px;
+}
+#sodichloride
+{
+    position: absolute;
+    top: 11px;
+    left: 24px;
+}
+#label
+{
+    position: absolute;
+    top: 292px;
+    left: 280px;
+    width: 127px;
+    height: 26px;
+}
+#label1
+{
+    position: absolute;
+    top: 293px;
+    left: 424px;
+    width: 114px;
+    height: 26px;
+}
+#nameTagHCl
+{
+    position: absolute;
+    top: 206px;
+    left: 490px;
+    width: 40px;
+    height: 30px;
+    font-weight: bold;
+    font-size: medium;
+}
+#nameTagSH
+{
+    position: absolute;
+    top: 297px;
+    left: 285px;
+    width: 124px;
+    height: 30px;
+    font-weight: bold;
+    font-size: small;
+}
+#nameTagSC
+{
+    position: absolute;
+    top: 298px;
+    left: 429px;
+    width: 124px;
+    height: 30px;
+    font-weight: bold;
+    font-size: small;
+}
+#beakerADrop
+{
+    position: absolute;
+    top: 6px;
+    left: 3px;
+    width: 100px;
+    height: 142px;
+}
+#drop1 
+{
+    position: absolute;
+    left: 56px;
+    top: 110px;
+    display: none;
+}
+#beakerBDrop
+{
+    position: absolute;
+    top: 6px;
+    left: 113px;
+    width: 100px;
+    height: 142px;
+    /* border: solid; */
+}
+#beakerCDrop
+{
+    position: absolute;
+    top: 6px;
+    left: 225px;
+    width: 100px;
+    height: 142px;
+    /* border: solid; */
+}
+#powderpour
+{
+    position: absolute; 
+    left: 163px;
+    top: 98px;
+    display: none;
+}
+#powderpour1
+{
+    position: absolute; 
+    left: 275px;
+    top: 98px;
+    display: none;
+}
+#sodiHydroxideBeaker
+{
+    position: absolute; 
+    left: 150px;
+    top: 233px;
+    display: none;
+}
+#sodichlorideBeaker
+{
+    position: absolute; 
+    left: 265px;
+    top: 233px;
+    display: none;
+}
+#sodiHydroxideTip
+{
+    position: absolute; 
+    left: -2px;
+    top: 10px;
+    display: none; 
+}
+#sodichlorideTip
+{
+    position: absolute; 
+    left: -2px;
+    top: 10px;
+    display: none; 
+}
+#instructionList
+{
+    position: left;
+    height: 295px;
+} 
+#instrDiv
+{
+    position: absolute; 
+    top: 0%; 
+}
+.varTitle
+{
+    font-size: 108%;
+    width: 90%;
+    line-height: 140%;
+    color: black;
+}
+#instructionListfig2
+{
+    position: left;
+    height: 295px;
+
+} 
+#instrDivfig2
+{
+    position: absolute; 
+    top: 0%; 
+    display: none;
+}
+.varTitlefig2
+{
+    font-size: 108%;
+    width: 97%;
+    line-height: 155%;
+    color: black;
+    
+}
+#instructionListfig4
+{
+    position: left;
+    height: 295px;
+
+} 
+#instrDivfig4
+{
+    position: absolute; 
+    top: 0%; 
+    display: none;
+}
+.varTitlefig4
+{
+    font-size: 108%;
+    width: 105%;
+    line-height: 155%;
+    color: black;
+    
+}
+
+#instructionListfig3
+{
+    position: left;
+    height: 295px;
+
+} 
+#instrDivfig3
+{
+    position: absolute; 
+    top: 0%; 
+    display: none;
+}
+.varTitlefig3
+{
+    font-size: 108%;
+    width: 97%;
+    line-height: 177%;
+    color: black;
+    
+}
+
+
+
+
+#nextFigure2
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure2:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure2:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure2:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#nextFigure3
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure3:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure3:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure3:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#nextFigure4
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure4:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure4:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure4:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#nextFigure5
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure5:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure5:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure5:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#nextFigure6
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure6:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure6:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure6:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#nextFigure7
+{
+    height: 25px;
+    width: 61px;
+    left: 485px;
+    top: 35px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 6px;
+    background-color: #0e0447;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding: -8px;
+    /* width: 195px; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    font-weight: bold;
+    box-shadow: 0 3px 31px 5px rgb(41 255 43 / 44%);
+    /* box-shadow: 0 3px 31px 5px rgba(250, 5, 5, 0.44); */
+    display: none;
+  }
+  
+  #nextFigure7:after {
+    margin-top: -10px;
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #nextFigure7:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  #nextFigure7:hover:after {
+    opacity: 1;
+    right: 10px;
+}
+#canFigure2 
+{
+    display: none;
+}
+#canFigure3
+{
+    display: none;
+}
+#canFigure4
+{
+    display: none;
+}
+#canFigure5
+{
+    display: none;
+}
+#canFigure6
+{
+    display: none;
+}
+#canFigure7
+{
+    display: none;
+}
+
+#resetfig2
+{
+    position: absolute;
+    top: 385px;
+    left: 35px;
+    display: none;
+}
+#resetfig3  
+{
+    position: absolute;
+    top: 300px;
+    left: 35px;
+    display: none;
+}
+#check 
+{
+    height: 16px;
+    width: 16px;
+    top: 42px;
+    left: 4px;
+    cursor: pointer;
+    position: absolute;
+}
+#text
+{
+    position: absolute;
+    left: 28px;
+    top: 46px;
+    width: 190px;
+    height: 18px;
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+    cursor: pointer;
+}
+#text1
+{
+    position: absolute;
+    left: 28px;
+    top: 46px;
+    width: 190px;
+    height: 18px;
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+    cursor: pointer;
+    display: none;
+}
+#circuitDiagram
+{
+    position: absolute;
+    background-color: #fbf8f8;
+    opacity: 0.8;
+    width: 562px;
+    height: 337px;
+    display: none;
+    left: 0px;
+    top: 0px;
+}
+#cork
+{
+    position: absolute;
+    top: 240px;
+    left: 68px;
+    width: 65px;
+    height: 45px;
+}
+#circutImgs
+{
+    position: absolute;
+}
+#nail2
+{
+    position: absolute;
+    top: 270px;
+    left: 181px;
+    /* width: 30px;
+    height: 77px; */
+    transform: rotate(-88deg);
+    /* display: none; */
+}
+#nail1
+{
+    position: absolute;
+    top: 240px;
+    left: 181px;
+    /* width: 30px;
+    height: 77px; */
+    transform: rotate(-88deg);
+}
+#nail1Div
+{
+    position: absolute;
+}
+#nail1DropDiv
+{
+    position: absolute;
+    top: 135px;
+    left: 50px;
+    width: 100px;
+    height: 97px;
+    /* border: solid; */
+
+}
+#nail2DropDiv
+{
+    /* position: absolute;
+    top: 170px;
+    left: 58px;
+    width: 76px;
+    height: 77px; */
+    /* border: solid; */
+
+    position: absolute;
+    top: 135px;
+    left: 50px;
+    width: 100px;
+    height: 97px;
+    display: none;
+    /* border: solid; */
+}
+#batter6V
+{
+    position: absolute;
+    top: 145px;
+    left: 173px;
+    /* width: 185px; */
+    /* height: 95px;*/
+}
+
+
+#NailTop 
+{
+    left: 71px;
+    top: 197px;
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    /* border: solid; */
+}
+#batteryEnd 
+{
+    left: 235px;
+    top: 170px;
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    /* border: solid; */
+}
+#bulbLeft 
+{
+    left: 370px;
+    top: 155px;
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    /* border: solid; */
+}
+#Nail 
+{
+    left: 105px;
+    top: 200px;
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    /* border: solid; */
+}
+#batteryBegin 
+{
+    left: 187px;
+    top: 147px;
+    position: absolute;
+    z-index: 100;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+    border: solid;
+}
+#bulbRight 
+{
+    left: 337px;
+    top: 154px;
+    position: absolute;
+    z-index: 100;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+}
+#switchRight 
+{
+    left: 421px;
+    top: 239px;
+    position: absolute;
+    z-index: 100;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+}
+#switchLeft 
+{
+    left: 370px;
+    top: 244px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 100;
+    width: 20px;
+    height: 15px;
+    /* border: solid; */
+}
+
+#nailToBatteryTop {
+    left: 70px;
+    top: 145px;
+    position: absolute;
+    display: none;
+}
+#batteryToBulb {
+    left: 210px;
+    top: 135px;
+    /* width: 110px; */
+    /* height: 49px; */
+    position: absolute;
+    display: none;
+}
+#wireBulbRightKey 
+{
+    left: 367px;
+    top: 164px;
+    position: absolute;
+    display: none;
+}
+#switchToNail 
+{
+    left: 117px;
+    top: 176px;
+    position: absolute;
+    height: 107px;
+    display: none;
+}
+#nailLeft {
+    left: 241px;
+    top: 56px;
+    width: 36px;
+    position: absolute;
+    z-index: 100;
+    height: 38px;
+    cursor: pointer;
+} 
+#nailRight {
+    left: 301px;
+    top: 55px;
+    position: absolute;
+    z-index: 100;
+    width: 37px;
+    height: 38px;
+    cursor: pointer;
+}
+
+
+
+
+#wirePinBat1 {
+    left: 225px;
+    top: 153px;
+    width: 252px;
+    height: 122px;
+    position: absolute;
+    display: none;
+}
+#connectionDrawing {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+}
+#bulb
+{
+    position: absolute;
+    left: 346px;
+    top: 118px;
+    height: 53px;
+    width: 40px;
+}
+#keyboard
+{
+    position: absolute;
+    left: 370px;
+    top: 235px;
+    height: 34px;
+    width: 80px;
+}
+#key
+{
+    position: absolute;
+    left: 475px;
+    top: 255px;
+    /* height: 34px; */
+}
+#keyDrop
+{
+    position: absolute;
+    left: 364px;
+    top: 174px;
+    height: 99px;
+    width: 90px;
+    /* border: solid; */
+}
+#lableA
+{
+    position: absolute;
+    left: 18px;
+    top: 162px;
+}
+#lableB
+{
+    position: absolute;
+    left: 128px;
+    top: 162px;
+}
+#lableC
+{
+    position: absolute;
+    left: 243px;
+    top: 162px;
+}
+#lableD
+{
+    position: absolute;
+    left: 358px;
+    top: 162px;
+}
+#corkfront
+{
+    position: absolute;
+    left: 68px;
+    top: 243px;
+    height: 42px;
+    width: 65px;
+}
+#coperL
+{
+    position: absolute;
+    display: none;
+}
+#light
+{
+    position: absolute;
+    left: 311px;
+    top: 76px;
+    display: none;
+}
+#lightA
+{
+    position: absolute;
+    left: 305px;
+    top: 91px;
+    display: none;
+}
+#lightB
+{
+    position: absolute;
+    left: 305px;
+    top: 91px;
+    display: none; 
+}
+#lightC
+{
+    position: absolute;
+    left: 305px;
+    top: 91px;
+    display: none; 
+}
+#keyA
+{
+    position: absolute;
+    left: 490px;
+    top: 276px;
+}
+#keyB
+{
+    position: absolute;
+    left: 490px;
+    top: 276px;
+}
+#keyC
+{
+    position: absolute;
+    left: 490px;
+    top: 276px;
+}
+#keyD
+{
+    position: absolute;
+    left: 490px;
+    top: 276px;
+}
+#figure3A
+{
+    position: absolute;
+    top: 134px;
+    left: 38px;
+}
+#figure3B
+{
+    position: absolute;
+    top: 134px;
+    left: 38px;
+}
+#figure4C
+{
+    position: absolute;
+    top: 134px;
+    left: 38px;
+}
+#figure5D
+{
+    position: absolute;
+    top: 134px;
+    left: 38px;
+}
+#keyDropADiv
+{
+    position: absolute;
+    left: 357px;
+    top: 191px;
+    height: 88px;
+    width: 105px;
+}
+#keyDropBDiv
+{
+    position: absolute;
+    left: 357px;
+    top: 191px;
+    height: 88px;
+    width: 105px;
+}
+#keyDropCDiv
+{
+    position: absolute;
+    left: 357px;
+    top: 191px;
+    height: 88px;
+    width: 105px;
+}
+#keyDropDDiv
+{
+    position: absolute;
+    left: 357px;
+    top: 191px;
+    height: 88px;
+    width: 105px;
+}
+#Note
+{
+    position: absolute;
+    left: 15%;
+    height: 47%;
+    width: 66%;
+    top: 25%;
+    margin-bottom: 15px;
+    padding: 5px 14px;
+    background-color: #f5f0c1;
+    border-left: 3px solid #ffeb3b;
+    display: none;
+}
+.showNote
+{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: -1px;
+    text-align: left;
+    line-height: 170%;
+    /* display: none; */
+}
+#Note1
+{
+    position: absolute;
+    left: 2%;
+    height: 71%;
+    width: 90%;
+    top: 16%;
+    margin-bottom: 15px;
+    padding: 5px 14px;
+    background-color: #f5f0c1;
+    border-left: 3px solid #ffeb3b;
+    display: none;
+}
+.showNote1
+{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: -1px;
+    text-align: left;
+    line-height: 163%;
+    font-size: 13.5px;
+    /* display: none; */
+}
+#Note2
+{
+    position: absolute;
+    left: 15%;
+    height: 7%;
+    width: 40%;
+    top: 25%;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #f5f0c1;
+    border-left: 6px solid #ffeb3b;
+    display: none;
+}
+.showNote2
+{
+    position: absolute;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 2px;
+      line-height: 163%;
+    /* display: none; */
+}
+#Note3
+{
+    position: absolute;
+    left: 3%;
+    height: 13%;
+    width: 34%;
+    top: 16%;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #f5f0c1;
+    border-left: 6px solid #ffeb3b;
+    display: none;
+}
+.showNote3
+{
+    position: absolute;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 2px;
+      line-height: 163%;
+    /* display: none; */
+}
+#Note4
+{
+    position: absolute;
+    left: 3%;
+    height: 13%;
+    width: 34%;
+    top: 16%;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #f5f0c1;
+    border-left: 6px solid #ffeb3b;
+    display: none;
+}
+.showNote4
+{
+    position: absolute;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 2px;
+      line-height: 163%;
+    /* display: none; */
+}
+#Note5
+{
+    position: absolute;
+    left: 3%;
+    height: 13%;
+    width: 34%;
+    top: 16%;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #f5f0c1;
+    border-left: 6px solid #ffeb3b;
+    display: none;
+}
+.showNote5
+{
+    position: absolute;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 2px;
+      line-height: 163%;
+    /* display: none; */
+}
+#Note6
+{
+    position: absolute;
+    left: 3%;
+    height: 13%;
+    width: 42%;
+    top: 16%;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #f5f0c1;
+    border-left: 6px solid #ffeb3b;
+    display: none;
+}
+.showNote6
+{
+    position: absolute;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 2px;
+      line-height: 163%;
+    /* display: none; */
+}
+#hclDrop
+{
+    position: absolute;
+    left: 497px;
+    height: 7px;
+    width: 7px;
+    top: 85px;
+    /* border: solid; */
+}
+#sodiHyDrop
+{
+    position: absolute;
+    left: 338px;
+    height: 7px;
+    width: 7px;
+    top: 313px;
+}
+#sodiClDrop
+{
+    position: absolute;
+    left: 470px;
+    height: 7px;
+    width: 7px;
+    top: 313px;
+    /* border: solid; */
+}
+#NextClick1
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+#NextClick2
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+#NextClick3
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+#checkDrop
+{
+    position: absolute;
+    left: 106px;
+    height: 7px;
+    width: 7px;
+    top: 50px;
+    /* border: solid; */
+}
+#uncheckDrop
+{
+    position: absolute;
+    left: 106px;
+    height: 7px;
+    width: 7px;
+    top: 50px;
+}
+#think
+{
+    position: absolute;
+    left: 218px;
+    height: 240px;
+    width: 345px;
+    top: 77px;
+}
+#twoNailDrop
+{
+    position: absolute;
+    left: 190px;
+    height: 7px;
+    width: 7px;
+    top: 290px;
+    /* border: solid; */
+}
+#nailDraw
+{
+    position: absolute;
+    left: 79px;
+    height: 7px;
+    width: 7px;
+    top: 220px;
+}
+#bulbDraw
+{
+    position: absolute;
+    left: 331px;
+    height: 7px;
+    width: 7px;
+    top: 125px;
+    /* border: solid; */
+}
+#keyDraw
+{
+    position: absolute;
+    left: 422px;
+    height: 7px;
+    width: 7px;
+    top: 241px;
+}
+#nailkeyDraw
+{
+    position: absolute;
+    left: 366px;
+    height: 7px;
+    width: 7px;
+    top: 255px;
+}
+#keybulGlow
+{
+    position: absolute;
+    left: 475px;
+    height: 7px;
+    width: 7px;
+    top: 262px; 
+}
+#keybulGlowA
+{
+    position: absolute;
+    left: 491px;
+    height: 7px;
+    width: 7px;
+    top: 289px;
+}
+#keybulGlowB
+{
+    position: absolute;
+    left: 491px;
+    height: 7px;
+    width: 7px;
+    top: 289px;
+}
+#NextClick4
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+#keybulGlowC
+{
+    position: absolute;
+    left: 491px;
+    height: 7px;
+    width: 7px;
+    top: 289px;
+}
+#NextClick5
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+#keybulGlowD
+{
+    position: absolute;
+    left: 491px;
+    height: 7px;
+    width: 7px;
+    top: 289px;
+}
+#NextClick6
+{
+    position: absolute;
+    left: 483px;
+    height: 7px;
+    width: 7px;
+    top: 55px;
+    /* border: solid; */
+}
+.terminals {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    cursor: pointer;
+    border-radius: 75px;
+    background-color: #ff0000;
+    opacity: 0;
+}
+#labcork
+{
+    position: absolute;
+    left: 71px;
+    height: 20px;
+    width: 60px;
+    top: 295px;
+}
+#labnail
+{
+    position: absolute;
+    left: 170px;
+    height: 20px;
+    width: 60px;
+    top: 295px;
+}
+#labbattery
+{
+    position: absolute;
+    left: 180px;
+    height: 24px;
+    width: 105px;
+    top: 204px;
+}
+#labBulb
+{
+    position: absolute;
+    left: 337px;
+    height: 20px;
+    width: 60px;
+    top: 175px;
+}
+#keyholder
+{
+    position: absolute;
+    left: 368px;
+    height: 22px;
+    width: 88px;
+    top: 276px;
+}
+#labkey
+{
+    position: absolute;
+    left: 458px;
+    height: 20px;
+    width: 60px;
+    top: 277px;
+}

@@ -1,0 +1,658 @@
+.varTitle {
+	padding: 10px 0px 0px 10px;
+}
+.varTitle1 {
+	padding: 10px 0px 0px 3px;
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 500;
+}
+.contrlStyle {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #626262;
+	text-decoration: underline;
+}
+.restlStyle {
+	width:27px;
+	margin-top: 5px;/*margin-left:10px;
+	margin-top:6px;*/
+}
+
+.instructions {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 5px 0 0 30px;
+	margin: 0 0px 0 0;
+	text-align: left !important;
+	list-style-type: decimal !important;
+}
+.inferenceDiv {
+	position:absolute;
+	z-index: 4;
+	top:20px;
+	left:10px;
+	cursor:pointer;
+}
+#bottleLabel1 {
+	position:absolute;
+	z-index: 2;
+	top:286px;
+	left:10px;
+	display:inline;
+}
+#bottleLabel2 {
+	display: inline;
+	left: 387px;
+	position: absolute;
+	top: 286px;
+	z-index: 5;
+	width: 170px;
+	height: 41px;
+}
+#bottletxt {
+	color: #030303;
+	font-family: MRKGPEN;
+	font-size: 17px;
+	height: 40px;
+	left: 12px;
+	position: absolute;
+	text-align: center;
+	top: 289px;
+	width: 130px;
+	z-index: 5;
+}
+#chambertxt {
+	color: #030303;
+	font-family: MRKGPEN;
+	font-size: 18px;
+	height: 40px;
+	left: 386px;
+	position: absolute;
+	text-align: center;
+	top: 289px;
+	width: 175px;
+	z-index: 6;
+}
+#bgCanvas {
+	position:absolute;
+	top:0px;
+	z-index:1;
+}
+#inkBottle {
+	position: absolute;
+	top: 267px;
+	left: 24px;
+	display: inline;
+	z-index: 1;
+}
+#chamber {
+	display: inline;
+	left: 385px;
+	position: absolute;
+	top: 100px;
+	z-index: 5;
+	cursor:hand;
+	cursor:pointer;
+}
+#filterPaper {
+	display: inline;
+	left: 200px;
+	position: absolute;
+	top: 262px;
+	z-index: 1;
+	cursor:hand;
+	cursor:pointer;
+}
+#filterPaperOuter {
+	height: 54px;
+	left: 200px;
+	position: absolute;
+	top: 262px;
+	width: 47px;
+	z-index: 3;
+}
+#tubeInbeaker {
+	display: inline;
+	left: 280px;
+	position: absolute;
+	top: 260px;
+	z-index: 3;
+}
+#capTube{
+	cursor: pointer;
+	cursor: hand;
+	display: inline;
+	left: 200px;
+	position: absolute;
+	top: 100px;
+	z-index: 2;
+}
+#paperColor, #paperColor2, #paperColor3, #paperColorO, #paperColorY, #paperColorLGr, #paperColorDGr {
+	display: inline;
+	left: 16px;
+	position: absolute;
+	top: 37px;
+	z-index: 2;
+	display:none;
+}
+#paperColorRED, #paperColorBlue, #paperColorO2, #paperColorY2, #paperColorLGr2, #paperColorDGr2{
+	display: inline;
+	left: 16px;
+	position: absolute;
+	top: 37px;
+	z-index: 2;
+	display:none;
+}
+
+#paperColorY2{
+
+	left: 41px !important; 
+	top: 30px;
+	width: 24px;
+}
+
+#paperColorLGr2{
+
+left: 44px !important; 	
+}
+#champerDoor {
+	display: inline;
+	left: 375px;
+	position: absolute;
+	top: 77px;
+	z-index: 2;
+	cursor: pointer;
+	cursor: hand;
+}
+#scale {
+	position:absolute;
+	display:inline;
+	top:-12px;
+	left:125px;
+	z-index:5;
+	visibility:hidden;
+	cursor: pointer;
+	cursor: hand;
+}
+#clockBody {
+	position:absolute;
+	top: 70px;
+	left: 240px;
+	display:inline;
+	display:none;
+	z-index: 3;
+}
+#needle {
+	position:absolute;
+	top: 86px;
+	left: 287px;
+	display:inline;
+	display:none;
+	z-index: 3;
+}
+#waterDIV {
+	height: 2px;
+	left: 0px;
+	opacity: 0.5;
+	top: 148px;
+	width: 30px;
+	z-index: 2;
+	display:none;
+	background-color:#CCC;
+	position:absolute;
+}
+#OuterwaterDIV {
+	height: 133px;
+	left: 455px;
+	position: absolute;
+	top: 139px;
+	width: 30px;
+	z-index: 2;
+	display:none;
+	overflow:hidden;
+}
+#capTubeinkIN {
+	height: 10px;
+	left: 3px;
+	-moz-transform:rotate(17deg);
+	-webkit-transform:rotate(17deg);
+	-o-transform:rotate(17deg);
+	-ms-transform:rotate(17deg);
+	position: absolute;
+	top: 120px;
+	width: 2px;
+	z-index: 2;
+	overflow:hidden;
+}
+#inkDIV {
+	height: 1px;
+	width: 10px;
+	top:10px;
+	z-index: 2;
+	display:none;
+	background-color:#003;
+	position:absolute;
+	opacity:0.5;
+}
+
+.zoomclass {
+	height: 113px;
+	left: 285px;
+	overflow: hidden;
+	position: absolute;
+	top: 6px;
+	width: 104px;
+	z-index: 4;
+}
+.zoomclass2 {
+	height: 116px;
+	left: 48px;
+	overflow: hidden;
+	position: absolute;
+	top: 56px;
+	width: 104px;
+	z-index: 4;
+}
+
+
+#doorClick {
+	height: 25px;
+	left: 260px;
+	position: absolute;
+	top: 215px;
+	width: 80px;
+	z-index: 6;
+	cursor:pointer;
+	cursor:hand;
+	display:none;
+}
+.door {
+	position: absolute;
+	z-index: 4;
+}
+#door1 {
+	display:none;
+	left: 164px;
+	top: 20px;
+}
+#door2 {
+	display:none;
+	left: 162px;
+	top: -160px;
+}
+#resltImg1, #resltImg2, #resltImg3, #resltImg4, #resltImg5 {
+	display:none;
+	width:15px;
+	height:15px;
+	margin-left: 7px;
+  	margin-top: -4px;
+}
+#resltImg6, #resltImg7, #resltImg8, #resltImg9, #resltImg10, #resltImg11, #resltImg12, #resltImg13, #resltImg14 {
+	display:none;
+	width:15px;
+	height:15px;
+	margin-left: 7px;
+  	margin-top: -4px;
+}
+
+
+#toolTip {
+	display: inline;
+	left: 390px;
+	position: absolute;
+	top: 205px;
+	z-index: 7;
+	display:none;
+}
+#tipTxt {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 500;
+	left: 2px;
+	padding: 10px 0 0 3px;
+	position: absolute;
+	top: 8px;
+}
+#readingTxt1 {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	left: 250px;
+	padding: 10px 0 0 3px;
+	position: absolute;
+	top: 256px;
+	z-index: 2;
+	display:none;
+}
+#readingTxt2 {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	left: 295px;
+	padding: 10px 0 0 3px;
+	position: absolute;
+	top: 256px;
+	z-index: 2;
+	display:none;
+}
+#readingTxt3 {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	left: 340px;
+	padding: 10px 0 0 3px;
+	position: absolute;
+	top: 256px;
+	z-index: 2;
+	display:none;
+}
+/*,#simpledistDiv1,#simpledistDiv2,#simpledistDiv3,#simpledistDiv4,#simpledistDiv5,#simpledistDiv6,#simpledistDiv7,#simpledistDiv8,#simpledistDiv9,
+#simpledistDiv10*/
+#popup, #popup2 {
+	position: absolute;
+	display:inline;
+	display:none;
+	z-index: 5;
+}
+
+
+#pouring_objectDiv {
+	position: absolute;
+	display:inline;
+	display:none;
+	height: 502px;
+	left: -36px;
+	top: -94px;
+	width: 607px;
+	z-index: 3;
+}
+#waterpouring_objectDiv {
+	position: absolute;
+	display:inline;
+	display:none;
+	height: 75px;
+	left: 342px;
+	top: 127px;
+	width: 50px;
+	z-index: 3;
+}
+#oilpouring_objectDiv {
+	position: absolute;
+	display:inline;
+	display:none;
+	height: 75px;
+	left: 342px;
+	top: 127px;
+	width: 50px;
+	z-index: 3;
+}
+#soln_inFunnel {
+	position: absolute;
+	display:inline;
+	display:none;
+	z-index: 3;
+	left:344px;
+	top:128px;
+}
+#soln_forRotation {
+	position: absolute;
+	display:inline;
+	display:none;
+	z-index: 4;
+	left:345px;
+	top:128px;
+}
+#funnel_objectDiv {
+	position: absolute;
+	display:none;
+	z-index: 4;
+	height: 100px;
+	left: 160px;
+	top: 85px;
+	width: 100px;
+	cursor:pointer;
+	cursor:hand;/*background-color: white;*/
+}
+#waterFlow {
+	position: absolute;
+	display:none;
+	height: 10px;
+	left: 368px;
+	opacity: 0.5;
+	top: 193px;
+	width: 1px;
+	z-index: 2;
+	background-color:#CCC;
+}
+#BeakerSoln, #BeakerSoln1 {
+	position: relative;
+	height: 1px;
+	width: 56px;
+	display: inline;
+	overflow: hidden;
+	display:none;
+	z-index:4;
+	left:1px;
+	top:-3px;
+}
+#BeakerSolnimg, #BeakerSolnimg1 {
+	position: absolute;
+	top: -60px;
+	left: 0px;
+}
+#oilSepStill {
+	position: absolute;
+	display:inline;
+	left: 354px;
+	top: 148px;
+	width: 28px;
+	z-index: 3;
+	display:none;
+}
+#disableEvntDiv {
+	height: 71px;
+	left: 343px;
+	position: absolute;
+	top: 235px;
+	width: 59px;
+	z-index: 6;
+	display:none;
+}
+#filterPaperImg {
+	position:relative;
+}
+#zoomedImg {
+	position: absolute;
+	left: 250px;
+	top: 15px;
+	z-index: 2;
+	display:none;
+}
+#arrow1, #arrow2, #arrow3, #arrow4, #arrow5, #arrow6 {
+	display:none;
+	position: absolute;
+	z-index: 6;
+	width:9%;
+}
+#arrow11, #arrow21, #arrow31, #arrow41, #arrow51, #arrow61 {
+	display:none;
+	position: absolute;
+	z-index: 5;
+	width:35%;
+}
+#infersampleDiv {
+	position: absolute;
+	display: none;
+	width: 39px;
+	height: 32px;
+	left: 10px;
+	top: 41px;
+	z-index: 3;
+}
+#ZommDiv {
+ overflow: hidden;
+  position: absolute;
+  display: none;
+  width: 38%;
+  height: 161px;
+  left: 292px;
+  top: 60px;
+  z-index: 3;
+  border: 2px solid #401E03;
+  border-radius: 10px 10px 10px 10px;
+}
+#paperZoom {
+  position: absolute;
+  left: 6px;
+  top:0px;
+}
+#scaleZoom {
+  position: absolute;
+  left: 91px;
+  top: 42px;
+}
+#paperColor{
+	left: 19px;
+}
+#zoomWater{
+  position: absolute;
+  width: 88px;
+  height: 261px;
+  background-color: rgb(157, 152, 152);
+  top: 0px;
+  left: 6px;
+  z-index: 2;
+  opacity: 0.5;
+}
+#filterPaperextn{
+position: absolute;
+  left: 118px;
+  top: 58px;
+  width: 39.2px;
+  height: 45px;
+  background-color: #EBEBEB;
+  z-index: 2;
+  display: none;
+}
+
+#waterDIVxtn{
+height: 213px;
+  left: 118px;
+  opacity: 0.5;
+  top: 85px;
+  width: 39.2px;
+  z-index: 2;
+  display: none;
+  background-color: #CCC;
+  position: absolute;
+}
+#filterpeparLIne{
+position: absolute;
+  left: 19px;
+  top: 2px;
+  height: 220px;
+  width: 2px;
+  background-color: rgb(176, 175, 175);
+}
+#paperColor2second{
+  position: absolute;
+  left: 133px;
+  top: 104px;
+  display: none;
+  z-index: 3;
+}
+#paperColor3Second{
+  position: absolute;
+  left: 132px;
+  top: 87px;
+  display: none;
+  z-index: 3;
+  width: 14px;
+}
+#paperColorOsecond{
+  position: absolute;
+  left: 133px;
+  top: 94px;
+  display: none;
+  z-index: 3;
+}
+#paperColorYsecond{
+position: absolute;
+  left: 133px;
+  top: 103px;
+  display: none;
+  z-index: 3;
+}
+#paperColorLGrsecond{
+ position: absolute;
+  left: 133px;
+  top: 187px;
+  display: none;
+  z-index: 3;
+}
+#paperColorDGrsecond{
+position: absolute;
+left: 133px;
+top: 234px;
+display: none;
+  z-index: 3;
+}
+#timeText{
+ position: absolute;
+  top: 128px;
+  left: 260px;
+  font-size: 1.2em;
+  font-weight: bold;
+  z-index: 4;
+  display: none;
+}
+
+#paperColorREDsecond{
+
+  position: absolute;
+  left: 133px;
+  top: 94px;
+  display: none;
+  z-index: 3;	
+}
+#paperColorREDT{
+	display: inline;
+	left: 16px;
+	position: absolute;
+	top: 37px;
+	z-index: 2;
+	display:none;	
+}
+#zoomInnnerDiv{
+	position: absolute;
+  top: 56px;
+  left: 0px;
+  width: 215px;
+  height: 443px;
+  cursor: all-scroll;
+}
+#zoomInnnerDivTop{
+  position: absolute;
+  top: -243px;
+  left: -5px;
+  height: 636px;
+  width: 232px;
+}
+#canvasBox{
+
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

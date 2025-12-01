@@ -1,0 +1,634 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.sim-controls {
+    display: none !important ;
+}
+.sim-canvas {
+    /* width: 100% !important; */
+    overflow: hidden;
+}
+.sim-div{
+    width: 97% !important;
+}
+.varTitle{
+font-size: 1.6vw;
+}
+#page1Div{
+    width: 100%;
+    height: 100%;
+}
+.userSelect {
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+.optStyle {
+    /* margin-top: -4%; */
+    margin-right: 1%;
+    margin-left: 6%;
+    cursor: pointer;
+    background-color: #fd8700ba;
+    color: black;
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+.optStyle:hover{
+    transform: scale(110%);
+}
+.optStyle > p {
+    text-align: center;
+    margin-top: 7%;
+    font-size: 9px;
+    font-weight: 1000;
+}
+#buttonDiv{
+    margin-top: 5%;
+}
+/* #nextButton2,#nextButton3,#nextButton4{
+    display: none;
+} */
+#nextButton{
+    position: absolute;
+    left: 85%;
+    top: 7%;
+    width: 11%;
+    /* display: none; */
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+.titlestyle {
+    position: absolute;
+    left: 4%;
+    top: -3%;
+    font-size: 21px;
+    font-weight: 1000;
+    color: #ffe300;
+}
+#pourline,#beakerWaterA,#powderfall,#porcelain2,#burnerOn,#verticalcut,#inference,#thermoread
+{
+display: none;
+}
+.main p {
+	overflow: visible;
+}
+.optText {
+    margin-left: -25%;
+    text-align: center;
+    font-size: 13px !important;
+    line-height: 20% !important;
+    margin-bottom: 12%;
+}
+.options {
+    cursor: pointer;
+    margin-left: 12%;
+    margin-bottom: 5%;
+    background-color: #fd8700ba;
+    color: black;
+    width: 73%;
+    height: 20px;
+    /* border: 1px solid black; */
+}
+.options:hover{
+    box-shadow: 0px 0px 10px 5px rgba(255,167,0,0.75);
+-webkit-box-shadow: 0px 0px 10px 5px rgba(255,167,0,0.75);
+-moz-box-shadow: 0px 0px 10px 5px rgba(255,167,0,0.75);
+}
+.options > p {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+#inference {
+    cursor: pointer;
+    position: absolute;
+    left: 92%;
+    top: 10%;
+    width: 3.5vw;
+    /* height: 10%; */
+}
+#bg{
+	width: 100%;
+    height: 100%;
+}
+#burner {
+    position: absolute;
+    width: 17%;
+    left: 0.8%;
+    z-index: 1;
+    top: 62%;
+}
+#burnerOn {
+    position: absolute;
+    width: 3%;
+    left: 10%;
+    z-index: 1;
+    top: 75%;
+}
+#burnerOff {
+    position: absolute;
+    width: 3%;
+    left: 10%;
+    z-index: 1;
+    top: 75%;
+}
+#tripod {
+    position: absolute;
+    width: 21%;
+    left: 64%;
+    z-index: 0;
+    top: 24%;
+}
+#wiregause {
+    position: absolute;
+    width: 22%;
+    left: 22%;
+    z-index: 0;
+    top: 80%;
+}
+#wholeBeakerA {
+    position: absolute;
+    left: 25%;
+    z-index: 0;
+    top: 36%;
+    z-index: 0;
+    width: 10%;
+}
+#beakerA{
+    width: 100%;
+}
+#beakerWaterA {
+    position: absolute;
+    width: 88.5%;
+    height: 62%;
+    left: 8.5%;
+    z-index: 0;
+    top: 35%;
+}
+#wholeBottle {
+    position: absolute;
+    left: 39%;
+    z-index: 0;
+    top: 41%;
+    width: 6%;
+    text-align: center;
+}
+#bottle{
+width: 100%;
+}
+#botlabel{ 
+    font-weight: 1000;
+    font-size: 0.75vw;   
+    font-family: sans-serif;
+
+}
+#botlabdiv {
+    position: absolute;
+    width: 88.5%;
+    height: 44%;
+    left: 12.5%;
+    top: 52%;
+    font-size: 1vw;
+    font-weight: bold;
+}
+#pourline {
+    position: absolute;
+    left: -291%;
+    top: 1%;
+    height: 2%;
+    width: 292%;
+}
+#dropA {
+    position: absolute;
+    left: 3%;
+    top: 16%;
+    width: 26%;
+    height: 70%;
+    /* border: 1px solid black; */
+}
+#dropB {
+    position: absolute;
+    left: 24%;
+    top: 8%;
+    width: 17%;
+    height: 53%;
+    /* border: 1px solid black; */
+}
+
+#burnerB {
+    position: absolute;
+    width: 22%;
+    height: 23%;
+    left: 0%;
+    z-index: 1;
+    top: 60%;
+}
+#tripodB {
+    position: absolute;
+    width: 23%;
+    left: 6%;
+    z-index: 0;
+    top: 53%;
+}
+#wiregauseB {
+    position: absolute;
+    width: 26%;
+    left: 4%;
+    z-index: 0;
+    top: 51%;
+}
+#wholeBeakerB {
+    position: absolute;
+    left: 10%;
+    z-index: 0;
+    top: 30%;
+    width: 14%;
+    height: 31%;
+}
+#beakerB {
+    width: 96%;
+}
+#beakerWaterB {
+    position: absolute;
+    width: 82%;
+    height: 34%;
+    left: 10.5%;
+    z-index: 0;
+    top: 42%;
+}
+
+#wholeWatchglassA {
+    position: absolute;
+    left: 48%;
+    z-index: 0;
+    top: 64%;
+    width: 14%;
+}
+#watchglassA {
+    width: 100%;
+}
+#porcelain {
+    position: absolute;
+    left: 21%;
+    z-index: 1;
+    top: 11%;
+    width: 60%;
+}
+#porclabdiv {
+    position: absolute;
+    left: 46%;
+    z-index: 0;
+    top: 71%;
+    width: 19%;
+    /* height: 12%; */
+    text-align: center;
+}
+#porclabel {
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#porclabelbg {
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -10.5%;
+    top: 22%;
+    z-index: 0;
+}
+#tripoddiv{
+    position: absolute;
+    left: 67%;
+    z-index: 8;
+    top: 60%;
+    width: 15%;
+    text-align: center;
+}
+#tripodlabel{
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#tripodlabelbg{
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -8.5%;
+    top: 22%;
+    z-index: 0;
+}
+#burnerdiv{
+    position: absolute;
+    left: 7%;
+    z-index: 8;
+    top: 89%;
+    width: 15%;
+    text-align: center;
+}
+#burnerlabel{
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#burnerlabelbg{
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -8.5%;
+    top: 22%;
+    z-index: 0;
+}
+#beakerdiv{
+    position: absolute;
+    left: 22%;
+    z-index: 8;
+    top: 61%;
+    width: 15%;
+    text-align: center;
+}
+#beakerlabel{
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#beakerlabelbg{
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -8.5%;
+    top: 22%;
+    z-index: 0;
+}
+#thermolabdiv {
+    position: absolute;
+    left: 83%;
+    z-index: 8;
+    top: 81%;
+    width: 15%;
+    text-align: center;
+}
+#thermolabel {
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#thermolabelbg {
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -8.5%;
+    top: 22%;
+    z-index: 0;
+}
+#wirelabdiv {
+    position: absolute;
+    left: 27%;
+    z-index: 0;
+    top: 85%;
+    width: 13%;
+    text-align: center;
+}
+#wirelabel {
+    position: relative;
+    font-weight: 1000;
+    font-size: 1vw;
+    font-family: sans-serif;
+    z-index: 2;
+}
+#wirelabelbg {
+    position: absolute;
+    width: 120.5%;
+    height: 59%;
+    left: -10.5%;
+    top: 22%;
+    z-index: 0;
+}
+#wholeThermostandA {
+    position: absolute;
+    width: 12%;
+    height: 62%;
+    top: 56%;
+    left: 86%;
+}
+#thermostand{
+    width: 100%;   
+}
+#thermostandTop {
+    position: absolute;
+    top: 11.5%;
+    left: 34.8%;
+    width: 58.2%;
+    z-index: 3;
+    height: 14.4%;
+}
+#thermometer {
+    position: absolute;
+    left: 90%;
+    top: 35%;
+    width: 1%;
+    padding: 1%;
+    height: 38%;
+    z-index: 1;
+}
+
+#dropC {
+    position: absolute;
+    width: 20%;
+    height: 34%;
+    /* border: 1px solid black; */
+    top: 0%;
+    left: 7%;
+}
+#powderfall {
+    position: absolute;
+    left: 14.5%;
+    top: 21%;
+    width: 2%;
+    height: 24%;
+}
+#porcelain2 {
+    position: absolute;
+    left: 23%;
+    z-index: 1;
+    top: 80%;
+    width: 60%;
+}
+#verticalcut {
+    position: absolute;
+    width: 3.2%;
+    /* height: 0%; */
+    left: 13.4%;
+    top: 51%;
+    z-index: 1;
+}
+.cutCls{
+    position: absolute;
+    width: 65%;
+    /* z-index: 1000; */
+    /* display: none; */
+}
+#thermoread {
+    position: absolute;
+    left: 15%;
+    z-index: 0;
+    top: 11%;
+    width: 6%;
+    text-align: center;
+}
+#diagBox {
+    width: 100%;
+}
+#tempRead {
+    font-weight: 1000;
+    font-size: 0.72vw;
+}
+#templabdiv {
+    position: absolute;
+    width: 88.5%;
+    height: 44%;
+    left: 11.5%;
+    top: 4.2%;
+}
+
+
+#infDummy{
+    position: absolute;
+    /* border: solid; */
+    left: 92%;
+    top: 29%;
+    width: 1%;
+    height: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cytodivider {
+    position: absolute;
+    /* border: 1px solid black; */
+    top: 46%;
+    left: 20%;
+    width: 27%;
+    height: 9%;
+}
+#cytodivider2 {
+    position: absolute;
+    /* border: 1px solid black; */
+    top: 46%;
+    left: 48%;
+    width: 28%;
+    height: 9%;
+}
+#horizontalcutA {
+    position: absolute;
+    width: 48%;
+    left: 10.5%;
+    top: 14.5%;
+}
+#horizontalcutB {
+    position: absolute;
+    width: 48%;
+    left: 37.5%;
+    top: 14.5%;
+}
+.hcutCls{
+    position: absolute;
+    width: 99%;
+    display: none;
+}
+.hcutClsB{
+    position: absolute;
+    width: 99%;
+    display: none;
+}
+
+
+.page2,.page3,.page4{
+    display: none;
+}
+
+
+#page2Div,#page3Div,#page4Div,#page5Div,#page6Div,#page7Div,#page8Div,#page9Div,#page10Div,#page11Div{
+    display: none;
+}
+
+
+
+#reset{
+    width: 32%;
+    margin-left: 30%;
+    margin-bottom: 12%;
+    margin-top: 10%;
+}
+
+
+/* .beaker1Label{
+    position: absolute;
+    left: 4%;
+    top: 81%;
+    width: 12%;
+    height: 9%;
+}
+
+.beaker2Label{
+    position: absolute;
+    left: 85%;
+    top: 81%;
+    width: 12%;
+    height: 9%;
+} */
+
+
+

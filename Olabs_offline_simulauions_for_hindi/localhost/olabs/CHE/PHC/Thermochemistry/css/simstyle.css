@@ -1,0 +1,343 @@
+@font-face {
+	font-family:MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+.varTitle {
+	padding: 5px 0px 2px 8px !important;
+}
+.wideTxtAreaclass {
+	margin: 3px 0px 3px 5px;
+	color: #777777;
+	font-size: 11px;
+	width: 60px;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #777777;
+	font-size: 12px;
+	resize: none;
+	padding: 5px 6px;
+
+}
+.varSpace{
+	margin: 3px 0px 3px 20px ;	
+	padding-top:5px;
+}
+.varSpace2{
+	margin: 3px 0px 3px 6px;	
+	padding-top:5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.varTitleResult {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	color: #626262;
+	font-weight:bold;
+	text-decoration: underline;
+	padding: 5px 0px 2px 20px;
+}
+.labelTextClass{
+	position: absolute;
+	top:294px;
+	font-family: MRKGPEN;
+	font-size: 12px;
+	width:80px;
+	height: 28px;
+	word-wrap: break-word;
+	text-align:center;
+}
+.varResult {
+	padding: 5px 0px 10px 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #000;
+	text-align:left;
+}
+#mainDiv{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:570px;
+	height:337px;
+	overflow:hidden;
+	background:#FFF;
+	opacity:0.99;
+}
+#bg{
+	position:absolute;
+	top:-8px;
+}
+
+#apparatusUnder{
+	position: absolute;
+	top: -5px;
+    left: 259px;
+}
+#cotton{
+	position: absolute;
+	top: 191px;
+    left: 261px;
+}
+#zoomLines{
+	position: absolute;
+	top: 7px;
+    left: 320px;
+}
+#calorimeter{
+	position: absolute;
+	top: 203px;
+    left: 297px;
+}
+#holder{
+	position: absolute;
+    top: 130px;
+    left: 330px;
+}
+#beaker1Drag{
+	position: absolute;
+	top: 223px;
+    left: 42px;
+    width: 56px;
+    height: 64px;
+}
+#beaker1{
+	position: absolute;
+	top: 0px;
+    left: 0px;
+}
+#beaker2Drag{
+	position: absolute;
+	top: 223px;
+    left: 154px;
+    width: 56px;
+    height: 64px;
+}
+#beaker2{
+	position: absolute;
+	top: 0px;
+    left: 0px;
+}
+#label1{
+	position: absolute;
+	top: 288px;
+    left: 27px;
+    width: 89px;
+}
+#label2{
+	position: absolute;
+	top: 288px;
+    left: 140px;
+    width: 87px;
+}
+#beaker1Shadow{
+	position: absolute;
+	top: 284px;
+    left: 44px;
+}
+#beaker2Shadow{
+	position: absolute;
+	top: 284px;
+    left: 156px;
+}
+#solnHzl{
+	position: absolute;
+	top: 189px;
+    left: 251px;
+    width: 58px;
+    height: 5px;
+    border-radius: 1px;
+    opacity: 0.6;
+    background-color: #CCC;
+    display: none;
+}
+#solnVrl{
+	position: absolute;
+	top: 195px;
+    left: 308px;
+    width: 5px;
+    height:0px;
+    border-radius: 10px;
+    opacity: 0.3;
+    background-color: #CCC;
+    display: none;
+
+}
+#beaker1WaterDiv{
+	position: absolute;
+	top: 46px;
+    left: 3px;
+    width: 51px;
+    height: 20px;
+    border-top: solid thin #FFF;
+    overflow: hidden;
+}
+#beaker1Water{
+	position: absolute;
+    top: -35px;
+}
+#beaker2WaterDiv{
+	position: absolute;
+	top: 46px;
+    left: 3px;
+    width: 51px;
+    height: 20px;
+    border-top: solid thin #FFF;
+    overflow: hidden;
+
+}
+#beaker2Water{
+	position: absolute;
+	top: -35px;
+}
+#watchglassShadow{
+	position: absolute;
+	top: 274px;
+    left: 129px;
+}
+#watchglass{
+	position: absolute;
+	top: 269px;
+    left: 128px;
+}
+#watchglassPowder{
+	position: absolute;
+	top: 268px;
+    left: 149px;
+}
+#watchglassCuSO4Powder{
+	position: absolute;
+	top: 268px;
+    left: 149px;
+    display: none;
+}
+#zoomDiv{
+	position: absolute;
+	top: 6px;
+    left: 437px;
+    width: 117px;
+    height: 186px;
+    background-color: #324f23;
+    border-radius: 15px;
+    border:solid #FFF;
+}
+#zoomScaleDiv{
+	position: absolute;
+	top: 9px;
+    left: 441px;
+    width: 117px;
+    height: 186px;
+    overflow: hidden;
+}
+#zoomScale{
+	position: absolute;
+	top: -2294px;
+    left: 19px;
+}
+#labelText1{
+	left: 32px;
+}
+#labelText2{
+	left: 143px;
+}
+#mercury{
+	position: absolute;
+	top: 85px;
+    left: 44px;
+    width: 25px;
+    height: 105px;
+    background-color: #FE0000;
+}
+#woodToMove1{
+	position: absolute;
+	top: 186px;
+    left: 261px;
+}
+#stirrer{
+	position: absolute;
+	top: 114px;
+    left: 310px;
+}
+#thermometer{
+	position: absolute;
+	top: 9px;
+    left: 315px;
+}
+
+#woodToMove2{
+	position: absolute;
+	top: 194px;
+    left: 255px;
+}
+#beaker2Div{
+	display: block;
+}
+#watchglassDiv{
+	display: none;
+}
+#solnContainer{
+	position: absolute;
+    left: 299px;
+    width: 53px;    
+    top:286px;
+	height:0px;
+    overflow: hidden;
+}
+#apparatusSolnTop{
+	position: absolute;
+	top: 0px;
+    left: 0px;
+}
+#apparatusSoln{
+	position: absolute;
+	top: -49px;
+    left:0px;
+}
+#apparatusTop{
+	position: absolute;
+    top: 196px;
+    left: 261px;
+}
+#apparatusClose{
+    position: absolute;
+    top: 210px;
+    left: 261px;
+}
+#tempLabel{
+	 position: absolute;
+	 top: 208px;
+     left: 436px;
+     color: #FFF;
+}
+#tempVal{
+	position: absolute;
+}
+#powderDrag{
+	position: absolute;
+	top: 266px;
+    left: 153px;
+    width: 26px;
+    height: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+}
+#correct1,#correct2{
+	display:none;	
+	width:15px;
+	height:15px;
+	padding-left:15px;
+	padding-top:10px;
+}
+#tooltip1{
+	position:absolute;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	z-index:9;
+	top:105px;
+	left:200px;
+	width:105px;
+	height:28px;
+	padding-top:5px;
+	padding-left:18px;
+	display:none;	
+}

@@ -1,0 +1,1378 @@
+#bg {
+    width: 100%;
+    height: 100%;
+}
+
+#mainDiv,.control-div,#scn2_AlertDiv,.sim-btn,#simReset {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+img,.thumbs,#scn2_AlertDiv,div,.sim-btn,#simHelp,#changeScreenBtn,#simReset {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+}
+#tbDiv{
+    position: absolute;
+    left: 3%;
+    top: 42%;
+    width: 40%;
+    height: 47%;
+}
+#tb_back{
+    position: absolute;
+    left: -8%;
+    top: -29%;
+    width: 111%;
+    height: 150%;
+}
+#tb_front{
+    position: absolute;
+    left: -3%;
+    top: 8%;
+    width: 95%;
+    height: 28%;
+}
+#tb_front2{
+    position: absolute;
+    left: -3%;
+    top: 36%;
+    width: 95%;
+    height: 28%;
+}
+#tb1{
+    position: absolute;
+    left: 3%;
+    top: -23%;
+    width: 29%;
+    height: 106%;
+}
+#tb2{
+    position: absolute;
+    left: 17%;
+    top: -23%;
+    width: 29%;
+    height: 106%;
+}
+#tb3{
+    position: absolute;
+    left: 32%;
+    top: -23%;
+    width: 29%;
+    height: 106%;
+}
+#tb4{
+    position: absolute;
+    left: 47%;
+    top: -23%;
+    width: 29%;
+    height: 106%;
+}
+#tb5{
+    position: absolute;
+    left: 62%;
+    top: -23%;
+    width: 29%;
+    height: 106%;
+}
+#ccDiv{
+    position: absolute;
+    left: 45%;
+    top: 17%;
+    /* border: solid; */
+    width: 19%;
+    height: 43%;
+}
+#ccBottle{
+    position: absolute;
+    left: 9%;
+    top: 14%;
+    width: 85%;
+    height: 82%;
+}
+#ccLabel{
+    position: absolute;
+    left: 41%;
+    top: 58%;
+    width: 29%;
+    height: 24%;
+}
+#dwDiv{
+    position: absolute;
+    left: 67%;
+    top: 49%;
+    /* border: solid; */
+    width: 18%;
+    height: 43%;
+}
+#dwBottle{
+    position: absolute;
+    left: 0%;
+    top: 7%;
+    width: 95%;
+    height: 71%;
+}
+#dwLabel{
+    position: absolute;
+    left: 61%;
+    top: 79%;
+    width: 29%;
+    height: 23%;
+}
+#acetoneDiv{
+    position: absolute;
+    left: 84%;
+    top: 21%;
+    /* border: solid; */
+    width: 14%;
+    height: 43%;
+}
+#acetoneBottle{
+    position: absolute;
+    left: 3%;
+    top: -4%;
+    width: 89%;
+    height: 109%;
+}
+#tbDrop{
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    /* border: solid; */
+    width: 41%;
+    height: 42%;
+}
+.BlueSoln{
+    position: absolute;
+    left: 6%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.BluePouring{
+    position: absolute;
+    left: 33%;
+    top: 23%;
+    height: 51%;
+    width: 38%;
+    display: none;
+}
+#tb1Soln{
+    position: absolute;
+    left: 13.5%;
+    top: 51%;
+    height: 16%;
+    width: 8%;
+    display: none;
+}
+.SecTb{
+    position: absolute;
+    left: 12%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.SecPour{
+    position: absolute;
+    left: 37%;
+    top: 21%;
+    height: 53%;
+    width: 38%;
+    display: none;
+}
+#tb2Soln{
+    position: absolute;
+    left: 28%;
+    top: 51%;
+    height: 16%;
+    width: 7%;
+    display: none;
+}
+.ThirdTb{
+    position: absolute;
+    left: 18%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.thirdPour{
+    position: absolute;
+    left: 23%;
+    top: 21%;
+    height: 53%;
+    width: 38%;
+    display: none;
+}
+#tb3Soln{
+    position: absolute;
+    left: 42.4%;
+    top: 51%;
+    height: 16%;
+    width: 8%;
+    display: none;
+}
+.ForthTb{
+    position: absolute;
+    left: 24%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.fourthPour{
+    position: absolute;
+    left: 29%;
+    top: 29%;
+    height: 45%;
+    width: 38%;
+    display: none;
+}
+#tb4Soln{
+    position: absolute;
+    left: 57.4%;
+    top: 51%;
+    height: 16%;
+    width: 8%;
+    display: none;
+}
+.FifthTb{
+    position: absolute;
+    left: 30%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.fifthPour{
+    position: absolute;
+    left: 32%;
+    top: 48%;
+    height: 36%;
+    width: 38%;
+    display: none;
+}
+#tb5Soln{
+    position: absolute;
+    left: 72.4%;
+    top: 51%;
+    height: 16%;
+    width: 8%;
+    display: none;
+}
+#ccSoln{
+    position: absolute;
+    left: 14%;
+    top: 61%;
+    width: 74.5%;
+    height: 35%;
+}
+#water{
+    position: absolute;
+    left: 8%;
+    top: 22%;
+    width: 84%;
+    height: 58%;
+}
+#tiltBlueSoln1{
+    position: absolute;
+    left: -26.5%;
+    top: 40%;
+    width: 114%;
+    height: 36%;
+    transform: rotate(80deg);
+    display: none;
+}
+#acetoneCap{
+    position: absolute;
+    left: 27%;
+    top: -8%;
+    width: 41%;
+    height: 10%;
+}
+#AlertDiv{
+    position: absolute;
+    left: 25%;
+    top: 2%;
+    width: 48%;
+    /* height: 13%; */
+    background-color: #cadbdb;
+    font-size: 1.1vw;
+    max-width: 39%;
+    display: none;
+}
+
+.firstWater{
+    position: absolute;
+    left: 6%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.fWaterPour{
+    position: absolute;
+    left: 43%;
+    top: 18%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+#A{
+    position: absolute;
+    left: 8.5%;
+    top: 40%;
+    width: 3%;
+    height: 5%;
+}
+#B{
+    position: absolute;
+    left: 14%;
+    top: 40%;
+    width: 3%;
+    height: 5%;
+}
+#C{
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    width: 3%;
+    height: 5%;
+}
+#D{
+    position: absolute;
+    left: 26%;
+    top: 40%;
+    width: 3%;
+    height: 5%;
+}
+#E{
+    position: absolute;
+    left: 32%;
+    top: 40%;
+    width: 3%;
+    height: 5%;
+}
+.secWater{
+    position: absolute;
+    left: 12%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.secWaterPour{
+    position: absolute;
+    left: 30%;
+    top: 18%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+.ThirWater{
+    position: absolute;
+    left: 18%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.thiWaterPour{
+    position: absolute;
+    left: 30%;
+    top: 18%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+.fourWater{
+    position: absolute;
+    left: 24%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.fourthWaterPour{
+    position: absolute;
+    left: 48%;
+    top: 18%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+.fifthWater{
+    position: absolute;
+    left: 30%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.fifWaterPour{
+    position: absolute;
+    left: 27%;
+    top: 18%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+#waterTilted{
+    position: absolute;
+    left: -40%;
+    top: 33%;
+    width: 134%;
+    height: 36%;
+    transform: rotate(60deg);
+    display: none;
+}
+.Bwater{
+    position: absolute;
+    left: 12%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.BWaterPour{
+    position: absolute;
+    left: 33%;
+    top: 21%;
+    height: 53%;
+    width: 28%;
+    display: none;
+}
+.B_blue_pink{
+    position: absolute;
+    left: 13%;
+    top: 50%;
+    /* border: solid; */
+    width: 5%;
+    height: 23%;
+}
+.BtestAni{
+    position: absolute;
+    left: 252%;
+    top: -173%;
+    width: 235%;
+    height: 261%;
+    display: none;
+}
+#pinkSoln1{
+    position: absolute;
+    left: 25%;
+    top: -4%;
+    width: 12%;
+    height: 76%;
+    display: none;
+}
+.Cwater{
+    position: absolute;
+    left: 18%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.CWaterPour{
+    position: absolute;
+    left: 32%;
+    top:22%;
+    height: 53%;
+    width: 28%;
+    display: none;
+}
+#pinkSoln2{
+    position: absolute;
+    left: 40%;
+    top: -4%;
+    width: 12%;
+    height: 76%;
+    display: none;
+}
+#pinkSoln3{
+    position: absolute;
+    left: 55%;
+    top: -4%;
+    width: 12%;
+    height: 76%;
+    display: none;
+}
+.Dwater{
+    position: absolute;
+    left: 24%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.DWaterPour{
+    position: absolute;
+    left: 42%;
+    top: 21%;
+    height: 53%;
+    width: 24%;
+    display: none;
+}
+.Ewater{
+    position: absolute;
+    left: 30%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.EWaterPour{
+    position: absolute;
+    left: 40%;
+    top: 21%;
+    height: 53%;
+    width: 24%;
+    display: none;
+}
+#pinkSoln4{
+    position: absolute;
+    left: 70%;
+    top: -4%;
+    width: 12%;
+    height: 76%;
+    display: none;
+}
+#inf{
+    position: absolute;
+    left: 9%;
+    top: 7%;
+    width: 7%;
+    height: 13%;
+    display: none;
+}
+.nxtbutton{
+    position: absolute;
+    left: 82%;
+    top: 4%;
+    padding: 0%;
+    background-color: orange;
+    width: 12%;
+    font-size: 1.5vw;
+    height: 9%;
+    font-weight: bold;
+    /* border-radius: 14%; */
+    font-family: Times new roman;
+    display: none;
+}
+.nxtbutton:hover {
+    background-color: #0f0f0f; 
+    color: white;
+    cursor: pointer;
+}
+#sn2tbDiv{
+    position: absolute;
+    left: 3%;
+    top: 42%;
+    width: 40%;
+    height: 47%;
+    /* border: solid; */
+}
+#scn2_tb_back{
+    position: absolute;
+    left: -5%;
+    top: -23%;
+    width: 111%;
+    height: 150%;
+}
+#scn2_tb_front{
+    position: absolute;
+    left: 4.7%;
+    top: 15.5%;
+    width: 85.7%;
+    height: 9%;
+    z-index: 10;
+}
+#scn2_tb_front1{
+    position: absolute;
+    left: 4.6%;
+    top: 49.2%;
+    width: 85.7%;
+    height: 9%;
+    z-index: 10;
+}
+#scn2_tb1{
+    position: absolute;
+    left: -64%;
+    top: -13%;
+    width: 250%;
+    height: 134%;
+}
+#scn2_tb2{
+    position: absolute;
+    left: 16%;
+    top: -24%;
+    width: 30%;
+    height: 118%;
+}
+#scn2_tb3{
+    position: absolute;
+    left: 29%;
+    top: -24%;
+    width: 30%;
+    height: 118%;
+}
+#scn2_tb4{
+    position: absolute;
+    left: 42%;
+    top: -24%;
+    width: 30%;
+    height: 118%;
+}
+#scn2_tb5{
+    position: absolute;
+    left: 56%;
+    top: -24%;
+    width: 30%;
+    height: 118%;
+}
+#scn2_tb6{
+    position: absolute;
+    left: 69%;
+    top: -24%;
+    width: 30%;
+    height: 118%;
+}
+#scn2_X{
+    position: absolute;
+    left: 27%;
+    top: 11%;
+    width: 62%;
+    height: 10%;
+}
+#scn2_A{
+    position: absolute;
+    left: 14%;
+    top: 41.5%;
+    width: 3%;
+    height: 4%;
+}
+#scn2_B{
+    position: absolute;
+    left: 19%;
+    top: 41.5%;
+    width: 3%;
+    height: 4%;
+}
+#scn2_C{
+    position: absolute;
+    left: 24.3%;
+    top: 41.5%;
+    width: 3%;
+    height: 4%;
+}
+#scn2_D{
+    position: absolute;
+    left: 30%;
+    top: 41.5%;
+    width: 3%;
+    height: 4%;
+}
+#scn2_E{
+    position: absolute;
+    left: 35%;
+    top: 41.5%;
+    width: 3%;
+    height: 4%;
+}
+#X_div{
+    position: absolute;
+    left: 9%;
+    top: -13%;
+    width: 12%;
+    height: 89%;
+    z-index: 9;
+    /* border: solid; */
+}
+#screen2{
+    display: none;
+}
+/* #screen1{
+    display: none;
+} */
+#scn2_ccDiv{
+    position: absolute;
+    left: 45%;
+    top: 17%;
+    /* border: solid; */
+    width: 19%;
+    height: 43%;
+}
+#scn2_ccSoln{
+    position: absolute;
+    left: 14%;
+    top: 60%;
+    width: 75%;
+    height: 35%;
+}
+#scn2_ccBottle{
+    position: absolute;
+    left: 9%;
+    top: 6%;
+    width: 85%;
+    height: 89%;
+}
+#scn2_ccLabel{
+    position: absolute;
+    left: 42%;
+    top: 57%;
+    width: 25%;
+    height: 19%;
+}
+#scn2_dwDiv{
+    position: absolute;
+    left: 64%;
+    top: 49%;
+    /* border: solid; */
+    width: 18%;
+    height: 43%;
+}
+#scn2_water{
+    position: absolute;
+    left: 8%;
+    top: 25%;
+    width: 84%;
+    height: 58%;
+}
+#scn2_dwBottle{
+    position: absolute;
+    left: 0%;
+    top: 5%;
+    width: 95%;
+    height: 78%;
+}
+#scn2_dwLabel{
+    position: absolute;
+    left: 61%;
+    top: 82%;
+    width: 24%;
+    height: 19%;
+}
+#scn2_hclDiv{
+    position: absolute;
+    left: 81%;
+    top: 19%;
+    /* border: solid; */
+    width: 18%;
+    height: 37%;
+}
+#scn2_hcl{
+    position: absolute;
+    left: 8%;
+    top: 29%;
+    width: 84%;
+    height: 58%;
+}
+#scn2_hclBottle{
+    position: absolute;
+    left: 0%;
+    top: 5%;
+    width: 95%;
+    height: 83%;
+}
+#scn2_hclLabel{
+    position: absolute;
+    left: 80%;
+    top: 50%;
+    width: 21%;
+    height: 18%;
+}
+#scn2_drop1{
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    /* border: solid; */
+    width: 41%;
+    height: 42%;
+}
+#scn2_blueTilt{
+    position: absolute;
+    left: -34.5%;
+    top: 35%;
+    width: 125%;
+    height: 36%;
+    transform: rotate(80deg);
+    display: none;
+}
+.cc_first{
+    position: absolute;
+    left: 6%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.blPourAni{
+    position: absolute;
+    left: 43%;
+    top: 20%;
+    height: 53%;
+    width: 31%;
+    display: none;
+}
+#scn2_bSoln{
+    position: absolute;
+    left: 26.5%;
+    top: 46%;
+    height: 55%;
+    width: 64%;
+    display: none;
+}
+.water_first{
+    position: absolute;
+    left: 6%;
+    top: 11%;
+    /* border: solid; */
+    width: 7%;
+    height: 39%;
+}
+.WRPourAni{
+    position: absolute;
+    left: 43%;
+    top: 20%;
+    height: 53%;
+    width: 17%;
+    display: none;
+}
+#scn2_waterTilted{
+    position: absolute;
+    left: -45%;
+    top: 35%;
+    width: 136%;
+    height: 39%;
+    transform: rotate(56deg);
+    display: none;
+}
+#scn2_pink1{
+    position: absolute;
+    left: 13.5%;
+    top: -48%;
+    height: 156%;
+    width: 98%;
+    display: none;
+}
+#scn2_pinkdrop{
+    position: absolute;
+    left: 12%;
+    top: 1%;
+    /* border: solid; */
+    width: 39%;
+    height: 42%;
+}
+#pink_slant{
+    position: absolute;
+    left: -216%;
+    top: 53%;
+    height: 13%;
+    transform: rotate(85deg);
+    width: 466%;
+    display: none;
+}
+.pink_pour{
+    position: absolute;
+    left: 24%;
+    top: -65%;
+    /* border: solid; */
+    width: 11%;
+    height: 72%;
+}
+.pinkPourAni{
+    position: absolute;
+    left: 30%;
+    top: 38%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.B_pink_pour{
+    position: absolute;
+    left: 38%;
+    top: -54%;
+    /* border: solid; */
+    width: 10%;
+    height: 61%;
+}
+.BPourAni{
+    position: absolute;
+    left: 30%;
+    top: 26%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.C_pink_pour{
+    position: absolute;
+    left: 51%;
+    top: -54%;
+    /* border: solid; */
+    width: 10%;
+    height: 61%;
+}
+.CPourAni{
+    position: absolute;
+    left: 30%;
+    top: 26%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.D_pink_pour{
+    position: absolute;
+    left: 65%;
+    top: -54%;
+    /* border: solid; */
+    width: 10%;
+    height: 61%;
+}
+.DPourAni{
+    position: absolute;
+    left: 30%;
+    top: 26%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.E_pink_pour{
+    position: absolute;
+    left: 78%;
+    top: -54%;
+    /* border: solid; */
+    width: 10%;
+    height: 61%;
+}
+.EPourAni{
+    position: absolute;
+    left: 30%;
+    top: 26%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.rytval{
+    margin-left: 79%;
+    margin-top: -11%;
+    font-size: 1.5vw;
+    display: none;
+}
+.leftval{
+    margin-left: 2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ApinkSoln{
+    position: absolute;
+    left: 25%;
+    top: 34%;
+    width: 12%;
+    height: 45%;
+    display: none;
+}
+#BpinkSoln{
+    position: absolute;
+    left: 38%;
+    top: 34%;
+    width: 12%;
+    height: 45%;
+    display: none;
+}
+#CpinkSoln{
+    position: absolute;
+    left: 51%;
+    top: 34%;
+    width: 12%;
+    height: 45%;
+    display: none;
+}
+#DpinkSoln{
+    position: absolute;
+    left: 65%;
+    top: 34%;
+    width: 12%;
+    height: 45%;
+    display: none;
+}
+#EpinkSoln{
+    position: absolute;
+    left: 78%;
+    top: 34%;
+    width: 12%;
+    height: 45%;
+    display: none;
+}
+.dw_A{
+    position: absolute;
+    left: 12%;
+    top: 12%;
+    /* border: solid; */
+    width: 5%;
+    height: 35%;
+}
+.WAPour{
+    position: absolute;
+    left: 30%;
+    top: 29%;
+    height: 50%;
+    width: 63%;
+    display: none;
+}
+.dw_B{
+    position: absolute;
+    left: 17.5%;
+    top: 12%;
+    /* border: solid; */
+    width: 5%;
+    height: 35%;
+}
+.WBPour{
+    position: absolute;
+    left: 30%;
+    top: 28%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.dw_C{
+    position: absolute;
+    left: 22.5%;
+    top: 12%;
+    /* border: solid; */
+    width: 5%;
+    height: 35%;
+}
+.WCPour{
+    position: absolute;
+    left: 30%;
+    top: 29%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.dw_D{
+    position: absolute;
+    left: 28.5%;
+    top: 12%;
+    /* border: solid; */
+    width: 5%;
+    height: 35%;
+}
+.WDPour{
+    position: absolute;
+    left: 31%;
+    top: 30%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+.dw_E{
+    position: absolute;
+    left: 33.5%;
+    top: 12%;
+    /* border: solid; */
+    width: 5%;
+    height: 35%;
+}
+.WEPour{
+    position: absolute;
+    left: 30%;
+    top: 26%;
+    height: 53%;
+    width: 63%;
+    display: none;
+}
+#scn2_AlertDiv{
+    position: absolute;
+    left: 25%;
+    top: 2%;
+    width: 40%;
+    max-width: 26%;
+    font-size: 1.1vw;
+    /* height: 15%; */
+    background-color: #cadbdb;
+    display: none;
+}
+
+#AblueSoln{
+    position: absolute;
+    left: 24.5%;
+    top: -12%;
+    width: 12%;
+    height: 94%;
+    display: none;
+}
+#BblueSoln{
+    position: absolute;
+    left: 37%;
+    top: -12%;
+    width: 12.5%;
+    height: 94%;
+    display: none;
+}
+#CblueSoln{
+    position: absolute;
+    left: 50.5%;
+    top: -12%;
+    width: 12.3%;
+    height: 94%;
+    display: none;
+}
+#DblueSoln{
+    position: absolute;
+    left: 64%;
+    top: -12%;
+    width: 12.5%;
+    height: 93%;
+    display: none;
+}
+#EblueSoln{
+    position: absolute;
+    left: 77.5%;
+    top: -13%;
+    width: 12.2%;
+    height: 94%;
+    display: none;
+}
+#scn2_hclTilted{
+    position: absolute;
+    left: -39%;
+    top: 35%;
+    width: 125%;
+    height: 44%;
+    transform: rotate(56deg);
+    display: none;
+}
+#inf2{
+    position: absolute;
+    left: 9%;
+    top: 7%;
+    width: 7%;
+    height: 13%;
+    display: none;
+}
+#ace1{
+    /* margin-left: 2%; */
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ace2{
+    margin-left: 81%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ace3{
+    margin-left: 64%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ace4{
+    margin-left: 36%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ace5{
+    margin-left: 24%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#ace6{
+    margin-left: 10%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#wat1{
+    margin-left: 2%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#wat2{
+    margin-left: 12%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#wat3{
+    margin-left: 30%;
+    margin-top: 0%;
+    display: none;
+}
+#wat4{
+    margin-left: 58%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#wat5{
+    margin-left: 72%;
+    margin-top: 0%;
+    display: none;
+    font-size: 1.5vw;
+}
+#head2{
+    display: none;
+}
+#Screen2Controls{
+    display: none;
+}
+.coba1{
+    margin-left: 2%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+.coba2{
+    margin-left: 73%;
+    margin-top: -13%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w1{
+    margin-left: 2%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w2{
+    margin-left: 13%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w3{
+    margin-left: 30%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w4{
+    margin-left: 40%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w5{
+    margin-left: 66%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#w6{
+    margin-left: 80%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#s1{
+    margin-left: 2%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#s2{
+    margin-left: 71%;
+    margin-top: -11%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc1{
+    margin-left: 2%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc2{
+    margin-left: 7%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc3{
+    margin-left: 25%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc4{
+    margin-left: 37%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc5{
+    margin-left: 67%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#hc6{
+    margin-left: 72%;
+    margin-top: -2%;
+    display: none;
+    font-size: 1.5vw;
+}
+#eqn{
+    position: absolute;
+    left: 0%;
+    top: 8%;
+    width: 99%;
+    height: 86%;
+}
+#eqnDiv{
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    width: 52%;
+    height: 15%;
+    background-color: #cadbdb;
+    display: none;
+}
+#slidersample1{
+    pointer-events: none;
+}
+#slidersample2{
+    pointer-events: none;
+}
+#slidersample3{
+    pointer-events: none;
+}
+#sliderScn2{
+    pointer-events: none;
+}
+#sliderScn2a{
+    pointer-events: none;
+}
+#sliderScn2b{
+    pointer-events: none;
+}
+#sliderScn2c{
+    pointer-events: none;
+}
+#head1{
+    font-size: 1.5vw;
+}
+#head2{
+    font-size: 1.5vw;
+}
+.heading{
+    font-size: 1.5vw;
+}
+.rangeSlider{
+    width:100%; 
+}

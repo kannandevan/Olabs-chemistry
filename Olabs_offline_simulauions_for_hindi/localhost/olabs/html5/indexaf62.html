@@ -1,0 +1,663 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=PHC&exp=Chemical_Reactions&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:35:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/CHE/PHC/Chemical_Reactions/";</script>
+<link  href="../CHE/PHC/Chemical_Reactions/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../CHE/PHC/Chemical_Reactions/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<script type="text/javascript" src="../CHE/PHC/Chemical_Reactions/js/simcontrols.js"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+<script type="text/javascript" src="js/touchconvert.js"></script>
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../CHE/PHC/Chemical_Reactions/locale/en-IN/language.js'></script><!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<script type="text/javascript" language="javascript">
+var simPath="http://localhost/olabs/CHE/PHC/Chemical_Reactions/";</script>
+<div id="mainDiv">	
+	<img id="inference" src="../CHE/PHC/Chemical_Reactions/images/inference.png" />
+    <!--Animation div-->
+	<div id="resultOption">
+     	<img src="../CHE/PHC/Chemical_Reactions/images/rBoard.png"/>
+         <p id="cntrlSpan5" ></p>
+         <p id="cntrlSpan4" class="iconContrl"></p>
+         <p id="cntrlSpan3" class="iconContrl"></p>
+         <img id="correct1" src="../CHE/PHC/Chemical_Reactions/images/right.png"/>
+		 <img id="correct2" src="../CHE/PHC/Chemical_Reactions/images/wrong.png"/>
+         <div id="chemClick"></div>
+         <div id="phyClick"></div>
+         
+     </div>
+    <div id="burnMagnesium">    	
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG1.gif" id="bg1" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/dishunder1.png" id="dishunder1" />        
+             
+        <div id="helpBurnerDiv"></div>
+        <!--Loading flame and burner -->
+        <div id="scene1flame">
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene1flame1.png" class="scene1flame1" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene1flame2.png" class="scene1flame2" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene1flame3.png" class="scene1flame3" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene1flame4.png" class="scene1flame4" />
+         	<img  src="../CHE/PHC/Chemical_Reactions/images/scene1flame5.png" class="scene1flame5" />
+        </div>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/burner1.png" id="burner1" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/label1.png" id="label1" />   
+         <img  src="../CHE/PHC/Chemical_Reactions/images/litmusblue.png" id="litmusblue" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/litmusred.png" id="litmusred" /> 
+         <img  src="../CHE/PHC/Chemical_Reactions/images/powder.png" id="powder" />
+         <img  src="../CHE/PHC/Chemical_Reactions/images/powder.png" id="powderRed" />
+         <img  src="../CHE/PHC/Chemical_Reactions/images/powder.png" id="powderBlue" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/burner1off.png" id="burner1off" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/burner1on.png" id="burner1on" />        
+        
+        <div  id="spatula1Full">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/spatula1.png"  id="spatula1"/> 
+            <img  src="../CHE/PHC/Chemical_Reactions/images/whiteSpatula.png"  id="spatula1powder" /> 
+       </div> 
+        <p id="litmusLabel" class="labelClass"></p> 
+        <p id="sampleLabel" class="labelClass"></p>
+        <p id="litmusLabelconst1" class="labelClass"></p>
+        <p id="litmusLabelconst2" class="labelClass"></p>        
+        
+        <div id="tongwithAshes">
+        	<div id="tongContainer">
+        		<img  src="../CHE/PHC/Chemical_Reactions/images/tong1.png"  />
+            </div>
+            <!--Loading flame  -->
+            <div id="ashContainer">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/ashes.png" id="ashImg"/>
+            </div>
+            <div id="tong1flame">
+                <img  src="../CHE/PHC/Chemical_Reactions/images/smokes/smokes1.png" class="tong1flame1" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/smokes/smokes2.png" class="tong1flame2" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/smokes/smokes3.png" class="tong1flame3" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/smokes/smokes4.png" class="tong1flame4" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/smokes/smokes5.png" class="tong1flame5" />
+            </div>
+            <div id="sparkflame">
+                <img  src="../CHE/PHC/Chemical_Reactions/images/spark/spark1.png" class="sparkflame1" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/spark/spark2.png" class="sparkflame2" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/spark/spark3.png" class="sparkflame3" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/spark/spark4.png" class="sparkflame4" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/spark/spark5.png" class="sparkflame5" />
+            </div>
+        </div>
+       	<div id="tong1"></div> 
+        <div id="dazzle"></div> 
+         <img  src="../CHE/PHC/Chemical_Reactions/images/dishtop1.png" id="dishtop1" />          
+    </div>
+    <div id="sublimationIce">
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG2.gif" id="bg2" />  
+        <img  src="../CHE/PHC/Chemical_Reactions/images/shadow2.png" id="shadow2" />           	      
+        <img  src="../CHE/PHC/Chemical_Reactions/images/iceCubes2.png" id="iceCubes2" /> 
+        <div id="dishwaterFull2">         	
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/dishwater2.png" id="dishwater2" />
+        </div>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/dish2.png" id="dish2" />
+        <div id="dishsmoke2Div">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/dishsmoke2.png" id="dishsmoke2" />
+        </div>
+    </div>
+    <div id="Na2SO4WithBaCl2">
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG3.gif" id="bg3" />        
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/stirrer3.png" id="stirrer3"/>           	
+        <div id="bkrSolnDiv3">
+        	<div id="beakerwhiteDiv3">
+        		<img  src="../CHE/PHC/Chemical_Reactions/images/beakerwhite3.png" id="beakerwhite3" />
+            </div>
+            <img  src="../CHE/PHC/Chemical_Reactions/images/beakerwater3.png" id="beakerwater3" />
+        </div>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/beaker3.png" id="beaker3" />
+        
+        <img  src="../CHE/PHC/Chemical_Reactions/images/cork3.png" id="bCork3"/>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/cork3.png" id="nCork3"/>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/cork3.png" id="hCork3"/>
+         <div id="botBwaterDiv3">
+        	 <div id="botBwater3Container">        		
+           	 	<div  id="botBwater3">
+            		<img  src="../CHE/PHC/Chemical_Reactions/images/botwater3.png" id="botwater3Img"/>
+            	</div>
+                <div id="botBwhiteDiv3"></div>
+            </div>
+            <img  src="../CHE/PHC/Chemical_Reactions/images/bottle3.png" id="bBottle3"/>
+        </div>
+        <div id="botNwaterDiv3">
+        	<div id="botNwater3Container">   
+        		<div  id="botNwater3">
+            		<img  src="../CHE/PHC/Chemical_Reactions/images/botwater3.png" id="botNwater3Img"/>
+            	</div>
+            	<div id="botNwhiteDiv3"></div>
+            </div>
+            <img  src="../CHE/PHC/Chemical_Reactions/images/bottle3.png" id="nBottle3"/>
+        </div>
+        <div id="botHwaterDiv3">
+        	<div id="botHwater3Container">  
+                <div  id="botHwater3">
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/botwater3.png" id="botHwater3Img" />
+                 </div>
+                <div id="botHwhiteDiv3"></div>
+            </div>
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/bottle3.png" id="hBottle3"/>
+        </div>
+         <div id="whiteInfunnel">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/whiteInfunnel1.png" id="whiteInfunnel1"/>
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/whiteInfunnel2.png" id="whiteInfunnel2"/>
+        </div>
+        <div id="flask3">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/whitePdr1.png" id="whitePdr1"/>
+            <img  src="../CHE/PHC/Chemical_Reactions/images/whitePdr2.png" id="whitePdr2"/>
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/whitePowder3.png" id="whitePowder3"/>
+        	<div id="flaskSolnDiv3">         	        
+                <img  src="../CHE/PHC/Chemical_Reactions/images/flaskwater3.png" id="flaskwater3" />
+                <img  src="../CHE/PHC/Chemical_Reactions/images/flaskwhite3.png" id="flaskoffwhitewater3" />
+                <div id="flaskwhiteDiv3">
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/flaskwhite3.png" id="flaskwhite3" />                </div>                
+            </div>
+            <img  src="../CHE/PHC/Chemical_Reactions/images/flask3.png" id="flask3Img"/> 
+            
+        </div>       
+        <img  src="../CHE/PHC/Chemical_Reactions/images/label3.png" id="bLabel3"/>
+         <div id="bCork3Div"></div>
+        <div id="nCork3Div"></div>
+        <div id="hCork3Div"></div>          
+        <p id="bstring3" class="labelClass"></p> 
+        <p id="nstring3" class="labelClass"></p>
+        <p id="hstring3" class="labelClass"></p> 
+        <div id="botBselectDiv"></div>
+        <div id="botNselectDiv"></div>
+        <div id="botHselectDiv"></div>     
+    </div>
+    <div id="ironCuSO4">
+    	
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG4.gif" id="bg4" />
+        <img id="TesttubeImg" src="../CHE/PHC/Chemical_Reactions/images/Testtube.png" class="userSelect"/> 
+        <img id="TesttubeRightImg" src="../CHE/PHC/Chemical_Reactions/images/TesttubeRight.png" class="userSelect"/>
+        <div id="nail1Img" style="background-image:url(../CHE/PHC/Chemical_Reactions/images/nail1.png);" onmousedown="changeImg(this.id);"	onmouseover="dragNail(this.id);" class="ui-draggable"></div>
+        <div id="nail2Img" style="background-image:url(../CHE/PHC/Chemical_Reactions/images/nail1.png);" onmousedown="changeImg(this.id);" onmouseover="dragNail(this.id);"> </div>
+        <img id="nailInTesttube" src="../CHE/PHC/Chemical_Reactions/images/nailInTesttube.png" class="userSelect"/> 
+        <img id="TesttubegreenSolnImg" src="../CHE/PHC/Chemical_Reactions/images/TesttubegreenSoln.png" class="userSelect"/>
+        <img id="TesttubeBlueSolnImg" src="../CHE/PHC/Chemical_Reactions/images/TesttubeBlueSoln.png" class="userSelect"/>
+        <img id="TesttubeBlueSolnImgRight" src="../CHE/PHC/Chemical_Reactions/images/TesttubeBlueSoln.png" class="userSelect"/>
+        <img id="clockBody" src="../CHE/PHC/Chemical_Reactions/images/clockBody.png" class="userSelect"/>
+        <img id="needle" src="../CHE/PHC/Chemical_Reactions/images/needle.png" class="userSelect"/>
+        <div id="ThreadDiv" onClick="clickThread();"></div>
+        <div id="TestubeDiv" class="userSelect"></div>        
+        <div id="testTube" class="userSelect"></div>
+        <div id="resultdiv" class="userSelect"></div>
+        <div id="helpDiv" class="userSelect"></div>
+        <div id="tooltipLabelforClock" class="userSelect"></div> 
+        <div id="Help_testtube"></div>
+    </div>    
+    <div id="heatinCuso4">
+    	<div id="helpBurnerDiv5"></div>
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG5.gif" id="bg5" />
+        <img id="drops51" src="../CHE/PHC/Chemical_Reactions/images/drop5.png"/>
+		<img id="drops52" src="../CHE/PHC/Chemical_Reactions/images/drop5.png"/>
+		<img id="drops53" src="../CHE/PHC/Chemical_Reactions/images/drop5.png"/>
+        <!--Loading flame and burner -->
+        <div id="scene5flame">
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene5flame1.png" class="scene5flame1" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene5flame2.png" class="scene5flame2" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene5flame3.png" class="scene5flame3" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/scene5flame4.png" class="scene5flame4" />
+         	<img  src="../CHE/PHC/Chemical_Reactions/images/scene5flame5.png" class="scene5flame5" />
+        </div>
+        
+        <div id="testtube5">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/tubePowderBlue5.png" id="tubePowderBlue5" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/tubePowderWhite5.png" id="tubePowderWhite5" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/testtube5.png"/>
+        </div>
+         <div id="dprWaterDiv5">
+         	<img  src="../CHE/PHC/Chemical_Reactions/images/dropper5.png" id="dropper5" /> 
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/dropperSolution5.png" id="dropperWater5" />
+            <div id="dprWhiteDiv5">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/dropperWhite5.png" id="dropperWhite5" />         	</div>
+        </div>
+        <div id="bkrWaterDiv5">
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/beakerWater5.png" id="beakerWater5" />
+            <div id="bkrWhiteDiv5">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/beakerWhite5.png" id="beakerWhite5" />         	</div>
+        </div>
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/beakerstandburner5.png" id="beaker5" />  
+        <img  src="../CHE/PHC/Chemical_Reactions/images/burneroff5.png" id="burnerOff5" />
+        <img  src="../CHE/PHC/Chemical_Reactions/images/burneon5.png" id="burnerOn5" />
+        
+        <p id="waterLabel5" class="labelClass"></p>
+        <p id="copperLabel5" class="labelClass"></p>
+        <div id="dropperDrag5"></div>
+    </div>    
+    <div id="meltingIce">
+    	<img  src="../CHE/PHC/Chemical_Reactions/images/BG6.gif" id="bg6" />  
+        <img  src="../CHE/PHC/Chemical_Reactions/images/shadow6.png" id="shadow6" />           	      
+        <img  src="../CHE/PHC/Chemical_Reactions/images/iceCubes6.png" id="iceCubes6" /> 
+        <div id="dishwaterFull6"> 
+        	<div id="dishwhite6Full">     
+       	 		<img  src="../CHE/PHC/Chemical_Reactions/images/dishwhite6.png" id="dishwhite6" />
+            </div>
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/dishwater6.png" id="dishwater6" />
+        </div>
+        <img  src="../CHE/PHC/Chemical_Reactions/images/dish6.png" id="dish6" />
+    </div>
+    <div id="zincH2SO4">
+        <div id="litmusTest">
+            <img  src="../CHE/PHC/Chemical_Reactions/images/BG7.gif" id="bg7" />
+          	<img  src="../CHE/PHC/Chemical_Reactions/images/testtubegranule.png" id="testtube7" />
+        	<img  src="../CHE/PHC/Chemical_Reactions/images/redlitmuspaper.png" id="redPaper7" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/bluelitmuspaper.png" id="bluePaper7" />
+            <div id="zincspatula">
+     			<img  src="../CHE/PHC/Chemical_Reactions/images/granulespatula.png" id="zinc7" />
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/spatula.png" id="spatula7" />
+           	</div>
+            <p id="label7" class="labelClass"></p>
+            <p id="zincLabel7" class="labelClass"></p>
+            <img id="granuletesttube" src="../CHE/PHC/Chemical_Reactions/images/granuletesttube.png"/>
+        </div>
+       	<img id="drops" src="../CHE/PHC/Chemical_Reactions/images/drop.png"/>
+        <img id="drops2" src="../CHE/PHC/Chemical_Reactions/images/drop.png"/>
+        <img id="drops3" src="../CHE/PHC/Chemical_Reactions/images/drop.png"/>
+        <div id="bubblesBeaker">
+            <div class="bubbleBeakr" id="x1"></div>
+            <div class="bubbleBeakr" id="x2"></div>
+            <div class="bubbleBeakr" id="x3"></div>
+            <div class="bubbleBeakr" id="x4"></div>
+        </div>
+        <div id="hydrogenPopTest">
+            <img  src="../CHE/PHC/Chemical_Reactions/images/BG8.gif" id="bg8" />
+            <img  src="../CHE/PHC/Chemical_Reactions/images/testtubeholder.png" id="testtubes8" /> 
+            <img  src="../CHE/PHC/Chemical_Reactions/images/testtubestands8.png" id="stand8" /> 
+            <img  src="../CHE/PHC/Chemical_Reactions/images/corktube8.png" id="cork8" /> 
+            <div id="corkdrag"></div>
+           	<div id="zincspatula8" class="userSelect">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/spatula8.png" id="spatula8" />
+          		<img  src="../CHE/PHC/Chemical_Reactions/images/granulespatula8.png" id="zinc8" />
+            </div>
+         	<img id="granuletesttube8" src="../CHE/PHC/Chemical_Reactions/images/granuletesttube8.png"/>
+			<p id="label8" class="labelClass"></p>
+            <p id="zincLabel8" class="labelClass"></p>
+            <div id="candlediv" class="userSelect">
+                <img id="candle" src="../CHE/PHC/Chemical_Reactions/images/candle8.png" />
+                <img id="popup1" src="../CHE/PHC/Chemical_Reactions/images/popup1.png"/>
+                <img id="popup2" src="../CHE/PHC/Chemical_Reactions/images/popup2.png"/>
+                <img id="popup3" src="../CHE/PHC/Chemical_Reactions/images/popup3.png"/>
+                <img id="popup4" src="../CHE/PHC/Chemical_Reactions/images/popup4.png"/>
+                <img id="popup5" src="../CHE/PHC/Chemical_Reactions/images/popup5.png"/>
+                <div id="candleFlame" class="userSelect">
+                    <img id="stickflame1" src="../CHE/PHC/Chemical_Reactions/images/flames/flame1.png"/>
+                    <img id="stickflame2" src="../CHE/PHC/Chemical_Reactions/images/flames/flame2.png"/>
+                    <img id="stickflame3" src="../CHE/PHC/Chemical_Reactions/images/flames/flame3.png"/>
+                    <img id="stickflame4" src="../CHE/PHC/Chemical_Reactions/images/flames/flame4.png"/>
+                    <img id="stickflame5" src="../CHE/PHC/Chemical_Reactions/images/flames/flame5.png"/>
+                </div>
+        	</div>
+        </div>
+        <div id="ZnSO4NaOH">
+         	<img  src="../CHE/PHC/Chemical_Reactions/images/BG9.gif" id="bg9" />
+            <div id="testtube_div">
+                <div id="tube_white"></div>
+                <div id="test_sol">
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/testtubesolution9.png" id="tubesoln9" />
+           		</div>
+                <div id="test_solwhite">
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/testtubesolutionwhite9.png" id="solnwhite9" />
+                 </div>
+                 <img  src="../CHE/PHC/Chemical_Reactions/images/smoke1.png" id="whiteblock" /> 
+                 <img  src="../CHE/PHC/Chemical_Reactions/images/testtubeholder9.png" id="testtube9" /> 
+            </div>
+            <div id="dropper_div">
+                <div id="dropper_sol">
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/droppersolution9.png" id="droppersol9" /> 
+                </div>
+                <img  src="../CHE/PHC/Chemical_Reactions/images/dropper9.png" id="dropper9" /> 
+                <img  src="../CHE/PHC/Chemical_Reactions/images/dropperpress9.png" id="dropperpress9" /> 
+            </div>
+            <div id="bot_sol">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/bottlesolution9.png" id="soln9" /></div>
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/bottlegranule9.png" id="naohBottle9" />
+            <div id="zincspatula9" class="userSelect">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/granulesspatula9.png" id="zinc9" />
+           		<img  src="../CHE/PHC/Chemical_Reactions/images/spatula9.png" id="spatula9" />
+            </div>
+               	<img id="granuletesttube9" src="../CHE/PHC/Chemical_Reactions/images/granulestesttube9.png"/>
+            <p id="label9" class="labelClass"></p>
+            <p id="zincLabel9" class="labelClass"></p>
+         	<p id="naohLabel9" class="labelClass"></p>
+        </div>
+        <img id="waterdrop" src="../CHE/PHC/Chemical_Reactions/images/drop9.png"/>
+        <img id="waterdrops2" src="../CHE/PHC/Chemical_Reactions/images/drop9.png"/>
+        <img id="waterdrops3" src="../CHE/PHC/Chemical_Reactions/images/drop9.png"/>
+        
+        <div id="ZnSO4H2S">
+            <img  src="../CHE/PHC/Chemical_Reactions/images/BG10.gif" id="bg10" />
+       		<img  src="../CHE/PHC/Chemical_Reactions/images/kippsgranules10.png" id="kipsgranules10" />
+         	<img  src="../CHE/PHC/Chemical_Reactions/images/testtubegranules10.png" id="granuletesttube10" />
+              
+          	<div id="kippsbottomwater" class="userSelect">
+          <div id="kips_whites2">
+                <img  src="../CHE/PHC/Chemical_Reactions/images/roundflasksolutionwhite10.png" id="kipswht2" />
+                </div>
+        		
+   		  		<img  src="../CHE/PHC/Chemical_Reactions/images/roundflasksolution10.png" id="kipsol2" />
+   		 	</div>         
+         	<div id="testtub_div10"> 
+         		<img  src="../CHE/PHC/Chemical_Reactions/images/testtube10.png" id="testtube10" />  
+           		<div id="testtube_water"> 
+             <div id="tube_whites">
+                </div>
+                    <div id="testtub_sol10">  
+                        <img  src="../CHE/PHC/Chemical_Reactions/images/testtubesolution10.png" id="soln10" />
+                    </div>  
+                    <div id="testtub_solwhite10">  
+                    <img  src="../CHE/PHC/Chemical_Reactions/images/testtubewhitesolution10.png" id="solnwhite10" />
+                </div>
+            	</div>
+              
+        	</div>
+       		<div id="testtube_drag"></div>
+<!--       
+-->         <img  src="../CHE/PHC/Chemical_Reactions/images/kippsstand10.png" id="kipps10" />
+        	<div id="zincspatula10" class="userSelect">
+           		 <img  src="../CHE/PHC/Chemical_Reactions/images/spatula10.png" id="spatula10" />
+           		 <img  src="../CHE/PHC/Chemical_Reactions/images/zinc10.png" id="zinc10" />
+       		</div> 
+
+                
+        	<div id="kippswater1" class="userSelect">
+                        <div id="kips_whites">
+            	<img  src="../CHE/PHC/Chemical_Reactions/images/roundflasksolutionwhite10.png" id="kipswht1" />
+            </div> 
+        	
+   		  		<img  src="../CHE/PHC/Chemical_Reactions/images/roundflasksolution10.png" id="kipsol1" />
+   		 	</div>
+         	<div id="knob">
+         		<img  src="../CHE/PHC/Chemical_Reactions/images/kippsclose10.png" id="kipsclose" />
+               	<img  src="../CHE/PHC/Chemical_Reactions/images/kippsopen10.png" id="kipsopen" />
+            </div>               
+          	<div id="kipsbubblesBeaker">
+                <div class="kipsbubbleBeakr" id="x5"></div>
+                <div class="kipsbubbleBeakr" id="x6"></div>
+                <div class="kipsbubbleBeakr" id="x7"></div>
+                <div class="kipsbubbleBeakr" id="x8"></div>
+                <div class="kipsbubbleBeakr" id="x9"></div>
+                <div class="kipsbubbleBeakr" id="x10"></div>
+        	</div>   
+            <div id="kipsapparatusbubbles">
+                <div class="bubbleBeakr" id="x11"></div>
+                <div class="bubbleBeakr" id="x12"></div>
+                <div class="bubbleBeakr" id="x13"></div>
+                <div class="bubbleBeakr" id="x14"></div>
+                <div class="bubbleBeakr" id="x15"></div>
+        	</div>       
+            <p id="label10" class="labelClass2"></p>
+            <p id="zincLabel10" class="labelClass2"></p>
+         	<p id="kipsLabel0" class="labelClass2"></p>          
+       </div> 
+    </div> 
+</div>
+
+
+</div>
+</div>
+<div class="g198 controlHolder">
+<div class="nano has-scrollbar">
+<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+    <li>
+        <div class="varBox"> 
+        	<!--Loading drop box -->      
+        	<p class="varTitle"><span id="reaction"></span>:</p>
+            <!--Loading icons and their clicks-->  
+			<div class="container">
+                <ul class="tiles" id="container1">
+                    <li id="icon1Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon1.png" id="icon1">
+                        <div class="iconContrl" id="icon1Label">Burning magnesium in air</div>
+                    </li>
+                    <li id="icon2Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon2.png" id="icon2">
+                        <div class="iconContrl" id="icon2Label"></div>
+                    </li>
+                    <li id="icon3Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon3.png" id="icon3">
+                        <div class="iconContrl" id="icon3Label"></div>
+                    </li>
+                    <li id="icon4Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon4.png" id="icon4">
+                        <div class="iconContrl" id="icon4Label"></div>
+                    </li>
+                    <li id="icon5Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon5.png" id="icon5">
+                        <div class="iconContrl" id="icon5Label"></div>
+                    </li>
+                    <li id="icon6Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon6.png" id="icon6">
+                        <div class="iconContrl" id="icon6Label"></div>
+                    </li>
+                     <li id="icon7Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon7.png" id="icon7">
+                        <div class="iconContrl" id="icon7Label"></div>
+                    </li>
+                </ul>              
+             </div>
+             <div id="identificationTest"> 
+                <p class="varTitle" id="idntTestLabel"><span id="idntTest"></span>:</p>	
+                <ul class="tiles">
+                    <li id="icon8Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon8.png" id="icon8">
+                        <div class="iconContrl" id="icon8Label"></div>
+                    </li>
+                    <li id="icon9Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon9.png" id="icon9">
+                        <div class="iconContrl" id="icon9Label"></div>
+                    </li>
+                    <li id="icon10Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon10.png" id="icon10">
+                        <div class="iconContrl" id="icon10Label"></div>
+                    </li>
+                    <li id="icon11Click">
+                        <img src="../CHE/PHC/Chemical_Reactions/images/icon11.png" id="icon11">
+                        <div class="iconContrl" id="icon11Label"></div>
+                    </li>
+                </ul>
+             </div>   
+            <!--Loading reset button--> 
+           <input type="button" class="subButton" id="reset"/>
+          
+        </div>
+	</li>
+</ul>
+
+
+</div></div>
+<script type="text/javascript">
+ var expTitle="Chemical Reactions";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=PHC&exp=Chemical_Reactions&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:36:36 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

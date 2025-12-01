@@ -1,0 +1,499 @@
+@font-face {
+	font-family: Digiface;
+	src: url(css/Digiface.html);
+}
+.subButton {
+    width: 131px;
+	
+	}
+	
+.unselectable {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+   user-select: none;
+}
+#mainDiv {
+	overflow:hidden;
+	position:absolute;
+	height:336px;
+	width:568px;
+	top:0px;
+	left:0px;
+	background:#FFF;
+	opacity:0.99;
+}
+#BG1{
+	position:absolute;
+	top: -7px;
+	left: -7px;
+}
+#BG2{
+	position:absolute;
+	top: -7px;
+	left: -7px;
+	display:none;
+}
+#BG3{
+	position:absolute;
+	top: -7px;
+	left: -7px;
+	display:none;
+}
+/*--------- Icons--------- */
+#trueIcon{
+	position:absolute;
+	top:10px;
+	left:15px;
+	cursor:pointer;
+	z-index:9;
+}
+#susIcon{
+	position:absolute;
+	top:10px;
+	left:101px;
+	cursor:pointer;
+	z-index:9;
+}
+#colloidIcon{
+	position:absolute;
+	top:95px;
+	left:55px;
+	cursor:pointer;
+	z-index:9;
+}
+.fontcntrl{
+	position:absolute;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	color:#000;
+	text-align:center;	
+}
+#truecntrl{
+	left: 22px;
+	top: 71px;
+	width: 68px;
+	height:25px;
+	z-index:9;
+}
+#suscntrl{
+	left: 95px;
+	top: 71px;
+	width:80px;
+	height:25px;
+	z-index:9;
+}
+#colloidcntrl{
+	left: 47px;
+	top: 156px;
+	width: 102px;
+	height: 25px;
+	z-index: 9;
+}
+#trueClick{
+	width:80px;
+	height:56px;
+	top:10px;
+	left:15px;
+	position:absolute;
+	cursor:pointer;
+	z-index:9;
+	display:block;
+
+}
+#susClick{
+	width:80px;
+	height:56px;
+	top:10px;
+	position:absolute;
+	left:101px;
+	cursor:pointer;
+	z-index:9;
+}
+#colloidClick{
+	width:80px;
+	height:56px;
+	top:95px;
+	position:absolute;
+	left:55px;
+	cursor:pointer;
+	z-index:9;
+}
+
+/*--------Inference----------*/
+#inference{
+	position:absolute;
+	display:none;
+	z-index:2;
+	cursor:pointer;
+	top:7px;
+	left:2px;
+}
+/*-------Common part--------*/
+
+#solnStable{
+	position: absolute;
+	top: 114px;
+	left: 73px;
+	width: 281px;
+	height: 193px;
+	display:none;
+}
+#solnDarkBrown{
+	position: absolute;
+	top: 106px;
+	left: 46px;
+	width:25px;
+	height:70px;
+	overflow:hidden;
+}
+#solnWhite{
+	position: absolute;
+	top: 106px;
+	left: 126px;
+	width:25px;
+	height:70px;
+	overflow:hidden;
+}
+#solnBrown{
+	position: absolute;
+	top: 106px;
+	left: 205px;
+	width:25px;
+	height:70px;
+	overflow:hidden;
+}
+#solnDarkBrownImg{
+	position: absolute;
+	top:0px;
+}
+#solnWhiteImg{
+	position: absolute;
+	top:0px;
+}
+#solnBrownImg{
+	position: absolute;
+	top:0px;
+}
+#solnStable1{
+	position: absolute;
+	top: 106px;
+	left: 45px;
+}
+#solnStable2{
+	position: absolute;
+	top: 106px;
+	left: 127px;
+}
+#solnStable3{
+	position: absolute;
+	top: 106px;
+	left: 205px;
+}
+#testtubeStand1{
+	position: absolute;
+	top: 159px;
+	left: 142px;
+}
+.testtubeDrag{
+	position:absolute;
+	top: 116px;
+	width:27px;
+	height:175px;
+	cursor:pointer;
+}
+#testtubeDrag0{
+	left: 188px;
+	z-index:1;
+}
+#testtubeDrag1{
+	left: 269px;
+	z-index:1;
+}
+#testtubeDrag2{
+	left: 348px;
+	z-index:1;
+}
+#tubeWithSolution0{
+	left: 188px;
+}
+#tubeWithSolution1{
+	left: 269px;
+}
+#tubeWithSolution2{
+	left: 348px;
+}
+.soln{
+	position:absolute;
+	top:105px;
+	left:1px;
+}
+.testtube1{
+	position:absolute;
+}
+.solnLabel{
+	position:absolute;
+	top: 19px;
+	left: 7px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight:bold;
+	color: #000;
+	text-align:center;
+}
+.varTitleCanvas {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight:bold;
+	color: #000;
+	text-align:center;
+}
+#allsolnLabel{
+	position:absolute;	
+	left: 184px;
+	top: 304px;
+	width:191px;
+	height:24px;
+	z-index:999;
+}
+/*-------Transparency--------*/
+#handContainer{
+	position:absolute;
+	left: -100px;
+	top:-50px;
+	width:800px;
+	height:350px;
+}
+#handDrag{
+	position:absolute;
+	top: 0px;
+	left: 295px;
+	cursor:pointer;
+	width:283px;
+	height:100px;
+	z-index:1;
+}
+#handWithPaper{
+	position:absolute;
+	top: 54px;
+	left: 395px;
+	cursor:pointer;	
+}
+/*-------Filtration--------*/
+#filtrationsArea{
+	display:none;
+}
+#standfilter2{
+	position:absolute;	
+	left: 61px;
+	top: 23px;
+}
+#zoompaper2{
+	position:absolute;	
+	left: 192px;
+	top: 20px;
+	display:none;
+}
+#powder{
+	position:absolute;	
+	left: 372px;
+	top: 66px;
+	display:none;
+}
+#solnPour{
+	position:absolute;	
+	width: 0;
+	height: 0;
+	top: 109px;
+	left: 168px;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+	border-top: 130px solid #CCC;
+	display:none;
+}
+#funnelDiv{
+	position:absolute;	
+	width: 76px;
+	height: 212px;
+	top: 17px;
+	left: 131px;
+	display:none;
+}
+#filteredTubeSolnDiv{
+	position:absolute;	
+	width: 21px;
+	height: 5px;
+	top: 230px;
+	left: 161px;
+	overflow:hidden;
+	display:none;
+
+}
+#filteredTubeSoln{
+	position:absolute;
+	top:-47px;
+}
+#filterBlock0{
+	position: absolute;
+	width: 36px;
+	height: 170px;
+	top: 150px;
+	left: 330px;
+	z-index:1;
+	
+}
+#filterBlock1{
+	position: absolute;
+	width: 36px;
+	height: 170px;
+	top: 150px;
+	left: 387px;
+	z-index:1;
+}
+#filterBlock2{
+	position: absolute;
+	width: 36px;
+	height: 170px;
+	top: 150px;
+	left: 446px;
+	z-index:1;
+}
+/*-------Stability--------*/
+#stabilityArea{
+	display:none;
+}
+#stopwatch{
+	position:absolute;	
+	left: 395px;
+	top: 232px;
+}
+.timeLabel{
+	font-family:Digiface;	
+	font-weight:600;
+	color: #000;
+	text-align:center;
+}
+#min{
+	position:absolute;	
+	left: 413px;
+	top: 246px;
+	font-size: 12px;
+}
+#sec{
+	position:absolute;	
+	left: 441px;
+	top: 246px;
+	font-size: 12px;
+}
+#msec{
+	position:absolute;	
+	left: 481px;
+	top: 246px;
+	font-size: 12px;
+}
+#startTxt{
+	position: absolute;
+    z-index: 9999;
+    left: 392px;
+    top: 284px;
+    width: 75px;
+    height: 30px;
+    cursor: pointer;
+    color: #000;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 19px;
+    font-size: 8px;
+}
+#tickmin{
+	position:absolute;	
+	left: 410px;
+	top: 266px;
+	font-size: 14px;
+}
+#ticksec{
+	position:absolute;	
+	left: 447px;
+	top: 266px;
+	font-size: 14px;
+}
+#tickmsec{
+	position:absolute;	
+	left: 482px;
+	top: 266px;
+	font-size: 14px;
+}
+
+/*-------Tyndall Effect--------*/
+#tyndalleffectArea{
+	display:none;
+}
+#stand{
+	position:absolute;	
+	left: 8px;
+	top: 87px;
+	z-index:1;
+}
+#powerBlock{
+	position: absolute;
+	left: -300px;
+	top: 172px;
+	width: 673px;
+	height: 164px;
+}
+#power{
+	position:absolute;	
+	left: -111px;
+	top: 185px;
+	width: 471px;
+	height: 99px;
+	cursor:pointer;
+}
+#powerSource{	
+	position: absolute;
+	left: 433px;
+	top: 20px;
+}
+#darkwhite{
+	position:absolute;	
+	left:20px;
+}
+#dragBlockDiv{
+	position: absolute;
+	width: 169px;
+	height: 119px;
+	left: 371px;
+	top: 175px;
+	z-index:1;
+	display:none;
+}
+#tooltip{
+	position: absolute;
+	padding:7px 0px 0px 0px; 
+	position:absolute; 
+	display:none; 
+	width:100px; 
+	height:34px;
+	z-index:100;
+	top:0px;
+	left:0px;
+
+}
+#helpFunnel{
+	position: absolute;
+	top: 93px;
+	left: 190px;
+	width: 5px;
+	height: 5px;
+}
+#helpTesttube{
+	position: absolute;
+	top: 150px;
+	left: 400px;
+	width: 5px;
+	height: 5px;
+	
+}
+

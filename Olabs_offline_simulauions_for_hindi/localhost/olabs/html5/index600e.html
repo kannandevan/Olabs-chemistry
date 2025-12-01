@@ -1,0 +1,843 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Measure_the_change_in_temperature_during_chemical_reactions&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:46:13 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/css/simstyle.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/js/simcontrols.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/js/help.js"></script>
+
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/locale/en-IN/messages.po' />  
+<script type="text/javascript" src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/js/Gettext.js"></script><!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header --><div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/";</script>
+<canvas id="bgCanvas" style="background-image:url();" ></canvas>
+<img id="BG_Img"  class="BG-img" src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/BG.jpg">
+<div id="FirstPage" style="display: block;">
+        <div id="Beaker-1Img">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg" class="beaker-1" id="beaker-1">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/powderonspatula.svg" class="thebeaker_Powder">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="beaker1_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="beaker-1Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="waterfallto_beaker1">
+        </div>
+        <div id="Beaker-2Img">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg" class="beaker-2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="beaker-2Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="beaker2_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/powderonspatula.svg" class="thebeaker_Powder2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="waterfallto_beaker2">
+        </div>
+        <div id="Beaker-3Img">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg" class="beaker-3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="beaker-3Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="beaker3_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/powderonspatula.svg" class="thebeaker_Powder3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="waterfallto_beaker3">
+        </div>
+
+        <div id="Beaker-4Img">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg" class="beaker-4">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="beaker4_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="beaker-4Shadow">
+            <!-- Water FAlling To the Beakers -->
+            <div id="water_falling_down">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour2.svg" class="waterfallingto_Beaker2" id="Waterto_beaker_2"
+                    style="display:block">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour3.svg" class="waterfallingto_Beaker3" id="Waterto_beaker_3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour4.svg" class="waterfallingto_Beaker4" id="Waterto_beaker_4"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour5.svg" class="waterfallingto_Beaker5" id="Waterto_beaker_5"
+                    style="display:none">
+            </div>
+        </div>
+        <!-- Display Bottle-->
+        <div id="bottle">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Bottle.svg" class="first-Bottle">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Cap.svg" class="bottle-cap" id="bottle_cap">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/BottleShadow.svg" class="bottle_Shadow">
+
+            <div id="nametag_3">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="bottle_nameboard">
+                <center>
+                    <p class="bottle_Text"> Ammonium Chloride</p>
+                </center>
+            </div>
+            <!-- Bottle Name-->
+        </div>
+
+        <div id="spatula">
+            <div id="spatilawiht_powder" class="here">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Spatula.svg" class="spatula-1">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/powderonspatula.svg" class="spatula-powder">
+            </div>
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Spatulashadow.svg" class="spatula-shadow1">
+        </div>
+        <div id="weightingmachine">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WeighingMachine.svg" class="weight_machine">
+        </div>
+        <div>
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/arrowdown.svg" class="Weight_Arrowdown">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/arrowup.svg" class="Weight_Arrowup">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/tarebutton.svg" class="tare_Button">
+        </div>
+        <div id="nametag_1">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="Nameboard_1">
+            <center>
+                <p class="first_nameTag">Sodium hydroxide</p>
+            </center>
+        </div>
+        <div id="nametag_2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="Nameboard_2">
+            <p class="second_nameTag">Ammonium chloride</p>
+
+        </div>
+        <div id="nametag_3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="Nameboard_3">
+            <p class="third_nameTag">Barium hydroxide</p>
+
+        </div>
+        <div id="nametag_4">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="Nameboard_4">
+            <p class="fourth_nameTag">Water</p>
+
+        </div>
+        
+        <div>
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/powderfalling.svg" class="powder_Drop">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassrod.svg" class="glass_rod" id="glass_Rod">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassrodshadow.svg" class="glassrod_shadow" id="glasrod_shadow">
+            <div id="tare_value">
+                <p class="tare_value"> 0.0</p>
+            </div>
+            <!--  Drop Function -->
+            <div id="FirstDrop" class="Beaker1_Drop">
+            </div>
+            <div id="SecondDrop" class="Beaker2_Drop">
+            </div>
+            <div id="powder-DropArea" class="powder-DropArea">
+            </div>
+            <div id="beaker1_Droparea" style="display: none;"></div>
+            <div id="beaker2_Droparea" style="display: none;"></div>
+            <div id="beaker3_Droparea" style="display: none;"></div>
+            <!--Drop Area End-->
+
+            <div id="water_animation_Bottle1">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani1.svg" id="wateranim_1" class="waterAnimation"
+                    style="display:block">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani2.svg" id="wateranim_2" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani3.svg" id="wateranim_3" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani4.svg" id="wateranim_4" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani5.svg" id="wateranim_5" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani6.svg" id="wateranim_6" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani7.svg" id="wateranim_7" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani8.svg" id="wateranim_8" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani9.svg" id="wateranim_9" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani10.svg" id="wateranim_10" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani11.svg" id="wateranim_11" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani12.svg" id="wateranim_12" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani13.svg" id="wateranim_13" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani14.svg" id="wateranim_14" class="waterAnimation"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani15.svg" id="wateranim_15" class="waterAnimation"
+                    style="display:none">
+            </div>
+            <div id="water_animation_Bottle2">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani1.svg" id="wateranim2_1" class="waterAnimation2"
+                    style="display:block">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani2.svg" id="wateranim2_2" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani3.svg" id="wateranim2_3" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani4.svg" id="wateranim2_4" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani5.svg" id="wateranim2_5" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani6.svg" id="wateranim2_6" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani7.svg" id="wateranim2_7" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani8.svg" id="wateranim2_8" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani9.svg" id="wateranim2_9" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani10.svg" id="wateranim2_10" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani11.svg" id="wateranim2_11" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani12.svg" id="wateranim2_12" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani13.svg" id="wateranim2_13" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani14.svg" id="wateranim2_14" class="waterAnimation2"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani15.svg" id="wateranim2_15" class="waterAnimation2"
+                    style="display:none">
+            </div>
+
+            <div id="water_animation_Bottle3">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani1.svg" id="wateranim3_1" class="waterAnimation3"
+                    style="display:block">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani2.svg" id="wateranim3_2" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani3.svg" id="wateranim3_3" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani4.svg" id="wateranim3_4" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani5.svg" id="wateranim3_5" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani6.svg" id="wateranim3_6" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani7.svg" id="wateranim3_7" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani8.svg" id="wateranim3_8" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani9.svg" id="wateranim3_9" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani10.svg" id="wateranim3_10" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani11.svg" id="wateranim3_11" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani12.svg" id="wateranim3_12" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani13.svg" id="wateranim3_13" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani14.svg" id="wateranim3_14" class="waterAnimation3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani15.svg" id="wateranim3_15" class="waterAnimation3"
+                    style="display:none">
+            </div>
+
+           
+
+        </div>
+</div>
+<!-- second page starts here -->
+<div id="Second_page" >
+
+      
+
+        <div id="SecondPage_Beaker1">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="SecondPagebeaker-1" id="beaker-1">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker1_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="SecondPagebeaker-1Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="SecondPagewaterfallto_beaker1">
+        </div>
+        <div id="SecondPage_Beaker2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="SecondPagebeaker-2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="SecondPagebeaker-2Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker2_water">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="SecondPagewaterfallto_beaker2">
+        </div>
+        <div id="SecondPage_Beaker3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="beaker-3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="SecondPagebeaker-3Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker3_water">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="SecondPagewaterfallto_beaker3">
+        </div>
+
+        <div id="SecondPage_Beaker4">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="SecondPagebeaker-4">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker4_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="SecondPagebeaker-4Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="SecondPagewaterfallto_beaker4">
+        </div>
+        <div id="SecondPage_Beaker5">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="SecondPagebeaker-5">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker5_water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="SecondPagebeaker5_80mlwater">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="SecondPagebeaker-5Shadow">
+
+            <div id="water_falling_down2">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour2.svg" class="SecondpageWaterto_beaker_2"
+                    id="SecondpageWaterto_beaker_2" style="display:block">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour3.svg" class="SecondpageWaterto_beaker_3"
+                    id="SecondpageWaterto_beaker_3" style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour4.svg" class="SecondpageWaterto_beaker_4"
+                    id="SecondpageWaterto_beaker_4" style="display:none">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour5.svg" class="SecondpageWaterto_beaker_5"
+                    id="SecondpageWaterto_beaker_5" style="display:none">
+            </div>
+
+
+        </div>
+        <div id="SecondpageGlass_Bottle">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassbottle.svg" class="glassBottle_1">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterinBottle.svg" class="WaterInglassBottle">
+        </div>
+        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassbottlecap.svg" class="glassBottleCap" id="glassBottleCap">
+
+        <div id="TheSecondPage_Names">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="SecondpageNameboard_1">
+            <center>
+                <p class="Secondpagefirst_nameTag1">Sodium hydroxide</p>
+            </center>
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="SecondpageNameboard_2">
+            <center>
+                <p class="Secondpagefirst_nameTag2">Ammonium chloride</p>
+            </center>
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="SecondpageNameboard_3">
+            <center>
+                <p class="Secondpagefirst_nameTag3">Barium hydroxide</p>
+            </center>
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="SecondpageNameboard_4">
+            <center>
+                <p class="Secondpagefirst_nameTag4">Hydrochloric acid</p>
+            </center>
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="SecondpageNameboard_5">
+            <center>
+                <p class="Secondpagefirst_nameTag5"></p>
+            </center>
+        </div>
+
+        <div id="SecondpagedropArea1">
+
+        </div>
+        <div id="SecondpagedropArea2">
+
+        </div>
+        <div id="SecondpagedropArea3">
+
+        </div>
+        <div id="SecondpagedropArea4">
+
+        </div>
+
+    </div>
+<!-- Second page ends here -->
+
+<!-- third page starts here -->
+
+<div id="thirdPage" style="display: none;">
+
+
+        <div id="ThirdpageFirstBeaker">
+
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="ThirdPagebeaker-1" id="ThirdPageBeaker-1">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="ThirdPagebeaker-1Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_1water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour5.svg" class="WaterInFirstBeakerThirdPage">
+
+        </div>
+        <div id="ThirdpageSecondBeaker">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="ThirdPagebeaker-2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="ThirdPagebeaker-2Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_2water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_4mlwater">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="ThirdPagewaterfallto_beaker2">
+
+        </div>
+        <div id="ThirdpageThirdBeaker">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="ThirdPagebeaker-3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="ThirdPagebeaker-3Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_3water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERPOUR/water pour5.svg" class="WaterInThirdBeakerThirdPage">
+
+        </div>
+
+        <div id="ThirdpageFourthBeaker">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker100ml.svg" class="ThirdPagebeaker-4">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beakershadow.svg" class="ThirdPagebeaker-4Shadow">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_4water">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERINBEAKER.svg" class="ThirdPagebeaker_4mlwater2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WATERFALLING/water falling 1.svg" class="ThirdPagewaterfallto_beaker4">
+
+        </div>
+
+        <div id="temperatureVal">
+      <table id="valueTab" border="1">
+         <tr>
+            <th id="one">The temperature is <span id="temperValue"></span>&deg;C</th>
+         </tr>
+      </table>
+   </div>
+        <div id="thirdpage_nametags">
+
+            <div id="Thirdpagenametag_1">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="thirdpage_Nameboard_1">
+
+            </div>
+            <center>
+                <p class="thirdpagefirst_nameTag">Sodium hydroxide</p>
+            </center>
+
+            <div id="Thirdpagenametag_2">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="thirdpage_Nameboard_2">
+            </div>
+            <center>
+                <p class="thirdpagesecond_nameTag">Hydrochloric acid</p>
+            </center>
+
+
+            <div id="Thirdpagenametag_3">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="thirdpage_Nameboard_3">
+            </div>
+            <center>
+                <p class="thirdpagethird_nameTag">Ammonium hydroxide</p>
+            </center>
+
+            <div id="Thirdpagenametag_4">
+                <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/nameboard.svg" class="thirdpage_Nameboard_4">
+            </div>
+            <center>
+                <p class="thirdpagefourth_nameTag">Barium hydroxide</p>
+            </center>
+
+        </div>
+
+        <div id="theThermometerdiv">
+        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Thermometer full.svg" class="FullThermo_meter">
+        </div>
+        
+        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassrod.svg" class="ThirdpageGlassrod">
+
+        <div id="ThermoDrop_area1"></div>
+        <div id="ThermoDrop_area2"></div>
+        <div id="ThermoDrop_area3"></div>
+        <div id="ThermoDrop_area4"></div>
+        <div id="zoomthermometer_view">
+           
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/THERMOMETER UNDER.svg" class="thermometerBackView">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/THERMOMETER RED LINE.svg" class="thermometerRedmark">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/THERMOMETER READING.svg" class="meterReading" id="ThermometerReading">
+
+        </div>
+
+        <div id="water_animation_ThirdpageBottle2">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani1.svg" id="WaterAnimThirdpage_1"
+                class="waterAnimationThirdpage1" style="display:block">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani2.svg" id="WaterAnimThirdpage_2"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani3.svg" id="WaterAnimThirdpage_3"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani4.svg" id="WaterAnimThirdpage_4"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani5.svg" id="WaterAnimThirdpage_5"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani6.svg" id="WaterAnimThirdpage_6"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani7.svg" id="WaterAnimThirdpage_7"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani8.svg" id="WaterAnimThirdpage_8"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani9.svg" id="WaterAnimThirdpage_9"
+                class="waterAnimationThirdpage1" style="display:none ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani10.svg" id="WaterAnimThirdpage_10"
+                class="waterAnimationThirdpage1" style="display:none   ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani11.svg" id="WaterAnimThirdpage_11"
+                class="waterAnimationThirdpage1" style="display:none   ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani12.svg" id="WaterAnimThirdpage_12"
+                class="waterAnimationThirdpage1" style="display:none   ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani13.svg" id="WaterAnimThirdpage_13"
+                class="waterAnimationThirdpage1" style="display:none   ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani14.svg" id="WaterAnimThirdpage_14"
+                class="waterAnimationThirdpage1" style="display:none   ">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani15.svg" id="WaterAnimThirdpage_15"
+                class="waterAnimationThirdpage1" style="display:none   ">
+        </div>
+
+
+        <div id="water_animation_ThirdpageBottle3">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani1.svg" id="WaterAnimThirdpage2_1"
+                class="waterAnimationThirdpage1" style="display:block">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani2.svg" id="WaterAnimThirdpage2_2"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani3.svg" id="WaterAnimThirdpage2_3"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani4.svg" id="WaterAnimThirdpage2_4"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani5.svg" id="WaterAnimThirdpage2_5"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani6.svg" id="WaterAnimThirdpage2_6"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani7.svg" id="WaterAnimThirdpage2_7"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani8.svg" id="WaterAnimThirdpage2_8"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani9.svg" id="WaterAnimThirdpage2_9"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani10.svg" id="WaterAnimThirdpage2_10"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani11.svg" id="WaterAnimThirdpage2_11"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani12.svg" id="WaterAnimThirdpage2_12"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani13.svg" id="WaterAnimThirdpage2_13"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani14.svg" id="WaterAnimThirdpage2_14"
+                class="waterAnimationThirdpage1" style="display:none">
+            <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/WaterAnimation/Waterstirani15.svg" id="WaterAnimThirdpage2_15"
+                class="waterAnimationThirdpage1" style="display:none">
+        </div>
+        <div id="Inference_message">
+            <center>
+                <p id="TheReactionMessage" class="TheMessages"> </p>
+            </center>
+
+        </div>
+
+        <img src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/inference.png" class="thirdpage-inference" id="the_inferenceButton">
+        <img src="../CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/alert.png" class="thirdpage-Warning" id="the_WarningButton">
+
+
+
+        
+    </div>
+
+    <div id="helpdiv">
+            
+            </div>
+
+
+
+<!-- third page ends here -->
+
+<input type="button" id="btn_Nxt"  value="NEXT">
+<input type="button" id="btn_Nxt2" value="NEXT"></div>
+</div>
+<div class="g198 controlHolder">
+<div class="nano has-scrollbar">
+<script type="text/javascript" language="javascript">var simPath = "http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/";</script>
+<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+    <li>
+        <p id="InstructionTag" class="InstructionClass">
+            Click the bottle:
+        </p>
+        <div id="controls2" class="contols2">
+            <div id="rowa">
+                <div id="rowa1" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="solution1" class="firstpageLeftControls solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Bottle.svg">
+                        </center>
+                    </div>
+                    <div class="bottle_caps">
+                        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Cap.svg" class="bottle_cap1">
+
+                    </div>
+                    <div class="Bootle1_text">
+                        Sodium hydroxide
+                    </div>
+                </div>
+                <div id="rowa2" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="solution2" class="firstpageLeftControls solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Bottle.svg" style="pointer-events: none;">
+                        </center>
+                    </div>
+                    <div class="bottle_caps">
+                        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Cap.svg" class="bottle_cap1">
+
+                    </div>
+                    <div class="Bootle1_text">
+                        Ammonium chloride
+                    </div>
+                </div>
+            </div>
+            <div class="bottle_center">
+                <div id="rowa3" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="solution3" class="firstpageLeftControls solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Bottle.svg" style="pointer-events: none;">
+                        </center>
+                    </div>
+                    <div class="bottle_caps">
+                        <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Cap.svg" class="bottle_cap3">
+
+                    </div>
+                    <div class="Bootle1_text">
+                        Barium hydroxide
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second Page controls starts here -->
+
+        <div id="controls2" class="contols3">
+
+            <div class="bgColorDiv">
+            </div>
+            <div class="bgColorDiv2">
+            </div>
+            <div class="bgColorDiv3">
+            </div>
+            <div class="bgColorDiv4">
+            </div>
+
+            <div id="rowa">
+                <div id="rowa1" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="Secondpage_solution1" class="Bottle solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg">
+                    </div>
+                    <div class="bottle_caps">
+                    </div>
+                    <div class="Bootle1_text">
+                        Sodium hydroxide
+                    </div>
+                </div>
+                <div id="rowa2" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="Secondpage_solution2" class="Bottle solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg">
+                    </div>
+                    <div class="bottle_caps">
+
+
+                    </div>
+                    <div class="Bootle1_text">
+                        Ammonium chloride
+                    </div>
+                </div>
+            </div>
+            <div class="bottle_center2">
+                <div id="rowa1" class="controlsText">
+
+                    <div class="backsoap">
+                        <center><img id="Secondpage_solution3" class="thirdrdcontrolbeaker solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Beaker.svg">
+                    </div>
+                    <div class="bottle_caps">
+
+
+                    </div>
+                    <div class="Bootle3_text">
+                        Barium hydroxide
+                    </div>
+                </div>
+            </div>
+            <div class="bottles_center2">
+                <div id="rowa2" class="controlsText">
+                    <div class="backsoap">
+                        <center><img id="Secondpage_solution4" class="Bottle2 solution"
+                                src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassbottle.svg">
+                    </div>
+                    <img src="http://localhost/olabs/CHE/INC/Measure_the_change_in_temperature_during_chemical_reactions/images/Glassbottlecap.svg" class="ImgBottle_cap">
+                    <div class="bottle_caps">
+                    </div>
+                    <div class="Bootle2_text">
+                        Hydrochloric acid
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- second page conrols ends here -->
+        <div class="varBox">
+            </p>
+            <!--Loading buttons-->
+            <p align="center"><input type="button" class="subButton" name="reset" value="Reset" id="ResetWindow" /></p>
+            <br />
+        </div>
+    </li>
+</ul></div></div>
+<script type="text/javascript">
+ var expTitle="Measure the change in Temperature during Chemical Reactions";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Measure_the_change_in_temperature_during_chemical_reactions&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:46:18 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

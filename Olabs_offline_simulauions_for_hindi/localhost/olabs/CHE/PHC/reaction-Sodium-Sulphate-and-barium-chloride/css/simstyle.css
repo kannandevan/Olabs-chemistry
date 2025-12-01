@@ -1,0 +1,348 @@
+
+#canvasBox {
+	overflow:hidden;
+}
+
+.instructions {
+	color: #626262;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 5px 0 0 30px;
+	margin: 0 0px 0 0;
+	text-align: left !important;
+	list-style-type: decimal !important;
+}
+
+.varTitle_1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #626262;
+	text-align:left !important;
+}
+
+#bottleBaCl2 {
+	position:absolute;
+	display:inline;
+	top:160px;
+	left:280px;
+	cursor:pointer;
+	z-index:3;
+}
+
+#bariumDiv {
+	position:absolute;
+	display:inline;
+	top:101px;
+	left:300px;
+	cursor:pointer;
+	z-index:2;
+}
+
+#bottleSoln1 {
+	position:absolute;
+	left: 280px;
+	top: 182px;
+	display:inline;
+	z-index:2;
+}
+
+#bottleSoln2 {
+	position:absolute;
+	left: 370px;
+	top: 182px;
+	display:inline;
+	z-index:2;
+}
+
+#bottleSoln3 {
+	position:absolute;
+	left: 460px;
+	top: 182px;
+	display:inline;
+	z-index:2;
+}
+
+#dropperSoln1, #dropperSoln2, #dropperSoln3 {
+	position:absolute;
+	left: 7px;
+	top: 59px;
+	z-index:2;
+}
+
+#drops1 {
+	position:absolute;
+	width:4px;
+	height:5px;
+	left:210px;
+	top:245px;
+	z-index:1;
+	display:none;
+}
+
+#drops2 {
+	position:absolute;
+	width:4px;
+	height:5px;
+	left:210px;
+	top:260px;
+	display:none;
+	z-index:1;
+}
+
+#sodiumDiv {
+	position:absolute;
+	display:inline;
+	top:101px;
+	left:390px;
+	cursor:pointer;
+	z-index:2;
+}
+
+#bottleNa2SO4 {
+	position:absolute;
+	display:inline;
+	top:160px;
+	left:370px;
+	cursor:pointer;
+	z-index:3;
+}
+
+.flaskDiv {
+	height: 5px;
+	left: 195px;
+	position: absolute;
+	top: 125px;
+	width: 25px;
+	z-index: 5;
+}
+
+#hclDiv {
+	position:absolute;
+	display:inline;
+	top:101px;
+	left:480px;
+	cursor:pointer;
+	z-index:2;
+}
+
+#bottledil_HCl {
+	position:absolute;
+	display:inline;
+	top:160px;
+	left:460px;
+	cursor:pointer;
+	z-index:3;
+}
+
+.inferenceDiv {
+	position:absolute;
+	width:45px;
+	height:45px;
+	top:5px;
+	left:5px;
+	cursor:pointer;
+}
+
+#inferMsg {
+	position:absolute;
+	width:192px;
+	height:70px;
+	top:10px;
+	left:50px;
+	padding:10px 0 0 10px;
+}
+
+#messageDiv {
+	position:absolute;
+	width:130px;
+	height:40px;
+	top:30px;
+	left:10px;
+	padding:30px 0 0 5px;
+}
+
+#testtubeZoom, #zoommilky, #zoomhcl {
+	position:absolute;
+	top: 10px;
+	left: -80px;
+	display:none;
+	display:inline;
+	z-index:6;
+}
+
+#testtube {
+	position:absolute;
+	top:130px;
+	left:195px;
+	cursor: pointer;
+	display:inline;
+	z-index:4;
+}
+
+#testtubeSoln {
+	position:absolute;
+	top:292px;
+	left:196px;
+	height:5px;
+	width:24px;
+	display:inline;
+	display:none;
+	z-index:3;
+	overflow:hidden;
+}
+
+#testtubeppt {
+	position:absolute;
+	top:288px;
+	left:196px;
+	display:inline;
+	display:none;
+	z-index:2;
+	opacity:0.1;
+	overflow:hidden;
+}
+
+
+/*#pptDIV{
+	position:absolute;
+	top:288px;
+	left
+	opacity:0.1;
+	height:15px;
+	width:24px;
+	display:inline;
+	display:none;
+	z-index:2;
+	overflow:hidden;
+	
+}
+#testtubepptStill {
+	position:absolute;
+	top:288px;
+	left:196px;
+	display:inline;
+	display:none;
+	z-index:2;
+	
+	
+}*/
+
+
+#testtubeSolnimg {
+	position:absolute;
+	top:-150px;
+	left:0px;
+}
+
+#solnmilky {
+	position:absolute;
+	top:-150px;
+	left:0px;
+	opacity:0.1;
+}
+
+#Beaker {
+	position:absolute;
+	top:160px;
+	left:30px;
+	display:inline;
+}
+
+#BeakerSoln {
+	position: absolute;
+	top: 290px;
+	left: 34px;
+	height: 2px;
+	width: 105px;
+	display: inline;
+	overflow: hidden;
+	display:none;
+}
+
+#BeakerSolnimg {
+	position: absolute;
+	top: -100px;
+	left: 0px;
+}
+
+#Beakershadow {
+	position:absolute;
+	top:290px;
+	left:30px;
+	display:inline;
+}
+
+#shadow1, #shadow2, #shadow3 {
+	position:absolute;
+	top:131px;
+	left:0px;
+	display:inline;
+}
+
+#back {
+	position: absolute;
+	top: 285px;
+	left: 445px;
+	z-index: 6;
+	cursor:pointer;
+}
+
+#fadeDiv {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 340px;
+	width: 568px;
+	background-color:#FFF;
+	z-index: 5;
+	opacity:0.3;
+	display:none;
+}
+#labelTxt1{
+  color: #030303;
+    cursor: pointer;
+    font-family: MRKGPEN;
+    font-size: 18px;
+    left: 286px;
+    position: absolute;
+    text-align: center;
+    top: 239px;
+    width: 50px;
+    z-index: 5;
+}
+#labelTxt2{
+	  color: #030303;
+    cursor: pointer;
+    font-family: MRKGPEN;
+    font-size: 18px;
+    left: 377px;
+    position: absolute;
+    text-align: center;
+    top: 239px;
+    width: 50px;
+    z-index: 5;
+}
+#labelTxt3{
+	 color: #030303;
+    cursor: pointer;
+    font-family: MRKGPEN;
+    font-size: 18px;
+    left: 470px;
+    position: absolute;
+    text-align: center;
+    top: 242px;
+    width: 50px;
+    z-index: 5;
+}
+#backButtonText{
+    position: absolute;
+    top: 294px;
+    left: 483px;
+    z-index: 6;
+    cursor: pointer;
+    font-family: MRKGPEN;
+    font-size: 14px;
+    color: #BC6B0C;
+}

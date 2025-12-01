@@ -1,0 +1,366 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Chemical_Equillibrium&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:38:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/custom_resp.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/font.css" />
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/reset.css" />-->
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/grid.css" />-->
+<link href="template/olab_ot_rt/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="template/olab_ot_rt/css/newStyle.css" rel="stylesheet" type="text/css" />
+
+ <!-- <script src="js/jquery/jquery_v1.12.4.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+
+
+    <!-- jQuery UI 1.12.1 -->
+  <!-- <script src="js/jquery/jqueryUI_v1.12.1.js"></script> -->
+   
+  <script src="js/jquery/jquery-ui.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/INC/Chemical_Equillibrium/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+
+<script language="javascript" type="text/javascript" src="../CHE/INC/Chemical_Equillibrium/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../CHE/INC/Chemical_Equillibrium/locale/en-IN/language.js'></script>
+
+
+<style>
+
+@font-face {
+
+	font-family:MRKGPEN;
+
+	src: url(http://localhost/olabs/CHE/INC/Chemical_Equillibrium/css/MRKGPEN.TTF);
+
+}
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+<script>
+	$(document).ready(function(){
+
+		 //toggle sidebar on clicking the hamburger
+		  $("#menu-toggle").click(function(e) {
+			  e.preventDefault();
+			  $("#wrapper").toggleClass("toggled");
+			  checkWidth();
+		  });
+	
+		//show sidebar on clicking the hamburger and hide on clicking outside
+
+
+		// $('*:not(.menu-toggle)').on('click', function () {
+			// $('#wrapper').removeClass('toggled');
+		// });
+
+		checkWidth();
+		
+		//apply transformation on resizing the window viewport
+
+	
+		var windowWidth = $(window).width();
+		
+		if(windowWidth != $(window).width()){
+			checkWidth();
+		}
+		
+		$(window).resize(function() {
+			
+			checkWidth();
+			// location.reload();
+			// return;
+			
+		 });
+			
+		
+	});
+</script>
+
+</head>
+<body>
+
+
+<div class="container">
+		<div id="wrapper" class="toggled">
+			<header class="header" id="silumatorTemp">
+
+				<nav class="navbar navbar-static-top" role="navigation">   
+					<div class="title" style="display: inline-block;">
+						<p id="expName"></p>
+				
+						<a href="javascript:" class="navbar-btn sidebar-toggle hidden-md hidden-lg hidden-sm" id="menu-toggle" role="button">
+						<!--<a href="javascript:" class="navbar-btn sidebar-toggle" id="menu-toggle" role="button">-->
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+				</nav>
+				
+				<div class="navbar-right">
+					<ul id="olabmenuBar" class="nav navbar-nav">						
+						<li>
+							<a href="#">SAVE</a>
+						</li>
+						<li>
+							<a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;" >FULLSCREEN</a>	                        
+						</li>
+						<li>
+							<a href="#">EXIT</a>                         
+						</li>							
+					</ul>
+				</div>
+
+			</header><!-- /header -->
+ 
+<div id="sidebar-wrapper" class="controlHolder" style="overflow-y:scroll">
+	<div class="nano has-scrollbar">
+		
+<ul>
+		<li>
+				<div class="varBox">
+						<p class="varTitle"><span id="selectSol"></span>
+								<select class="form-control" name="soln" id="soln" onchange="solnSelection(this.id);">
+								</select>
+						</p>
+						<br/>
+						<p class="varTitle" ><span id="selectTube"></span>
+								<select class="form-control" name="tube" id="tube" onchange="controlTubeselection(this.id);">
+								</select>
+						</p>
+						<img  id="eqnImg1"  src="../CHE/INC/Chemical_Equillibrium/images/equation1.png"/>
+						<img  id="eqnImg2"  src="../CHE/INC/Chemical_Equillibrium/images/K3.png"/> <br/>
+						<br/>
+						<br />
+						<p align="center">
+								<input type="button" class="form-control" id="reset" name="reset" value="Reset" onclick="window.location.reload()" />
+						</p>
+				</div>
+		</li>
+</ul>
+	</div>
+</div>
+	
+	
+<div id="page-content-wrapper" class="canvasHolder">
+	<script type="text/javascript" language="javascript">
+	var simPath="http://localhost/olabs/CHE/INC/Chemical_Equillibrium/";
+</script>
+
+<!--<div id="dropper1" style="border:1px solid;"><img  id="dropper1"width:600px; height:500px; position:absolute; left:-50px; top:-40px; src="../CHE/INC/Chemical_Equillibrium/images/dropper.png"/><img  id="solnIndropper2" src="../CHE/INC/Chemical_Equillibrium/images/soln_dropper.png"/> </div>-->
+
+
+<div id="animLoad4" style="height: 250px; width: 180px; left: 75px; top: 40px; position:absolute; visibility:hidden; display:inline;"></div>
+
+
+<!--<img  id="testtube" class="zoomTarget" data-debug="true" src="../CHE/INC/Chemical_Equillibrium/images/testtube.png" />-->
+
+<img  id="testtubeA"  src="../CHE/INC/Chemical_Equillibrium/images/testtube.png" />
+<p id="tubeATxt" class="lablinstructions">A</p>
+<img  id="testtubeASolnimg"  src="../CHE/INC/Chemical_Equillibrium/images/testsolution1.png" />
+<img  id="testtubeASolnChangeimg1"  src="../CHE/INC/Chemical_Equillibrium/images/Fe%2bFeCl3.png" />
+<img  id="testtubeB"  src="../CHE/INC/Chemical_Equillibrium/images/testtube.png" />
+<p id="tubeBTxt" class="lablinstructions">B</p>
+<img  id="testtubeBSolnimg"  src="../CHE/INC/Chemical_Equillibrium/images/testsolution1.png" />
+<img  id="testtubeASolnChangeimg2"  src="../CHE/INC/Chemical_Equillibrium/images/Fe%2bFeCl3.png" />
+
+<img  id="testtubeC"  src="../CHE/INC/Chemical_Equillibrium/images/testtube.png" />
+<p id="tubeCTxt" class="lablinstructions">C</p>
+<img  id="testtubeCSolnimg"  src="../CHE/INC/Chemical_Equillibrium/images/testsolution1.png" />
+<img  id="testtubeASolnChangeimg3"  src="../CHE/INC/Chemical_Equillibrium/images/Fe%2bFeCl3.png" />
+
+<img  id="testtubeD"  src="../CHE/INC/Chemical_Equillibrium/images/testtube.png" />
+<p id="tubeDTxt" class="lablinstructions">D</p>
+<img  id="testtubeDSolnimg"  src="../CHE/INC/Chemical_Equillibrium/images/testsolution1.png" />
+<img  id="testtubeASolnChangeimg4"  src="../CHE/INC/Chemical_Equillibrium/images/Fe%2bFeCl3.png" />
+
+<img  id="controllabelImg"  src="../CHE/INC/Chemical_Equillibrium/images/controllabel.png" />
+<span id="cntrllabelTxt"></span>
+
+
+<div id="bottleDiv1"><img  id="bottle1" src="../CHE/INC/Chemical_Equillibrium/images/bottle.png"/>
+
+<p id="bottle1txt" class="txtFormat1">FeCl<sub>3</sub></p></div>
+<img  id="bottleSoln1" src="../CHE/INC/Chemical_Equillibrium/images/bottleFeSoln.png"/>
+<div id="bottleDiv2"><img  id="bottle2" src="../CHE/INC/Chemical_Equillibrium/images/bottle.png"/>
+<p id="bottle2txt" class="txtFormat">KCNS</p>
+</div>
+<img  id="bottleSoln2" src="../CHE/INC/Chemical_Equillibrium/images/bottlesoln.png"/>
+<div id="bottleDiv3"><img  id="bottle3" src="../CHE/INC/Chemical_Equillibrium/images/bottle.png"/>
+<p id="bottle3txt" class="txtFormat">KCl</p>
+</div>
+<img  id="bottleSoln3" src="../CHE/INC/Chemical_Equillibrium/images/bottlesoln.png"/>
+
+<canvas id="bgCanvas"></canvas>
+<div id="stage2" style="display:none"></div>
+<div id="ConicalFlaskDiv" ></div>
+<div id="fadeDiv" ></div>
+
+<div id="dropperDiv1" onmouseover="dragSolution(this.id);">
+<img  id="dropper1" src="../CHE/INC/Chemical_Equillibrium/images/dropper.png"/><img  id="dropperSoln1" src="../CHE/INC/Chemical_Equillibrium/images/dropper_red.png" /></div>
+<img id="drops1" src="../CHE/INC/Chemical_Equillibrium/images/drops.png"/> <img id="drops2" src="../CHE/INC/Chemical_Equillibrium/images/drops.png"/>
+
+<div id="dropperDiv2" onmouseover="dragSolution(this.id);"  >
+<img  id="dropper2" src="../CHE/INC/Chemical_Equillibrium/images/dropper.png"/>
+<img  id="dropperSoln2" src="../CHE/INC/Chemical_Equillibrium/images/soln_dropper.png" /></div>
+
+<div id="dropperDiv3" onmouseover=" dragSolution(this.id);"  >
+<img  id="dropper3" src="../CHE/INC/Chemical_Equillibrium/images/dropper.png" />
+<img  id="dropperSoln3" src="../CHE/INC/Chemical_Equillibrium/images/soln_dropper.png" /></div>
+
+<div id="dropperDivDUP"></div>
+<img  id="testtubeLabel" src="../CHE/INC/Chemical_Equillibrium/images/solLabel.png" />
+
+<span id="labelTxt"></span>
+
+<div id="inferenceDiv" class="inferenceDiv" style="visibility:hidden;" > <img id="inferenceImg" src="../CHE/INC/Chemical_Equillibrium/images/inference.png"/></div>
+
+
+<!--<div id="inferenceDiv02" class="inferenceDiv" style="visibility:hidden;" > <img id="inferenceImg" src="../CHE/INC/Chemical_Equillibrium/images/inference.png"/></div>-->
+
+
+
+<script type="text/javascript" src="../CHE/INC/Chemical_Equillibrium/js/simcontrols.js"></script>
+<script type="text/javascript" src="../CHE/INC/Chemical_Equillibrium/js/responsive.js"></script>
+
+</div>
+
+<script type="text/javascript">
+ var expTitle="Chemical Equilibrium";
+ document.getElementById("expName").innerHTML=expTitle;
+</script>
+.
+
+</div>
+
+   <footer id="tempFooter" style="margin-top: -4em">
+	<div style="margin-left: 1em;margin-top: -1.5em;position: absolute;width: 75%;">
+<p class="labName">Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology</p>	
+</div>
+	<div style="position:relative">
+		<div style="float:right;position: absolute;top:-1em;right:2em;"><img src="template/olab_ot_rt/images/dit_logo.gif" ></div>
+	</div>  
+</footer>
+</div>
+
+
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Chemical_Equillibrium&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:38:54 GMT -->
+</html>
+<!--<script type="text/javascript" src="js/resp.js"></script>-->
+<script>
+
+ 
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

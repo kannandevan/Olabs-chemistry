@@ -1,0 +1,353 @@
+@font-face {
+	font-family: MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+.mainTitle {
+	width: 883px !important;
+	font-size: 88% !important;
+}
+.userSelect {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.main {
+	overflow: hidden;
+}
+.mainTitle p {
+    width: 621px;
+    overflow: hidden !important;
+    display: inline-block;
+    white-space: nowrap !important;
+    text-overflow: ellipsis;
+}
+.subButton {
+    width: 130px;
+	}
+.varResult {
+	padding: 5px 0px 10px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #000;
+	text-align: left;
+}
+.elementPos{
+	position:absolute;
+}
+#stand{
+	position:absolute;
+	left:190px;
+	top:260px;
+}
+#glassRod{
+	position:absolute;
+	width:10px;
+	height:134px;
+	left:215px;
+	top:174px;
+	text-align:center;
+}
+#mainDiv {
+	width: 560px;
+	height: 335px;
+	border: #000 1px solid;
+}
+/*control section*/
+#rightminvals, #rightminvals1, #rightminvals2 {
+	float: left;
+	padding-left: 7px;
+}
+#rightmaxvals, #rightmaxvals1, #rightmaxvals2 {
+	float: right;
+	padding-right: 26px;
+}
+/*canvas section*/
+/*Stage properties*/
+
+#conical_flaskbig {
+	position: absolute;
+	top: 201px;
+	left: 275px;
+}
+#conical_shadow {
+	position: absolute;
+	top: 119px;
+	left: 0px;
+}
+#conical_bigwater, #conical_bluewater {
+	position: absolute;
+	left: 0px;
+	top: -107px;
+	width: 89px;
+	height: 108px;
+}
+#conical_bigwater_mask {
+	position: absolute;
+	left: 0px;
+	top: 119px;
+	width: 89px;
+	height: 108px;
+	overflow: hidden;
+}
+#Measuring_cylinder {
+	position: absolute;
+	top: 225px;
+	left: 414px;
+}
+
+#measure_jar1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	  display:block; 
+}
+#measure_jar2{
+  position: absolute;
+top: -20px;
+  left: -5px;
+  display:none; 
+}
+#Measuring_shadow {
+  position: absolute;
+  top: 91px;
+  left: 0px;
+
+}
+#Measuring_mask {
+	position: absolute;
+	left: 5px;
+	top: 86px;
+	width: 17px;
+	height: 87px;
+	overflow: hidden;
+}
+#Measuring_water {
+	position: absolute;
+	top: -86px;
+	left: 0px;
+	width: 17px;
+	height: 87px;
+}
+/*stop watch section*/
+#Stop_watch_full {
+	position: absolute;
+	top: 250px;
+	left: 65px;
+}
+#Green_img {
+	position: absolute;
+	top: 50px;
+	left: 83px;
+	opacity: 0.5;
+}
+#red_img {
+	position: absolute;
+	top: 50px;
+	left: 69px;
+}
+#timerstyle {
+  position: absolute;
+  left: 26px;
+  top: 10px;
+  font-size: 14px;
+  cursor: default;
+}
+#timer {
+position: absolute;
+  left: 25px;
+  top: 20px;
+  font-size: 24px;
+  cursor: default;
+}
+.start {
+	cursor: default;
+	font-size: 0.8em;
+	font-weight: bolder;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#start {
+	position: absolute;
+	left: 25px;
+	top: 50px;
+}
+#stop {
+	display: none;
+	position: absolute;
+	left: 27px;
+	top: 50px;
+}
+/*bottles in shelf*/
+#pourwaterImg {
+	position: absolute;
+	top: 217px;
+	left: 437px;
+	width: 5px;
+	height: 97px;
+	z-index: 2;
+	display: none;
+}
+/*KIO3*/
+#conical_flask {
+	position: absolute;
+	top: 102px;
+	left: 71px;
+	width: 45px;
+	height: 60px;
+}
+#conical_watermask {
+	position: absolute;
+	top: 18px;
+	left: 0px;
+	width: 45px;
+	height: 60px;
+	overflow: hidden;
+}
+#conical_water {
+	position: absolute;
+	left: 0px;
+	top: -18px;
+	width: 45px;
+	height: 60px;
+}
+#conical_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 43px;
+	height: 55px;
+}
+/*H2so4 bottle*/
+#H2SO4_bottle {
+	position: absolute;
+	left: 84px;
+	top: 34px;
+	width: 24px;
+height: 42px;
+}
+#H2SO4_watermask {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	width: 23px;
+	height: 41px;
+}
+#H2SO4_cap {
+	position: absolute;
+	left: 90px;
+	top: 26px;
+}
+/*H2O2 bottle*/
+#H2O2_bottle {
+	position: absolute;
+	left: 516px;
+	top: 115px;
+	width: 24px;
+	height: 42px;
+}
+#H2O2_watermask {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	width: 23px;
+	height: 41px;
+}
+#H2O2_cap {
+	position: absolute;
+	left: 522px;
+	top: 107px;
+}
+/*waterbeaker*/
+#water_beaker {
+	position: absolute;
+	top: 34px;
+	left: 211px;
+	width: 42px;
+	height: 51px;
+
+	
+}
+#water_watermask {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	width: 39px;
+	height: 44px;
+}
+#small_beaker_img {
+	position: absolute;
+	top: -5px;
+	left: -3px;
+}
+/*starch*/
+#starch_bottle {
+	position: absolute;
+	top: 34px;
+	left: 308px;
+	width: 23px;
+	height: 45px;
+}
+#starch_cap {
+	position: absolute;
+	top: 27px;
+	left: 313px;
+}
+#starch_watermask, #sulphide_watermask {
+	position: absolute;
+	top: 2px;
+	left: 0px;
+	overflow: hidden;
+	width: 23px;
+	height: 40px;
+}
+#starch_img {
+	position: absolute;
+	top: -2px;
+	left: 0px;
+}
+#water_water img{
+	  height: 48px;
+  width: 39px;
+
+}
+#starch_water, #stop_watch_div, #H2SO4_water, #water_water, #sulphide_water, #big_conical_img,#H2O2_water {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#sulphide_bottle {
+	position: absolute;
+	top: 33px;
+	left: 408px;
+	width: 23px;
+	height: 45px;
+}
+#sulphide_cap {
+	position: absolute;
+	top: 26px;
+	left: 413px;
+}
+/*labels*/
+.board_label {
+	z-index: 3;
+	position: absolute;
+	background-color: #FFF;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	  cursor: default;
+}
+#timer_dummy {
+	position: absolute;
+	background-color: #FFF;
+	top: 198px;
+	left: 104px;
+	width: 106px;
+	height: 29px;
+}

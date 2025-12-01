@@ -1,0 +1,322 @@
+.varTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding:0px 0px 0px 12px;
+}
+.dropBox{
+	width:172px;
+	margin: 3px 0px 22px 12px;
+}
+#reset{
+	width: 130px;
+}
+#wraper{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:570px;
+	height:345px;
+}
+#pStone{
+	position:absolute;
+	top:301px;
+	left:351px;
+	width: 96px;
+	font-family:MRKGPEN;
+	font-size:17px;
+	text-align:center;
+	
+}
+#bgCanvas {
+	position:absolute;
+	width:570px;
+	height:338px;
+	top:0px;
+	z-index:0;
+	cursor:default;
+}
+
+#zoomArea{
+	position:absolute;
+	left:171px;
+	top:25px;
+	z-index:0;
+}
+#thermoSolution{
+	position:absolute;
+	width:2px;
+	height:17px;
+	left:165px;
+	top:138px;
+	background-color:#990000;
+	opacity:0.4;
+	z-index:1;
+	visibility:hidden;
+	
+}
+#reading{
+	position:absolute;
+	width:80px;
+	height:90px;
+	left:452px;
+	top:132px;
+	background-color:#990000;
+	opacity:0.3;
+	z-index:0;
+	visibility:hidden;
+	
+}
+#zoomTopHide{
+	position:absolute;
+	width:93px;
+	height:25px;
+	left:445px;
+	top:0px;
+	border-bottom:solid 2px #b7b7b7;
+	background-color:#5d5241;
+	z-index:0;
+	visibility:hidden;
+}
+#zoomBottompHide{
+	position:absolute;
+	width:93px;
+	height:60px;
+	left:445px;
+	top:219px;
+	border-top:solid 2px #b7b7b7;
+	background-color:#6e624d;
+	z-index:0;
+	visibility:hidden;
+}
+#zoomBottompHide1{
+	position:absolute;
+	width:93px;
+	height:43px;
+	left:445px;
+	top:281px;
+	background-color:#3d240e;
+	z-index:0;
+}
+#zoomBottompHide2{
+	position:absolute;
+	width:93px;
+	height:13px;
+	left:445px;
+	top:324px;
+	border-top:solid 1px #7a6f66;
+	background-color:#000000;
+	z-index:0;
+}
+
+#thermoBig{
+	position:absolute;
+	left:411px;
+	top:-902px;
+	z-index:0;
+	visibility:hidden;
+}	
+#stand {
+	position:absolute;
+	width:217px;
+	height:314px;
+	left:-21px;
+	top:9px;
+	z-index:2;
+}
+.buble{
+	position:absolute;
+	left:170px;
+	top:225px;
+	width:2px;
+	height:2px;
+	border-radius:2px;
+	border:solid 1px #FFF;
+	opacity:0;
+}
+#steam{
+	position:absolute;
+	left:158px;
+	top:125px;
+	width:25px;
+	height:50px;
+	text-align:center;
+	visibility:hidden;
+	opacity:0.5;
+	z-index:1;
+}
+#testtubeSolution{
+	position:absolute;
+	left:158px;
+	top:174px;
+	z-index:1;
+}
+#pumicStoneInTube{
+	position:absolute;
+	left:169px;
+	top:95px;
+	z-index:1
+}
+#burnerOff{
+	position:absolute;
+	left:144px;
+	top:291px;
+	cursor:pointer;
+	z-index:3;
+	visibility:visible;
+}
+#burnerOn{
+	position:absolute;
+	left:149px;
+	top:291px;
+	cursor:pointer;
+	visibility:hidden;
+	z-index:3;
+}
+#flame{
+	position:absolute;
+	left:166px;
+	top:219px;
+	opacity:0.4;
+	visibility:hidden;
+}
+#watchGlass{
+	position:absolute;
+	left:351px;
+	top:286px;
+}
+#pumicStone{
+	position:absolute;
+	width:47px;
+	height:14px;
+	left:376px;
+	top:281px;
+	z-index:9;
+}
+#spatula{
+	position:absolute;
+	left:384px;
+	top:259px;
+	cursor:pointer;
+	z-index:8;
+}
+#deliveryTube{
+	position:absolute;
+	left:461px;
+	top:284px;
+	cursor:pointer;
+}
+#beakerWater{
+	position:absolute;
+	height:6px;
+	width:82px;
+	left:254px;
+	top:307px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+	opacity:0;
+	z-index:8;
+	
+}
+#beaker{
+	position:absolute;
+	width:100px;
+	height:117px;
+	left:246px;
+	top:197px;
+	z-index:8;
+}
+#drops{
+	visibility:hidden;
+	position:absolute;
+	width:4px;
+	height:4px;
+	border-radius:4px;
+	border-bottom-left-radius:2em;
+	border-bottom-right-radius:2em;
+	border-top-right-radius:2em;
+	transform:rotate(45deg);
+	-ms-transform:rotate(45deg); /* IE 9 */
+	-webkit-transform:rotate(45deg);
+	left:302px;
+	top:78px;
+	border:solid 1px #FFF;
+	background-color:#FFF;
+	opacity:0.4;
+}
+#beakerShadow{
+	position:absolute;
+	left:246px;
+	top:308px;
+	z-index:7;
+}
+#cork{
+	position:absolute;
+	width:25px;
+	height:25px;
+	left:206px;
+	top:288px;
+	cursor:pointer;
+	z-index:9;
+}
+#corkShdw{
+	position:absolute;
+	left:205px;
+	top:312px;
+	z-index:8;
+}
+#spatulaDrop{
+	position:absolute;
+	width:60px;
+	height:80px;
+	left:150px;
+	top:20px;
+	z-index:0;
+	
+}
+#spatulaDropBack{
+	position:absolute;
+	width:100px;
+	height:80px;
+	left:356px;
+	top:223px;
+	z-index:0;
+}
+#dTubeDrop{
+	position:absolute;
+	width:125px;
+	height:300px;
+	left:188px;
+	top:0px;
+	z-index:0;
+	
+}
+#tubeMouth{
+	position:absolute;
+	width:35px;
+	height:80px;
+	left:154px;
+	top:30px;
+	z-index:0;
+}
+#tubeMouth1{
+	position:absolute;
+	width:60px;
+	height:60px;
+	left:141px;
+	top:0px;
+	z-index:0;
+	
+}
+#thermometer{
+	position:absolute;
+	width:10px;
+	height:159px;
+	left:285px;
+	top:164px;
+	cursor:pointer;	
+	transform:rotate(-39deg);
+	-ms-transform:rotate(-39deg); /* IE 9 */
+	-webkit-transform:rotate(-39deg); /* Safari and Chrome */
+	z-index:7;
+}
+

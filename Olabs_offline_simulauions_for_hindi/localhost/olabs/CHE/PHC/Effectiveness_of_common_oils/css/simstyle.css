@@ -1,0 +1,324 @@
+/*controls*/
+.varTitle {
+    padding: 5px 0px 4px 10px;
+}
+.rangeVals .maxrange {
+	float: right;
+	padding-right: 12px !important;
+}
+.rangeVals .minrange {
+	float: left;
+	padding-left: 14px !important;
+}
+.mainTitle p {
+  font-size: 193% !important;
+}
+.userSelect{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;  
+}
+/*canvas*/
+#mainDiv {
+  width: 560px;
+  height: 335px; 
+}
+#bg1{
+ width:569px;
+ height:340px;
+}
+/*Labels*/
+#bottleLabel1 {
+    position: absolute;
+    z-index: 2;
+    top: 301px;
+    left: 420px;
+    width: 128px;
+    height: 34px;
+}
+#bottleLabel2 {
+  display: inline;
+  left: 156px;
+  position: absolute;
+  top: 300px;
+  z-index: 5;
+}
+#bottletxt {
+    color: #333;
+    font-family: MRKGPEN;
+    font-size: 18px;
+    height: 40px;
+    left: 421px;
+    position: absolute;
+    text-align: center;
+    top: 309px;
+    width: 130px;
+    z-index: 5;
+}
+#bottletxt2 {
+  color: #333;
+  font-family: MRKGPEN;
+  font-size: 18px;
+  height: 40px;
+  left: 147px;
+  position: absolute;
+  text-align: center;
+  top: 308px;
+  width: 130px;
+  z-index: 5;
+}
+
+/*Beaker*/
+#beaker_div{
+    position: absolute;
+    top: 171px;
+    left: 432px;
+    z-index: 2;
+    width: 107px;
+    height: 129px;
+    overflow: hidden;
+}
+#Beaker_shadow{
+    position: absolute;
+    top: 106px;
+    left: 2px;
+}
+#inkBottle {
+  position: absolute;
+  top: 0px;
+  left:0px;
+}
+#SolnBottle {
+    left: 3px;
+    position: absolute;
+    top: 47px;
+    width: 94px;
+    height: 69px;
+}
+/*Bottle*/
+#bottle {
+    left: 165px;
+    position: absolute;
+    top: 110px;
+    width: 94px;
+    height: 189px;
+    cursor: pointer;
+}
+#cork {
+    position: absolute;
+    left: 23px;
+    top: 6px;
+}
+#bottleSoln {
+    position: absolute;
+    left: 0px;
+    top: 166px;
+    height: 14px;
+    width: 88px;
+    overflow: hidden;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+#bottleImg {
+	position: absolute;
+  top: 24px;
+  left: -3px;
+}
+#bottleSoln2 {
+    left: 0px;
+    position: absolute;
+    top: 175px;
+    height: 0px;
+    width: 88px;
+    overflow: hidden;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+#bottleShadow{
+    position: absolute;
+    left: 0px;
+    top: 173px;
+}
+/*Measuring jar*/
+#jar{
+    position: absolute;
+    left: 34px;
+    top: 109px;
+    cursor: pointer;
+    width: 57px;
+    height: 209px;
+}
+#jarLIne{
+    position: absolute;
+    left: 10px;
+    top: 93px;
+    width: 37px;
+    height: 1px;
+    background-color: #969798;
+}
+#jar_shadow{
+     position: absolute;
+    left: 0px;
+    top: 186px;
+}
+#jarsoln {
+    left: 11px;
+    position: absolute;
+    top: 94px;
+    height: 80px;
+    width: 36px;
+}
+#jarimg{
+    position: absolute;	
+}
+#waterFlw {
+    left: 200px;
+    position: absolute;
+    height: 0px;
+    background-color: #CCC;
+    top: 124px;
+    z-index: 3;
+    width: 1px;
+}
+
+/*Dropper*/
+#Dropperstand {
+  display: inline;
+  left: 305px;
+  position: absolute;
+  top: 206px;
+  z-index: 2;
+}
+
+#dropr {
+    cursor: pointer;
+    display: inline;
+    left: 334px;
+    position: absolute;
+    top: 138px;
+
+
+}
+#drop_img{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 147px;
+  overflow: hidden;
+
+}
+#drop{
+	
+	display: none;
+    left: 10px;
+    position: absolute;
+    top: 147px;
+
+}
+
+#droprSoln {
+	left: 0px;
+	position: absolute;
+	top: -29px;
+
+}
+#droprSoln_div{
+  left: 5px;
+  position: absolute;
+  top: 108px;
+  height: 4px;
+  width: 0px;
+  cursor: pointer;
+  overflow: hidden;
+}
+/*Stopwatch*/
+#stopwatch {
+position: absolute;
+  display: inline;
+  top: 8px;
+  left: 433px;
+  z-index: 3;
+}
+#stopStart {
+  position: absolute;
+  display: inline;
+  top: 63px;
+  left: 462px;
+  z-index: 3;
+  color: #333;
+  font-family: MRKGPEN;
+  font-size: 14px;
+  text-align: center;
+}
+#timerstyle {
+  position: absolute;
+  left: 456px;
+  top: 23px;
+  font-size: 13px;
+  cursor: default;
+  width: 250px;
+  height: 50px;
+  color: #333;
+  z-index: 999;
+}
+#stopTxt {
+color: #333;
+  font-family: MRKGPEN;
+  font-size: 21px;
+  height: 40px;
+  top: 35px;
+  left: 427px;
+  position: absolute;
+  text-align: center;
+  width: 130px;
+  z-index: 5;
+}
+#stopLR {
+  position: absolute;
+  display: inline;
+  top: 64px;
+  left: 515px;
+  width: 10px;
+  height: 10px;
+}
+#stopLG {
+  position: absolute;
+  display: inline;
+  top: 63px;
+  left: 532px;
+  width: 9px;
+  height: 10px;
+}
+/*Clock*/
+#clockBody {
+	position: absolute;
+	top: 21px;
+	left: 240px;
+	display: inline;
+	display: none;
+	z-index: 3;
+}
+#needle {
+	position: absolute;
+	top: 40px;
+	left: 283px;
+	display: inline;
+	display: none;
+	z-index: 3;
+}
+#clockTxt {
+  color:#333;
+  font-family: MRKGPEN;
+  font-size: 18px;
+  height: 40px;
+  left: 223px;
+  position: absolute;
+  text-align: center;
+  top: 70px;
+  width: 130px;
+  z-index: 5;
+  display:none;
+}

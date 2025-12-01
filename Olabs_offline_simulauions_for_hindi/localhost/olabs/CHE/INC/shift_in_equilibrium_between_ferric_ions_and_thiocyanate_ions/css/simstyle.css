@@ -1,0 +1,1305 @@
+.varBox,
+.varTitle,
+#bgCanvas,img,p,#mainDiv,#ContolsWatchglassFerric,#ContolsWatchglassPottasium,#thePowders,#expName ,#changeScreenBtn,#simHelp,#simReset{
+
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+}
+/* .varTitle{
+    font-size: 1.5vw;
+} */
+.userSelect {-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select: none;}
+
+.secondInstruction,.ThirdInstruction,.fourthInstruction,.fifthInstruction{
+    display: none;
+}
+
+#titleid{
+    margin-top: -1% !important;
+}
+img,#mainDiv{
+  -webkit-user-drag: none;
+  -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+#bg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+}
+#bgCanvas{
+    position: absolute;
+    height: 115%;
+    width: 101%;
+    top: -3%;
+}
+#theInstruction1 {
+    top: 6%;
+    left: 5%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 0px;
+    height: 18px;
+    padding-top: 3px;
+    text-decoration: underline;
+    
+  }
+  #theInstruction{
+    left: 6%;
+    top: 61px;
+    height: 68%;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 1.2vw;
+
+    font-weight: 500;
+    color: #626262;
+    padding: 5px 2px 0px 0px;
+    margin: 0 0px 0 0;
+    text-align: justify !important;
+  }
+.subButton {
+	width: 120px;
+	font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important ;	
+	/*font-size: 13px;
+	margin: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	height:28px;*/
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #AAAAAA #AAAAAA #888888;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    float: none;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin: 1px;
+    padding: 0.45em 0.8em;
+    text-decoration: none;
+	background: #eeeeee; /* Old browsers */
+background: -moz-linear-gradient(top,  #eeeeee 0%, #c8c8c8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #eeeeee 0%,#c8c8c8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #eeeeee 0%,#c8c8c8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #eeeeee 0%,#c8c8c8 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #eeeeee 0%,#c8c8c8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 ); /* IE6-9 */
+}
+
+/* Simulation Starts here */
+#firstPageDiv{
+    position: absolute;
+    height: 100%;
+    width: 99%;
+    top: -1%;
+    left: 1%;
+}
+#firstPageFirstbeakerDiv{
+    position: absolute;
+    top: 45%;
+
+    width: 20%;
+    height: 37%;
+}
+
+.FirstbeakerClass{
+    position: absolute;
+    height: 90%;
+    z-index: 1;
+}
+.TheFirstBeakerferricsolution{
+    position: absolute;
+    height: 32%;
+    left: 7.3%;
+    top: 57.8%;
+    /* z-index: 1; */
+    width: 76%;
+    display: none;
+
+}
+.TheFirstBeakerWatersol{
+    position: absolute;
+    height: 32%;
+    left: 6.3%;
+    top: 57.8%;
+    z-index: 1;
+display: none;
+    
+}
+.TheFirstBeakerFerricpour{
+    position: absolute;
+    top: 1%;
+    height: 71%;
+    left: 46%;
+    width: 10%;
+    display: none;
+}
+.TheFirstBeakerFerricpouranim2{
+    position: absolute;
+    height: 42%;
+    left: -28%;
+    transform: rotate(15deg);
+    top: 50%;
+    display: none;
+}
+.TheFirstBeakerFerricpouranim3{
+    position: absolute;
+    height: 41%;
+    left: -36%;
+    transform: rotate(41deg);
+    top: 43%;
+    display: none;
+
+}
+.TheFirstBeakerFerricpouranim4{
+    position: absolute;
+    height: 40%;
+    left: -40%;
+    transform: rotate(71deg);
+    top: 34%;
+    display: none;
+
+}
+.TheFirstBeakerFerricpouranim5{
+    position: absolute;
+    height: 42%;
+    left: -44%;
+    transform: rotate(81deg);
+    top: 26%;
+    display: none;
+
+}
+.TheFirstBeakerFerricpowderonbeaker{
+    position: absolute;
+    height: 18%;
+    top: 70%;
+    left: 23%;
+    z-index: 0;
+    display: none;
+}
+
+#water_animation_Bottle2{
+    position: absolute;
+    top: 43%;
+    height: 42%;    
+    width: 73%;
+    left: 7%;
+}
+.waterAnimation2{
+    position: absolute;
+    display: block;
+    height: 89%;
+    top: 25%;
+    left: 5%;
+    opacity: .6;
+}
+
+
+/* firstbeaker end */
+#firstPageSecondbeakerDiv{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    width: 20%;
+    height: 37%;
+}
+.SecondbeakerClass{
+    position: absolute;
+    height: 90%;
+}
+.TheFirstBeakerpottasiumsolution{
+    position: absolute;
+    height: 32%;
+    left: 6.3%;
+    top: 57.8%;
+    width: 77%;
+    display: none;
+}
+.TheFirstBeakerPottasium{
+    position: absolute;
+    top: 1%;
+    height: 71%;
+    left: 51%;
+    width: 10%;
+    display: none;
+}
+.TheFirstBeakerPottasiumpowderonbeaker{
+    position: absolute;
+    height: 18%;
+    top: 70%;
+    left: 23%;
+    z-index: 0;
+    display: none;
+}
+.TheWaterBeakerWatersol{
+    position: absolute;
+    height: 32%;
+    left: 6.3%;
+    top: 57.8%;
+    z-index: 1;
+    display: none;
+    
+}
+#water_animation_Bottle3{
+    position: absolute;
+    top: 43%;
+    height: 42%;    
+    width: 73%;
+    left: 7%;
+}
+
+
+.TheFirstBeakerPottasiumanim2{
+    position: absolute;
+    height: 42%;
+    left: -28%;
+    transform: rotate(15deg);
+    top: 50%;
+    display: none;
+}
+.TheFirstBeakerPottasiumanim3{
+    position: absolute;
+    height: 41%;
+    left: -36%;
+    transform: rotate(41deg);
+    top: 43%;
+    display: none;
+
+}
+.TheFirstBeakerPottasiumanim4{
+    position: absolute;
+    height: 40%;
+    left: -40%;
+    transform: rotate(71deg);
+    top: 34%;
+    display: none;
+
+}
+.TheFirstBeakerPottasiumanim5{
+    position: absolute;
+    height: 42%;
+    left: -44%;
+    transform: rotate(81deg);
+    top: 26%;
+    display: none;
+
+}   
+/* 2rd end */
+#firstPageThirdbeakerDiv{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    width: 20%;
+    height: 37%;
+}
+.ThirdbeakerClass{
+    position: absolute;
+    height: 90%;
+    z-index: 2;
+}
+.TheThirdBeakerRedsolution{
+  
+        position: absolute;
+        height: 32%;
+        left: 7%;
+        top: 57.8%;
+        display: none;
+        opacity: .2;
+}
+.TheThirdBeakerpottasiumsolution{
+    position: absolute;
+    height: 15%;
+    left: 7.3%;
+    top: 73.8%;
+    display: none;
+    width: 75%;
+}
+
+
+
+/* 3rd end */
+#firstPageFourthbeakerDiv{
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    width: 20%;
+    height: 37%;
+}
+.FourthbeakerClass{
+    position: absolute;
+    height: 90%;
+}
+.Waterforbeaker{
+    position: absolute;
+    height: 53%;
+    left: 7%;
+    top: 37%;
+    width: 75%;
+
+}
+
+.TheFourthBeakerWater2{
+    position: absolute;
+    height: 72%;
+    left: -16%;
+    transform: rotate(8deg);
+    top: 20%;
+   
+}
+.TheFourthBeakerWater3{
+    position: absolute;
+    height: 72%;
+    left: -16%;
+    transform: rotate(14deg);
+    top: 19%;
+   
+
+}
+.TheFourthBeakerWater4{
+    position: absolute;
+    height: 72%;
+    left: -16%;
+    transform: rotate(22deg);
+    top: 18%;
+   
+
+}
+.TheFourthBeakerWater5{
+    position: absolute;
+    height: 72%;
+    left: -16%;
+    transform: rotate(28deg);
+    top: 18%;
+}
+
+/* Watch glassStyle */
+#theWatchglass{
+    position: absolute;
+    top: 69%;
+    left: 78%;
+    height: 8%;
+    width: 16%;
+}
+.theWatchglassclass{
+    position: absolute;
+    height: 84%;
+}
+/* spatula style */
+
+#theSpatulaDiv{
+    position: absolute;
+    top: 75%;
+    /* width: 23%; */
+    width: 15%;
+
+    height: 8%;
+    left: 79%;
+    z-index: 2;
+}
+.theFirstSpatulaclass{
+    position: absolute;
+    height: 126%;   
+    transform: rotate(15deg);
+}
+.theWatchglassclassFerric{
+    position: absolute;
+    height: 95%;
+    left: 21%;
+    top: -26%;
+    display: none;
+    z-index: 3;
+}
+.theWatchglassclassPottasium{
+    position: absolute;
+    height: 95%;
+    left: 21%;
+    top: -26%;
+    display: none;
+    z-index: 3;
+
+}
+.theFirstSpatulaFerric{
+    position: absolute;
+    height: 35%;
+    top: 119%;
+    transform: rotate(343deg);
+    left: 4%;
+    display: none;
+}
+.theFirstSpatulaPottasium{
+    position: absolute;
+    height: 35%;
+    top: 119%;
+    transform: rotate(343deg);
+    left: 4%;
+    display: none;
+
+}
+.gap-10{
+    
+}
+.ContolsWatchglass1{
+    width: 99%;
+    margin-left: 7%;
+}
+.ContolsWatchglass2{
+    width: 99%;
+    margin-left: 30%;
+}
+
+.ContolsWatchglassPottasiumPowder{
+    position: absolute;
+    height: 30%;
+    top: 29%;
+    left: 15%;
+}
+/* bekaerLabel */
+
+.the_TagA{
+    position: absolute;
+    top: 81%;
+    height: 6%;
+    left: 6%;
+}
+.the_TagB{
+    position: absolute;
+    top: 81%;
+    height: 6%;
+    left: 26%;
+}
+.the_TagC{
+    position: absolute;
+    top: 81%;
+    height: 6%;
+    left: 46.2%;
+}
+.the_TagD{
+    position: absolute;
+    top: 81%;
+    height: 6%;
+    left: 65%;
+}
+ /* Ends */
+
+ /* Glassrod */
+.GlassRodOfpageone{
+    position: absolute;
+    top: 86%;
+    height: 1.3%;
+    left: 75%;
+    width: 24%;
+}
+ /* ends */
+
+
+ /* The first page droparea */
+
+ #thewatchglassDroparea{
+
+    position: absolute;
+    top: 48%;
+    left: 78%;
+    width: 17%;
+    height: 18%;
+
+ }
+ #theSpatulaoverFirstbeaker{
+    position: absolute;
+    top: 24%;
+    left: 1%;
+    width: 17%;
+    height: 18%;
+ }
+
+ #theFinalmixtureWindow{
+    position: absolute;
+    top: 24%;
+    left: 40%;
+    width: 17%;
+    height: 18%;
+ }
+
+ #SecondPageDiv{
+    position: absolute;
+    height: 100%;
+    width: 99%;
+    top: -1%;
+    display: none;
+ }
+
+ /* Second page stylea */
+
+ #theSecondpageFirstBurettdiv{
+    position: absolute;
+    top: 43%;
+    height: 38%;
+    left: 0%;
+    width: 13%;
+ }
+ #TheFirstburetteStand{
+    position: absolute;
+    height: 101%;
+ }
+ #TheFirstburetteholder{
+    position: absolute;
+    top: 31.5%;
+    height: 3.2%;
+    left: 44%;
+    z-index: 3;
+ }
+ #TheFirstburetteholderBurette{
+    position: absolute;
+    height: 116%;
+    left: 60%;
+    top: -45%;
+    width: 21%;
+    z-index: 2;
+ }
+ #TheFirstburetteFerricsol{
+    position: absolute;
+    height: 74%;
+    left: 61.5%;
+    top: -19%;
+    width: 10%;
+    display: none;
+ }
+ /* Secondb */
+ #theSecondpageSecondBurettdiv{
+    position: absolute;
+    top: 43%;
+    height: 38%;
+    left: 12%;
+        width: 13%;
+ }
+ #TheSecondburettePottasiumSol{
+    position: absolute;
+    height: 74%;
+    left: 61.5%;
+    top: -19%;
+    width: 10%;
+    display: none;
+
+ }
+
+ /* end */
+ #theSecondpageThirdBurettdiv{
+    position: absolute;
+    top: 43%;
+    height: 38%;
+    left: 24%;
+        width: 13%;
+ }
+ #TheThirdburetteRedSol{
+    position: absolute;
+    height: 74%;
+    left: 61.5%;
+    top: -19%;
+    width: 10%;
+    display: none;
+
+ }
+
+ /* fourth */
+ #theSecondpageFourthBurettdiv{
+    position: absolute;
+    top: 43%;
+    height: 38%;
+    left: 36%;
+    width: 13%;
+ }
+ #TheFourthburettewaterSol{
+    position: absolute;
+    height: 74%;
+    left: 61.5%;
+    top: -19%;
+    width: 10%;
+    display: none;
+
+ }
+
+ /* thefirstbeaker */
+
+ #theSeondpagefirstBeaker{
+    position: absolute;
+    height: 26%;
+    width: 11%;
+    left: 49%;
+    top: 56%;
+ }
+ #SecondpagefirstBeaker{
+    position: absolute;
+    height: 92%;
+    left: -6%;
+    z-index: 1;
+ }
+ #TheSecondpageFirstBeakerferricsolution{
+ position: absolute;
+ height: 32%;
+ top: 59.4%;
+ left: 3%;
+}
+#PourAnimimageFerric{
+    position: absolute;
+    transform: rotate(68deg);
+    height: 41%;
+    left: -60%;
+    top: 33%;
+    display: none;
+}
+
+ /* Secondbeaker */
+ #theSeondpagesecondBeaker{
+    position: absolute;
+    height: 26%;
+    width: 11%;
+    left: 62%;
+    top: 56%;
+ }
+ #TheSecondpageFirstBeakerpottasiumsolution{
+ position: absolute;
+ height: 32%;
+ top: 59.4%;
+ left: 3%;
+ }
+ #PourAnimimagePottasium{
+    position: absolute;
+    transform: rotate(68deg);
+    height: 41%;
+    left: -60%;
+    top: 33%;
+    display: none;
+ }
+ /* third */
+ #theSeondpageThirdBeaker{
+    position: absolute;
+    height: 26%;
+    width: 11%;
+    left: 76%;
+    top: 56%;
+ }
+ #TheSecondpageThirdBeakerRedsolution{
+    position: absolute;
+    height: 32%;
+    top: 59.4%;
+    left: 3%; 
+ }
+ #PourAnimimageRedsolution{
+    position: absolute;
+    transform: rotate(68deg);
+    height: 41%;
+    left: -60%;
+    top: 33%;
+    display: none;
+ }
+ /* Fourth */
+ #theSeondpageFourthBeaker{
+    position: absolute;
+    height: 26%;
+    width: 11%;
+    left: 89%;
+    top: 56%;
+ }
+ #TheSecondpageFourthBeakerWater{
+    position: absolute;
+    height: 32%;
+    top: 59.4%;
+    left: 3%; 
+ }
+ #PourAnimimageWater{
+
+    position: absolute;
+    transform: rotate(29deg);
+    height: 76%;
+    left: -31%;
+    top: 17%;
+    display: none;
+
+ }
+ #thefirstburetteDroparea{
+    position: absolute;
+    top: 10%;
+    height: 19%;
+    width: 9%;
+    left: 3%;
+ }
+ #theSecondburetteDroparea{
+    position: absolute;
+    top: 10%;
+    height: 19%;
+    width: 9%;
+    left: 16%;
+ }
+ #theThirdBurettteDroparea{
+    position: absolute;
+    top: 10%;
+    height: 19%;
+    width: 9%;
+    left: 28%;
+ }
+ #theFourthBurettteDroparea{
+    position: absolute;
+    top: 10%;
+    height: 25%;
+    width: 14%;
+    left: 38%;
+ }
+ #theThirdPagediv{
+    position: absolute;
+    height: 100%;
+    width: 99%;
+    top:0%;
+ }
+
+ /* Third Page Controls+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+ #theThirdPageFirstBurettdiv{
+    position: absolute;
+    width: 20%;
+    height: 62%;
+    top: 23%;
+ }
+ #Secondpage_Firstburette{
+    position: absolute;
+    height: 90%;
+    left: 61%;
+    width: 17%;
+    top: -35%;
+    z-index: 1;
+ }
+
+ #ThirdpageBuretteSolFerric{
+    position: absolute;
+    left: 61%;
+    top: -19.6%;
+    height: 62%;
+    width: 11%;
+ }
+
+ #ThirdpageBuretteSolFerricOPEN{
+    position: absolute;
+    left: 61%;
+    top: 31.8%;
+    height: 26%;
+    width: 11%;
+    display: none;
+ }
+ #ThirdpageBuretteSolPottasiumOPEN{
+    position: absolute;
+    left: 61%;
+    top: 31.8%;
+    height: 22%;
+    width: 11%;
+    display: none;
+ }
+ /* pottasium on first */
+ #ThirdpageBuretteSolPottasium{
+    position: absolute;
+    left: 61%;
+    top: -19.6%;
+    height: 62%;
+    width: 11%;
+    display: none;
+
+ }
+#ThirdpageBuretteSolRed{
+    position: absolute;
+    left: 61.6%;
+    top: -19.6%;
+    height: 62%;
+    width: 10.2%;
+}
+
+
+
+
+
+
+
+
+ /* end */
+
+
+
+ #theThirdPageSecondBurettdiv{
+    position: absolute;
+    width: 20%;
+    height: 62%;
+    top: 23%;
+    left: 20%;
+ }
+
+#ThirdpageBuretteSolRedOPEN{
+    position: absolute;
+    left: 61.6%;
+    top: 33.7%;
+    height: 24%;
+    width: 10.2%;
+    display: none;
+}
+#ThirdpageBuretteSolwaterOPEN{
+    position: absolute;
+    left: 61.6%;
+    top: 32.7%;
+    height: 24%;
+    width: 10.2%;
+    /* display: none; */
+}
+
+#TheThirdsolutionBurettewater{
+    position: absolute;
+    left: 61.6%;
+    top: -19.6%;
+    height: 62%;
+    width: 10.2%;
+}
+
+
+
+
+
+ #theThirdPageThirdBurettdiv{
+    position: absolute;
+    width: 20%;
+    height: 62%;
+    top: 23%;
+    left: 40%;
+
+ }
+ #thetesstubeStand{
+    position: absolute;
+    height: 24%;
+    width: 35%;
+    left: 60%;
+    top: 61%;
+ }
+ #testubestand{
+    position: absolute;
+    height: 101%;
+ }
+ #testubestandfront{
+    position: absolute;
+    height: 10.5%;
+    top: 15%;
+    left: 10%;
+    z-index: 3;
+ }
+ #thefirstTestubeDiv{
+    position: absolute;
+    height: 28%;
+    width: 4%;
+    left: 65%;
+    top: 53%;
+
+}
+.TheTestube{
+    height: 93%;
+    width: 124%;
+    position: absolute;
+    z-index: 1;
+    
+}
+#theSecondTestubeDiv{
+    position: absolute;
+    height: 28%;
+    width: 4%;
+    left: 71%;
+    top: 53%;
+}
+#theThirdTestubeDiv{
+    position: absolute;
+    height: 28%;
+    width: 4%;
+    left: 77%;
+    top: 53%;
+}
+#theFourthTestubeDiv{
+    position: absolute;
+    height: 28%;
+    width: 4%;
+    left: 83.4%;
+    top: 53%;
+}
+#theFifthTestubeDiv{
+    position: absolute;
+    height: 28%;
+    width: 4%;
+    left: 89.5%;
+    top: 53%;
+}
+/* The Dropper div */
+#theFirstBuretteThirdDropDiv{
+    position: absolute;
+  
+    width: 10%;
+    top: 52%;
+    height: 30%;
+    left: 27%;
+
+}
+#theFirstBuretteFirstDropDiv{
+    position: absolute;
+  
+    width: 10%;
+    top: 52%;
+    height: 30%;
+    left: 7%;
+display: none;
+}
+#theThirdBuretteThirdDropDiv{
+    position: absolute;
+  
+    width: 10%;
+    top: 52%;
+    height: 30%;
+    left: 47%;
+    display: none;
+
+}
+
+
+
+.BuretteButton{
+    position: absolute;
+    /* width: 15%; */
+    height: 4%;
+    top: 42%;
+    left: 69%;
+    cursor: pointer;
+    z-index: 3;
+
+}
+/* TheCommon Redsol */
+.RedSolutionTestube{
+    position: absolute;
+    height: 20%;
+    width: 105%;
+    top: 70%;
+    left: 8%;
+    display: none;
+}
+
+/* The Ferric Sol */
+.FerricSolutionTestube{
+    position: absolute;
+    height: 28%;
+    width: 106%;
+    left: 3%;
+    top: 62%;
+    opacity: 0.9;
+    display: none;
+}
+.FerricSolutionTestubeC{
+    position: absolute;
+    height: 37%;
+    width: 106%;
+    left: 3%;
+    top: 56%;
+    opacity: 0.8;
+    display: none;
+}
+.FerricSolutionTestubeD{
+    position: absolute;
+    height: 44%;
+    width: 106%;
+    left: 3%;
+    top: 50%;
+    opacity: 0.7;
+    display: none;
+}
+.FerricSolutionTestubeE{
+    position: absolute;
+    height: 53%;
+    width: 106%;
+    left: 3%;
+    top: 38%;
+    opacity: 0.6;
+    display: none;
+}
+/* TheFinalTestubeSolcss */
+.FirstestubeRedsolFinal{
+    height: 69%;
+    left: 14%;
+    position: absolute;
+    top: 24%;
+    width: 87%;
+    opacity: .8;
+    display: none;
+}
+.SecondestubeRedsolFinal{
+    height: 69%;
+    left: 14%;
+    position: absolute;
+    top: 24%;
+    width: 87%;
+    display: none;
+   
+}
+.ThirdestubeRedsolFinal{
+    height: 69%;
+    left: 14%;
+    position: absolute;
+    top: 24%;
+    width: 87%;
+    opacity: .8;
+    display: none;
+}
+.FourthestubeRedsolFinal{
+    height: 69%;
+    left: 14%;
+    position: absolute;
+    top: 24%;
+    width: 87%;
+    opacity: .9;
+    display: none;
+}
+.FifthestubeRedsolFinal{
+    height: 69%;
+    left: 14%;
+    position: absolute;
+    top: 24%;
+    width: 87%;
+    display: none;
+}
+#thefinalNext{
+    position: absolute;
+    left: 84%;
+    height: 8%;
+    width: 12%;
+    top: 3%;
+    display: none;  
+}
+
+#TheSecondNext{
+    position: absolute;
+    left: 84%;
+    height: 8%;
+    width: 12%;
+    top: 3%;
+    display: none;    
+}
+#FirstNext{
+    position: absolute;
+    left: 84%;
+    height: 8%;
+    width: 12%;
+    top: 3%;
+    display: none;  
+ }
+ .TheTestubeLabel{
+    position: absolute;
+    height: 13%;
+    top: 69%;
+    left: 21%;
+    z-index: 1;
+ }
+ .firstburettelabel{
+    position: absolute;
+    height: 4%;
+    left: 4%;
+    top: 83%;
+ }
+ .Secondburettelabel{
+    position: absolute;
+    height: 4%;
+    left: 16%;
+    top: 83%;
+ }
+ .Thirdburettelabel{
+    position: absolute;
+    height: 4%;
+    left: 29%;
+    top: 83%;
+ }
+ .Fourthburettelabel{
+    position: absolute;
+    height: 4%;
+    left: 41%;
+    top: 83%;
+ }
+ .firtsFecllabel{
+    position: absolute;
+    height: 5%;
+    top: 82%;
+    left: 50.9%;
+ }
+ .firtsPottasiumabel{
+    position: absolute;
+    height: 5%;
+    top: 82%;
+    left: 63.9%;
+ }
+ .firtsRedabel{
+    position: absolute;
+    height: 5%;
+    top: 82%;
+    left: 77.9%;
+ }
+ .firtsWaterlabel{
+    position: absolute;
+    height: 5%;
+    top: 82%;
+    left: 91.9%;
+ }
+ .LastpageBurettelabel1{
+    position: absolute;
+    height: 4%;
+    left: 9%;
+    top: 83%;
+ }
+ .LastpageBurettelabel2{
+    position: absolute;
+    height: 4%;
+    left: 28%;
+    top: 83%;
+ }
+ .LastpageBurettelabel3{
+    position: absolute;
+    height: 4%;
+    left: 48%;
+    top: 83%;
+ }
+ .ControlsLabel1{
+    position: absolute;
+    height: 26%;
+    top: 82%;
+    left: -2.1%;
+ }
+ .ControlsLabel2{
+    position: absolute;
+    height: 26%;
+    top: 82%;
+    left: -22.1%;
+ }
+ #thecommonHelpdiv{
+    position: absolute;
+    top: 17%;
+
+ }
+
+ /* The WarningStyle */
+
+#theCommonWarningfunction{
+    position: absolute;
+    top: 4%;
+    text-align: center;
+    /* height: 11%; */
+    height: 36px;
+    left: 1%;
+    /* width: 63%; */
+    width: 347px;
+    display: none;
+    background-color: gainsboro;
+    border-radius: 20px;
+        }
+
+#thealertP {
+        top: 16%;
+        height: 63%;
+        left: -2%;
+        width: 62%;
+        font-size: 17px;
+        margin-top: 8%;
+        position: relative;
+        }
+        #TheWarning_img{
+            position: absolute;
+            height: 56%;
+            left: 3%;
+            top: 18%;
+            /* display: none; */
+        }
+        #theInferenceMsg{
+            position: absolute;
+            top: 8%;
+            left: 18%;
+            width: 7%;
+            height: 10%;
+            display: none;
+            z-index: 10;
+
+        }
+        
+        #TheInference_img{
+            width: 73%;
+            display: none;
+        }
+
+        #FinalinferenceElements{
+            position: relative;
+    border: solid 2px;
+    border-color: #201e1e;
+    top: 3%;
+    background: #fffdfd;
+    /* opacity: .8; */
+    z-index: 20;
+    overflow: hidden;
+    padding: 5%;
+    margin-top: 8%;
+        }
+
+        #FistSentence{
+
+            font-size: .7vw;
+            line-height: 2;
+        
+            width: 100%;
+            font-weight: bolder;
+        }
+        #inferenceFirstimage{
+width: 49%;
+            margin-left: 18%;
+        }
+        #inferenceSecondimage{
+width: 31%;
+            margin-top: -5%;
+            margin-left: 26%;
+        }
+
+        .waterpourfirstbeaker{
+            position: absolute;
+            left: 62%;
+            top: -9%;
+            height: 92%;
+            opacity: .9;
+            display: none;
+            z-index: 0;
+        }
+
+        .firstpagecommontext{
+            position: relative;
+            left: 6%;
+            top: 61px;
+            height: 68%;
+            font-family: "Times New Roman", Times, serif !important;
+            font-size: 118%;
+            font-weight: 500;
+            color: #626262;
+            padding: 5px 2px 0px 0px;
+            margin: 0 0px 0 0;
+            text-align: justify !important;
+        }
+.px-20{
+    padding-left: 20px;
+    padding-right: 20px;
+}

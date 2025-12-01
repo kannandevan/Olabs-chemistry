@@ -1,0 +1,1923 @@
+.varBox,
+.varTitle,
+#bgCanvas,img,p,#mainDiv,#controls2,#controls2{
+
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently*/                               
+}
+img,#mainDiv,#FirstPage,#thirdPage{
+  -webkit-user-drag: none;
+  -khtml-user-drag:none;
+-moz-user-drag:none;
+-ms-user-drag:none;
+}
+
+
+
+
+#bottle,
+.spatula-powder,
+.thebeaker_Powder,
+.thebeaker_Powder2,
+.thebeaker_Powder3,
+#beaker1_Droparea,
+#beaker2_Droparea,
+#beaker3_Droparea,
+
+.waterAnimation,
+.beaker1_water,
+.beaker2_water,
+.beaker3_water,
+#water_falling_down,
+#water_animation_Bottle1,
+#water_animation_Bottle2,
+#water_animation_Bottle3,
+.thirdpage-inference,
+.thirdpage-Warning,
+
+#SecondPage_Beaker5,
+#SecondpageGlass_Bottle,
+.glassBottleCap,
+.SecondpageNameboard_5,
+.SecondPagebeaker1_water,
+.SecondPagebeaker2_water,
+.SecondPagebeaker3_water,
+.SecondPagebeaker4_water,
+.SecondPagebeaker5_80mlwater,
+#water_falling_down2,
+#Second_page,
+ /* #FirstPage, */
+#thirdPage,
+.WaterInFirstBeakerThirdPage,
+.ThirdPagebeaker_4mlwater,
+.WaterInThirdBeakerThirdPage,
+.ThirdPagebeaker_4mlwater2,
+#water_animation_ThirdpageBottle2,
+#water_animation_ThirdpageBottle3,
+.contols3,#wateranim_1,#btn_Nxt,#btn_Nxt2,
+#zoomthermometer_view {
+  display: none;
+}
+
+.mainTitle p {
+  font-size: 195% !important;
+}
+
+
+.BG-img {
+  position: absolute;
+  left: -1px;
+  top: -20px;
+  pointer-events: none;
+}
+
+.beaker-1 {
+  position: absolute;
+  z-index: 10;
+  top: 4%;
+  left: -1%;
+  height: 105%;
+  width: 79%;
+}
+
+.beaker-1Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 0%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.beaker-2 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -2%;
+  height: 105%;
+  width: 79%;
+}
+
+.beaker-2Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 7%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.beaker-3 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -3%;
+  height: 105%;
+  width: 79%;
+}
+
+.beaker-3Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 7%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.beaker-4 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -30%;
+  height: 105%;
+  width: 96%;
+}
+
+.beaker-4Shadow {
+  position: absolute;
+  z-index: 9;
+  left: -18%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.first-Bottle {
+  position: absolute;
+  z-index: 20;
+  top: 66%;
+  left: 61%;
+  height: 17%;
+}
+
+.bottle-cap {
+  position: absolute;
+  z-index: 20;
+  top: 62.6%;
+  left: 61.1%;
+  height: 5%;
+}
+
+.spatula-1 {
+
+  z-index: 10;
+  height: 69%;
+  width: 98%;
+}
+
+.spatula-powder {
+  position: absolute;
+  z-index: 10;
+  top: 5%;
+  left: 0.1%;
+  height: 53%;
+}
+
+.spatula-shadow1 {
+  position: absolute;
+  /* z-index: 0; */
+  top: 45%;
+  left: 5.1%;
+  height: 31.3%;
+  transform: rotate(356deg);
+}
+
+.weight_machine {
+  position: absolute;
+  left: 75%;
+  top: 61%;
+  height: 21%;
+}
+
+.Weight_Arrowdown {
+  position: absolute;
+  left: 79.5%;
+  top: 74%;
+  height: 3%;
+
+}
+
+.Weight_Arrowup {
+  position: absolute;
+  left: 79.5%;
+  top: 71%;
+  height: 3%;
+
+}
+
+.bottle_Shadow {
+  position: absolute;
+  z-index: 0;
+  top: 82%;
+  left: 60.5%;
+  height: 2.2%;
+}
+
+.Nameboard_1 {
+  position: absolute;
+  top: 85%;
+  left: 3.7%;
+  height: 5%;
+  transform: scaleX(1.7);
+}
+
+.Nameboard_2 {
+  position: absolute;
+  top: 85%;
+  left: 17.4%;
+  height: 5.3%;
+  /* width: 9%; */
+  transform: scaleX(1.7);
+}
+
+.Nameboard_3 {
+  position: absolute;
+  top: 85%;
+  left: 32.7%;
+  height: 5%;
+  transform: scaleX(1.7);
+}
+
+.Nameboard_4 {
+  position: absolute;
+  top: 85%;
+  left: 47.9%;
+  height: 5%;
+  transform: scaleX(1.5);
+}
+
+.first_nameTag {
+  position: absolute;
+  top: 86%;
+  left: 2.5%;
+  font-size: small;
+  font-size: 64%;
+  align-items: center;
+  font-weight: bold;
+}
+
+.second_nameTag {
+  position: absolute;
+  top: 86%;
+  left: 15.5%;
+  font-size: small;
+  font-size: 63%;
+  font-weight: bold;
+}
+
+.third_nameTag {
+  position: absolute;
+  top: 86%;
+  left: 31.6%;
+  font-size: small;
+  font-size: 63%;
+  font-weight: bold;
+}
+
+.fourth_nameTag {
+  position: absolute;
+  top: 86%;
+  left: 49.6%;
+  font-size: small;
+  font-size: 71%;
+  font-weight: bold;
+}
+
+.bottle_nameboard {
+  position: absolute;
+  left: 60.5%;
+  top: 85%;
+  height: 5%;
+  transform: scaleX(1.7);
+
+
+}
+
+.bottle_Text {
+
+  position: absolute;
+  top: 86%;
+  left: 59.3%;
+  text-align: center;
+  font-size: small;
+  font-size: 67%;
+  font-weight: bold;
+
+
+}
+
+.bottle_cap3 {
+  position: absolute;
+  height: 21%;
+  left: 20%;
+  z-index: 100;
+  top: -15%;
+  left: 8.3%;
+}
+
+
+/* ///////////////////////////// */
+
+.contols2 {
+  position: absolute;
+  width: 195PX;
+  height: 232PX;
+  left: 1px;
+  top: 55px;
+  background: #edece7;
+  border-radius: 8px;
+
+}
+
+#rowa1 {
+  position: absolute;
+  width: 63PX;
+  height: 62PX;
+  top: -1PX;
+  left: -1PX;
+}
+
+#rowa2 {
+  position: absolute;
+
+  width: 63PX;
+  height: 62PX;
+  top: -1PX;
+  left: 88PX
+}
+
+#rowa {
+  position: absolute;
+
+  width: 152PX;
+  height: 62PX;
+  top: 19PX;
+  left: 21PX;
+  font-family: 'Montserrat';
+}
+
+#rowb {
+  position: absolute;
+
+  width: 152PX;
+  height: 62PX;
+  top: 102PX;
+  left: 21PX;
+}
+
+#rowc {
+  position: absolute;
+
+  width: 152PX;
+  height: 62PX;
+  top: 184PX;
+  left: 19PX;
+}
+
+.Bottle {
+  width: 47px;
+  top: -12px;
+  position: absolute;
+  left: 4px;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.controlsText {
+  font-family: 'Montserrat';
+  line-height: 20px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.75px;
+
+}
+
+.reset {
+  top: 183px;
+  position: absolute;
+  left: 23px;
+  background-color: #509bd2;
+  width: 144px;
+  height: 34px;
+  padding-top: 3px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.bottle_center {
+  position: absolute;
+  width: 152PX;
+  height: 62PX;
+  left: 35%;
+  top: 44%;
+}
+
+.Bootle1_text {
+  position: absolute;
+  top: 79%;
+  left: -9%;
+  line-height: 91%;
+}
+
+.bottle_cap1 {
+  position: absolute;
+  height: 21%;
+  left: 20%;
+  z-index: 100;
+  top: -15%;
+}
+
+.Beaker1_Drop {
+  position: absolute;
+  left: 79%;
+  height: 38%;
+  width: 17%;
+  top: 15%;
+
+}
+
+.powder-DropArea {
+  position: absolute;
+  left: 59%;
+  height: 25%;
+  width: 11%;
+  top: 39%;
+
+}
+
+#spatula {
+  width: 16%;
+  position: absolute;
+  left: 72%;
+  top: 83%;
+  height: 6%;
+  z-index: 10;
+
+}
+
+.powder_Drop {
+  position: absolute;
+  top: 29%;
+  width: 8%;
+  left: 81.1%;
+  height: 0%;
+}
+
+
+#powder_Drop {
+  position: absolute;
+  left: 622%;
+  top: 75%;
+  height: 94%;
+  width: 100%;
+
+}
+
+#tare_value {
+  position: absolute;
+  left: 82.8%;
+  top: 68%;
+}
+
+.tare_value {
+  font-size: 92%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: red;
+  position: absolute;
+  left: 15px;
+  top: 14px;
+}
+
+.tare_Button {
+  position: absolute;
+  left: 92%;
+  top: 72%;
+  height: 3%;
+}
+
+.thebeaker_Powder {
+  position: absolute;
+  left: 27%;
+  z-index: 10;
+  top: 87%;
+  width: 22%;
+}
+
+#Beaker-1Img {
+  position: absolute;
+  z-index: 100;
+  left: 1%;
+  top: 56%;
+  width: 16%;
+  height: 27%;
+}
+
+#beaker1_Droparea {
+  position: absolute;
+  left: 1%;
+  top: 40%;
+  height: 36%;
+  width: 14%;
+
+}
+
+#Beaker-2Img {
+  position: absolute;
+  z-index: 100;
+  left: 16%;
+  top: 56%;
+  width: 16%;
+  height: 27%;
+}
+
+#Beaker-3Img {
+  position: absolute;
+  z-index: 100;
+  left: 31%;
+  top: 56%;
+  width: 16%;
+  height: 27%;
+}
+
+#Beaker-4Img {
+  position: absolute;
+  z-index: 100;
+  left: 49%;
+  top: 56%;
+  width: 13.7%;
+  height: 27%;
+}
+
+.glass_rod {
+  position: absolute;
+  left: 78%;
+  top: 88%;
+  height: 1%;
+  transform: rotate(0deg);
+}
+
+#water_animation_Bottle1 {
+  position: absolute;
+  left: 3%;
+  top: 74%;
+  height: 9%;
+  width: 8%;
+}
+
+.waterAnimation {
+  position: absolute;
+  left: -4px;
+  height: 114%;
+  top: -22%;
+  width: 128%;
+}
+
+.beaker4_water {
+  position: absolute;
+  left: -23%;
+  width: 89%;
+  height: 46%;
+  top: 61%;
+  transform: scaleY(0.7);
+}
+
+#water_falling_down {
+  position: absolute;
+  top: 10%;
+  left: -34%;
+  height: 89%;
+  width: 104%;
+}
+
+.waterfallingto_Beaker1 {
+  position: absolute;
+  top: 54%;
+  height: 62%;
+  left: -8%;
+  transform: scaleY(0.7);
+}
+
+.waterfallingto_Beaker2 {
+  position: absolute;
+  top: 40%;
+  height: 63%;
+  left: -16%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(16deg);
+}
+
+.waterfallingto_Beaker3 {
+  position: absolute;
+  top: 40%;
+  height: 63%;
+  left: -22%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(34deg);
+}
+
+.waterfallingto_Beaker4 {
+  position: absolute;
+  top: 31%;
+  height: 64%;
+  left: -25%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(53deg);
+}
+
+.waterfallingto_Beaker5 {
+  position: absolute;
+  top: 25%;
+  height: 64%;
+  left: -24%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(71deg);
+}
+
+.beaker1_water {
+  position: absolute;
+  left: -4%;
+  width: 89%;
+  height: 46%;
+  top: 61%;
+  transform: scaleY(0.7);
+}
+
+.glassrod_shadow {
+  position: absolute;
+  left: 78%;
+  top: 89%;
+  height: 1%;
+  transform: rotate(0deg);
+  pointer-events: none;
+}
+
+.waterfallto_beaker1 {
+  position: absolute;
+  left: 44%;
+  top: -40%;
+  width: 0%;
+}
+
+/* //second Drop */
+
+.thebeaker_Powder2 {
+  position: absolute;
+  left: 27%;
+  z-index: 10;
+  top: 87%;
+  width: 22%;
+}
+
+#beaker2_Droparea {
+  position: absolute;
+  left: 16%;
+  top: 41%;
+  height: 30%;
+  width: 13%;
+
+}
+
+.beaker2_water {
+  position: absolute;
+  left: -3%;
+  width: 89%;
+  height: 46%;
+  top: 61%;
+  transform: scaleY(0.7);
+}
+
+.waterfallto_beaker2 {
+  position: absolute;
+  left: 58%;
+  top: -40%;
+  width: 0%;
+}
+
+.waterAnimation2 {
+  position: absolute;
+  left: 16%;
+  height: 11%;
+  top: 72%;
+  width: 13%;
+}
+
+/* ======================================Beaker 3 Function========================= */
+
+.beaker3_water {
+  position: absolute;
+  left: -4%;
+  width: 89%;
+  height: 46%;
+  top: 61%;
+  transform: scaleY(0.7);
+}
+
+.thebeaker_Powder3 {
+  position: absolute;
+  left: 28%;
+  z-index: 10;
+  top: 87%;
+  width: 22%;
+}
+
+.waterfallto_beaker3 {
+  position: absolute;
+  left: 51%;
+  top: -40%;
+  width: 0;
+}
+
+.waterAnimation3 {
+  position: absolute;
+  left: 32%;
+  height: 39%;
+  top: 58%;
+  width: 10%;
+}
+
+#beaker3_Droparea {
+  position: absolute;
+  left: 30%;
+  top: 30%;
+  height: 32%;
+  width: 14%;
+
+}
+
+#btn_Nxt {
+  position: absolute;
+  left: 77%;
+  top: 8%;
+  width: -15px;
+  height: 27px;
+  padding-top: 5px;
+  /* color: white; */
+  /* border-radius: 10px; */
+  cursor: pointer;
+  width: 73px;
+  font-family: 'Noto Sans', 'Noto Sans Malayalam', 'Noto Sans Telugu', sans-serif !important;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #AAAAAA #AAAAAA #888888;
+  border-image: none;
+  border-radius: 4px 4px 4px 4px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+  color: #333333;
+  cursor: pointer;
+  display: none;
+  float: none;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.3em;
+  margin: 1px;
+  padding: 0.45em 0.8em;
+  text-decoration: none;
+  background: #eeeeee;
+  background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #eeeeee), color-stop(100%, #c8c8c8));
+  background: -webkit-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -o-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -ms-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: linear-gradient(to bottom, #eeeeee 0%, #c8c8c8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#c8c8c8', GradientType=0);
+
+}
+
+#btn_Nxt2 {
+  position: absolute;
+  left: 77%;
+  top: 8%;
+  width: -15px;
+  height: 27px;
+  padding-top: 5px;
+  /* color: white; */
+  /* border-radius: 10px; */
+  cursor: pointer;
+  width: 73px;
+  font-family: 'Noto Sans', 'Noto Sans Malayalam', 'Noto Sans Telugu', sans-serif !important;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #AAAAAA #AAAAAA #888888;
+  border-image: none;
+  border-radius: 4px 4px 4px 4px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+  color: #333333;
+  cursor: pointer;
+  display: none;
+  float: none;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.3em;
+  margin: 1px;
+  padding: 0.45em 0.8em;
+  text-decoration: none;
+  background: #eeeeee;
+  background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #eeeeee), color-stop(100%, #c8c8c8));
+  background: -webkit-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -o-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: -ms-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+  background: linear-gradient(to bottom, #eeeeee 0%, #c8c8c8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#c8c8c8', GradientType=0);
+
+}
+
+
+
+/* ============================================================================SECOND Page css========================= */
+
+.contols3 {
+  position: absolute;
+  width: 197PX;
+  height: 232PX;
+  left: 7px;
+  top: 34px;
+  background: #edece7;
+  border-radius: 0px;
+}
+
+.bottle_center2 {
+  position: absolute;
+  width: 152PX;
+  height: 62PX;
+  left: 11%;
+  top: 44%;
+}
+
+.Bottle2 {
+  top: 174%;
+  width: 40%;
+  position: absolute;
+  left: 36px;
+  cursor: pointer;
+  z-index: 100;
+
+}
+
+.Bootle2_text {
+  position: absolute;
+  top: 264%;
+  left: 31%;
+  line-height: 89%;
+}
+
+.Bootle3_text {
+  position: absolute;
+  top: 100%;
+  left: -14%;
+  line-height: 87%;
+
+}
+
+.ImgBottle_cap {
+  position: absolute;
+  left: 67%;
+  top: 156%;
+  width: 21%;
+
+}
+
+#SecondPage_Beaker1 {
+  position: absolute;
+  z-index: 100;
+  left: 3%;
+  top: 57%;
+  width: 17%;
+  height: 27%;
+
+}
+
+#SecondPage_Beaker2 {
+  position: absolute;
+  z-index: 100;
+  left: 19%;
+  top: 57%;
+  width: 17%;
+  height: 27%;
+
+}
+
+#SecondPage_Beaker3 {
+
+  position: absolute;
+  z-index: 100;
+  left: 35%;
+  top: 57%;
+  width: 17%;
+  height: 27%;
+
+
+}
+
+#SecondPage_Beaker4 {
+  position: absolute;
+  z-index: 100;
+  left: 54%;
+  top: 59%;
+  width: 17%;
+  height: 23%;
+
+}
+
+.SecondPagebeaker-1 {
+  position: absolute;
+  z-index: 10;
+  top: 4%;
+  left: -1%;
+  height: 105%;
+  width: 79%;
+}
+
+.SecondPagebeaker-1Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 3%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.SecondPagebeaker-2 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -2%;
+  height: 105%;
+  width: 79%;
+}
+
+.SecondPagebeaker-2Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 3%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.SecondPagebeaker-3 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -3%;
+  height: 105%;
+  width: 79%;
+}
+
+.SecondPagebeaker-3Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 4%;
+  top: 92%;
+  height: 12.6%;
+}
+
+.SecondPagebeaker-4 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: -30%;
+  height: 105%;
+  width: 96%;
+}
+
+.SecondPagebeaker-4Shadow {
+  position: absolute;
+  z-index: 9;
+  left: -18%;
+  top: 98%;
+  height: 15.6%;
+}
+
+.SecondPagebeaker1_water {
+  position: absolute;
+  left: 3%;
+  width: 74%;
+  height: 44%;
+  top: 73%;
+  transform: scaleY(0.2);
+}
+
+.SecondPagebeaker2_water {
+  position: absolute;
+  left: 4%;
+  width: 75%;
+  height: 42%;
+  top: 71%;
+  transform: scaleY(0.2);
+}
+
+.SecondPagebeaker3_water {
+  position: absolute;
+  left: 2%;
+  width: 75%;
+  height: 42%;
+  top: 71%;
+  transform: scaleY(0.2);
+}
+
+.SecondPagebeaker4_water {
+  position: absolute;
+  left: -11%;
+  width: 60%;
+  height: 66%;
+  top: 65%;
+  transform: scaleY(0.2);
+}
+
+.SecondPagewaterfallto_beaker1 {
+  position: absolute;
+  left: 45%;
+  top: -37%;
+  width: 0%;
+}
+
+.SecondPagewaterfallto_beaker2 {
+  position: absolute;
+  left: 52.5%;
+  top: -33%;
+  width: 0%;
+}
+
+.SecondPagewaterfallto_beaker3 {
+  position: absolute;
+  left: 52%;
+  top: -35%;
+  width: 0%;
+}
+
+.SecondPagewaterfallto_beaker4 {
+  position: absolute;
+  left: 16%;
+  top: -62%;
+  width: 0%;
+}
+
+#SecondPage_Beaker5 {
+  position: absolute;
+  z-index: 10;
+  top: 54%;
+  left: 72%;
+  height: 29%;
+  width: 17%;
+
+}
+
+.SecondPagebeaker-5 {
+  position: absolute;
+  z-index: 10;
+  top: 0%;
+  left: 0%;
+  height: 101%;
+  width: 96%;
+}
+
+.SecondPagebeaker-5Shadow {
+  position: absolute;
+  z-index: 9;
+  left: 10%;
+  top: 88%;
+  height: 14.6%;
+}
+
+.SecondPagebeaker5_water {
+  position: absolute;
+  left: 5%;
+  width: 89%;
+  height: 46%;
+  top: 38%;
+  transform: scaleY(1.8);
+}
+
+.SecondpageNameboard_1 {
+  position: absolute;
+  top: 16%;
+  left: -13.3%;
+  height: 60%;
+  /* transform: rotateX(45deg); */
+  transform: scaleX(1.7);
+}
+
+.Secondpagefirst_nameTag1 {
+  position: absolute;
+  top: 25%;
+  left: -14.2%;
+  font-size: small;
+  font-size: 56%;
+  align-items: center;
+  font-weight: bold;
+}
+
+#TheSecondPage_Names {
+  position: absolute;
+  top: 84%;
+  height: 8%;
+  width: 67%;
+  left: 15%;
+}
+
+.SecondpageNameboard_2 {
+  position: absolute;
+  top: 16%;
+  left: 10.3%;
+  height: 60%;
+  /* transform: rotateX(45deg); */
+  transform: scaleX(1.7);
+}
+
+.Secondpagefirst_nameTag2 {
+  position: absolute;
+  top: 25%;
+  left: 7.8%;
+  font-size: small;
+  font-size: 56%;
+  align-items: center;
+  font-weight: bold;
+}
+
+.SecondpageNameboard_3 {
+  position: absolute;
+  top: 16%;
+  left: 33.3%;
+  height: 60%;
+  transform: scaleX(1.7);
+}
+
+.Secondpagefirst_nameTag3 {
+  position: absolute;
+  top: 25%;
+  left: 32.5%;
+  font-size: small;
+  font-size: 56%;
+  align-items: center;
+  font-weight: bold;
+}
+
+.SecondpageNameboard_4 {
+  position: absolute;
+  top: 16%;
+  left: 58%;
+  height: 60%;
+  transform: scaleX(1.7);
+}
+
+.Secondpagefirst_nameTag4 {
+  position: absolute;
+  top: 27%;
+  left: 56.9%;
+  font-size: small;
+  font-size: 56%;
+  align-items: center;
+  font-weight: bold;
+}
+
+.SecondpageNameboard_5 {
+  position: absolute;
+  top: 3%;
+  left: 90.9%;
+  height: 71%;
+  transform: scaleX(1.7);
+}
+
+.Secondpagefirst_nameTag5 {
+  position: absolute;
+  top: 8%;
+  left: 93.9%;
+  font-size: small;
+  font-size: 60%;
+  align-items: center;
+  font-weight: bold;
+}
+
+#SecondpageGlass_Bottle {
+  position: absolute;
+  z-index: 100;
+  left: 75%;
+  top: 56%;
+  width: 11%;
+  height: 27%;
+
+}
+
+.glassBottle_1 {
+  position: absolute;
+  height: 107%;
+  top: -7%;
+  left: 15%;
+
+}
+
+.glassBottleCap {
+  position: absolute;
+  left: 78.6%;
+  top: 45.9%;
+  height: 15%;
+}
+
+.WaterInglassBottle {
+  position: absolute;
+  left: 19%;
+  top: 54%;
+  height: 45%;
+}
+
+#SecondpagedropArea1 {
+  position: absolute;
+  left: 15%;
+  height: 23%;
+  width: 10%;
+  top: 37%;
+
+}
+
+#SecondpagedropArea2 {
+  position: absolute;
+  left: 27%;
+  height: 23%;
+  width: 10%;
+  top: 37%;
+
+
+}
+
+#SecondpagedropArea3 {
+  position: absolute;
+  left: 39%;
+  height: 23%;
+  width: 10%;
+  top: 37%;
+
+}
+
+#SecondpagedropArea4 {
+  position: absolute;
+  left: 51%;
+  height: 23%;
+  width: 10%;
+  top: 37%;
+
+}
+
+.SecondPagebeaker5_80mlwater {
+  position: absolute;
+  left: 6%;
+  width: 89%;
+  height: 46%;
+  top: 45%;
+  transform: scaleY(1.4);
+
+}
+
+.SecondpageWaterto_beaker_2 {
+  position: absolute;
+  top: 40%;
+  height: 63%;
+  left: 21%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(16deg);
+}
+
+.SecondpageWaterto_beaker_3 {
+  position: absolute;
+  top: 40%;
+  height: 63%;
+  left: 14%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(34deg);
+}
+
+.SecondpageWaterto_beaker_4 {
+  position: absolute;
+  top: 31%;
+  height: 64%;
+  left: 10%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(53deg);
+}
+
+.SecondpageWaterto_beaker_5 {
+  position: absolute;
+  top: 25%;
+  height: 64%;
+  left: 8%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(71deg);
+}
+
+#water_falling_down2 {
+  position: absolute;
+  top: 10%;
+  left: -34%;
+  height: 89%;
+  width: 104%;
+}
+
+/* ----------------------------------------------------------THIRD PAGE START------------------------------------------- */
+
+#ThirdpageFirstBeaker {
+  position: absolute;
+  z-index: 100;
+  left: 4%;
+  top: 53%;
+  width: 14%;
+  height: 30%;
+}
+
+.ThirdPagebeaker-1 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+}
+
+.ThirdPagebeaker-1Shadow {
+  position: absolute;
+  left: 3%;
+  top: 86%;
+  height: 14%;
+}
+
+/* First Beaker End*/
+#ThirdpageSecondBeaker {
+  position: absolute;
+  z-index: 100;
+  left: 21%;
+  top: 53%;
+  width: 14%;
+  height: 30%;
+}
+
+.ThirdPagebeaker-2 {
+  position: absolute;
+  z-index: 10;
+  top: 3%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+}
+
+.ThirdPagebeaker-2Shadow {
+  position: absolute;
+  left: 4%;
+  top: 85%;
+  height: 14%;
+}
+
+/* Second Beaker End*/
+
+#ThirdpageThirdBeaker {
+  position: absolute;
+  z-index: 100;
+  left: 37%;
+  top: 53%;
+  width: 14%;
+  height: 30%;
+
+
+}
+
+.ThirdPagebeaker-3 {
+  position: absolute;
+  z-index: 10;
+  top: 4%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+
+}
+
+.ThirdPagebeaker-3Shadow {
+  position: absolute;
+  left: 5%;
+  top: 85%;
+  height: 14%;
+}
+
+/* //Third end */
+#ThirdpageFourthBeaker {
+  position: absolute;
+  z-index: 100;
+  left: 53%;
+  top: 53%;
+  width: 14%;
+  height: 30%;
+
+}
+
+.ThirdPagebeaker-4 {
+  position: absolute;
+  z-index: 10;
+  top: 4%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+
+}
+
+.ThirdPagebeaker-4Shadow {
+  position: absolute;
+  left: 5%;
+  top: 86%;
+  height: 14%;
+}
+
+#thermo_MeterFull {
+  position: absolute;
+  top: 50%;
+  left: 81%;
+  height: 54%;
+  width: 2%;
+  transform: rotate(90deg);
+}
+
+.ThirdPagebeaker_1water {
+  position: absolute;
+  left: 13%;
+  width: 80%;
+  height: 53%;
+  top: 62%;
+  transform: scaleY(0.2);
+}
+
+.ThirdPagebeaker_2water {
+  position: absolute;
+  left: 13%;
+  width: 80%;
+  height: 53%;
+  top: 62%;
+  transform: scaleY(0.2);
+}
+
+.ThirdPagebeaker_4mlwater {
+  position: absolute;
+  left: 8%;
+  width: 84%;
+  height: 56%;
+  top: 53%;
+  transform: scaleY(0.5);
+}
+
+.ThirdPagebeaker_4mlwater2 {
+  position: absolute;
+  left: 13%;
+  width: 85%;
+  height: 56%;
+  top: 54%;
+  transform: scaleY(0.5);
+}
+
+.ThirdPagebeaker_3water {
+  position: absolute;
+  left: 14%;
+  width: 80%;
+  height: 55%;
+  top: 62%;
+  transform: scaleY(0.2);
+}
+
+.ThirdPagebeaker_4water {
+  position: absolute;
+  left: 14%;
+  width: 80%;
+  height: 55%;
+  top: 62%;
+  transform: scaleY(0.2);
+}
+
+#thirdpage_nametags {
+  position: absolute;
+  top: 82%;
+  left: 8%;
+  height: 9%;
+  width: 57%;
+}
+
+#Thirdpagenametag_1 {
+  position: absolute;
+  left: 0%;
+  height: 50%;
+  width: 13%;
+  transform: scaleX(1.3);
+  top: 36%;
+}
+
+.thirdpage_Nameboard_1 {
+  position: absolute;
+  left: 1%;
+  height: 96%;
+  transform: scaleX(1.7);
+  top: -30%;
+}
+
+.thirdpagefirst_nameTag {
+  position: absolute;
+  left: -4%;
+  font-size: 8px;
+  top: 8px;
+}
+
+#Thirdpagenametag_2 {
+  position: absolute;
+  left: 26%;
+  height: 50%;
+  width: 13%;
+  transform: scaleX(1.3);
+  top: 36%;
+}
+
+.thirdpage_Nameboard_2 {
+  position: absolute;
+  left: 25%;
+  height: 96%;
+  transform: scaleX(1.7);
+  top: -30%;
+}
+
+.thirdpagesecond_nameTag {
+  position: absolute;
+  left: 26.3%;
+  top: 8px;
+  font-size: 8px;
+}
+
+/* ffff*/
+#Thirdpagenametag_3 {
+  position: absolute;
+  left: 55%;
+  height: 50%;
+  width: 10%;
+  transform: scaleX(1.2);
+  top: 36%;
+}
+
+.thirdpage_Nameboard_3 {
+  position: absolute;
+  left: 26%;
+  height: 96%;
+  transform: scaleX(2);
+  top: -30%;
+}
+
+.thirdpagethird_nameTag {
+  position: absolute;
+  left: 40%;
+  font-size: 7px;
+  top: 9px;
+  left: 168px;
+}
+
+/* lst*/
+#Thirdpagenametag_4 {
+  position: absolute;
+  left: 83%;
+  height: 50%;
+  width: 13%;
+  transform: scaleX(1.3);
+  top: 36%;
+}
+
+.thirdpage_Nameboard_4 {
+  position: absolute;
+  left: 26%;
+  height: 96%;
+  transform: scaleX(2);
+  top: -30%;
+}
+
+.thirdpagefourth_nameTag {
+  position: absolute;
+  left: 78.9%;
+  top: 8px;
+  font-size: 8px;
+  width: 94px;
+}
+
+/* Thermo meter Drop Area*/
+
+#ThermoDrop_area1 {
+  position: absolute;
+  left: 6%;
+  top: 23%;
+  height: 32%;
+  width: 11%;
+  pointer-events: none;
+  
+
+
+}
+
+#zoomthermometer_view {
+  position: absolute;
+    left: 74%;
+    top: 3%;
+    height: 67%;
+    width: 19%;
+    overflow: hidden;
+    border: groove;
+}
+
+.thermometerBackView {
+  position: absolute;
+  left: 14.5%;
+  height: 575%;
+  width: 73%;
+  top: -240%;
+  transform: scaleY(.3);
+}
+
+.thermometerRedmark {
+  position: absolute;
+  left: 47%;
+  width: 9%;
+  top: 64%;
+  height: 99%;
+}
+
+.meterReading {
+  position: absolute;
+  left: 14%;
+  height: 521%;
+
+}
+
+.FullThermo_meter {
+  position: absolute;
+  top: -208%;
+  left: 46%;
+  width: 8%;
+  height: 513%;
+  transform: rotate(90deg);
+}
+
+#ThermoDrop_area2 {
+  position: absolute;
+  left: 22%;
+  top: 25%;
+  height: 31%;
+  width: 12%;
+  pointer-events: none;
+  display: none;
+  
+
+}
+
+#ThermoDrop_area3 {
+  position: absolute;
+  left: 38%;
+  top: 26%;
+  height: 30%;
+  width: 12%;
+  pointer-events: none;
+  display: none;
+  
+
+}
+
+#ThermoDrop_area4 {
+  position: absolute;
+  left: 53%;
+  top: 23%;
+  height: 33%;
+  width: 13%;
+  pointer-events: none;
+  display: none;
+  
+
+
+
+
+}
+
+/*Water In Beaker*/
+.ThirdPagewaterfallto_beaker2 {
+  position: absolute;
+  left: 52.5%;
+  top: -33%;
+  width: 0%;
+}
+
+.ThirdPagewaterfallto_beaker4 {
+  position: absolute;
+  left: 52.5%;
+  top: -33%;
+  width: 0%;
+}
+
+.WaterInFirstBeakerThirdPage {
+  position: absolute;
+  top: 45%;
+  height: 41%;
+  left: -19%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(71deg);
+}
+
+.WaterInThirdBeakerThirdPage {
+  position: absolute;
+  top: 51%;
+  height: 41%;
+  left: -12%;
+  transform: scaleY(0.8);
+  transform: scalex(0.9);
+  transform: rotate(71deg);
+}
+
+.ThirdpageGlassrod {
+  position: absolute;
+
+  left: 71%;
+  top: 86%;
+  height: 1.5%;
+}
+
+.beakerinThermometer {
+  position: absolute;
+  top: 85%;
+  height: 85%;
+  left: -7%;
+  z-index: 1;
+}
+
+/* water Animation */
+#water_animation_ThirdpageBottle2 {
+  position: absolute;
+  left: 23%;
+  top: 74%;
+  height: 44%;
+  width: 16%;
+}
+
+.waterAnimationThirdpage1 {
+  position: absolute;
+  height: 28%;
+  left: -4%;
+  transform: scaleY(.6);
+  top: -7%;
+}
+
+#water_animation_ThirdpageBottle3 {
+  position: absolute;
+  left: 57.2%;
+  top: 74%;
+  height: 43%;
+  width: 64%;
+
+}
+
+#Inference_message {
+  position: absolute;
+  left: 15.2%;
+  top: 11%;
+  height: 25%;
+  width: 64%;
+  pointer-events: none;
+
+
+}
+
+.TheMessages {
+  font-size: x-large;
+  font-family: cursive;
+  font-style: italic;
+  height: 60px;
+}
+
+.subButton {
+  top: 284px !important;
+  left: 40px !important;
+  position: absolute !important;
+}
+
+#theThermometerdiv {
+  position: absolute;
+  top: 72%;
+  left: 69%;
+  width: 28%;
+  height: 9%;
+}
+
+.thirdpage-inference {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  height: 10%;
+}
+
+.thirdpage-Warning {
+
+  position: absolute;
+  top: 12%;
+  height: 28px;
+  left: 13%;
+}
+.bgColorDiv{
+  border-radius: 6px;
+   background: #797474;
+  padding: 20px;
+  width: 23px;
+  height: 25px;
+  position: absolute;
+  left: 17px;
+  top: -2px;
+}
+.bgColorDiv2{
+  border-radius: 6px;
+   background: #797474;
+  padding: 20px;
+  width: 23px;
+  height: 25px;
+  position: absolute;
+  left: 106px;
+  top: -2px;
+}
+.bgColorDiv3{
+  border-radius: 6px;
+  background: #797474;
+  padding: 20px;
+  width: 23px;
+  height: 25px;
+  position: absolute;
+  left: 18px;
+  top: 96px;
+}
+.bgColorDiv4{
+  border-radius: 6px;
+  background: #797474;
+  padding: 20px;
+  width: 23px;
+  height: 25px;
+  position: absolute;
+  left: 106px;
+  top: 96px;
+}
+
+.thirdrdcontrolbeaker{
+
+  width: 47px;
+  top: 3px;
+  position: absolute;
+  left: 4px;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.firstpageLeftControls{
+  width: 30px;
+  top: 0px;
+  position: absolute;
+  left: 12px;
+  cursor: pointer;
+  z-index: 100;
+}
+#helpdiv{
+  position: absolute;
+  left: 16%;
+  top: 20%;
+}
+#temperatureVal {
+  height: 14%;
+  width: 37%;
+  left: 22%;
+  text-align: center;
+  margin-top: 1%;
+  display: none;
+  border-radius: 0%;
+  top: 12%;
+  background-color: black;
+  border: black;
+  position: absolute;
+}
+#valueTab {
+  height: 69%;
+  width: 99%;
+  margin-left: 1%;
+  margin-top: 7%;
+  font-size: 1.1vw;
+  color: antiquewhite;
+  border: black;
+}

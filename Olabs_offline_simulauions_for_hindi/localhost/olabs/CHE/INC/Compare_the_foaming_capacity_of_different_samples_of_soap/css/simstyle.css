@@ -1,0 +1,700 @@
+#first_water
+{
+    position: absolute;
+    height: 57px;
+    width: 83px;
+    top: 65%;
+    left: 32.8%;
+}
+#bg
+{
+    width:100%;
+}
+#mainDiv1{
+	display:none;
+}
+#select_soap
+{
+    margin-left: 27%;
+    font-size: 13px;
+}
+#filter_paper_name{
+	position: absolute;
+    top: 274px;
+    left: 111px;
+    height: 7.5%;
+}
+#waterLabel{
+	position: absolute;
+    top: 278px;
+    left: 186px;
+    height: 19px;
+    width: 79px;
+    border: 1px solid white;
+    background-color: #ebe3c3;
+    z-index: 100;
+    border-radius: 3px;
+}
+#waterText{
+	text-align: center;
+    margin-top: 3px;
+}
+#soapSolutionLabel{
+	position: absolute;
+    top: 306px;
+    left: 279px;
+    height: 19px;
+    width: 75px;
+    border: 1px solid white;
+    background-color: white;
+    z-index: 100;
+    border-radius: 3px;
+}
+#select_soapsoln{
+	margin-left: 23%;
+    font-size: 13px;
+	display:none;
+}
+#soap1,#soap2,#soap3,#soap4
+{
+    margin-left: 21px;
+    width: 35%;
+    height: 23%;
+    //z-index: 3;
+}
+#soap1label,#soap2label,#soap3label,#soap4label
+{
+    MARGIN-LEFT: 20%;
+}
+
+#table1{
+	margin-top: -7px;
+	margin-left: 12px;
+}
+#solution1label,#solution2label,#solution3label,#solution4label
+{
+    margin-left: 17px;
+	display:none;
+}
+.tabletxt{
+	margin-left: 17px;
+}
+
+#watch_glass
+{
+    position: absolute;
+    left: 6%;
+    top: 72%;
+}
+#filter_paper
+{
+    position: absolute;
+    left: 8%;
+    top: 83%;
+    width: 11%;
+    z-index: 2;
+}
+#Beaker
+{
+    position: absolute;
+    left: 31%;
+    top: 50%;
+    /* height: 120px; */
+    width: 100px;
+	z-index:2;
+}
+#rod
+{
+    position: absolute;
+    left: 44%;
+    top: 40%;
+    width: 10px;
+    height: 145px;
+    transform: rotate(23deg);
+    z-index: 90;
+}
+#Measuring_Jar
+{
+    top: 58.3%;
+    position: absolute;
+    left: 66%;
+    width: 175px;
+}
+#soap1incan,#soap2incan,#soap3incan,#soap4incan
+{
+    position: absolute;
+    top: 71%;
+    left: 11%;
+    width: 45px;
+    z-index: 100
+}
+#filter_paper_drop_area_for_soap1,#filter_paper_drop_area_for_soap2,#filter_paper_drop_area_for_soap3,#filter_paper_drop_area_for_soap4
+{
+    position: absolute;
+    //border: solid 1px;
+    top: 46%;
+    left: 72%;
+    width: 100px;
+    height: 69px;
+    z-index: 101;
+}
+
+#filter_paper_drop_area_for_soap2
+{
+   // border-color: rgb(45, 185, 27);
+}
+#filter_paper_drop_area_for_soap3
+{
+    //border-color: rgb(228, 84, 18);
+}
+#filter_paper_drop_area_for_soap4
+{
+   // border-color: rgb(240, 12, 209);
+}
+#watch_glass_shadow
+{
+    top: 74%;
+    position: absolute;
+    left: 5%;
+    z-index: 0;
+    opacity: 1;
+}
+#Beaker_shadow
+{
+    top: 72%;
+    position: absolute;
+    left: 26%;
+    z-index: 0;
+    opacity: 1;
+}
+#Measuring_Jar_icon1
+{
+    left: 88%;
+    top: 74%;
+    position: absolute;
+    width: 29px;
+}
+.waterAnimation{
+	height: 53px;
+	display: none;
+}
+#waterAnimDiv{
+	top:66%; 
+	left:32.8%;
+	position:absolute;
+}
+#f1{
+	height: 53px;
+	display: block;
+}
+#Measuring_Jar_icon1:focus
+{
+    left: 89%;
+    top: 75%;
+    position: absolute;
+    width: 27px;
+}
+#Measuring_Jar_icon2_not_used
+{
+    left: 79.1%;
+    top: 75.6%;
+    position: absolute;
+    transform: rotate(180deg);
+}
+#Measuring_Jar_reading
+{
+    //border-color: blue;
+    position: absolute;
+    //border: solid 1px;
+    top: 73.5%;
+    left: 79%;
+    width: 49px;
+    height: 9px;
+    color: rgb(128, 0, 0);
+    font-size: 14px;
+    float: right;
+}
+#div_for_soap1_beaker_drop
+{
+    //border-color: blue;
+    position: absolute;
+    //border: solid 1px;
+    top: 27.5%;
+    left: 31%;
+    width: 104px;
+    height: 83px;
+    color: rgb(128, 0, 0);
+    /* font-size: 9px; */
+    float: right;
+}
+#NextFrameButton{
+    top: 5%;
+    position: absolute;
+    left: 82%;
+	display: none;
+}
+#solution1,#solution2,#solution3,#solution4{
+	display:none;
+}
+#testtubeStandTop{
+	position: absolute;
+    top: 71.9%;
+    left: 9%;
+    z-index: 3;
+}
+#testtubeStandUnder{
+	position: absolute;
+    top: 59%;
+    left: 0%;
+}
+#testtubeADiv{
+z-index: 2;
+	position: absolute;
+    top: 54%;
+    left: 11%;
+	cursor:pointer;
+
+}
+#testtubeBDiv{
+z-index: 2;
+	position: absolute;
+    top: 54%;
+    left: 19%;
+
+}
+
+#testtubeCDiv{
+z-index: 2;
+	position: absolute;
+    top: 54%;
+    left: 26%;
+
+}
+#testtubeDDiv{
+z-index: 2;
+	position: absolute;
+    top: 54%;
+    left:34%;
+
+}
+#beaker2{
+	position: absolute;
+    top: 64%;
+    left: 49%;
+    width: 14%;
+    z-index: 2;
+}
+#bottle{
+	position: absolute;
+    top: 56%;
+    left: 85%;
+    z-index: 1;
+}
+#bottleLabel{
+	position: absolute;
+    top: 79%;
+    left: 88%;
+    z-index: 1;
+}
+#dropperWrapper{
+	position: absolute;
+    top: 38%;
+    left: 88%;
+}
+#waterInBeaker{
+	position: absolute;
+    top: 77%;
+    left: 51%;
+    width: 11%;
+}
+#bottleWater{
+	position: absolute;
+    top: 73.4%;
+    left: 85.23%;
+}
+#dropperDiv{
+	position: absolute;
+    top: 227px;
+    left: 404px;
+    width: 3%;
+    z-index: 1;
+    height: 20%;
+}
+#dropper{
+	width:95%;
+}
+#dropperStandUnder{
+	position: absolute;
+    top: 73%;
+    left: 66%;
+}
+#dropperStandTop{
+	position: absolute;
+    top: 81%;
+    left: 69%;
+    z-index: 2;
+}
+#dropAreaBeakerA{
+	position: absolute;
+    top: 32%;
+    left: 50%;
+    width: 16%;
+    height: 27%;
+	display:none;
+}
+#dropAreaBeakerB{
+	position: absolute;
+    top: 32%;
+    left: 50%;
+    width: 16%;
+    height: 27%;
+	display:none;
+}
+#dropAreaBeakerC{
+	position: absolute;
+    top: 32%;
+    left: 50%;
+    width: 16%;
+    height: 27%;
+	display:none;
+}
+#dropAreaBeakerD{
+	position: absolute;
+    top: 32%;
+    left: 50%;
+    width: 16%;
+    height: 27%;
+	display:none;
+}
+#dropperSolution{
+	position: absolute;
+    left: 4.5px;
+    top: 39px;
+    border-style: solid;
+    border-width: 40px 3px 0 4px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.5;
+	display:none;
+}
+#dropperSolution1{
+	position: absolute;
+    left: 8px;
+    top: 64px;
+    border-style: solid;
+    border-width: 75px 6px 0px 6px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.5;
+}
+#dropperSolution2{
+	position: absolute;
+    left: 4.5px;
+    top: 39px;
+    border-style: solid;
+    border-width: 40px 3px 0 4px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.5;
+	display:none;
+}
+#dropperSolution3{
+	position: absolute;
+    left: 4.5px;
+    top: 39px;
+    border-style: solid;
+    border-width: 40px 3px 0 4px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.5;
+	display:none;
+}
+#dropperSolution4{
+	position: absolute;
+    left: 4.5px;
+    top: 39px;
+    border-style: solid;
+    border-width: 40px 3px 0 4px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.5;
+	display:none;
+}
+#drop{
+	position: absolute;
+    top: 42%;
+    left: 12.8%;
+	opacity:0;
+}
+#testtubeASol{
+	position: absolute;
+    top: 60%;
+    left: 9%;
+    opacity: 0.5;
+	height: 38%;
+}
+#tubeSolution{
+	position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#tubeSolution2
+{
+    position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;		
+}
+#tubeSolution3
+{
+    position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#tubeSolution4
+{
+    position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#tubeSolutionB{
+	position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#tubeSolutionC{
+	position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#tubeSolutionD{
+	position: absolute;
+    left: 2px;
+    top: 125px;
+    width: 21px;
+    height: 0px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFF;
+    opacity: 0.3;	
+}
+#dropAreafillertube1{
+	position: absolute;
+    top: 8%;
+    left: 7%;
+    width: 11%;
+    height: 37%;
+	display:none;
+}
+#dropAreafillertube2{
+	position: absolute;
+    top: 8%;
+    left: 15%;
+    width: 11%;
+    height: 37%;
+	display:none;
+}
+#dropAreafillertube3{
+	position: absolute;
+    top: 8%;
+    left: 22%;
+    width: 11%;
+    height: 37%;
+	display:none;
+}
+#dropAreafillertube4{
+	position: absolute;
+    top: 8%;
+    left: 30%;
+    width: 11%;
+    height: 37%;
+	display:none;
+}
+
+#drop5ml
+{
+	position: absolute;
+    top: 138px;
+    left: 71px;
+	opacity:0;
+}
+.form{
+	width: 78%;
+    position: absolute;
+    left: 10.5%;
+    border-radius: 15px 10px 2px 2px;
+	display: none;
+}
+#form{
+    top: 7%;
+    height: 42%;
+}
+#formB{
+    top: 16%;
+    height: 33%;
+}
+#formC{
+    top: 29%;
+    height: 20%;
+}
+#formD{
+    top: 39%;
+    height: 10%;
+}
+#NextFrameButton2
+{
+    top: 1%;
+    position: absolute;
+    left: 91%;
+    display: none;
+}
+#dropAreaTesttube1{
+	position: absolute;
+    top: 8%;
+    left: 51%;
+    width: 26%;
+    height: 50%;
+    /* border: solid 1px white; */
+    color: white;
+    border-radius: 5px;
+	display:none;
+}
+#dropAreaTesttube2{
+	position: absolute;
+    top: 8%;
+    left: 51%;
+    width: 26%;
+    height: 50%;
+    color: white;
+    border-radius: 5px;
+	display:none;
+}
+#dropAreaTesttube3{
+	position: absolute;
+    top: 8%;
+    left: 51%;
+    width: 26%;
+    height: 50%;
+    color: white;
+    border-radius: 5px;
+	display:none;
+}
+#dropAreaTesttube4{
+	position: absolute;
+    top: 8%;
+    left: 51%;
+    width: 26%;
+    height: 50%;
+    color: white;
+    border-radius: 5px;
+	display:none;
+}
+#scale{
+	position: absolute;
+    top: 0%;
+    left: 85%;
+    width: 11%;
+	display: none;
+z-index: 1;
+}
+#Inference{
+	position: absolute;
+    top: 5%;
+    left: 2%;
+	display: none;
+	cursor:pointer;
+}
+#hand{
+	position: absolute;
+    top: 19%;
+    left: 55%;
+	display:none;
+	transform: rotate(20deg);
+}
+#solution_next_button{
+	top: 5%;
+    position: absolute;
+    left: 82%;
+    display: none; 
+}
+
+.nextButton{
+	width: 80px;
+    font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important;
+    border-color: #AAAAAA #AAAAAA #888888;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    float: none;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin: 1px;
+    padding: 0.45em 0.8em;
+    text-decoration: none;
+    background: linear-gradient(to bottom, #eeeeee 0%,#c8c8c8 100%);
+}
+#bottleLabelFrame21,#bottleLabelFrame22,#bottleLabelFrame23,#bottleLabelFrame24
+{
+    position: absolute;
+    top: 92%;
+    z-index: 1;
+    width: 20px;
+    background-color: #FFF;
+    border-radius: 3px;
+}
+#bottleLabelFrame21
+{
+    left: 11.5%;
+}
+#bottleLabelFrame22
+{
+    left: 19.5%;
+}
+#bottleLabelFrame23
+{
+    left: 26.5%;
+}
+#bottleLabelFrame24
+{
+    left: 34.5%;
+}
+#waterTextFrame21,#waterTextFrame22,#waterTextFrame23,#waterTextFrame24
+{
+    text-align: center;
+    margin-top: 3px;
+}
+.newStyleAdded
+{
+    padding: 5px;
+    font-size: 1vw;
+    font-family: math;
+}

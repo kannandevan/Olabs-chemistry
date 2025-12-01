@@ -1,0 +1,418 @@
+#bgCanvas02 {
+	position:absolute;
+	top:0px;
+}
+#bgCanvas03 {
+	position:absolute;
+	top: 0px;
+	width : 794px;
+	height: 448px;
+	overflow:hidden;
+}
+#bgCanvas03Img{
+
+    width: 97%;
+	height: 76%;
+}
+#animLoad
+{
+	width: 843px !important;
+}
+#bgCanvas04 {
+	position:absolute;
+	top: -20px;
+	width : 569px;
+	height: 440px;
+}
+#BG02BeakerId {
+	position:absolute;
+	top:-110px;
+	left: 34px;
+}
+#BG03BeakerId {
+	position:absolute;
+	top: -99px;
+	left:68px;
+}
+#BG04BeakerId {
+	position:absolute;
+	top: -121px;
+	left:16px;
+}
+#soapImageId{
+	position:absolute;
+	top: 0px;
+	width:768px;
+	height:337px;
+	overflow:hidden;
+}
+#filterDiv{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 96px;
+	top: 299px;
+	height: 25px;
+	width: 90px;
+}
+#nextBtn {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	top: 400px;
+	left:400px;
+	height:10x;
+	font-size:13px;
+	visibility:hidden;
+}
+#vegOilDiv {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 375px;
+	top: 147px;
+	height: 150px;
+	width: 35px;/*background-color: #FF9;*/
+}
+#on_stateBurnerId {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 456px;
+	top:267px;
+	width: 17px;
+	height: 10px;
+}
+#offStateId {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 436px;
+	top: 256px;
+	width: 30px;
+	height: 25px;
+}
+#onStateId {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 436px;
+	top: 263px;
+	width: 30px;
+	height: 25px;
+}
+#rodDiv {
+	cursor: pointer;
+    cursor: hand;
+    position: absolute;
+    z-index: 9999;
+    left: 229px;
+    top: -27px;
+    height: 190px;
+    width: 80px;
+}
+#nextbtnId{
+	position:absolute;
+	cursor: pointer;
+	z-index:9999;
+	left:620px;
+	top:30px;
+	visibility:hidden;
+}
+#BeakerDivMixture {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 69px;
+	top: 182px;
+	height: 117px;
+	width: 100px;
+}
+#BeakerDivPlaceback{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 364px;
+	top: 63px;
+	height: 116px;
+	width: 99px;
+}
+#BeakerDivToFunnel{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 142px;
+	top: 225px;
+	height: 95px;
+	width: 80px;
+}
+#RedLitmus{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 481px;
+	top: 243px;
+	height: 15px;
+	width: 125px;
+}
+#BlueLitmus{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 481px;
+	top: 276px;
+	height: 15px;
+	width: 125px;
+}
+#Spatula{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left:96px;
+	top:238px;
+	height: 35px;
+	width: 165px;
+}
+#Spoon{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 369px;
+	top: 41px;
+	height: 86px;
+	width:75px;
+}
+#stirClickDiv{
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 320px;
+	top: 0px;
+	height: 190px;
+	width: 68px;
+	} 
+/*#reset
+{
+	font-size:13px;
+}*/
+
+#NaOHDiv {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	z-index: 9999;
+	left: 501px;
+	top: 147px;
+	height: 150px;
+	width: 35px;/*background-color: #FF9;*/
+}
+#solnG {
+	/*cursor: pointer;
+	cursor: hand;*/
+	position: absolute;
+	z-index: 9999;
+	left: 18px;
+	height: 100px;
+	width: 15px;/*background-color: #FF9;*/
+}
+#solnH {
+	/*cursor: pointer;
+	cursor: hand;*/
+	position: absolute;
+	z-index: 9999;
+	left: 45px;
+	height: 100px;
+	width: 15px;/*background-color: #FF9;*/
+}
+.varTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;/*z-index:99999;*/
+	padding-bottom:3px;
+}
+
+#init_setUpCanvas {
+	position:absolute;
+	top:-54px;
+	z-index:95;
+	left: 118px;
+}
+#3testtubes {
+	height: 440px;
+	width: 570px;
+}
+#infertooltpImg{
+	position:absolute;
+	left:10px;
+	position:absolute;
+	width:170px;
+	height:60px;
+	top:55px;
+	z-index:99;
+	cursor:pointer;
+}
+#infertooltpId{
+	position:absolute;
+	left:25px;
+	position:absolute;
+	width:140px;
+	height:70px;
+	color:#000;
+	z-index:99;
+	font-size:15px;
+	top:80px;
+}
+#imgInfrm {
+	background-position:center;
+	position:absolute;
+	z-index:99;
+	visibility:hidden;
+	cursor:pointer;
+	cursor:hand;
+}
+.inferenceDiv{
+	position:absolute;
+	width:45px;
+	height:45px;
+	top:5px;
+	left:5px;
+	cursor:pointer;
+}
+#inferenceImg{
+	position:absolute;
+	width:45px;
+	height:45px;
+	top:5px;
+	left:5px;
+	cursor:pointer;
+}
+#btnAddProcess {
+	width:600px;
+	height:500px;
+	position:absolute;
+	top:-27px;
+	z-index:20;
+}
+/*#clockDiv {
+	position:absolute;
+	left:410px;
+	width:130px;
+	height:130px;
+	top:20px;
+	z-index:30;
+}*/
+#dragDiv {
+	position:absolute;
+	cursor:pointer;
+	cursor:hand;
+	left:220px;
+	width:250px;
+	height:110px;
+	top:30px;
+	/*background-color:#963; */
+	z-index:30;
+}
+
+#infrmiconClick {
+	position:absolute;
+	cursor:pointer;
+	cursor:hand;
+	left:53px;
+	height:55px;
+	top:5px;
+	z-index:99;
+	visibility:hidden;
+}
+#imgTool {
+	position:absolute;
+	height:40px;
+	width:370px;
+	z-index:99;
+	visibility:hidden;
+}
+#tooltpMSG {
+	height: 30px;
+	width: 365px;
+
+position: absolute;
+	left:5px;
+	top:5px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 200;
+	font-size:15px;
+	z-index:99;
+	/*z-index:99999;//left: 100px;font-size: 13px;*/
+	text-align:center;
+	color:#593E1A;
+}
+#msgTxt{
+	font-size: 11px;
+	line-height: 18px;
+}
+#lbl_container{
+	position: relative;
+	left: 198px;
+	top: -125px;
+	width: 127px;
+	height: 33px;
+	display: table-cell;
+    vertical-align: middle;
+}
+#coconut_lbl{
+	position: absolute;
+	z-index:96;
+	color: #000;
+	width: 142px;
+	text-align: center;
+	font-family: MRKGPEN;
+	font-size: 15px;
+	left: 110px;
+    top: -4px;
+	z-index: 97;
+}
+#NaOH_lbl{
+	position: absolute;
+	left:444px;
+	top: 312px;
+	z-index:96;
+	color: #000;
+	width: 218px;
+	text-align: center;
+	font-family: MRKGPEN;
+	font-size: 15px;
+	z-index: 97;
+}
+#labelCoconutoil{
+	position: absolute;
+	left:41.4%;
+	top: 92%;
+	width: 16%;
+	height: 7%;
+	z-index:96;
+	background-color: white;
+    visibility: hidden;
+}
+#labelNaoh{
+	position: absolute;
+	left:59.4%;
+	top: 91%;
+	width: 26%;
+	height: 8%;
+	z-index:96;
+	background-color: white;
+    visibility: hidden;
+}

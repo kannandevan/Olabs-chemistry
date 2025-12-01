@@ -1,0 +1,394 @@
+@font-face {
+	font-family:MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+#expName{
+	padding-top: 8px;
+	height: 26px;
+}
+#experimentCanvas{
+	position: absolute;
+	width: 560px;
+	height: 335px;
+	left: 0px;
+	top: 0px;
+	}
+#burnerSet{
+	position: absolute;
+	top: 181px;
+	left: -52px;
+	display:none;
+}
+#burnerSwitch{
+	position: absolute;
+	top: 82px;
+	left: 70px;
+}
+#flame  img
+{
+	position: absolute;
+	display: none;
+	top: -51px;
+	left: 107px;
+}
+#experimentSet{
+	position: absolute;
+	width: 446px;
+	height: 335px;
+	left: 113px;
+	top: 0px;
+}
+#testTubeStand{
+	position: absolute;
+	top: 168px;
+	left: 8px;
+	z-index:2;
+}
+#testTubeLabelOne{
+	position: absolute;
+	top: 290px;
+	left: 29px;
+	z-index:3;
+}
+#testTubeLabelTwo{
+	position: absolute;
+	top: 289px;
+	left: 125px;
+	width: 81px;
+	z-index:3;
+}
+#eggAlbuminLabelText{
+	position: absolute;
+	top: 298px;
+	left: 31px;
+	font-family: MRKGPEN;
+	z-index: 4;
+	font-size: 1.2em;
+	width: 70px;
+    text-align: center;
+}
+#gelatinDisnLabelText{
+	position: absolute;
+	top: 293px;
+	left: 127px;
+	font-family: MRKGPEN;
+	z-index: 4;
+	font-size: 1.2em;
+	text-align: center;
+    width: 76px;
+}
+#testTubeOne{
+	position: absolute;
+	left: 51px;
+	top: 128px;
+}
+#testTubeTwo{
+	position: absolute;
+	left: 138px;
+	top: 128px;
+}
+#testTubeOneSolution{
+	position: absolute;
+	width: 26px;
+	height: 35px;
+	top: 124px;
+	left: 2px;
+	background-color: #E7DDB8;
+	border-bottom-left-radius: 9px;
+	border-bottom-right-radius: 9px;
+	opacity:0.9;
+}
+#testTubeTwoSolution{
+	position: absolute;
+	width: 26px;
+	height: 35px;
+	top: 124px;
+	left: 2px;
+	background-color:#FFE9B0;
+	border-bottom-left-radius: 9px;
+	border-bottom-right-radius: 9px;
+	opacity:0.8;
+}
+#bottleContainer{
+	position: absolute;
+	width: 200px;
+	height: 136px;
+	left: 240px;
+	top: 179px;
+}
+#firstBottleShadow{
+	position: absolute;
+	top: 121px;
+	left: 20px;
+}
+#firstBottle{
+	position: absolute;
+	left: 19px;
+	z-index:2;
+}
+
+#scondBottleConatiner{
+	position: absolute;
+	left: 116px;
+	top:0px;
+}
+#scondBottleShadow{
+	position: absolute;
+	top: 121px;
+	left: 1px;
+}
+
+
+#firstBottleSolution{
+	position: absolute;
+	width: 58px;
+	height: 73px;
+	background-color: #FFFFFF;
+	top: 56px;
+	left: 20px;
+	opacity: 0.5;
+	border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+#secondBottleSolution{
+  position: absolute;
+  width: 58px;
+  height: 73px;
+  background-color: #0EB9CD;
+  top: 56px;
+  left: 1px;
+  opacity: 0.5;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+#scondBottle{
+	position: absolute;
+	z-index: 1;
+}
+#firstBottleSticker{
+	position: absolute;
+	width: 58px;
+	height: 37px;
+	background-color: white;
+	top: 69px;
+	left: 20px;
+	z-index: 3;
+}
+#secondBottleSticker{
+	position: absolute;
+	width: 58px;
+	height: 37px;
+	background-color: white;
+	top: 69px;
+	left: 1px;
+	z-index: 3;
+}
+#frstStickerTextOne{
+position: absolute;
+  top: 71px;
+  left: 33px;
+  z-index: 4;
+  font-family: MRKGPEN;
+  font-size: 1.4em;
+}
+#frstStickerTextTwo{
+  position: absolute;
+  left: 29px;
+  top: 90px;
+  z-index: 4;
+  font-family: MRKGPEN;
+  font-size: 1.4em;
+}
+
+
+#scndStickerTextOne{
+ position: absolute;
+  top: 71px;
+  left: 3px;
+  z-index: 4;
+  width: 97px;
+  font-family: MRKGPEN;
+  font-size: 1.4em;
+}
+#scndStickerTextTwo{
+  position: absolute;
+  top: 89px;
+  z-index: 4;
+  left: 9px;
+  font-family: MRKGPEN;
+  font-size: 1.4em;
+}
+#dropperOne{
+	position: absolute;
+	top: 124px;
+	left: 279px;
+	cursor:pointer;
+}
+#dropperTwo{
+	position: absolute;
+	top: 124px;
+	left: 375px;
+}
+#clockContainer{
+	position: absolute;
+	left: 449px;
+	top: 2px;
+	display:none;
+}
+#needleImg{
+	width: 5px;
+	position: absolute;
+	top: 24px;
+	left: 45px;
+}
+#dropperOneSolnImg{
+	position: absolute;
+	top: 80px;
+	left: 7px;
+	overflow: hidden;
+	height: 33px;
+}
+#dropperSolnOne{
+	margin-top: -1px;
+}
+#dropperTwoSolnImg{
+	position: absolute;
+	top: 80px;
+	left: 7px;
+	overflow: hidden;
+	height: 33px;
+}
+#dropperSolnTwo{
+	margin-top: -1px;
+}
+#inference{
+  position: absolute;
+  top: 14px;
+  left: 2px;
+  cursor: pointer;
+  display: none;
+  z-index: 10;
+  width: 41px;
+}
+#dropAreaOne{
+	position: absolute;
+	left: 156px;
+	top: 2px;
+	width: 45px;
+	height: 132px
+}
+
+.dropsOne{
+	position: absolute;
+	top: 128px;
+	left: 176px;
+	width: 5px;
+	height: 8px;
+	visibility:hidden;
+}
+.dropsTwo{
+	position: absolute;
+	top: 119px;
+	left: 262px;
+	width: 5px;
+	height: 8px;
+	visibility:hidden;
+}
+#resetBtn{
+	margin-top: 225px;
+	margin-left: 36px;
+}
+#dropAreaBrnr{
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 153px;
+	height: 213px;
+}
+#dropAreaBrnrTwo{
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 153px;
+	height: 213px;
+	display:none;
+}
+#helpTesttubeA{
+	position: absolute;
+	left: 178px;
+	top: 126px;
+	height: 1px;
+	width: 1px;
+
+}
+#helpTesttubeB{
+
+	position: absolute;
+	left: 260px;
+	top: 126px;
+	height: 1px;
+	width: 1px;
+}
+#clockTimeText{
+position: absolute;
+top: 58px;
+left: 20px;
+font-size: 1.2em;
+font-weight: bold;
+}
+#testTubeOnePrcptt{
+	position: absolute;
+	width: 28px;
+	height: 13px;
+	background-color: rgb(54, 57, 115);
+	top: 114px;
+	left: 1px;
+	display: none;
+	opacity: 0.9;
+}
+#testTubeTwoPrcptt{
+
+	position: absolute;
+	width: 28px;
+	height: 13px;
+	background-color: rgb(54, 57, 115);
+	top: 114px;
+	left: 1px;
+	display: none;
+	opacity: 0.9;
+
+}
+.labels{
+	position: absolute;
+	height: 25px;
+	width: 26px;
+	font-family: MRKGPEN;
+	background-color: #fff;
+	z-index: 10;
+	text-align: center;
+	font-size: 2em;
+	padding-top: 3px;
+	border-radius:3px;
+}
+#burnerSwitchON{
+	position: absolute;
+  	left: 87px;
+  	top: 82px;
+  	display: none;
+}
+#firstBottleBrwn{
+	position: absolute;
+    left: 19px;
+    display: none;
+    z-index: 2;
+}
+.dropBox{
+	  width: 146px;
+	 }
+#burnerSwitchOne{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 93px;
+  top: 88px;
+}

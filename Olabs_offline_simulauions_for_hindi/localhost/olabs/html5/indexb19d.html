@@ -1,0 +1,591 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=ORG&exp=Qualitative_Analysis_of_Carbohydrates&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:43:29 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/css/simstyle.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<!--<script language="javascript" type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_benedict.js"></script> 
+-->
+
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_solubility.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_molischs.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_fehlings.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_benedicts.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_tollens.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_iodine.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_secondScene.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/help_main.js"></script>
+
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_main.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_solubility.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_molisch.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_fehlings.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_secondScene.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_benedicts.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_tollens.js"></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/simcontrols_iodine.js"></script>
+
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/locale/en-IN/language.js'></script>
+<script type="text/javascript" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/js/Gettext.js"></script>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<script type="text/javascript" language="javascript">
+	var simPath="http://localhost/olabs/CHE/ORG/Qualitative_Analysis_of_Carbohydrates/";
+</script>
+<div id="mainDiv">
+    <img id="bg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/BG.png"/>
+    <img id="Inference" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/Inference.png"/>
+	<img id="drop" class="drop" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/drop.png" />  
+    <img id="drop_1" class="drop" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/drop.png" />
+	<div id="dropAreaTube_1" class="dropAreaTubes"></div>
+	<div id="dropAreaTube_2" class="dropAreaTubes"></div>
+	<div id="dropAreaTube_3" class="dropAreaTubes"></div>
+	<div id="dropAreaTube_4" class="dropAreaTubes"></div>
+	
+	<div id="Solubility_molischsArea">
+		<div id="testTubeDropArea"></div>
+		
+		<div id="testTube_1" class="testTubes">
+			<img id="glucose" class="cabohydrate" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/carbohydrates.png"/>
+			<div id="glucoseSolution" class="tubeSolutions"></div>
+			<div class="solutionFlow"></div>
+			<img id="redVioletRing" class="redVioletRing" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/redVioletRing.png"/>
+			<img id="molisch" class="molisch" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/molisch.png"/>
+			<div id="triangleMask" class="triangleMask"></div>
+			<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+			<p class="tLabels">A</p>
+		</div>
+		
+		<div id="testTube_2" class="testTubes">
+			<img id="lactose" class="cabohydrate" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/carbohydrates.png"/>
+			<div id="lactoseSolution" class="tubeSolutions"></div>
+			<div class="solutionFlow"></div>
+			<img id="redVioletRing" class="redVioletRing" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/redVioletRing.png"/>
+			<img id="molisch" class="molisch" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/molisch.png"/>
+			<div id="triangleMask" class="triangleMask"></div>
+			<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+			<p class="tLabels">B</p>
+		</div>
+		
+		<div id="testTube_3" class="testTubes">
+			<img id="sucrose" class="cabohydrate" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/carbohydrates.png"/>
+			<div id="sucroseSolution" class="tubeSolutions"></div>
+			<div class="solutionFlow"></div>
+			<img id="redVioletRing" class="redVioletRing" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/redVioletRing.png"/>
+			<img id="molisch" class="molisch" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/molisch.png"/>
+			<div id="triangleMask" class="triangleMask"></div>
+			<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+			<p class="tLabels">C</p>
+		</div>
+		
+		<div id="testTube_4" class="testTubes">
+			<img id="starch" class="cabohydrate" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/carbohydrates.png"/>
+			<div id="starchSolution" class="tubeSolutions"></div>
+			<div class="solutionFlow"></div>
+			<img id="redVioletRing" class="redVioletRing" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/redVioletRing.png"/>
+			<img id="molisch" class="molisch" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/molisch.png"/>
+			<div id="triangleMask" class="triangleMask"></div>
+			<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+			<p class="tLabels">D</p>
+		</div>
+		
+		<!--Apparatus for Solubility test-->
+		<div id="solubilityWrap">
+			<div id="dropperWraper">
+				<div id="droperSolution"></div>
+				<img id="droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+			</div>
+			<div id="water"></div>
+			<img id="bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+			<img id="bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+			<p id="bottleTxt" class="labelTxt"></p>
+		</div>
+		<!--Apparatus for Molisch's test-->
+		<div id="molischWrap" style="display:none;">
+			<div id="molisch_dropperWraper">
+				<div id="molisch_droperSolution"></div>
+				<img id="molisch_droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+			</div>
+			<div id="molischReagent" class="bottleSolution"></div>
+			<img id="molisch_bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+			<img id="molisch_bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+			<p id="molisch_bottleTxt" class="labelTxt"></p>
+			<div id="molisch_dropperWraper_1">
+				<div id="molisch_droperSolution_1"></div>
+				<img id="molisch_droper_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+			</div>
+			<div id="molischH2SO4" class="bottleSolution"></div>
+			<img id="molisch_bottleShadow_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+			<img id="molisch_bottle_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+			<p id="molisch_bottleTxt_1" class="labelTxt"></p>
+			<div id="molischH2SO4Drop"></div>
+			<div id="tempBG"></div>
+		</div>
+	</div>
+	<div id="fehlingsWrapArea" style="display:none;">
+	<div id="dropAreaTube_1" class="dropAreaTubes"></div>
+	<div id="testTube_1" class="testTubes">
+		<div id="fehlings_glucose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">A</p>
+	</div>
+	<div id="dropAreaTube_2" class="dropAreaTubes"></div>
+	<div id="testTube_2" class="testTubes">
+		<div id="fehlings_lactose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">B</p>
+	</div>
+	<div id="dropAreaTube_3" class="dropAreaTubes"></div>
+	<div id="testTube_3" class="testTubes">
+		<div id="fehlings_sucrose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">C</p>
+	</div>
+	<div id="dropAreaTube_4" class="dropAreaTubes"></div>
+	<div id="testTube_4" class="testTubes">
+		<div id="fehlings_starch" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">D</p>
+	</div>
+	<!-- Bottles and droppers -->
+	
+	<div id="fehlings_dropperWraper" class="dropperWraper_1">
+		<div id="fehlings_droperSolution" class="droperSolution"></div>
+		<img id="molisch_droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+	</div>
+	<div id="fehlingsA" class="bottleSolution"></div>
+	<img id="molisch_bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+	<img id="molisch_bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+	<p id="fehlingsA_bottleTxt" class="labelTxt bottleTxt_1"></p>
+	<div id="fehlings_dropperWraper_1" class="dropperWraper_2">
+		<div id="fehlings_droperSolution_1" class="droperSolution"></div>
+		<img id="molisch_droper_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+	</div>
+	<div id="fehlingsB" class="bottleSolution"></div>
+	<img id="molisch_bottleShadow_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+	<img id="molisch_bottle_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+	<p id="fehlingsB_bottleTxt" class="labelTxt bottleTxt_2"></p>
+	<div id="molischH2SO4Drop"></div>
+	<div id="tempBG"></div>
+	
+</div>
+
+
+
+
+
+
+
+<div id="secondSceneWrapArea" style="display:none;">
+	<img id="hotPlate" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/machineZoom.png" />
+	<div id="secondScene_testTube_1" class="testTube_1">
+		<div id="secondScene_glucose" class="tubeSolutions_1"></div>
+		<img id="morroe_1" class="silverImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/silverMirror.png"/>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/testtubeZoom.png"/>
+		<p class="tLabelsZoom">A</p>
+	</div>
+	<div id="secondScene_testTube_2" class="testTube_2">
+		<div id="secondScene_lactose" class="tubeSolutions_1"></div>
+		<img id="morroe_2" class="silverImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/silverMirror.png"/>
+		<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/testtubeZoom.png"/>
+		<p class="tLabelsZoom">B</p>
+	</div>
+	<div id="secondScene_testTube_3" class="testTube_3">
+		<div id="secondScene_sucrose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/testtubeZoom.png"/>
+		<p class="tLabelsZoom">C</p>
+	</div>
+	<div id="secondScene_testTube_4" class="testTube_4">
+		<div id="secondScene_starch" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/testtubeZoom.png"/>
+		<p class="tLabelsZoom">D</p>
+	</div>
+	<div id='dragDisable'></div>
+	<!-- Water  bath  -->
+	
+<!--   <img id="lightOn" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/light_on.png" />
+   <img id="lightOff" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/light_off.png" />
+   <img id="SwitchOn" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/switch_on.png" />
+   <img id="SwitchOff" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/switch_off.png" />
+   <img id="beakerShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/Beaker_shadow.png" /> -->
+	<div id="boilingWrap"></div>
+   <img id="beakerWater" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/BeakerSolution.png" />
+   <img id="beaker" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/beakerZoom.png" />
+   <div id="dropArea_scene2"></div>		
+   <img id="clockBody" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/clockBody.png"/>
+   <span id="minutLabel"></span>
+   <img id="needle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/needle.png"/>
+</div>
+
+
+
+
+
+
+
+<div id="benedictsWrapArea" style="display:none;">
+	<div id="dropAreaTube_1" class="dropAreaTubes"></div>
+	<div id="testTube_1" class="testTubes">
+		<div id="benedicts_glucose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">A</p>
+	</div>
+	<div id="dropAreaTube_2" class="dropAreaTubes"></div>
+	<div id="testTube_2" class="testTubes">
+		<div id="benedicts_lactose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">B</p>
+	</div>
+	<div id="dropAreaTube_3" class="dropAreaTubes"></div>
+	<div id="testTube_3" class="testTubes">
+		<div id="benedicts_sucrose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">C</p>
+	</div>
+	<div id="dropAreaTube_4" class="dropAreaTubes"></div>
+	<div id="testTube_4" class="testTubes">
+		<div id="benedicts_starch" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">D</p>
+	</div>
+	<!-- Bottles and droppers -->
+	
+	<div id="benedicts_dropperWraper" class="dropperWraper">
+		<div id="benedicts_droperSolution" class="droperSolution"></div>
+		<img id="molisch_droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+	</div>
+	<div id="benedictsSolu" class="bottleSolution"></div>
+	<img id="benedicts_bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+	<img class="benedicts_bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottle.png"/>
+	<p id="benedicts_bottleTxt" class="labelTxt bottleTxt"></p>
+
+	
+</div>
+
+
+
+
+
+
+
+<div id="tollensWrapArea" style="display:none;">
+	<div id="dropAreaTube_1" class="dropAreaTubes"></div>
+	<div id="testTube_1" class="testTubes">
+		<div id="tollens_glucose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">A</p>
+	</div>
+	<div id="dropAreaTube_2" class="dropAreaTubes"></div>
+	<div id="testTube_2" class="testTubes">
+		<div id="tollens_lactose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">B</p>
+	</div>
+	<div id="dropAreaTube_3" class="dropAreaTubes"></div>
+	<div id="testTube_3" class="testTubes">
+		<div id="tollens_sucrose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">C</p>
+	</div>
+	<div id="dropAreaTube_4" class="dropAreaTubes"></div>
+	<div id="testTube_4" class="testTubes">
+		<div id="tollens_starch" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">D</p>
+	</div>
+	<!-- Bottles and droppers -->
+	
+	<div id="tollens_dropperWraper" class="dropperWraper">
+		<div id="tollens_droperSolution" class="droperSolution"></div>
+		<img id="molisch_droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+	</div>
+	<div id="tollensSolu" class="bottleSolution"></div>
+	<img id="benedicts_bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+	<img class="benedicts_bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/brownBottle.png"/>
+	<p id="tollens_bottleTxt" class="labelTxt bottleTxt"></p>
+
+	
+</div>
+
+
+
+
+
+
+
+<div id="iodineWrapArea" style="display:none;">
+	<div id="dropAreaTube_1" class="dropAreaTubes"></div>
+	<div id="testTube_1" class="testTubes">
+		<div id="iodine_glucose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">A</p>
+	</div>
+	<div id="dropAreaTube_2" class="dropAreaTubes"></div>
+	<div id="testTube_2" class="testTubes">
+		<div id="iodine_lactose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg"src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">B</p>
+	</div>
+	<div id="dropAreaTube_3" class="dropAreaTubes"></div>
+	<div id="testTube_3" class="testTubes">
+		<div id="iodine_sucrose" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">C</p>
+	</div>
+	<div id="dropAreaTube_4" class="dropAreaTubes"></div>
+	<div id="testTube_4" class="testTubes">
+		<div id="iodine_starch" class="tubeSolutions_1"></div>
+		<img class="tTubeImg" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/test%20tube%20label.png"/>
+		<p class="tLabels">D</p>
+	</div>
+	<!-- Bottles and droppers -->
+	
+	<div id="iodine_dropperWraper" class="dropperWraper">
+		<div id="iodine_droperSolution" class="droperSolution"></div>
+		<img id="molisch_droper" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/dropper.png"/>	
+	</div>
+	<div id="tollensSolu" class="bottleSolution"></div>
+	<img id="benedicts_bottleShadow" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/bottleShadow.png"/>
+	<img class="benedicts_bottle" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/brownBottle.png"/>
+	<p id="iodine_bottleTxt" class="labelTxt bottleTxt"></p>
+
+	
+</div>
+
+
+
+
+
+
+
+	<div id="nextButton" onclick="secondScene()">
+		<p id="nextBtnLb"></p>
+		<img id="nextbtn" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/nextbtn.png" />
+	</div>
+	<img id="testtubeStand" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/stand.png"/>
+	<img id="labelImg_1" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/label.png"/>
+	<p id="glucoseTxt" class="labelTxt"></p>
+	<img id="labelImg_2" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/label.png"/>
+	<p id="lactoseTxt" class="labelTxt"></p>
+	<img id="labelImg_3" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/label.png"/>
+	<p id="sucroseTxt" class="labelTxt"></p>
+	<img id="labelImg_4" src="../CHE/ORG/Qualitative_Analysis_of_Carbohydrates/images/label.png"/>
+	<p id="starchTxt" class="labelTxt"></p>
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<div class="g198 controlHolder">
+<ul>
+	<li>
+        <div class="varBox" style="height:250px;">
+            <p class="varTitle">
+                <span id="DropboxTestLbl"></span>
+                <select class="dropBox" id="DropboxTest" ></select>
+            </p>
+          </div>
+		<br/><br/>
+		<p align="center">
+			<input type="button" class="subButton" id="reset" onclick="window.location.reload();" value="Reset">
+		</p>
+	</li>	
+</ul>
+</div>
+<script type="text/javascript">
+ var expTitle="Qualitative Analysis of Carbohydrates";
+ document.getElementById("expName").innerHTML=expTitle;
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=ORG&exp=Qualitative_Analysis_of_Carbohydrates&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:43:38 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

@@ -1,0 +1,382 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=ORG&exp=Reactivity_of_carbon_compound&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:32:56 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/custom_resp.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/font.css" />
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/reset.css" />-->
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/grid.css" />-->
+<link href="template/olab_ot_rt/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="template/olab_ot_rt/css/newStyle.css" rel="stylesheet" type="text/css" />
+
+ <!-- <script src="js/jquery/jquery_v1.12.4.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+
+
+    <!-- jQuery UI 1.12.1 -->
+  <!-- <script src="js/jquery/jqueryUI_v1.12.1.js"></script> -->
+   
+  <script src="js/jquery/jquery-ui.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/ORG/Reactivity_of_carbon_compound/css/simstyle.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/ORG/Reactivity_of_carbon_compound/js/simcontrols.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/ORG/Reactivity_of_carbon_compound/js/responsive.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/ORG/Reactivity_of_carbon_compound/js/help.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+
+
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='http://localhost/olabs/CHE/ORG/Reactivity_of_carbon_compound/locale/en-IN/language.json'></script><!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+<script>
+	$(document).ready(function(){
+
+		 //toggle sidebar on clicking the hamburger
+		  $("#menu-toggle").click(function(e) {
+			  e.preventDefault();
+			  $("#wrapper").toggleClass("toggled");
+			  checkWidth();
+		  });
+	
+		//show sidebar on clicking the hamburger and hide on clicking outside
+
+
+		// $('*:not(.menu-toggle)').on('click', function () {
+			// $('#wrapper').removeClass('toggled');
+		// });
+
+		checkWidth();
+		
+		//apply transformation on resizing the window viewport
+
+	
+		var windowWidth = $(window).width();
+		
+		if(windowWidth != $(window).width()){
+			checkWidth();
+		}
+		
+		$(window).resize(function() {
+			
+			checkWidth();
+			// location.reload();
+			// return;
+			
+		 });
+			
+		
+	});
+</script>
+
+</head>
+<body>
+
+
+<div class="container">
+		<div id="wrapper" class="toggled">
+			<header class="header" id="silumatorTemp">
+
+				<nav class="navbar navbar-static-top" role="navigation">   
+					<div class="title" style="display: inline-block;">
+						<p id="expName"></p>
+				
+						<a href="javascript:" class="navbar-btn sidebar-toggle hidden-md hidden-lg hidden-sm" id="menu-toggle" role="button">
+						<!--<a href="javascript:" class="navbar-btn sidebar-toggle" id="menu-toggle" role="button">-->
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+				</nav>
+				
+				<div class="navbar-right">
+					<ul id="olabmenuBar" class="nav navbar-nav">						
+						<li>
+							<a href="#">SAVE</a>
+						</li>
+						<li>
+							<a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;" >FULLSCREEN</a>	                        
+						</li>
+						<li>
+							<a href="#">EXIT</a>                         
+						</li>							
+					</ul>
+				</div>
+
+			</header><!-- /header -->
+ 
+<div id="sidebar-wrapper" class="controlHolder" style="overflow-y:scroll">
+	<div class="nano has-scrollbar">
+		<div class="varBox">
+<div  id="CntrolHead" class="varTitle_1"></div>
+<div id="FirstExprmnt" class="ExprmntBox"></div>
+<p id="FirstExprmntText" class="varTitle"></p>
+<div id="SecondExprmt" class="ExprmntBox"></div>
+<p id="SecondExprmntText" class="varTitle"></p>
+<div id="ThirdExprmnt" class="ExprmntBox"></div>
+<p id="ThirdExprmntText" class="varTitle"></p>
+<div id="FourthExprmnt" class="ExprmntBox"></div>
+<p id="FourthExprmntText" class="varTitle"></p>
+<input type="button" id="ResetBtn" class="subButton"  />
+</div>	</div>
+</div>
+	
+	
+<div id="page-content-wrapper" class="canvasHolder">
+	<div id="inference_Div"></div>
+<div id="BackgroundImgOne"></div>
+ <!-- first Exprmnt Stage One Started-->
+	<div id="FirstExpmntContainer">
+    <div id="Acid_TestTube">
+    <div id="SolutionOne"></div>
+    <div id="SolutionOne_Ring"></div>
+    </div>
+    <div id="Water_TestTube">
+    <div id="WaterDropOne"></div>
+    <div id="SolutionTwo"></div>
+    <div id="SolutionTwo_Ring"></div>
+    </div>
+	<div id="First_TestTube_Stand"></div>
+	<div id="Second_TestTube_Stand"></div>
+	<div id="FirstLabel_Acid">
+	<div id="FirstLabel_Acid_text"></div>
+	</div>
+	<div id="FirstLabel_Water">
+		<div id="FirstLabel_Water_text"></div>
+	</div>
+	<div id="DropArea"></div>
+<!--  first Experiment stage 2-->
+    <div id="ExprmntShk" >
+  <img src="../CHE/ORG/Reactivity_of_carbon_compound/images/Testtube.png" width="30px" height="200px"/>
+  <img src="../CHE/ORG/Reactivity_of_carbon_compound/images/TesttubeWaterTwo.png" width="30px" height="173px" id="shkSolution"/>
+  <img src="../CHE/ORG/Reactivity_of_carbon_compound/images/TesttubeWhiteLine.png" width="30px" height="2px" id="ShkRing" />
+  </div>
+  </div>
+<!--  End( first Experiment stage 2)  -->
+<!-- second Experiment -->
+<div id="SecondExpmntContainer">
+<div id="BackgroundImgTwo"></div>
+<div id="ExpTwo_TestTube_Stand"></div>
+<div id="Second_exp_label_text"></div>
+<div id="Second_exp_testube"></div>
+<div id="smoke"></div>
+</div>
+<!-- End Second Experiment -->
+<!-- Third Experiment Starts-->
+<div id="ThirdExpmntContainer">
+<div id="BackgroundImgTree">
+<div id="Dropper_Dragger">
+<div id="Dropper">
+<div id="DropperSolution"></div>
+<div id="coldiv"></div>
+</div></div>
+<div id="TesttubeStand_Labels"></div>
+<div id="Third_exp_label_text_One"></div>
+<div id="Third_exp_label_text_Two"></div>
+<div id="Acid_TestTube_Three">
+<div id="AcidSolutiionThree"></div>
+<div id="AcidRingTree"></div>
+</div>
+<div id="StainDropDiv">
+<div id="DropsOne"></div>
+<div id="DropsTwo"></div>
+<div id="DropsThree"></div>
+<div id="DropsFour"></div>
+</div>
+<div id="DippInAcid"></div>
+<div id="Stain"></div>
+</div>
+</div>
+<!-- End Third Experiment -->
+<!--Fourth Experiment Starts -->
+
+<div id="FourthExpmntContainer">
+<div id="BackgroundImgFour"></div>
+<div id="Acid_Flask">
+<div id="Acid_solution_ring"></div>
+<div id="Acid_solution_four"></div>
+<div id="SlopOne"></div>
+<div id="SlopSolution"></div>
+</div>
+
+<div id="Fourth_Testtube_set">
+<div id="TubeWater"></div>
+</div>
+<div id="Flask_drop"></div>
+<div id="DropArea_four"></div>
+<div id="Left_solution_ring"></div>
+<div id="MovingSolution"></div>
+<div id="Left_solution">
+<div id="BubbleOne_left" class="largeBubble"></div>
+<div id="BubbleTwo_left" class="smallBubble"></div>
+<div id="BubbleThree_left" class="mediumBubble"></div>
+<div id="BubbleFour_left" class="largeBubble"></div>    <!-- Bubble set left-->
+<div id="BubbleFive_left" class="smallBubble"></div>
+<div id="BubbleSix_left" class="mediumBubble"></div>
+<div id="BubbleSeven_left" class="smallBubble"></div>
+
+</div>
+<div id="Right_solution">
+<div id="Change_solution_one"></div>
+<div id="Change_solution_two"></div>
+<div id="Change_solution_three"></div>
+<div id="Change_solution_four"></div>
+<div id="Right_solution_ring"></div>
+<div id="BubbleOne_right" class="smallBubble"></div>
+<div id="BubbleTwo_right" class="mediumBubble"></div>
+<div id="BubbleThree_right" class="largeBubble"></div>
+<div id="BubbleFour_right" class="mediumBubble"></div>    <!-- Bubble set right-->
+<div id="BubbleFive_right" class="largeBubble"></div>
+<div id="BubbleSix_right" class="smallBubble"></div>
+<div id="BubbleSeven_right" class="largeBubble"></div>
+
+</div>
+<div id="BackSide_testtube_hand"></div>
+<div id="Acid_Flask_shadow"></div>
+<div id="Exp_four_label"></div>
+<div id="Exp_four_label_two"></div>
+<div id="Exp_four_label_three"></div>
+<div id="Fourth_exp_label_text"></div>
+<div id="Fourth_exp_label_text_two"></div>
+<div id="Fourth_exp_label_text_tree"></div>
+<div id="Glass_rod"></div>
+</div>
+<!-- End Fourth Experiment -->
+</div>
+
+<script type="text/javascript">
+ var expTitle="Properties of Acetic Acid (Ethanoic Acid)";
+ document.getElementById("expName").innerHTML=expTitle;
+</script>
+.
+
+</div>
+
+   <footer id="tempFooter" style="margin-top: -4em">
+	<div style="margin-left: 1em;margin-top: -1.5em;position: absolute;width: 75%;">
+<p class="labName">Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology</p>	
+</div>
+	<div style="position:relative">
+		<div style="float:right;position: absolute;top:-1em;right:2em;"><img src="template/olab_ot_rt/images/dit_logo.gif" ></div>
+	</div>  
+</footer>
+</div>
+
+
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=ORG&exp=Reactivity_of_carbon_compound&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:33:00 GMT -->
+</html>
+<!--<script type="text/javascript" src="js/resp.js"></script>-->
+<script>
+
+ 
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

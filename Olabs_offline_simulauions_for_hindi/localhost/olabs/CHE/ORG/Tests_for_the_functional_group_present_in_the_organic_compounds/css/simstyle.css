@@ -1,0 +1,1104 @@
+@charset "utf-8";
+@font-face {
+	font-family:MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+.varTitle{
+	padding: 10px 0px 2px 10px !important;
+}
+#reset{
+	width: 127px;
+}
+#expName{
+	height: 28px;
+	padding-top: 6px;
+}
+#mainDiv {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:570px;
+	height:337px;
+	overflow:hidden;
+	background:#FFF;
+	opacity:0.99;
+}
+#inference{
+	position: absolute;
+	cursor:pointer;
+	top:6px;
+	left:4px;
+	display:none;
+	z-index:10;
+}
+#inferenceHelp{
+	position: absolute;	
+	top:47px;
+	left:40px;
+}
+.addSpace{
+	padding: 163px 0px 0px 0px;
+}
+.testtubeDivStyle{
+	position: absolute;	
+	width:30px;
+	height:160px;	
+}
+.testtubeSolnDivStyle{
+	position: absolute;
+	top: 130px;
+	left: 1px;
+	width: 30px;
+	height: 34px;
+	overflow: hidden;
+}
+.testtubeDivStyle{
+	position: absolute;	
+	width:30px;
+	height:160px;	
+}
+#functionalTest{
+	display: none;
+}
+#testtubeA,#testtubeADrag{
+	top: 100px;	
+	left: 123px;
+	display:none;
+}
+#testtubeA,#testtubeB,#testtubeC{
+	-webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
+    backface-visibility: hidden;
+    -moz-backface-visibility: hidden; /* Firefox */
+}
+#aminesContainer{
+	display:none;
+}
+#subTestContainer{
+	display:none;
+}
+.solnStyle{
+	position:absolute;
+	width: 28px;
+	height: 112px;
+	top: -82px;
+	opacity:0.3;
+	background-color:#CCC;
+	border-bottom-right-radius:1em;
+	border-bottom-left-radius:1em;
+}
+.solnBorderStyle{
+	border:solid #FFF;width:22px;position:absolute;height:1px;top:-6px;
+}
+.testtubeLabelStyle{
+	position:absolute;
+	width: 10px;
+	height: 13px;
+	top: 12px;
+	left: 9px;
+	font-family: MRKGPEN;
+	font-size: 14px;
+	font-weight: 800;
+	text-align:center;
+	background-color: #FFF;
+	padding: 1px;
+}
+#testtubeB,#testtubeBDrag{
+	top: 100px;	
+	left: 210px;
+	display:none;
+}
+#testtubeC,#testtubeCDrag{
+	top: 100px;	
+	left: 291px;
+	display: none;
+}
+#crystImg{
+	position:absolute;
+	top: 126px;
+  	left: 2px;
+  	display: none;
+}
+#stand1{
+	position:absolute;
+	top: 139px;
+	left: 80px;
+	display:none;
+}
+#stand2{
+	position:absolute;
+	top: 139px;
+	left: 146px;
+	display:none;
+}
+#stand3{
+	position:absolute;
+	top: 139px;
+	left: 110px;
+	display:none;
+}
+#bottle1{
+	position: absolute;
+	top: 152px;
+	left: 416px;
+	width:60px;
+	height:130px;
+	display:none;
+}
+#bottle1WhiteLabel,#nh3bottleWhiteLabel{
+	position: absolute;
+	top: 72px;
+	left: 1px;
+	width: 59px;
+	height: 30px;
+	background-color: #FFF;
+}
+#dropper1{
+	position: absolute;
+	top: 98px;
+	left: 435px;
+	width:20px;
+	height:119px;
+	display:none;
+}
+#dropperSoln1{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	width:9px;
+	height: 56px;
+	opacity: 0.5;
+}
+#bottle1SolnName{
+	top: 72px;
+}
+#bottle2{
+	position: absolute;
+	top: 152px;
+	left: 416px;
+	width:60px;
+	height:130px;
+	display:none;
+}
+#bottle2WhiteLabel{
+	position: absolute;
+	top: 72px;
+	left: 1px;
+	width: 59px;
+	height: 30px;
+	background-color: #FFF;
+}
+#dropper2{
+	position: absolute;
+	top: 98px;
+	left: 435px;
+	width:20px;
+	height:119px;
+	display:none;
+}
+#dropperSoln2{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	width:9px;
+	height: 56px;
+	opacity: 0.5;
+}
+#bottle2SolnName{
+	top: 72px;
+}
+#bottle3{
+	position: absolute;
+	top: 152px;
+	left: 416px;
+	width:60px;
+	height:130px;
+	display:none;
+}
+#bottle3WhiteLabel{
+	position: absolute;
+	top: 72px;
+	left: 1px;
+	width: 59px;
+	height: 30px;
+	background-color: #FFF;
+}
+#bottle4WhiteLabel{
+	position: absolute;
+	top: 72px;
+	left: 1px;
+	width: 59px;
+	height: 30px;
+	background-color: #FFF;
+}
+#dropper3{
+	position: absolute;
+	top: 98px;
+	left: 435px;
+	width:20px;
+	height:119px;
+	display:none;
+}
+#dropperSoln3{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	width:9px;
+	height: 56px;
+	opacity: 0.5;
+}
+#bottle3SolnName{
+	top: 72px;
+}
+#bottle4{
+	position: absolute;
+	top: 152px;
+	left: 207px;
+	width:60px;
+	height:130px;
+	display: none;
+}
+#bottle4SolnName{
+	top: 72px;
+}
+#dropper4{
+	position: absolute;
+	top: 98px;
+	left: 228px;
+	width:20px;
+	height:119px;
+	display:none;
+}
+#dropperSoln4{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	width:9px;
+	height: 56px;
+	opacity: 0.5;
+}
+.bottleSolnStyle{
+	position: absolute;
+	top: 32px;
+	left: 0px;
+	width: 59px;
+	height: 96px;
+	background-color: #B59EB7;
+	border-radius: 20px 20px 7px 7px;
+
+}
+.bottleLabel{
+	position: absolute;	
+	left: 0px;
+	font-family: MRKGPEN;
+	font-size: 12px;
+	width: 59px;
+	height: auto;
+	text-align:center;
+}
+#labelDiv{
+	position: absolute;
+	top: 253px;
+	left: 77px;
+	width: 298px;
+	height: 59px;
+}
+.labelClass{
+	position: absolute;
+	top:13px;
+}
+.labelTextClass{
+	position: absolute;
+	top:3px;
+	font-family: MRKGPEN;
+	font-size: 13px;
+	width:76px;
+	height: 28px;
+	word-wrap: break-word;
+	text-align:center;
+}
+#labelBoard{
+	position: absolute;
+	top: 237px;
+	left: 150px;
+	display:none;
+}
+#labelBoardText{
+	top:7px;
+	width: 122px;
+	height: 32px;
+}
+#label1Div{	
+	left:23px;
+	display:none;
+}
+#label2Div{	
+	left:111px;
+	display:none;
+}
+#label3Div{	
+	left:197px;
+	display:none;
+}
+#silverMirror{
+	position: absolute;
+	top: 119px;
+  	left: 1px;
+  	height: 41px;
+  	display:none;
+}
+/*--Burner styles--*/
+#burnerContainer{
+	position: absolute;
+	top: 91px;
+	left: -47px;
+	width:165px;
+	height:190px;
+	display:none;
+}
+#burner{
+	position: absolute;
+	top:50px;
+	left:0px;
+}
+#burnerFlame{
+	position: absolute;
+	top:-1px;
+	left:107px;
+	display:none;
+}
+#burnerOff{
+	position: absolute;
+	top: 112px;
+	left: 46px;
+	cursor: pointer;
+	padding: 20px;
+}
+#burnerOn{
+	position: absolute;
+	top: 113px;
+	left: 55px;
+	padding: 20px;
+	display:none;
+}
+#burnerhelpDiv{
+	position:absolute;
+	top: 178px;
+	left: 1px;
+	width: 75px;
+	height: 75px;
+	z-index: 5;
+	display:none;
+}
+#spatulaDiv{
+	position: absolute;
+	top: -7px;
+	left: 81px;
+	width: 102px;
+	height: 70px;
+}
+#spatulaPowder{
+	position: absolute;
+	top: 47px;
+	left: 0px;
+}
+#spatula{
+	position: absolute;
+	
+}
+#watchGlassDiv{
+	position: absolute;
+	top: 239px;
+	left: 373px;
+	width: 48px;
+	height: 16px;
+	display:none;
+}
+#watchGlassPowder{
+	position: absolute;
+	top: 25px;
+	left: 31px;
+}
+#watchGlass{
+	position: absolute;
+	top: 36px;
+	left: 0px;
+}
+#hotMachineHelpDiv{
+	position: absolute;
+	top: 176px;
+	left: 383px;
+	top: 216px;
+ 	left: 407px;
+}
+#hot_machine{
+	position: absolute;
+	top: 176px;
+	left: 383px;
+	display: none;
+}
+#beaker{
+	position: absolute;
+	top: -115px;
+	left: 30px;
+}
+#hot_machineImg{
+	position: absolute;	
+}
+#beakerSoln{
+	position: absolute;
+	top: -53px;
+	left: 1px;
+}
+#beakerSolnDiv{
+	position: absolute;
+	top: -50px;
+	left: 30px;
+	width:112px;
+	height:81px;
+	overflow: hidden;
+}
+#beakerSolnBorder{
+	border:solid #FFF;width:98px;position:absolute;height:1px;top:-6px;left:1px;
+}
+#lightOn{
+	position:absolute;
+	left: 43px;
+	top: 53px;
+}
+#lightOff{
+	position:absolute;
+	left: 43px;
+	top: 53px;
+}
+#switchOn{
+	position:absolute;
+	left: 83px;
+	top: 53px;
+}
+#switchOff{
+	position:absolute;
+	left: 83px;
+	top: 53px;
+}
+
+.drop{
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 10px solid #CCC;
+	border-bottom-right-radius:1em;
+	border-bottom-left-radius:1em;
+}
+#drop1{
+	position:absolute;
+	top: 114px;
+	left: 196px;	
+	display:none;
+}
+#drop2{
+	position:absolute;
+	top: 129px;
+	left: 195px;	
+	display:none;
+}
+#cork{
+	position:absolute;
+	top: 253px;
+	left: 291px;
+	display:none;
+}
+#corkOntesttube{
+	position:absolute;
+	top: -9px;
+	left: 2px;
+	display:none;
+}
+#litmuspaperTile{
+	position:absolute;
+	width: 126px;
+	height: 54px;
+    -webkit-transform: skew(-37deg); 
+    -moz-transform: skew(-37deg); 
+    transform: skew(-37deg);
+    background: #000;
+    margin: 20px;
+	background-color: #FFF;
+}
+#litmuspaper{
+	position:absolute;
+	top:5px;
+	left:47px;	
+	width: 27px;
+	height: 45px;
+    -webkit-transform: skew(-37deg); 
+    -moz-transform: skew(-37deg); 
+    transform: skew(-37deg);
+    margin: 20px;
+
+}
+#litmusTestDiv{
+	display:none;
+	position:absolute;
+	top: 209px;
+	left: 106px;
+}
+#nextBtnHelp{
+	position:absolute;
+	top: 25px;
+	left: 458px;
+}
+#nextBtnDiv{
+	position:absolute;
+	top: 17px;
+	left: 458px;
+	cursor: pointer;
+	display: none;
+}
+#nextLabel{
+	position:absolute;
+	top: 9px;
+	left:2px;
+}
+#beakerSmallDiv{
+	position:absolute;
+	top: 200px;
+	left: 450px;
+	width: 69px;
+	height: 80px;
+	display:none;
+}
+#beakerSmallSolnDiv{
+	position:absolute;
+	top: 49px;
+	width: 63px;
+	height: 30px;
+	left: 2px;
+	border-bottom-left-radius: 1em;
+	border-bottom-right-radius: 1em;
+	overflow: hidden;
+}
+#beakerSmallSolnBorder{
+	border:solid #FFF;width:59px;position:absolute;height:1px;top:-6px;left:1px;
+}
+#beakerSmallSoln{
+	position:absolute;
+	width: 69px;
+	height: 30px;
+	background-color: #CCC;
+	opacity:0.3;
+	border-bottom-left-radius: 1em;
+	border-bottom-right-radius: 1em;
+}
+/*--Clock styles--*/
+#clockDiv{
+	position: absolute;
+	top: 6px;
+	left: 461px;
+	width:96px;
+	height:96px;
+	display:none;
+}
+#clock{
+	position: absolute;
+}
+#needle{
+	position: absolute;
+	top: 19px;
+	left: 45px;
+} 
+#timeLabel{
+	position: absolute;
+	top:60px;
+	left:10px;
+	display: block;
+} 
+#bubblesBeaker{
+	position: absolute;
+	width: 103px;
+	height: 52px;
+	top: 128px;
+	left: 264px;
+	display: none;
+	z-index: 1;
+	overflow: hidden;
+
+}
+.bubbleBeakr {
+	width: 3px; 
+	height: 3px;
+	background:#CCC;
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	opacity: 0;
+	position: absolute; 
+}
+
+#x1 {
+	left:2px;
+	opacity: 1;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 2s  infinite;
+	-moz-animation: movebubbles 2s  infinite;
+	-o-animation: movebubbles 2s infinite;
+
+}
+#x2 {
+	left: 8px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 1s  infinite;
+	-moz-animation: movebubbles 1s  infinite;
+	-o-animation: movebubbles 1s  infinite;
+}
+#x3 {
+	left: 15px; 
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 2s  infinite;
+	-moz-animation: movebubbles 2s  infinite;
+	-o-animation: movebubbles 2s  infinite;
+}
+#x4 {
+	left: 20px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 1s  infinite;
+	-moz-animation: movebubbles 1s  infinite;
+	-o-animation: movebubbles 1s  infinite;
+}
+#x5 {
+	left: 30px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 1s  infinite;
+	-moz-animation: movebubbles 1s  infinite;
+	-o-animation: movebubbles 1s  infinite;
+}
+#x6 {
+	left: 40px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 4s  infinite;
+	-moz-animation: movebubbles 4s  infinite;
+	-o-animation: movebubbles 4s  infinite;
+}
+#x7 {
+	left: 50px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 5s  infinite;
+	-moz-animation: movebubbles 5s  infinite;
+	-o-animation: movebubbles 5s  infinite;
+}
+#x8 {
+	left: 60px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 1s  infinite;
+	-moz-animation: movebubbles 1s  infinite;
+	-o-animation: movebubbles 1s  infinite;
+}
+#x9 {
+	left: 70px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 2s  infinite;
+	-moz-animation: movebubbles 2s  infinite;
+	-o-animation: movebubbles 2s  infinite;
+}
+#x10 {
+	left: 90px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: movebubbles 3s  infinite;
+	-moz-animation: movebubbles 3s  infinite;
+	-o-animation: movebubbles 3s  infinite;
+}
+@-webkit-keyframes movebubbles {
+from{top:80%;-webkit-transform: rotate(0deg);}
+to{top:-40%;-webkit-transform: rotate(360deg);}
+}
+@-moz-keyframes movebubbles {
+from{top:80%;-moz-transform: rotate(0deg);}
+to{top:-40%;-moz-transform: rotate(360deg);}
+}
+@-o-keyframes movebubbles {
+from{top:80%;-0-transform: rotate(0deg);}
+to{top:-40%;-0-transform: rotate(360deg);}
+}     
+#solutionPour{
+	position:absolute;
+	top: 195px;
+	left: 485px;
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 0px solid transparent;
+	border-top: 0px solid #CCC;
+	opacity: 0.6;
+	display:none;
+}
+#powderSample{
+	position: absolute;
+	top: 104px;
+	left: 129px;
+	width: 15px;
+	height: 19px;
+	display:none;
+}
+
+#bubbles{
+	position: absolute;
+	width: 30px;
+	height: 29px;
+	top: 131px;
+	left: 0px;
+	display: none;
+	z-index: 1;
+	overflow: hidden;
+}
+.bubble {
+	width: 5px; 
+	height: 5px;
+	background:#FFF;
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	opacity: 0;
+	position: absolute; 
+}
+
+#x1bubble {
+	left:2px;
+	opacity: 1;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 2s  infinite;
+	-moz-animation: bubblesmove 2s  infinite;
+	-o-animation: bubblesmove 2s infinite;
+
+}
+#x2bubble {
+	left: 8px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 1s  infinite;
+	-moz-animation: bubblesmove 1s  infinite;
+	-o-animation: bubblesmove 1s  infinite;
+}
+#x3bubble {
+	left: 15px; 
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 2s  infinite;
+	-moz-animation: bubblesmove 2s  infinite;
+	-o-animation: bubblesmove 2s  infinite;
+}
+#x4bubble {
+	left: 20px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 1s  infinite;
+	-moz-animation: bubblesmove 1s  infinite;
+	-o-animation: bubblesmove 1s  infinite;
+}
+#x5bubble {
+	left:11px;
+	opacity: 1;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 3s  infinite;
+	-moz-animation: bubblesmove 3s  infinite;
+	-o-animation: bubblesmove 3s infinite;
+
+}
+#x16bubble {
+	left: 15px;
+	opacity: 1; 
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(1.0);
+	transform: scale(1.0);
+	-webkit-animation: bubblesmove 4s  infinite;
+	-moz-animation: bubblesmove 4s  infinite;
+	-o-animation: bubblesmove 4s  infinite;
+}
+@-webkit-keyframes bubblesmove {
+from{top:70%;-webkit-transform: rotate(0deg);}
+to{top:-50%;-webkit-transform: rotate(360deg);}
+}
+@-moz-keyframes bubblesmove {
+from{top:70%;-moz-transform: rotate(0deg);}
+to{top:-50%;-moz-transform: rotate(360deg);}
+}
+@-o-keyframes bubblesmove {
+from{top:70%;-0-transform: rotate(0deg);}
+to{top:-50%;-0-transform: rotate(360deg);}
+}
+
+#testtubePowder{
+	position:absolute;
+	top: 138px;
+	left: 4px;
+	width: 25px;
+	height: 20px;
+	display: none;
+}
+#testtubeBPowder{
+	position:absolute;
+	top: 138px;
+	left: 4px;
+	width: 25px;
+	height: 20px;
+	display: none;
+}
+#testtubeCPowder{
+	position:absolute;
+	top: 138px;
+	left: 4px;
+	width: 25px;
+	height: 20px;
+	display: none;
+}
+#funnel{
+	position:absolute;
+	top: 138px;
+	left: 4px;
+	display: none;
+}
+#solnpourImg {
+	position:absolute;
+	top: -2px;
+	left: 12px;
+	width: 0;
+	height: 0;
+	border-radius: 2px 3px 0px 0px;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 140px solid #FFFFFF;
+	opacity: 0;
+	display:none;
+}
+#solnApourImg,#solnCpourImg {
+	position:absolute;
+	top: -2px;
+	left: 12px;
+	width: 0;
+	height: 0;
+	border-radius: 2px 3px 0px 0px;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 140px solid #FFFFFF;
+	opacity: 0;
+	display:none;
+}
+#sodiumBottleDiv{
+	position:absolute;
+	top: 149px;
+	left: 432px;
+	display: none;
+}
+#sodiumBottle{
+	position:absolute;
+	
+}
+#sodiumBottleTop{
+	position:absolute;
+	top: -5px;
+	left: 12px;
+}
+#filterPaperStill{	
+	position: absolute;	
+	top: 257px;
+	left: 194px;
+	width: 100px;
+	height: 22px;
+	display:none;
+}
+#spotStill{
+	position: absolute;
+	top: 7px;
+	left: 36px;
+	width: 26px;
+	height: 7px;
+	border-radius: 100%;
+	-webkit-transform: scaleX(1.0);
+	-moz-transform: scaleX(1.0);
+	-ms-transform: scaleX(1.0);
+	-o-transform: scaleX(1.0);
+	transform: scaleX(1.0);
+	background-color: #CCC;
+	display:none;
+}
+
+#spot{
+	position: absolute;
+	top: 7px;
+	left: 36px;
+	width  : 26px;
+	height: 7px;
+	border-radius: 100%;
+	-webkit-transform: scaleX(1.0);
+	-moz-transform: scaleX(1.0);
+	-ms-transform: scaleX(1.0);
+	-o-transform: scaleX(1.0);
+	transform: scaleX(1.0);
+	background-color: #CCC;
+	display:none;
+}
+#filterPaperDrag{
+	position: absolute;
+	top: 226px;
+	left: 203px;
+	width: 100px;
+	height: 22px;
+	display:none;
+}
+#forceps{
+	position: absolute;
+	top: 158px;
+	left: 326px;
+	display: none;
+}
+#glassRod{
+	position: absolute;
+	top: 226px;
+	left: 376px;
+	display:none;
+}
+#nh3bottle{
+	position: absolute;
+	top: 152px;
+	left: 452px;
+	display:none;
+}
+#nh3bottleSolnName{
+	top: 72px;
+}
+#smokeDivstillImg {
+	position: absolute;
+	width:30px;
+	left:-5px;
+	height:265px;
+}
+#smokeDivstill {
+	position: absolute;
+	width: 21px;
+	height: 0px;
+	top: 228px;
+	left: 100px;
+	overflow:hidden;
+	display:block;
+}
+#smokeImg {
+	position: absolute;
+	width:30px;
+	left:-5px;
+	height:265px;
+}
+#smokeDiv {
+	position: absolute;
+	width: 21px;
+	height: 227px;
+	top: 0px;
+	left: 100px;
+	overflow:hidden;
+	opacity:0;
+	display:block;
+}
+.smoke {
+	display: block;
+	position: relative;
+	opacity: 1;
+	-webkit-animation: smokeMove1 35s infinite normal;
+	-moz-animation: smokeMove1 35s infinite normal;
+	-o-animation: smokeMove1 35s infinite normal;
+	-ms-animation: smokeMove1 35s infinite normal;
+	animation: smokeMove1 35s infinite normal;
+}
+@-webkit-keyframes smokeMove1 {
+ 0% {
+ top: 11px;
+}
+ 100% {
+ top: -40px;
+}
+}
+@-moz-keyframes smokeMove1 {
+ 0% {
+ top: 11px;
+}
+ 100% {
+ top: -40px;
+}
+}
+@-o-keyframes smokeMove1 {
+ 0% {
+ top: 11px;
+}
+ 100% {
+ top: -40px;
+}
+}
+#sodium{
+	position:absolute;
+	top: 258px;
+	left: 235px;
+	display: none;
+}
+#sodiumbottleName{
+	position: absolute;
+	top: 75px;
+	left: 20px;
+
+}
+#icebathTop{
+	position: absolute;
+	top: 181px;
+	left: 359px;
+	display: none;
+}
+#icebathBottom{
+	position: absolute;
+	top: 182px;
+	left: 359px;
+	display: none;
+}
+#yellowOilLayer{
+	position: absolute;
+  	top: 127px;
+  	left: 2px;
+ 	width: 27px;
+  	height: 14px;
+	background-color: yellow;
+	display: none;
+}

@@ -1,0 +1,856 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=PHC&exp=Surface_Chemistry&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:34:06 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/PHC/Surface_Chemistry/css/simstyle.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../CHE/PHC/Surface_Chemistry/locale/en-IN/language.js'></script>
+
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_aluminiumHydroxide.js"></script>
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_arseniousSulphide.js"></script>
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_starch.js"></script>
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_ferricHydroxide.js"></script>
+
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_gum.js"></script>
+
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help_egg.js"></script>
+
+<!--Include main .js files-->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols.js"></script> 
+
+<!-- Starch -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_starch.js"></script> 
+
+<!-- Gum -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_gum.js"></script> 
+
+<!-- Ferric Hydroxide -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_ferricHydroxide.js"></script>
+
+<!-- Aluminium Hydroxide -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_aluminiumHydroxide.js"></script>
+
+<!-- Arsenious Sulphide -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_arseniousSulphide.js"></script>
+
+<!-- Egg Albumin -->
+<script type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/simcontrols_Eggalbumin.js"></script>
+
+
+
+
+<!-- Help -->
+<script language="javascript" type="text/javascript" src="../CHE/PHC/Surface_Chemistry/js/help.js"></script> 
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<script type="text/javascript" language="javascript">
+	var simPath="http://localhost/olabs/CHE/PHC/Surface_Chemistry/";
+</script>
+<div id="mainDiv">
+	<img id="backGroundImg"  src="../CHE/PHC/Surface_Chemistry/images/background.jpg" />
+	<img id="drop"  class="possAbsol" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<img id="drop_1" class="possAbsol" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+    <!-----INCLUDE DIFFERENT CANVAS FILE------>
+    <div id="starchSln_canvas" class="commnContainer">
+	
+	<img id="burnerSet"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />	
+	<img id="watchglass_Shadow"  src="../CHE/PHC/Surface_Chemistry/images/watchglass_Shadow.png" />	
+	<div id="watchGlssContainer">
+		<img id="watchglass"  src="../CHE/PHC/Surface_Chemistry/images/watchglass.png" />
+		<img id="gum_Paste"  src="../CHE/PHC/Surface_Chemistry/images/gum_Paste.png" />
+	</div>
+	<img id="label_One"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_StarchPst"></p>
+	<img id="label_dstldWtrStrch"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_StarchWtr"></p>
+	<div id="beaker_Container">
+		<div id="beaker_Water"></div>
+		<img id="beaker"  src="../CHE/PHC/Surface_Chemistry/images/beaker.png" />
+		<div id="bubble_1" class="bubbles"></div>
+		<div id="bubble_2" class="bubbles"></div>
+		<div id="bubble_3" class="bubbles"></div>
+		<div id="bubble_4" class="bubbles"></div>
+	</div>
+	<img id="glassRod_Stand"  src="../CHE/PHC/Surface_Chemistry/images/glassRod_Stand.png" />
+	<div id="glassRodDiv">
+		<img id="glassRod"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+	</div>
+	<img id="standWith_Funnel"  src="../CHE/PHC/Surface_Chemistry/images/standWith_Funnel.png" />
+	<img id="label_Two"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_StarSol"></p>
+	<div id="waterFour"></div>
+	<div id="waterFive">
+		<img id="waterFiveImg" src="../CHE/PHC/Surface_Chemistry/images/waterFive.png" />
+	</div>
+	<img id="burnerOn"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+	<img id="burnerOff"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+	<div id="flame">
+		<img class="flame1_starch" src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+		<img class="flame2_starch" src="../CHE/PHC/Surface_Chemistry/images/flame2.png" />
+		<img class="flame3_starch" src="../CHE/PHC/Surface_Chemistry/images/flame3.png" />
+		<img class="flame4_starch" src="../CHE/PHC/Surface_Chemistry/images/flame4.png" />
+		<img class="flame5_starch" src="../CHE/PHC/Surface_Chemistry/images/flame5.png" />
+	</div>
+
+	<div id="beakerDropArea"></div>
+	<div id="watchGlsDropArea"></div>
+
+	<div id="starch_PastePowder">
+		<img  id="strchPwdr" src="../CHE/PHC/Surface_Chemistry/images/powderPour.png" />
+	</div>
+	<div id="conclFlskwaterFlow_contr">
+		<div id="conclFlskwaterFlow_wtr"></div>
+	 </div>
+
+	<img id="starch_PasteSecond"  src="../CHE/PHC/Surface_Chemistry/images/gum_Paste.png" />
+	<div id="glsRdDropArea"></div>
+	<div id="funnelDropAre"></div>
+	<div id="dialsOfStrh_btn">
+		<img width="174" height="40" src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+		<p id="dialsOfStrh_btnText"></p>
+	</div>
+
+</div>
+<div id="starchSlnDialysis_canvas" class="commnContainer">
+
+	<img id="funnelStand"  src="../CHE/PHC/Surface_Chemistry/images/funnelStand.png" />
+	<img id="balloonOne"  src="../CHE/PHC/Surface_Chemistry/images/balloonOne.png" />
+	<img id="balloonFilled"  src="../CHE/PHC/Surface_Chemistry/images/balloonFilled.png" />
+
+	
+	<div id="beakerWtr_two"></div>
+	<img id="beakerShadow_two"  src="../CHE/PHC/Surface_Chemistry/images/beakerShadow_two.png" />
+	<img id="beaker_two"  src="../CHE/PHC/Surface_Chemistry/images/beaker_two.png" />
+
+	<div id="conicalFlask_Container">
+
+		<img style="z-index:2;" src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		<img id="conicalFlaskWtr" src="../CHE/PHC/Surface_Chemistry/images/waterFive.png" />	
+		<div id="waterTwo_2"></div>
+
+	</div>
+	
+		<img id="conicalFlask_Shadow" src="../CHE/PHC/Surface_Chemistry/images/conicalFlask_Shadow.png" />	
+		<img id="bottleBrown_one" src="../CHE/PHC/Surface_Chemistry/images/bottleBrown.png" />	
+
+		<img id="bottleBrown_two" src="../CHE/PHC/Surface_Chemistry/images/bottleBrown.png" />
+		
+
+		<div id="dropper_one">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_SlvrNtrt" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution.png"/>
+		</div>
+
+		<div id="dropper_two">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_Idn" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution_Idn.png"/>
+			
+		</div>
+
+		<div id="dropper_three">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_three" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution.png"/>
+			<div id="drprThree_colln"></div>
+			
+		</div>
+		<img id="stand" src="../CHE/PHC/Surface_Chemistry/images/stand.png" />
+		<img id="testtube_one" src="../CHE/PHC/Surface_Chemistry/images/testtube.png" />
+		<img id="testtube_two" src="../CHE/PHC/Surface_Chemistry/images/testtube.png" />
+
+	<div id="dropArea_StrchDyls"></div>
+	<div id="beaker_colln"></div>
+	<div id="testTube_DropAreaOne"></div>
+	<div id="testTube_DropAreaTwo"></div>
+	<div id="testTube_DropAreaThree"></div>
+	<div id="dropAreaInsdBkr_starch"></div>
+	<img id="drops_1" class="dropsSet" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<img id="drops_2" class="dropsSet" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<img id="drops_3" class="dropsSet" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<div id="testTubeSln_one"></div>
+	<div id="testTubeSln_two"></div>
+
+	<img id="label_three"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_threeText"></p>
+	<img id="label_four"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+
+	<p id="label_fourText"></p>
+ 	<img id="label_five"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+ 	<p id="label_fiveText"></p>
+
+	<img id="dropsTwo_1" class="dropsSetTwo" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+	<img id="dropsTwo_2" class="dropsSetTwo" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+	<img id="dropsTwo_3" class="dropsSetTwo" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+		
+
+	<div id="waterReset_btn">
+		<img width="174" height="40" src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+		<p id="waterReset_btnText"></p>
+	</div>
+	<div id="tooltipOne">
+		<img src="../CHE/PHC/Surface_Chemistry/images/popup.png" />
+		<p id="tooltipOneTxt"></p>
+	</div>
+
+
+			<img id="glassRodDivStrch"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+		
+</div>
+<div id="gumSln_canvas" class="commnContainer">
+	
+	<img id="burnerSet_gum"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />	
+	<img id="watchglass_ShadowGum"  src="../CHE/PHC/Surface_Chemistry/images/watchglass_Shadow.png" />	
+
+	<div id="watchGlssContainerGum">
+
+			<img id="watchglass"  src="../CHE/PHC/Surface_Chemistry/images/watchglass.png" />
+			<img id="gum_PasteTwo"  src="../CHE/PHC/Surface_Chemistry/images/gum_Paste.png" />
+
+
+	</div>
+	<img id="label_One"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_gumPst"></p>
+	<div id="beaker_ContainerGum">
+		<div id="beaker_WaterGum"></div>
+
+				<img id="beaker"  src="../CHE/PHC/Surface_Chemistry/images/beaker.png" />
+				
+		</div>
+		<img id="glassRod_Stand"  src="../CHE/PHC/Surface_Chemistry/images/glassRod_Stand.png" />
+		<div id="glassRodDiv_Gum">
+			<img id="glassRod"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+		</div>
+		
+		<img id="standWith_Funnel"  src="../CHE/PHC/Surface_Chemistry/images/standWith_Funnel.png" />
+		<img id="label_Two"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p id="label_GumSol"></p>
+		<div id="waterFour_Gum">
+			
+		</div>
+		<div id="waterFive_gum">
+			<img id="waterFiveImg" src="../CHE/PHC/Surface_Chemistry/images/waterFive.png" />
+		</div>
+		
+
+		<img id="burnerOnGum"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<img id="burnerOffGum"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		
+		<div id="flame_gum">
+			<img class="flame1_gum" src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+			<img class="flame2_gum" src="../CHE/PHC/Surface_Chemistry/images/flame2.png" />
+			<img class="flame3_gum" src="../CHE/PHC/Surface_Chemistry/images/flame3.png" />
+			<img class="flame4_gum" src="../CHE/PHC/Surface_Chemistry/images/flame4.png" />
+			<img class="flame5_gum" src="../CHE/PHC/Surface_Chemistry/images/flame5.png" />
+		</div>
+
+		<div id="beakerDropArea_Gum"></div>
+		<div id="watchGlsDropArea_Gum"></div>
+		<img id="gum_PasteSecondTwo"  src="../CHE/PHC/Surface_Chemistry/images/gum_Paste.png" />
+		<div id="glsRdDropArea_Gum"></div>
+		<div id="funnelDropAre_Gum"></div>
+
+	
+	<div id="gum_PastePowder">
+		<img  id="gumPwdr" src="../CHE/PHC/Surface_Chemistry/images/powderPour.png" />
+	</div>
+
+	<img id="label_dstldWtrGum"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_GumhWtr"></p>
+	
+	<div id="conclFlskwaterFlow_contrGum">
+		<div id="conclFlskwaterFlow_wtrGum"></div>
+	</div>
+
+
+
+</div>
+<div id="ferricHydroxide_canvas" class="commnContainer">
+	<p id="bttlLbl_frc">FeCl<sub>3</sub></p>
+	<img id="burnerSet_ferric"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />	
+	<img id="burnerOn_ferric"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+	<img id="burnerOff_ferric"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+
+	<div id="flame_ferric">
+		<img class="flame1_ferric" src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+		<img class="flame2_ferric" src="../CHE/PHC/Surface_Chemistry/images/flame2.png" />
+		<img class="flame3_ferric" src="../CHE/PHC/Surface_Chemistry/images/flame3.png" />
+		<img class="flame4_ferric" src="../CHE/PHC/Surface_Chemistry/images/flame4.png" />
+		<img class="flame5_ferric" src="../CHE/PHC/Surface_Chemistry/images/flame5.png" />
+	</div>
+
+	<div id="conicalFlask_ContainerFerric">
+
+		<img style="z-index:2;" src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		<img id="conicalFlaskWtr_Ferric" src="../CHE/PHC/Surface_Chemistry/images/waterFive.png" />
+		<img id="conicalFlaskWtr_FerricTwo" src="../CHE/PHC/Surface_Chemistry/images/waterFivefrc_one.png" />
+
+
+
+		 <div id="waterTwo_2"></div>
+	</div>
+
+	<img id="label_Ferric"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	 <p id="label_FerricText"></p>
+
+	<img id="bottlewht"  src="../CHE/PHC/Surface_Chemistry/images/bottlewht.png" />
+	<img id="bottlewhtLbl_Ferric"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="bottlewhtLblText"></p>
+	<div id="bottlewht_slnFerric"></div>
+
+		<div id="dropper_Ferric">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_frc" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution_Idn.png"/>
+		</div>
+<!-- Button -->
+	<div id="dialsOfFerric_btn">
+		<img src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+		<p id="dialsOfFerric_btnText"></p>
+	</div>
+	<!-- Drop Area  -->
+	<div id="conicalFlask_DropAreaFrrc"></div>
+	<div id="dropprDropArea_frrc"></div>
+
+	<!-- fog  -->
+	<div id="fogContainer">
+		<img id="fogOne" src="../CHE/PHC/Surface_Chemistry/images/fogOne.png" />
+		<img id="fogTwo" src="../CHE/PHC/Surface_Chemistry/images/fogTwo.png" />
+		<img id="fogThree" src="../CHE/PHC/Surface_Chemistry/images/fogThree.png" />
+	</div>
+
+		<div id="bubble1_Ferric" class="bubbles_Ferric"></div>
+		<div id="bubble2_Ferric" class="bubbles_Ferric"></div>
+		<div id="bubble3_Ferric" class="bubbles_Ferric"></div>
+		<div id="bubble4_Ferric" class="bubbles_Ferric"></div>
+		
+
+		<!-- Drops -->
+
+	<img id="dropsTwofrrc_1" class="dropsSetTwo_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+	<img id="dropsTwofrrc_2" class="dropsSetTwo_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+	<img id="dropsTwofrrc_3" class="dropsSetTwo_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop_idn.png" />
+</div>
+<div id="ferricHydroxideDlsy_canvas" class="commnContainer">
+
+	<img id="funnelStand_Ferric"  src="../CHE/PHC/Surface_Chemistry/images/funnelStand.png" />
+	<img id="balloonOne_Ferric"  src="../CHE/PHC/Surface_Chemistry/images/balloonOne.png" />
+	<img id="balloonFilled_Ferric"  src="../CHE/PHC/Surface_Chemistry/images/balloonFilled.png" />
+	
+
+	<div id="beakerWtr_twoFerric"></div>
+	<img id="beakerShadow_twoFerric"  src="../CHE/PHC/Surface_Chemistry/images/beakerShadow_two.png" />
+	<img id="beaker_twoFerric"  src="../CHE/PHC/Surface_Chemistry/images/beaker_two.png" />
+
+
+	<div id="conicalFlask_ContainerFerricTwo">
+
+		<img style="z-index:2;" src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		<img id="conicalFlaskWtrfrcTwo" src="../CHE/PHC/Surface_Chemistry/images/waterFivefrc_one.png" />	
+
+		 
+	</div>
+
+
+	<img id="label_dstldWtrFerric"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_FerricWtr"></p>
+	
+	<img id="bottleBrown_oneFerric" src="../CHE/PHC/Surface_Chemistry/images/bottleBrown.png" />	
+	<div id="dropper_oneFerric">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_Ferric" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution.png"/>
+		</div>
+
+		<div id="dropper_threeFerric">
+			
+			<img src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+			<img id="dropperSolution_threeFerric" src="../CHE/PHC/Surface_Chemistry/images/dropperSolution.png"/>
+			<div id="drprThree_collnFerric"></div>
+			
+		</div>
+
+		<img id="standFerric" src="../CHE/PHC/Surface_Chemistry/images/stand.png" />
+		<img id="testtube_oneFerric" src="../CHE/PHC/Surface_Chemistry/images/testtube.png" />
+		<img id="testtube_twoFerric" src="../CHE/PHC/Surface_Chemistry/images/testtube.png" />
+
+	<img id="label_threeFerric"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_threeTextFerric"></p>
+	<img id="label_fourFerric"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+
+	<p id="label_fourTextFerric"></p>
+
+<!-- Dialysis drop area -->
+		
+	<div id="conicalFlskDrop"></div>
+	<div id="dropprColltn_frrc"></div>
+	<div id="testTubeDropAreaFrc_1"></div>
+	<div id="dropslvrNtrt_One"></div>
+		<!-- Drop set two -->
+	<img id="dropsdylsfrrc_1" class="dropsSetdyls_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<img id="dropsdylsfrrc_2" class="dropsSetdyls_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+	<img id="dropsdylsfrrc_3" class="dropsSetdyls_frrc" src="../CHE/PHC/Surface_Chemistry/images/drop.png" />
+		
+		<!-- Precipitate  -->
+		<div id="precipitate_one"></div>
+		<div id="precipitate_two"></div>
+
+	<!-- Button -->
+		<div id="waterReset_btnFerric">
+			<img src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+			<p id="waterReset_btnTextFerric"></p>
+		</div>
+
+		<div id="tooltipOneFerric">
+		<img src="../CHE/PHC/Surface_Chemistry/images/popup.png" />
+		<p id="tooltipOneTxtFerric"></p>
+
+	</div>
+	<div id="dropAreaInsideBkr_frrc"> </div>
+	<img id="glassRodFrc"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+
+</div><div id="aluHydroWrap" style="display:none">
+	<div id="aluHydro_preparation">
+		<img id="aluHydro_flame"  src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+		<img id="aluHydro_burner"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />
+		<img id="aluHydro_burnerOn"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<img id="aluHydro_burnerOff"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<div id="aluHydro_flask">
+			<div id="aluHydro_flask_sol"></div>
+			<img id="aluHydro_flask_img"  src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		</div>
+		<img id="aluHydro_flask_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="aluHydro_water_txt" class="commonLabels"></p>
+		<img id="aluHydro_dropper"  src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+		<div id="aluHydro_bottle_solu"></div>
+		<img id="aluHydro_bottle"  src="../CHE/PHC/Surface_Chemistry/images/bottle.png" />
+		<img id="aluHydro_aluChloro_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="aluHydro_bottle_txt" class="commonLabels"></p>
+		<p 	 id="aluHydro_aluChloro_txt" class="commonLabels"></p>
+		<div id="aluHydro_flask_dropArea"></div>
+		<div id="aluHydro_droper_dropArea"></div>
+		<div id="aluHydro_next_btn">
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+			<p 	 id="aluHydro_next_txt" class="commonLabels"></p>
+		</div>
+	</div>
+	<div id="aluHydro_dyalisis" style="display:none">
+		<div id="aluHydro_flask2_dropArea"></div>
+		<div id="aluHydro_droper2_dropArea"></div>
+		<div id="aluHydro_droper1_dropArea"></div>
+		<img id="aluHydro_funnelStand"  src="../CHE/PHC/Surface_Chemistry/images/funnelStand_2.png" />
+		<img id="aluHydro_balloonOne"  src="../CHE/PHC/Surface_Chemistry/images/balloonFilled.png" />
+		<img id="aluHydro_balloonMouth"  src="../CHE/PHC/Surface_Chemistry/images/balloonMouth.png" />
+		<div id="aluHydro_beaker_water"></div>
+		<img id="aluHydro_beaker"  src="../CHE/PHC/Surface_Chemistry/images/beaker.png" />
+		<div id="aluHydro_popup">
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/popup.png" />
+			<p 	 id="aluHydro_popup_txt" class="commonLabels"></p>
+		</div>
+		<img id="aluHydro_dyalisis_dropper_1"  src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+		<img id="aluHydro_bottle_AgNO"  src="../CHE/PHC/Surface_Chemistry/images/bottleBrown1.png" />
+		<div id="aluHydro_tTube_solu"></div>
+		<div id="aluHydro_tTube2_solu"></div>
+		<img id="aluHydro_tTube_1"  src="../CHE/PHC/Surface_Chemistry/images/testtube2.png" />
+		<img id="aluHydro_tTube_2"  src="../CHE/PHC/Surface_Chemistry/images/testtube2.png" />
+		<div id="aluHydro_dyalisis_dropper_2">
+			<div id="aluHydro_dropper_solu"></div>
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/dropper.png" />
+		</div>
+		<img id="aluHydro_stand"  src="../CHE/PHC/Surface_Chemistry/images/stand1.png" />
+		<div id="aluHydro_flask_2">
+			<div id="aluHydro_flask_sol_2"></div>
+			<img id="aluHydro_flask_img_2"  src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		</div>
+		<img id="aluHydro_flask2_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="aluHydro_AlOH_txt" class="commonLabels"></p>
+		<img id="aluHydro_AgNO_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="aluHydro_AgNO_txt" class="commonLabels"></p>
+		<p 	 id="aluHydro_AgNO3_txt" class="commonLabels"></p>
+		<div id="aluHydro_replace_btn">
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+			<p 	 id="aluHydro_replace_txt" class="commonLabels"></p>
+		</div>
+	</div>
+</div><div id='arseniousSulphideWrap' style="display:none">
+	<div id="arsenious_scene_1">
+		<div id='arsenious_watchglass_dropArea'></div>
+		<div id='arsenious_flask_dropArea'></div>
+		<div id='arsenious_flask_dropArea_2'></div>
+		<div id='arsenious_boiling_wrap'></div>
+		<div id='arsenious_water_fall'></div>
+		<img id="arsenious_flame"  src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+		<img id="arsenious_burner"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />
+		<img id="arsenious_burnerOn"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<img id="arsenious_burnerOff"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<img id="arsenious_salt_pouring"  src="../CHE/PHC/Surface_Chemistry/images/powderPour.png" />
+		<div id="arsenious_flask">
+			<img id="arsenious_glassRod"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+			<img id="arsenious_flask_salt" src="../CHE/PHC/Surface_Chemistry/images/Ammonium%20sulphate.png" />
+			<div id="arsenious_flask_sol"></div>
+			<div id="arsenious_flask_sol_2"></div>
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/conicalFlask.png" />
+		</div>
+		<div id="arsenious_watchglass">
+			<img class="possAbsol" src="../CHE/PHC/Surface_Chemistry/images/watchglass.png" />
+			<img id="arseniousOxide" src="../CHE/PHC/Surface_Chemistry/images/Ammonium%20sulphate.png" />
+		</div>
+		<img id="arsenious_glassRod_2"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+		<img id="arsenious_funnelStand"  src="../CHE/PHC/Surface_Chemistry/images/funnelStand.png" />
+		<img id="arsenious_beaker_shadow"  src="../CHE/PHC/Surface_Chemistry/images/beakerShadow_two.png" />
+		<div id="arsenious_beaker_water"></div>
+		<img id="arsenious_beaker"  src="../CHE/PHC/Surface_Chemistry/images/beaker_two.png" />
+		<img id="arsenious_flask_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_flask_txt" class="commonLabels"></p>
+		<img id="arsenious_salt_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_salt_txt" class="commonLabels"></p>
+		<img id="arsenious_acid_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_acid_txt" class="commonLabels"></p>
+		<div id="arsenious_next_btn">
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+			<p 	 id="arsenious_next_txt" class="commonLabels"></p>
+		</div>
+	</div>
+	<div id="arsenious_scene_2" style="display:none">
+		<div id='arsenious_beaker_dropArea'></div>
+
+		<div id='arsenious_waterBuble_wrap'></div>
+		<div id='arsenious_waterBuble_wrap_2'></div>
+		<div id='arsenious_waterBuble_wrap_3'></div>
+		<div id="arsenious_kipps_water"></div>
+		<div id="arsenious_kipps_solu_wrap">
+			<div id="arsenious_kipps_solu"></div>
+		</div>
+		<img id="arsenious_kippsAppara"  src="../CHE/PHC/Surface_Chemistry/images/kibbsApparatus.png" />
+		<div id="arsenious_tapOff_help"></div>
+		<div id="arsenious_tapOff"><img id="arsenious_tapOff_img"  src="../CHE/PHC/Surface_Chemistry/images/tapOff.png" /></div>
+		<img id="arsenious_tapOn"  src="../CHE/PHC/Surface_Chemistry/images/tapOn.png" />
+		<img id="arsenious_flame_2"  src="../CHE/PHC/Surface_Chemistry/images/flame1.png" />
+		<img id="arsenious_burner_2"  src="../CHE/PHC/Surface_Chemistry/images/burner.png" />
+		<img id="arsenious_burnerOn_2"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<img id="arsenious_burnerOff_2"  src="../CHE/PHC/Surface_Chemistry/images/burnerOn.png" />
+		<div id="arsenious_beakerSmall">
+			<div id="arsenious_beakerSmall_solu"></div>
+			<div id="arsenious_beakerSmall_solu_yellow"></div>
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/beakerSmall.png" />
+		</div>
+		<div id="arsenious_next_btn_2">
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/button.png" />
+			<p 	 id="arsenious_next_txt_2" class="commonLabels"></p>
+		</div>
+		<img id="arsenious_kipps_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_kipps_lblBG_txt" class="commonLabels"></p>
+		<img id="arsenious_kipps_2_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_kipps_2_txt" class="commonLabels"></p>
+
+	</div>
+	<div id="arsenious_scene_3" style="display:none">
+		<div id='arsenious_beaker_3_dropArea'></div>
+		<div id='arsenious_water_fall_2'></div>
+		<img id="arsenious_funnelStand_2"  src="../CHE/PHC/Surface_Chemistry/images/funnelStand_2.png" />
+		<img id="arsenious_beaker_shadow_2"  src="../CHE/PHC/Surface_Chemistry/images/beakerShadow_two.png" />
+		<div id="arsenious_beaker_water_2"></div>
+		<img id="arsenious_beaker_2"  src="../CHE/PHC/Surface_Chemistry/images/beaker_two.png" />
+		<div id="arsenious_beaker_3">
+			<div id="arsenious_beaker_water_3"></div>
+			<img class="possAbsol"  src="../CHE/PHC/Surface_Chemistry/images/beaker_two.png" />
+		</div>
+		<img id="arsenious_beaker_3_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_beaker_3_txt" class="commonLabels"></p>
+		<img id="arsenious_beaker_4_lblBG"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+		<p 	 id="arsenious_beaker_4_txt" class="commonLabels"></p>
+	</div>
+</div><div id="Egg_albumindiv" class="commnContainer">
+	<div id="watchGlssContainer_albumin">
+		<img id="watchglass_alb"  src="../CHE/PHC/Surface_Chemistry/images/beaker.png" />
+		<div id="albumin_Paste_alb"></div>
+	</div>	
+
+	<img id="label_One_alb"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_albPst"></p>
+
+	<div id="beaker_Containeralb">
+		<div id="beaker_Water_alb"></div>
+		<img id="beakeralb"  src="../CHE/PHC/Surface_Chemistry/images/beaker.png" />
+	</div>
+
+	<img id="glassRod_Standalb"  src="../CHE/PHC/Surface_Chemistry/images/glassRod_Stand.png" />
+
+	<div id="glassRodDiv_alb">
+		<img id="glassRodalb"  src="../CHE/PHC/Surface_Chemistry/images/glassRod.png" />
+	</div>
+		
+	<img id="standWith_Funnelalb"  src="../CHE/PHC/Surface_Chemistry/images/standWith_Funnel.png" />
+	<img id="label_Twoalb"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_albSol"></p>
+	<div id="waterFivealbt">
+		<img style=" width: 65px;" src="../CHE/PHC/Surface_Chemistry/images/eggAlbuminSln.png" />
+	</div>
+		
+	<img id="alb_PasteSecond"  src="../CHE/PHC/Surface_Chemistry/images/gum_Paste.png" />
+	<div id="glssrdDroparea_egg"></div>
+	<div id="beakerDroparea_egg"></div>
+
+	<img id="label_bkrTwoalb"  src="../CHE/PHC/Surface_Chemistry/images/label.png" />
+	<p id="label_bkralbSol"></p>
+
+	<div id="dropAreaEgg_first"></div>
+	<div id="eggdropFlow_container">
+		<div id="eggdropFlowSltn"></div>
+	</div>
+
+	<div id="conclFlskwaterFlow_contrEgg">
+		<div id="conclFlskwaterFlow_wtrEgg"></div>
+	</div>
+
+</div>
+	
+		
+
+ <!-- INFERENCE ICON --> 
+    <!-- Clock -->
+	<div id="clockContainer">
+		<img id="clockImg" style="width: 95px;" src="../CHE/PHC/Surface_Chemistry/images/clock.png" />
+		<img id="needleImg" src="../CHE/PHC/Surface_Chemistry/images/clock_Needle.png" />
+		<p id="clockTimeText"></p>
+	</div>
+	
+		<img id="inference" src="../CHE/PHC/Surface_Chemistry/images/inference.png" />
+
+
+</div>
+
+
+
+</div>
+</div>
+<div class="g198 controlHolder">
+
+<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+    <li>
+        <div class="varBox">
+
+			<!--Select the sole-->
+			<p class="varTitle" id="selectTheSoleHeading" >Select the sol:</p>
+			<select class="dropBox"  id="selectTheSole" >
+			</select>
+			<!--//Select the sole-->  
+
+
+			<!--Select the sample-->
+			<p class="varTitle" id="selectTheSampleHeading" >Select the sample:</p>
+			<select class="dropBox"  id="selectTheSample">
+			</select>
+			<!--//Select the sole-->  
+
+
+
+			<!--Reset button--> 
+			<input type="button" id="resetBtn" value="Reset" class="subButton" onclick="window.location.reload();" />
+			<!--//Reset button--> 
+
+		</div>
+	</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+ var expTitle="Preparation of Lyophilic and Lyophobic Sols";
+ document.getElementById("expName").innerHTML=expTitle;
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=PHC&exp=Surface_Chemistry&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:34:30 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

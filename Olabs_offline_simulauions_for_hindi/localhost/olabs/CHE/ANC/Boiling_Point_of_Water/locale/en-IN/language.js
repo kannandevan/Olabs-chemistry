@@ -1,0 +1,26 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"Drag the spatula towards the test tube<br>to drop the pumice stones into it.": "Drag the spatula towards the test tube<br>to drop the pumice stones into it.",
+	"Drag the cork over the test tube to close it.": "Drag the cork over the test tube to close it.",
+	"Drag the thermometer towards the test tube<br>to place it in it.": "Drag the thermometer towards the test tube<br>to place it in it.",
+	"Drag the delivery tube towards the test tube<br>to place it in it.": "Drag the delivery tube towards the test tube<br>to place it in it.",
+	"Click on the knob of the burner<br>to turn it ON or OFF.": "Click on the knob of the burner<br>to turn it ON or OFF.",
+	"In presence of impurities ": "In presence of impurities ",
+	"At different pressures": "At different pressures",
+	"Pure water": "Pure water",
+	"Water + 50g NaCl": "Water + 50g NaCl",
+	"Water + 200g sugar": "Water + 200g sugar",
+	"Water + 90g KCl": "Water + 90g KCl",
+	"Select the impure sample:": "Select the impure sample:",
+	"Select the pressure:": "Select the pressure:",
+	"Boiling point of water:": "Boiling point of water:",
+	"Show zoom": "Show zoom",
+	"Temperature:&nbsp;": "Temperature:&nbsp;",
+	"Reset": "Reset",
+	"Pumice Stones": "Pumice Stones",
+	"Determination of Boiling Point of Water": "Determination of Boiling Point of Water",
+	"HELP": "HELP",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+}

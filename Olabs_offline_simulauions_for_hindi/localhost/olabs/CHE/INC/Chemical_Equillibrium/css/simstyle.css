@@ -1,0 +1,434 @@
+
+#canvasBox {
+	overflow:hidden;
+}
+
+.dropBox {
+	margin: 3px 0px 3px 15px;!important;
+}
+.subButton {
+    width: 130px;
+}
+.lablinstructions {
+	color: #626262;
+	font-size: 110%;
+	font-weight: 600;
+	/*padding: 5px 0 0 30px;font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0px 0 0;*/
+	text-align: center !important;
+}
+
+.varTitle_1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #626262;
+	text-align:left !important;
+}
+
+.txtFormat {
+	font-size: 13px;
+	font-weight: 600;
+	color: #626262;
+	text-align:center;
+}
+
+.txtFormat1 {
+	font-size: 13px;
+	font-weight: 600;
+	color: #626262;
+	text-align:center;
+}
+
+
+.inferenceDiv {
+	position:absolute;
+	/*width:45px;
+	height:45px;*/
+	top:20px;
+	left:10px;
+	cursor:pointer;
+}
+
+#bottleDiv1 {
+	position:absolute;
+	display:inline;
+    top: 44%;
+    left: 50%;
+    width: 13%;
+    height: 39%;
+	z-index:3;
+}
+
+#dropperDiv1 {
+	position:absolute;
+	display:inline;
+    top: 28%;
+    left: 54%;
+    width: 5%;
+    height: 36%;
+	cursor:pointer;
+	z-index:1;
+}
+
+#bottleSoln1 {
+	position:absolute;
+    left: 50%;
+    width: 12%;
+    height: 31%;
+    top: 51%;
+	display:inline;
+	z-index:2;
+}
+
+#bottleSoln2 {
+	position:absolute;
+    left: 67%;
+    width: 12%;
+    height: 31%;
+    top: 51%;
+	display:inline;
+	z-index:2;
+}
+
+#bottleSoln3 {
+	position:absolute;
+    left: 83%;
+    width: 12%;
+    height: 31%;
+    top: 51%;
+	display:inline;
+	z-index:2;
+}
+
+#dropperSoln1, #dropperSoln2, #dropperSoln3 {
+	position:absolute;
+	left: 27%;
+    top: 71%;
+    width: 29%;
+	height: 29%;
+	z-index:2;
+	opacity:0.6
+}
+
+#drops1 {
+	position:absolute;
+	left:210px;
+	top:245px;
+	z-index:1;
+	display:none;
+}
+
+#drops2 {
+	position:absolute;
+	left:210px;
+	top:260px;
+	display:none;
+	z-index:1;
+}
+
+#dropperDiv2 {
+	position:absolute;
+	display:inline;
+    top: 28%;
+    left: 71%;
+    width: 5%;
+    height: 36%;
+	cursor:pointer;
+	z-index:2;
+}
+
+#bottleDiv2 {
+	position:absolute;
+	display:inline;
+    top: 44%;
+    left: 67%;
+    width: 13%;
+    height: 39%;
+	z-index:3;
+}
+
+#dropperDiv3 {
+	position:absolute;
+	display:inline;
+    top: 28%;
+    left: 87%;
+    width: 5%;
+    height: 36%;
+	cursor:pointer;
+	z-index:2;
+}
+
+#bottleDiv3 {
+	position:absolute;
+	display:inline;
+    top: 44%;
+    left: 83%;
+    width: 13%;
+    height: 39%;
+	z-index:3;
+}
+
+#bottle1,#bottle2,#bottle3{
+	width:100%;
+	height: 100%;
+}
+
+#dropper1,#dropper2,#dropper3{
+    width: 80%;
+    height: 100%;
+}
+
+
+#dropperDivDUP {
+	display: inline;
+	height: 10px;
+	left: 460px;
+	position: absolute;
+	top: 101px;
+	width: 20px;
+	z-index: 1;
+}
+
+#testtubeZoom, #zoommilky, #zoomhcl {
+	position:absolute;
+	top: 10px;
+	left: -80px;
+	display:none;
+	display:inline;
+	z-index:6;
+}
+
+#bottle1txt, #bottle2txt, #bottle3txt {
+    position: absolute;
+    top: 58%;
+    left: 5%;
+    width: 53%;
+    height: 17%;
+    font-size: 110%;
+    z-index: 4;
+}
+
+#tubeATxt {
+	position:absolute;
+	top: 44%;
+    left: 12%;
+	z-index:4;
+}
+
+#tubeBTxt {
+	position:absolute;
+	top:44%;
+	left:21%;
+	z-index:4;
+}
+
+#tubeCTxt {
+	position:absolute;
+	top:44%;
+	left:31%;
+	z-index:4;
+}
+
+#tubeDTxt {
+	position:absolute;
+	top:44%;
+	left:40%;
+	z-index:4;
+}
+
+#testtubeA {
+	position:absolute;
+    top: 34%;
+    left: 9.5%;
+    width: 7%;
+    height: 49%;
+	display:inline;
+	z-index:4;
+}
+
+#testtubeASolnimg, #testtubeASolnChangeimg1 {
+	position:absolute;
+    top: 61%;
+    left: 10%;
+    width: 6%;
+    height: 20%;
+	display:inline;
+	z-index:2;
+}
+
+#testtubeBSolnimg, #testtubeASolnChangeimg2 {
+	position:absolute;
+    top: 61%;
+    left: 19%;
+    width: 6%;
+    height: 20%;
+	display:inline;
+	z-index:2;
+}
+
+#testtubeCSolnimg, #testtubeASolnChangeimg3 {
+	position:absolute;
+    top: 61%;
+    left: 28%;
+    width: 6%;
+    height: 20%;
+	display:inline;
+	z-index:2;
+}
+
+#testtubeDSolnimg, #testtubeASolnChangeimg4 {
+	position:absolute;
+    top: 61%;
+    left: 38%;
+    width: 6%;
+    height: 20%;
+	display:inline;
+	z-index:2;
+}
+
+#testtubeLabel {
+    left: 18%;
+    position: absolute;
+    top: 81%;
+    width: 20%;
+    height: 10%;
+	z-index:4;
+}
+
+#testtubeB {
+	position:absolute;
+    top: 34%;
+    left: 18.5%;
+    width: 7%;
+    height: 49%;
+	display:inline;
+	z-index:4;
+}
+
+#testtubeC {
+	position:absolute;
+    top: 34%;
+    left: 28%;
+    width: 7%;
+    height: 49%;
+	display:inline;
+	z-index:4;
+}
+
+#testtubeD {
+	position:absolute;
+    top: 34%;
+    left: 37.5%;
+    width: 7%;
+    height: 49%;
+	display:inline;
+	z-index:4;
+}
+
+#testtubeSoln {
+	position:absolute;
+	top:292px;
+	left:196px;
+	height:5px;
+	width:24px;
+	display:inline;
+	display:none;
+	z-index:3;
+	overflow:hidden;
+}
+
+#testtubeppt {
+	position:absolute;
+	top:289px;
+	left:196px;
+	display:inline;
+	display:none;
+	z-index:2;
+	overflow:hidden;
+}
+
+#testtubeSolnimg {
+	position:absolute;
+	top:-150px;
+	left:0px;
+}
+
+#solnmilky {
+	position:absolute;
+	top:-150px;
+	left:0px;
+	opacity:0.1;
+}
+
+#shadow1, #shadow2, #shadow3 {
+	position:absolute;
+	top:131px;
+	left:0px;
+	display:inline;
+}
+
+#eqnImg {
+	top:131px;
+	left:0px;
+}
+
+#controllabelImg {
+    position: absolute;
+    top: 54.5%;
+    left: 9.5%;
+    width: 6.5%;
+    height: 4%;
+    z-index: 4;
+}
+
+
+#labelTxt{
+    color: #030303;
+    font-family: MRKGPEN;
+    font-size: 140%;
+    height: 10%;
+    left: 18%;
+    position: absolute;
+    text-align: center;
+    top: 82%;
+    width: 20%;
+    z-index: 5;
+}
+#cntrllabelTxt{
+    font-size: 65%;
+    left: 9%;
+    font-weight: bolder;
+    position: absolute;
+    text-align: center;
+    top: 55%;
+    width: 7%;
+    z-index: 5;
+	
+}
+canvas#bgCanvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+.varTitle {
+    padding: 3px 0px 0px 10px;
+	}
+.varTitle span {
+    padding-bottom: 1em;
+	}
+img#eqnImg2, img#eqnImg1{
+    width: 100%;
+    padding-top: 10%;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"]{
+	width: 50%;
+}
+@media screen and (min-width:768px){
+	.trip-block {
+		width: 406px !important;
+	}
+}

@@ -1,0 +1,2012 @@
+#bgCanvas1 {
+  position: absolute;
+  top: -4px;
+  left: -10px;
+
+}
+
+.userSelect,
+#bgCanvas1,
+#effectOfConc,
+#inferenceImg,
+#inferenceImg1,
+#varBox,
+#tableConc,
+#selectMethod,
+#effectOfTemp,
+#tableTemp {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.questionLayout {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #0d102eed;
+
+  top: 0%;
+  z-index: 1000;
+
+}
+
+.questionNumber {
+  position: absolute;
+  width: 100%;
+  height: 12%;
+  background-color: #c0c1c900;
+  top: 2%;
+  border-bottom: solid #ffffff75;
+}
+
+.questionNumberTestDesign {
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1rem;
+  top: 20%;
+  left: 3%;
+  font-family: 'Inconsolata';
+}
+
+.questionNumberScoreDesign {
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1rem;
+  top: 20%;
+  left: 82%;
+  font-family: 'Inconsolata';
+}
+
+.questionText {
+  position: absolute;
+  color: #cac9cbb3;
+  top: 18%;
+  left: 3%;
+  width: 94%;
+  height: 21%;
+}
+
+.questionTextAlignment {
+  position: absolute;
+  width: 94%;
+  height: 75%;
+  top: 11%;
+  left: 2%;
+  font-size: .9rem;
+  color: #fcf8f8;
+  text-align: justify;
+  line-height: 1.3;
+  cursor: not-allowed;
+}
+
+.OptionOne {
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 34%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.OptionTwo {
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 48%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.OptionThree {
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 62%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.OptionFour {
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 76%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.optionTestDesign {
+  position: absolute;
+  color: #ffffff;
+  font-size: .8rem;
+  top: 20%;
+  left: 5%;
+}
+
+.optionNo {
+  padding-right: 7px;
+}
+
+h5 {
+
+  margin-bottom: 9px;
+  margin-top: 10px;
+  margin-left: 13px;
+
+}
+
+table,
+th,
+td {
+  border: .5px solid black;
+}
+
+select {
+  margin-left: 12px;
+  width: 167px;
+
+}
+
+#next {
+  position: absolute;
+  top: 6%;
+  width: 85px;
+  left: 79%;
+  background-color: honeydew;
+  border-radius: 5px;
+  display: none;
+
+}
+
+#effectOfConc {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#effectOfTemp {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+#graphPaper {
+  position: absolute;
+  height: 158.9%;
+  top: 0%;
+  width: 168%;
+  left: 0%;
+  display: none;
+}
+
+#conicalFlaskConc {
+  position: absolute;
+  top: 5%;
+  left: 3%;
+
+}
+
+#stopWatchOff {
+  left: 55%;
+  position: absolute;
+  height: 18%;
+  top: 4%;
+  width: 17%;
+  display: none;
+}
+
+#showGraph {
+  position: absolute;
+  margin-top: 63%;
+  margin-left: -29%;
+  font-size: 1vw;
+}
+
+#stopWatchOn {
+  left: 55%;
+  position: absolute;
+  height: 18%;
+  top: 4%;
+  width: 17%;
+  display: none;
+}
+
+#graphPaperTemp {
+  position: absolute;
+  height: 158.9%;
+  top: 0%;
+  width: 168%;
+  left: 0%;
+  display: none;
+}
+
+#stopWatchOffTemp {
+  left: 55%;
+  position: absolute;
+  height: 18%;
+  top: 4%;
+  width: 17%;
+  display: none;
+}
+
+#resultTimeTemp {
+  position: absolute;
+  width: 17%;
+  left: 57%;
+  font-family: 'Roboto mono', monospace;
+  top: 10%;
+  font-size: 16px;
+  justify-content: space-around;
+}
+
+#tableConc {
+  position: absolute;
+  text-align: center;
+  left: 10%;
+  margin-top: 4%;
+}
+
+#tableTemp {
+  position: absolute;
+  text-align: center;
+  left: 10%;
+  margin-top: 4%;
+  display: none;
+
+}
+
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -ms-user-drag: none;
+
+}
+
+.userSelect {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#reset {
+  margin-left: -28%;
+  font-size: 1vw;
+  margin-top: 105%;
+  position: absolute;
+}
+
+#resetTemp {
+  margin-left: -28%;
+  font-size: 1vw;
+  margin-top: 114%;
+  position: absolute
+}
+
+#plotGraph {
+  position: absolute;
+  margin-top: 84%;
+  margin-left: -28%;
+  font-size: 1vw;
+
+
+}
+
+#GraphLine {
+  position: absolute;
+  width: 95%;
+  height: 100%;
+
+  display: none;
+}
+
+#GraphLineTemp {
+  position: absolute;
+  width: 95%;
+  height: 100%;
+
+  display: none;
+}
+
+#stand {
+  position: absolute;
+  top: 13%;
+  left: 4%;
+}
+
+#buretteWatClose {
+  position: absolute;
+  left: 21%;
+  top: 21%;
+  height: 36%;
+  display: none;
+}
+
+#crossPaper {
+  position: absolute;
+  left: 35%;
+  top: 77%;
+
+}
+
+#measCylConc {
+  position: absolute;
+  height: 47%;
+  width: 4%;
+  left: 58%;
+  top: 24%;
+}
+
+#cylWaterConc {
+  height: 70%;
+  position: absolute;
+  width: 88%;
+  top: 23%;
+  left: 23%;
+  display: none;
+
+}
+
+#measCylNa {
+  position: absolute;
+  height: 84%;
+  width: 124%;
+  top: 15%;
+  left: 5%;
+
+}
+
+#graphHorizontal {
+  position: absolute;
+  top: 88.9%;
+  height: 0.8%;
+  width: 94%;
+  left: 6.2%;
+}
+
+#graphVerticalLine,
+#graphVerticalLineTemp {
+  position: absolute;
+  height: 0%;
+  left: 5.6%;
+  top: 4.1%;
+}
+
+#graphArrowright {
+  position: absolute;
+  top: 86.6%;
+  height: 6%;
+  left: 97%;
+}
+
+#graphArrowTop {
+  position: absolute;
+  top: 0%;
+  transform: rotate(270deg);
+  height: 6%;
+  left: 5.4%;
+}
+
+#bottleComHcl {
+  position: absolute;
+  height: 22%;
+  width: 10%;
+  left: 70%;
+  top: 45%;
+}
+
+#bottleHcl {
+  position: absolute;
+  height: 128%;
+  top: -27%;
+  left: 11%;
+  width: 77%;
+}
+
+#bottleWaterHcl {
+  height: 87%;
+  width: 80%;
+  position: absolute;
+  left: 8%;
+  top: 15%;
+
+}
+
+#timerMsg {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+#bottleTextHCl {
+  position: absolute;
+  font-weight: bold;
+  top: 55%;
+  left: 33%;
+
+}
+
+#bottleComNa {
+  position: absolute;
+  height: 22%;
+  width: 10%;
+  left: 85%;
+  top: 45%;
+
+}
+
+#bottleNa {
+  position: absolute;
+  height: 128%;
+  top: -27%;
+  left: 7%;
+  width: 77%;
+}
+
+#bottleWaterNa {
+  height: 87%;
+  width: 76%;
+  position: absolute;
+  left: 8%;
+  top: 15%;
+}
+
+#bottleTextNa {
+  position: absolute;
+  font-weight: bold;
+  top: 55%;
+  left: 13%;
+  font-size: 79%;
+
+}
+
+#coniConc {
+  position: absolute;
+  height: 30%;
+  width: 12%;
+  left: 39%;
+  top: 43%;
+}
+
+#coniWaterConc {
+  position: absolute;
+  left: 5%;
+  top: 44%;
+  display: none;
+}
+
+#FadedconiWaterConc {
+
+  position: absolute;
+  left: 9%;
+  height: 41%;
+  width: 86%;
+  top: 39%;
+  display: none;
+
+}
+
+#glassStopHcl {
+  position: absolute;
+  top: 33.2%;
+  left: 72.8%;
+  height: 10%;
+  width: 4%;
+}
+
+#glassStopNa {
+  position: absolute;
+  top: 33.2%;
+  left: 87.3%;
+  height: 10%;
+  width: 4.1%;
+  pointer-events: none;
+}
+
+#buretteDrop {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  left: 14%;
+}
+
+#stopTxt {
+  color: #333;
+  font-family: MRKGPEN;
+  font-size: 184%;
+  top: 9%;
+  left: 57%;
+  position: absolute;
+  text-align: center;
+  display: none;
+}
+
+#stopStart {
+  position: absolute;
+  display: inline;
+  top: 63px;
+  left: 462px;
+  z-index: 3;
+  color: #333;
+  font-family: MRKGPEN;
+  font-size: 14px;
+  text-align: center;
+}
+
+#buretteDownDrop {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  top: 56%;
+  left: 8%;
+}
+
+#crossTileDrop {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  top: 56%;
+  left: 30%;
+}
+
+#buretteTap {
+  position: absolute;
+  height: 8%;
+  width: 6%;
+  top: 54%;
+  left: 20%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+#buretteTapClose {
+  position: absolute;
+  height: 8%;
+  width: 6%;
+  top: 54%;
+  left: 20%;
+  display: none;
+  z-index: 1;
+}
+
+#measCylDrop {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  left: 47%;
+}
+
+#conFlaskDrop {
+
+  top: 15%;
+  position: absolute;
+  height: 35%;
+  width: 20%;
+  left: 34%;
+}
+
+#conFlaskDropShake {
+  top: 0%;
+  position: absolute;
+  height: 98%;
+  width: 73%;
+  left: 26%;
+  display: none;
+
+}
+
+#axis0_0 {
+  position: absolute;
+  top: 92%;
+  left: 11.5%;
+
+}
+
+.allaxis {
+
+  font-size: 14px;
+  font-weight: bold;
+
+}
+
+#axis0_1 {
+  position: absolute;
+  top: 92%;
+  left: 18.5%;
+}
+
+#axis0_2 {
+  position: absolute;
+  top: 92%;
+  left: 25%;
+}
+
+#axis0_3 {
+  position: absolute;
+  top: 92%;
+  left: 31.5%;
+}
+
+#axis0_4 {
+  position: absolute;
+  top: 92%;
+  left: 36.5%;
+}
+
+#axis0_5 {
+  position: absolute;
+  top: 92%;
+  left: 43%;
+}
+
+#axis0_6 {
+  position: absolute;
+  top: 92%;
+  left: 51%;
+}
+
+#axis0_7 {
+  position: absolute;
+  top: 92%;
+  left: 57%;
+}
+
+#axis0_8 {
+  position: absolute;
+  top: 92%;
+  left: 63.5%;
+}
+
+#axis0_9 {
+  position: absolute;
+  top: 92%;
+  left: 70%;
+}
+
+#axis0_10 {
+  position: absolute;
+  top: 92%;
+  left: 76.5%;
+
+}
+
+#axis0_11 {
+  position: absolute;
+  top: 92%;
+  left: 83.5%;
+
+}
+
+#axis0_12 {
+  position: absolute;
+  top: 92%;
+  left: 89.5%;
+}
+
+#theXlabel {
+  position: absolute;
+  left: 41%;
+  top: 96%;
+  font-weight: bold;
+}
+
+#axis1_0 {
+  position: absolute;
+  top: 78%;
+  left: 4%;
+}
+
+#axis1_2 {
+
+  position: absolute;
+  top: 67%;
+  left: 4%;
+
+}
+
+#axis1_3 {
+  position: absolute;
+  top: 58%;
+  left: 4%;
+
+}
+
+#axis1_4 {
+  position: absolute;
+  top: 48%;
+  left: 4%;
+
+}
+
+#axis1_5 {
+  position: absolute;
+  top: 38%;
+  left: 3%;
+}
+
+#axis1_6 {
+  position: absolute;
+  top: 28%;
+  left: 3%;
+
+}
+
+#axis1_7 {
+  position: absolute;
+  top: 18%;
+  left: 3%;
+}
+
+#axis1_8 {
+  position: absolute;
+  top: 8%;
+  left: 3%;
+
+}
+
+#theYlabel {
+  position: absolute;
+  top: 43%;
+  left: 9%;
+  font-size: larger;
+}
+
+#thexrotatey {
+  position: absolute;
+  top: 54%;
+  left: -11%;
+  transform: rotate(269deg);
+  width: 23%;
+  height: 12%;
+  font-weight: bold;
+
+}
+
+#thecoordinate_join {
+  position: absolute;
+  left: -0.3%;
+  top: 48%;
+  height: 4.4%;
+  transform: rotate(237deg);
+}
+
+#resConc1 {
+  display: none;
+
+}
+
+#resConc2 {
+  display: none;
+
+}
+
+#resConc3 {
+  display: none;
+
+}
+
+#resConc4 {
+  display: none;
+
+}
+
+#resConc5 {
+  display: none;
+
+}
+
+#waterpouring {
+  position: absolute;
+  left: 21%;
+  height: 29%;
+  top: 15%;
+  width: 2px;
+  display: none;
+
+}
+
+#waterpouringNa {
+
+  position: absolute;
+  left: 61%;
+  height: 0%;
+  top: 20%;
+  width: 2px;
+  display: none;
+}
+
+#waterpouringCon {
+  position: absolute;
+  left: 46%;
+  height: 0%;
+  top: -25%;
+  width: 2px;
+  display: none;
+
+}
+
+#waterpouringBur {
+  position: absolute;
+  left: 21%;
+  height: 0%;
+  top: 64%;
+  width: 2px;
+  display: none;
+}
+
+#buretteClose {
+  position: absolute;
+  top: 56.1%;
+  left: 21.6%;
+}
+
+#buretteWatOpen {
+  position: absolute;
+  left: 20.5%;
+  top: 20%;
+  display: none;
+}
+
+#bottleBendWaterHcl {
+  position: absolute;
+  height: 56%;
+  width: 161%;
+  left: -29%;
+  top: 13%;
+  display: none;
+  transform: rotate(94deg);
+}
+
+#bottleBendWaterNa {
+  position: absolute;
+  height: 56%;
+  width: 161%;
+  display: none;
+  transform: rotate(94deg);
+  left: -41%;
+  top: 15%;
+
+}
+
+#cylWaterBendConc {
+  height: 15%;
+  position: absolute;
+  width: 576%;
+  top: 49%;
+  left: -222%;
+  transform: rotate(90deg);
+  display: none;
+}
+
+.newWaterAnimation {
+  position: absolute;
+  width: 2px;
+  height: 44px;
+  top: 210px;
+  left: 119px;
+  display: none;
+
+}
+
+.waterAnimation {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+.newWaterAnimation2 {
+  position: absolute;
+  width: 2px;
+  height: 44px;
+  top: 210px;
+  left: 119px;
+  display: none;
+}
+
+.waterAnimation2 {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+.buttons {
+  width: 18%;
+  margin: 60px auto 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+#startTimer {
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 100;
+  margin-top: 8%;
+  border-color: transparent;
+  margin-left: 56%;
+  display: none;
+
+}
+
+#resetTimer {
+
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 100;
+  border-color: transparent;
+  margin-left: 6%;
+  display: none;
+}
+
+#pauseTimer {
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 100;
+  position: absolute;
+  margin-top: 8%;
+  border-color: transparent;
+  margin-left: 64%;
+  display: none;
+
+}
+
+.timerDisplay {
+  position: absolute;
+  width: 17%;
+  left: 58%;
+  font-family: 'Roboto mono', monospace;
+  top: 10%;
+  font-size: 11px;
+  justify-content: space-around;
+  display: none;
+
+}
+
+#alertImg {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#alertImgTempTimer {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#alertImgTimer {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#alertTextTempTimer {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 101%;
+}
+
+#alertTextTimer {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 101%;
+
+}
+
+#alertMsg {
+  position: absolute;
+  top: 1%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+
+}
+
+#alertText {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 113%;
+
+}
+
+#inferenceImg {
+  position: absolute;
+  height: 13%;
+  left: 42%;
+  display: none;
+  top: 2%;
+  z-index: 1;
+}
+
+#inferenceImg1 {
+  position: absolute;
+  height: 13%;
+  left: 42%;
+  display: none;
+  top: 2%;
+  z-index: 1;
+}
+
+#alertText2 {
+  position: absolute;
+  top: 20%;
+  left: 11%;
+  font-size: 105%;
+  display: none;
+}
+
+#alertImg2 {
+  width: 25px;
+  position: absolute;
+  top: 10px;
+  left: 18px;
+}
+
+#alertMsg2 {
+  position: absolute;
+  top: 10%;
+  left: 28%;
+  text-align: center;
+  height: 13%;
+  width: 58%;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+#alertText3 {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  font-size: 110%;
+  width: 78%;
+}
+
+/* //////////effect of temp//////////////////////// */
+#standTemp {
+  position: absolute;
+  top: 13%;
+  left: 4%;
+}
+
+#buretteCloseTemp {
+  position: absolute;
+  top: 56.1%;
+  left: 21.6%;
+}
+
+#measCylTemp {
+  position: absolute;
+  height: 47%;
+  width: 4%;
+  left: 74%;
+  top: 24%;
+}
+
+#cylWaterTemp {
+  height: 70%;
+  position: absolute;
+  width: 88%;
+  top: 23%;
+  left: 23%;
+  display: none;
+}
+
+#cylWaterBendTemp {
+  height: 15%;
+  position: absolute;
+  width: 576%;
+  top: 49%;
+  left: -222%;
+  transform: rotate(90deg);
+  display: none;
+}
+
+#measCylNaTemp {
+  position: absolute;
+  height: 84%;
+  width: 124%;
+  top: 15%;
+  left: 5%;
+}
+
+#crossPaperTemp {
+  position: absolute;
+  left: 53%;
+  top: 77%;
+}
+
+#burnerOff {
+  position: absolute;
+  top: 67.4%;
+  left: 36.2%;
+}
+
+#burnerOn {
+  position: absolute;
+  top: 67.6%;
+  left: 35.4%;
+  width: 2%;
+  display: none;
+}
+
+#thermometer {
+  position: absolute;
+  top: 81%;
+  left: 75%;
+}
+
+#thermometer2 {
+  position: absolute;
+  top: 81%;
+  left: 75%;
+  display: none;
+}
+
+#showGraphTemp {
+  position: absolute;
+  margin-top: 74%;
+  margin-left: -29%;
+  font-size: 1vw;
+}
+
+#thermometer1 {
+  position: absolute;
+  top: 123%;
+  left: 158%;
+  display: none;
+
+}
+
+#graphControl {
+  position: absolute;
+  width: 102%;
+}
+
+#graphControlTemp {
+  position: absolute;
+  width: 102%;
+  display: none;
+}
+
+#plotGraphTemp {
+  position: absolute;
+  margin-top: 93%;
+  margin-left: -28%;
+  font-size: 1vw;
+}
+
+#buretteWatCloseTemp {
+  position: absolute;
+  left: 21%;
+  top: 21%;
+  height: 36%;
+}
+
+#buretteWatOpenTemp {
+  position: absolute;
+  left: 20.5%;
+  top: 20%;
+  display: none;
+}
+
+#glassStopHclTemp {
+  position: absolute;
+  top: 33.2%;
+  left: 73.2%;
+  height: 10%;
+  width: 4%;
+}
+
+#bottleComHclTemp {
+  position: absolute;
+  height: 22%;
+  width: 10%;
+  left: 70%;
+  top: 45%;
+
+}
+
+#bottleHclTemp {
+  position: absolute;
+  height: 128%;
+  top: -27%;
+  left: 11%;
+  width: 77%;
+}
+
+#bottleWaterHclTemp {
+  height: 87%;
+  width: 80%;
+  position: absolute;
+  left: 8%;
+  top: 15%;
+}
+
+#bottleBendWaterHclTemp {
+  position: absolute;
+  height: 56%;
+  width: 161%;
+  left: -29%;
+  top: 13%;
+  display: none;
+  transform: rotate(94deg);
+}
+
+#bottleTextHClTemp {
+  position: absolute;
+  font-weight: bold;
+  top: 55%;
+  left: 33%;
+}
+
+#glassStopNaTemp {
+  position: absolute;
+  top: 33.2%;
+  left: 87.4%;
+  height: 10%;
+  width: 4.1%;
+}
+
+#bottleComNaTemp {
+  position: absolute;
+  height: 22%;
+  width: 10%;
+  left: 85%;
+  top: 45%;
+}
+
+#bottleNaTemp {
+  position: absolute;
+  height: 128%;
+  top: -27%;
+  left: 7%;
+  width: 77%;
+}
+
+#bottleWaterNaTemp {
+  height: 87%;
+  width: 76%;
+  position: absolute;
+  left: 8%;
+  top: 15%;
+}
+
+#bottleBendWaterNaTemp {
+  position: absolute;
+  height: 56%;
+  width: 161%;
+  transform: rotate(94deg);
+  left: -41%;
+  top: 15%;
+  display: none;
+}
+
+#bottleTextNaTemp {
+  position: absolute;
+  font-weight: bold;
+  top: 55%;
+  left: 13%;
+  font-size: 79%;
+}
+
+#coniTemp {
+  position: absolute;
+  height: 30%;
+  width: 12%;
+  left: 56%;
+  top: 43%;
+}
+
+#coniWaterTemp {
+  position: absolute;
+  left: 5%;
+  top: 44%;
+  display: none;
+}
+
+#FadedconiWaterTemp {
+  position: absolute;
+  left: 9%;
+  height: 41%;
+  width: 86%;
+  top: 39%;
+  display: none;
+}
+
+#waterpouringTemp {
+  position: absolute;
+  left: 62%;
+  height: 0%;
+  top: 37%;
+  width: 2px;
+  display: none;
+}
+
+#conicalFlaskTemp {
+  position: absolute;
+  top: 5%;
+  left: 3%;
+}
+
+#burner {
+  position: absolute;
+  height: 49%;
+  top: 33%;
+  left: -1%;
+  width: 56%;
+}
+
+#measCylDropTemp {
+  position: absolute;
+  height: 34%;
+  width: 29%;
+  left: 54%;
+}
+
+#waterpouringNaTemp {
+  position: absolute;
+  left: 77%;
+  height: 0%;
+  top: 20%;
+  width: 2px;
+}
+
+#waterpouringBurNaTemp {
+  position: absolute;
+  left: 21%;
+  height: 0%;
+  top: 64%;
+  width: 2px;
+  display: none;
+}
+
+#conFlaskDropTemp {
+  top: 15%;
+  position: absolute;
+  height: 35%;
+  width: 20%;
+  left: 34%;
+}
+
+#conFlaskDropShakeTemp {
+  top: 0%;
+  position: absolute;
+  height: 98%;
+  width: 73%;
+  left: 26%;
+  display: none;
+}
+
+#buretteTapTemp {
+  position: absolute;
+  height: 8%;
+  width: 6%;
+  top: 54%;
+  left: 20%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+#burnerDropTemp {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  top: 10%;
+  left: 26%;
+}
+
+#buretteDownDropTemp {
+  position: absolute;
+  height: 31%;
+  width: 29%;
+  top: 56%;
+  left: 8%;
+}
+
+#conFlaskDropTemp {
+  top: 15%;
+  position: absolute;
+  height: 35%;
+  width: 20%;
+  left: 53%;
+}
+
+#alertImgTemp {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#alertMsgTemp {
+  position: absolute;
+  top: 16%;
+  left: 48%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+#alertTextTemp {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 113%;
+
+}
+
+#alertTextTemp {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 113%;
+
+}
+
+#alertTextTempHeat {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  display: none;
+  font-size: 113%;
+}
+
+#alertTextTemp4 {
+  position: absolute;
+  top: 28%;
+  height: 63%;
+  left: 16%;
+  width: 78%;
+  font-size: 113%;
+}
+
+#timerMsgTemp {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+.timerDisplayTemp {
+  position: absolute;
+  width: 17%;
+  left: 58%;
+  font-family: 'Roboto mono', monospace;
+  top: 10%;
+  font-size: 11px;
+  justify-content: space-around;
+  display: none;
+}
+
+#alertImgTemp2 {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#initialAlertImgTemp2 {
+  width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 14px
+}
+
+#alertMsgTemp2 {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+#initialTempAlert {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  text-align: center;
+  height: 37px;
+  width: 282px;
+  display: none;
+  background-color: gainsboro;
+  border-radius: 20px;
+
+}
+
+#alertTextTemp2 {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  text-align: center;
+  height: 37px;
+  width: 255px;
+  display: none;
+  border-radius: 20px;
+
+}
+
+#alertTextTemp3 {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  width: 78%;
+  font-size: 113%;
+  display: none;
+}
+
+.newWaterAnimation3 {
+  position: absolute;
+  width: 2px;
+  height: 44px;
+  top: 210px;
+  left: 119px;
+  display: none;
+}
+
+.waterAnimation3 {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+.newWaterAnimation4 {
+  position: absolute;
+  width: 2px;
+  height: 44px;
+  top: 210px;
+  left: 119px;
+  display: none;
+}
+
+.waterAnimation4 {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+#buretteTapCloseTemp {
+  position: absolute;
+  height: 8%;
+  width: 6%;
+  top: 54%;
+  left: 20%;
+  display: none;
+  z-index: 1;
+}
+
+#stopWatchOnTemp {
+  left: 55%;
+  position: absolute;
+  height: 18%;
+  top: 4%;
+  width: 17%;
+  display: none;
+}
+
+#nameBoard {
+  position: absolute;
+  left: 51%;
+  top: 70%;
+  width: 15%;
+  height: 7%;
+}
+
+#resetTimerTemp {
+
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 100;
+  border-color: transparent;
+  margin-left: 6%;
+  display: none;
+}
+
+#resTemp1,
+#resTemp2,
+#resTemp3,
+#resTemp4,
+#resTemp5 {
+  display: none;
+}
+
+#crossTileDropTemp {
+  position: absolute;
+  height: 31%;
+  width: 24%;
+  top: 56%;
+  left: 50%;
+}
+
+#nextTemp {
+  position: absolute;
+  top: 6%;
+  width: 85px;
+  left: 79%;
+  background-color: honeydew;
+  border-radius: 5px;
+  display: none;
+}
+
+.newFireAnimation {
+  position: absolute;
+  width: 14%;
+  height: 68%;
+  top: 207%;
+  left: 248%;
+  z-index: 1;
+  display: none;
+
+}
+
+.fireAnimation {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+.newBubbleAnimation {
+  position: absolute;
+  width: 69%;
+  height: 96%;
+  top: 106%;
+  left: 220%;
+  z-index: 1;
+  display: none;
+
+}
+
+.bubbleAnimation {
+  position: absolute;
+  width: 90px;
+  height: 64px;
+}
+
+#graphHorizontalTemp {
+  position: absolute;
+  top: 88.9%;
+  height: 0.8%;
+  width: 94%;
+  left: 6.2%;
+}
+
+#graphArrowrightTemp {
+  position: absolute;
+  top: 86.6%;
+  height: 6%;
+  left: 97%;
+
+}
+
+#graphArrowTopTemp {
+  position: absolute;
+  top: 0%;
+  transform: rotate(270deg);
+  height: 6%;
+  left: 5.4%;
+}
+
+#firstDivPoint1 {
+  position: absolute;
+  top: 82.5%;
+  left: 47.7%;
+
+}
+
+#firstDivPoint2 {
+  position: absolute;
+  top: 77.4%;
+  left: 45.5%;
+}
+
+#firstDivPoint3 {
+  position: absolute;
+  top: 67.7%;
+  left: 41.6%;
+
+}
+
+#firstDivPoint4 {
+  position: absolute;
+  left: 33.8%;
+  top: 48.2%;
+}
+
+#firstDivPoint5 {
+  position: absolute;
+  top: 8.7%;
+  left: 17.1%;
+}
+
+#axis0_0Temp {
+  position: absolute;
+  top: 92%;
+  left: 11.5%;
+
+}
+
+.allaxisTemp {
+
+  font-size: 14px;
+  font-weight: bold;
+
+}
+
+#axis0_1Temp {
+  position: absolute;
+  top: 92%;
+  left: 18.5%;
+}
+
+#axis0_2Temp {
+  position: absolute;
+  top: 92%;
+  left: 25%;
+}
+
+#axis0_3Temp {
+  position: absolute;
+  top: 92%;
+  left: 31.5%;
+}
+
+#axis0_4Temp {
+  position: absolute;
+  top: 92%;
+  left: 36.5%;
+}
+
+#axis0_5Temp {
+  position: absolute;
+  top: 92%;
+  left: 43%;
+}
+
+#axis0_6Temp {
+  position: absolute;
+  top: 92%;
+  left: 51%;
+}
+
+#axis0_7Temp {
+  position: absolute;
+  top: 92%;
+  left: 57%;
+}
+
+#axis0_8Temp {
+  position: absolute;
+  top: 92%;
+  left: 63.5%;
+}
+
+#axis0_9Temp {
+  position: absolute;
+  top: 92%;
+  left: 70%;
+}
+
+#axis0_10Temp {
+  position: absolute;
+  top: 92%;
+  left: 76.5%;
+
+}
+
+#axis0_11Temp {
+  position: absolute;
+  top: 92%;
+  left: 83.5%;
+
+}
+
+#axis0_12Temp {
+  position: absolute;
+  top: 92%;
+  left: 89.5%;
+}
+
+#theXlabelTemp {
+  position: absolute;
+  left: 41%;
+  top: 96%;
+  font-weight: bold;
+}
+
+#axis1_0Temp {
+  position: absolute;
+  top: 78%;
+  left: 3%;
+}
+
+#axis1_2Temp {
+
+  position: absolute;
+  top: 67%;
+  left: 3%;
+
+}
+
+#axis1_3Temp {
+  position: absolute;
+  top: 58%;
+  left: 3%;
+
+}
+
+#axis1_4Temp {
+  position: absolute;
+  top: 48%;
+  left: 3%;
+
+}
+
+#axis1_5Temp {
+  position: absolute;
+  top: 38%;
+  left: 3%;
+}
+
+#axis1_6Temp {
+  position: absolute;
+  top: 28%;
+  left: 3%;
+
+}
+
+#axis1_7Temp {
+  position: absolute;
+  top: 18%;
+  left: 3%;
+}
+
+#axis1_8Temp {
+  position: absolute;
+  top: 8%;
+  left: 3%;
+
+}
+
+#theYlabelTemp {
+  position: absolute;
+  top: 43%;
+  left: 12%;
+  font-size: larger;
+}
+
+#thexrotateyTemp {
+  position: absolute;
+  top: 54%;
+  left: -11%;
+  transform: rotate(269deg);
+  width: 23%;
+  height: 12%;
+  font-weight: bold;
+
+}
+
+#thecoordinate_joinTemp {
+  position: absolute;
+  left: 11.7%;
+  top: 49%;
+  height: 4.4%;
+  transform: rotate(218deg);
+}
+
+#firstDivPoint1Temp {
+  position: absolute;
+  top: 61.5%;
+  left: 54.7%;
+
+}
+
+#firstDivPoint2Temp {
+  position: absolute;
+  top: 51.4%;
+  left: 47.5%;
+}
+
+#firstDivPoint3Temp {
+  position: absolute;
+  top: 43.5%;
+  left: 40.6%;
+
+}
+
+#firstDivPoint4Temp {
+  position: absolute;
+  top: 22.7%;
+  left: 24.1%;
+}
+
+#firstDivPoint5Temp {
+  position: absolute;
+  top: 22.7%;
+  left: 24.1%;
+}
+
+#alertMsgClean {
+  position: absolute;
+  top: 10%;
+  left: 28%;
+  text-align: center;
+  height: 13%;
+  width: 58%;
+  background-color: gainsboro;
+  border-radius: 20px;
+  display: none;
+}
+
+#alertImgClean {
+  width: 25px;
+  position: absolute;
+  top: 10px;
+  left: 18px;
+}
+
+#alertTextClean {
+  position: absolute;
+  top: 17%;
+  height: 63%;
+  left: 15%;
+  font-size: 110%;
+  width: 78%;
+}

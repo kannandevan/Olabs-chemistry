@@ -1,0 +1,231 @@
+@font-face {
+	font-family: digi;
+	src: url(DS-DIGII.TTF);
+}
+.userSelect {
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+.main {
+	overflow: hidden;
+}
+.varResult {
+	padding: 5px 0px 10px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #000;
+	text-align: left;
+}
+#mainDiv{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+	border:#000 2px solid;
+}
+
+/*control section*/
+#rightminvals, #rightminvals1, #rightminvals2 {
+	float: left;
+	padding-left: 7px;
+}
+#rightmaxvals, #rightmaxvals1, #rightmaxvals2 {
+	float: right;
+	padding-right: 20px;
+}
+/*canvas section*/
+#bg1 {
+	position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+#appartus_beaker {
+	position: absolute;
+    top: 14%;
+    left: 36%;
+    width: 29%;
+    height: 34%;
+}
+#saltbridge {
+    width: 98%;
+    height: 100%;
+}
+#solution_water_an {
+	position: absolute;
+    top: 38%;
+    left: 23%;
+    width: 20%;
+    height: 25%;
+	background-color: #FFF;
+	opacity: 0.5;
+	border-bottom-left-radius: 26px 14px;
+	border-bottom-right-radius: 26px 17px;
+}
+#solution_water_cd {
+	position: absolute;
+    top: 37.7%;
+    left: 59%;
+    width: 20%;
+    height: 25%;
+	background-color: #FFF;
+	opacity: 0.5;
+	border-bottom-left-radius: 26px 14px;
+	border-bottom-right-radius: 26px 17px;
+}
+#voltmeter {
+    position: absolute;
+    top: 11%;
+    left: 13%;
+    width: 72%;
+    height: 90%;
+}
+#voltmeterimg {
+	width: 98%;
+	height: 105%;
+}
+#volt_reading {
+	position: absolute;
+	top: 66%;
+	left: 237px;
+	color: #000;
+	font-size: 200%;
+	text-align: center;
+	cursor: default;
+	font-family: digi;
+
+}
+#unit {
+	position: absolute;
+	top: 68%;
+	left: 57%;
+	color: #000;
+	font-size: 130%;
+	text-align: center;
+	cursor: default;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*Electrodes*/
+#Anoderod {
+    position: absolute;
+    top: 17%;
+    left: 28%;
+    width: 5%;
+    height: 45%
+
+}
+#cathoderod {
+    position: absolute;
+    top: 16%;
+    left: 65%;
+    width: 5%;
+    height: 45%;
+}
+.sizes {
+    height: 100%;
+    width: 98%;
+}
+.sizes1 {
+    height: 100%;
+    width: 98%;
+}
+#cathodeboard{
+    position: absolute;
+    top: 64%;
+    left: 64%;
+    width: 18%;
+    height: 7%;
+}
+#anodeboard{
+    position: absolute;
+    top: 64%;
+    left: 25%;
+    width: 18%;
+    height: 7%;
+}
+
+/*labels*/
+#cathode_label {
+    position: absolute;
+    top: 64%;
+    left: 61%;
+    font-size: 110%;
+	padding-left: 7%;
+}
+#anode_label {
+    position: absolute;
+    top: 64%;
+    left: 23%;
+    font-size: 110%;
+	padding-left: 7%;
+}
+#anode_sollabel {
+    position: absolute;
+    top: 47%;
+    left: 23%;
+    width: 20%;
+    height: 7%;
+}
+#anode_rodlabel {
+    position: absolute;
+    top: 31%;
+    left: 28%;
+    /* color: #FFF; */
+    width: 5%;
+    height: 7%;
+}
+#cathode_sollabel {
+    position: absolute;
+    top: 47%;
+    left: 59%;
+    width: 20%;
+    height: 7%;
+}
+#cathode_rodlabel {
+	position: absolute;
+    top: 30%;
+    left: 65%;
+/* 	color: #FFF; */
+    width: 5%;
+    height: 7%;
+}
+.varTitle1{
+	/* padding: 5px 0px 0px 10px; */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 130%;
+	color: #626262;
+	width: 93px;
+	height: 18px;
+	background:#FFF;
+	text-align:center;
+}
+#anodebeaker{
+	position: absolute;
+    top: 27%;
+    left: 22.5%;
+    width: 21.6%;
+}
+#cathodebeaker{
+    position: absolute;
+    top: 26.5%;
+    left: 58.7%;
+    width: 21.6%;
+}
+input[type="range"] {
+    display: block;
+    width: 90%;
+	margin: auto;
+}
+.varTitle {
+    padding: 3px 0px 0px 10px;
+	}
+.form-control {
+	width:90%;
+	margin:auto;
+	}

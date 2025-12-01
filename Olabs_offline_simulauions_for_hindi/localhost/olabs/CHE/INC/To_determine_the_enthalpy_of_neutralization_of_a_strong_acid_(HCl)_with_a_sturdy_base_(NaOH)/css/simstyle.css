@@ -1,0 +1,607 @@
+@font-face {
+  font-family: "chalk-font";
+  src: url("pencil.ttf");
+}
+#dropitA,
+#slantWater,
+#slantWaterA,
+#pour,
+#pourA,
+#caloriSide,
+#tempDiag,
+#tempReadA,
+#tempDiagA,
+#tempReadB,
+#dropitB,
+#tempDiagB,
+#tempDiagC,
+#tempReadD,
+#dropitC,
+#dropitD,
+#nxtBtn,
+#backgroundB,
+#eqnA,
+#eqnB,
+#eqnC,
+#eqnD,
+#eqnE,
+#eqnF,
+#eqnG,
+#eqnH,
+#eqnI,
+#lineA,
+#lineB,
+#inference,
+#mainDivB,
+#underlineA,
+#underlineB,
+.secondpg_txt,
+.thirdpg_txt {
+  display: none;
+}
+.secondpg_txt {
+  margin-top: 20px;
+}
+.chalk {
+  color: white;
+  height: 18px;
+  font-size: 15px;
+  font-family: "chalk-font" !important;
+}
+/* #eqnDivA{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+} */
+#eqnA {
+  position: absolute;
+  line-height: 1.2;
+  left: 19px;
+  top: 44px;
+  width: 550px;
+}
+#eqnB {
+  position: absolute;
+  line-height: 1.2;
+  left: 19px;
+  top: 69px;
+  height: 36px;
+  /* font-size: 10px; */
+}
+#eqnC {
+  /* position: absolute;
+    line-height: 15px;
+    width: 500px;
+    left: 19px;
+    top: 112px;
+    height: 30px; */
+
+  position: absolute;
+  line-height: 17px;
+  /* width: 500px; */
+  left: 19px;
+  top: 110px;
+  height: 30px;
+}
+
+#eqnD {
+  /* position: absolute;
+    line-height: 15px;
+    font-family: 'chalk-font' !important;
+    height: 21px;
+    width: 385px; */
+  position: absolute;
+  line-height: 17px;
+  font-family: "chalk-font" !important;
+  height: 21px;
+  width: 385px;
+}
+#calculationA {
+  position: absolute;
+  /* border: 1px solid wheat; */
+  width: 370px;
+  height: 36px;
+  left: 19px;
+  top: 155px;
+}
+#underlineA {
+  position: absolute;
+  width: 157px;
+  height: 1px;
+  background-color: white;
+  top: 15px;
+  left: 154px;
+}
+#underlineB {
+  position: absolute;
+  width: 173px;
+  height: 1px;
+  background-color: white;
+  top: 26px;
+  left: 31px;
+}
+#eqnE {
+  position: absolute;
+  line-height: 15px;
+  font-family: "chalk-font" !important;
+
+  left: 210px;
+  top: 17px;
+  /* height: 30px; */
+}
+#eqnF {
+  position: absolute;
+  width: 535px;
+  height: 30px;
+  left: 17px;
+  left: 20px;
+  top: 188px;
+}
+#calculationB {
+  position: absolute;
+
+  /* border: 1px solid wheat; */
+  width: 300px;
+  height: auto;
+  left: 145px;
+  top: 202px;
+}
+#eqnG {
+  position: absolute;
+  line-height: 15px;
+  width: 250px;
+  font-family: "chalk-font" !important;
+  left: 17px;
+  top: 11px;
+  /* height: 30px; */
+}
+#eqnH {
+  position: absolute;
+  font-family: "chalk-font" !important;
+  left: 64px;
+  top: 28px;
+  /* top: 188px; */
+}
+#eqnI {
+  position: absolute;
+  height: 24px;
+  line-height: 1.2;
+  font-size: 16px;
+  left: 162px;
+  top: 250px;
+  /* top: 188px; */
+}
+#lineA {
+  position: absolute;
+  width: 78px;
+  height: 2px;
+  background-color: white;
+  top: 270px;
+  left: 175px;
+}
+#lineB {
+  position: absolute;
+  width: 78px;
+  height: 2px;
+  background-color: white;
+  top: 274px;
+  left: 175px;
+}
+.firstpg_txt,
+.secondpg_txt,
+.thirdpg_txt {
+  font-size: 11px !important;
+  line-height: 18px !important;
+}
+.userSelect,
+.content {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#ovalA {
+  position: absolute;
+  top: -51px;
+  height: 56px;
+  width: 173px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  box-shadow: 6px 5px 19px 0px rgb(0 0 0 / 75%);
+  -webkit-box-shadow: 6px 5px 19px 0px rgb(0 0 0 / 75%);
+  -moz-box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+}
+#triangleRight {
+  position: absolute;
+  left: 119px;
+  top: -38px;
+  width: 0;
+  height: 0;
+  border-top: 37px solid transparent;
+  border-left: 83px solid rgb(255, 255, 255);
+  border-bottom: 2px solid transparent;
+}
+#triangleLeft {
+  position: absolute;
+  top: 2px;
+  left: -15px;
+  width: 0;
+  height: 0;
+  border-top: 46px solid transparent;
+  border-right: 70px solid rgb(255, 255, 255);
+  border-bottom: -8px solid transparent;
+}
+#triangleLeftA {
+  position: absolute;
+  top: 2px;
+  left: -15px;
+  width: 0;
+  height: 0;
+  border-top: 46px solid transparent;
+  border-right: 70px solid rgb(255, 255, 255);
+  border-bottom: -8px solid transparent;
+}
+#oval {
+  position: absolute;
+  height: 53px;
+  width: 173px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+}
+#ovalB {
+  position: absolute;
+  height: 53px;
+  width: 173px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 5px 19px 0px rgba(0, 0, 0, 0.75);
+}
+#tempDiagA {
+  position: absolute;
+  left: 176px;
+  top: 155px;
+}
+#tempReadA {
+  position: absolute;
+  top: 97px;
+  left: 166px;
+  font-size: 12px;
+  font-weight: 1000;
+  z-index: 1;
+}
+#tempReadB {
+  position: absolute;
+  top: 124px;
+  left: 202px;
+  font-size: 12px;
+  font-weight: 1000;
+  z-index: 1;
+}
+#tempReadD {
+  position: absolute;
+  top: 97px;
+  left: 154px;
+  font-size: 12px;
+  font-weight: 1000;
+  z-index: 1;
+}
+#tempDiag {
+  position: absolute;
+  left: 138px;
+  top: 80px;
+}
+#tempDiagB {
+  position: absolute;
+  width: 452px;
+  height: 43px;
+  top: 10px;
+  left: 49px;
+  background-color: white;
+  border: 5px ridge rgb(136, 136, 136);
+  pointer-events: none;
+}
+#tempDiagC {
+  position: absolute;
+  left: 138px;
+  top: 80px;
+}
+#tempReadC {
+  position: absolute;
+  font-weight: 1000;
+  left: 10px;
+  top: 13px;
+  width: 480px;
+  height: 30px;
+}
+#background {
+  width: auto;
+  position: absolute;
+  top: -34px;
+}
+#backgroundB {
+  width: 592px;
+  height: 367px;
+  position: absolute;
+  top: -15px;
+  left: -15px;
+}
+#inference {
+  cursor: pointer;
+  position: absolute;
+  left: 7px;
+  top: 7px;
+}
+
+#nxtBtn {
+  position: absolute;
+  left: 466px;
+  top: 14px;
+  cursor: pointer;
+}
+
+#calorimeterMain {
+  position: absolute;
+
+  left: 1px;
+  top: 171px;
+}
+#wholecalorimeterLid {
+  position: absolute;
+  left: 8px;
+  top: 167px;
+}
+#calorimeterTop {
+  position: absolute;
+  z-index: 1;
+}
+#calorimeterLayer {
+  position: absolute;
+  z-index: 3;
+  top: 11px;
+  left: -1px;
+}
+#stirrer {
+  position: absolute;
+  z-index: 2;
+  left: 118px;
+  top: 211px;
+}
+#pour {
+  position: absolute;
+  left: 55px;
+  height: 90px;
+  width: 3px;
+  z-index: 0;
+  top: 104px;
+}
+#pourA {
+  position: absolute;
+  left: 193px;
+  height: 90px;
+  width: 3px;
+  z-index: 0;
+  top: 125px;
+}
+#caloriSide {
+  position: absolute;
+  z-index: 3;
+  left: 1px;
+  top: 171px;
+}
+/* #caloriSoln {
+    position: absolute;
+    left: 107px;
+    width: 48px;
+    top: 190px;
+} */
+#wholeMeasuringcylinder {
+  position: absolute;
+  left: 169px;
+  top: 137px;
+  width: 43px;
+  height: 153px;
+  transform-origin: center;
+  pointer-events: none;
+}
+#measuringCylinder {
+  position: absolute;
+}
+#measuringcylinderWater {
+  position: absolute;
+  left: 7px;
+  top: 18px;
+  width: 27px;
+  height: 190px;
+  display: none;
+}
+#labelhcl {
+  position: absolute;
+  z-index: 10;
+  width: 75px;
+  /* height: 39px; */
+  left: 239px;
+  top: 294px;
+}
+#slantWater {
+  position: absolute;
+  width: 0;
+  height: 0px;
+  top: 8px;
+  left: 8px;
+  opacity: 0.5;
+  border-left: 0px solid transparent;
+  border-right: 24px solid transparent;
+  border-bottom: 133px solid rgb(255, 255, 255);
+}
+#slantWaterA {
+  position: absolute;
+  width: 0;
+  height: 0px;
+  top: 11px;
+  left: 10px;
+  opacity: 0.3;
+  border-left: 0px solid transparent;
+  border-right: 75px solid transparent;
+  border-bottom: 103px solid rgb(255, 255, 255);
+}
+#slantWaterB {
+  position: absolute;
+  width: 0;
+  height: 0px;
+  top: 11px;
+  left: 10px;
+  opacity: 0.3;
+  border-left: 0px solid transparent;
+  border-right: 75px solid transparent;
+  border-bottom: 103px solid rgb(255, 255, 255);
+  display: none;
+}
+#wholeBeaker {
+  position: absolute;
+  left: 332px;
+  top: 170px;
+  /* border: 1px solid; */
+  width: 100px;
+  height: 121px;
+  transform-origin: center;
+}
+/* hcl beaker */
+#wholeBeakerHcl {
+  position: absolute;
+  left: 225px;
+  top: 170px;
+  /* border: 1px solid; */
+  width: 100px;
+  height: 121px;
+  transform-origin: center;
+}
+#beakerWaterhcl {
+  position: absolute;
+  width: 82px;
+  height: 39px;
+  left: 8px;
+  top: 86px;
+}
+#beakerLayerhcl {
+  position: absolute;
+  z-index: 3;
+  width: 95px;
+  height: 113px;
+  left: 1px;
+  top: 7px;
+}
+/* end */
+#beaker {
+  position: absolute;
+}
+#beakerWater {
+  position: absolute;
+  width: 82px;
+  height: 39px;
+  left: 8px;
+  top: 86px;
+}
+#beakerLayer {
+  position: absolute;
+  z-index: 3;
+  width: 95px;
+  height: 113px;
+  left: 1px;
+  top: 7px;
+}
+
+#labelnaoh {
+  position: absolute;
+  z-index: 10;
+  width: 82px;
+  /* height: 39px; */
+  left: 342px;
+  top: 292px;
+}
+#thermometer {
+  position: absolute;
+  z-index: 0;
+  left: 501px;
+  top: 118px;
+}
+#wholethermoStand {
+  position: absolute;
+  left: 473px;
+  top: 197px;
+}
+#thermostand {
+  position: absolute;
+  width: 75px;
+}
+#thermostandSide {
+  position: absolute;
+  width: 19px;
+  left: -6px;
+  top: 0px;
+  z-index: 1;
+}
+#thermostandLayer {
+  position: absolute;
+  z-index: 1;
+  top: 25px;
+  width: 70px;
+}
+#dropitA {
+  position: absolute;
+  left: 5px;
+  top: 10px;
+  /* border: 1px solid black; */
+  width: 232px;
+  height: 194px;
+  pointer-events: none;
+}
+#dropitB {
+  position: absolute;
+  left: 319px;
+  top: 17px;
+  /* border: 1px solid black; */
+  width: 128px;
+  height: 274px;
+}
+#dropitC {
+  position: absolute;
+  left: 459px;
+  top: 18px;
+  /* border: 1px solid black; */
+  width: 94px;
+  height: 274px;
+}
+#dropitD {
+  position: absolute;
+  left: 74px;
+  top: 18px;
+  /* border: 1px solid black; */
+  width: 140px;
+  height: 163px;
+}
+#labelthermometer {
+  position: absolute;
+  z-index: 10;
+  width: 82px;
+  /* height: 39px; */
+  left: 474px;
+  top: 292px;
+}
+#labelCalorimeter {
+  position: absolute;
+  z-index: 10;
+  width: 82px;
+  /* height: 39px; */
+  left: 6px;
+  top: 292px;
+}
+.thermoStand {
+  position: absolute;
+  width: 75px;
+}

@@ -1,0 +1,395 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Action_of_water_on-quick_lime&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:36:50 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/custom_resp.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/font.css" />
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/reset.css" />-->
+<!--<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot_rt/css/grid.css" />-->
+<link href="template/olab_ot_rt/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="template/olab_ot_rt/css/newStyle.css" rel="stylesheet" type="text/css" />
+
+ <!-- <script src="js/jquery/jquery_v1.12.4.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+
+
+    <!-- jQuery UI 1.12.1 -->
+  <!-- <script src="js/jquery/jqueryUI_v1.12.1.js"></script> -->
+   
+  <script src="js/jquery/jquery-ui.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../CHE/INC/Action_of_water_on-quick_lime/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript">
+	var simPath="http://localhost/olabs/CHE/INC/Action_of_water_on-quick_lime/";
+</script>
+
+<script language="javascript" type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/runtime.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/swiffy.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/jquery-migrate-1.2.1.js"></script><!-- $.browser call has been removed in jquery 1.9 -->
+<script type="text/javascript" language="javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<script language="javascript" type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<style>
+
+@font-face {
+
+	font-family:MRKGPEN;
+
+	src: url(http://localhost/olabs/CHE/INC/Action_of_water_on-quick_lime/css/MRKGPEN.TTF);
+
+}
+
+</style>
+
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../CHE/INC/Action_of_water_on-quick_lime/locale/en-IN/language.js'></script> 
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+<script>
+	$(document).ready(function(){
+
+		 //toggle sidebar on clicking the hamburger
+		  $("#menu-toggle").click(function(e) {
+			  e.preventDefault();
+			  $("#wrapper").toggleClass("toggled");
+			  checkWidth();
+		  });
+	
+		//show sidebar on clicking the hamburger and hide on clicking outside
+
+
+		// $('*:not(.menu-toggle)').on('click', function () {
+			// $('#wrapper').removeClass('toggled');
+		// });
+
+		checkWidth();
+		
+		//apply transformation on resizing the window viewport
+
+	
+		var windowWidth = $(window).width();
+		
+		if(windowWidth != $(window).width()){
+			checkWidth();
+		}
+		
+		$(window).resize(function() {
+			
+			checkWidth();
+			// location.reload();
+			// return;
+			
+		 });
+			
+		
+	});
+</script>
+
+</head>
+<body>
+
+
+<div class="container">
+		<div id="wrapper" class="toggled">
+			<header class="header" id="silumatorTemp">
+
+				<nav class="navbar navbar-static-top" role="navigation">   
+					<div class="title" style="display: inline-block;">
+						<p id="expName"></p>
+				
+						<a href="javascript:" class="navbar-btn sidebar-toggle hidden-md hidden-lg hidden-sm" id="menu-toggle" role="button">
+						<!--<a href="javascript:" class="navbar-btn sidebar-toggle" id="menu-toggle" role="button">-->
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+				</nav>
+				
+				<div class="navbar-right">
+					<ul id="olabmenuBar" class="nav navbar-nav">						
+						<li>
+							<a href="#">SAVE</a>
+						</li>
+						<li>
+							<a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;" >FULLSCREEN</a>	                        
+						</li>
+						<li>
+							<a href="#">EXIT</a>                         
+						</li>							
+					</ul>
+				</div>
+
+			</header><!-- /header -->
+ 
+<div id="sidebar-wrapper" class="controlHolder" style="overflow-y:scroll">
+	<div class="nano has-scrollbar">
+		
+<ul><li>
+		
+    <div class="varBox">  
+    <p class="varTitle_1" id="instrTxt"></p><br/>
+        
+		<ol class="instructions" id="instrList">
+		
+
+        </ol>
+
+     	<p align="center"><input type="button" class="form-control" id="reset" name="reset"  onclick="window.location.reload()" /></p>
+      
+       
+	</div>
+
+</li></ul>
+
+<script type="text/javascript">
+  var inputs = document.getElementsByTagName('input');
+  for(var i = 0; i < inputs.length; i++) {
+	  
+    if(inputs[i].type == 'range') {
+		inputs[i].addEventListener('click', function() {
+        this.focus(); 
+      });
+    }
+  }
+</script>
+
+	</div>
+</div>
+	
+	
+<div id="page-content-wrapper" class="canvasHolder">
+	<div id="mainDiv">
+<!--<div id="animLoad" style=" border:1px solid;width:916px; height:347px; position:absolute; top: -17px; left: -179px; visibility:hidden;"></div>-->
+<div id="animLoad" style=" border:1px solid;width:100%; height:100%; position:absolute; top: 0px; left: 0px; visibility:hidden;"></div>
+<canvas id="stillCanvas" style="position:absolute;"></canvas>
+
+<div id="redmarkDiv"></div>
+
+<canvas id="bgCanvas">
+	<!--<img id="firstBG" src="../CHE/INC/Action_of_water_on-quick_lime/images/BG.jpg"/>-->
+</canvas>
+
+<div id="limeDiv"></div>
+
+<div id="dropperDiv" style="display:none;"></div>
+
+<div id="tubeDiv" style="visibility:hidden;"></div>
+
+<div id="tooltipDiv" style="display:none;"></div>
+
+<span id="displayQuicklimeDiv"></span>
+<span id="displaywaterDiv"></span>
+<span id="displayNextDiv"></span>
+<div id="NextDiv" onclick="NextScene()"></div>
+<div id="BlowDiv" onclick="blowAir()"></div>
+<div id="inferenceDiv" class="inferenceDiv" style="display:none;"> <img id="inferenceImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/inference.png"/></div>
+
+<div id="inferenceDiv02" class="inferenceDiv" style="display:none;"> <img id="inferenceImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/inference.png"/></div>
+<img id="clockBody" src="../CHE/INC/Action_of_water_on-quick_lime/images/clockBody.png"/>
+<img id="needle" src="../CHE/INC/Action_of_water_on-quick_lime/images/needle.png"/>
+<img id="quicklimeImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/powderinthermobeaker.png"/>
+<img id="watchglassImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/QuicklimeBg.png"/>
+<div id="SpatullaDiv"><img id="ImgInSpatulla" src="../CHE/INC/Action_of_water_on-quick_lime/images/spatulapowder.png"/>
+<img id="spatulaImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/spatula.png"/></div>
+<div id="testtubeImgDiv">
+	<img id="testtubeImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/testtube.png"/>
+	<div id="testtubeSoln"><img  id="testtubeSolnimg" src="../CHE/INC/Action_of_water_on-quick_lime/images/testtubesoln.png" /></div>
+</div>
+<img id="thermometerbeakerImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/thermometerbeaker.png" />
+<div id="readingMask"><img id="thermometerReadingImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/thermoredcolor.png" /></div>
+<div id="thermometerLabel" style="position:absolute; background:url(../CHE/INC/Action_of_water_on-quick_lime/images/thermometerlabel.png) no-repeat;"></div>
+
+<div id="maskDiv" onmouseover="corkup();"></div>
+
+<img id="corkTube" src="../CHE/INC/Action_of_water_on-quick_lime/images/corktube.png" onmouseout="corkdown()"/>
+<img id="dropperstandImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/dropperstand.png" />
+<img id="testtubestandImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/testtubestand.png" />
+
+<img id="drops1" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/> <img id="drops2" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops3" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops4" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops5" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops6" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops7" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops8" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops9" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<img id="drops10" class="Drops" src="../CHE/INC/Action_of_water_on-quick_lime/images/drops.png"/>
+<div id="DropperDiv"><img id="dropperImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/dropper.png" />
+<img  id="dropperSoln1" src="../CHE/INC/Action_of_water_on-quick_lime/images/soln_dropper.png" /></div>
+<div id="BeakerSlaked"><img id="waterstillImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/waterbeakerstill.png" />
+<img id="watershadow" src="../CHE/INC/Action_of_water_on-quick_lime/images/waterbeakershadow.png" /></div>
+
+<img id="SlakedlimestillImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/slakedlime.png" />
+<img id="BlowbtnImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/Blowbtn.png"/>
+<img id="nextbtnImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/nextbtn.png"/>
+<img id="boyblowingSln" src="../CHE/INC/Action_of_water_on-quick_lime/images/blowsolution.png" />
+<img id="mouthstillImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/mouthstill.png" />
+<img id="mouthblowImg" src="../CHE/INC/Action_of_water_on-quick_lime/images/mouthblow.png" />
+<img id="waterlabel" src="../CHE/INC/Action_of_water_on-quick_lime/images/waterlabel.png" />
+<!--<div id="BeakerSoln"><img  id="BeakerSolnimg" src="../CHE/INC/Action_of_water_on-quick_lime/images/waterinthermobeaker.png"/></div>-->
+<div id="bubbles">
+                <div class="bubble x17"></div>
+                <div class="bubble x18"></div>
+                <div class="bubble x19"></div>
+                <div class="bubble x20"></div>
+                <div class="bubble x21"></div>
+                <div class="bubble x22"></div>
+                <div class="bubble x23"></div>
+                <div class="bubble x24"></div>
+</div>
+<div id="bubbles2">
+                <div class="bubble2 x1"></div>
+                <div class="bubble2 x2"></div>
+                <div class="bubble2 x3"></div>
+                <div class="bubble2 x4"></div>
+                <div class="bubble2 x5"></div>
+                <div class="bubble2 x6"></div>
+                <div class="bubble2 x7"></div>
+                <div class="bubble2 x8"></div>
+                <div class="bubble2 x9"></div>
+                <div class="bubble2 x10"></div>
+                <div class="bubble2 x11"></div>
+</div>
+
+</div>
+<script type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/simcontrols.js"></script>
+<script type="text/javascript" src="../CHE/INC/Action_of_water_on-quick_lime/js/responsive.js"></script>
+</div>
+
+<script type="text/javascript">
+ var expTitle="Combination Reaction ";
+ document.getElementById("expName").innerHTML=expTitle;
+</script>
+.
+
+</div>
+
+   <footer id="tempFooter" style="margin-top: -4em">
+	<div style="margin-left: 1em;margin-top: -1.5em;position: absolute;width: 75%;">
+<p class="labName">Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology</p>	
+</div>
+	<div style="position:relative">
+		<div style="float:right;position: absolute;top:-1em;right:2em;"><img src="template/olab_ot_rt/images/dit_logo.gif" ></div>
+	</div>  
+</footer>
+</div>
+
+
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=INC&exp=Action_of_water_on-quick_lime&tempId=olab_ot_rt by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Dec 2025 10:37:02 GMT -->
+</html>
+<!--<script type="text/javascript" src="js/resp.js"></script>-->
+<script>
+
+ 
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

@@ -1,0 +1,182 @@
+.varTitle_1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #626262;
+	text-align:left !important;
+}
+.instructions {
+    color: #626262;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 5px 0 0 30px;
+	margin: 0 0px 0 0;
+    text-align: left !important;
+	list-style-type: decimal !important;
+}
+.userSelect{
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#TesttubeImg{
+	position:absolute;
+	z-index:5;
+	top:27px;
+	width:570px;
+	height:310px;
+}
+#TesttubeRightImg{
+	position:absolute;
+	z-index:5;
+	top:27px;
+	width:570px;
+	height:310px;
+}
+
+#nail1Img{
+	position:absolute;
+	z-index:8;
+	width:139px;
+	height:30px;
+	/*border:solid 1px;*/
+	left:225px;
+	top:302px;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	cursor:pointer;
+}
+#nail2Img{
+	position:absolute;
+	z-index:7;
+	left:225px;
+	top:280px;
+	width:139px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	cursor:pointer;
+}
+#resultdiv{
+	position:absolute;
+	z-index:7;
+	width:139px;
+	height:30px;
+	/*border:solid 1px;*/
+	left:225px;
+	top:315px;
+}
+#nailInTesttube{
+	position:absolute;
+	z-index:4;
+	top:46px;
+	left:135px;
+}
+#TesttubeBlueSolnImg{
+	position:absolute;
+	z-index:4;
+	left:120px;
+	top:150px;
+	width:53px;
+	height:180px;
+}
+#TesttubegreenSolnImg{
+	position:absolute;
+	z-index:4;
+	left:120px;
+	top:150px;
+	width:53px;
+	height:180px;
+}
+#TesttubeBlueSolnImgRight{
+	position:absolute;
+	z-index:4;
+	left:397px;
+	top:150px;
+	width:53px;
+	height:180px;
+}
+#clockBody{
+	position:absolute;
+	z-index:7;
+	left:225px;
+	top:80px;
+	display:none;
+}
+#needle{
+	position:absolute;
+	z-index:8;
+	left:267px;
+	top:98px;
+	display:none;
+}
+#ThreadDiv{
+	position:absolute;
+	z-index:5;
+	top:50px;
+	left:172px;
+	width:25px;
+	height:173px;
+	cursor:pointer;
+	/*border:solid 1px #3F9;*/
+	display:none;
+}
+#helpDiv{
+	position:absolute;
+	z-index:5;
+	top:10px;
+	left:372px;
+	width:25px;
+	height:25px;
+	/*border:solid 1px #3F9;*/
+	display:none;
+}
+#inferenceImg {
+	position:absolute;
+	z-index:8;
+	top:5px;
+	left:5px;
+	cursor:pointer;
+	display:none;
+}
+
+#tooltipLabelforClock{
+	background: url(../images/tooltips.png) no-repeat;
+	background-size:100% 80%;
+    font-size: 13px;
+	min-width: 70px;
+	position:absolute;
+	z-index:8;
+	left:300px;
+	top:70px;
+	height:35px;
+	text-align:center;
+	padding:5px 5px;
+	display:none;
+
+}
+#infertooltip{
+	/*background: url(../images/tooltip_box.png) no-repeat;
+	background-size:100% 70%;*/
+	position:absolute;
+	z-index:5;
+	padding: 5px;
+	height:70px;
+	left:50px;
+	top:0px;
+	font-size: 13px;
+	text-align:center;
+	display:none;
+}
+#testTube{
+	position:absolute;
+	z-index:7;
+	width:50px;
+	height:50px;
+	/*border:solid;*/
+	left:120px;
+	top:25px;
+}

@@ -1,0 +1,534 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.userSelect {
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+.trip-block{
+    -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+.userDrag{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+ /* user-drag: none; */
+}
+#mainDiv{
+    width: 560px;
+    height: 340px;
+}
+.mainTitle {
+    width: 708px;
+}
+.main {
+	overflow: hidden;
+}
+#bg{
+	width: 571px;
+    position: absolute;
+    left: -6px;
+    top: -4px;
+}
+#dish {
+	position: absolute;
+    left: 199px;
+    top: 193px;
+    width: 72px;
+    /* z-index: 1; */
+}
+#funnel{
+	position: absolute;
+    left: 310px;
+    top: 224px;
+    width: 97px;
+    transform: rotate(75deg);
+}
+#cotton{
+	position: absolute;
+    left: 440px;
+    top: 251px;
+    width: 98px;
+}
+#bottle{
+	position: absolute;
+    left: 316px;
+    top: 147px;
+    width: 82px;
+}
+#bottleCap{
+	position: absolute;
+    top: 145px;
+    left: 316px;
+    width: 82px;
+    cursor:pointer;
+    z-index: 1;
+}
+#spatulaDiv{
+	position: absolute;
+    left: 196px;
+    top: 260px;
+   
+}
+#spatula{
+	/* position: absolute;
+    left: 447px;
+    top: 266px; */
+    width: 100px;
+}
+#spatulaDiv1{
+	position: absolute;
+    left: 346px;
+    top: 129px;
+    /* transform: rotate(350deg); */
+    display: none;
+}
+#spatula1{
+    width: 100px;
+}
+#powder1{
+    position: absolute;
+    left: 3px;
+    top: 0px;
+    width: 22px;
+    height: 10px;
+}
+
+#burner{
+    width: 221px;
+}
+#burnerDiv{
+    position: absolute;
+    left: -88px;
+    top: 122px;
+    z-index: 1;
+}
+.burnerCls{
+    position: absolute;
+    left: 163px;
+    top: 111px;
+    width: 20px;
+}
+#tripod{
+	position: absolute;
+    left: 16px;
+    top: 123px;
+    width: 174px;
+}
+#qusDiv{
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 560px;
+    height: 335px;
+    border: 1px solid black;
+    background: #74716e;
+    opacity: 0.8;
+    z-index: 10;
+	display:none;
+}
+#qus1{
+	position: absolute;
+    left: 48px;
+    top: 39px;
+    font-size: 24px;
+    color: white;
+}
+#qus2,#qus3{
+	position: absolute;
+    left: 48px;
+    top: 18px;
+    font-size: 24px;
+    color: white;
+}
+#qus4{
+	position: absolute;
+    left: 48px;
+    top: 18px;
+    font-size: 24px;
+    color: white;
+}
+
+/* #choice11{
+    top: 110px;
+}
+#choice12{
+    top: 150px;
+}
+#choice13{
+    top: 190px;  
+}
+#choice14{
+    top: 230px;
+}
+#choice21{
+    top: 110px;
+}
+#choice22{
+    top: 150px;
+}
+#choice31{
+    top: 110px;
+}
+#choice32{
+    top: 150px;
+}
+#choice33{
+    top: 190px;
+}
+#choice34{
+    top: 230px;
+}
+#choice41{
+    top: 110px;
+}
+#choice42{
+    top: 150px;
+} */
+
+.qusCls{
+	position: absolute;
+	left: 90px;
+	width: 376px;
+    height: 30px;
+    border: 1px solid #f5eded;
+    background: white;
+	font-size: 15px;
+}
+.qusCls:hover {
+    background: rgb(220, 235, 175);
+}
+
+#spatulaDropArea{
+    position: absolute;
+    left: 304px;
+    top: 80px;
+    width: 142px;
+    height: 85px;
+    /* border: 1px solid black; */
+}
+#spatulaPowderDropArea{
+    position: absolute;
+    left: 181px;
+    top: 58px;
+    width: 141px;
+    height: 163px;
+    /* border: 1px solid black; */
+}
+#cottonDropArea{
+    position: absolute;
+    left: 430px;
+    top: 117px;
+    width: 116px;
+    height: 93px;
+    /* border: 1px solid black; */
+}
+#wetCotton{
+    position: absolute;
+    left: 458px;
+    top: 204px;
+    width: 55px;
+    display: none;
+    z-index: 4;
+}
+#powder{
+    position: absolute;
+    left: 3px;
+    top: 0px;
+    width: 22px;
+    height: 10px;
+    display: none;
+}
+#burnerOff
+{
+    pointer-events:none;
+}
+#powderDrop{
+    position: absolute;
+    left: 230px;
+    top: 136px;
+    height: 0px;
+    /* display: none; */
+}
+#q1,#q2,#q3,#q4{
+    display:none;
+}
+#dishWithFunnel{
+    position: absolute;
+    left: 199px;
+    top: 193px;
+    display:none;
+    z-index: 3;
+}
+#dish1 {
+	width: 72px;
+}
+#funnel1{
+	position: absolute;
+    left: -10px;
+    top: -85px;
+    width: 97px;
+    transform: rotate(180deg);
+}
+#dishDropArea{
+    position: absolute;
+    left: 34px;
+    top: 26px;
+    width: 141px;
+    height: 137px;
+    /* border: 1px solid black; */
+    z-index: 4;
+}
+#cottonDrag{
+    position: absolute;
+    left: 476px;
+    top: 249px;
+    width: 42px;
+}
+#cottonDrag2{
+    position: absolute;
+    left: 476px;
+    top: 249px;
+    width: 42px;
+    display:none;
+}
+#cottonDrag1{
+    position: absolute;
+    left: 30px;
+    top: -84px;
+    width: 11px;
+    transform: rotate(71deg);
+    display: none;
+}
+.flameCls{
+    position: absolute;
+    left: 188.5px;
+    top: 43px;
+    width: 10px;
+}
+#dishWater{
+    position: absolute;
+    left: 442px;
+    top: 190px;
+    width: 87px;
+    z-index: 1;
+}
+
+#funnelFog{
+    position: absolute;
+    left: 75px;
+    top: 41px;
+    width: 68px;
+    /* transform: rotate(0deg); */
+    display:none;
+}
+ol{
+    margin-left: 18px;
+    list-style: decimal;
+}
+#instruction{
+    margin-left: 4px;
+    margin-bottom: 6px;
+}
+#Inference{
+    position: absolute;
+    left: 491px;
+    top: 23px;
+    display:none;
+    z-index: 6;
+    cursor: pointer;
+}
+ol li{
+    border-radius: 5px;
+}
+.varBox{
+    overflow: auto;
+    height: 268px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.questionLayout {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #0d102eed;
+    /* background-color: #0d102eab; */
+    top: 0%;
+    z-index: 1000;
+    /* display: none; */
+}
+.questionNumber
+{
+    position: absolute;
+    width: 100%;
+    height: 12%;
+    background-color: #c0c1c900;
+    top: 2%;
+    border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 3%;
+    font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 82%;
+    font-family: 'Inconsolata';
+}
+.questionText
+{
+    position: absolute;
+    color: #cac9cbb3;
+    top: 18%;
+    left: 3%;
+    /* background-color: rgb(36, 14, 66); */
+    width: 94%;
+    height: 21%;
+}
+.questionTextAlignment
+{
+    position: absolute;
+    width: 94%;
+    height: 75%;
+    /* background-color: #0d102eed; */
+    top: 11%;
+    left: 2%;
+    font-size: .9rem;
+    color: #fcf8f8;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: not-allowed;
+}
+.OptionOne
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 34%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionTwo
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 48%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionThree
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 62%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionFour
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 76%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.optionTestDesign {
+    position: absolute;
+    color: #ffffff;
+    font-size: .8rem;
+    top: 20%;
+    left: 5%;
+}
+.optionNo
+{
+    padding-right: 7px;
+}
+#confetti-canvas
+{
+    position: absolute;
+    top: 0%;
+}
+
+.Congrats{
+    position: absolute;
+    top: 39%;
+    left: 28%;
+    width: 45%;
+}
+#cottonLabel{
+    position: absolute;
+    top: 286px;
+    left: 453px;
+    width: 67px;
+    height: 21px;
+}
+#CottonLabelP{
+    position: absolute;
+    top: 289px;
+    left: 466px;
+    z-index: 1;
+    font-size: 12px;
+    font-weight: bold;
+}
+#bottleLabel{
+    position: absolute;
+    top: 196px;
+    z-index: 10;;
+    width: 45px;
+    left: 335px;
+    height: 20px;
+    background-color: white;
+  
+}
+.main p {
+     overflow: visible;
+}
+#bottleLabel p{
+    font-size: 7.7px;
+    font-weight: bold;
+    position: absolute;
+    top: 2px;
+    text-align: center;
+    
+}
+
+

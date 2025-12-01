@@ -1,0 +1,631 @@
+@charset "utf-8";
+@font-face {
+	font-family:MRKGPEN;
+	src: url(MRKGPEN.TTF);
+}
+.varTitle{
+	padding: 10px 0px 2px 10px !important;
+}
+#mainDiv {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:570px;
+	height:337px;
+	overflow:hidden;
+	background:#FFF;
+	opacity:0.99;
+}
+#inference{
+	position: absolute;
+	cursor:pointer;
+	 top: 23px;
+  	left: 17px;
+	display:none;
+	z-index:10;
+}
+.addSpace{
+	padding: 163px 0px 0px 0px;
+}
+#timeLabel{
+	position: absolute;
+	top:60px;
+	left:10px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	text-align:center;
+	display: block;
+} 
+#labelDiv{
+	position: absolute;
+	top: 272px;
+	left: 143px;
+	width: 298px;
+	height: 59px;
+}
+#labelDiv_baudouinTest{
+	position: absolute;
+	top: 272px;
+	left: 143px;
+	width: 214px;
+	height: 59px;
+}
+#label1Div_baudouinTest{
+	position: absolute;	
+	left:12px;
+	top:14px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	height: 28px;
+	text-align:center;
+}
+#label2Div_baudouinTest{
+	position: absolute;	
+	left:111px;
+	top:14px;
+}
+#labelText1_baudouinTest{
+	position: absolute;	
+	left:6px;
+	top:0px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:89px;
+	height: 28px;
+	text-align:center;
+}
+#labelText2_baudouinTest{
+	position: absolute;	
+	left:6px;
+	top:0px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:89px;
+	height: 28px;
+	text-align:center;
+}
+.labelClass{
+	position: absolute;
+	top:13px;
+}
+.labelTextClass{
+	position: absolute;
+	top:7px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	height: 28px;
+	text-align:center;
+}
+#labelText1{
+	position: absolute;
+	top:7px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	height: 28px;
+	text-align:center;
+}
+#labelText2{
+	position: absolute;
+	top:0px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	height: 28px;
+	text-align:center;
+}
+#labelText3{
+	position: absolute;
+	top:7px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width:80px;
+	height: 28px;
+	text-align:center;
+}
+#label1Div{	
+	left:23px;
+}
+#label2Div{	
+	left:115px;
+}
+#label3Div{	
+	left:206px;
+}
+
+#labelBoard{
+	position: absolute;
+	top: 237px;
+	left: 150px;
+	display:none;
+}
+#labelBoardText{
+	top:7px;
+	width: 122px;
+	height: 32px;
+}
+.bottleLabel{
+	position: absolute;	
+	left: 0px;
+	font-family: MRKGPEN;
+	font-size: 16px;
+	width: 59px;
+	height: 22px;
+	text-align:center;
+}
+/*--Burner styles--*/
+#burnerContainer{
+	position: absolute;
+	top: 123px;
+	left: -47px;
+	width:165px;
+	height:190px;
+	display:none;
+}
+#burner{
+	position: absolute;
+	top:50px;
+	left:0px;
+}
+#burnerFlame{
+	position: absolute;
+	top:-1px;
+	left:107px;
+	display:none;
+}
+#burnerOff{
+	position: absolute;
+	top: 112px;
+	left: 46px;
+	cursor: pointer;
+	padding: 20px;
+}
+#burnerOn{
+	position: absolute;
+	top: 113px;
+	left: 55px;
+	padding: 20px;
+	display:none;
+}
+#burnerhelpDiv{
+	position:absolute;
+	top: 210px;
+	left: 1px;
+	width: 75px;
+	height: 75px;
+	z-index: 5;
+}
+/*--Clock styles--*/
+#clockDiv{
+	position: absolute;
+	top: 6px;
+	left: 461px;
+	width:96px;
+	height:96px;
+	display:none;
+}
+#clock{
+	position: absolute;
+}
+#needle{
+	position: absolute;
+	top: 19px;
+	left: 45px;
+}
+.solnStyle{
+	position:absolute;
+	width: 28px;
+	height: 112px;
+	top: -82px;
+	opacity:0.7;
+	background-color:#C4BD1B;
+	border-bottom-right-radius:1em;
+	border-bottom-left-radius:1em;
+}
+.solnLayerStyle{
+	position:absolute;
+	width: 28px;
+	height: 14px;
+	top: 0px;
+}
+.testtubeSolnDivStyle{
+	position: absolute;
+	top: 130px;
+	left: 1px;
+	width: 30px;
+	height: 34px;
+	overflow: hidden;
+}
+.bottleSolnStyle{
+	position: absolute;
+	top: 32px;
+	left: 0px;
+	width: 59px;
+	height: 96px;
+	opacity:0.5;
+	background-color: #CCC;
+	border-radius: 20px 20px 7px 7px;
+
+}
+/*--Solubility test styles--*/
+#solubilityTest{
+	display:block;
+}
+#stand_solubility{
+	position: absolute;
+	top: 165px;
+	left: 150px;
+}
+.testtubeDivStyle{
+	position: absolute;	
+	width:30px;
+	height:160px;	
+}
+#testtube1_solubility,#testtubeDrag1_solubility{
+	top: 126px;	
+	left: 192px;
+}
+#testtube2_solubility,#testtubeDrag2_solubility{
+	top: 126px;	
+	left: 279px;
+}
+#testtube3_solubility,#testtubeDrag3_solubility{
+	top: 126px;	
+	left: 361px;
+}
+#testtube1_solubility,#testtube2_solubility,#testtube3_solubility,#testtube2_hubleTest.#testtube1_hubleTest,#testtube2_baudouinTest,#testtube1_baudouinTest,#testtube_acroleinTest{
+	-webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
+    backface-visibility: hidden;
+    -moz-backface-visibility: hidden; /* Firefox */
+}
+
+#bottle_solubility{
+	position: absolute;
+	top: 176px;
+	left: 469px;
+	width:60px;
+	height:130px;
+}
+#dropper_solubility{
+	position: absolute;
+	top: 120px;
+	left: 490px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln_solubility{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	width:9px;
+	height: 56px;
+	opacity: 0.5;
+}
+#solventName{
+	top: 78px;
+}
+
+/*--Transluscent Spot test styles--*/
+#transluscentSpotTest{
+	display:none;
+}
+#dropper_transluscentSpot{
+	position: absolute;
+	top: 27px;
+	left: 469px;
+	width: 31px;
+	height: 182px;
+}
+#dropperSoln_transluscentSpot{
+	position: absolute;
+	top: 93px;
+	left: 10px;
+	
+}
+#bottle_transluscentSpot{
+	position: absolute;
+	top: 111px;
+	left: 465px;
+	width: 92px;
+	height: 200px;
+}
+.bottleSoln_transluscentSpot{
+	position: absolute;
+	top: 47px;
+	left: 0px;
+	width: 91px;
+	height: 152px;
+	opacity: 1;
+	background-color:#C4BD1B;
+	border-radius: 34px 34px 10px 10px;
+}
+#filterPaperStill{
+	position: absolute;
+	top: 273px;
+	left: 105px;
+	width: 97px;
+	height: 25px;	
+}
+#spotStill_transluscentSpot{
+	position: absolute;
+	top: 9px;
+  	left: 59px;
+ 	width: 60px;
+ 	height: 15px;
+}
+
+#spot_transluscentSpot{
+	position: absolute;
+	top: 9px;
+    left: 59px;
+    width: 60px;
+    height: 15px; 
+}
+#filterPaperDrag{
+	position: absolute;
+	top: 271px;
+	left: 213px;
+	width: 176px;
+	height: 38px;
+}
+#sampleName_transluscentSpot{
+	top: 123px;
+	left: 16px;
+}
+.drop1{
+	position: absolute;
+	top: 215px;
+	left: 103px;
+	display:none;
+}
+.drop2{
+	position: absolute;
+	top: 224px;
+	left: 103px;
+	display:none;
+}
+#candle{
+	position: absolute;
+	top: 185px;
+    left: 2px;
+}
+#candleFlame{
+	position: absolute;
+	top: 149px;
+    left: 56px;
+}
+/*-- Acrolein test styles --*/
+#acroleinTest{
+	display:none;
+}
+#stand_acroleinTest{
+	position: absolute;
+	top: 167px;
+	left: 209px;
+}
+#testtube_acroleinTest{
+	top: 127px;
+	left: 262px;
+}
+#spatulaDiv{
+	position: absolute;
+	top: 232px;
+	left: 463px;
+	width: 102px;
+	height: 70px;
+}
+#spatulaPowder{
+	position: absolute;
+	top: 47px;
+	left: 0px;
+}
+#spatula{
+	position: absolute;
+	
+}
+#watchGlassDiv{
+	position: absolute;
+	top: 239px;
+	left: 373px;
+	width: 48px;
+	height: 16px;
+}
+#watchGlassPowder{
+	position: absolute;
+	top: 25px;
+	left: 31px;
+}
+#watchGlass{
+	position: absolute;
+	top: 36px;
+	left: 0px;
+}
+#powderKHSO4{
+	position: absolute;
+	top: 2px;
+	left: 12px;
+	width: 17px;
+	height: 11px;
+	display:none;
+}
+#powder{
+	position: absolute;
+
+}
+#testtubeDrag_acroleinTest{
+	top: 127px;
+	left: 262px;
+}
+
+/*-- Baudouin test styles --*/
+
+#baudouinTest{
+	display:none;
+}
+#testtube1_baudouinTest,#testtubeDrag1_baudouinTest{
+	top: 108px;	
+	left: 110px;
+}
+#testtube2_baudouinTest,#testtubeDrag2_baudouinTest{
+	top: 108px;	
+	left: 196px;
+}
+#stand_baudouinTest{
+	position: absolute;
+	top: 147px;
+	left: 67px;
+}
+#dropper1_baudouinTest{
+	position: absolute;
+	top: 103px;
+	left: 366px;
+	width:20px;
+	height:119px;	
+}
+#dropperSoln1_baudouinTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#dropper2_baudouinTest{
+	position: absolute;
+	top: 103px;
+	left: 453px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln2_baudouinTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#bottle1_baudouinTest{
+	position: absolute;
+	top: 157px;
+	left: 347px;
+	width:60px;
+	height:130px;
+}
+#bottle2_baudouinTest{
+	position: absolute;
+	top: 157px;
+	left: 432px;
+	width:60px;
+	height:130px;
+}
+#bottle2Label_baudouinTest{
+	position: absolute;
+	top: 72px;
+	left: 0px;
+	font-family: MRKGPEN;
+	font-size: 14px;
+	width: 59px;
+	height: 22px;
+	text-align:center;
+}
+/*-- Huble's test styles--*/
+
+#hubleTest{
+	display:none;
+}
+#testtube1_hubleTest{
+	top: 108px;	
+	left:68px;	
+}
+#testtube2_hubleTest{
+	top: 108px;	
+	left: 156px;
+}
+#stand_hubleTest{
+	position: absolute;
+	top: 147px;
+	left: 26px;
+}
+#dropper1_hubleTest{
+	position: absolute;
+	top: 103px;
+	left: 283px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln1_hubleTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#dropper2_hubleTest{
+	position: absolute;
+	top: 103px;
+	left: 350px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln2_hubleTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#dropper3_hubleTest{
+	position: absolute;
+	top: 103px;
+	left: 420px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln3_hubleTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#dropper4_hubleTest{
+	position: absolute;
+	top: 103px;
+	left: 490px;
+	width:20px;
+	height:119px;
+}
+#dropperSoln4_hubleTest{
+	position: absolute;
+	top: 63px;
+	left: 6px;
+	opacity: 0.5;
+}
+#bottle1_hubleTest{
+	position: absolute;
+	top: 157px;
+	left: 264px;
+	width:60px;
+	height:130px;
+}
+#bottle2_hubleTest{
+	position: absolute;
+	top: 157px;
+	left: 332px;
+	width:60px;
+	height:130px;
+}
+#bottle3_hubleTest{
+	position: absolute;
+	top: 157px;
+	left: 402px;
+	width:60px;
+	height:130px;
+}
+#bottle4_hubleTest{
+	position: absolute;
+	top: 157px;
+	left: 469px;
+	width:60px;
+	height:130px;
+}
+#bottle1Label_hubleTest,#bottle2Label_hubleTest,#bottle3Label_hubleTest,#bottle4Label_hubleTest{
+	top: 72px;
+}

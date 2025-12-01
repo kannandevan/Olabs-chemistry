@@ -1,0 +1,598 @@
+#bg {
+    width: 100%;
+    height: 100%;
+}
+
+#bg1 {
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+#mainDiv,
+.control-div,#simHelp,#info,.flex-align-center,.trip-content {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+img,
+.thumbs,#info,#mainDiv,.trip-content {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+}
+
+#noteDiv {
+    position: absolute;
+    left: 8%;
+    top: 17%;
+    width: 89%;
+    /* border: solid; */
+    max-width: 83%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+}
+
+.subButton {
+    height: 8%;
+    width: 12%;
+    font-family: 'Noto Sans', 'Noto Sans Malayalam', 'Noto Sans Telugu', sans-serif !important;
+    /*font-size: 13px;  margin: 2px;  padding-top: 2px;  padding-bottom: 2px;  height:28px;*/
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #AAAAAA #AAAAAA #888888;
+    border-image: none;
+    /* border-radius: 4px 4px 4px 4px; */
+    border-style: solid;
+    /* border-width: 1px; */
+    /* box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset; */
+    color: #333333;
+    cursor: pointer;
+    display: none;
+    float: none;
+    font-size: 1.5vw;
+    font-weight: bold;
+    line-height: 1.3em;
+    /* margin: 1px;
+    padding: 0.45em 0.8em; */
+    text-decoration: none;
+    background: #eeeeee;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #eeeeee), color-stop(100%, #c8c8c8));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #eeeeee 0%, #c8c8c8 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#c8c8c8', GradientType=0);
+    /* IE6-9 */
+    position: absolute;
+    left: 78%;
+    top: 86%;
+}
+
+.subButton span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.subButton span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 20%;
+    transition: 0.5s;
+}
+
+.subButton:hover span {
+    padding-right: 25%;
+}
+
+.subButton:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+#one{
+    display: none;
+}
+#BeakerDiv {
+    position: absolute;
+    left: 42%;
+    top: 38%;
+    width: 14%;
+    height: 30%;
+    /* border: solid; */
+}
+#beaker{
+    position: absolute;
+    left: 9%;
+    top: 14%;
+    width: 82%;
+    height: 77%;
+}
+#water{
+    position: absolute;
+    left: 15%;
+    top: 27%;
+    width: 73%;
+    height: 64%;
+}
+
+#label{
+    width: 12%;
+    height: 7%;
+    position: absolute;
+    left: 43%;
+    top: 67%;
+}
+#syDiv1{
+    position: absolute;
+    left: 56%;
+    top: 53%;
+    /* border: solid; */
+    width: 17%;
+    height: 18%;
+}
+#piston1{
+    position: absolute;
+    left: 9%;
+    top: 38%;
+    width: 70%;
+    height: 29%;
+}
+#syringe1{
+    position: absolute;
+    left: -1%;
+    top: 28%;
+    width: 70%;
+    height: 47%;
+}
+.heading,#WaterDP,#Oil,#Air{
+    font-size: 1.5vw;
+}
+#dropdown{
+    width: 100%;
+}
+#dropArea1{
+    position: absolute;
+    left: 33%;
+    top: 2%;
+    /* border: solid; */
+    width: 30%;
+    height: 49%;
+}
+#two{
+    display: none;
+}
+#OilDiv{
+    position: absolute;
+    left: 42%;
+    top: 38%;
+    width: 14%;
+    height: 30%;
+    /* border: solid; */
+}
+#beaker2{
+    position: absolute;
+    left: 9%;
+    top: 14%;
+    width: 82%;
+    height: 77%;
+}
+#oil{
+    position: absolute;
+    left: 15%;
+    top: 28%;
+    width: 73%;
+    height: 64%;
+}
+
+#label2{
+    width: 12%;
+    height: 7%;
+    position: absolute;
+    left: 43%;
+    top: 67%;
+}
+#Syringelabel{
+    width: 13%;
+    height: 7%;
+    position: absolute;
+    left: 56%;
+    top: 67%;
+}
+#Syringelabel2{
+    width: 13%;
+    height: 7%;
+    position: absolute;
+    left: 56%;
+    top: 67%;
+}
+#Syringelabel3{
+    width: 11%;
+    height: 6%;
+    position: absolute;
+    left: 45%;
+    top: 68%;
+}
+#syDiv2{
+    position: absolute;
+    left: 56%;
+    top: 53%;
+    /* border: solid; */
+    width: 17%;
+    height: 18%;
+}
+#syringe2{
+    position: absolute;
+    left: -1%;
+    top: 28%;
+    width: 70%;
+    height: 47%;
+}
+#piston2{
+    position: absolute;
+    left: 9%;
+    top: 38%;
+    width: 70%;
+    height: 29%;
+}
+#dropArea2{
+    position: absolute;
+    left: 33%;
+    top: 2%;
+    /* border: solid; */
+    width: 30%;
+    height: 49%;
+}
+#three{
+    display: none;
+}
+#syDiv3{
+    position: absolute;
+    left: 43%;
+    top: 54%;
+    /* border: solid; */
+    width: 17%;
+    height: 18%;
+}
+#piston3{
+    position: absolute;
+    left: 9%;
+    top: 38%;
+    width: 70%;
+    height: 29%;
+}
+#syringe3{
+    position: absolute;
+    left: -1%;
+    top: 28%;
+    width: 70%;
+    height: 47%;
+}
+#dropArea3{
+    position: absolute;
+    left: 33%;
+    top: 2%;
+    /* border: solid; */
+    width: 30%;
+    height: 49%;
+}
+.WaterPu{
+    position: absolute;
+    left: 36%;
+    top: 2%;
+    width: 26%;
+    height: 49%;  
+    /* border: solid; */
+}
+.wPulling{
+    position: absolute;
+    left: 12%;
+    top: -6%;
+    width: 75%;
+    height: 118%;
+    display: none;
+}
+#water1{
+    position: absolute;
+    left: 38%;
+    top: 4%;
+    width: 22%;
+    height: 53%;
+    display: none;
+}
+.WaterPush{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 53%;
+    top: 1%;
+}
+.wPushing{
+    position: absolute;
+    left: 16%;
+    top: 4%;
+    width: 103%;
+    height: 118%;
+    display: none;
+}
+#water2{
+    position: absolute;
+    left: 57%;
+    top: 5%;
+    width: 24%;
+    height: 65%;
+    display: none;
+}
+.WaterClose{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 53%;
+    top: 1%;
+}
+.wClosingAni{
+    position: absolute;
+    left: 16%;
+    top: 4%;
+    width: 103%;
+    height: 118%;
+    display: none;
+}
+#Zoomwater1{
+    position: absolute;
+    left: 13%;
+    top: 14%;
+    width: 27%;
+    height: 43%;
+    display: none;
+}
+.OilPull{
+    position: absolute;
+    left: 36%;
+    top: 2%;
+    width: 26%;
+    height: 49%;
+}
+.oPulling{
+    position: absolute;
+    left: 12%;
+    top: -6%;
+    width: 75%;
+    height: 118%;
+    display: none;
+}
+#ZoomOil{
+    position: absolute;
+    left: 13%;
+    top: 14%;
+    width: 27%;
+    height: 43%;
+    display: none;
+}
+#OIL1{
+    position: absolute;
+    left: 38%;
+    top: 4%;
+    width: 22%;
+    height: 53%;
+    display: none;
+}
+.OilClose{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 53%;
+    top: 1%;
+}
+.oCloseAni{
+    position: absolute;
+    left: 16%;
+    top: 4%;
+    width: 103%;
+    height: 118%;
+    display: none;
+}
+#OIL2{
+    position: absolute;
+    left: 57%;
+    top: 5%;
+    width: 24%;
+    height: 65%;
+    display: none;
+}
+.OilPush{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 53%;
+    top: 1%;
+}
+.oPushAni{
+    position: absolute;
+    left: 16%;
+    top: 4%;
+    width: 103%;
+    height: 118%;
+    display: none;
+}
+.AirPull{
+    position: absolute;
+    left: 36%;
+    top: 2%;
+    width: 26%;
+    height: 49%;
+}
+.airPullAni{
+    position: absolute;
+    left: 12%;
+    top: -6%;
+    width: 75%;
+    height: 118%;
+    display: none;
+}
+#ZoomAir{
+    position: absolute;
+    left: 13%;
+    top: 14%;
+    width: 27%;
+    height: 43%;
+    display: none;
+}
+#ZoomAir_5{
+    position: absolute;
+    left: 66%;
+    top: 17%;
+    width: 22%;
+    height: 39%;
+    display: none;
+}
+#AIR1{
+    position: absolute;
+    left: 38%;
+    top: 4%;
+    width: 22%;
+    height: 53%;
+    display: none;
+}
+#AIR2{
+    position: absolute;
+    left: 42%;
+    top: 4%;
+    width: 26%;
+    height: 66%;
+    display: none;
+}
+.AirClose{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 38%;
+    top: 1%;
+}
+.airCloseAni{
+    position: absolute;
+    left: 16%;
+    top: 4%;
+    width: 103%;
+    height: 118%;
+    display: none;
+}
+.AirPush{
+    position: absolute;
+    /* border: solid; */
+    width: 24%;
+    height: 57%;
+    left: 38%;
+    top: 1%;
+}
+.airPushAni{
+    position: absolute;
+    /* border: solid; */
+    width: 100%;
+    height: 100%;
+    left: 17%;
+    top: 4%;
+    display: none;
+}
+#info{
+    position: absolute;
+    left: 7%;
+    top: 20%;
+    width: 8%;
+    z-index: 10;
+    height: 12%;
+    display: none;
+}
+#intro{
+    font-size: 1.5vw;
+    max-width: 39%;
+}
+.sim-controls{
+    display: none;
+}
+.trip-block{
+    text-align: left;
+}
+#helpDiv1{
+    position: absolute;
+    left: 66%;
+    top: 17%;
+    width: -5%;
+    height: 0%;
+    display: none;
+}
+#helpDiv2{
+    position: absolute;
+    left: 66%;
+    top: 17%;
+    width: -5%;
+    height: 0%;
+    display: none;
+}
+#helpDiv3{
+    position: absolute;
+    left: 53%;
+    top: 20%;
+    width: -5%;
+    /* border: solid; */
+    height: 0%;
+    display: none;
+}
+#dropdown{
+    width: 66%;
+    padding: 4%;
+}
+#pistonClick1{
+    position: absolute;
+    left: 64.5%;
+    top: 19%;
+    width: 3%;
+    height: 27%;
+    /* border: solid; */
+    display: none;
+    z-index: 10;
+}
+#pistonClick2{
+    position: absolute;
+    left: 64.5%;
+    top: 19%;
+    width: 3%;
+    height: 27%;
+    /* border: solid; */
+    display: none;
+    z-index: 10;
+}
+#pistonClick3{
+    position: absolute;
+    left: 50%;
+    top: 19%;
+    width: 3%;
+    height: 27%;
+    display: none;
+    z-index: 10;
+    /* border: solid; */
+}

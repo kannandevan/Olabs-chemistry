@@ -1,0 +1,851 @@
+#canvasBox {
+	overflow:hidden;
+}
+#mainDiv {
+	overflow:hidden;
+	position:absolute;
+	height:336px;
+	width:560px;
+	background:#FFF;
+	opacity:0.99;
+}
+.ws-range-thumb {
+	left:0px;
+!important
+}
+#Start {
+	margin: 10px 36px;
+	width: 111px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+#Stop {
+	display:none;
+	position:absolute;
+	left: 39px;
+	top: 140px;
+	width: 111px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+#distanceSlider {
+	margin-left: 16px;
+	cursor:pointer;
+	cursor:hand;
+	display:none;
+}
+#ReactionEnq1 {
+ display::block;
+}
+#ReactionEnq2 {
+ display::none;
+	margin-bottom: 12px;
+}
+#ReactionEnq3 {
+ display::none;
+}
+#testtubewhiteImg {
+	position:absolute;
+	display:block;
+	opacity:0;
+	z-index:2;
+	top: 0px;
+	left: 0px;
+}
+#scaleImg {
+	display:none;
+	position:absolute;
+	left: 30px;
+	top: 254px;
+}
+#lampImg {
+	display:none;
+	position:absolute;
+	left: 279px;
+	top: 168px;
+}
+#watchglass3Img {
+	position: absolute;
+	display: none;
+	left: -10px;
+	top: 230px;
+}
+#lightImg {
+	position:absolute;
+	display:none;
+	left: -187px;
+	top: 85px;
+	opacity:0.4;
+	z-index: 3;
+}
+#silvernitrateImg {
+	position:absolute;
+	display:none;
+	left: 18px;
+	top: 223px;
+	opacity:1;
+	z-index: 2;
+}
+#silverImg {
+	position:absolute;
+	display:none;
+	left: 17px;
+	top: 223px;
+	opacity:1;
+	z-index: 1;
+}
+#powerSlider {
+	display:none;
+	margin-left: 16px;
+	cursor:hand;
+	cursor:pointer;
+	display:none;
+}
+#rheoSlider {
+	margin-left: 16px;
+	cursor:pointer;
+	display:none;
+}
+#rheoVal {
+	display:none;
+	float:left;
+	margin: 6px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 500;
+	color: #626262;
+}
+#clockBody {
+	position:absolute;
+	z-index:7;
+	left:25px;
+	top:10px;
+	display:none;
+}
+#needle {
+	position:absolute;
+	z-index:8;
+	left:67px;
+	top:28px;
+	display:none;
+}
+.varTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 500;
+	color: #626262;
+	text-align: left !important;
+}
+.varTitleEqn {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	color: #626262;
+	text-align: left !important;
+}
+.varTitleEqn1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #626262;
+	text-align: left !important;
+}
+.dropBox {
+	margin: -6px 0px 3px 8px;
+	width:170px;
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 12px;
+!important;
+}
+#headngP2 {
+	display: none;
+	float:left;
+}
+#headngP4 {
+	display: none;
+	float:left;
+}
+#headngP3 {
+	display: none;
+	float:left;
+}
+#reset {
+	width: 111px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+!important
+}
+#watchglss1 {
+	position:absolute;
+	display:block;
+	top: 296px;
+	left: 21px;
+}
+#watchglss1Comp1 {
+	position:absolute;
+	display:block;
+	top: 284px;
+	left: 45px;
+}
+#watchglss1Comp2 {
+	position:absolute;
+	display:none;
+	top: 284px;
+	left: 45px;
+}
+#watchglss1Comp2 {
+	position:absolute;
+	display:none;
+	top: 284px;
+	left: 45px;
+}
+#watchglss2 {
+	position:absolute;
+	display:none;
+	top: 277px;
+	left: 21px;
+}
+#SpatullaDiv {
+	position: absolute;
+	z-index: 4;
+	width: 70px;
+	height: 30px;
+	top: 247px;
+	left: 97px;
+	cursor: hand;
+	cursor: pointer;
+	display: block;
+	-webkit-transform: rotate(14deg);
+	-moz-transform: rotate(14deg);
+	transform: rotate(14deg);
+}
+#ImgInSpatulla {
+	position: absolute;
+	display: block;
+	z-index: 3;
+	left: 0px;
+	top: 44px;
+	opacity: 1;
+}
+#ImgInSpatulla1 {
+	position: absolute;
+	display: none;
+	z-index: 3;
+	left: 0px;
+	top: 44px;
+	opacity: 1;
+}
+#testtubestandImg {
+	display:block;
+	top: 185px;
+	left: 207px;
+	position: absolute;
+	z-index: 11;
+}
+#testtubeImg {
+	cursor:hand;
+	cursor:pointer;
+	display: block;
+	position: absolute;
+	z-index: 10;
+}
+#burnerImg {
+	position:absolute;
+	display:block;
+	top: 176px;
+	left: 426px;
+}
+#burnerKnob {
+	position:absolute;
+	display:block;
+	top: 260px;
+	left: 498px;
+}
+#burnerKnob2 {
+	position:absolute;
+	display:none;
+	top: 260px;
+	left: 498px;
+}
+#testtubeFull {
+	position:absolute;
+	display:block;
+	top: 150px;
+	left: 281px;
+	width: 142px;
+	height: 125px;
+}
+#startKnob {
+	display: block;
+	position: absolute;
+	cursor:hand;
+	cursor:pointer;
+	width: 31px;
+	height: 13px;
+	left: 489px;
+	top: 255px;
+}
+#flame {
+	position: absolute;
+	z-index: 99;
+	left: 458px;
+	top: 136px;
+	visibility:hidden;
+}
+@keyframes flameshake {
+0% {
+transform: translate(2px, 0);
+}
+50% {
+transform: translate(-2px, 0);
+}
+100% {
+transform: translate(0, 0);
+}
+}
+ @-moz-keyframes flameshake {
+0% {
+-moz-transform: translate(2px, 0);
+}
+50% {
+-moz-transform: translate(-2px, 0);
+}
+100% {
+-moz-transform: translate(0, 0);
+}
+}
+ @-webkit-keyframes flameshake {
+0% {
+-webkit-transform: translate(2px, 0);
+}
+50% {
+-webkit-transform: translate(-2px, 0);
+}
+100% {
+-webkit-transform: translate(0, 0);
+}
+}
+#testtubePowderImg1 {
+	display:block;
+	position: relative;
+	left: 1px;
+	top: 124px;
+	opacity:0;
+}
+#testtubePowderBlackImg {
+	display:none;
+	position: relative;
+	left: 0px;
+	top: 106px;
+	opacity:0;
+	z-index:1;
+}
+#testtubePowderCuOImg {
+	display:none;
+	position: relative;
+	left: 1px;
+	top: 107px;
+	opacity:0;
+	z-index:1;
+}
+#testtubePowderImg2 {
+	display:none;
+	position: relative;
+	left: 1px;
+	top: 127px;
+	opacity:0;
+	z-index:1;
+}
+.Drops {
+	position:absolute;
+	width:4px;
+	height:5px;
+	display:none;
+	z-index:11;
+	left: 291px;
+}
+.DropsIron {
+	position:absolute;
+	width:4px;
+	height:5px;
+	display:none;
+	z-index:11;
+	left: 291px;
+}
+#drops1, #dropsiron1 {
+	top:130px;
+}
+#drops2, #dropsiron2 {
+	top:137px;
+}
+#drops3, #dropsiron3 {
+	top:144px;
+}
+#drops4, #dropsiron4 {
+	top:153px;
+}
+#drops5, #dropsiron5 {
+	top:164px;
+}
+#drops6, #dropsiron6 {
+	top:178px;
+}
+#drops7, #dropsiron7 {
+	top:192px;
+}
+#drops8, #dropsiron8 {
+	top:205px;
+}
+#drops9, #dropsiron9 {
+	top:218px;
+}
+#drops10, #dropsiron10 {
+	top:232px;
+}
+#drops11, #dropsiron11 {
+	top:247px;
+}
+#drops12, #dropsiron12 {
+	top:264px;
+}
+#drops13, #dropsiron13 {
+	top:277px;
+}
+#drops14, #dropsiron14 {
+	top:287px;
+}
+.varTitle_1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #626262;
+	text-align:left !important;
+}
+#inferenceDiv {
+	position:absolute;
+	width:45px;
+	height:45px;
+	top: 20px;
+	left: 5px;
+	cursor:pointer;
+	z-index:2;
+}
+#inferMsg {
+	position:absolute;
+	width:192px;
+	height:70px;
+	top:10px;
+	left:50px;
+	padding:3px;
+}
+#messageDiv {
+	position:absolute;
+	width:130px;
+	height:40px;
+	top:30px;
+	left:10px;
+	padding:30px 0 0 5px;
+}
+.knobDiv {
+	position:absolute;
+	width:20px;
+	height:10px;
+	top:357px;
+	left:390px;
+	cursor:pointer;
+}
+#bubbles {
+	position: absolute;
+	width: 100px;
+	height: 210px;
+	top: 19px;
+	z-index: 2;
+	left: 0px;
+	display:none;
+}
+.bubble {
+	width: 6px;
+	height: 6px;
+	background: #fff;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	opacity: 0.2;
+	position: absolute;
+}
+.x17 {
+	left: 207px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 3s infinite;
+	-moz-animation: movecloudsInThermo 3s infinite;
+	-o-animation: movecloudsInThermo 3s infinite;
+}
+.x18 {
+	left: 210px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 5s infinite;
+	-moz-animation: movecloudsInThermo 5s infinite;
+	-o-animation: movecloudsInThermo 5s infinite;
+}
+.x19 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 7s infinite;
+	-moz-animation: movecloudsInThermo 7s infinite;
+	-o-animation: movecloudsInThermo 7s infinite;
+}
+.x20 {
+	left: 214px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 6s infinite;
+	-moz-animation: movecloudsInThermo 6s infinite;
+	-o-animation: movecloudsInThermo 6s infinite;
+}
+.x21 {
+	left: 210px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 4s infinite;
+	-moz-animation: movecloudsInThermo 4s infinite;
+	-o-animation: movecloudsInThermo 4s infinite;
+}
+.x22 {
+	left: 204px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 2s infinite;
+	-moz-animation: movecloudsInThermo 2s infinite;
+	-o-animation: movecloudsInThermo 2s infinite;
+}
+.x23 {
+	left: 206px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 5s infinite;
+	-moz-animation: movecloudsInThermo 5s infinite;
+	-o-animation: movecloudsInThermo 5s infinite;
+}
+.x24 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 6s infinite;
+	-moz-animation: movecloudsInThermo 6s infinite;
+	-o-animation: movecloudsInThermo 6s infinite;
+}
+.x25 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 3s infinite;
+	-moz-animation: movecloudsInThermo 3s infinite;
+	-o-animation: movecloudsInThermo 3s infinite;
+}
+.x26 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 1s infinite;
+	-moz-animation: movecloudsInThermo 1s infinite;
+	-o-animation: movecloudsInThermo 1s infinite;
+}
+.x27 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo 5s infinite;
+	-moz-animation: movecloudsInThermo 5s infinite;
+	-o-animation: movecloudsInThermo 5s infinite;
+}
+@-webkit-keyframes movecloudsInThermo {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+@-moz-keyframes movecloudsInThermo {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+@-o-keyframes movecloudsInThermo {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+/*///////////////////////*/
+
+#bubbles1 {
+	position: absolute;
+	width: 100px;
+	height: 210px;
+	top: 19px;
+	z-index: 2;
+	left: 58px;
+	display:none;
+}
+.bubble1 {
+	width: 6px;
+	height: 6px;
+	background: #fff;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	opacity: 0.2;
+	position: absolute;
+}
+.x1 {
+	left: 207px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo1 3s infinite;
+	-moz-animation: movecloudsInThermo1 3s infinite;
+	-o-animation: movecloudsInThermo1 3s infinite;
+}
+.x2 {
+	left: 210px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo1 5s infinite;
+	-moz-animation: movecloudsInThermo1 5s infinite;
+	-o-animation: movecloudsInThermo1 5s infinite;
+}
+.x3 {
+	left: 213px;
+	z-index:5;
+	-webkit-transform: scale(0.65);
+	-moz-transform: scale(0.65);
+	transform: scale(0.65);
+	opacity: .2;
+	-webkit-animation: movecloudsInThermo1 7s infinite;
+	-moz-animation: movecloudsInThermo1 7s infinite;
+	-o-animation: movecloudsInThermo1 7s infinite;
+}
+@-webkit-keyframes movecloudsInThermo1 {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+@-moz-keyframes movecloudsInThermo1 {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+@-o-keyframes movecloudsInThermo1 {
+from {
+top:105%;
+-webkit-transform: rotate(0deg);
+}
+to {
+	top:10%;
+	-webkit-transform: rotate(360deg);
+}
+}
+/*///////////////////////*/
+#electroSetup {
+	top: 66px;
+	left: 15px;
+	position: absolute;
+	z-index: 1;
+	display:none;
+}
+#rheostatKeyImg {
+	position:absolute;
+	display:none;
+	top: 239px;
+	left: 349px;
+	z-index: 1;
+}
+#electroShadowImg {
+	position:absolute;
+	display:none;
+	top: 291px;
+	left: 164px;
+}
+#electrobeakerwaterImg {
+	position:absolute;
+	display:none;
+	top: 151px;
+	left: 167px;
+	z-index: 1;
+}
+#testtubeClampImg {
+	display:none;
+	position:absolute;
+	top: 2px;
+	left: 194px;
+	z-index: 3;
+}
+#eqnDiv {
+	display:block;
+	margin: 11px 10px 5px;
+	width: 188px;
+	height: 30px;
+}
+#eqnDiv1 {
+	display:none;
+	margin: 13px 0px 13px 10px;
+	width: 209px;
+	height: 30px;
+}
+#watervapourImg {
+	position:absolute;
+	left: 5px;
+	top: 29px;
+	display: block;
+	z-index: 2;
+	opacity: 0;
+}
+#heatLabel {
+	position:absolute;
+	display:none;
+	left: 71px;
+	top: 246px;
+}
+#tempLabel {
+	position:absolute;
+	display:none;
+	left: 90px;
+	top: 204px;
+}
+#waterLeftDiv {
+	position:absolute;
+	display:none;
+	width: 37px;
+	height: 270px;
+	left: 196px;
+	top: 2px;
+	z-index:2;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+	background-position: -2px 0px;
+}
+#waterRightDiv {
+	position:absolute;
+	display:none;
+	width: 37px;
+	height: 270px;
+	left: 255px;
+	top: 2px;
+	z-index:2;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+	background-position: -2px 0px;
+}
+#anode {
+	padding-left: 10px;
+	display:none;
+	padding-left: 10px;
+}
+#eq1 {
+	display:none;
+	padding:4px 5px 3px 10px;
+}
+#maineqn {
+	display:none;
+	padding: 10px 11px 10px 10px;
+}
+#cathode {
+	display:none;
+	padding-left: 10px;
+	margin-top: 13px;
+}
+#eq2 {
+	display:none;
+	padding:4px 5px 3px 10px;
+}
+#eq3 {
+	display:none;
+	padding:4px 5px 3px 10px;
+}
+#overall {
+	display:none;
+	padding-left: 10px;
+	margin-top: 13px;
+}
+#electroSetupKey {
+	position:absolute;
+	display:none;
+	top: 219px;
+	left: 406px;
+	z-index: 2;
+}
+#inferencehelp {
+	display:none;
+	width: 50px;
+	height: 47px;
+	top: 33px;
+	left: -13px;
+	position: absolute;
+	z-index:1;
+}

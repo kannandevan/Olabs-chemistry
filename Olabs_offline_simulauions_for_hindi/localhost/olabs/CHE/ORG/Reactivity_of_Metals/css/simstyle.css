@@ -1,0 +1,504 @@
+.varTitle_1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #626262;
+	text-align:left !important;
+}
+.dropBox{
+	margin: 3px 0px 3px 15px !important;
+	width: 150px !important; 
+}
+.dropBox1{
+	/*margin: 3px 0px 3px 15px !important;
+	width: 120px !important;
+	height:25px;*/
+	margin: 3px 0px 3px 15px !important;
+	color: #777777;
+	width: 120px;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #777777;
+	font-size: 12px;
+	padding: 5px 6px;
+	resize: none;
+}
+.resltIcon{
+	/*display:inline;*/
+	/* position:absolute; */
+    width: 10%;
+    margin-top: -10px;
+    margin-left: 8px;
+}
+#result{
+	font-weight:bold;
+	text-decoration:underline;
+}
+/*.instructions {
+    color: #626262;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 5px 0 0 30px;
+	margin: 0 0px 0 0;
+    text-align: left !important;
+	list-style-type: decimal !important;
+}*/
+#bgCanvas {
+	background-size: cover;
+    background-position-x: 56%;
+	position:absolute;
+	/*	width:587px;
+	height:532px;
+	top:0px;*/
+	width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+	z-index:1;
+}
+#init_setUpCanvas {
+	position:absolute;
+	top:-27px;
+	z-index:5;
+}
+#clockBody{
+	position:absolute;
+	z-index:7;
+	left: 81%;
+    top: 4%;
+	width:15%;
+	display:none;
+}
+#needle{
+	position:absolute;
+	z-index:8;
+	left:88%;
+	top:7%;
+	display:none;
+}
+#onehour{
+	position:absolute;
+	z-index:7;
+	font-size:15px;
+	font-family:MRKGPEN;
+    left: 84%;
+    top: 25%;
+	display:none;
+	width: 10%;
+	text-align: center;
+}
+#cheLab{
+    position: absolute;
+    z-index: 3;
+    font-size: 200%;
+    color: #FFF;
+    /* letter-spacing: 2px; */
+    font-family: MRKGPEN;
+    left: 32%;
+    top: -1%;
+}
+#imgDrag {
+	cursor: pointer;
+	cursor: hand;
+	background-position: center;
+	/*border:solid #CC0;*/
+	position: absolute;
+	left: 84%;
+    top: 73%;
+	width: 16%;
+	z-index: 6;
+}
+#forcepsdiv{
+	position: absolute;
+    left: 85%;
+    top: 70%;
+    z-index: 5;
+    width: 15%;
+    height: 10%;
+	/*border: solid 1px #CF9;*/
+}
+#imgMetal {
+	position: absolute;
+	z-index: 5;
+    top: 75%;
+    left: 78%;
+    width: 100%;
+	/*border:solid #CC0;*/
+}
+#forceps{
+	position: absolute;
+	z-index: 4;
+	display:none;
+}
+#metalPieceC1{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:325px;
+	width:8px;
+	height:8px;
+	display:none;
+	/*border:solid 1px;*/
+}
+#metalPieceC2{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:325px;
+	width:8px;
+	height:8px;
+	/*border:solid 1px;*/
+	display:none;
+}
+#metalPieceB1{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:210px;
+	width:8px;
+	height:8px;
+	display:none;
+}
+#metalPieceB2{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:210px;
+	width:8px;
+	height:8px;
+	display:none;
+}
+#metalPieceA1{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:100px;
+	width:8px;
+	height:8px;
+	display:none;
+}
+#metalPieceA2{
+	position: absolute;
+	z-index: 2;
+	top:115px;
+	left:100px;
+	width:8px;
+	height:8px;
+	display:none;
+}
+#waterA{
+	position: absolute;
+    z-index: 3;
+	left: 1.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#AlSulphateA{
+	position:absolute;
+	z-index:2;
+	left: 1.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#ZnSulphateA{
+	position:absolute;
+	z-index:2;
+	left: 1.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#FeSulphateA{
+	position:absolute;
+	z-index:2;
+	left: 1.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#waterB{
+	position:absolute;
+	z-index:3;
+	left:27.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#AlSulphateB{
+	position:absolute;
+	z-index:2;
+	left:27.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#ZnSulphateB{
+	position:absolute;
+	z-index:2;
+	left:27.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#FeSulphateB{
+	position:absolute;
+	z-index:2;
+	left:27.5%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#waterC{
+	position:absolute;
+	z-index:3;
+	left:53.3%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#AlSulphateC{
+	position:absolute;
+	z-index:2;
+	left:53%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#ZnSulphateC{
+	position:absolute;
+	z-index:2;
+	left:53.3%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+#FeSulphateC{
+	position:absolute;
+	z-index:2;
+	left:53.3%;
+    top: 66%;
+    height: 12%;
+    width: 22%;
+}
+
+#beakers{
+    position: absolute;
+    z-index: 4;
+    top: 3%;
+    left: 1%;
+	width: 98%;
+}
+#coppersulphate_AluminiumA{
+	position:absolute;
+	z-index:3;
+    top: 73%;
+    left: 6%;
+    width: 20%;
+	display:none;
+}
+#coppersulphate_AluminiumB{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:180px;
+	display:none;
+}
+#coppersulphate_AluminiumC{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:320px;
+	display:none;
+}
+#zincsulphate_AluminiumA{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:40px;
+	/*border:solid #9F3;*/
+	display:none;
+}
+#zincsulphate_AluminiumB{
+	position:absolute;
+	z-index:3;
+    top: 73%;
+    left: 32%;
+    width: 14%;
+	display:none;
+}
+#zincsulphate_AluminiumC{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:59%;
+	display:none;
+}
+#Ferroussulphate_AluminiumA{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:40px;
+	display:none;
+}
+#Ferroussulphate_AluminiumB{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:180px;
+	display:none;
+}
+#Ferroussulphate_AluminiumC{
+	position:absolute;
+	z-index:3;
+    top: 73%;
+    left: 58%;
+    width: 14%;
+	display:none;
+}
+#coppersulphate_zincA{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:25px;
+	display:none;
+}
+#coppersulphate_zincB{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:165px;
+	display:none;
+}
+#coppersulphate_zincC{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:305px;
+	display:none;
+}
+#Ferroussulphate_zincA{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:25px;
+	display:none;
+}
+#Ferroussulphate_zincB{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:165px;
+	display:none;
+}
+#Ferroussulphate_zincC{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:305px;
+	display:none;
+}
+#coppersulphate_IronA{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:40px;
+	display:none;
+}
+#coppersulphate_IronB{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:165px;
+	display:none;
+}
+#coppersulphate_IronC{
+	position:absolute;
+	z-index:3;
+	top:267px;
+	left:305px;
+	display:none;
+}
+
+#wave{
+	position:absolute;
+	z-index:3;
+	top:65%;
+	left:22px;
+	/*width:20px;
+	height:.1px;
+	background-color:#69F;*/
+	/*border:#69F solid 1px;*/
+	-moz-transform: scaleX(0);
+	-webkit-transform: scaleX(0);
+}
+#splash1{
+	position:absolute;
+	z-index:3;
+	top:62%;
+	left:50px;
+	display:none;
+}
+#splash2{
+	position:absolute;
+	z-index:3;
+	top:62%;
+	left:50px;
+	display:none;
+}
+#informIconA{
+	position:absolute;
+	z-index:3;
+    left: 9%;
+    top: 20%;
+    width: 8%;
+	display:none;
+}
+#informIconB{
+	position:absolute;
+	z-index:3;
+    left: 35%;
+    top: 20%;
+    width: 8%;
+	display:none;
+}
+#informIconC{
+	position:absolute;
+    z-index: 3;
+    left: 61%;
+    top: 20%;
+    width: 8%;
+	display:none;
+}
+.beakersDiv
+{
+	position: absolute;
+    width: 78%;
+    height: 50%;
+    top: 36%;
+    left: 0%;
+}
+.varTitle {
+    padding: 3px 0px 0px 17px;
+	}
+html input[type="button"]
+{
+	width:75%;
+	margin-bottom:1em;
+}
+.ctrl
+{
+	width:84% !important;
+	display:inline;
+}
+div#imgMetalCont {
+    width: 20%;
+    position: absolute;
+    height: 15%;
+    top: 73%;
+    left: 78%;
+}
+.trip-block {
+	z-index:9999999999 !important;
+	}

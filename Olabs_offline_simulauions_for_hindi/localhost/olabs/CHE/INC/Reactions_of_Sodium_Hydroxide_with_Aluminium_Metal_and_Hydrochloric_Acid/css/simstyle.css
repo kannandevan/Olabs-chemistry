@@ -1,0 +1,572 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.unselectable {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+   user-select: none;
+}
+.dropBox{
+	margin: 16px 0px 3px 17px !important;
+    width: 147px !important;
+}
+#mainDiv {
+	overflow:hidden;
+	position:absolute;
+	height:336px;
+	width:568px;
+	background:#FFF;
+	opacity:0.99;
+}
+.main {
+	overflow: hidden;
+}
+#bg1{
+	display:none;
+}
+ #Inference{
+	position:absolute;
+	left:10px;
+	top:10px;
+	z-index:2;
+	cursor:pointer;
+	display:none;
+}
+#AlertIcon{
+	position:absolute;
+	left:10px;
+	top:10px;
+	display:none;
+}
+ #testtubeStand{
+	position:absolute;
+	left:-1px;
+	top:-1px;
+}
+#testtubeDiv{
+	position:absolute;
+	top:144px;
+	left:240px;
+    z-index: 1;	
+}
+#watchglassDiv{
+	position:absolute;
+	top:282px;
+	left:371px;
+}
+#spatulaDiv {
+	position:absolute;
+	top:266px;
+	left:403px;
+	cursor:pointer;
+	display:block;	
+	z-index:1;
+}
+#ImgInSpatula {
+	position:absolute;
+	left:3px;
+	top:26px;	
+}
+#cylinderDiv{
+	position:absolute;
+	top:137px;
+	left:502px;
+}
+#powderInTesttube{
+	position:absolute;
+	top:271px;
+	left:243px;
+	display:none;
+}
+#litmusRed{
+	position:absolute;
+	top:284px;
+	left:52px;
+	z-index:1;	
+}
+#litmusBlue{
+	position:absolute;
+	top:295px;
+	left:63px;	
+} 
+#litmusRedChange{
+	position:absolute;
+	top: 87px;
+    left: 245px;
+	display:none;
+}
+.dropArea{
+	position:absolute;
+	top:-3px;
+	width:120px;
+	height:158px;
+	left:197px;
+	display:none;
+}
+#powderDrop {
+	position:absolute;
+	display:none;
+	left:250px;
+	top:103px;
+	
+}
+#cylinderwaterImg{
+	position:absolute;
+	left: 2px;
+	top:-102px;
+	width:100px;
+	height:160px;
+	background-color:#FFF;
+	opacity:0.3;
+}
+#cylinderwaterDiv{
+	position:absolute;
+	top: 67px;
+	left: -1px;
+	width:30px;
+	height:54px;
+	overflow:hidden;
+}
+#cylinderwaterDivAll{
+	position:absolute;	
+	width:30px;
+	height:129px;
+	left:3px;
+	top:6px;
+}
+#solnPourStart{	
+	position: absolute;
+	display: none;
+	width: 136px;
+	height: 7px;
+	top: 117px;
+	left: 249px;
+	opacity:0.7;
+   background-color:#CCC;
+   -webkit-border-radius:63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:50%  50%  50%  50%  / 60%   60%   40%  40%;
+}
+#pourline1{
+	position:absolute;	
+	top: 120px;
+	left: 251px;
+	height:153px;
+	display:none;
+	z-index:1;
+}
+#pourline2{
+	position:absolute;	
+	top: 120px;
+	left: 251px;
+	height:120px;
+	z-index:1;
+	display:none;
+}
+.tubeSolutions{
+	position:absolute;
+	left:3px;
+	top:137px;
+	width:22px;
+	height:0px;
+	border-radius:0px 0px 10px 10px;
+	background-color:#FFF;
+	opacity:0.3;	
+}
+#burner{
+	position:absolute;
+	top:153px;
+	left:-13px;
+ 	display:none;
+}
+#tubeStandUnder2{
+	position:absolute;
+	top:146px;
+	left:217px;
+ 	display:none;
+}
+#tubeStandTop2{
+	position:absolute;
+	top:202px;
+	left:250px;
+ 	display:none;
+	z-index:1;
+}
+#testtubeDiv1{
+	position:absolute;
+	top:125px;
+	left:293px;
+	display:none;
+}
+#tubeSolution1{
+	position:absolute;
+	left:2px;
+	top:97px;
+	width:25px;
+	height:56px;
+	border-radius:0px 0px 10px 10px;
+	background-color:#FFF;
+	opacity:0.3;
+}
+#flame{
+	position:absolute;
+	left:79px;
+	top:148px;
+	display:none;
+}
+#flame1{
+	position: absolute;
+	width:15px;
+}
+.flameCls{
+	position: absolute;
+	width:15px;
+	display: none;
+}
+#burner{
+	position:absolute;
+	top:184px;
+	left:-13px;
+	width:24%;
+ 	display:none;
+	z-index:1;
+}
+#burnerDiv{
+	position: absolute;
+	top: 255px;
+	left: 40px;
+	width: 13px;
+	height: 11px;	
+	display:none;
+	z-index:2;
+}
+#burnerOn{
+	position: absolute;
+    left: -6px;
+    top: 4px;
+	display:none;	
+}
+#burnerOff{
+	position: absolute;
+    left: 4px;
+    top: 4px;
+	
+}
+#powderInTesttube1{
+	position:absolute;
+	top:144px;
+	left:4px;
+	display:none;
+}
+#dropArea1{
+	position:absolute;
+	top:0px;
+	width:100px;
+	height:150px;
+	left:53px;
+	display:none;
+}
+#candleDiv{
+	position:absolute;
+	top:180px;
+	left:471px;
+	display:none;
+}
+#candleFlame{
+	position:absolute;
+	left:10px;
+	top:-28px;	
+}
+#candleFlame1{
+	position: absolute;
+}
+.candleflameCls{
+	position: absolute;
+	display: none;
+}
+#dropArea2{
+	left:270px;
+}
+#blueFlame{
+	position:absolute;
+	left:305px;
+	top:55px;
+	display:none;
+}
+#blueFlame1{
+	position: absolute;
+}
+#buttonDiv{
+	left:417px;
+	top:20px;
+	position:absolute;
+	cursor:pointer;
+	display:none;
+}
+.labelClass{
+	position: absolute;
+	width: 128px;
+	height: 42px;
+	font-family: MRKGPEN;
+	font-size: 11px;
+	text-align: center;
+	font-weight: 600;
+	color: #333;
+}
+#buttonText{
+	top:8px;
+	left:-2px;
+}
+#litmusString{
+	top:247px;
+	left:23px;
+}
+#metalString{
+	top:247px;
+	left:342px;
+}
+#cylinderString{
+	top:288px;
+	left:462px;
+}
+#tubeStandUnder{
+	position:absolute;
+	top:156px;
+	left:205px;
+ 	display:none;
+}
+#tubeStandTop{
+	position:absolute;
+	top:206px;
+	left:235px;
+ 	display:none;
+	z-index:2;
+}
+#tubeStandTop1{
+	position:absolute;
+	top:213px;
+	left:203px;
+	z-index:2;
+}
+#testtubeDiv2{
+	position:absolute;
+	top:136px;
+	left:271px;
+	display:none;
+	z-index:1;
+}
+#cylinderDiv1{
+	position:absolute;
+	top:156px;
+	left:406px;
+	display:none;
+}
+#cylinderwaterDivAll1{
+	position:absolute;	
+	width:30px;
+	height:129px;
+	left:3px;
+	top:6px;
+}
+#cylinderwaterDiv1{
+	position:absolute;
+	top: 120px;
+	left: -1px;
+	width:30px;
+	height:0px;
+	overflow:hidden;
+}
+#cylinderwaterImg1{
+	position:absolute;
+	left: 2px;
+	top:-102px;
+	width:100px;
+	height:160px;
+	background-color:#FFF;
+	opacity:0.3;
+}
+#bottle{
+	position: absolute;
+    top: 210px;
+    left: 488px;
+	display:none;
+}
+#dropbottle{
+	position:absolute;
+	top:211px;
+	left:488px;
+	display:none;
+}
+#dropper{
+	position:absolute;
+	top:-44px;
+	left:12px;
+}
+#litmusDiv{
+	position:absolute;
+	top:280px;
+	left:45px;
+	display:none;
+}
+#litmusRed1{
+	position:absolute;
+	top:3px;
+	left:17px;
+	z-index:1;
+}
+#litmusBlue1{
+	position:absolute;
+	top:14px;
+	left:27px;
+	z-index:1;
+}
+#litmusRedVertical{
+	position:absolute;
+	top:94px;
+	left:277px;
+	display:none;
+}
+#litmusBlueVertical{
+	position:absolute;
+	top:94px;
+	left:277px;
+	display:none;
+}
+#litmusRedVertical1{
+	position:absolute;
+	top: 92px;
+    left: 246px;
+	display:none;
+}
+#litmusBlueVertical1{
+	position: absolute;
+    top: 87px;
+    left: 245px;
+	display:none;
+}
+#label1{
+	position:absolute;
+	top:237px;
+	left:32px;
+	display:none;
+}
+#label2{
+	position:absolute;
+	top:284px;
+	left:239px;
+	display:none;
+}
+#litmusString1{
+	top:247px;
+	left:28px;
+	display:none;
+}
+#tubeString{
+	top:295px;
+	left:235px;
+	display:none;
+}
+#bottleString{
+	top:263px;
+	left:444px;
+	display:none;
+}
+#tubeSolutionHcl{
+	position:absolute;
+	left:1px;
+	top:85px;
+	width:24px;
+	height:52px;
+	border-radius:0px 0px 10px 10px;
+	background-color:#FFF;
+	opacity:0.3;
+}
+#bottleSolution{
+	position:absolute;
+	left:1px;
+	top:29px;
+	width:38px;
+	height:57px;
+	background-color:#FFF;
+	opacity:0.3;
+}
+#dropAreaDropper{
+	position:absolute;
+	top:12px;
+	width:98px;
+	height:160px;
+	left:386px;
+	display:none;
+}
+#dropperSolution{
+	position:absolute;
+	left:16px;
+	top:-2px;
+	border-style: solid;
+	border-width: 55px 4px 0 4px;
+	border-color: #ffffff transparent transparent transparent;	
+	opacity:0.4;
+}
+#dropperWrapper{
+	top:2px;
+	position:absolute;
+	cursor:pointer;
+}
+.Drops {
+	position:absolute;
+	display:none;
+	left:423px;
+	top:160px;
+}
+#dropAreaTubeHcl{
+	position:absolute;
+	top:0px;
+	width:98px;
+	height:155px;
+	left:240px;
+	display:none;
+}
+#solnPourStartHcl{	
+	position: absolute;
+	display: none;
+	width: 136px;
+	height: 7px;
+	top: 84px;
+	left: 284px;
+	opacity:0.7;
+   background-color:#CCC;
+   -webkit-border-radius:63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:50%  50%  50%  50%  / 60%   60%   40%  40%;
+}
+#pourline1Hcl{
+	position:absolute;	
+	top: 92px;
+	left: 283px;
+	height:129px;
+	display:none;
+}
+#pourline2Hcl{
+	position:absolute;	
+	top: 89px;
+	left: 283px;
+	height:120px;
+	display:none;
+}
+#dropAreaShakeHcl{
+	position:absolute;
+	top:0px;
+	width:256px;
+	height:134px;
+	left:50px;
+	display:none;
+}
+#hand{
+	position:absolute;
+	top:232px;
+	left:562px;
+	display:none;
+	z-index:3;
+	width:88px;
+}

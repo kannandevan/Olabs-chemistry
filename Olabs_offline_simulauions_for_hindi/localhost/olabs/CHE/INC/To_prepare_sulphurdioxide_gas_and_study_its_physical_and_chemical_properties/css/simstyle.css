@@ -1,0 +1,1449 @@
+.varBox,
+.varTitle,
+#bgCanvas,img,p,#mainDiv,#controls2,#controls2{
+
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently*/                               
+}
+
+
+
+#next_btn,
+#drops,
+#inference,
+#second_card,
+#third_card,
+#inferenceForColor,
+#trough,
+#water,
+#dropForGasjar,
+#gasJarTop,
+#inferenceForSolubility,
+#next_btn2,
+.info2,
+#gas3,
+#jar3Div,
+#paperDiv,
+#litmusDrop,
+#inferenceForAcid,
+#redLitmus2,
+#inferenceForAcid2,
+#next_btn3,
+#next_btn4,
+#kmno4,
+#h2so4,
+#inferenceForPage5,
+#tb,
+#acidDrop,
+#glassTube5Drop,
+#smokeInFlask5,
+#inferenceForPage5,
+#greensolnInTb,
+#greensolnInTb,
+#tbDropArea,
+#acidInDiv5,
+#pottasium,
+#orangeDropperDiv,
+#tb5Div,
+#glassTube5,
+#orangeDrop,
+#solnInTb5,
+#purpleDrop,
+#whitesolnInTb,
+#smokeInTb,
+#smokeInFlask,
+#inferenceForPage4,
+#dropper5Div,
+#dropper2Div,
+#solnInTb,
+#dropper3Div,
+#H2SO4inDropper,
+#h2so4Drop,
+#jar4Div,
+#glassTube4,
+#glassTube4Drop,
+#heading,
+#heading2,
+#wholeStand4,
+#tripodstand4,
+#burner4,
+#cork4,
+#roundbottomflask4 {
+    display: none;
+}
+
+#bgCanvas2 {
+    width: 562px;
+
+}
+.subButton1 {
+  top: 284px ;
+  left: 40px ;
+  position: absolute !important;
+}
+.subButton {
+  top: 590px ;
+  left: 21px ;
+  position: absolute !important;
+}
+#mainDiv,
+.varBox {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+img,
+.varBox,
+#bgCanvas1,
+#bgCanvas2 {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+}
+
+.mainTitle p {
+    font-size: 178% !important;
+}
+
+#next_btn {
+    top: 15%;
+    left: 75%;
+    position: absolute;
+    background-color: #016B96;
+    cursor: pointer;
+}
+
+#next_btn2 {
+    top: 15%;
+    left: 75%;
+    position: absolute;
+    background-color: #016B96;
+    cursor: pointer;
+}
+
+#bg {
+    width: 100%;
+    height: 100vh;
+
+}
+
+#wholeStand {
+    position: absolute;
+    top: 28%;
+    left: 1%;
+    width: 24%;
+    height: 61%;
+}
+
+#mainStand {
+
+    position: absolute;
+    width: 101%;
+    top: -2%;
+    left: -3%;
+}
+
+#mainStandTop {
+    position: absolute;
+    top: 33%;
+    left: 68%;
+    width: 30%;
+}
+
+
+#mainStandShadow {
+    position: absolute;
+    left: -9%;
+    top: 90%;
+    display: none;
+}
+
+
+#measJarShadow {
+    position: absolute;
+    left: 690px;
+    top: 710px;
+
+}
+
+#waterInMeasCylinder {
+    position: absolute;
+    left: 25.8%;
+    top: 27%;
+    width: 50.5%;
+    height: 59%;
+    display: none;
+    transform: scaleY(1);
+}
+
+#watchglassShadow {
+    position: absolute;
+    left: 1530px;
+    top: 721px;
+}
+
+#measCylindShadow {
+    position: absolute;
+    left: 885px;
+    top: 723px;
+}
+
+#tripodstand {
+    position: absolute;
+    left: 15%;
+    top: 65%;
+    width: 17%;
+}
+
+#burner {
+    position: absolute;
+    left: 9%;
+    top: 72%;
+    width: 18%;
+}
+
+#roundbottomflask {
+    position: absolute;
+    left: 18.2%;
+    top: 42%;
+    width: 10%;
+}
+
+#gasjar {
+    position: absolute;
+    left: 29%;
+    top: 36%;
+    width: 13%;
+    height: 59%;
+    cursor: pointer;
+    display: none;
+}
+
+#gasJar1 {
+    position: absolute;
+    LEFT: 20%;
+    top: 11%;
+    width: 59%;
+    height: 85%;
+}
+
+#gasJarTop {
+    position: absolute;
+    left: 23%;
+    top: -10%;
+    width: 54%;
+    height: 46%;
+}
+#gasJar11 {
+        position: absolute;
+    left: -1%;
+    top: 10.5%;
+    width: 102%;
+    height: 86%;
+    cursor: pointer;
+}
+#gasjar1 {
+    position: absolute;
+    left: 32%;
+    top: 50.5%;
+    width: 7%;
+    height: 44%;
+    cursor: pointer;
+}
+
+#gasJar3 {
+    left: -3%;
+    position: absolute;
+    width: 108%;
+    height: 63%;
+    top: 26%;
+}
+
+#gasa {
+    position: absolute;
+    width: 39%;
+    height: 53%;
+    left: 33%;
+    top: 33%;
+    display: none;
+}
+
+#gasJarTop3 {
+    width: 55%;
+    position: absolute;
+    height: 10%;
+    top: 20%;
+    left: 25%;
+}
+
+#bottleDiv {
+    position: absolute;
+    left: 47%;
+    top: 64%;
+    width: 8.5%;
+    height: 27%;
+}
+
+#bottle {
+    position: absolute;
+    left: 11%;
+    top: 0%;
+    width: 72%;
+    height: 111%;
+}
+
+.nameTaga {
+    position: absolute;
+    left: 11px;
+    top: 57px;
+    font-size: 8px;
+}
+
+#bottleWater {
+    position: absolute;
+    left: 11%;
+    top: 48%;
+    width: 70%;
+    height: 46%;
+}
+
+#meas_cyl {
+
+    position: absolute;
+    top: 6%;
+    left: 10%;
+    width: 81%;
+    height: 96%;
+}
+
+
+#droperDiv {
+    position: absolute;
+    left: 49.5%;
+    top: 56.4%;
+    cursor: pointer;
+    height: 27%;
+    width: 3%;
+    z-index: 1;
+}
+
+#dropsol {
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    width: 39%;
+    height: 44%;
+}
+
+#dropper {
+    position: absolute;
+    width: 21px;
+    left: -2px;
+    top: 4px;
+    height: 80px;
+}
+
+#drops {
+    position: absolute;
+    left: 41.6%;
+    top: 58%;
+    width: 1%;
+}
+
+#measJarWater {
+    position: fixed;
+    left: 820px;
+    top: 664px;
+    width: 48px;
+    height: 74px;
+}
+
+#copperturnings {
+    position: absolute;
+    left: 25%;
+    top: 42%;
+    width: 40%;
+}
+
+
+#spatulaDiv2 {
+    position: absolute;
+    top: 84%;
+    left: 81%;
+    width: 9%;
+    height: 5%;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.jar_with_water {
+    width: 6.2%;
+    height: 39%;
+    position: absolute;
+    top: 54%;
+    left: 39%;
+    cursor: pointer;
+}
+
+#spatula2 {
+    position: absolute;
+    left: 2%;
+    top: 20%;
+    width: 100%;
+
+}
+
+#copperturnings_In_Spatula {
+
+    position: absolute;
+    left: 2%;
+    top: 35%;
+    width: 21%;
+
+}
+
+#watchGlassDiv {
+    position: absolute;
+    top: 79%;
+    left: 76%;
+    width: 12.5%;
+    height: 14%;
+}
+
+#watchglass {
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    width: 88%;
+    height: 60%;
+}
+
+#glassTube {
+    position: absolute;
+    top: 81%;
+    left: 88%;
+    width: 10%;
+    cursor: pointer;
+
+}
+
+#label1 {
+    position: absolute;
+    top: 91%;
+    left: 77%;
+    width: 10%;
+    height: 5%;
+}
+
+.nameTagb {
+    position: absolute;
+    top: 91.9%;
+    left: 78%;
+    font-size: 8px;
+
+}
+
+
+#rbstandDropArea {
+    position: absolute;
+    right: 10%;
+    left: 13%;
+    top: 15%;
+    width: 22%;
+    height: 28%;
+
+}
+
+#rbDropCork {
+    position: absolute;
+    left: 16%;
+    top: 18%;
+    width: 15%;
+    height: 26%;
+
+}
+
+#gasjarDrop {
+    position: absolute;
+    right: 10%;
+    left: 15%;
+    top: 15%;
+    width: 24%;
+    height: 40%;
+
+}
+
+#measJarDrop {
+    Position: absolute;
+    left: 38.5%;
+    top: 28%;
+    width: 7%;
+    height: 36%;
+
+}
+
+#dropAreaForMeas {
+    position: absolute;
+    left: 16%;
+    top: 2%;
+    width: 30%;
+    height: 39%;
+    z-index: 10;
+}
+
+#dropForGasjar {
+    position: absolute;
+    left: 41.5%;
+    top: 17%;
+    z-index: 10;
+    width: 31%;
+    height: 58%;
+}
+
+#cuFall1 {
+    position: absolute;
+    left: 58px;
+    top: 140px;
+    width: 96px;
+    height: 86px;
+    display: none;
+}
+
+#cuFall2 {
+    position: absolute;
+    left: 58px;
+    top: 140px;
+    width: 96px;
+    height: 86px;
+    display: none;
+}
+
+#cork {
+    position: absolute;
+    left: 57%;
+    top: 83%;
+    width: 4.5%;
+    cursor: pointer;
+}
+
+#thistlFunnelUnder {
+    position: absolute;
+    left: 64%;
+    top: 74%;
+    width: 12%;
+}
+
+#thistlFunnelTop {
+    position: absolute;
+    left: 66%;
+    top: 79.6%;
+    width: 8%;
+}
+
+#thistlFunnel {
+    position: absolute;
+    left: 65.5%;
+    top: 77%;
+    width: 4.5%;
+    transform: rotate(56deg);
+    cursor: pointer;
+}
+
+#glassTubeOnRB1 {
+    position: absolute;
+    top: 131px;
+    left: 131px;
+    width: 70px;
+    height: 141px;
+    display: none;
+}
+
+#cuInFlask {
+    position: absolute;
+    left: 21.5%;
+    top: 65.1%;
+    width: 3.5%;
+    display: none;
+}
+
+#aa {
+    position: absolute;
+    background-color: #ffffff52;
+    left: 21%;
+    width: 59%;
+    height: 1%;
+    top: 91%;
+    display: none;
+}
+
+#waterpouring {
+    position: absolute;
+    left: 22.2%;
+    height: 15%;
+    top: 26%;
+    width: 3px;
+    z-index: 1;
+    opacity: 10;
+    display: none;
+}
+
+#waterinflask {
+    position: absolute;
+    top: 212px;
+    left: 104px;
+    width: 52px;
+    height: 16px;
+    display: none;
+
+}
+
+#waterInRB4 {
+    position: absolute;
+    left: 164.5px;
+    width: 54px;
+    height: 20px;
+    top: 205px;
+    display: none;
+}
+
+#cuInRB4 {
+    position: absolute;
+    left: 177px;
+    top: 169.8px;
+    width: 24px;
+    height: 100px;
+    display: none;
+
+}
+
+#burnerOff {
+    position: absolute;
+    top: 82%;
+    left: 19%;
+    width: 3%;
+    cursor: pointer;
+    z-index: 10;
+}
+
+#burnerOn {
+    position: absolute;
+    top: 82%;
+    left: 20.2%;
+    width: 1.5%;
+    display: none;
+    z-index: 100;
+    cursor: pointer;
+}
+
+#gas {
+    position: absolute;
+    top: 62%;
+    width: 8%;
+    height: 6%;
+    left: 19%;
+    display: none;
+}
+
+#inference {
+    cursor: pointer;
+    position: absolute;
+    top: 6%;
+    left: 5%;
+}
+
+#inference:hover {
+    opacity: 0.5;
+}
+
+#gas2 {
+    position: absolute;
+    transform: scaley(4.5);
+    left: 23px;
+    top: 98px;
+    width: 27px;
+    height: 29px;
+    opacity: 1;
+}
+
+#gasInTrough {
+    left: 260px;
+    top: 234px;
+    width: 125px;
+    height: 68px;
+    position: absolute;
+    display: none;
+}
+
+#inferenceForColor {
+    position: absolute;
+    top: 78px;
+    left: 150px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.col-2 {
+    position: absolute;
+    top: 6%;
+    left: 81%;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.card-header,
+.card-text {
+    font-size: 24px;
+}
+
+.btn-primary {
+    width: 100px;
+    background-color: #006b96;
+    color: white;
+    padding: 7px 30px 6px 34px;
+    border-radius: 10px;
+}
+
+.card-header1 {
+    font-size: 24px;
+}
+
+#trough {
+    position: absolute;
+    left: 46%;
+    top: 69%;
+    width: 23%;
+    height: 22%;
+}
+
+#inferenceForSolubility {
+    position: absolute;
+    left: 32px;
+    top: 49px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+#gas3 {
+
+    position: absolute;
+    top: 4%;
+    left: 29%;
+    width: 37%;
+    height: 84%;
+    opacity: 1;
+
+}
+
+#jar3Div {
+    position: absolute;
+    left: 36%;
+    top: 50%;
+    width: 10%;
+    height: 48%;
+}
+
+#jar3 {
+    height: 76%;
+    position: absolute;
+    left: 0%;
+    width: 91%;
+    top: 12%;
+}
+
+#jarTop3 {
+    position: absolute;
+    left: 20%;
+    top: 6%;
+    width: 53%;
+    height: 10%;
+}
+
+#paperDiv {
+    position: absolute;
+    left: 51%;
+    top: 79%;
+    height: 17%;
+    width: 18%;
+}
+
+#whiteBoard {
+    position: absolute;
+    left: 1%;
+    top: 6%;
+    height: 75%;
+    width: 92%;
+}
+
+#redLitmus {
+    position: absolute;
+    left: 14%;
+    top: 25%;
+    width: 72%;
+    cursor: pointer;
+    height: 16%;
+
+}
+
+#blueLitmus {
+    position: absolute;
+    left: 10%;
+    top: 45%;
+    width: 72%;
+    cursor: pointer;
+    height: 16%;
+
+}
+
+#litmusDrop {
+    position: absolute;
+    left: 29%;
+    top: 18%;
+    width: 26%;
+    height: 37%;
+}
+
+#inferenceForAcid {
+    position: absolute;
+    left: 47px;
+    top: 51px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#redLitmus2 {
+    position: absolute;
+    top: 84.3%;
+    left: 53%;
+    width: 13%;
+    height: 8%;
+    transform: rotate(90deg);
+    display: none;
+}
+
+#inferenceForAcid2 {
+    position: absolute;
+    left: 47px;
+    top: 51px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#next_btn3 {
+    top: 15%;
+    left: 75%;
+    position: absolute;
+    background-color: #016B96;
+    cursor: pointer;
+}
+
+.nameTag4 {
+    position: absolute;
+    left: 13px;
+    top: 44px;
+    font-size: 8px;
+}
+
+.nameTag5 {
+    position: absolute;
+    left: 14px;
+    top: 49px;
+    font-size: 9px;
+}
+
+#kmno4 {
+    position: absolute;
+    left: 62.5%;
+    top: 67%;
+    width: 10%;
+    height: 25%;
+}
+
+#bottle2 {
+    position: absolute;
+    left: 19%;
+    top: 10%;
+    width: 63%;
+    height: 84%;
+}
+
+#dropper2 {
+    position: absolute;
+    left: 10%;
+    top: 8%;
+    z-index: 1;
+    width: 61%;
+    height: 87%;
+    cursor: pointer;
+}
+
+#h2so4 {
+    position: absolute;
+    left: 73%;
+    top: 68.5%;
+    width: 8%;
+    height: 23%;
+}
+
+#bottle3 {
+    position: absolute;
+    left: 15%;
+    top: 5%;
+    width: 76%;
+    height: 90%;
+}
+
+
+#dropper3 {
+    position: absolute;
+    left: 18%;
+    top: 14%;
+    width: 61%;
+    cursor: pointer;
+    height: 78%;
+}
+
+#dropper3Div {
+    position: absolute;
+    left: 75.2%;
+    top: 53%;
+    width: 4%;
+    height: 33%;
+    z-index: 1;
+
+}
+
+#tb {
+    position: absolute;
+    top: 56.5%;
+    left: 43%;
+    width: 19%;
+    height: 39%;
+}
+
+#tbstandUnder {
+    position: absolute;
+    left: 8%;
+    top: 29%;
+    width: 92%;
+}
+
+#tbstandTop {
+    position: absolute;
+    left: 24%;
+    top: 50%;
+    width: 59%;
+}
+
+#testTube {
+    position: absolute;
+    left: 43%;
+    top: 10%;
+    width: 18%;
+}
+
+#purpleSoln {
+    position: absolute;
+    left: 20%;
+    top: 44%;
+    width: 60%;
+    height: 49%;
+}
+
+#tbDropArea {
+    position: absolute;
+    left: 48.5%;
+    top: 34%;
+    width: 9%;
+    height: 31%;
+}
+
+#soln {
+    position: absolute;
+    left: 16%;
+    top: 43.5%;
+    width: 72%;
+    height: 50%;
+}
+
+#purpleDrop {
+
+    position: absolute;
+    left: 52.3%;
+    top: 57%;
+    width: 1%;
+}
+
+#solnInDropper {
+    position: absolute;
+    left: 31%;
+    top: 41%;
+    width: 28%;
+    height: 49%;
+}
+
+#dropper2Div {
+    position: absolute;
+    left: 66%;
+    top: 55.4%;
+    width: 4%;
+    height: 29%;
+    z-index: 0;
+}
+
+#solnInTb {
+    position: absolute;
+    left: 44%;
+    top: 67%;
+    width: 13.5%;
+    height: 13%;
+}
+
+#H2SO4inDropper {
+    position: absolute;
+    top: 51%;
+    left: 34%;
+    width: 30%;
+    height: 44%;
+}
+
+#h2so4Drop {
+    position: absolute;
+    left: 52.3%;
+    top: 56.9%;
+    width: 1%;
+}
+
+#burnerOff4 {
+    position: absolute;
+    left: 161px;
+    display: none;
+    top: 278px;
+    width: 18px;
+    height: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+#burnerOn4 {
+    position: absolute;
+    left: 174px;
+    display: none;
+    top: 279px;
+    width: 5px;
+    height: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+#burnerOff5 {
+    position: absolute;
+    left: 161px;
+    display: none;
+    top: 278px;
+    width: 18px;
+    height: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+#burnerOn5 {
+    position: absolute;
+    left: 174px;
+    display: none;
+    top: 279px;
+    width: 5px;
+    height: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+
+#glassTube4 {
+    position: absolute;
+    left: 83%;
+    top: 80%;
+    width: 12%;
+    cursor: pointer;
+}
+
+#glassTube4Drop {
+
+    position: absolute;
+    left: 28%;
+    top: 16%;
+    width: 29%;
+    height: 47%;
+
+}
+
+#whitesolnInTb {
+    position: absolute;
+    left: 44.7%;
+    top: 68.6%;
+    width: 12.4%;
+    height: 12%;
+    z-index: 1000;
+}
+
+#smokeInTb {
+    position: absolute;
+    left: 51.5%;
+    top: 63%;
+    width: 2.5%;
+    height: 25%;
+    display: none;
+}
+
+#smokeInTb5 {
+    position: absolute;
+    left: 42%;
+    top: 12%;
+    width: 12.2%;
+    height: 63%;
+    display: none;
+}
+
+#inferenceForPage4 {
+    position: absolute;
+    left: 24px;
+    top: 22px;
+    cursor: pointer;
+}
+
+#next_btn4 {
+    top: 15%;
+    left: 75%;
+    position: absolute;
+    background-color: #016B96;
+    cursor: pointer;
+}
+
+#acidInDiv5 {
+    position: absolute;
+    left: 73%;
+    top: 68%;
+    width: 8%;
+    height: 23%;
+}
+
+.nameTagd {
+    position: absolute;
+    left: 12%;
+    top: 55%;
+    font-size: 9px;
+}
+
+#soln5 {
+    position: absolute;
+    left: 11%;
+    top: 39%;
+    width: 60%;
+    height: 53%;
+}
+
+#bottle5 {
+    position: absolute;
+    left: 10%;
+    top: 7%;
+    height: 86%;
+    width: 63%;
+}
+
+#dropper5Div {
+    position: absolute;
+    left: 74.5%;
+    top: 57.1%;
+    /* border: solid; */
+    width: 4%;
+    height: 33%;
+    z-index: 1;
+}
+
+#H2SO4inDropper5 {
+    position: absolute;
+    top: 31%;
+    left: 27%;
+    width: 30%;
+    height: 44%;
+
+}
+
+#dropper5 {
+    position: absolute;
+    left: 13%;
+    top: 7%;
+    cursor: pointer;
+}
+
+#pottasium {
+    position: absolute;
+    left: 62.5%;
+    top: 67%;
+    width: 10%;
+    height: 25%;
+}
+
+#orangeSoln {
+    position: absolute;
+    left: 20%;
+    top: 44%;
+    width: 50%;
+    height: 46%;
+}
+
+#bottleOrange {
+    position: absolute;
+    left: 20%;
+    width: 52%;
+    top: 12%;
+    HEIGHT: 78%;
+}
+
+.nameTagp {
+    position: absolute;
+    left: 20%;
+    top: 57%;
+    font-size: 7.5px;
+}
+
+#orangeDropperDiv {
+    position: absolute;
+    left: 65.4%;
+    top: 55.1%;
+    width: 4%;
+    height: 29%;
+    z-index: 0;
+}
+
+#orangeDropperSoln {
+    position: absolute;
+    width: 28%;
+    top: 50%;
+    height: 42%;
+    left: 29%;
+    z-index: 0;
+}
+
+#dropperForOrange {
+    position: absolute;
+    left: 14%;
+    z-index: 0;
+    top: 16%;
+    cursor: pointer;
+}
+
+#tb5Div {
+    position: absolute;
+    top: 56.5%;
+    left: 43%;
+    width: 19%;
+    height: 39%;
+}
+
+#tbstandUnder5 {
+    position: absolute;
+    left: 6%;
+    top: 28%;
+    width: 90%;
+}
+
+#testTube5 {
+    position: absolute;
+    left: 39%;
+    top: 8%;
+    width: 18%;
+}
+
+#tbstandTop5 {
+    position: absolute;
+    left: 22%;
+    top: 48.5%;
+    width: 58%;
+
+}
+
+#glassTube5 {
+    position: absolute;
+    left: 83%;
+    top: 80%;
+    width: 12%;
+    cursor: pointer;
+}
+
+#tbDropArea5 {
+    position: absolute;
+    left: 47.7%;
+    top: 34%;
+    width: 9%;
+    height: 27%;
+
+}
+
+#orangeDrop {
+    position: absolute;
+    left: 51.8%;
+    top: 57%;
+}
+
+#solnInTb5 {
+    position: absolute;
+    left: 42%;
+    top: 68%;
+    width: 12%;
+    height: 10%;
+}
+
+#acidDrop {
+    position: absolute;
+    left: 51.8%;
+    top: 57%;
+}
+
+#glassTube5Drop {
+    position: absolute;
+    left: 157px;
+    top: 56px;
+    width: 180px;
+    height: 153px;
+    display: none;
+}
+
+#smokeInFlask5 {
+    position: fixed;
+    top: 58%;
+    width: 5%;
+    height: 7%;
+    left: 23.5%;
+    display: none;
+}
+
+#inferenceForPage5 {
+    position: absolute;
+    left: 68px;
+    top: 23px;
+    cursor: pointer;
+}
+
+#greensolnInTb {
+    position: absolute;
+    left: 41.8%;
+    top: 64.8%;
+    width: -30.5%;
+    height: -2%;
+}
+
+#mainStandShadow4 {
+    position: absolute;
+    left: -9%;
+    top: 90%;
+    display: none;
+}
+
+#mainStand4 {
+    position: absolute;
+    width: 115%;
+    top: 4%;
+    left: -4%;
+}
+
+#mainStandTop4 {
+    position: absolute;
+    top: 35.5%;
+    left: 81%;
+    width: 33%;
+}
+
+#cork4 {
+    position: absolute;
+    left: 32%;
+    top: 38.5%;
+    width: 4%;
+}
+
+#standAndBurner4 {
+    position: absolute;
+    top: 29%;
+    left: 6%;
+    width: 37%;
+    height: 61%;
+    display: none;
+}
+
+#glassTubeOnRB {
+    position: absolute;
+    top: 118px;
+    left: 192px;
+    display: none;
+    width: 108px;
+    height: 154px;
+}
+
+#glassTubeOnRB5 {
+    position: absolute;
+    top: 118px;
+    left: 191px;
+    display: none;
+    width: 103px;
+    height: 154px;
+    display: none;
+}
+
+.firstpg_txt1 {
+    position: absolute;
+    top: -6px;
+    height: 5%;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 120%;
+    font-weight: 500;
+    color: #626262;
+    padding: 5px 0 0 0px;
+    margin: 0 0px 0 0;
+    left: 8px;
+    text-align: justify !important;
+}
+
+.firstpg_txt2 {
+
+    position: absolute;
+    top: 48px;
+    height: 5%;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 120%;
+    font-weight: 500;
+    color: #626262;
+    padding: 5px 0 0 0px;
+    margin: 0 0px 0 0;
+    left: 8px;
+    text-align: justify !important;
+}
+
+.main p {
+    overflow: visible;
+}
+
+#con {
+    position: absolute;
+    width: 100%;
+    padding-bottom: 20%;
+    height: 149%;
+}
+
+#saltBox {
+    height: 35%;
+    margin-top: 10%;
+}

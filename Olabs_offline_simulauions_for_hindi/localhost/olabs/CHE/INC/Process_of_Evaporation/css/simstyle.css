@@ -1,0 +1,698 @@
+
+
+
+
+
+
+
+#bg {
+    width: 100%;
+    height: 100%;
+}
+#waterRotateA{
+    display: none;
+}
+
+#mainDiv,
+.control-div {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+#mainDiv img {
+    /* position: absolute; */
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+img{ -webkit-user-drag: none; 
+    -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+#bg0 {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+#blackBoarddiv{
+    position: absolute;
+    display: none;
+
+	width: 100%;
+
+    height: 100%;
+   
+}
+
+#blackBoard{
+    position: absolute;
+	width: 100%;
+
+    height: 100%;
+}
+#inferenceText{
+    position: absolute;
+    /* text-align: center; */
+    color: white;
+    font-size: 2vw;
+    /* text-align: center; */
+    left: 42%;
+    top: 1%;
+    /* width: 93%; */
+    font-weight: bolder;
+    text-align: justify;
+}
+
+#inferenceText1{
+    position: absolute;
+    color: white;
+    font-size: 1.5vw;
+    left: 6%;
+    top: 18%;
+    width: 87%;
+    font-weight: bolder;
+    text-align: justify;
+}
+
+#screen1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* display: none; */
+}
+#instruction1{
+    position: absolute;
+    /* border: solid; */
+    width: 13%;
+    height: 49%;
+    text-align: justify;
+    font-size: 1vw;
+    padding: 0px 15px 24px 46px;
+    
+}
+
+
+#wholeBeakerA {
+    position: absolute;
+    top: 51%;
+    left: 67%;
+    height: 27%;
+    width: 10%;
+}
+  
+#beakerA {
+    position: absolute;
+ 
+    width: 100%;
+    height: 100%;
+  
+}
+
+#waterTopA {
+    position: absolute;
+    top: 54%;
+    left: 10%;
+    height: 43%;
+    width: 87%;
+}
+#waterRotateA {
+    position: absolute;
+    width: 150%;
+    height: 59%;
+    transform: rotate(52deg);
+    top: 33%;
+    left: -41%;
+}
+#pour {
+    position: absolute;
+    left: 54%;
+    top: 50%;
+    width: 0.6%;
+    height: 21%;
+    display: none;
+}
+
+
+
+    #beakerdrop{
+        position: absolute;
+        /* border: solid; */
+        top: 25%;
+        left: 37%;
+        width: 34%;
+        height: 43%;
+    }
+
+
+
+
+
+    #burners{
+        position: absolute;
+        z-index: 7;
+        top: 47%;
+        left: 1%;
+        height: 38%;
+        width: 23%;
+    }
+    .knob{
+        z-index: 44;
+        position: absolute;
+        top: 65%;
+        left: 12%;
+        /* width: 11%; */
+        height: 5%;
+    }
+    .flame {
+        position: absolute;
+        height: 7%;
+        width: 4%;
+        left: 17%;
+        top: 40%;
+        /* border: solid; */
+        z-index: 55;
+    }
+    .flameon{
+        position: absolute;
+        height: 158%;
+        width: 67%;
+        left: 28%;
+        top: -66%;
+        display: none;
+    }
+    
+    
+    #TriStand{
+        position: absolute;
+        z-index: 2;
+        top: 30%;
+        left: 5%;
+        HEIGHT: 49%;
+        width: 28%;
+
+    }
+    
+    #BurnerOn{
+        z-index: 48;
+        position: absolute;
+        top: 65%;
+        left: 13%;
+        /* width: 11%; */
+        height: 5%;
+    }
+    #BurnerOn1{
+        position: absolute;
+        top: 65%;
+        left: 13%;
+        /* width: 11%; */
+        height: 5%;
+    }
+    
+    #waterchina{
+    position: absolute;
+    z-index: 5;
+    left: 45%;
+    top: 63%;
+    width: 16.7%;
+    height: 14%;
+}
+#CHINADISH{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+#chinadishDrop{
+    position: absolute;
+    /* border: solid; */
+    width: 36%;
+    height: 43%;
+    top: 4%;
+    left: 2%;
+}
+/* #CHINADISHWATER
+{
+position: absolute;
+width: 75.5%;
+height: 52%;
+top: 41%;
+left: 11%;
+display: none;
+} */
+.waterboil{
+    position: absolute;
+    /* border: solid; */
+    top: 30%;
+    left: 40%;
+    width: 20%;
+    height: 31%;
+    
+}
+.boilclass{
+    position: absolute;
+    width: 106%;
+    height: 107%;
+    top: -2%;
+    left: 0%;
+    z-index: 4;
+    display: none;
+}
+.line-1 { 
+    position: absolute;
+    left: 29%;
+    top: 31%;
+    height: 0.5%;
+    width: 12.3%;
+    background: black;
+    transform: rotate(36deg);
+    display: none;
+    }
+    .line-2 { 
+        position: absolute;
+        left: 28%;
+        top: 38%;
+        height: 0.5%;
+        width: 12.3%;
+        background: black;
+        transform: rotate(5deg);
+        display: none;
+        }
+
+        .line-3 { 
+            position: absolute;
+            left: 35%;
+            top: 34%;
+            height: 0.5%;
+            width: 12.3%;
+            background: black;
+            transform: rotate(27deg);
+            display: none;
+            }
+            .line-4 { 
+                position: absolute;
+                left: 34%;
+                top: 41%;
+                height: 0.5%;
+                width: 12.3%;
+                background: black;
+                transform: rotate(356deg);
+                display: none;
+                }
+.timer{
+    position: absolute;
+    /* border: solid; */
+    top: 1%;
+    left: 2%;
+    width: 12%;
+    height: 15%;
+    pointer-events: none;
+}
+.timeset{
+    position: absolute;
+    top: 9%;
+    left: 20%;
+    left: 20%;
+    width: 60%;
+     display: none;
+}
+
+
+ #screen2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: none;
+} 
+#SPIRITBOTTLE {
+    position: absolute;
+    top: 43%;
+    left: 82%;
+    height: 33%;
+    width: 8%;
+}
+#SPIRITBOTTLECAP {
+    position: absolute;
+    top: 41%;
+    left: 84%;
+    height: 7%;
+    width: 4%;
+}
+#spiritDrop{
+    position: absolute;
+    /* border: solid; */
+    left: 47%;
+    top: 28%;
+    height: 43%;
+    width: 32%;
+}
+#spiritChina{
+    position: absolute;
+    z-index: 5;
+    left: 52%;
+    top: 63%;
+    width: 15.7%;
+    height: 14%;
+}
+#pour2 {
+    position: absolute;
+  
+    left: 59.6%;
+    ;
+    top: 53%;
+    width: 0.6%;
+    height: 16%;
+    display: none;
+}
+#CHINADISH{
+    position: absolute;
+  
+    width: 100%;
+    height: 100%;
+}
+
+#nextbtn
+{  
+    width: 14%;
+    left: 82%;
+    height: 9%;
+    top: 2%;
+    position: absolute;
+    font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #AAAAAA #AAAAAA #888888;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    float: none;
+    font-size: 1.2vw;
+    font-weight: bold;
+    line-height: 0.3em;
+    margin: 0px;
+    padding: 0.45em 0.8em;
+    text-decoration: none;
+    background: #eeeeee;
+    background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8));
+    background: -webkit-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+    background: -o-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+    background: -ms-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+    background: linear-gradient(to bottom, #eeeeee 0%,#c8c8c8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 );
+    display: none;
+                    }
+
+
+
+                    #nextbtn2
+                    {  
+                        width: 14%;
+                        left: 82%;
+                        height: 9%;
+                        top: 2%;
+                        position: absolute;
+                        font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important;
+                        -moz-border-bottom-colors: none;
+                        -moz-border-left-colors: none;
+                        -moz-border-right-colors: none;
+                        -moz-border-top-colors: none;
+                        border-color: #AAAAAA #AAAAAA #888888;
+                        border-image: none;
+                        border-radius: 4px 4px 4px 4px;
+                        border-style: solid;
+                        border-width: 1px;
+                        box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+                        color: #333333;
+                        cursor: pointer;
+                        display: inline-block;
+                        float: none;
+                        font-size: 1.2vw;
+                        font-weight: bold;
+                        line-height: 0.3em;
+                        margin: 0px;
+                        padding: 0.45em 0.8em;
+                        text-decoration: none;
+                        background: #eeeeee;
+                        background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+                        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8));
+                        background: -webkit-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+                        background: -o-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+                        background: -ms-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+                        background: linear-gradient(to bottom, #eeeeee 0%,#c8c8c8 100%);
+                        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 );
+                        display: none;
+                                        }               
+
+/* #CHINADISHSPIRIT2
+{
+position: absolute;
+width: 60.5%;
+height: 38%;
+top: 41%;
+left: 12%;
+display: none;
+} */
+#spiritDropdish{
+    position: absolute;
+    /* border: solid; */
+    width: 36%;
+    height: 43%;
+    top: 4%;
+    left: 12%;
+}
+#TriStand2{
+    position: absolute;    
+    top: 37%;
+    left: 14%;
+    width: 25%;
+    height: 43%;
+}
+
+
+#instruction2{
+    position: absolute;
+    display: none;
+    width: 13%;
+    height: 49%;
+    text-align: justify;
+    font-size: 1vw;
+    padding: 0px 15px 24px 46px;
+   }
+   #instructionhead{
+    position: absolute;
+    display: none;
+   }
+   #screen3 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#TriStand3{
+    position: absolute;    
+    z-index: 2;
+    top: 35%;
+    left:22%;
+    width: 36%;
+
+}
+#spiritChina3{
+    position: absolute;
+    z-index: 5;
+    left: 30%;
+    top: 24%;
+    width: 22.7%;
+    height: 14%;
+}
+#CHINADISH3{
+    position: absolute;
+  
+    width: 100%;
+    height: 100%;
+}
+#CHINADISHSPIRIT3
+{
+position: absolute;
+width: 71.5%;
+height: 51%;
+top: 42%;
+left: 10%;
+/* display: none; */
+}
+#CHINADISHSPIRIT0005{
+    position: absolute;
+    width: 9.5%;
+    height: 4%;
+    top: 34%;
+    left: 22%;
+    z-index: 4;
+    display: none;
+}
+#CHINADISHSPIRIT0004{
+    position: absolute;
+    width: 9.5%;
+    height: 4%;
+    top: 34%;
+    left: 22%;
+    z-index: 4;
+    display: none;
+}
+
+#CHINADISHSPIRIT0003{
+    position: absolute;
+    width: 9.5%;
+    height: 4%;
+    top: 34%;
+    left: 22%;
+    z-index: 4;
+    display: none;
+}
+#CHINADISHSPIRIT0002{
+    position: absolute;
+    width: 9.5%;
+    height: 4%;
+    top: 34%;
+    left: 22%;
+    z-index: 4;
+    display: none;
+}
+#CHINADISHSPIRIT0001{
+    position: absolute;
+    width: 9.5%;
+    height: 4%;
+    top: 34%;
+    left: 22%;
+    z-index: 4;
+    display: none;
+} 
+ .spiritLevel
+{
+    position: absolute;
+    /* border: solid; */
+    left: 0%;
+    top: 8%;
+    height: 97%;
+    width: 102%;
+    display: none;
+}
+.spiritEvaporate
+{
+    position: absolute;
+   
+    left: 47%;
+    top: 31%;
+    height: 30%;
+    /* border: solid; */
+    width: 22%;
+    
+}
+#inference1{
+    position: absolute;
+    left: 1%;
+    top: 4%;
+    /* height: 10%;
+    width: 7%; */
+    display: none;
+}
+#inference2{
+    position: absolute;
+    left: 1%;
+    top: 4%;
+    /* height: 10%;
+    width: 7%; */
+    display: none;
+}
+#CHINADISH2{
+    width: 88%;
+    height: 89%;
+}
+#alert1 {
+    position: absolute;
+    top: 4%;
+    text-align: center;
+    /* height: 11%; */
+    /* height: 36px; */
+    left: 31%;
+    /* width: 52%; */
+    /* width: 347px; */
+    /* display: none; */
+    background-color: gainsboro;
+    border-radius: 20px;
+    display: none;
+    padding: 1px 62px 1px 1px;
+   
+}
+#alertimg1 {
+    position: absolute;
+    height: 40%;
+    left: 3%;
+    top: 23%;
+
+}
+#text1 {
+    top: -59%;
+    /* height: 63%; */
+    left: 19%;
+    width: 102%;
+    font-size: 1.5vw;
+    margin-top: 4%;
+    position: relative;
+}
+#info1{
+    position: absolute;
+    top: 2%;
+    width: 59%;
+    text-align: center;
+    left: 32%;
+    background-color: gainsboro;
+    border-radius: 20px;
+    display: none;
+    padding: 1px 16px 1px 16px; 
+}
+#infotext1{
+    top: -65%;
+    /* height: 63%; */
+    /* left: 19%; */
+    width: 100%;
+    font-size: 1.5vw;
+    /* margin-top: 8%; */
+    position: relative;
+}
+
+#info2{
+    position: absolute;
+    width: 65%;
+    top: 2%;
+    text-align: center;
+    left: 22%;
+    background-color: gainsboro;
+    border-radius: 20px;
+    display: none;
+    padding: 1px 16px 1px 16px; 
+}
+#infotext2{
+    top: -48%;
+    /* height: 63%; */
+    /* left: 19%; */
+    /* width: 60%; */
+    font-size: 1.5vw;
+    /* margin-top: 8%; */
+    position: relative;
+
+}

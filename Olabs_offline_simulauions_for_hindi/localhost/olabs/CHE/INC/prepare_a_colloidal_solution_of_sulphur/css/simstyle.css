@@ -1,0 +1,1497 @@
+.varBox,
+.varTitle,
+#bgCanvas,
+img,
+p,
+#first_page_Div,
+#theSecondPageDiv,
+#thefourthPage {
+
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently*/
+
+}
+
+img {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+
+}
+
+/* Template */
+.sim-canvas {
+    overflow: hidden;
+}
+
+/* ends */
+
+#bg {
+    /* position: absolute;
+    width: 100%;
+    height: 105%; */
+
+    position: absolute;
+    width: 100%;
+    height: 107%;
+    top: 0%;
+
+}
+
+#bgCanvas {
+    position: absolute;
+    height: 115%;
+    width: 101%;
+    top: -3%;
+}
+
+#first_page_Div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -1%;
+    left: -3%;
+    display: block;
+}
+
+.theWaternametag {
+    position: absolute;
+    top: 88%;
+    left: 90%;
+    width: 13.6%;
+    height: 6%;
+}
+
+#theWaterlabel {
+    position: absolute;
+    left: 93%;
+    top: 82%;
+}
+
+.firstWater-bottle {
+    position: absolute;
+    top: 51%;
+    left: 90%;
+    width: 9%;
+    cursor: grab;
+}
+
+#Thetestubestand1 {
+    position: absolute;
+    width: 30%;
+    height: 47%;
+    top: 41%;
+    left: 26%;
+    pointer-events: none;
+}
+
+#Thetestubestand2 {
+    position: absolute;
+    width: 30%;
+    height: 47%;
+    top: 41%;
+
+}
+#theNAmeTag {
+    position: absolute;
+    width: 17%;
+    left: 56.6%;
+    top: 86%;
+}
+
+
+#thelabelName {
+    position: absolute;
+    top: -33%;
+    left: 15%;
+}
+
+.theNametag {
+    position: absolute;
+    top: 49%;
+    width: 97%;
+}
+
+.firstPage-Testubestand {
+    position: absolute;
+    top: 29%;
+    height: 66%;
+    left: 20%;
+}
+
+.firstPage-Testubestandtop {
+    position: absolute;
+    height: 5.8%;
+    top: 52.3%;
+    left: 34.5%;
+    z-index: 2;
+}
+
+.firstPageFirst-Testube {
+    position: absolute;
+    height: 79%;
+    width: 83%;
+
+}
+
+.firstPageSecond-Testube {
+    position: absolute;
+    height: 88%;
+    width: 61%;
+}
+
+.firstPage-Kibbs {
+    position: absolute;
+    top: -43%;
+    left: -8%;
+    height: 144%;
+}
+
+#firstpageFirstDropareaDiv {
+    position: absolute;
+    top: 18%;
+    left: 38%;
+    width: 10%;
+    height: 40%;
+    pointer-events: none;
+
+}
+
+#firstpageFirstDropareaDiv2 {
+    position: absolute;
+    top: 18%;
+    left: 38%;
+    width: 10%;
+    height: 40%;
+    pointer-events: none;
+
+
+}
+
+.waterTo-thetestube {
+    position: absolute;
+    left: 44.4%;
+    top: 38%;
+    transform: rotate(14deg);
+    height: 26%;
+    display: none;
+}
+
+.firstPage_Nitricacid {
+    position: absolute;
+    top: 56%;
+    left: 60%;
+    height: 28%;
+}
+
+.firstPage_Dropper {
+    position: absolute;
+    left: 28.3%;
+    height: 95%;
+    top: 1%;
+}
+
+.Water-DropTo-testube {
+    position: absolute;
+    left: 43%;
+    top: 47%;
+    width: 1.1%;
+    display: none;
+}
+
+#testubeShakeArea {
+    position: absolute;
+    left: 33%;
+    width: 59%;
+    top: 4%;
+    height: 39%;
+    pointer-events: none;
+    /* display: none; */
+
+
+}
+
+#firstpageTestubeDropper {
+    position: absolute;
+    top: 14%;
+    width: 13%;
+    left: 10%;
+    height: 36%;
+    display: none;
+}
+
+#kibsApparatus {
+    position: absolute;
+    left: 75%;
+    height: 50%;
+    top: 34%;
+    width: 10%;
+
+}
+
+.firstPage-Kibbs-tapclose {
+    position: absolute;
+    top: 42.4%;
+    height: 6%;
+    left: 38%;
+
+}
+
+.firstPage-Kibbs-tapopen {
+    position: absolute;
+    top: 43%;
+    height: 3.3%;
+    left: 40%;
+}
+
+.testtubeWater1Animation_class {
+    position: absolute;
+    width: 105%;
+    height: 126%;
+    top: 16%;
+    display: none;
+}
+
+#testtubeWater1Animation {
+    position: absolute;
+    width: 81%;
+    height: 56%;
+    left: -7%;
+}
+
+/* second water anim */
+.testtubeWater2Animation_class {
+    position: absolute;
+    width: 107%;
+    height: 142%;
+    display: none;
+}
+
+#testtubeWater2Animation {
+    position: absolute;
+    width: 81%;
+    height: 56%;
+    left: -7%;
+}
+
+/* end */
+#theFirstDragabbletesttube_div {
+    position: absolute;
+    left: 41%;
+    height: 37%;
+    width: 6%;
+    top: 51.3%;
+}
+
+#firstpageKibbsTestubedroparea {
+    position: absolute;
+    width: 10%;
+    height: 29%;
+    left: 73%;
+    top: 39%;
+    pointer-events: none;
+}
+
+.firstPageFirst-Testube-water {
+    position: absolute;
+    top: 11%;
+    left: -5%;
+    height: 69%;
+    width: 83%;
+    display: none;
+}
+
+#firstPageFirst_Testube_milkywater {
+    position: absolute;
+    height: 88%;
+    width: 83%;
+    top: -7%;
+    left: -4%;
+    z-index: 0;
+    display: none;
+}
+
+#thesonddivTesstube {
+    position: absolute;
+    left: 15%;
+    top: 51.7%;
+    width: 8%;
+    height: 33%;
+}
+
+#firstPage_nitricacid_solution {
+    position: absolute;
+    left: 60%;
+    top: 68%;
+    width: 7.9%;
+    height: 16%;
+}
+
+#FirstDropperdiv {
+    position: absolute;
+    top: 42.8%;
+    left: 60.3%;
+    width: 7%;
+    height: 31%;
+}
+
+#firstPage_Dropper_solution {
+    position: absolute;
+    top: 48%;
+    left: 40%;
+    height: 42%;
+    width: 19%;
+}
+
+.firstPageSolutionDrop_class {
+    position: absolute;
+    transform: rotate(97deg);
+    height: 28%;
+    left: -112%;
+    top: 29%;
+    display: none;
+}
+
+#firstPageFirst_Testube_milkywater2 {
+    position: absolute;
+    height: 88%;
+    width: 59%;
+    top: 2%;
+    left: -4%;
+    z-index: 0;
+    display: none;
+
+}
+
+#FistPageText {
+    position: absolute;
+    top: 65%;
+    left: 6%;
+    height: 12%;
+    font-size: 167%;
+    display: none;
+}
+
+/* SecondPage */
+#FirstNext {
+    position: absolute;
+    top: 2%;
+    left: 77%;
+    display: none;
+
+}
+
+#theSecondPageDiv {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display:none;
+}
+
+.secondpagewatchglass_class {
+    position: absolute;
+    top: 76%;
+    left: 52%;
+    height: 7%;
+
+}
+
+.firstWater-bottle2 {
+    position: absolute;
+    top: 51%;
+    left: 90%;
+    width: 9%;
+    cursor: grab;
+}
+
+.secondpagechalkpowder_class {
+    position: absolute;
+    height: 6%;
+    top: 75%;
+    left: 55%;
+    width: 11%;
+    z-index: 2;
+}
+
+#theFirstSpatuladiv {
+    position: absolute;
+    top: 82%;
+    /* border: solid; */
+    left: 55%;
+    width: 29%;
+    height: 7%;
+
+}
+
+.theSpatula_class {
+    position: absolute;
+    height: 151%;
+    left: 51%;
+    top: -47%;
+    transform: rotate(13deg);
+}
+
+#secondpageTestubestand {
+
+    position: absolute;
+    width: 30%;
+    height: 47%;
+    top: 41%;
+    left: 7%;
+
+}
+
+#secondPageTestube {
+    position: absolute;
+    top: 51%;
+    left: 21.9%;
+    height: 29%;
+    width: 5%;
+}
+
+.secondpagetestube_class {
+    position: absolute;
+
+    height: 104%;
+    width: 103%;
+}
+
+.SecondpageMilkysolution_class {
+    position: absolute;
+    top: -19%;
+    height: 126%;
+    left: -3%;
+    display: none;
+}
+
+.Secondpagewatersolution_class {
+    position: absolute;
+    top: -19%;
+    height: 126%;
+    left: -3%;
+    opacity: 0.4;
+    display: none;
+}
+
+#secondpagefirstDroparea {
+    position: absolute;
+    top: 16%;
+    left: 20%;
+    height: 39%;
+    width: 8%;
+}
+
+#secondpageSeconddroparea {
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    height: 20%;
+    width: 20%;
+}
+
+.Secondpage_Watertofirsttesttube_class {
+    position: absolute;
+    left: 67%;
+    top: -40%;
+    transform: rotate(14deg);
+    height: 87%;
+    display: none;
+}
+
+.PowerOnspatula {
+    position: absolute;
+    top: 81%;
+    left: 52%;
+    width: 13%;
+    transform: rotate(328deg);
+    display: none;
+
+
+}
+
+.Secondpage_powdertoTesttube {
+    position: absolute;
+    left: 48%;
+    height: 98%;
+    width: 14%;
+    top: 0%;
+    display: none;
+}
+
+#secondpagebottleshakearea {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 47%;
+    height: 26%;
+}
+
+#secondPagelabel {
+    position: absolute;
+    top: 78%;
+    left: 13%;
+    width: 82%;
+    display: none;
+}
+
+#secondPagelabel2 {
+    position: absolute;
+    top: 78%;
+    left: 13%;
+    width: 82%;
+    display: none;
+}
+
+#TheSecondNext {
+    position: absolute;
+    top: 3%;
+    left: 76%;
+    display: none;
+}
+
+/* FourthPage */
+#thefourthPage {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    display: none;
+}
+
+#Secondpage_powderintesstube {
+    position: absolute;
+    top: 90%;
+    left: 12%;
+    width: 79%;
+    display: none;
+
+}
+
+#tesstubeStandFirst {
+    position: absolute;
+    left: 2%;
+    width: 37%;
+    top: 39%;
+    height: 46%;
+}
+
+.ThirdpageFirsttestube_stand {
+    position: absolute;
+    height: 65%;
+    top: 45%;
+    left: -4%;
+    z-index: 2;
+    pointer-events: none;
+
+}
+
+.ThirdpageFirsttestube_standtop {
+
+    position: absolute;
+    height: 1.7%;
+    top: 71.7%;
+    left: 8.6%;
+    pointer-events: none;
+
+}
+
+#tesstubeStandSecond {
+    position: absolute;
+    left: 35%;
+    width: 37%;
+    top: 39%;
+    height: 46%;
+}
+
+.secondFirsttesttube {
+    position: absolute;
+    height: 73%;
+    width: 73%;
+    left: 13%;
+    top: 29%;
+}
+
+#theDroppableTestubeForthirdpage {
+    position: absolute;
+    top: 47%;
+    left: 38.8%;
+    width: 7%;
+    height: 37%;
+}
+
+#theDroppableTestubeForthirdpage2 {
+    position: absolute;
+    top: 47%;
+    left: 45.8%;
+    width: 7%;
+    height: 37%;
+}
+
+#theDroppableTestubeForthirdpage3 {
+    position: absolute;
+    top: 47%;
+    left: 52.5%;
+    width: 7%;
+    height: 37%;
+}
+
+#Dragabbletesttube1 {
+    position: absolute;
+    top: 47%;
+    left: 5.5%;
+    width: 7%;
+    height: 37%;
+}
+
+#Dragabbletesttube2 {
+    position: absolute;
+    top: 47%;
+    left: 12.5%;
+    width: 7%;
+    height: 37%;
+}
+
+#Dragabbletesttube3 {
+    position: absolute;
+    top: 47%;
+    left: 19.5%;
+    width: 7%;
+    height: 37%;
+}
+
+.theFirstFunnel {
+
+    position: absolute;
+    top: 64%;
+    height: 21%;
+    left: 65.4%;
+    cursor: grab;
+}
+
+#theFunelStand {
+    position: absolute;
+    left: 64%;
+    height: 28%;
+    width: 18%;
+    top: 61%;
+    pointer-events: none;
+
+
+}
+
+.Funnelstandtop {
+    position: absolute;
+    height: 6.9%;
+    top: 47.6%;
+    left: 15%;
+    z-index: 2;
+    pointer-events: none;
+
+}
+
+.Funnelstandbottom {
+    position: absolute;
+    height: 79%;
+    top: 20%;
+    left: -2%;
+    pointer-events: none;
+}
+
+.FirstFilterpaper {
+    position: absolute;
+    height: 7%;
+    left: 80%;
+    top: 86%;
+}
+
+.SecondFilterpaper {
+    position: absolute;
+    height: 7%;
+    left: 88%;
+    top: 80%;
+}
+
+.ThirdFilterpaper {
+    position: absolute;
+    height: 7%;
+    left: 80.5%;
+    top: 74%;
+}
+
+.filterpaperanim1 {
+    height: 13%;
+    display:block;
+}
+
+/* the testubedroparea */
+#thefirstTestubeareaForPagefour {
+    position: absolute;
+    top: 19%;
+
+    left: 38%;
+    width: 7%;
+    height: 38%;
+}
+
+.firstestubfilterpaper {
+    position: absolute;
+    height: 23%;
+    top: 12%;
+    left: -6%;
+    display: none;
+}
+
+.firstestubMilkySolutiopagefour {
+    position: absolute;
+    top: 54%;
+    height: 48%;
+    width: 76.4%;
+    left: 7%;
+    display: none;
+}
+
+#firstestubMilkySolutiopagefourBeforepour {
+    position: absolute;
+    height: 90%;
+    width: 75%;
+    top: 14%;
+    left: 9%;
+}
+
+#MilkyPoursolution {
+    position: absolute;
+    top: 56%;
+    height: 28%;
+    width: 209%;
+    transform: rotate(97deg);
+    left: -67%;
+    display: none;
+}
+
+#WaterBeforepourIntestube {
+    position: absolute;
+    top: 14%;
+    height: 89%;
+    left: 10%;
+    width: 69%;
+
+}
+
+.waterBeforePourtestubethree {
+    position: absolute;
+    top: 14%;
+    height: 89%;
+    left: 10%;
+    width: 69%;
+}
+
+#WaterBeforepourIntestubeHalf {
+    position: absolute;
+    top: 49%;
+    height: 53%;
+    left: 10%;
+    width: 70%;
+    display: none;
+}
+
+#theSecondTestubeareaForPagefour {
+    position: absolute;
+    top: 24%;
+
+    width: 5%;
+    left: 46%;
+    height: 32%;
+}
+
+.Secondestubfilterpaper {
+    position: absolute;
+    height: 23%;
+    top: 12%;
+    left: -6%;
+    display: none;
+}
+
+.WaterAfterpourIntestube5ml {
+    position: absolute;
+    top: 49%;
+    height: 53%;
+    left: 10%;
+    width: 70%;
+    display: none;
+}
+
+.waterpourhalfwater {
+    position: absolute;
+    top: 25%;
+    height: 76%;
+    transform: rotate(359deg);
+    width: 56%;
+    left: 15%;
+    display: none;
+}
+
+.waterpourhalfwatertestubethree {
+    position: absolute;
+    top: 25%;
+    height: 76%;
+    transform: rotate(359deg);
+    width: 56%;
+    left: 15%;
+    display: none;
+}
+
+.thirdtestubepowder {
+    position: absolute;
+    top: 93%;
+    height: 8%;
+    width: 55%;
+    left: 23%;
+
+}
+
+#theThirdTestubeareaForPagefour {
+    position: absolute;
+    top: 24%;
+
+    width: 5%;
+    left: 53%;
+    height: 32%;
+}
+
+.Thirdtubfilterpaper {
+    position: absolute;
+    height: 23%;
+    top: 12%;
+    left: -2%;
+    display: none;
+}
+
+.WaterAfterpourIntestube5mlTestubethree {
+    position: absolute;
+    top: 49%;
+    height: 53%;
+    left: 10%;
+    width: 70%;
+    display: none;
+}
+
+#halfwaterpourtestube {
+    position: absolute;
+    top: 49%;
+    height: 53%;
+    left: 10%;
+    width: 70%;
+    display: none;
+}
+
+#filterpaperAnimation {
+    display: none;
+}
+
+#theSecondPagelabel {
+    position: absolute;
+    top: 83%;
+    left: 54%;
+    width: 15%;
+    height: 5%;
+}
+
+#secondnametag {
+    position: absolute;
+    height: 97%;
+    width: 55%;
+    left: 16%;
+    top: 39%;
+}
+
+#theTextofSecondPowder {
+    position: absolute;
+    top: -52%;
+    left: 35%;
+    width: 83%;
+}
+
+#secondnametagChalkpowder {
+    position: absolute;
+    height: 97%;
+    width: 91%;
+    left: 3%;
+    top: 39%;
+    display: none;
+}
+
+#theSecondPagelabel2 {
+    position: absolute;
+    top: 84%;
+    left: 88%;
+    width: 15%;
+    height: 5%;
+}
+
+#secondnametag2 {
+    position: absolute;
+    height: 98%;
+    width: 91%;
+    left: -7%;
+    top: 36%;
+}
+
+#theTextofSecondPowder2 {
+    position: absolute;
+    top: -52%;
+    left: 27%;
+    width: 83%;
+
+}
+
+#theFourthPagetestubename {
+    position: absolute;
+    top: 83%;
+    left: 21%;
+    width: 63%;
+}
+
+#theFourthPagetestubename2 {
+    position: absolute;
+    top: 83%;
+    left: 21%;
+    width: 63%;
+}
+
+#theFourthPagetestubename3 {
+    position: absolute;
+    top: 83%;
+    left: 21%;
+    width: 63%;
+}
+
+#theCommonDiv {
+    position: absolute;
+    top: 22%;
+}
+
+#theInferenceMsg {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 7%;
+    height: 10%;
+    display: none;
+    /* pointer-events: none; */
+}
+
+#TheInference_img {
+    width: 73%;
+    display: none;
+}
+
+#TheWarning_img {
+    position: absolute;
+    height: 56%;
+    left: 3%;
+    top: 18%;
+    /* display: none; */
+}
+
+/* Question style */
+.questionLayout {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #0d102eed;
+
+    top: 0%;
+    z-index: 100001;
+
+}
+
+.questionNumber {
+    position: absolute;
+    width: 100%;
+    height: 12%;
+    background-color: #c0c1c900;
+    top: 2%;
+    border-bottom: solid #ffffff75;
+}
+
+.questionNumberTestDesign {
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 3%;
+    font-family: 'Inconsolata';
+}
+
+.questionNumberScoreDesign {
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1rem;
+    top: 20%;
+    left: 82%;
+    font-family: 'Inconsolata';
+}
+
+.questionText {
+    position: absolute;
+    color: #cac9cbb3;
+    top: 18%;
+    left: 3%;
+    /* background-color: rgb(36, 14, 66); */
+    width: 94%;
+    height: 21%;
+}
+
+.questionTextAlignment {
+    position: absolute;
+    width: 94%;
+    height: 75%;
+    top: 11%;
+    left: 2%;
+    font-size: 1.7vw;
+    color: #fcf8f8;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: not-allowed;
+}
+
+.OptionOne {
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 34%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.OptionTwo {
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 48%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.OptionThree {
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 62%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.OptionFour {
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 76%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.optionTestDesign {
+    position: absolute;
+    color: #ffffff;
+    font-size: 1.2vw;
+    top: 20%;
+    left: 5%;
+}
+
+.optionNo {
+    padding-right: 7px;
+}
+
+
+#theInstruction1 {
+    top: 6%;
+    left: 5%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 18px; */
+    font-size: 2vw;
+
+    font-weight: 600;
+    text-align: left;
+    padding-left: 7px;
+    height: 18px;
+    padding-top: 3px;
+    text-decoration: underline;
+}
+
+.theInstruction {
+    left: 6%;
+    top: 61px;
+    height: 68%;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 118%;
+    font-size: 1.5vw;
+    font-weight: 500;
+    color: #626262;
+    padding: 5px 2px 0px 0px;
+    margin: 0 0px 0 0;
+}
+
+.subButton {
+    width: 120px;
+    font-family: 'Noto Sans', 'Noto Sans Malayalam', 'Noto Sans Telugu', sans-serif !important;
+    /*font-size: 13px;
+	margin: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	height:28px;*/
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #AAAAAA #AAAAAA #888888;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    float: none;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin: 1px;
+    padding: 0.45em 0.8em;
+    text-decoration: none;
+    background: #eeeeee;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #eeeeee), color-stop(100%, #c8c8c8));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #eeeeee 0%, #c8c8c8 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#c8c8c8', GradientType=0);
+    /* IE6-9 */
+
+
+}
+
+#TheQuestioncommonHelp {
+    position: absolute;
+    top: 51%;
+}
+
+/* The WarningStyle */
+
+#theCommonWarningfunction {
+    position: absolute;
+    top: 8%;
+    text-align: center;
+    /* height: 11%; */
+    height: 47px;
+    left: 2%;
+    /* width: 63%; */
+    width: 359px;
+    display: none;
+    background-color: gainsboro;
+    border-radius: 20px;
+}
+
+#thealertP {
+    position: absolute;
+    top: 1%;
+    height: 63%;
+    left: 15%;
+    width: 61%;
+    font-size: 100%;
+    /* font-size: 120%; */
+    margin-top: 2%;
+    text-align: center;
+
+
+
+}
+
+/*  */
+.Kippslabel {
+    position: absolute;
+    height: 8%;
+    top: 86%;
+    left: 74%;
+}
+
+#kipsgaspassingmsgmaindiv {
+    position: absolute;
+    height: 40%;
+    width: 23%;
+    left: 58%;
+    /* border: solid; */
+    top: 25%;
+    /* border: solid; */
+    display: none;
+    pointer-events: none;
+
+}
+
+#Kippshelpdiv {
+    position: absolute;
+    height: 29%;
+    width: 111%;
+    border: solid;
+
+}
+
+.firstpagelabelgaspassing {
+    text-align: center;
+    font-family: auto;
+    font-weight: 600;
+    font-size: 1vw;
+    margin-top: -17%;
+    margin-left: 33%;
+}
+
+.labelarrow {
+    position: absolute;
+    height: 51%;
+    left: 56%;
+    width: 3%;
+    top: 18%;
+    left: 67%;
+
+}
+
+.labelh2s {
+    position: absolute;
+    height: 12%;
+    top: 8%;
+    left: 5%;
+}
+
+/* label */
+.collidalhovers {
+    position: absolute;
+    height: 8%;
+    top: 1%;
+    left: -72%;
+    display: none;
+}
+
+
+.Dragabbletesttube1:hover .collidalhovers {
+    display: block;
+}
+.Dragabbletesttube2:hover .truesolhover {
+    display: block;
+}.Dragabbletesttube3:hover .Suspednionhover {
+    display: block;
+}
+
+/* */
+/*  */
+.truesolhover {
+    position: absolute;
+    height: 8%;
+    top: 1%;
+    left: -72%;
+    display: none;
+}
+.Suspednionhover {
+    position: absolute;
+    height: 10%;
+    top: 1%;
+    left: -39%;
+    display: none;
+}
+
+#finalfilterpaperimagediv {
+    position: absolute;
+    height: 30%;
+    width: 17%;
+    /* border: solid; */
+    left: 41%;
+    top: 25%;
+}
+
+.nonFilterpowdered {
+    position: absolute;
+    height: 84%;
+    display: none;
+}
+/* Final label */
+.colloidalfirstpagelabel{
+    position: absolute;
+    height: 8%;
+    top: 86%;
+    left: 10%;
+    display: none;
+}
+.Suspensionsolutionpagelabel{
+    position: absolute;
+    height: 8%;
+    top: 83%;
+    width: 21%;
+    left: 16%;
+    display: none;
+
+}
+.Truesolutionpagelabel{
+    display: none;
+    position: absolute;
+    height: 8%;
+    top: 83%;
+    width: 21%;
+    left: 16%;
+}
+#Filterpaperanim2
+{
+    display:none;
+}
+#Filterpaperanim3
+{
+    display:none;
+}
+#Filterpaperanim4
+{
+    display:none;
+}
+#Filterpaperanim5
+{
+    display:none;
+}
+#Filterpaperanim6
+{
+    display:none;
+}
+#Filterpaperanim7
+{
+    display:none;
+}
+#Filterpaperanim8
+{
+    display:none;
+}
+#Filterpaperanim9
+{
+    display:none;
+}
+#Filterpaperanim10
+{
+    display:none;
+}
+#Filterpaperanim11
+{
+    display:none;
+}
+
+#Filterpaperanim12
+{
+    display:none;
+}
+#Filterpaperanim13
+{
+    display:none;
+}
+#Filterpaperanim14
+{
+    display:none;
+}
+#Filterpaperanim15
+{
+    display:none;
+}
+#Filterpaperanim16
+{
+    display:none;
+}
+#Filterpaperanim17
+{
+    display:none;
+}
+#Filterpaperanim18
+{
+    display:none;
+}
+#Filterpaperanim19
+{
+    display:none;
+}
+#Filterpaperanim20
+{
+    display:none;
+}
+#Filterpaperanim21
+{
+    display:none;
+}
+
+
+
+
+#Filterpaperanim22
+{
+    display:none;
+}
+#Filterpaperanim23
+{
+    display:none;
+}
+#Filterpaperanim24
+{
+    display:none;
+}
+#Filterpaperanim25
+{
+    display:none;
+}
+#Filterpaperanim26
+{
+    display:none;
+}
+#Filterpaperanim27
+{
+    display:none;
+}
+#Filterpaperanim28
+{
+    display:none;
+}
+#Filterpaperanim29
+{
+    display:none;
+}
+#Filterpaperanim30
+{
+    display:none;
+}
+#Filterpaperanim11
+{
+    display:none;
+}
