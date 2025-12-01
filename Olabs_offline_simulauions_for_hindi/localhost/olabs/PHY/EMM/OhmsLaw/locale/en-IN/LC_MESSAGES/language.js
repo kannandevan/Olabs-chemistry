@@ -1,0 +1,28 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"Ohm's Law": "Ohm's Law",
+	"Readings": "Readings",
+	"Voltage (V) :": "Voltage (V) :",
+	"Ammeter reading (I) :": "Ammeter reading (I) :",
+	"Rheostat resistance :": "Rheostat resistance :",
+	"Length of the resistance wire :": "Length of the resistance wire :",
+	"Show Circuit Diagram": "Show Circuit Diagram",
+	"Results": "Results",
+	"Enter the resistance of the wire:": "Enter the resistance of the wire:",
+	"Enter the resistance per cm of the wire:": "Enter the resistance per cm of the wire:",
+	"Please enter the value": "Please enter the value",
+	" V": "",
+	" A": "",
+	" Show result": " Show result",
+	"Drag and connect the terminal</br>of each apparatus as shown</br>in the circuit diagram": "Drag and connect the terminal</br>of each apparatus as shown</br>in the circuit diagram",
+	"Drag the resistance wire</br>to the voltmeter": "Drag the resistance wire</br>to the voltmeter",
+	"Drag the switch key</br>to the switch": "Drag the switch key</br>to the switch",
+	"Drag the rheostat key to</br>adjust the rheostat resistance": "Drag the rheostat key to</br>adjust the rheostat resistance",
+	"Select the length of</br>the resistance wire": "Select the length of</br>the resistance wire",
+	"HELP": "HELP",
+	"Reset": "Reset",
+	"Check": "Check",
+	"0.5m": "0.5m",
+	"0 V": "0 V",
+	"0 A": ""
+}

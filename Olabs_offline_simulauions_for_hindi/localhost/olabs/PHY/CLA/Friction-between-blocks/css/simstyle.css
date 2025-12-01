@@ -1,0 +1,153 @@
+@charset "utf-8";
+.rotate {position:absolute;
+    top: 15%;
+    left: -3%;
+	width: 23%;
+	font-size: 100%;
+	-moz-transform: rotate(-90.0deg);  /* FF3.5+ */
+	-o-transform: rotate(-90.0deg);  /* Opera 10.5 */
+	-webkit-transform: rotate(-90.0deg);  /* Saf3.1+, Chrome */
+	filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)"; /* IE8 */
+	font-weight:bold;
+}
+#NrCn{position:absolute;
+    left: 40%;
+    top: 33%;
+	font-weight:bold;
+	font-size: 100%;
+}
+	
+#graph{
+	position:absolute;
+	border-bottom:#000 solid 2px;
+	border-left:#000 solid 2px;
+	border-top:#666 solid 1px;
+	border-right:#666 solid 1px;
+	width: 85%;
+    height: 27%;
+    left: 10%;
+	}	
+#ImgBox{
+    position: absolute;
+    height: 55%;
+    width: 80%;
+    top: 43%;
+    left: 14%;
+	}
+#twine{
+    position: absolute;
+    width: 42%;
+    height: 2px;
+    background-color: #cccccc;
+    right: 16%;
+    top: 45%;
+	}
+#ImgBlock{
+    position: absolute;
+    width: 13%;
+    height: 10%;
+    left: 30%;
+    top: 41%;
+}	
+#twineTwo{
+    position: absolute;
+    width: 2px;
+    height: 3%;
+    background-color: #cccccc;
+    right: 11.8%;
+    top: 50%
+	}
+#weightBlock{
+    position: absolute;
+    width: 10%;
+    height: 19%;
+	left: 83%;
+    top: 51.5%;
+}
+#hook{
+	position:absolute;
+	left: 42%;
+}
+#weightBar{
+	position:absolute;
+	top: 19%;
+	left: 21%;
+	background-image:url(../images/weight.png);
+	width:60%;
+}
+.rangeSliderOne{
+	margin: 3px 0px 3px 30px;
+	font-size: 11px;
+}
+#dummy {
+	display:none;
+ }
+#blockWeight_one_extnt{
+    margin-left: 104px;
+    margin-top: -33px;
+	}
+	
+#hangingWght_extnt{
+	margin-left: 122px; 
+	margin-top: -37px; 
+	}
+	
+.rangeVals .minrange{
+	padding-left:12px;
+	}
+	
+#LmtngFrctn_Extn_val{
+	margin-top: -38px;
+	margin-left: 119px;
+	}
+	
+#NrmlRctn_Extn_val{
+	margin-left: 98px;
+	margin-top: -38px;
+	}
+	
+#CoffntFrctn_Extn_val{
+	margin-left: 10.5em;
+	margin-top: -38px;
+	}
+	
+#Blockweight_textbox{
+    margin-left: 77px;
+    margin-top: -37px;
+    margin-bottom: 5px;
+}
+
+#Hangingweight_textbox{
+	margin-left: 95px;
+	margin-top: -38px;
+}
+
+#TableImage{
+	width:94%;
+	height:100%;
+}
+
+.varTitle {
+    padding: 3px 0px 8px 5px;
+}
+input[type="range"] {
+    display: block;
+    width: 90% !important;
+	margin-top: -1em;
+}
+
+.rangeSlider {
+    margin: 3px 0px 3px 5px;
+}
+p#hangingWght {
+    margin-top: 20px;
+}
+input#chkBox {
+    margin-top: 3px;
+	margin-left: 1em;
+}
+.varTitle span {
+    float: right !important;
+	margin-right: 6em;
+}

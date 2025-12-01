@@ -1,0 +1,1212 @@
+.varTitle {
+  list-style-type: decimal;
+}
+.sim-buttons,.sim-footer,.sim-head,.sim-controls,.varBox,.varTitle,#type,#text,#circutImgs,
+#VoltmeterZoom,#heading1,#heading2,#heading3,#key,#bg1,#bg2,#bg3,#canfigure2,#canfigure4,#canfigure6,
+.trip-content,.labName,.mainTitle p,.main p,img{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+img{
+  -webkit-user-drag: none;
+  -khtml-user-drag:none;
+  -moz-user-drag:none;
+  -ms-user-drag:none;
+}
+
+#canvasBox
+{
+  -moz-user-select: none; 
+  -webkit-user-select: none; 
+  -ms-user-select:none; 
+  user-select:none;
+  -o-user-select:none;
+}
+#bg
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+}
+#bg1
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#bg2
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#bg3
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#canfigure2
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure3
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure4
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure5
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure6
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure7
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#lableDiv
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#check 
+{
+  position: absolute;
+  height: 4%;
+  bottom: 90.2%;
+  right: 94%;
+  /* width: 2.5%; */
+  cursor: pointer;
+} 
+#text
+{
+  /* position: absolute;
+  height: 6%;
+  left: 6%;
+  /* width: 27%; 
+  bottom: 86.3%;
+  font-weight: bold;
+  font-size: 95%;
+  color: black;
+  cursor: pointer; */
+  position: absolute;
+  height: 4%;
+  left: 6%;
+  /* width: 27%; */
+  bottom: 88%;
+  font-weight: bold;
+  font-size: 90%;
+  color: black;
+  cursor: pointer;
+}
+#circuitDiagram
+{
+    position: absolute;
+    background-color: #fbf8f8;
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    display: none;
+ }
+#Figurebg
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+}
+#reset:hover{
+  /* transform: scale(110%); */
+  /* background: lightgreen; */
+  cursor: pointer;
+}
+/* #reset1:hover{
+  transform: scale(110%);
+  background: lightgreen;
+} */
+#rest1
+{
+  position: absolute;
+  width: 7%;
+  height: 4.8%;
+  top: 79%;
+  left: 11%;
+  display: none;
+  cursor: pointer;
+}
+.varTitle
+{
+  font-size: 1.2vw;
+  /* width: 90%; */
+  line-height: 100%;
+}
+.varTitle1
+{
+  font-size: 1.2vw;
+  /* width: 90%; */
+  line-height: 100%;
+  display: none;
+}
+.varTitle2
+{
+  font-size: 1.2vw;
+  /* width: 90%; */
+  line-height: 100%;
+  display: none;
+}
+.varTitle3
+{
+  font-size: 1.2vw;
+  /* width: 90%; */
+  line-height: 100%;
+  display: none;
+}
+#connectionDrawing {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+}
+#circutImgs
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+#voltmeter
+{
+  position: absolute;
+  width: 21%;
+  height: 32%;
+  top: 53%;
+  left: 34.5%;
+}
+#VoltNidle
+{
+  position: absolute;
+  width: 8%;
+  height: 11%;
+  top: 61.5%;
+  left: 39%;
+  transform: rotate(326deg);
+}
+#VoltNidle1
+{
+  position: absolute;
+  width: 8%;
+  height: 11%;
+  top: 57%;
+  left: 49.7%;
+  transform: rotate(326deg);
+}
+#VoltNidle1A
+{
+  position: absolute;
+  width: 8%;
+  height: 11%;
+  top: 57%;
+  left: 49.7%;
+  transform: rotate(326deg);
+}
+#VoltNidle1B
+{
+  position: absolute;
+  width: 8%;
+  height: 11%;
+  top: 57%;
+  left: 49.7%;
+  transform: rotate(326deg);
+}
+#carbonresA
+{
+  position: absolute;
+  width: 72%;
+  height: 12%;
+  top: 41%;
+  left: 16%;
+}
+#carbonresB
+{
+  position: absolute;
+  width: 35%;
+  height: 24%;
+  top: 50%;
+  left: 54%;
+}
+#cell
+{
+  position: absolute;
+  width: 28%;
+  height: 33%;
+  top: 5%;
+  left: 37%;
+}
+#keyboard
+{
+  position: absolute;
+  width: 15%;
+  height: 9%;
+  top: 32.5%;
+  left: 72%;
+}
+#key
+{
+  position: absolute;
+  width: 3%;
+  height: 5%;
+  top: 60%;
+  left: 85%;
+}
+#key1
+{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    top: 60%;
+    left: 85%;
+    /* display: none; */
+}
+#key2
+{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    top: 60%;
+    left: 85%;
+    /* display: none; */
+}
+#key3
+{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    top: 60%;
+    left: 85%;
+    /* display: none; */
+}
+#voltmeterPostiv
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 71%;
+  left: 38%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#voltmeterNagativ
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 71%;
+  left: 47.5%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#cellPostiv
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 30%;
+  left: 54%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#cellNagativ
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 28%;
+  left: 57%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#keyLeft
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 35%;
+  left: 75%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#keyRight
+{
+  position: absolute;
+  /* width: 5%;
+  height: 5%;
+  top: 33%;
+  left: 81%; */
+  /* border: solid; */
+  width: 5%;
+  height: 5%;
+  top: 35%;
+  left: 81.5%;
+  border-radius: 70%;
+}
+#corbanA
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 46.5%;
+  left: 25%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#corbanAtoA
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 46.5%;
+  left: 19%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#corbanB
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 46.5%;
+  left: 48%;
+  /* border: solid; */
+  border-radius: 70%;
+}
+#corbanC
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 46%;
+  left: 78%;  
+  /* border: solid; */
+  border-radius: 70%;
+}
+#voltTocorbanA 
+{
+  position: absolute;
+  top: 45.5%;
+  left: 27.7%;
+  width: 13.5%;
+  height: 31%;
+  display: none;
+}
+#voltTocorbanB
+{
+  position: absolute;
+  top: 44.5%;
+  left: 45.1%;
+  width: 22.5%;
+  /* transform: rotate(160deg); */
+  height: 31%;
+  display: none;
+}
+#cellTocorbanA
+{
+  position: absolute;
+  top: 30.5%;
+  left: 24%;
+  width: 31.5%;
+  /* transform: rotate(349deg); */
+  height: 17.5%;
+  display: none;
+}
+#cellPostivtoKeyL
+{
+  position: absolute;
+  top: 30%;
+  left: 56.6%;
+  width: 20.5%;
+  /* transform: rotate(9deg); */
+  height: 8%;
+  display: none;
+}
+#corbanCtoKeyR
+{
+  position: absolute;
+  top: 35.8%;
+  left: 74.5%;
+  width: 16.5%;
+  /* transform: rotate(113deg); */
+  height: 23%;
+  display: none;
+}
+#keyDrop
+{
+  position: absolute;
+  width: 18%;
+  height: 30%;
+  top: 7%;
+  left: 70%;
+  /* border: solid; */
+}
+#keyDrop1
+{
+  position: absolute;
+  width: 17%;
+  height: 28%;
+  top: 6%;
+  left: 77%;
+  /* border: solid; */
+}
+#keyDrop2
+{
+  position: absolute;
+  width: 17%;
+  height: 28%;
+  top: 6%;
+  left: 77%;
+  /* border: solid; */
+}
+#keyDrop3
+{
+  position: absolute;
+  width: 17%;
+  height: 28%;
+  top: 6%;
+  left: 77%;
+  /* border: solid; */
+}
+/* #one
+{
+  position: absolute;
+  width:6%;
+  height: 10%;
+  top: 29%;
+  left: 73%;
+  border: solid;
+  display: none;
+} */
+#Next2
+{
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  /* box-shadow: 0 3px 31px 5px rgba(214, 2, 2, 0.44); */
+  display: none;
+}
+#Next2:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+#Next3
+{
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  display: none;
+}
+#Next3:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+#Next4
+{
+  position: absolute;
+  top: 8%;
+  right: 5%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  /* display: none; */
+}
+#Next4:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(241, 4, 4, 0.44);
+}
+#Next5
+{
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  display: none;
+}
+#Next5:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+#Next6
+{
+  position: absolute;
+  top: 8%;
+  right: 5%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  /* display: none; */
+}
+#Next6:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+#Next7
+{
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  height: 7%;
+  width: 10%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  display: none;
+}
+#Next7:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+/* .varTitle1
+{
+  position: absolute;
+  width:6%;
+  height: 10%;
+  top: 29%;
+  left: 73%;
+  display: none;
+} */
+#DropnVoltCel
+{
+  /* position: absolute;
+  width: 17%;
+  height: 5%; */
+  bottom: 73%;
+  right: 79%;
+  width: 70%;
+  display: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #dce1f3;
+}
+#DropnVoltCel1
+{
+  /* position: absolute;
+  width: 17%;
+  height: 5%; */
+  bottom: 73%;
+  width: 70%;
+  right: 79%;
+  display: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #dce1f3;
+}
+#DropnVoltCel2
+{
+  /* position: absolute;
+  width: 17%;
+  height: 5%; */
+  bottom: 73%;
+  width: 70%;
+  right: 79%;
+  display: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #dce1f3;
+}
+#VoltmeterZoom
+{
+  position: absolute;
+  width: 43%;
+  height: 53%;
+  top: 44%;
+  left: -1%;
+  display: none;
+}
+#VoltNidleZoom
+{
+  position: absolute;
+  width: 10%;
+  height: 14%;
+  top: 73%;
+  left: 10.2%;
+  transform: rotate(326deg);
+  display: none;
+}
+#VoltmeterZoomA
+{
+  position: absolute;
+  width: 43%;
+  height: 53%;
+  top: 44%;
+  left: -1%;
+  display: none;
+}
+#VoltNidleZoomA
+{
+  position: absolute;
+  width: 10%;
+  height: 14%;
+  top: 73%;
+  left: 10.2%;
+  transform: rotate(326deg);
+  display: none;
+}
+#VoltmeterZoomB
+{
+  position: absolute;
+  width: 43%;
+  height: 53%;
+  top: 44%;
+  left: -1%;
+  display: none;
+}
+#VoltNidleZoomB
+{
+  position: absolute;
+  width: 10%;
+  height: 14%;
+  top: 73%;
+  left: 10.2%;
+  transform: rotate(326deg);
+  display: none;
+}
+#heading1
+{
+  position: absolute;
+  width: 42%;
+  height: 12%;
+  top: 1%;
+  left: -0.5%;
+}
+#heading2
+{
+  position: absolute;
+  width: 42%;
+  height: 12%;
+  top: 1%;
+  left: -0.5%;
+}
+#heading3
+{
+  position: absolute;
+  width: 42%;
+  height: 12%;
+  top: 1%;
+  left: -0.5%;
+}
+#lableA
+{
+  position: absolute;
+  width: 5%;
+  height: 6%;
+  top: 48%;
+  left: 22%;
+  /* display: none; */
+}
+#lableB
+{
+  position: absolute;
+  width: 5%;
+  height: 6%;
+  top: 48%;
+  left: 48%;
+}
+#lableC
+{
+  position: absolute;
+  width: 5%;
+  height: 6%;
+  top: 47%;
+  left: 80%;
+}
+#lableV
+{
+  position: absolute;
+  width: 6%;
+  height: 5%;
+  top: 75%;
+  left: 52.5%;
+}
+#lableE
+{
+  position: absolute;
+  width: 6%;
+  height: 5%;
+  top: 19%;
+  left: 32.5%;
+}
+#lableK
+{
+  position: absolute;
+  width: 6%;
+  height: 5%;
+  top: 33%;
+  left: 86.5%;
+}
+#lableA1
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 40%;
+}
+#lableB1
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 59%;
+}
+#lableC1
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 82%;
+}
+#lableV1
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 57%;
+  left: 64.5%;
+}
+#lableE1
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 15%;
+  left: 38.5%;
+}
+#lableK1
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 29%;
+  left: 94.5%;
+}
+#board
+{
+  position: absolute;
+  width: 102%;
+  height: 104%;
+  top: -3%;
+  left: -1%;
+}
+#board1
+{
+  position: absolute;
+  width: 102%;
+  height: 104%;
+  top: -3%;
+  left: -1%;
+}
+#board2
+{
+  position: absolute;
+  width: 102%;
+  height: 104%;
+  top: -3%;
+  left: -1%;
+}
+#table100k
+{
+  position: absolute;
+  width: 85%;
+  height: 67%;
+  top: 19%;
+  left: 7.5%;
+}
+#table90k
+{
+  position: absolute;
+  width: 85%;
+  height: 67%;
+  top: 19%;
+  left: 7.5%;
+}
+#table125k
+{
+  position: absolute;
+  width: 85%;
+  height: 67%;
+  top: 19%;
+  left: 7.5%;
+}
+#Observation
+{
+  position: absolute;
+  width: 25%;
+  height: 11%;
+  top: 8%;
+  left: 39%;
+}
+#Observation1
+{
+  position: absolute;
+  width: 25%;
+  height: 11%;
+  top: 8%;
+  left: 39%;
+}
+#Observation2
+{
+  position: absolute;
+  width: 25%;
+  height: 11%;
+  top: 8%;
+  left: 39%;
+}
+#Note100KA
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note100KB
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note100KC
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note100KD
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note100KE
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note90KA
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note90KB
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note90KC
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note90KD
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note90KE
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note125KA
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note125KB
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note125KC
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note125KD
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#Note125KE
+{
+  position: absolute;
+  width: 35%;
+  height: 33%;
+  top: 14%;
+  left: 2%;
+  display: none;
+}
+#lableA2
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 40%;
+}
+#lableB2
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 59%;
+}
+#lableC2
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 82%;
+}
+#lableV2
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 57%;
+  left: 64.5%;
+}
+#lableE2
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 15%;
+  left: 38.5%;
+}
+#lableK2
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 29%;
+  left: 94.5%;
+}
+#lableA3
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 40%;
+}
+#lableB3
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 59%;
+}
+#lableC3
+{
+  position: absolute;
+  width: 4%;
+  height: 5%;
+  top: 43%;
+  left: 82%;
+}
+#lableV3
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 57%;
+  left: 64.5%;
+}
+#lableE3
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 15%;
+  left: 38.5%;
+}
+#lableK3
+{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  top: 29%;
+  left: 94.5%;
+}
+.terminals {
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  cursor: pointer;
+  border-radius: 5%;
+  background-color: #ff0000;
+  opacity: 0;
+}

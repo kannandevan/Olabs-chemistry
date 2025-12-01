@@ -1,0 +1,560 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.sim-buttons,.sim-footer,.sim-head,.sim-controls,.varBox,.varTitle,#bg,#bgOne,
+.trip-content,.labName,.mainTitle p,.main p,img{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.userSelect 
+{
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+
+.main p 
+{
+	overflow: visible;
+}
+/* .sim-footer 
+{
+    height: 10.8% !important;
+} */
+#reset
+{
+    position: absolute;
+    bottom: 18%;
+    left: 11%;
+    font-size: 1.1vw;
+}
+#bg
+{
+    position: absolute;
+	width: 100%;
+    height: 100%;
+}
+#page1Div
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+#page2Div
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#board
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#noteDiv 
+{
+  position: absolute;
+  left: 5%;
+  top: 25%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#intro
+{
+  font-size: 1.6vw;
+  max-width: 30%;
+  line-height: 138%;
+  color: aliceblue;
+  border-radius: 0%;
+}
+#noteObser
+{
+  position: absolute;
+  left: 5%;
+  top: 13%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#introObser
+{
+  font-size: 2vw;
+  max-width: 30%;
+  line-height: 138%;
+  color: aliceblue;
+  border-radius: 0%;
+}
+#standDiv
+{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    width: 20%;
+    height: 80%;
+    /* border: solid; */
+}
+#stand
+{
+    position: absolute;
+    top: 1%;
+    left: 0%;
+    width: 100%;
+    height: 98%;
+}
+#metalCan
+{
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    width: 40%;
+    height: 30%;
+}
+#standClip
+{
+    position: absolute;
+    top: 20%;
+    left: 4%;
+    width: 83%;
+    height: 12%;
+}
+#wireTwo
+{
+    position: absolute;
+    top: 10%;
+    left: 80%;
+    width: 50%;
+    height: 73%;
+    display: none;
+}
+#tapetoStick
+{
+    position: absolute;
+    top: 18%;
+    left: 72%;
+    width: 23%;
+    height: 7%;
+    display: none;
+}
+#standClipFront
+{
+    position: absolute;
+    top: 24%;
+    left: 43%;
+    width: 55%;
+    height: 5%;
+}
+#wireOne
+{
+    position: absolute;
+    top: 76%;
+    left: 22%;
+    width: 12%;
+    height: 12%;
+}
+#tape
+{
+    position: absolute;
+    top: 77%;
+    left: 36%;
+    width: 8%;
+    height: 10%;
+}
+#electroscope
+{
+    position: absolute;
+    top: 38%;
+    left: 47%;
+    width: 16%;
+    height: 50%;
+}
+#electroscopeMax
+{
+    position: absolute;
+    top: 38%;
+    left: 47%;
+    width: 16%;
+    height: 50%;
+    display: none;
+}
+#electroscopeMin
+{
+    position: absolute;
+    top: 38%;
+    left: 47%;
+    width: 16%;
+    height: 50%;
+    display: none;
+}
+#cloth
+{
+    position: absolute;
+    top: 77%;
+    left: 67%;
+    /* width: 16%; */
+    height: 10%;
+}
+#tbStandDiv
+{
+    position: absolute;
+    top: 60%;
+    left: 82%;
+    width: 13%;
+    height: 26%;
+    /* border: solid;  */
+}
+#glassrod
+{
+    position: absolute;
+    top: -25%;
+    left: 52%;
+    width: 8%;
+    height: 111%;
+}
+#glassrodOne
+{
+    position: absolute;
+    top: -25%;
+    left: 52%;
+    width: 8%;
+    height: 111%;
+    display: none;
+}
+#standUnder
+{
+    position: absolute;
+    top: 18%;
+    left: 11%;
+    /* width: 79%; */
+    height: 80%;
+}
+#standTop
+{
+    position: absolute;
+    top: 38%;
+    left: 28%;
+    /* width: 13%; */
+    height: 6%;
+}
+#standMetalLab
+{
+    position: absolute;
+    top: 89%;
+    left: 2%;
+    width: 16%;
+    height: 9%;
+}
+#wireLab
+{
+    position: absolute;
+    top: 88%;
+    left: 19%;
+    width: 13%;
+    height: 10%;
+}
+#tapeLab
+{
+    position: absolute;
+    top: 88%;
+    left: 33%;
+    width: 13%;
+    height: 10%;
+}
+#chargedelectLab
+{
+    position: absolute;
+    top: 89%;
+    left: 47%;
+    width: 17%;
+    height: 9%;
+}
+#silkclothLab
+{
+    position: absolute;
+    top: 88%;
+    left: 65%;
+    width: 15%;
+    height: 10%;
+}
+#glassrodLab
+{
+    position: absolute;
+    top: 88%;
+    left: 82%;
+    width: 15%;
+    height: 10%;
+}
+#handwithCloth
+{
+    position: absolute;
+    top: 0%;
+    left: 70%;
+    width: 30%;
+    height: 35%;
+    display: none;
+}
+#handAniDiv
+{
+    position: absolute;
+    top: 1%;
+    left: 60%;
+    width: 24%;
+    height: 40%;
+    /* border: solid;  */
+}
+.electrodeTouchAnimation
+{
+    position: absolute;
+    left: 70%;
+    top: 0%;
+    width: 30%;
+    height: 45%;
+    display: none;
+}
+.electrodeTouchMaxAnimation
+{
+    position: absolute;
+    left: 47%;
+    top: 38%;
+    width: 16.5%;
+    height: 50%;
+    display: none;
+}
+.electrodeTouchMinAnimation
+{
+    position: absolute;
+    left: 47%;
+    top: 38%;
+    width: 16.5%;
+    height: 50%;
+    display: none;
+}
+#handwithClothOne
+{
+    position: absolute;
+    top: 0%;
+    left: 75%;
+    width: 25%;
+    height: 25%;
+    display: none;
+}
+#electrodeDiv
+{
+    position: absolute;
+    top: 4%;
+    left: 43%;
+    width: 25%;
+    height: 40%;
+    /* border: solid;  */
+}
+#glassRodDiv
+{
+    position: absolute;
+    top: 43%;
+    left: 79%;
+    width: 20%;
+    height: 40%;
+    /* border: solid;  */
+    display: none;
+}
+#wireDiv
+{
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    width: 20%;
+    height: 47%;
+    /* border: solid;  */
+    display: none;
+}
+#tapeDiv
+{
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    width: 20%;
+    height: 47%;
+    /* border: solid;  */
+    display: none;
+}
+#standCanDiv
+{
+    position: absolute;
+    top: 0%;
+    left: 40%;
+    width: 30%;
+    height: 88%;
+    /* border: solid;  */
+    display: none;
+}
+#metalCanDummy
+{
+    position: absolute;
+    top: 24%;
+    left: 51.5%;
+    width: 10.5%;
+    height: 25.5%;
+    display: none;
+}
+#standClipDummy
+{
+    position: absolute;
+    top: 27%;
+    left: 37%;
+    width: 22%;
+    height: 10%;
+    display: none;
+}
+#wireTwoDummy
+{
+    position: absolute;
+    top: 19%;
+    left: 57%;
+    width: 13%;
+    height: 57%;
+    display: none;
+}
+#tapetoStickDummy
+{
+    position: absolute;
+    top: 25%;
+    left: 56%;
+    width: 4%;
+    height: 6%;
+    display: none;
+}
+#standClipFrontDummy
+{
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    width: 14%;
+    height: 4%;
+    display: none;
+}
+#handCanDiv
+{
+    position: absolute;
+    top: 0%;
+    left: 45%;
+    width: 25%;
+    height: 30%;
+    display: none;
+}
+#alertDiv{
+    position: absolute;
+    left: 0%;
+    top: 1%;
+    width: 48%;
+    background-color: lightgoldenrodyellow;
+    font-size: 1.2vw;
+    max-width: 38%;
+    border: 0.1vw solid;
+    padding: -1%;
+    box-shadow: 0.3vw 0.2vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    display: none;
+}
+#handCanDivHelp
+{
+    position: absolute;
+    top: 10%;
+    left: 69%;
+    width: 1%;
+    height: 1%;
+    /* border: solid; */
+}
+
+
+.glowBorder {
+    position: absolute;
+    top: 56%;
+    left: 46.5%;
+    width: 16.6%;
+    height: 20%;
+  /* line-height: 150%; */
+  background-color: transparent;
+  /* -webkit-border-radius: 60px;
+  border-radius: 66px; */
+  /* cursor: pointer; */
+  display: inline-block;
+  border-style: dotted;
+  border-width: 2px;
+  display: none;
+}
+@keyframes glowing 
+{
+  0% {
+    /* box-shadow: 0 0 5px #2ba805; */
+    box-shadow: 0 0 10px #FFFF33;
+  }
+    
+  50% {
+    /* box-shadow: 0 0 20px #49e819; */
+    box-shadow: 0 0 25px #FFFF00;
+  }
+    
+  100% {
+    /* box-shadow: 0 0 5px #2ba805; */
+    box-shadow: 0 0 10px #FFFF00;
+  }
+}
+.glowBorder
+{
+  animation: glowing 1300ms infinite;
+} 
+
+#labelGleaf
+{
+  position: absolute;
+  top: 57%;
+  left: 16%;
+  width: 30%;
+  height: 20%;
+  display: none;
+}
+#labelGleafMin
+{
+  position: absolute;
+  top: 57%;
+  left: 16%;
+  width: 30%;
+  height: 20%;
+  display: none;
+}
+

@@ -1,0 +1,209 @@
+@font-face {
+	font-family:DIGITAL;
+	src: url(Digiface.ttf);
+}
+/** Control.php */
+.varTitle {
+	padding: 5px 0px 2px 8px !important;
+}
+.varResult {
+	padding: 5px 0px 10px 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #000;
+	text-align:left;
+}
+#radius_value,#mass_value,#liquid_temp_value,#room_temp_value { 
+	margin-top: -18px; 
+}
+#radius_value{
+	margin-left: 150px; 
+}
+#mass_value{
+	margin-left: 132px; 
+}
+#liquid_temp_value{
+	margin-left: 75px; 
+}
+#room_temp_value{
+	margin-left: 153px; 
+}
+#radius_min,#mass_min,#liquid_temp_min,#room_temp_min {
+	margin-left: 14px; 
+}
+#radius_max { 
+	margin-left: 121px; 
+}
+#mass_max,#liquid_temp_max,#room_temp_max{ 
+	margin-left: 110px; 
+}
+
+/** Canvas.php */
+#container{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:570px;
+	height:337px;
+	overflow:hidden;
+	background:#FFF;
+	opacity:0.99;
+}
+#graph_area_bg{
+	position: absolute;
+	top: 10px;
+	left:10px;
+	width: 240px;
+    height: 178px;
+    border-radius: 5px;
+    background-color: #FFF;
+}
+#graph_hide{
+	position: absolute;
+	top: 10px;
+	left:10px;
+}
+#graph_area {	
+	position: absolute;
+    width: 236px;
+    height: 148px;
+    top: 37px;
+    left: 10px;
+}
+#graph_heading{
+    position: absolute;
+    font-family: Verdana sans-serif;
+    font-size: 15px;
+    color: #000;
+    top: 13px;
+    left: 64px;
+    padding: 3px;
+}
+#calorimeter_brown{
+	position:absolute;
+	top: 235px;
+    left: 243px;
+}
+#calorimeter_silver{
+	position:absolute;
+	top: 235px;
+    left: 243px;
+    opacity: 0;
+}
+#stirrer{
+	position: absolute;
+	top: 130px;
+    left: 258px;
+}
+#stirrer_holder{
+	position: absolute;
+     top: 146px;
+    left: 278px;
+}
+#thermometer{
+	position: absolute;
+	top: 20px;
+    left: 264px;
+}
+#top-wood{
+	position: absolute;
+	top: 215px;
+    left: 221px;
+}
+#solution_water{
+	position: absolute;
+	top: 258px;
+    left: 245px;
+}
+#solution_milk{
+	position: absolute;
+	top: 258px;
+    left: 245px;
+    opacity: 0;
+}
+#solution_oil{
+	position: absolute;
+	top: 258px;
+    left: 245px;
+    opacity: 0;
+}
+#apparatus_close{
+    position: absolute;
+    top: 227px;
+    left: 210px;
+}
+#stopwatch{
+	position: absolute;
+    top: 227px;
+    left: 13px;
+}
+#stopwatch_button{
+	position: absolute;
+    top: 295px;
+    left: 23px;
+    width: 98px;
+    height: 23px;
+    border-radius: 8px; 
+    cursor: pointer;
+}
+.watch_time{
+	position: absolute;
+	font-family: DIGITAL;
+    top: 260px;
+    font-weight: 800;
+    font-size: 22px;
+}
+#hours{	
+    left: 27px;
+}
+#minutes{
+    left: 67px;
+}
+#seconds{
+    left: 112px;
+}
+#zoom_scale_div{
+	position: absolute;
+	top: 9px;
+    left: 380px;
+    width: 121px;
+    height: 254px;
+    background-color: #324f23;
+    border-radius: 15px;
+    border:solid #FFF;
+    overflow: hidden;
+}
+#zoom_scale{
+	position: absolute;
+	top: -1774px; 
+    left: 34px;
+}
+#mercury{
+	position: absolute;
+	top: 77px;
+    left: 52px;
+    width: 16px;
+    height: 195px;
+    background-color: #FE0000;
+}
+#temperature_label{
+	position: absolute;
+	top: 276px;
+    left: 381px;
+    color: #FFF;
+}
+#temperature_value{
+	position: absolute;
+	top: 276px;
+    left: 475px;
+    color: #FFF;
+}
+.labelTextClass{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;		
+	word-wrap: break-word;
+	text-align:center;
+	padding-top: 5px;
+	font-weight: 600;
+}

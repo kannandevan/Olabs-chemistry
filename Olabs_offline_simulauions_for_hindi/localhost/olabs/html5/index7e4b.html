@@ -1,0 +1,399 @@
+
+
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=TDM&exp=demonstrationOfCapillaryRise&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:22:52 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+       
+    </style>
+    <title></title>
+    <link href="template/olabs_fs/css/mainstyle.css" rel="stylesheet" type="text/css" />
+    <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/Gettext.js"></script>
+
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/responsive.js"></script>
+    <script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/PHY/TDM/demonstrationOfCapillaryRise/";</script>
+<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
+<!-- <script language="javascript" type="text/javascript" src="./js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script> -->
+<link  href="../PHY/TDM/demonstrationOfCapillaryRise/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="#" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/QuestionExecutePackage.js"></script>
+<script language="javascript" type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/capillaryRise.js"></script>
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+
+<script language="javascript" type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+
+<script type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/simcontrols.js"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+
+
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/TDM/demonstrationOfCapillaryRise/locale/en-IN/LC_MESSAGES/messages.po' />  
+<!-- <script language="javascript" type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/jquery-1.12.4.js"></script> -->
+<!-- <script language="javascript" type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/jquery-ui.js"></script> -->
+<script type="text/javascript" src="../PHY/TDM/demonstrationOfCapillaryRise/js/Gettext.js"></script>
+<script language="javascript" type="text/javascript" src="js/touchconvert.js"></script>
+
+
+</head>
+<body>
+        <div class="sim-body"  oncontextmenu="return false">
+        <div class="flex-container flex-col w-full h-full flex-aligen-stretch">
+            <div class="sim-head" id="expName">
+            Array            </div>
+            <div class="sim-buttons flex-container flex-row-reverse ">
+                <button class="sim-btn" id="changeScreenBtn" data-translate>
+                    MAXIMIZE                </button>
+                <div class="sim-btn" id="simHelp" data-translate>
+                    HELP                </div>
+                <button class="sim-btn" id="simReset" data-translate>
+                    RESET                </button>
+            </div><div class="flex-container sim-interactive-area">
+    <div class="sim-controls">
+        <div class="control-div">
+            <div class="control-scroll-area">
+                <div class="saltBox control-box flex-container flex-col px-20">
+  <div class="varTitle">
+  </div>
+  <div class="flex-container flex-1 flex-col  w-full ">
+    <form action="http://localhost/action_page.php">
+
+      <div id="classifyType">
+        <h3 data-translate>Select the Method</h3>
+        <select id="actTypes" name="ActTypes">
+          <option value='slide' class="dropdown-item active" href="#" id="slide" data-translate>Using two slides</option>
+          <option value='cap' class="dropdown-item" href="#" id="cap" data-translate>Using capillary tubes</option>
+          </option>
+        </select>
+      </div>
+    </form>
+
+    <!-- ////////////////one cap end//////////////////// -->
+
+    <div id="secondPage">
+      <div id="temp" class="px-20 flex-container flex-col">
+        <h3 class="gapSize" data-translate>Select the Temperature, T &deg;C</h3>
+        <select id="tempValue" name="tempValue" class="tempValuecls" oninput="valueofTemp()">
+          <option value='10' class="dropdown-item" href="#">10</option>
+          <option value='20' class="dropdown-item" href="#">20</option>
+          <option value='30' class="dropdown-item" href="#">30</option>
+          <option value='40' class="dropdown-item" href="#">40</option>
+          <option value='60' class="dropdown-item" href="#">60</option>
+          <option value='80' class="dropdown-item" href="#">80</option>
+
+          </option>
+        </select>
+      </div>
+
+      <div id="resultData">
+        <table class="labelTab">
+          <tr>
+            <th class="headRig" data-translate>Density of Water, &rho;</th>
+            <td>=<span id="densityWater">999.7</span>kg/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <th class="headRig" data-translate>Surface Tension, s</th>
+            <td>=<span id="surfTens">0.07424</span>N/m</td>
+          </tr>
+          <tr>
+            <th class="headRig" data-translate>Acceleration due to gravity, g</th>
+            <td>=9.8m/s<sup>2</sup></td>
+          </tr>
+          <tr>
+            <th class="headRig">cos&theta;</th>
+            <td>=1</td>
+          </tr>
+          <tr id="radiusShow">
+            <th class="headRig" data-translate>Radius of capillary tube <span id="nameTag">A</span>, r</th>
+            <td>=<span id="radVal">0.05</span>mm</td>
+          </tr>
+          <tr>
+          <th class="headRig" data-translate>Height of capillary rise, h</th>
+            <td>=2scos&theta;/&rho;(r*10<sup>-3</sup>)g</span></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>=<span id="heightCalcValue"> </span></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>            </div>
+        </div>
+    </div>
+    <div class="sim-div">
+        <div class="sim-canvas">
+            <div id="mainDiv">
+   <img id="bg" src="../PHY/TDM/demonstrationOfCapillaryRise/images/bg.png" />
+   <div id="usingSlide">
+      <div id="slideArea"></div>
+      <div id="standArea"></div>
+      <div id="BottleArea"></div>
+      <div id="petriArea"></div>
+      <div id="rub" class="newRubAnimation1"></div>
+      <img id="rubname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/rubname.png" />
+      <img id="matname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/matname.png" />
+      <img id="petname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/petName.png" />
+      <img id="slidename" src="../PHY/TDM/demonstrationOfCapillaryRise/images/slideName.png" />
+      <img id="rodname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/rodName.png" />
+      <img id="spaname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/spaName.png" />
+
+      <div id="slideConn">
+         <img id="slideImg" src="../PHY/TDM/demonstrationOfCapillaryRise/images/glassSlide.png" />
+         <img id="slideImg2" src="../PHY/TDM/demonstrationOfCapillaryRise/images/glassSlide.png" />
+         <img id="slideImg3" src="../PHY/TDM/demonstrationOfCapillaryRise/images/jointRub.png" />
+         <img id="slideImgMat" src="../PHY/TDM/demonstrationOfCapillaryRise/images/glassmat.png" />
+         <img id="rubber" src="../PHY/TDM/demonstrationOfCapillaryRise/images/rubber.png" />
+         <img id="matchStick" src="../PHY/TDM/demonstrationOfCapillaryRise/images/matchstick%202.png" />
+      </div>
+      <img id="standbase" src="../PHY/TDM/demonstrationOfCapillaryRise/images/standBase.png" />
+      <div id="spatulaDivBehind">
+         <img id="spatulaBehind" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Spatula.png" />
+         <img id="spatulaPowderBehind" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potassium%20permanganate.png" />
+      </div>
+      <div id="chinaWater">
+         <img id="spatulaPowderPetri" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potassium%20permanganate.png" />
+         <img id="potashimg" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potash.png" />
+         <img id="water" src="../PHY/TDM/demonstrationOfCapillaryRise/images/water1.png" />
+         <img id="petriFront" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Petridish.png" />
+      </div>
+      <img id="waterRise" src="../PHY/TDM/demonstrationOfCapillaryRise/images/finalwaterd.png" />
+      <img id="waterRiseZoom" src="../PHY/TDM/demonstrationOfCapillaryRise/images/zoomFinal.png" />
+      <div id="waterRisingCol" class="newWatAnimation1"></div>
+      <div id="waterRisingColZoom" class="newWatAnimationZoom1"></div>
+      <div id="standBody">
+         <img id="slideImgMatStand" src="../PHY/TDM/demonstrationOfCapillaryRise/images/standSlide.png" />
+         <img id="frontclamp" src="../PHY/TDM/demonstrationOfCapillaryRise/images/clampFront.png" />
+         <img id="frontLock" src="../PHY/TDM/demonstrationOfCapillaryRise/images/lockfront.png" />
+         <img id="backclamp" src="../PHY/TDM/demonstrationOfCapillaryRise/images/standHoriz.png" />
+      </div>
+      <div id="spatulaDiv">
+         <img id="spatula" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Spatula.png" />
+         <img id="spatulaPowder" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potassium%20permanganate.png" />
+      </div>
+      <div id="bottleFull">
+         <img id="bottle" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Potassium.png" />
+         <img id="bottleCap" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Bottle%20Cap.png" />
+      </div>
+      <img id="glassrod" src="../PHY/TDM/demonstrationOfCapillaryRise/images/GlassRod.png" />
+      <img id="inference" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Inference.png" />
+     
+   </div>
+   <div id="usingCap">
+   <img id="rodnameTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/rodName.png" />
+      <img id="dishname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/dishName.png" />
+      <img id="clampname" src="../PHY/TDM/demonstrationOfCapillaryRise/images/clampName.png" />
+      <img id="spanameTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/spaName.png" />
+
+      <img id="inferenceCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Inference.png" />
+      <div id="waterRisingCap" class="newWatAnimationCap1"></div>
+      <div class="capillaryTubes" id="capillOne" onclick="change(0.05)"></div>
+      <div class="capillaryTubes" id="capillTwo" onclick="change(0.1)"></div>
+      <div class="capillaryTubes" id="capillThree" onclick="change(0.4)"></div>
+      <div class="capillaryTubes" id="capillFour" onclick="change(0.6)"></div>
+      <div class="capillaryTubes" id="capillFive" onclick="change(1)"></div>
+      <div class="capillaryTubes" id="capillSix" onclick="change(1.4)"></div>
+      <div id="BottleAreaCapill"></div>
+      <div id="standAreaCapill"></div>
+      <div id="chinaArea"></div>
+      <img id="standSecondOne" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand1.png" />
+      <img id="standSecondTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand1.png" />
+      <img id="clampOne" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand%20011.png" />
+      <img id="clampTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand%2001.png" />
+      <div id="clamp1whole">
+         <img id="standSecondOneLockFront" src="../PHY/TDM/demonstrationOfCapillaryRise/images/lockfront.png" />
+         <img id="clampOneTop" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand%20011.png" />
+         <img id="standSecondOneLockBack" src="../PHY/TDM/demonstrationOfCapillaryRise/images/lockback.png" />
+      </div>
+      <div id="clamp2whole">
+         <img id="standSecondTwoLockFront" src="../PHY/TDM/demonstrationOfCapillaryRise/images/lockfront.png" />
+         <img id="clampTwoTop" src="../PHY/TDM/demonstrationOfCapillaryRise/images/stand%2001.png" />
+         <img id="standSecondTwoLockBack" src="../PHY/TDM/demonstrationOfCapillaryRise/images/lockback.png" />
+      </div>
+      <div id="spatulaDivCapill">
+         <img id="spatulaCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Spatula.png" />
+         <img id="spatulaPowderCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potassium%20permanganate.png" />
+      </div>
+      <div id="spatulaDivBehindCapill">
+         <img id="spatulaBehindCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Spatula.png" />
+         <img id="spatulaPowderBehindCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potassium%20permanganate.png" />
+      </div>
+      <div id="bottleFullCapill">
+         <img id="bottleCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Potassium.png" />
+         <img id="capCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Bottle%20Cap.png" />
+      </div>
+      <img id="glassrodCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/GlassRod.png" />
+      <img id="potashimgCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/potash.png" />
+      <img id="chinaBack" src="../PHY/TDM/demonstrationOfCapillaryRise/images/Chinadishback.png" />
+      <img id="chinaDishWaterCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/ChinadishNew.png" />
+      <img id="chinaDishPotCapill" src="../PHY/TDM/demonstrationOfCapillaryRise/images/ChinadishNew.png" />
+      <img id="capilRisefinal" src="../PHY/TDM/demonstrationOfCapillaryRise/images/capfinal.png" />
+      <div id="scaleDiv">
+        <img id="planeScale" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+        <img id="nameBoardScale" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scaleBoard.png" />
+      </div>
+      <div id="scaleDropArea"></div>
+      <img id="noteDiv" src="../PHY/TDM/demonstrationOfCapillaryRise/images/note.png"/>
+
+      <!-- /////////////////////////////zoomimage one//////////////////////////////////////////// -->
+      <div id="zoomOutImgOne">
+         <img id="BackScaleOne" src="../PHY/TDM/demonstrationOfCapillaryRise/images/1.png" />
+         <div id="scalevalOne">
+            <img id="FrontScaleOne" src="../PHY/TDM/demonstrationOfCapillaryRise/images/01.png" />
+            <img id="ScaleOne" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusOneVal">Height: <span id="heightCalcValueRad"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage one//////////////////////////////////////////// -->
+      <!-- /////////////////////////////zoomimage two//////////////////////////////////////////// -->
+      <div id="zoomOutImgTwo">
+         <img id="BackScaleTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/2.png" />
+         <div id="scalevalTwo">
+            <img id="FrontScaleTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/02.png" />
+            <img id="ScaleTwo" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusTwoVal">Height: <span id="heightCalcValueRadOne"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage two//////////////////////////////////////////// -->
+      <!-- /////////////////////////////zoomimage three//////////////////////////////////////////// -->
+      <div id="zoomOutImgThree">
+         <img id="BackScaleThree" src="../PHY/TDM/demonstrationOfCapillaryRise/images/3.png" />
+         <div id="scalevalThree">
+            <img id="FrontScaleThree" src="../PHY/TDM/demonstrationOfCapillaryRise/images/03.png" />
+            <img id="ScaleThree" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusThreeVal">Height: <span id="heightCalcValueRadTwo"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage three//////////////////////////////////////////// -->
+      <!-- /////////////////////////////zoomimage four//////////////////////////////////////////// -->
+      <div id="zoomOutImgFour">
+         <img id="BackScaleFour" src="../PHY/TDM/demonstrationOfCapillaryRise/images/4.png" />
+         <div id="scalevalFour">
+            <img id="FrontScaleFour" src="../PHY/TDM/demonstrationOfCapillaryRise/images/04.png" />
+            <img id="ScaleFour" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusFourVal">Height: <span id="heightCalcValueRadThree"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage four//////////////////////////////////////////// -->
+      <!-- /////////////////////////////zoomimage five//////////////////////////////////////////// -->
+      <div id="zoomOutImgFive">
+         <img id="BackScaleFive" src="../PHY/TDM/demonstrationOfCapillaryRise/images/5.png" />
+         <div id="scalevalFive">
+            <img id="FrontScaleFive" src="../PHY/TDM/demonstrationOfCapillaryRise/images/05.png" />
+            <img id="ScaleFive" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusFiveVal">Height: <span id="heightCalcValueRadFour"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage five//////////////////////////////////////////// -->
+      <!-- /////////////////////////////zoomimage six//////////////////////////////////////////// -->
+      <div id="zoomOutImgSix">
+         <img id="BackScaleSix" src="../PHY/TDM/demonstrationOfCapillaryRise/images/6.png" />
+         <div id="scalevalSix">
+            <img id="FrontScaleSix" src="../PHY/TDM/demonstrationOfCapillaryRise/images/06.png" />
+            <img id="ScaleSix" src="../PHY/TDM/demonstrationOfCapillaryRise/images/scale.png" />
+         </div>
+         <div id="radiusSixVal">Height: <span id="heightCalcValueRadFive"></span></div>
+      </div>
+      <!-- /////////////////////////////zoomimage six//////////////////////////////////////////// -->
+
+   </div>
+</div>        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ var expTitle="Demonstration of Capillary Rise";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>
+
+
+<div class="sim-footer flex-container  flex-center">
+    <!-- <div class="flex-align-center">Developed by Amrita University under research grant from<br>
+        Department Of Electronics & Information Technology</div> -->
+    <div class="flex-align-center" data-translate>Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India</div>
+    <div class="flex-container flex-row-reverse flex-1" class=" flex-end">
+        <img src="template/olabs_fs/images/dit_logo.gif" alt="Olabs">
+    </div>
+</div>
+<div class="sim-alert-overlay">
+    <div class="sim-alert">
+        <div class="sim-alert-heading" data-translate>Alert</div>
+        <div class="sim-alert-body">
+            <p data-translate>Do you want to reset the simulation</p>
+            <button class="reset" data-translate>Yes</button>
+            <button id="simResetCancel" data-translate>No</button>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=TDM&exp=demonstrationOfCapillaryRise&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:23:30 GMT -->
+</html>
+<script>
+
+</script>
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+    Updated : 27-12-2022 
+        - Reset button
+ -->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

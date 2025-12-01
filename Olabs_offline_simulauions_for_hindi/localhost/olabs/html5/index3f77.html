@@ -1,0 +1,329 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=TDM&exp=NewtonsLawOfCooling&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:07:42 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<link  href="../PHY/TDM/NewtonsLawOfCooling/css/simstyle.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript">
+	var simPath="http://localhost/olabs/PHY/TDM/NewtonsLawOfCooling/";
+</script>
+<script language="javascript" type="text/javascript" src="js/jquery.i18n.js"></script>
+<script src="../PHY/TDM/NewtonsLawOfCooling/js/canvasjs.min.js" language="javascript"></script>
+<script type="text/javascript" src="../PHY/TDM/NewtonsLawOfCooling/js/help.js"></script>
+<script type="text/javascript" src="../PHY/TDM/NewtonsLawOfCooling/js/simcontrols.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript"  >
+var language_script= 'en-IN';
+var language=language_script.toString();
+	language=language.slice(0, 2);
+	var gt=$;
+	gt.gettext.setLocale(language);
+</script>
+<script type='text/javascript'  src='../PHY/TDM/NewtonsLawOfCooling/locale/en-IN/language.js'></script>  
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+	<!-- Simulation main area-->  
+<div id="container">  	
+	<img id="bg" src="../PHY/TDM/NewtonsLawOfCooling/images/bg.jpg" /> <!-- Background-->  
+	<!--Graph content displaying div-->
+	<div id="graph_area_bg"></div>
+	<div id="graph_area"></div>
+	<p id="graph_heading"></p>
+	<img id="graph_hide" src="../PHY/TDM/NewtonsLawOfCooling/images/graph_hide.jpg" /> <!-- graph hide part --> 
+	<img id="calorimeter_brown" src="../PHY/TDM/NewtonsLawOfCooling/images/calorimeter_brown.png" /> <!-- Calorimeter brown  --> 
+	<img id="calorimeter_silver" src="../PHY/TDM/NewtonsLawOfCooling/images/calorimeter_silver.png" /> <!-- Calorimeter silver  --> 
+	<img id="stirrer" src="../PHY/TDM/NewtonsLawOfCooling/images/stirrer.png" /> <!-- Stirrer -->		
+	<img id="stirrer_holder" src="../PHY/TDM/NewtonsLawOfCooling/images/stirrer_holder.png" /> <!-- Stirrer holder -->
+	<img id="thermometer" src="../PHY/TDM/NewtonsLawOfCooling/images/thermometer.png" /> <!-- Thermometer -->	
+	<img id="top-wood" src="../PHY/TDM/NewtonsLawOfCooling/images/top-wood.png" /> <!-- Top wood  --> 	
+	<img id="solution_water" src="../PHY/TDM/NewtonsLawOfCooling/images/solution_water.png" /> <!-- Water  --> 
+	<img id="solution_milk" src="../PHY/TDM/NewtonsLawOfCooling/images/solution_milk.png" /> <!-- Milk  --> 
+	<img id="solution_oil" src="../PHY/TDM/NewtonsLawOfCooling/images/solution_oil.png" /> <!-- Oil  --> 
+	<img id="apparatus_close" src="../PHY/TDM/NewtonsLawOfCooling/images/apparatus_close.png" /> <!-- Apparatus close --> 	
+	<img id="stopwatch" src="../PHY/TDM/NewtonsLawOfCooling/images/stopwatch.png" /> <!-- Stopwatch --> 	
+	<p class="varTitle watch_time" id="hours">00</p><!-- hours --> 	
+	<p class="varTitle watch_time" id="minutes">00</p><!-- Minutes --> 	
+	<p class="varTitle watch_time" id="seconds">00</p><!-- Seconds --> 
+	<div id="stopwatch_button"><!-- Stopwatch label -->
+		<p class="labelTextClass" id="stopwatch_button_label"></p>
+	</div>
+	<div id="zoom_scale_div"><!-- Zoom part --> 
+		<div id="mercury"></div>
+		<img id="zoom_scale" src="../PHY/TDM/NewtonsLawOfCooling/images/zoom_scale.png" />
+	</div>
+	<p class="labelTextClass" id="temperature_label"></p><p class="labelTextClass" id="temperature_value">12.0 °C</p><!-- Temperature --> 
+</div>
+
+
+
+
+</div>
+</div>
+<div class="g198 controlHolder">
+	<div class="nano has-scrollbar">
+		<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+	<li>	
+        <div class="varBox">
+
+            <p class="varTitle">
+                 <!-- Materials dropdown  label -->
+                <span id="select_material_label"></span><span>:</span>
+                 <!-- Material dropbox -->
+                <select class="dropBox" id="material_dropdown" ></select>
+            </p>
+            <!-- Radius of calorimeter slider label -->
+            <p id="radius_label" class="varTitle"></p>
+            <p id="radius_value" class="varTitle">2 </p> 
+            <!-- Radius of calorimeter slider-->
+            <p class="varTitle">
+                <input type="range" class="rangeSlider" id="radius_slider" min="2" max="5" value="2" step="0.5" />
+            </p>
+            <!-- Radius slider values-->     
+            <span id="radius_min" class="varTitle">2</span>
+            <span id="radius_max" class="varTitle">5</span>
+            <!-- Mass of calorimeter slider label -->
+            <p id="mass_label" class="varTitle"></p>
+            <p id="mass_value" class="varTitle">50</p> 
+            <!-- Mass of calorimeter slider -->
+            <p class="varTitle">
+                <input type="range" class="rangeSlider" id="mass_slider" min="50" max="80"  value="50" step="1" />
+            </p>
+            <!-- Mass slider values-->     
+            <span id="mass_min" class="varTitle">50</span>
+            <span id="mass_max" class="varTitle">80</span>
+            <p class="varTitle">
+                 <!-- Liquids dropbox label -->
+                <span id="select_liquid_label"></span><span>:</span>
+                 <!-- Liquid dropbox -->
+                <select class="dropBox" id="liquids" ></select>
+            </p> 
+            <!-- Liquid temperature slider label -->
+            <p id="liquid_temp_label" class="varTitle"></p>
+            <p id="liquid_temp_value" class="varTitle">12</p> 
+            <!-- Liquid temperature slider -->
+            <p class="varTitle">
+                <input type="range" class="rangeSlider" id="liquid_temp_slider" min="12" max="100"  value="12" step="1" />
+            </p>
+            <!-- Liquid temperature slider values-->     
+            <span id="liquid_temp_min" class="varTitle">12</span>
+            <span id="liquid_temp_max" class="varTitle">100</span>
+            <!-- Room temperature slider label -->
+            <p id="room_temp_label" class="varTitle"></p>
+            <p id="room_temp_value" class="varTitle">10</p> 
+            <!-- Room temperature slider -->
+            <p class="varTitle">
+                <input type="range" class="rangeSlider" id="room_temp_slider" min="10" max="11"  value="10" step="1" />
+            </p>
+             <!-- Room temperature slider values-->     
+            <span id="room_temp_min" class="varTitle">10</span>
+            <span id="room_temp_max" class="varTitle">11</span>
+            <br>          
+            <!-- Show graph-->
+            <p class="varTitle" ><input type="checkbox" id="show_graph" /><span id="show_graph_label"></span></p>
+            <!-- Cross section-->
+            <p class="varTitle" ><input type="checkbox" id="cross_section" /><span id="cross_section_label"></span></p>   
+           
+            <!--Loading result options-->
+            <p class="varResult"><U><span id="result_label"></span></U></p>    
+
+            <p id="mass_liquid_label" class="varTitle"></p>
+            <p class="varTitle"><span id="heat_liquid_label"></span><span id="heat_liquid_val">4.19</span><span> KJ/KgK</span></p>
+            <p class="varTitle"><span id="heat_calorimetry_label"></span><span id="heat_calorimetry_val">0.38</span><span> KJ/KgK</span></p>
+            <p class="varTitle"><span id="heat_coef_label"></span><span id="heat_coef_val">109</span><span> W/m.K</span></p>
+            <br>          
+            <!-- Reset  button-->  
+            <p align="center" >
+                <input type="button" class="subButton scale" id="reset_button"  onclick="window.location.reload();"  /> 
+            </p> 
+            <br>          
+        </div>
+	</li>
+</ul>  
+
+	</div>
+</div>
+<script type="text/javascript">
+ var expTitle="Thermochemistry";
+ document.getElementById("expName").innerHTML=expTitle;
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=TDM&exp=NewtonsLawOfCooling&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:07:49 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

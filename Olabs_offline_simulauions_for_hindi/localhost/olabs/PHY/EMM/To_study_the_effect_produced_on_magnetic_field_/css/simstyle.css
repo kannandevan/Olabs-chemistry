@@ -1,0 +1,1805 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(../../To_study_the_effect_produced_on_magnetic_field_pattern_by_bringing_various_materials_in_the_surrounding_space_of_a_bar_magnet/css/MRKGPEN.TTF);
+}
+.sim-buttons,.sim-footer,.sim-head,.sim-controls,.varBox,.varTitle,#bg,#bgOne,
+.trip-content,.labName,.mainTitle p,.main p,img{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.userSelect 
+{
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+
+.main p 
+{
+	overflow: visible;
+}
+/* .sim-footer 
+{
+    height: 10.8% !important;
+} */
+#reset
+{
+    position: absolute;
+    bottom: 18%;
+    left: 11%;
+    font-size: 1.1vw;
+}
+#bg
+{
+    position: absolute;
+	width: 100%;
+    height: 100%;
+}
+#page1Div
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+#board
+{
+    position: absolute;
+    top: 28%;
+    left: 16%;
+    width: 36%;
+    height: 40%;
+}
+#paper
+{
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 90%;
+}
+#candle
+{
+    position: absolute;
+    top: 15%;
+    left: 91%;
+    width: 6%;
+    height: 52%; 
+}
+#compusDiv
+{
+    position: absolute;
+    top: 53%;
+    left: 3%;
+    width: 10%;
+    height: 15%;
+    /* border: solid; */
+}
+#compus
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+}
+#cNeedle
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+}
+#magnet
+{
+    position: absolute;
+    top: 82%;
+    left: 84%;
+    width: 15%;
+    height: 10%;
+}
+#iornRod
+{
+    position: absolute;
+    top: 85%;
+    left: 1%;
+    width: 11%;
+    height: 5%;
+}
+#copperRod
+{
+    position: absolute;
+    top: 85%;
+    left: 16%;
+    width: 11%;
+    height: 5%;
+}
+#plastic
+{
+    position: absolute;
+    top: 85%;
+    left: 71%;
+    width: 11%;
+    height: 5%;
+}
+#candleDiv
+{
+    position: absolute;
+    top: 2%;
+    left: 54%;
+    width: 32%;
+    height: 67%;
+    /* border: solid; */
+}
+#candleOne
+{
+    position: absolute;
+    top: -3%;
+    left: 55%;
+    width: 18%;
+    height: 13%;
+    display: none;
+}
+.candledropAnimation
+{
+    position: absolute;
+    left: 56.5%;
+    top: 3.5%;
+    width: 4%;
+    height: 36%;
+    display: none;
+}
+.candledropAnimationTwo
+{
+    position: absolute;
+    left: 79.5%;
+    top: 3.5%;
+    width: 4%;
+    height: 36%;
+    display: none;
+}
+#canDrop
+{
+    position: absolute;
+    left: 9%;
+    top: 17%;
+    width: 8%;
+    height: 10%;
+    display: none;
+}
+#canDropTwo
+{
+    position: absolute;
+    left: 81%;
+    top: 15%;
+    width: 8%;
+    height: 10%;
+    display: none;
+}
+#canDropThre
+{
+    position: absolute;
+    left: 85%;
+    top: 84.5%;
+    width: 9%;
+    height: 13%;
+    display: none;
+}
+#canDropfour
+{
+    position: absolute;
+    left: 4%;
+    top: 84.5%;
+    width: 9%;
+    height: 13%;
+    display: none; 
+}
+#paperDropDiv
+{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    width: 32%;
+    height: 42%;
+    /* border: solid; */
+}
+#papersetDiv
+{
+    position: absolute;
+    top: 2%;
+    left: 17%;
+    width: 34%;
+    height: 62%;
+    /* border: solid; */
+}
+#paperOne
+{
+    position: absolute;
+    top: 28%;
+    left: 22%;
+    width: 61%;
+    height: 48%;
+    display: none;
+}
+#markerDiv
+{
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    width: 55%;
+    height: 65%;
+    display: none;
+}
+#marker
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+}
+#markerOne
+{
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#markerTwo
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#verLine
+{
+    position: absolute;
+    top: 28%;
+    left: 51%;
+    width: 1%;
+    height: 48%;
+    display: none;
+}
+#horLine
+{
+    position: absolute;
+    top: 51%;
+    left: 24%;
+    width: 56%;
+    height: 3%;
+    display: none;
+}
+#nsBoard
+{
+    position: absolute;
+    top: 26%;
+    left: 20%;
+    width: 63%;
+    height: 56%;
+    display: none;
+}
+#nsBoardOne
+{
+    position: absolute;
+    top: 26%;
+    left: 20%;
+    width: 63%;
+    height: 56%;
+    display: none;
+}
+#nsBoardTwo
+{
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    width: 70%;
+    height: 73%;
+    display: none;
+}
+.boardRotateAnimation
+{
+    position: absolute;
+    left: 13%;
+    top: 20%;
+    width: 76%;
+    height: 71%;
+    display: none;
+}
+.ironlineSNPenAnimation
+{
+    position: absolute;
+    left: 14%;
+    top: 1%;
+    width: 74%;
+    height: 94%;
+    display: none;
+}
+.copperlineSNPenAnimation
+{
+    position: absolute;
+    left: 15%;
+    top: 1%;
+    width: 70%;
+    height: 94%;
+    display: none;
+}
+.plasticlineSNPenAnimation
+{
+    position: absolute;
+    left: 15%;
+    top: 1%;
+    width: 70%;
+    height: 94%;
+    display: none;
+}
+#magnetDiv
+{
+    position: absolute;
+    top: 27%;
+    left: 25%;
+    width: 55%;
+    height: 50%;
+    /* border: solid; */
+    display: none;
+}
+#compusDivOne
+{
+    position: absolute;
+    top: 53%;
+    left: 3%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusOne
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleOne
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    /* display: none; */
+}
+#blackdotOne
+{
+    position: absolute;
+    top: 68%;
+    left: 69%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwoTwo
+{
+    position: absolute;
+    top: 50.5%;
+    left: 69%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwo
+{
+    position: absolute;
+    top: 61%;
+    left: 70%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwo
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwo
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(160deg);
+    /* display: none; */
+}
+#blackdotTwo
+{
+    position: absolute;
+    top: 70%;
+    left: 54.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerThree
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivThree
+{
+    position: absolute;
+    top: 64%;
+    left: 55%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusThree
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleThree
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(170deg);
+    /* display: none; */
+}
+#blackdotThree
+{
+    position: absolute;
+    top: 69%;
+    left: 37.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerFour
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivFour
+{
+    position: absolute;
+    top: 64%;
+    left: 38%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusFour
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleFour
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(180deg);
+    /* display: none; */
+}
+#blackdotFour
+{
+    position: absolute;
+    top: 62%;
+    left: 26%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerFive
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivFive
+{
+    position: absolute;
+    top: 60%;
+    left: 26%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusFive
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleFive
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(210deg);
+    /* display: none; */
+}
+#blackdotFive
+{
+    position: absolute;
+    top: 72%;
+    left: 72.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerSix
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivSix
+{
+    position: absolute;
+    top: 60%;
+    left: 72%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusSix
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleSix 
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(130deg);
+    /* display: none; */
+}
+#blackdotSix
+{
+    position: absolute;
+    top: 77%;
+    left: 61.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerSev
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivSev
+{
+    position: absolute;
+    top: 70%;
+    left: 62%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusSev
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleSev
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(165deg);
+    /* display: none; */
+}
+#blackdotSev
+{
+    position: absolute;
+    top: 76%;
+    left: 43.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerEig
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivEig
+{
+    position: absolute;
+    top: 70%;
+    left: 44%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusEig
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleEig
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(180deg);
+    /* display: none; */
+}
+#blackdotEig
+{
+    position: absolute;
+    top: 73%;
+    left: 31.8%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#blackdotNin
+{
+    position: absolute;
+    top: 61%;
+    left: 23.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerNin
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivNin
+{
+    position: absolute;
+    top: 70%;
+    left: 32%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusNin
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleNin
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(193deg);
+    /* display: none; */
+}
+#blackdotTen
+{
+    position: absolute;
+    top: 39%;
+    left: 69%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTen
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTen
+{
+    position: absolute;
+    top: 60%;
+    left: 23%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTen
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTen
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(215deg);
+    /* display: none; */
+}
+#blackdotEle
+{
+    position: absolute;
+    top: 37%;
+    left: 54.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerEle
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivEle
+{
+    position: absolute;
+    left: 69%;
+    top: 36%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusEle
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleEle
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(195deg);
+    /* display: none; */
+}
+#blackdotThir
+{
+    position: absolute;
+    top: 39%;
+    left: 37.8%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwl
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwl
+{
+    position: absolute;
+    left: 55%;
+    top: 33%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwl
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwl
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(188deg);
+    /* display: none; */
+}
+#blackdotForte
+{
+    position: absolute;
+    top: 45%;
+    left: 26%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerThir
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivThir
+{
+    position: absolute;
+    left: 38%;
+    top: 33%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusThir
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleThir
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(165deg);
+    /* display: none; */
+}
+#blackdotFifen
+{
+    position: absolute;
+    top: 34%;
+    left: 70.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerForte
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivForte
+{
+    position: absolute;
+    left: 26%;
+    top: 36%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusForte
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleForte
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(150deg);
+    /* display: none; */
+}
+#blackdotSixten
+{
+    position: absolute;
+    top: 32%;
+    left: 61.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerFifen
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivFifen
+{
+    position: absolute;
+    left: 71%;
+    top: 32%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusFifen
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleFifen
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(199deg);
+    /* display: none; */
+}
+#blackdotSevten
+{
+    position: absolute;
+    top: 33%;
+    left: 43.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerSixten
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivSixten
+{
+    position: absolute;
+    left: 62%;
+    top: 26%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusSixten
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleSixten
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(175deg);
+    /* display: none; */
+}
+#blackdotEigten
+{
+    position: absolute;
+    top: 36%;
+    left: 32%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerSevten
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivSevten
+{
+    position: absolute;
+    left: 44%;
+    top: 26%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusSevten
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleSevten
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(167deg);
+    /* display: none; */
+}
+#blackdotNinten
+{
+    position: absolute;
+    top: 46%;
+    left: 23.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerEigten
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivEigten
+{
+    position: absolute;
+    left: 32%;
+    top: 26%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusEigten
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleEigten
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(147deg);
+    /* display: none; */
+}
+#markerNinten
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivNinten
+{
+    position: absolute;
+    top: 53%;
+    left: 3%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusNinten
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleNinten
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    /* transform: rotate(147deg); */
+    /* display: none; */
+}
+.lineSNPenAnimation
+{
+    position: absolute;
+    left: 15%;
+    top: 6%;
+    width: 70%;
+    height: 90%;
+    display: none;
+}
+#iornDiv
+{
+    position: absolute;
+    left: 18%;
+    top: 24%;
+    width: 64%;
+    height: 65%;
+    /* border: solid; */
+    display: none;
+}
+#copperDiv
+{
+    position: absolute;
+    left: 18%;
+    top: 24%;
+    width: 64%;
+    height: 65%;
+    /* border: solid; */
+    display: none;
+}
+#plasticDiv
+{
+    position: absolute;
+    left: 18%;
+    top: 24%;
+    width: 64%;
+    height: 65%;
+    /* border: solid; */
+    display: none;
+}
+#iornRodOne
+{
+    position: absolute;
+    left: 63%;
+    top: 74%;
+    width: 8%;
+    height: 6%;
+    transform: rotate(158deg);
+    /* border: solid; */
+    display: none;
+}
+#markerTwenty
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#blackdotTwenty
+{
+    position: absolute;
+    top: 70%;
+    left: 70.8%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#compusDivTwenty
+{
+    position: absolute;
+    top: 53%;
+    left: 3%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwenty
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwenty
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    /* transform: rotate(147deg); */
+    /* display: none; */
+}
+#markerTwOne
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwOne
+{
+    position: absolute;
+    top: 60%;
+    left: 71%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwOne
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwOne
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(150deg);
+    /* display: none; */
+}
+#blackdotTwOne
+{
+    position: absolute;
+    top: 83%;
+    left: 62%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#blackdotTwTwo
+{
+    position: absolute;
+    top: 83%;
+    left: 53.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwTwo
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwTwo
+{
+    position: absolute;
+    top: 80%;
+    left: 63%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwTwo
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwTwo
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(197deg);
+    /* display: none; */
+}
+#blackdotTwThr
+{
+    position: absolute;
+    top: 81%;
+    left: 36.8%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwThr
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwThr
+{
+    position: absolute;
+    top: 77%;
+    left: 54%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwThr
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwThr
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(175deg);
+    /* display: none; */
+}
+#blackdotTwFor
+{
+    position: absolute;
+    top: 72%;
+    left: 24.5%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwFor
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwFor
+{
+    position: absolute;
+    top: 77%;
+    left: 37%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwFor
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwFor
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(185deg);
+    /* display: none; */
+}
+#blackdotTwFiv
+{
+    position: absolute;
+    top: 60%;
+    left: 22%;
+    width: 1%;
+    height: 2%;
+    display: none;
+}
+#markerTwFiv
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwFiv
+{
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwFiv
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwFiv
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    transform: rotate(200deg);
+    /* display: none; */
+}
+#markerTwSix
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#compusDivTwSix
+{
+    position: absolute;
+    top: 53%;
+    left: 3%;
+    width: 7%;
+    height: 12%;
+    /* border: solid; */
+    display: none;
+}
+#compusTwSix
+{
+    position: absolute;
+    top: -5%;
+    left: 3%;
+    width: 97%;
+    height: 114%;
+    /* display: none; */
+}
+#cNeedleTwSix
+{
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    width: 75%;
+    height: 14%;
+    /* display: none; */
+}
+#markerTwSev
+{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 16%;
+    height: 20%;
+    display: none;
+}
+#markLab
+{
+    position: absolute;
+    top: 45%;
+    left: 1%;
+    width: 14%;
+    height: 5.5%;
+}
+#comLab
+{
+    position: absolute;
+    top: 68%;
+    left: 1%;
+    width: 14%;
+    height: 6%;
+}
+#drBorLab
+{
+    position: absolute;
+    top: 70%;
+    left: 24%;
+    width: 20%;
+    height: 6.5%;
+}
+#sheetlab
+{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    width: 20%;
+    height: 6%;
+}
+#candLab
+{
+    position: absolute;
+    top: 70%;
+    left: 89%;
+    width: 10%;
+    height: 6%;
+}
+#ironLab
+{
+    position: absolute;
+    top: 92%;
+    left: 0.5%;
+    width: 12%;
+    height: 6%;
+}
+#copLab
+{
+    position: absolute;
+    top: 92%;
+    left: 15%;
+    width: 13%;
+    height: 6%;
+}
+#plasLab
+{
+    position: absolute;
+    top: 92%;
+    left: 70%;
+    width: 13%;
+    height: 6%;
+}
+#magLab
+{
+    position: absolute;
+    top: 93%;
+    left: 85%;
+    width: 13%;
+    height: 5.5%;
+}
+#page2Div
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#blackBoard
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#noteDiv 
+{
+  position: absolute;
+  left: 5%;
+  top: 25%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#intro
+{
+  font-size: 1.8vw;
+  max-width: 30%;
+  line-height: 138%;
+  color: aliceblue;
+  border-radius: 0%;
+}
+#noteObser
+{
+  position: absolute;
+  left: 5%;
+  top: 13%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#introObser
+{
+  font-size: 2vw;
+  max-width: 30%;
+  line-height: 138%;
+  color: aliceblue;
+  border-radius: 0%;
+}
+#candleHelpDiv
+{
+    position: absolute;
+    top: 46%;
+    left: 92%;
+    width: 1%;
+    height: 1%;
+    /* border: solid; */
+}
+#noteOne
+{
+    position: absolute;
+    left: 31%;
+    top: 1%;
+    width: 80%;
+    max-width: 43.5%;
+    font-size: 132%;
+    /* font-style: oblique; */
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%); 
+    /* background-color: transparent; */
+    display: inline-block;
+    /* border-style: dotted; */
+} 
+#LabnoteOne
+{
+  font-size: 1.4vw;
+  max-width: 30%;
+  line-height: 165%;
+  color: black;
+  border-radius: 0%;
+  border-width: 2px;
+  display: none;
+}
+@keyframes glowing 
+{
+  0% {
+    /* box-shadow: 0 0 5px #2ba805; */
+    box-shadow: 0 0 10px #0afa01;
+  }
+    
+  50% {
+    /* box-shadow: 0 0 20px #49e819; */
+    box-shadow: 0 0 25px #3df847;
+  }
+    
+  100% {
+    /* box-shadow: 0 0 5px #2ba805; */
+    box-shadow: 0 0 10px #09ff00;
+  }
+}
+#LabnoteOne
+{
+  animation: glowing 1300ms infinite;
+} 

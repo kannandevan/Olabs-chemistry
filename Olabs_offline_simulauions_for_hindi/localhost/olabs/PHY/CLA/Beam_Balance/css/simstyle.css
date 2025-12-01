@@ -1,0 +1,994 @@
+.main p
+{
+	overflow:visible;	
+}
+#label1
+{
+	position: relative;
+	left: 35px;
+}
+#label2
+{
+	padding-top: 18px;	
+}
+#label8
+{
+	margin-left: 11px;
+	padding-top:1px;	
+}
+#res
+{
+	margin-top: 6px; 
+	font-weight:bold;	
+}
+#resultLabel
+{
+	float:left;	
+}
+#show
+{
+	display:none;	
+}
+#textResult
+{
+	width: 33px;
+	margin-left: 58px;	
+}
+
+#ObjectsImg
+{
+	width: 197px;
+	height: 108px;
+	position: relative;
+	top: 2px;
+}
+#objectImg1
+{
+	position: relative;
+	float: left;
+	left: 21px;
+	top: 10px;
+}
+#obImg1
+{
+	cursor:pointer;
+}
+#objectImg2
+{
+	position: relative;
+	left: 50px;
+	top: 22px;
+	width: 121px;
+}
+
+#obImg2
+{
+	cursor:pointer;
+	margin-left: 15px;	
+}
+#objectImg2 > p
+{
+	overflow: inherit;
+}
+#weightImages
+{
+    top: 0px;
+    width: 197px;
+    height: 161px;
+    position: relative;
+}
+#smallImg1
+{
+	top: 30px;
+	left: 15px;
+}
+#smallImg1  > p
+{
+	position: relative;
+	left: 8px;
+}
+
+#smallImg2
+{
+	top: 40px;
+	left: 65px;
+}
+#smallImg2  > p
+{
+	position: relative;
+    left: 6px;
+}
+#smallImg3
+{
+	top: 48px;
+	left: 105px;
+}
+#smallImg3 > p
+{
+	position: relative;
+    left: 3px;
+}
+#smallImg4
+{
+	top: 48px;
+	left: 142px;
+}
+#smallImg4  > p
+{
+	position: relative;
+    left: 3px;
+}
+#smallImg5
+{
+	top: 100px;
+	left: 19px;
+}
+#smallImg5  > p
+{
+	position: relative;
+	left: 1px;
+}
+#smallImg6
+{
+	top: 105px;
+	left: 56px;
+}
+#smallImg6  > p
+{
+	position: relative;
+    left: 1px;
+}
+#smallImg7
+{
+	top: 112px;
+	left: 86px;
+}
+#smallImg7 > p
+{
+	position: relative;
+    left: 0px;
+}
+#smallImg8
+{
+	top: 112px;
+	left: 116px;
+}
+#smallImg8  > p
+{
+	position: relative;
+    left: 1px;
+}
+#smallImg9
+{
+	top: 115px;
+	left: 144px;
+}
+#smallImg9  > p
+{
+	position: relative;
+    left: 1px;
+}
+#smallImg10
+{
+	top: 153px;
+	left: 13px;
+}
+
+#smallImg10  > p
+{
+	position: relative;
+	left: 2px;
+}
+#smallImg11
+{
+	top: 155px;
+	left: 55px;
+}
+#smallImg11  > p
+{
+	position: relative;
+    left: 4px;
+}
+#smallImg12
+{
+	top: 151px;
+	left: 141px;
+}
+#smallImg12 > p
+{
+	position: relative;
+    left: 3px;
+}
+#smallImg13
+{
+	top: 195px;
+	left: 97px;
+}
+#smallImg13  > p
+{
+	position: relative;
+    left: 5px;
+}
+#smallImg14
+{
+	top: 195px;
+	left: 54px;
+}
+#smallImg14  > p
+{
+	position: relative;
+	left: 5px;
+}
+#smallImg15
+{
+	top: 191px;
+	left: 140px;
+}
+#smallImg15  > p
+{
+	position: relative;
+    left: 5px;
+}
+#smallImg16
+{
+	top: 155px;
+	left: 97px;
+}
+#smallImg16 > p
+{
+	position: relative;
+    left: 5px;
+}
+#smallImg17
+{
+	top: 194px;
+	left: 11px;
+}
+#smallImg17  > p
+{
+	position: relative;
+    left: 5px;
+}
+.smallImage1
+{
+	position:absolute;
+	cursor:pointer;
+}
+.smallImage2
+{
+	position:absolute;
+	cursor:pointer;
+}
+.smallImage3
+{
+	position:absolute;
+	cursor:pointer;
+}
+.smallImage1 > p
+{
+	font-weight: bold;
+}
+.smallImage2 > p
+{
+	font-weight: bold;
+}
+.smallImage3 > p
+{
+	font-weight: bold;
+}
+.smallImage1 > img
+{
+	position: relative;
+}
+.smallImage2 > img
+{
+	position: relative;
+}
+.smallImage3 > img
+{
+	position: relative;
+	width: 41px;
+}
+
+#labelEight
+{
+	position: relative;
+	top: 80px;
+	height: 25px;
+	visibility:hidden;
+}
+#resetExp
+{
+	margin-top:20px;
+	text-align:center;
+}
+#showResult
+{
+	margin-top: 83px;
+	margin-left: 10px;	
+}
+#wrapper
+{
+	width: 561px;
+	height: 337px;
+}
+#container
+{
+position: relative;
+width: 561px;
+height: 337px;
+top: -347px;
+}
+#mainDiv
+{
+	position: relative;
+	width: 291px;
+	height: 315px;
+	top: 0px;
+	left: 135px;
+}
+#weighingMachine
+{
+	position: absolute;
+	width: 160px;
+	height: 223px;
+	left: 68px;
+	top: 36px;
+}
+#weighingMachineMiddle
+{
+	position: relative;
+	width: 34px;
+	height: 165px;
+	top: 61px;
+	left: 61px;
+}
+#upperPart1
+{
+	position: relative;
+	width: 120px;
+	height: 40px;
+	top: -134px;
+	left: 17px;
+	z-index:10;
+}
+#upperPart2
+{
+	position: relative;
+	width: 130px;
+	height: 190px;
+	top: -189px;
+	left: 12px;
+	transform:rotate(0deg);
+	-ms-transform:rotate(0deg);
+	-webkit-transform:rotate(0deg);
+	transform-origin:top;
+	-ms-transform-origin:top;
+	-webkit-transform-origin:top;
+}
+#leftRightWeight
+{
+	position: absolute;
+	width: 155px;
+	height: 136px;
+	top: 65px;
+	left: 0px;
+}
+#bullet
+{
+	position: absolute;
+	width: 6px;
+	height: 140px;
+	left: 90px;
+	top: -4px;
+}
+#leftWeight
+{
+	position: relative;
+	width: 50px;
+	top: 0px;
+	left: 0px;
+	z-index:1;
+}
+.weights > img
+{
+	z-index: 1;
+	position: absolute;
+}
+#leftW1
+{
+	position: absolute;
+	height: 30px;
+	width: 40px;
+	top: 107px;
+	left: 5px;
+	visibility:hidden;
+}
+#leftW2
+{
+	position: absolute;
+	height: 30px;
+	width: 40px;
+	top: 107px;
+	left: 5px;
+	visibility:hidden;
+}
+#rightW
+{
+	position: absolute;
+	height: 30px;
+	width: 40px;
+	top: 107px;
+	left: 5px;
+}
+.smallWeights
+{
+	position: absolute;
+	visibility:hidden;
+	height:20px;
+	width:20px;
+}
+.smallWeight
+{
+	position: absolute;
+	height:20px;
+	width:20px;
+}
+#weight1
+{
+	top: 11px;
+}
+#weight1 > img
+{
+	height:20px;
+	width:20px;
+}
+#w1 > img
+{
+	height:20px;
+	width:20px;
+}
+#weight2
+{
+	left:12px;
+	top: 13px;
+}
+#weight2 > img
+{
+	height:18px;
+	width:18px;
+}
+#w2 > img
+{
+	height:18px;
+	width:18px;
+}
+#weight3
+{
+	top: 15px;
+	left: 22px;
+}
+#weight3 > img
+{
+	height:16px;
+	width:16px;
+}
+#w3 > img
+{
+	height:16px;
+	width:16px;
+}
+#weight4
+{
+	top: 15px;
+	left: 18px;
+}
+#weight4 > img
+{
+	height:16px;
+	width:16px;
+}
+#w4 > img
+{
+	height:16px;
+	width:16px;
+}
+#weight5
+{
+	top: 15px;
+	left: 8px;
+}
+#weight5  > img
+{
+	width:14px;
+	height:14px;
+}
+#w5  > img
+{
+	width:14px;
+	height:14px;
+}
+#weight6
+{
+	top: 18px;
+	left: 10px;
+}
+#weight6 > img
+{
+	top:5px;
+	width:12px;
+	height:12px;
+}
+#w6 > img
+{
+	width:12px;
+	height:12px;
+}
+#weight7
+{
+	top: 20px;
+	left: 12px;
+}
+#weight7 > img
+{
+	width:10px;
+	height:10px;
+}
+#w7 > img
+{
+	width:10px;
+	height:10px;
+}
+#weight8
+{
+	top: 20px;
+	left: 16px;
+}
+#weight8 > img
+{
+	width:10px;
+	height:10px;
+}
+#w8 > img
+{
+	width:10px;
+	height:10px;
+}
+#weight9
+{
+	top: 22px;
+	left: 9px;
+}
+#weight9 > img
+{
+	width:8px;
+	height:8px;
+}
+#w9 > img
+{
+	width:8px;
+	height:8px;
+}
+#weight10
+{
+	top: 22px;
+	left: 9px;
+}
+#weight10 > img
+{
+	width:8px;
+	height:8px;
+}
+#w10 > img
+{
+	width:8px;
+	height:8px;
+}
+#weight11
+{
+	top: 22px;
+	left: 14px;
+}
+#weight11 > img
+{
+	width:7px;
+	height:7px;
+}
+#w11 > img
+{
+	width:7px;
+	height:7px;
+}
+#weight12
+{
+	top: 22px;
+	left: 16px;
+}
+#weight12 > img
+{
+	width:6px;
+	height:6px;
+}
+#w12 > img
+{
+	width:6px;
+	height:6px;
+}
+#weight13
+{
+	top: 22px;
+	left: 18px;
+}
+#weight13 > img
+{
+	width:5px;
+	height:5px;
+}
+#w13 > img
+{
+	width:5px;
+	height:5px;
+}
+#weight14
+{
+	top: 22px;
+	left: 21px;
+}
+#weight14 > img
+{
+	width:5px;
+	height:5px;
+}
+#w14 > img
+{
+	width:5px;
+	height:5px;
+}
+#weight15
+{
+	top: 22px;
+	left: 24px;
+}
+#weight15 > img
+{
+	width:4px;
+	height:4px;
+}
+#w15 > img
+{
+	width:4px;
+	height:4px;
+}
+#weight16
+{
+	top: 22px;
+	left: 26px;
+}
+#weight16 > img
+{
+	width:7px;
+	height:7px;
+}
+#w16 > img
+{
+	width:7px;
+	height:7px;
+}
+#weight17
+{
+	top: 22px;
+	left: 29px;
+}
+#weight17 > img
+{
+	width:6px;
+	height:6px;
+}
+#w17 > img
+{
+	width:6px;
+	height:6px;
+}
+.leftImg  > img
+{
+	height: 20px;
+	width: 25px;
+	top: 10px;
+	position: absolute;
+	left: 9px;
+}
+#rightWeight
+{
+	position: relative;
+	width: 50px;
+	height: 140px;
+	top:0px;
+	left: 103px;
+}
+
+#turner
+{
+	width: 33px;
+	height: 36px;
+	position: absolute;
+	top: 273px;
+	left: 130px;
+	cursor:pointer;
+	transform:rotate(7deg);
+	-ms-transform:rotate(7deg);
+	-webkit-transform:rotate(7deg);
+	z-index:200;
+}
+#turnerPointer
+{
+	position: relative;
+	top: -34px;
+	left: 15px;
+	width: 10px;
+	height: 10px;
+}
+.rightDoors
+{
+	position: absolute;
+	width: 95px;
+	height: 253px;
+	top: 22px;
+	left: 255px;
+}
+.leftDoors
+{
+	position: absolute;
+	width: 95px;
+	height: 253px;
+	top: 22px;
+	left: -58px;
+	-moz-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	transform: scaleX(-1);
+	 -ms-filter: fliph;
+}
+#rightDoor1
+{
+	display:none;
+}
+#rightDoor2
+{
+	display:none;
+}#rightDoor3
+{
+	display:none;
+}
+#rightDoor4
+{
+	display:none;
+}
+#rightDoor5
+{
+	display:none;;
+}
+#leftDoor1
+{
+	display:none;
+}
+#leftDoor2
+{
+	display:none;
+}
+#leftDoor3
+{
+	display:none;
+}
+#leftDoor4
+{
+	display:none;
+}
+#leftDoor5
+{
+	display:none;;
+}
+#zoomBox
+{
+	position: absolute;
+	width: 210px;
+	height: 80px;
+	top: 253px;
+	left: 23px;
+	overflow: hidden;
+}
+#zoomCont
+{
+	position: relative;
+	width: 301px;
+	height: 85px;
+	left: -40px;
+	z-index:200;
+}
+#needle
+{
+	position: relative;
+	width: 10px;
+	height: 297px;
+	top: -358px;
+	left: 140px;
+	transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-moz-transform:rotate(0deg);
+	-webkit-transform-origin: top;
+	-moz-transform-origin:top;
+}
+#needle > img
+{
+	position: relative;
+	top: 186px;
+}
+.smallImage1 > div
+{
+	color: #F00;
+	position: absolute;
+	font-size: 16px;
+	visibility:hidden;	
+}
+.smallImage2 > div
+{
+	color: #F00;
+	position: absolute;
+	font-size: 16px;
+	visibility:hidden;		
+}
+.smallImage3 > div
+{
+	color: #F00;
+	position: absolute;
+	font-size: 16px;
+	visibility:hidden;		
+}
+#dot1
+{
+	top: 0px;
+	left: 28px;	
+}
+#dot2
+{
+	top: -1px;
+	left: 20px;
+}
+
+#dot3
+{
+	top: -1px;
+	left: 17px;
+}
+
+#dot4
+{
+	top: 0px;
+	left: 18px;
+}
+
+#dot5
+{
+	top: 0px;
+	left: 15px;
+}
+
+#dot6
+{
+	top: -2px;
+	left: 10px;
+}
+
+#dot7
+{
+	top: -6px;
+	left: 7px;
+}
+
+#dot8
+{
+	top:-5px;
+	left: 7px;
+}
+
+#dot9
+{
+	top: -4px;
+	left: 6px;
+}
+#dot10
+{
+	top: -2px;
+	left: 30px;
+}
+#dot11
+{
+	top: -3px;
+	left: 28px;
+}
+#dot12
+{
+	top: -2px;
+	left: 23px;
+}
+#dot13
+{
+	top: -3px;
+	left: 24px;
+}
+#dot14
+{
+	top: -3px;
+	left: 24px;
+}
+#dot15
+{
+	top: -3px;
+	left: 23px;
+}
+#dot16
+{
+	top: -3px;
+	left: 28px;
+}
+#dot17
+{
+	top: -2px;
+	left: 23px;
+}
+
+#result
+{
+	margin-top: 80px;	
+}
+#label9
+{
+	text-decoration: underline;
+	font-weight: bold;	
+}
+#check
+{
+	text-align:center;
+	margin-top:10px;	
+}
+#handLHolder
+{
+	position:absolute; 
+	left:-154px; 
+	top:163px; 
+	z-index: 15;	
+}
+#handLHolder > img
+{
+	width:154px; 
+	height:79px;	
+}
+#handRHolder
+{
+	top: 147px;
+	position: absolute;
+	right: -145px;
+}
+#handRHolder > img
+{
+	width: 146px;
+	height: 87px;	
+}
+#weightContainer
+{
+	position:absolute; 
+	right: -20px; 
+	top: 221px;
+}
+#woodBody
+{
+	position: absolute;
+	z-index: 100;	
+}
+#star
+{
+	color: #F00;
+	position: absolute;
+	font-size: 16px; 
+	margin-left:10px;
+}

@@ -1,0 +1,161 @@
+#background
+{
+	width: 562px; 
+	height: 453px;	
+}
+
+#stand
+{
+	position: absolute; 
+	left: 345px;
+	top: 161px;
+	height: 198px;
+}
+
+#thread
+{
+	position:absolute; 
+	width:3px; 
+	height:100px; 
+	left: 394px; 
+	top: 180px; 
+	z-index:100;	
+}
+
+#thread1
+{
+	position:absolute; 
+	width:0px; 
+	height:70px; 
+	border:1px solid #FFFFFF;
+}
+
+.bob
+{
+	width:30px; 
+	position:absolute; 
+	top:70px; 
+	left:-14px; 
+	cursor:pointer;
+}
+
+#dropArea
+{
+	position:absolute; 
+	width:225px; 
+	height:127px;
+	top: 181px; 
+	left: 275px;  
+	z-index:0;	
+}
+
+#watchCont
+{
+	position: absolute;
+	left: 76px; 
+	top: 284px; 
+	width:112px; 
+	height:10px;	
+}
+
+#stopwatch
+{
+	position: absolute;
+	left: 0px; 
+	top: 0px;
+}
+
+#timerstyle
+{
+	position: absolute;
+	left: 17px; 
+	top: 15px;	
+}
+
+#timer
+{
+	position: absolute;
+	left: 14px; 
+	top: 27px; 
+	font-size: 20px;	
+}
+
+#start
+{
+	position: absolute;
+	left: 21px; 
+	top: 52px; 
+	cursor:pointer;	
+}
+
+#stop
+{
+	display:none; 
+	position: absolute;
+	left: 25px; 
+	top: 52px; 
+	cursor:pointer;
+}
+
+#ProtracorDiv
+{
+	position:absolute;
+	left: 256px;
+	top: 166px;
+	display:none;
+	width: 279px;
+	height: 136px;
+	z-index:2;
+}
+
+#protractorInside
+{
+	height: 136px;	
+}
+
+#protractorImg
+{
+	position: absolute;	
+}
+
+#arrowDivPro1
+{
+	position: absolute;
+	width: 19px;
+	height: 14px;
+	top: 9px;
+	left: 229px;
+	cursor:pointer;	
+}
+
+#protractorarrowImg1
+{
+	position: absolute;
+	cursor:pointer;
+}
+
+#arrowDivPro2
+{
+	position: absolute;
+	width: 19px;
+	height: 14px;
+	top: 23px;
+	left: 229px;
+	cursor:pointer;	
+}
+
+#protractorarrowImg2
+{
+	position: absolute;
+	cursor:pointer;	
+}
+
+.varBox .rangeVals
+{
+	margin-top: -11px;	
+}
+
+.rangeSlider
+{
+	margin:0px 0px 3px 20px;
+}

@@ -1,0 +1,331 @@
+
+
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=EMM&exp=production_of_induced_emf_in_a_coil&tempId=olabs_rs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:27:30 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+       
+    </style>
+    <title></title>
+    <link href="template/olabs_rs/css/mainstyle.css" rel="stylesheet" type="text/css" />
+    <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+
+    <script language="javascript" type="text/javascript" src="template/olabs_rs/js/responsive.js"></script>
+    <script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/PHY/EMM/production_of_induced_emf_in_a_coil/";</script>
+<link  href="../PHY/EMM/production_of_induced_emf_in_a_coil/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../PHY/EMM/production_of_induced_emf_in_a_coil/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<script type="text/javascript" src="../PHY/EMM/production_of_induced_emf_in_a_coil/js/simcontrols.js"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/EMM/production_of_induced_emf_in_a_coil/locale/en-IN/messages.po' />  
+<script type="text/javascript" src="../PHY/EMM/production_of_induced_emf_in_a_coil/js/Gettext.js"></script>
+</head>
+
+<body>
+    <!-- <div class="sim-body"  oncontextmenu="return false"> -->
+    <div class="sim-body"  >
+        <div class="flex-container flex-col w-full h-full flex-aligen-stretch">
+            <div class="sim-head" id="expName">
+            Array            </div>
+            <div class="sim-buttons flex-container flex-row-reverse ">
+                <button class="sim-btn" id="changeScreenBtn">MAXIMIZE</button>
+                <div class="sim-btn" id="simHelp">HELP</div>
+                <div class="sim-btn" id="simReset">RESET</div>
+            </div>
+<div class="flex-container sim-interactive-area">
+    <div class="sim-controls">
+        <div class="control-div">
+            <div class="control-scroll-area">
+                <div class="saltBox control-box flex-container flex-col px-20 userSelect">
+  <div class="varTitle">
+  </div>
+<!-- first screen -->
+<div class="flex-container flex-1 flex-col  w-full ">
+  <div id="controlDiv1">
+    <h5 id="text_trans_0"></h5>
+    <input class="rangeSlider" type="range" min="1" max="4" name="magnetSpeed" id="magnetSpeed" value="1" step="" onChange="speedValue(this.value)">
+    <div class="flexbox">
+    <span class="leftVal" id="leftminval">1</span>
+    <span class="rightVal" id="leftmaxval">4</span>
+    </div>
+    <div id="magnetdiv1">
+      <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/magnet.png" id="magnetC1">
+      <p id="labelMagnet_A"></p>
+    </div>
+    <div id="magnetdiv2">
+      <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/magnet2.png" id="magnetC2">
+      <p id="labelMagnet_B"></p>
+    </div>
+  </div>
+<!-- second screen -->
+  <div id="controlDiv2">
+      <div id="select">
+        <p id="text_trans_1"></p>
+        <select name="exp" id="exp">
+        <option id="text_trans_2" value="0"></option>
+        <option id="text_trans_3" value="1"></option>
+        <option id="text_trans_4" value="2"></option>
+        <option id="text_trans_5" value="3"></option>
+        </select>
+      </div>
+      <div id="slider1">
+        <h5 id="labelhead1"></h5>
+        <input class="rangeSlider" type="range" min="1" max="4" name="coilSpeed" id="coilSpeed" value="1" step="" onChange="coilSpeedValue(this.value)">
+        <div class="flexbox">
+        <span class=leftVal id="leftminval">1</span>
+        <span class=rightVal  id="leftmaxval">4</span>
+        </div>
+
+      </div>
+        <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/glasssheet.png" id="glasssheet">
+        <div id="lableDiv"><p id="glasslabel"></p> </div>
+
+      <button id="move" disabled=""></button>
+
+  </div>
+  <!-- second screen end -->
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="sim-div">
+        <div class="sim-canvas">
+            <div id="mainDiv" class="userSelect">
+<canvas id="connectionCanvas" class="connections"></canvas>
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/inference.png" id="inference">
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/100img.png" id="coilHunlabel">
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/50img.png" id="coilfiflabel">
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/keyimg.png" id="keylabel">
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cellimg.png" id="cellabel">
+<img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/RheoImg.png" id="rheolabel">
+
+      <div id="screen1">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/bg.png" id="bg">
+            <div id="labelDiv1"></div> 
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/coil.png" id="coil">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/galvanometer.png" id="galvanometer">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/magnet.png" id="magnet">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/magnet2.png" id="magnetCanvas">
+
+            <!-- <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/GalvImg.png" id="galvlabel"> -->
+            
+            <div id="coilLeft" class="terminal2"></div>
+            <div id="coilRight" class="terminal2"></div>
+            <div id="galvanometerLeft" class="terminals"></div>
+            <div id="galvanometerRight" class="terminals"></div>
+            <div id="cable1Div">
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable1.png" id="cable1">
+            </div>
+            <div id="cable2Div">
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable2.png" id="cable2">
+            </div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/arrow.png" id="arrow">
+            <button class="nextbutton" role="button" id="nextbutton"></button>
+      </div>
+      <div id="screen2">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/bg.png" id="bg">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/key.png" class="key" id="key">
+            <div class="keyDropArea1"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/switch1.png" id="switch1">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/battery.png" id="battery">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/galvanometer.png" id="galvanometer2">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/100_turns.png" id="coil_100">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/coil.png" id="coil_50">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rh.png" id="rh">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rheo_move.png" class="rheo_move">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/arrow.png" id="arrow2">
+                  <div id="galvanometer2Left" class="terminals"></div>
+                  <div id="coil_100_left" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable2.png" id="wire3">
+                  <div id="galvanometer2right" class="terminals"></div>
+                  <div id="coil_100_right" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable1.png" id="wire4">
+                  <div id="rhLowerend" class="terminals"></div>
+                  <div id="coil_50_left" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire5.png" id="wire5">
+                  <div id="rhUpperend" class="terminals"></div>
+                  <div id="switchleft" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire6.png" id="wire6">
+                  <div id="batteryright" class="terminals"></div>
+                  <div id="switchright" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire7.png" id="wire7">
+                  <div id="batteryleft" class="terminals"></div>
+                  <div id="coil_50_right" class="terminal2"></div>
+                  <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire8.png" id="wire8">    
+                  <div id="coilForward" class="coilForward"></div>
+                  <div id="coilForwardingDiv"></div>
+                  <div id="coilBackward" class="coilBackward"></div>
+                  <div id="keyDropArea"></div>
+                  <div id="secondExpLabel"></div>
+                  <div id="expName1"><p id="expLabel1"></p></div>
+            </div>
+      <div id="screen3">
+            <div id="expName2"><p id="expLabel2"></p></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/bg.png" id="bg">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/key.png" class="key" id="key1">
+            <div class="keyDropArea1"></div>
+            <div class="keyDropArea2"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/switch1.png" id="switch1">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/battery.png" id="battery">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/galvanometer.png" id="galvanometer2">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/100_turns.png" id="coil_100">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/coil.png" id="coil_50">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rh.png" id="rh">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rheo_move.png" class="rheo_move">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/arrow.png" id="arrow3">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable2.png" id="wire3">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/cable1.png" id="wire4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire5.png" id="wire5">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire6.png" id="wire6">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire7.png" id="wire7">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire8.png" id="wire8">
+      </div>
+      <div id="screen4">            
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/bg.png" id="bg">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/galvanometer.png" id="galvanometer3">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rh.png" id="rh3">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rheo_move.png" id="rheo_move4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/arrow.png" id="arrow4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/key.png" class="key" id="key2">
+            <div id="keyDropArea3"></div>
+            <div class="keyDropArea2"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/switch1.png" id="switch2">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/battery.png" id="battery">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/glasssheet.png" id="glasssheetCanvas">  
+            <div id="coilLift" class="coilLift"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/coils.png" id="coils"> 
+            <div id="expName3"><p id="expLabel3"></p></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire7Screen4.png" id="wire7InScreen4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire6.png" id="wire6InScreen4">
+            <div id="coilLiftArea"></div>
+            <button id="nextbutton2" role="button"></button>
+      </div>
+      <div id="screen5">
+            <div id="expName4"><p id="expLabel4"></p></div>
+            <div id="coilAway"></div>
+            <div id="coilTowards"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/bg.png" id="bg">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/galvanometer.png" id="galvanometer4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rh.png" id="rh3">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/rheo_move.png" id="rheo_move5">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/arrow.png" id="arrow5">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/key.png" class="key" id="key3">
+            <div id="keyDropArea4"></div>
+            <div class="keyDropArea2"></div>
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/switch1.png" id="switch2">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/battery.png" id="battery">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire7Screen4.png" id="wire7InScreen4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/wire6.png" id="wire6InScreen4">
+            <img src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/coil-lift-last.png" id="coil-lift-last">
+            <div id="coilAwayDiv"></div>
+            <div id="coilTowardsDiv"></div>
+      </div>
+
+<img  src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/circiut_diagram.png" id="circuitDiagram">
+<label for="checkCircuit">
+<input type="checkbox" id="checkCir"/><span id="label"></span>
+</label>
+      <img  src="../PHY/EMM/production_of_induced_emf_in_a_coil/images/circiut_diagram2.png" id="circuitDiagram2">
+      <label for="checkCircuit2">
+      <input type="checkbox" id="checkCir2"/><span id="label2"></span>
+      </label>
+</div>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ var expTitle="Production of Induced emf in a Coil";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>
+<div class="sim-footer flex-container  flex-center">
+    <div class="flex-align-center">Developed by Amrita University under research grant from<br>
+        Department Of Electronics & Information Technology</div>
+    <div class="flex-container flex-row-reverse flex-1" class=" flex-end">
+        <img src="template/olabs_fs/images/dit_logo.gif" alt="Olabs">
+    </div>
+</div>
+<div class="sim-alert-overlay">
+    <div class="sim-alert">
+        <div class="sim-alert-heading">Alert</div>
+        <div class="sim-alert-body">
+            <p>Do you want to reset the simulation</p>
+            <button class="reset">Yes</button>
+            <button id="simResetCancel">No</button>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=EMM&exp=production_of_induced_emf_in_a_coil&tempId=olabs_rs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:28:20 GMT -->
+</html>
+<script>
+
+</script>
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+    Updated : 27-12-2022 
+        - Reset button
+ --><script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

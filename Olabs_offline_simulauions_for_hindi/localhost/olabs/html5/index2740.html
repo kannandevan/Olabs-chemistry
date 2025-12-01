@@ -1,0 +1,231 @@
+
+
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=WAV&exp=Beats_of_slightly_different_frequencies&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:21:30 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+       
+    </style>
+    <title></title>
+    <link href="template/olabs_fs/css/mainstyle.css" rel="stylesheet" type="text/css" />
+    <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/Gettext.js"></script>
+
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/responsive.js"></script>
+    <script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/";</script>
+<link  href="../PHY/WAV/Beats_of_slightly_different_frequencies/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../PHY/WAV/Beats_of_slightly_different_frequencies/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<script type="text/javascript" src="../PHY/WAV/Beats_of_slightly_different_frequencies/js/simcontrols.js"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+
+<script type="text/javascript" src="js/touchconvert.js"></script>
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/locale/en-IN/LC_MESSAGES/messages.po' />  
+<script type="text/javascript" src="../PHY/WAV/Beats_of_slightly_different_frequencies/js/Gettext.js"></script>
+</head>
+<body>
+        <div class="sim-body"  oncontextmenu="return false">
+        <div class="flex-container flex-col w-full h-full flex-aligen-stretch">
+            <div class="sim-head" id="expName">
+            Array            </div>
+            <div class="sim-buttons flex-container flex-row-reverse ">
+                <button class="sim-btn" id="changeScreenBtn" data-translate>
+                    MAXIMIZE                </button>
+                <div class="sim-btn" id="simHelp" data-translate>
+                    HELP                </div>
+                <button class="sim-btn" id="simReset" data-translate>
+                    RESET                </button>
+            </div>
+<div class="flex-container sim-interactive-area">
+    <div class="sim-controls">
+        <div class="control-div">
+            <div class="control-scroll-area">
+                <div class="saltBox control-box flex-container flex-col px-20 userSelect">
+  <div class="varTitle">
+    <h2 style="font-size:120%" id="select"></h2>
+  </div>
+  <div class="flex-container flex-1 flex-col  w-full">
+ 
+  <!--  -->
+<div id="select">
+  <label for="dropdown1">Select the frequency of tuning fork V1:</label>
+  <select id="dropdown1">
+      <option value="0">---Select---</option>
+      <option value="252">252</option>
+      <option value="440">440</option>
+  </select>
+
+  <br>
+  <br>
+  <label for="dropdown2">Select the frequency of tuning fork V2:</label>
+  <select id="dropdown2">
+    <option value="0">---Select---</option>
+      <!-- Options for the second dropdown will be generated dynamically. -->
+  </select>
+</div>
+<!--  -->
+      <div id="amplitude">
+      <p>Amplitude</p>
+      <p class="one">1</p>
+      </div>
+
+      <button id="check" disabled="">Show Result</button>
+  <div id="showResult">
+      <div id="v1"></div><br>
+      <div id="v2"></div><br>
+      <div id="v"></div>
+  </div>  
+
+ 
+  </div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="sim-div">
+        <div class="sim-canvas">
+            <div id="mainDiv" class="userSelect">
+<img src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/BG.png" id="bg" />
+<img src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/TUNING%20FORK%201.png" id="tuningfork1">
+<img src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/TUNING%20FORK%202.png" id="tuningfork2">
+<img src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/steelrod.png" class="steel_rod">
+<img id="inferenceImg" src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/inference.png"/>
+
+<div id="value1">
+</div>
+<div id="value2">
+</div>
+<div id="labelv1">
+    <p>V1</p>
+</div>
+<div id="labelv2">
+    <p>V2</p>
+</div>
+
+        <div id="stopWatchDiv">
+        <img  id="stopWatch" src="../PHY/WAV/Beats_of_slightly_different_frequencies/images/stop_watch.png"/>
+         <span class="time" id="timer">00</span>
+         <span id="timeDiv">S</span>
+    </div>
+<!--  -->
+<div id="note1">
+    <p>No beats are produced when the frequencies of the tuning forks are the same.</p>
+</div>
+<div id="note2">
+    <p>It will be challenging to count the number of beats produced per second if the difference between the frequencies of tuning forks is greater than two or three.</p>
+</div>
+<div id="note3">
+    <p>Number of beats in 10 seconds=20, Number of beats in 1 second=2</p>
+</div>
+<div id="note4">
+    <p>Number of beats in 10 seconds=12, Number of beats in 1 second=1.2</p>
+</div>
+   <!--  -->
+ 
+<div id="strick" class="strick"></div>
+<div id="soundDiv" class="soundDiv"></div>
+<div id="soundDiv2" class="soundDiv2"></div>
+<audio id="audio1" src="http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/audio/beatfrequency440 hz.mp3"></audio>
+<audio id="audio2" src="http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/audio/2.5 hz.mp3"></audio>
+<audio id="audio3" src="http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/audio/1.5 hz.mp3"></audio>
+<audio id="audio4" src="http://localhost/olabs/PHY/WAV/Beats_of_slightly_different_frequencies/audio/beatfrequency(4).mp3"></audio>
+</div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ var expTitle="Beats Produced by two Tuning Forks";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>
+<div class="sim-footer flex-container  flex-center">
+    <!-- <div class="flex-align-center">Developed by Amrita University under research grant from<br>
+        Department Of Electronics & Information Technology</div> -->
+    <div class="flex-align-center" data-translate>Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India</div>
+    <div class="flex-container flex-row-reverse flex-1" class=" flex-end">
+        <img src="template/olabs_fs/images/dit_logo.gif" alt="Olabs">
+    </div>
+</div>
+<div class="sim-alert-overlay">
+    <div class="sim-alert">
+        <div class="sim-alert-heading" data-translate>Alert</div>
+        <div class="sim-alert-body">
+            <p data-translate>Do you want to reset the simulation</p>
+            <button class="reset" data-translate>Yes</button>
+            <button id="simResetCancel" data-translate>No</button>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=WAV&exp=Beats_of_slightly_different_frequencies&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:21:40 GMT -->
+</html>
+<script>
+
+</script>
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+    Updated : 27-12-2022 
+        - Reset button
+ -->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

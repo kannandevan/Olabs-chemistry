@@ -1,0 +1,568 @@
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.sim-buttons,.sim-footer,.sim-head,.sim-controls,.varBox,.varTitle,#bg,#bg1,
+.trip-content,.labName,.mainTitle p,.main p,img{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.userSelect 
+{
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+#expName{
+    font-size: 1.6vw;
+}
+.questionLayout {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* background-color: rgb(36 14 66); */
+  background-color: #0d102eed;
+  top: 0%;
+  z-index: 1000;
+
+}
+.questionNumber
+{
+  position: absolute;
+  width: 100%;
+  height: 12%;
+  background-color: #c0c1c900;
+  top: 2%;
+  border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1.3vw;
+  top: 20%;
+  left: 3%;
+  font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1.3vw;
+  top: 20%;
+  left: 89%;
+  font-family: 'Inconsolata';
+}
+.questionText
+{
+  position: absolute;
+  color: #cac9cbb3;
+  top: 18%;
+  left: 3%;
+  /* background-color: rgb(36, 14, 66); */
+  width: 94%;
+  height: 12%;
+}
+.questionTextAlignment
+{
+  position: absolute;
+  width: 98%;
+  height: 75%;
+  top: 11%;
+  left: 2%;
+  font-size: 1.5vw;
+  color: #fcf8f8;
+  text-align: justify;
+  line-height: 1.3;
+  cursor: not-allowed;
+}
+.OptionOne
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 34%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.OptionTwo
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 48%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.OptionThree
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 62%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.OptionFour
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 76%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.optionTestDesign {
+  position: absolute;
+  color: #ffffff;
+  font-size: 1.3vw;
+  top: 25%;
+  left: 5%;
+}
+.optionNo
+{
+  padding-right: 7px;
+}
+.varTitleOne{
+font-size: 1.2vw;
+line-height: 115%;
+}
+#DropRubLen
+{
+  bottom: 73%;
+  right: 79%;
+  width: 70%;
+  /* display: none; */
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #dce1f3;
+}
+.sim-body{
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+
+.main p {
+	overflow: visible;
+}
+#bg
+{
+    position: absolute;
+	  width: 100%;
+    height: 100%;
+}
+#page1Div
+{
+    position: absolute;
+	  width: 100%;
+    height: 100%;
+    /* background-color: white; */
+}
+#page2Div
+{
+    position: absolute;
+	  width: 100%;
+    height: 100%;
+    display: none;
+    /* background-color: white; */
+}
+#stand
+{
+    position: absolute;
+    top: 2%;
+    left: 0%;
+    width: 51%;
+    height: 96%;
+}
+#standClip
+{
+    position: absolute;
+    top: 32%;
+    left: 22.5%;
+    width: 14%;
+    height: 4%;
+}
+#burner
+{
+    position: absolute;
+    top: 67%;
+    left: 10.5%;
+    width: 30%;
+    height: 32%;
+}
+#tripstand
+{
+    position: absolute;
+    top: 53.5%;
+    left: 20%;
+    width: 28%;
+    height: 45%;
+}
+#roundflask
+{
+    position: absolute;
+    top: 3%;
+    left: 10%;
+    width: 83%;
+    height: 94%;
+}
+#cork
+{
+  position: absolute;
+  top: 80%;
+  left: 67.5%;
+  width: 4.5%;
+  height: 10%;
+    /* position: absolute;
+    top: 66.5%;
+    left: 57.5%;
+    width: 4.5%;
+    height: 8%; */
+}
+#glasstube
+{
+    position: absolute;
+    top: 86%;
+    left: 76%;
+    width: 10%;
+    height: 3%;
+}
+#rubbertube
+{
+    /* position: absolute;
+    top: 82%;
+    left: 84%;
+    width: 7%;
+    height: 4%; */
+    position: absolute;
+    top: 63%;
+    left: 76%;
+    width: 22%;
+    height: 4%;
+}
+#pinchcork
+{
+    position: absolute;
+    top: 84%;
+    left: 91%;
+    width: 6%;
+    height: 6%;
+}
+#pinchcorkOne
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+}
+#pinchcorkTwo
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#pinchcorkThr
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#pinchcorkFou
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#pinchcorkFiv
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#pinchcorkSix
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#pinchcorkSev
+{
+  position: absolute;
+  top: 48%;
+  left: 45.3%;
+  width: 8%;
+  height: 6%;
+  display: none;
+}
+#flaskwithwater
+{
+  position: absolute;
+  top: 57%;
+  left: 51%;
+  width: 14%;
+  height: 34%;
+    /* border: solid; */
+}
+#water
+{
+    position: absolute;
+    top: 56%;
+    left: 11%;
+    width: 81%;
+    height: 40%;
+}
+#flaskback
+{
+    position: absolute;
+    top: 1%;
+    left: 36%;
+    width: 31%;
+    height: 5%;
+}
+.fireAnimation
+{
+    position: absolute;
+    left: 10.5%;
+    top: 55%;
+    width: 30%;
+    height: 44%;
+    /* left: 10.5%;
+    top: 56%;
+    width: 30%;
+    height: 42%; */
+    display: none;
+}
+.waterBoilAnimation
+{
+    position: absolute;
+    left: 28.8%;
+    top: 43%;
+    width: 11.5%;
+    height: 15%;
+    /* left: 10.5%;
+    top: 56%;
+    width: 30%;
+    height: 42%; */
+    display: none;
+}
+#burnerDiv
+{
+    position: absolute;
+    top: 81%;
+    left: 29%;
+    width: 3%;
+    height: 3%;
+}
+#waterHalf
+{
+    position: absolute;
+    left: 28.8%;
+    top: 49%;
+    width: 11.5%;
+    height: 7%;
+    display: none;
+}
+.beakerfoggAni
+{
+    position: absolute;
+    left: 24.5%;
+    top: 20%;
+    width: 22%;
+    height: 36%;
+    display: none;
+}
+#pinkwater
+{
+  position: absolute;
+  top: 3%;
+  left: 5%;
+  width: 70%;
+  height: 96%;
+}
+#pinkwaterOne
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+.Meter15MAniA
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+.Meter175MAniB
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+.Meter2MAniC
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+.Meter225MAniD
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+.Meter25MAniE
+{
+  position: absolute;
+  left: 5%;
+  top: 3%;
+  width: 70%;
+  height: 95%;
+  display: none;
+}
+#Next
+{
+  position: absolute;
+  top: 2%;
+  right: 1%;
+  height: 8%;
+  color: black;
+  background-color: #051e35;
+  color: #fff;
+  border-radius: 10%;
+  font-size: bold;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+  display: none;
+}
+#Next:hover{
+  transform: scale(110%);
+  box-shadow: 0 3px 31px 5px rgba(247, 4, 4, 0.719);
+}
+#watBoiOne
+{
+  position: absolute;
+  left: 42%;
+  top: 15%;
+  width: 15%;
+  height: 11%;
+  display: none;
+}
+
+#insfrNote
+{
+  position: absolute;
+  left: 58%;
+  top: 0%;
+  width: 42%;
+  height: 66%;
+  display: none;
+}
+#labburner
+{
+  position: absolute;
+  left: 29.5%;
+  top: 93.7%;
+  width: 10%;
+  height: 5%;
+}
+#labroundflask
+{
+  position: absolute;
+  left: 51%;
+  top: 92%;
+  width: 15%;
+  height: 5.5%;
+}
+#labcork
+{
+  position: absolute;
+  left: 66.5%;
+  top: 92%;
+  width: 8%;
+  height: 5%;
+}
+#labglasstube
+{
+  position: absolute;
+  left: 75.5%;
+  top: 92%;
+  width: 12%;
+  height: 5%;
+}
+#labpinchcork
+{
+  position: absolute;
+  left: 88.5%;
+  top: 92%;
+  width: 12%;
+  height: 5%;
+}
+#labrubbertube
+{
+  position: absolute;
+  left: 82%;
+  top: 69%;
+  width: 12%;
+  height: 5.5%;
+}

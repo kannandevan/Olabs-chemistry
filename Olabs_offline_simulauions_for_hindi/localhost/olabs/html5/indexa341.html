@@ -1,0 +1,298 @@
+
+
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=EMM&exp=largeEmfInduced&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:20:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+       
+    </style>
+    <title></title>
+    <link href="template/olabs_fs/css/mainstyle.css" rel="stylesheet" type="text/css" />
+    <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/Gettext.js"></script>
+
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/responsive.js"></script>
+    <script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/PHY/EMM/largeEmfInduced/";</script>
+<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
+<!-- <script language="javascript" type="text/javascript" src="./js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script> -->
+<link  href="../PHY/EMM/largeEmfInduced/css/simstyle.css" rel="stylesheet" type="text/css" />
+<link  href="#" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+
+
+<script language="javascript" type="text/javascript" src="../PHY/EMM/largeEmfInduced/js/help.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.js"></script>
+
+<script type="text/javascript" src="../PHY/EMM/largeEmfInduced/js/simcontrols.js"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+
+
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/EMM/largeEmfInduced/locale/en-IN/LC_MESSAGES/messages.po' />  
+<!-- <script language="javascript" type="text/javascript" src="../PHY/EMM/largeEmfInduced/js/jquery-1.12.4.js"></script> -->
+<!-- <script language="javascript" type="text/javascript" src="../PHY/EMM/largeEmfInduced/js/jquery-ui.js"></script> -->
+<script type="text/javascript" src="../PHY/EMM/largeEmfInduced/js/Gettext.js"></script>
+<script language="javascript" type="text/javascript" src="js/touchconvert.js"></script>
+
+
+</head>
+<body>
+        <div class="sim-body"  oncontextmenu="return false">
+        <div class="flex-container flex-col w-full h-full flex-aligen-stretch">
+            <div class="sim-head" id="expName">
+            Array            </div>
+            <div class="sim-buttons flex-container flex-row-reverse ">
+                <button class="sim-btn" id="changeScreenBtn" data-translate>
+                    MAXIMIZE                </button>
+                <div class="sim-btn" id="simHelp" data-translate>
+                    HELP                </div>
+                <button class="sim-btn" id="simReset" data-translate>
+                    RESET                </button>
+            </div><div class="flex-container sim-interactive-area">
+    <div class="sim-controls">
+        <div class="control-div">
+            <div class="control-scroll-area">
+                <div class="saltBox control-box flex-container flex-col px-20">
+
+  <div class="varTitle">
+  </div>
+  <div class="flex-container flex-1 flex-col  w-full ">
+
+    <h5 id="selInduct" data-translate-text>Self Inductance, L: </h5>
+    <span id="valueofInductance">0.95</span>
+    <input class="rangeSlider" type="range" min="0.95" max="1.25" name="selfInductance" id="selfInductance" value="0.95"
+      step="0.05" oninput="valueofInductance()" />
+    <div class="flexbox">
+      <span class=leftVal id="leftminval">0.95</span>
+      <span class=rightVal id="leftmaxval">1.25</span>
+    </div>
+
+    <h5 id="changeInCurr" data-translate-text>Change in Current, di/dt: </h5>
+    <span id="valueofChangeInCurrent">215</span>
+    <input class="rangeSlider" type="range" min="215" max="250" name="changeInCurrent" id="changeInCurrent" value="215"
+      step="5" oninput="valueofChangeInCurrent()" />
+    <div class="flexbox">
+
+      <span class=leftVal id="leftminval">215</span>
+      <span class=rightVal id="leftmaxval">250</span>
+    </div>
+    <br>
+    <br>
+
+    <label for="check">
+      <input type="checkbox" id="check" /><span id="text" oninput="fetchData()" data-translate>Show Result</span>
+    </label>
+    <br>
+    <div id="resultData">
+      <table>
+        <tr>
+          <th data-translate>Self Inductance (L)</th>
+          <td>= <span id="resSelfInductance"></span><span>V</span></td>
+        </tr>
+        <tr>
+          <th data-translate>Change in Current (di/dt) </th>
+          <td>= <span id="resChangeInCurrent"></span><span>A/s</span></td>
+        </tr>
+        <tr>
+          <th rowspan="2" data-translate>Induced emf (ε) </th>
+          <td>= -L*(di/dt)</td>
+        </tr>
+        <tr>
+          <td>= <span id="valueEmf"></span><span>V</span></td>
+        </tr>
+      </table>
+
+    </div>
+  </div>
+</div>            </div>
+        </div>
+    </div>
+    <div class="sim-div">
+        <div class="sim-canvas">
+            <div id="mainDiv">
+        <!-- The page content-->
+
+        <img id="bg" src="../PHY/EMM/largeEmfInduced/images/bg.png" />
+        <img id="battery" src="../PHY/EMM/largeEmfInduced/images/Battery.png" />
+        <img id="keyboard" src="../PHY/EMM/largeEmfInduced/images/SWITCH.png" />
+        <img src="../PHY/EMM/largeEmfInduced/images/SWITCHKEY.png" id="key" />
+        <img src="../PHY/EMM/largeEmfInduced/images/SWITCHFRONT.png" id="keyboardpiece" />
+        <img id="inductor" src="../PHY/EMM/largeEmfInduced/images/INDUCTOR.png" />
+        <img id="bulb" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+
+        <canvas id="connectionDrawing" class="connections"></canvas>
+        <canvas id="shunt_wire"></canvas>
+        <img id="socket" src="../PHY/EMM/largeEmfInduced/images/Symbol%2016.png" />
+        <img id="socketFront" src="../PHY/EMM/largeEmfInduced/images/Symbol%2015.png" />
+
+        <img id="bulbLow" src="../PHY/EMM/largeEmfInduced/images/GLOW1.png" />
+        <img id="bulbMedium" src="../PHY/EMM/largeEmfInduced/images/GLOW2.png" />
+        <img id="bulbBright" src="../PHY/EMM/largeEmfInduced/images/GLOW3.png" />
+        <img id="inferenceImg" src="../PHY/EMM/largeEmfInduced/images/inference.png" />
+
+        <div id="maskCircle">
+                <img id="socketFrontMask" src="../PHY/EMM/largeEmfInduced/images/Symbol%2015.png" />
+                <img id="bulbLowMask1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+                <img id="bulbLowMask2" src="../PHY/EMM/largeEmfInduced/images/GLOW1.png" />
+                <img id="bulbMediumMask1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+                <img id="bulbMediumMask2" src="../PHY/EMM/largeEmfInduced/images/GLOW2.png" />
+                <img id="bulbBrightMask1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+                <img id="bulbBrightMask2" src="../PHY/EMM/largeEmfInduced/images/GLOW3.png" />
+
+        </div>
+
+        <!-- bulbLowAnimation -->
+        <img id="bulbLow1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+        <img id="bulbLow2" src="../PHY/EMM/largeEmfInduced/images/GLOW1.png" />
+        <!-- bulbLowAnimation -->
+
+        <!-- bulbmediumAnimation -->
+        <img id="bulbMedium1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+        <img id="bulbMedium2" src="../PHY/EMM/largeEmfInduced/images/GLOW2.png" />
+        <!-- bulbmediumAnimation -->
+
+        <!-- bulbBrightAnimation -->
+        <img id="bulbBright1" src="../PHY/EMM/largeEmfInduced/images/NEONBULB.png" />
+        <img id="bulbBright2" src="../PHY/EMM/largeEmfInduced/images/GLOW3.png" />
+        <!-- bulbBrightAnimation -->
+
+        <div id="bulbLeft" class="terminals"></div>
+        <div id="bulbRight" class="terminals"></div>
+        <div id="inductLeft" class="terminals"></div>
+        <div id="inductRight" class="terminals"></div>
+        <div id="inductBulbLeft" class="terminals"></div>
+        <div id="inductBulbRight" class="terminals"></div>
+        <div id="switchLeft" class="terminals"></div>
+        <div id="switchRight" class="terminals"></div>
+        <div id="batPos" class="terminals"></div>
+        <div id="batNeg" class="terminals"></div>
+        <div id="cirHelp"></div>
+        <div id="bulbLefInductLefWireMain">
+                <img id="bulbConnLeft" src="../PHY/EMM/largeEmfInduced/images/COPPER3.png" />
+                <img id="inductConnLeft" src="../PHY/EMM/largeEmfInduced/images/COPPER1.png" />
+                <img src="../PHY/EMM/largeEmfInduced/images/WIRE2.png" id="bulbLefInductLefWire" />
+
+        </div>
+        <div id="bulbRigInductRigWireMain">
+                <img id="bulbConnRight" src="../PHY/EMM/largeEmfInduced/images/COPPER4.png" />
+                <img id="inductConnRight" src="../PHY/EMM/largeEmfInduced/images/COPPER2.png" />
+                <img src="../PHY/EMM/largeEmfInduced/images/WIRE1.png" id="bulbRigInductRigWire" />
+        </div>
+        <div id="inducLefSwitchLefWireMain">
+                <img src="../PHY/EMM/largeEmfInduced/images/WIRE3.png" id="inducLefSwitchLefWire" />
+                <img id="inductConnLeft1" src="../PHY/EMM/largeEmfInduced/images/COPPER1.png" />
+        </div>
+
+        <div id="inducRigBatNegWireMain">
+                <img src="../PHY/EMM/largeEmfInduced/images/WIRE4.png" id="inducRigBatNegWire" />
+                <img id="inductConnRight1" src="../PHY/EMM/largeEmfInduced/images/COPPER2.png" />
+        </div>
+        <img src="../PHY/EMM/largeEmfInduced/images/WIRE5.png" id="switchRigBatPosWire" />
+        <img src="../PHY/EMM/largeEmfInduced/images/SHADE.png" id="shadowCircuit" />
+        <div id="keyDropArea"></div>
+        <div id="keyOutArea"></div>
+        <div id="keyOutArea1"></div>
+        <div id="keyOutArea2"></div>
+        <div id="keyOutArea3"></div>
+        <img src="../PHY/EMM/largeEmfInduced/images/circuit_diagram.png" id="circuitDiagram" />
+
+        <label for="checkCircuit">
+                <input type="checkbox" id="checkCir" /><span id="text1">Show/Hide the circuit diagram</span>
+        </label>
+</div>        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ var expTitle="Induced emf in Inductive Circuit";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>
+
+
+<div class="sim-footer flex-container  flex-center">
+    <!-- <div class="flex-align-center">Developed by Amrita University under research grant from<br>
+        Department Of Electronics & Information Technology</div> -->
+    <div class="flex-align-center" data-translate>Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India</div>
+    <div class="flex-container flex-row-reverse flex-1" class=" flex-end">
+        <img src="template/olabs_fs/images/dit_logo.gif" alt="Olabs">
+    </div>
+</div>
+<div class="sim-alert-overlay">
+    <div class="sim-alert">
+        <div class="sim-alert-heading" data-translate>Alert</div>
+        <div class="sim-alert-body">
+            <p data-translate>Do you want to reset the simulation</p>
+            <button class="reset" data-translate>Yes</button>
+            <button id="simResetCancel" data-translate>No</button>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=EMM&exp=largeEmfInduced&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:20:50 GMT -->
+</html>
+<script>
+
+</script>
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+    Updated : 27-12-2022 
+        - Reset button
+ -->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

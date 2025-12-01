@@ -1,0 +1,615 @@
+#bg {
+    width: 100%;
+    height: 100%;
+}
+.userSelect,#mainDiv,.sim-footer div,.sim-body{
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select: none;
+}
+img,.sim-buttons{
+    
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+/* #questDiv{
+    position: absolute;
+    top: 1%;
+    width: 100%;
+    height: 100%;
+    z-index: 888;
+    background-color: rgb(36 14 66);
+    display: none;
+} */
+#screen1{
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#screen2{
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#screen3{
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#screen4{
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#hand_trans
+{
+    position: absolute;
+    right: 74%;
+    width: 18%;
+    height: 32%;
+    top: 49%;
+    transform: rotate(11deg);
+    z-index: 3;
+}
+#hand_trans2{
+    position: absolute;
+    right: 77.5%;
+    width: 13%;
+    height: 26%;
+    top: 53%;
+    transform: rotate(1deg);
+    z-index: 4;
+}
+#hand_trans3{
+    position: absolute;
+    right: 81%;
+    width: 13%;
+    height: 22%;
+    top: 54%;
+    z-index: 1;
+    display: none;
+}
+#hand_trans4{
+    position: absolute;
+    right: 83%;
+    width: 12%;
+    height: 22%;
+    top: 55%;
+    z-index: 1;
+    display: none;
+}
+#spring{
+    position: absolute;
+    right: 13%;
+    width: 32%;
+    height: 9%;
+    top: 51%;
+    display: none;
+}
+#slinky{
+    position: absolute;
+    right: 17%;
+    width: 58%;
+    height: 11%;
+    top: 56%;
+}
+#thread{    
+    position: absolute;
+    top: 61%;
+    left: 77%;
+    width: 6%;
+}
+#labelDiv1{
+    text-align: center;
+    /* border: solid; */
+    width: 74%;
+    position: absolute;
+    height: 11%;
+    top: 2%;
+    left: 12%;
+    color: white;
+    font-size: 1.5vw; 
+}
+#labelDiv2{
+    text-align: center;
+    /* border: solid; */
+    width: 74%;
+    position: absolute;
+    height: 11%;
+    top: 1%;
+    left: 12%;
+    color: white;
+    font-size: 1.5vw; 
+}
+#labelDiv3{
+    text-align: center;
+    /* border: solid; */
+    width: 74%;
+    position: absolute;
+    height: 11%;
+    top: 2%;
+    left: 11%;
+    color: white;
+    font-size: 1.5vw;
+}
+#labelDiv4{
+    text-align: center;
+    /* border: solid; */
+    width: 74%;
+    position: absolute;
+    height: 11%;
+    top: 2%;
+    left: 11%;
+    color: white;
+    font-size: 1.5vw;
+}
+#Inference{
+    position: absolute;
+    top: 10%;
+    /* right: 92%; */
+    left: 2%;
+    z-index: 66;
+    display: none;
+    cursor: pointer;
+}
+#next {
+    position: absolute;
+    top: 4%;
+    display: none;
+    width: 8%;
+    height: 10%;
+    font-size: 1.5vw;
+    left: 85%;
+    background-color: burlywood;
+    border-radius: 9%;
+    color: darkred;
+    cursor: pointer;
+  }
+  #next2 {
+    position: absolute;
+    top: 4%;
+    display: none;
+    width: 8%;
+    height: 10%;
+    font-size: 1.5vw;
+    left: 83%;
+    background-color: burlywood;
+    border-radius: 9%;
+    color: darkred;
+    cursor: pointer;
+  }
+  #next3 {
+    position: absolute;
+    top: 4%;
+    display: none;
+    width: 8%;
+    height: 10%;
+    font-size: 1.5vw;
+    left: 84%;
+    background-color: burlywood;
+    border-radius: 9%;
+    color: darkred;
+    cursor: pointer;
+  }
+  #springDroparea{
+    /* border: solid; */
+    width: 2%;
+    height: 5%;
+    top: 57%;
+    left: 80%;
+    position: absolute;
+  }
+  #slinky3Droparea{
+    /* border: solid; */
+    width: 2%;
+    height: 5%;
+    top: 57%;
+    left: 52%;
+    position: absolute;
+  }
+  #spring4Droparea{
+    /* border: solid; */
+    width: 2%;
+    height: 5%;
+    top: 58%;
+    left: 41%;
+    position: absolute;
+  }
+  #slinky4Droparea{
+    /* border: solid; */
+    width: 2%;
+    height: 5%;
+    top: 57%;
+    left: 80%;
+    position: absolute;
+  }
+#slinky2{
+    position: absolute;
+    right: 22.5%;
+    width: 56%;
+    height: 9%;
+    top: 56%;
+    z-index: 3;
+}
+#spring2{
+    position: absolute;
+    right: 22%;
+    width: 33%;
+    top: 75%;
+    height: 7%;
+    cursor: pointer;
+}
+#spring2AfterDrag{
+    position: absolute;
+    right: 17%;
+    width: 28.2%;
+    top: 58%;
+    height: 6%;
+    /* cursor: pointer; */
+    z-index: 1;
+    display: none;
+}
+#slinky3AfterDrag{
+    position: absolute;
+    right: 44.5%;
+    width: 37%;
+    top: 58%;
+    height: 6%;
+    /* cursor: pointer; */
+    display: none;
+}
+#spring4AfterDrag{
+    position: absolute;
+    right: 56%;
+    width: 27.5%;
+    top: 58%;
+    height: 7%;
+    z-index: 1;
+    display: none;
+}
+#slinky4AfterDrag{
+    position: absolute;
+    right: 17%;
+    width: 40%;
+    top: 58%;
+    height: 6%;
+    display: none;
+}
+#slinky3{
+    position: absolute;
+    right: 60%;
+    width: 34%;
+    height: 6%;
+    top: 76%;
+    /* cursor: pointer; */
+}
+#spring4{
+    position: absolute;
+    right: 63%;
+    width: 34%;
+    top: 74%;
+    height: 8%;
+    cursor: pointer;
+}
+#slinky4{
+    position: absolute;
+    right: 20%;
+    width: 41%;
+    height: 7%;
+    top: 75%;
+    cursor: pointer;
+}
+#stand{
+    position: absolute;
+    left: 76%;
+    width: 21%;
+    height: 62%;
+    top: 30%;
+}
+#stand2{
+    position: absolute;
+    left: 76%;
+    width: 21%;
+    height: 62%;
+    top: 30%;
+}
+#stand3{
+    position: absolute;
+    left: 76%;
+    width: 21%;
+    height: 62%;
+    top: 30%;
+}
+#stand4{
+    position: absolute;
+    left: 76%;
+    width: 21%;
+    height: 62%;
+    top: 30%;
+}
+.reflectclass{
+    position: absolute;
+    width: 96%;
+    top: 20%;
+    height: 73%;
+    left: 3%;
+    display: none;
+}
+.reflectclass2{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    height: 100%;
+    left: 0%;
+    display: none;
+}
+.reflectclass3{
+    position: absolute;
+    width: 80%;
+    top: 43%;
+    height: 31%;
+    left: 3.4%;
+    display: none;
+}
+.reflectclass4{
+    position: absolute;
+    width: 84%;
+    top: 45%;
+    height: 36%;
+    left: 0%;
+    display: none;
+}
+
+#case1{
+    display: none;
+    position: absolute;
+    width: 92%;
+    top: 21%;
+    height: 70%;
+    left: 6%;
+}
+#case2{
+    display: none;
+    position: absolute;
+    width: 92%;
+    top: 21%;
+    height: 70%;
+    left: 6%;  
+}
+#case3{
+    position: absolute;
+    width: 78%;
+    height: 34%;
+    top: 45%;
+    left: 5%;
+    display: none;
+}
+#case4{
+    position: absolute;
+    width: 77%;
+    height: 37%;
+    top: 42%;
+    transform: rotate(2deg);
+    left: 6.5%;
+    display: none;
+}
+#slinkyLabel{
+    position: absolute;
+    top: 72%;
+    width: 16%;
+    height: 14%;
+    left: 44%;
+}
+#slinkyLabel2{
+    position: absolute;
+    top: 72%;
+    width: 16%;
+    height: 14%;
+    left: 44%;
+}
+#threadLabel{
+    position: absolute;
+    top: 71%;
+    width: 12%;
+    height: 12%;
+    left: 18%;
+}
+#slinkyLabel3{
+    position: absolute;
+    top: 83%;
+    width: 16%;
+    height: 14%;
+    left: 18%;
+}
+#springLabel{
+    position: absolute;
+    top: 83%;
+    width: 16%;
+    height: 14%;
+    left: 60%;
+}
+#slinkyLabel4{
+    position: absolute;
+    top: 83%;
+    width: 16%;
+    height: 14%;
+    left: 46%;
+}
+#springLabel2{
+    position: absolute;
+    top: 83%;
+    width: 16%;
+    height: 14%;
+    left: 14%;
+}
+#handArea{
+    position: absolute;
+    /* border: solid; */
+    width: 18%;
+    height: 12%;
+    top: 60%;
+    left: 8%;
+    transform: rotate(162deg);
+    border-radius: 58%;
+    z-index: 3;
+    cursor: pointer;
+}
+#handArea2{
+    position: absolute;
+    /* border: solid; */
+    width: 14%;
+    height: 9%;
+    top: 49%;
+    left: 80%;
+    transform: rotate(186deg);
+    border-radius: 58%;
+    z-index: 4;
+    cursor: pointer;
+    /* border: solid; */
+}
+#handArea3{
+    position: absolute;
+    /* border: solid; */
+    width: 13%;
+    height: 8%;
+    top: 62%;
+    left: 6%;
+    transform: rotate(151deg);
+    border-radius: 58%;
+    z-index: 4;
+    cursor: pointer;
+}
+#handArea4{
+    position: absolute;
+    /* border: solid; */
+    width: 12%;
+    height: 7%;
+    top: 63%;
+    left: 5%;
+    transform: rotate(151deg);
+    border-radius: 58%;
+    z-index: 4;
+    cursor: pointer;
+}
+
+/************* question style ***************/
+
+.questionLayout {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(36 14 66);
+    top: 0%;
+    z-index: 1000;
+ 
+}
+.questionNumber
+{
+    position: absolute;
+    width: 100%;
+    height: 12%;
+    background-color: #c0c1c900;
+    top: 2%;
+    border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1.8vw;
+    top: 20%;
+    left: 3%;
+    font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1.8vw;
+    top: 20%;
+    left: 88%;
+    font-family: 'Inconsolata';
+}
+.questionText
+{
+    position: absolute;
+    color: #cac9cbb3;
+    top: 18%;
+    left: 3%;
+    /* background-color: rgb(36, 14, 66); */
+    width: 94%;
+    height: 12%;
+}
+.questionTextAlignment
+{
+    position: absolute;
+    width: 98%;
+    height: 75%;
+    top: 11%;
+    left: 2%;
+    font-size: 1.5vw;
+    color: #fcf8f8;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: not-allowed;
+}
+.OptionOne
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 34%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionTwo
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 48%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionThree
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 62%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionFour
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 76%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.optionTestDesign {
+    position: absolute;
+    color: #ffffff;
+    font-size: 1.5vw;
+    top: 20%;
+    left: 5%;
+}
+.optionNo
+{
+    padding-right: 7px;
+}
+/************* question style ***************/

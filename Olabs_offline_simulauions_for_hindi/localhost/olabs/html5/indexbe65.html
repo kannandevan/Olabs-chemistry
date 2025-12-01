@@ -1,0 +1,446 @@
+
+
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=CLA&exp=Study_velocity_of_a_pulse_through_string&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:23:31 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+       
+    </style>
+    <title></title>
+    <link href="template/olabs_fs/css/mainstyle.css" rel="stylesheet" type="text/css" />
+    <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+    <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/Gettext.js"></script>
+
+    <script language="javascript" type="text/javascript" src="template/olabs_fs/js/responsive.js"></script>
+    <link  href="../PHY/CLA/Study_velocity_of_a_pulse_through_string/css/simstyle.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/js/simcontrols.js"></script>
+
+<script language="javascript" type="text/javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/js/help.js"></script>
+
+<script language="javascript" type="text/javascript" src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/js/QuestionExecutePackage.js"></script>
+
+
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/CLA/Study_velocity_of_a_pulse_through_string/locale/en-IN/LC_MESSAGES/messages.po' />  
+<script type="text/javascript" src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/js/Gettext.js"></script></head>
+<body>
+        <div class="sim-body"  oncontextmenu="return false">
+        <div class="flex-container flex-col w-full h-full flex-aligen-stretch">
+            <div class="sim-head" id="expName">
+            Array            </div>
+            <div class="sim-buttons flex-container flex-row-reverse ">
+                <button class="sim-btn" id="changeScreenBtn" data-translate>
+                    MAXIMIZE                </button>
+                <div class="sim-btn" id="simHelp" data-translate>
+                    HELP                </div>
+                <button class="sim-btn" id="simReset" data-translate>
+                    RESET                </button>
+            </div><div class="flex-container sim-interactive-area">
+    <div class="sim-controls">
+        <div class="control-div">
+            <div class="control-scroll-area">
+                <div class="saltBox control-box flex-container flex-col px-20">
+
+    <div class="varTitle">
+        <h2 id="theInstruction1" data-translate>Instructions:</h2>
+
+
+<!-- 
+        <h5 id="Length" data-translate>Length of String:<span id="valueofChangeInLength">9</span></h5>
+        <input class="rangeSlider" data-translate type="range" min="9" max="13" name="changeInLength" id="changeInLength"
+            value="9" step="1" oninput="valueofChangeInLength()" />
+
+
+            
+        <h5 id="changeInJour" data-translate>Journey of String:<span id="valueofJourneyLength">3</span></h5>
+        <input class="rangeSlider" data-translate type="range" min="3" max="5" name="JourneyLength" id="JourneyLength" value="3" step="2" oninput="valueofJourney()" /> -->
+<h5 id="Length">
+    <span data-translate-text>Length of String:</span><span id="valueofChangeInLength">9</span>
+</h5>
+
+<input class="rangeSlider" type="range" min="9" max="13" name="changeInLength" id="changeInLength"
+    value="9" step="1" oninput="valueofChangeInLength()" />
+
+<h5 id="changeInJour">
+    <span data-translate-text>Journey of String:</span><span id="valueofJourneyLength">3</span>
+</h5>
+
+<input class="rangeSlider" type="range" min="3" max="5" name="JourneyLength" id="JourneyLength" value="3" step="2" oninput="valueofJourney()" />
+    </div>
+
+
+</div>            </div>
+        </div>
+    </div>
+    <div class="sim-div">
+        <div class="sim-canvas">
+            <div id="mainDiv" style=" overflow: hidden;">
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/bg.jpg" id="bg" />
+   
+    <div id = "page1Div"></div>	
+
+    <!-- Write your simulation here -->
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/inference.png" id="inference" class="inference" />
+
+
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/Stringnametag.png" id="Stringtag"/>
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/hooklabel.png" id="Hooktag"/>
+
+
+    <!-- <p align="center"><input type="button" class="subButton" name="Next" value="Next" id="firstPagebutton" /></p> -->
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/string.png" id="StringWithoutDrag" class="StringwithoutDrag" />
+
+
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/wood%20block.png" id="Woodenstand" class="Woodenstand" />
+
+
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/Hook.png" id="Hook" class="Hook" />
+
+
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/lengthenstring.png" id="String" class="String" />
+
+
+    <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/handwithstring.png" id="Predefinedstringwithhand" class="Predefinedstringwithhand" />
+
+
+    <div id="thefistDroparea">
+
+    </div>
+
+    <div id="firstanimationDiv">
+        <!-- <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/handwithstring.png" id="stringwithhand" class="stringwithhand" /> -->
+
+    </div>
+
+    <!-- third oscillation animation div -->
+
+    <div id="thethirdOrientationdiv">
+
+    </div>
+    <div id="thefifthOrientationdiv">
+
+    </div>
+
+    <!-- Clock -->
+
+    <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+    <div class="stopWatchDiv">
+        <span>
+            <table class="w">
+                <tr>
+                    <td>
+                        <!-- <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/Stopwatchs.png" id="Stopwatch" class="Stopwatch" /> -->
+
+                        <center class="timeShowLabel" data-translate>Min.</center>
+                    </td>
+                    <td>
+                        <center> </center>
+                    </td>
+                    <td>
+                        <center class="timeShowLabel" data-translate>Sec.</center>
+                    </td>
+                    <td>
+                        <center> </center>
+                    </td>
+                    <td>
+                        <center class="timeShowLabel" data-translate>Ms.</center>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <center class="timeShow" id="minCount">03</center>
+                    </td>
+                    <td>
+                        <center class="timeShow">:</center>
+                    </td>
+                    <td>
+                        <center class="timeShow" id="secontCount">24</center>
+                    </td>
+                    <td>
+                        <center class="timeShow">:</center>
+                    </td>
+                    <td>
+                        <center class="timeShow" id="milliCount">34</center>
+                    </td>
+                </tr>
+            </table>
+        </span>
+    </div>
+    <!--  -->
+    <p align="center"><input type="button" class="subButton" name="Next" data-translate-value value="Next" id="firstPagebutton" /></p>
+
+
+    <div id="resultwindow" style="display:none">
+
+<table id="firstresult">
+<tr>
+    <td>Time</td><td>=</td>
+<td>
+    t/n
+</td>
+<td>
+<input type="number" style="width: 82%;" value="" name="timeperi" id="Theinputtime"  title="Input the Time" required>
+</td>
+<td>
+    /
+</td>
+<td style="padding-left: 4%;">
+<input type="number" style="width: 82%;" id="Theinputjourney" title="Input the Number of Journey" required>
+</td>
+</tr>
+<tr>
+</tr>
+<!-- s -->
+<tr>
+<td>
+</td>
+<td>
+=
+</td>
+<td>  
+</td>
+<td>
+<input type="text" id="TheOutput">
+</td>
+<td>
+</td>
+<td>
+<input type="button" class="subButton2" name="Next" data-translate-value value="Show Time Period" id="firtsResult" /></td>
+</tr>
+<tr>
+</tr>
+<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+<!-- Table 2 -->
+<tr id="firstRow" style="display:none">
+    <td>
+    Speed
+    </td>
+<td>
+    =
+</td>
+<td>
+l/T
+</td>
+<td>
+<input type="number" style="        width: 79%;margin-left: 1%;" value="" id="Theinputlength" title="Input the Length" required>
+</td>
+<td>
+    /
+</td>
+<td style="padding-left: 4%;">
+<input type="number" style="width: 82%; " id="Theinputtimeperiod" data-translate title="Input the Time Period" required>
+</td>
+</tr>
+<tr>
+</tr>
+<!-- s -->
+<tr id="firstRow2" style="display:none">
+<td>
+</td>
+<td>
+=
+</td>
+<td>  
+</td>
+<td>
+<input type="text" id="TheOutput2">
+</td>
+<td>
+</td>
+<td>
+<input type="button" class="subButton2" name="Next" data-translate-value value="Show Speed" id="SecondResult" /></td>
+</td>
+<tr id="firstRow3" style="display:none">
+    <td>
+    <input type="button" class="subButton2" name="Next" data-translate-value value="Check Result" id="CheckResult"
+                    style="display:none" />
+
+    </td>
+</tr>
+
+
+
+
+<!-- s -->
+</table>
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Second ResultWindow -->
+        <!-- <table id="secondfirstresult" style="display: none;">
+            <td style="font-family: myFirstFont;">
+                Speed
+            </td>
+            <td>
+                =
+            </td>
+            <td style="font-family: myFirstFont;">
+                l/T
+            </td>
+
+            <td>
+                <input type="number" style="        width: 79%;margin-left: 1%;" value="" id="Theinputlength" title="Input the Length" required>
+            </td>
+            <td style="position: absolute; left: 55%;">/</td>
+            <td>
+                <input type="number" style="width: 82%;" id="Theinputtimeperiod" title="Input the Time Period" required>
+            </td>
+            <tr>
+                <td style="    position: absolute; top: 108%; left: 20%;">=</td>
+                <td><input type="text" id="TheOutput2"></td>
+                <td>
+                    <p align="center"><input type="button" class="subButton2" name="Next" value="Show Speed" id="SecondResult" /></p>
+                </td>
+            </tr>
+            <p align="center"><input type="button" class="subButton2" name="Next" value="Check Result" id="CheckResult"
+                    style="display:none" /></p>
+        </table> -->
+        
+        
+        <img src="../PHY/CLA/Study_velocity_of_a_pulse_through_string/images/right.png" id="writeAnsw" class="" />
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div id="thewrongansweerdiv" style="display:none">
+
+        <table style="width: 77%;height: 77%;">
+            <tr>
+                <p style="margin-left: 25%; font-family: myFirstFont;" id="text_001">The correct answer<p>
+                    <td>
+                        <p style="margin-left: 9%;width: 100%;font-family: myFirstFont;"> Time period = t/n<p><td>
+                        <p style="font-family: myFirstFont;" id="WrongTimeperiod"> 0.7</p>
+                    </td>
+                    </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 9%; font-family: myFirstFont;">
+                    <p style="margin-left: 76%;width: 90%; font-family: myFirstFont;"></p> Speed = l/T
+                <td>
+                    <p style="font-family: myFirstFont;" id="WrongTimeSpeed"> 0.9</p>
+                </td>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+
+    </body>
+
+
+</div>        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ var expTitle="Speed of a Transverse Pulse Propagated through a Stretched String";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>
+<div class="sim-footer flex-container  flex-center">
+    <!-- <div class="flex-align-center">Developed by Amrita University under research grant from<br>
+        Department Of Electronics & Information Technology</div> -->
+    <div class="flex-align-center" data-translate>Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India</div>
+    <div class="flex-container flex-row-reverse flex-1" class=" flex-end">
+        <img src="template/olabs_fs/images/dit_logo.gif" alt="Olabs">
+    </div>
+</div>
+<div class="sim-alert-overlay">
+    <div class="sim-alert">
+        <div class="sim-alert-heading" data-translate>Alert</div>
+        <div class="sim-alert-body">
+            <p data-translate>Do you want to reset the simulation</p>
+            <button class="reset" data-translate>Yes</button>
+            <button id="simResetCancel" data-translate>No</button>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=CLA&exp=Study_velocity_of_a_pulse_through_string&tempId=olabs_fs by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Nov 2025 05:23:59 GMT -->
+</html>
+<script>
+
+</script>
+
+<!--
+    Item : Olabs New Responsive template 
+    Developed by : AmritaCREATE(2022)
+    Updated : 27-12-2022 
+        - Reset button
+ -->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

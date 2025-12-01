@@ -1,0 +1,438 @@
+.varBox,
+#bgCanvas1,
+#scene1,
+#scene2 {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+img,
+.sim-buttons .sim-btn,
+#changeScreenBtn,
+#simHelp {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -ms-user-drag: none;
+
+}
+
+#mainDiv div {
+  position: absolute;
+
+}
+
+#mainDiv img {
+  position: absolute;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -ms-user-drag: none;
+}
+
+.userSelect,
+#mainDiv,
+.sim-footer div,
+.sim-body {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#bg {
+  height: 100%;
+  width: 100%;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.px-20 {
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+#actTypes,
+#springLen,
+#soundVelo,
+#springLenTwo,
+#soundVeloTwo {
+  height: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 100%;
+  background-color: lavenderblush;
+  text-align: left;
+  margin-top: 0%;
+  border: solid;
+  cursor: pointer;
+  box-shadow: 0 0 cadetblue;
+
+}
+
+#thumbNail {
+  top: 0%;
+    font-weight: 700;
+    color: aliceblue;
+    left: 2%;
+    height: 30%;
+    width: 88%;
+}
+
+#harmonicsCount {
+  top: 13%;
+  font-size: 1.3vw;
+  font-weight: 700;
+  color: aliceblue;
+  margin: 0% auto;
+  left: 2%;
+}
+
+#harmonicsCountOpen {
+  top: 13%;
+  font-size: 1.3vw;
+  font-weight: 700;
+  color: aliceblue;
+  margin: 0% auto;
+  left: 2%;
+}
+
+#mainThumb2 {
+  display: none;
+}
+#mainThumb3 {
+  display: none;
+  left: 3%;
+  background-color: cadetblue;
+  height: 37%;
+  left: 0%;
+  position: absolute;
+  border: solid;
+  border-color: powderblue;
+  width: 72.6%;
+  padding-top: 3%;
+  padding-bottom: 0%;
+  padding-left: 2%;
+  top: 0%;
+  font-size: 1vw;
+
+}
+#classifyType {
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+#next {
+  position: absolute;
+  top: 80%;
+  width: 11%;
+  height: 10%;
+  font-size: 1.5vw;
+  left: 86%;
+  background-color: #DBDBDB;
+  border-radius: 9%;
+  display: none;
+  pointer-events: none;
+  /* cursor: pointer; */
+
+}
+
+#start {
+  position: absolute;
+  top: 80%;
+  width: 11%;
+  height: 10%;
+  font-size: 1.5vw;
+  left: 86%;
+  background-color: #DBDBDB;
+  border-radius: 9%;
+  cursor: pointer;
+
+}
+
+#nextOpen {
+  position: absolute;
+  top: 80%;
+  width: 11%;
+  height: 10%;
+  font-size: 1.5vw;
+  left: 86%;
+  background-color: #DBDBDB;
+  border-radius: 9%;
+  display: none;
+  pointer-events: none;
+
+}
+
+#startOpen {
+  position: absolute;
+  top: 80%;
+  width: 11%;
+  height: 10%;
+  font-size: 1.5vw;
+  left: 86%;
+  background-color: #DBDBDB;
+  border-radius: 9%;
+  cursor: pointer;
+
+}
+.gapSize{
+  padding-top: 20px;
+}
+#rigidEnds {
+  height: 100%;
+  width: 100%;
+overflow: hidden;
+}
+
+#openEnd {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: none;
+}
+
+#check {
+  width: 10%;
+  margin-top: 25%;
+}
+
+#resultData {
+  margin-top: 15%;
+  font-weight: 700;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
+
+}
+
+#resultDataOpen {
+  margin-top: 15%;
+  font-weight: 700;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
+
+}
+
+#text1 {
+  position: absolute;
+  top: 5.1%;
+  left: 61%;
+}
+
+td {
+  text-align: left;
+}
+
+.headRig {
+  text-align: left;
+  width: 100%;
+}
+
+.tabRig {
+  text-align: left;
+  width: 0%;
+}
+
+#valueTab {
+  border: solid;
+  height: 93%;
+  width: 100%;
+  margin-top: 0%;
+  font-size: 1vw;
+}
+
+#secondPage {
+  display: none;
+}
+
+.labelTab {
+  margin-top: 5%;
+  font-size: 0.9vw;
+}
+
+#intro {
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+#noteDiv {
+  border: solid;
+  background-color: antiquewhite;
+  box-shadow: 0px 0px 8px 7px rgb(0 0 0);
+  width: 99.5%;
+  height: 100%;
+}
+
+.harmOneAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+
+}
+
+.harmTwoAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+
+}
+
+.harmThreeAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+}
+
+.harmFourAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+}
+
+.harmFiveAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+}
+
+.harmSixAnimation {
+  left: 0%;
+  top: 7%;
+  height: 84%;
+  width: 86%;
+  display: none;
+}
+
+.openHarmOneAnimation {
+  left: -4%;
+  top: 20%;
+  height: 70%;
+  width: 89%;
+  display: none;
+
+}
+
+.openHarmTwoAnimation {
+  left: 0%;
+  top: 22%;
+  height: 84%;
+  width: 86%;
+  display: none;
+
+}
+
+.openHarmThreeAnimation {
+  left: -4%;
+  top: 20%;
+  height: 70%;
+  width: 89%;
+  display: none;
+
+}
+
+.openHarmFourAnimation {
+  left: -4%;
+  top: 20%;
+  height: 70%;
+  width: 89%;
+  display: none;
+
+}
+
+.openHarmFiveAnimation {
+  left: -4%;
+  top: 20%;
+  height: 70%;
+  width: 89%;
+  display: none;
+
+}
+
+#hand {
+  width: 16%;
+  height: 17%;
+  top: 42%;
+  left: -1%;
+}
+
+#handOpen {
+  width: 91%;
+  height: 70%;
+  top: 20%;
+  left: -6%;
+}
+
+#knob {
+  width: 5%;
+  height: 44%;
+  top: 30.5%;
+  left: 76%;
+}
+
+#spring {
+  width: 70%;
+  height: 8%;
+  top: 44%;
+  left: 12%;
+}
+
+#openendHand {
+  width: 16%;
+  height: 17%;
+  top: 63%;
+  left: -1%;
+}
+
+#introOpen {
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+#noteDivOpen {
+  border: solid;
+  background-color: antiquewhite;
+  box-shadow: 0px 0px 8px 7px rgb(0 0 0);
+  width: 99.5%;
+  height: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1vw;
+  margin-bottom: 1%;
+}

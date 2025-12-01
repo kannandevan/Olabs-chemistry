@@ -1,0 +1,673 @@
+.varTitle{
+    font-size: 1.4vw;
+}
+.userSelect {
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select: none;
+}
+
+.sim-body{
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+
+.main p {
+	overflow: visible;
+}
+#page1Div{
+	width: 100%;
+    height: 100%;
+}
+#bg{
+    width: 100%;
+    height: 100%;
+}
+#stand{
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    /* width: 35%; */
+    height: 78%;
+}
+
+#sliderDiv{
+    position: absolute;
+    top: 3%;
+    left: 6%;
+    color: white;
+}
+#leftminval{
+    margin-right: 73%;
+}
+#leftmaxval{
+    margin-left: -9%;
+}
+#SlidervalueDiv{
+    margin-left: 69%;
+}
+#burnerDiv{
+    position: absolute;
+    top: 68%;
+    left: 16%;
+    width: 20%;
+    height: 25%;
+    z-index: 1;
+}
+#burner{
+    position: absolute;
+    top: 5%;
+    left: 3%;
+    width: 98%;
+    height: 94%;
+}
+#burnerOn{
+    position: absolute;
+    top: 55%;
+    left: 22%;
+    width: 3%;
+    height: 3%;
+    display: none;
+}
+#burnerOff{
+    position: absolute;
+    top: 54%;
+    left: 22%;
+    width: 6%;
+    height: 4%;
+    z-index: 3;
+    pointer-events: none;
+}
+#TriStand{
+    position: absolute;
+    top: 56%;
+    left: 11.5%;
+    width: 15%;
+    height: 37%;
+}
+#beakerDiv{
+    position: absolute;
+    top: 61%;
+    left: 55%;
+    width: 12%;
+    height: 27%;
+}
+#stopWatch{
+    position: absolute;
+   
+    width: 131%;
+    height: 107%;
+}
+/* #beakerWater{
+    position: absolute;
+    top: 35%;
+    left: -19%;
+    width: 149%;
+    height: 61%;
+} */
+#beakerSlant{
+    position: absolute;
+    top: 12%;
+    left: 19%;
+    width: 12%;
+    display: none;
+    height: 27%;
+}
+#beaker{
+    position: absolute;
+    top: 15%;
+    left: 19%;
+    width: 9%;
+    display: none;
+    height: 24%;
+}
+#startLabel{
+    font-weight: bold;
+    position: absolute;
+    top: 55%;
+    left: 20%;
+    font-size: 0.6vw;
+}
+#stopWatchDiv{
+    position: absolute;
+    top: 66%;
+    left: 29%;
+    width: 8%;
+    height: 17%;
+}
+#timeDiv{
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    font-size: 1vw;
+}
+.time{
+    position: absolute;
+    top: 27%;
+    left: 72%;
+    font-size: 1vw;
+}
+#secontCount{
+    
+    left: 65%;
+}
+#calorimeterBack{
+    position: absolute;
+    width: 80%;
+    height: 75%;
+    z-index: 1;
+}
+#calorimeterFront{
+    position: absolute;
+    width: 80%;
+    height: 75%;
+    z-index: 9;
+    top: 1%;
+}
+#stirrer{
+    position: absolute;
+    top: -19%;
+    left: 35%;
+    width: 38%;
+    height: 85%;
+    z-index: 8;
+}
+#calorimeterDiv{
+    position: absolute;
+    top: 62%;
+    left: 45%;
+    width: 9%;
+    height: 25%;
+    cursor: pointer;
+}
+#thermometer{
+    position: absolute;
+    top: 83%;
+    left: 71%;
+    width: 19%;
+    height: 2%;
+    z-index: 1;
+}
+#calorimeterLidDiv{
+    width: 9%;
+    height: 10%;
+    position: absolute;
+    top: 83%;
+    left: 42%;
+ 
+}
+#CalorimeterLidBack{
+    width: 82%;
+    height: 39%;
+    position: absolute;
+    top: 3%;
+}
+#CalorimeterLidFront{
+    width: 82%;
+    height: 26%;
+    position: absolute;
+    top: 16.5%;
+    z-index: 10;
+}
+#dropAreaWiregauge
+{
+    width: 19%;
+    height: 52%;
+    position: absolute;
+    top: 7%;
+    left: 11%;
+}
+#waterPour{
+    width: .3%;
+    height: 0%;
+    position: absolute;
+    top: 28%;
+    left: 19%;
+    z-index: 8;
+}
+#zoomArea{
+    display: none;
+    width: 14%;
+    height: 52%;
+    position: absolute;
+    top: 9%;
+    left: 75%;
+    border: solid;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#zoomScale{
+    width: 37%;
+    height: 561%;
+    position: absolute;
+    top: -397%;
+    left: 31%;
+    z-index: 1;
+}
+#redLine{
+    width: 6%;
+    height: 77%;
+    position: absolute;
+    top: 28%;
+    left: 51%;
+    background-color: red;
+}
+#temperature{
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 71%;
+    font-size: 1.2vw;
+    display: none;
+}
+.flameCls{
+    position: absolute;
+    left: 13%;
+    top: -18%;
+    width: 6%;
+    height: 23%;
+    display: none;
+}
+#caloriLabel{
+
+    position: absolute;
+    top: 89%;
+    height: 9%;
+    left: 42%;
+}
+#burnerLabel{
+    position: absolute;
+    top: 89%;
+    height: 9%;
+    left: 13%;
+}
+
+/* #outerDivScale
+{
+    position: absolute;
+    top: 5%;
+    left: 83%;
+    width: 13%;
+    height: 56%;
+    background-color: white; */
+  /*   overflow: hidden;
+    border: black solid;
+    border-radius: 6px;
+    display: none;
+}
+#innerScale
+{
+    position: absolute;
+    top: -308%;
+    left: 31.5%;
+    background-color: green; */
+  /*   width: 38%;
+    height: 460%;
+}
+#scale
+{
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  top: 0%;
+  z-index: 2;
+}
+.divcommon
+{
+  position: absolute;
+   border: solid 1px rgb(224, 46, 46); */
+ /* width: 100%;
+  
+}
+#heatValue
+{
+    position: absolute;
+    width: 25%;
+    bottom: 0%;
+    height: 24.3%;
+    left: 35%;
+    background-color: rgb(255, 0, 0);
+    z-index: 1;
+} */
+
+/* 
+.outerDiv
+{
+    position: absolute;
+    border: solid 1px rgb(244, 0, 0);
+    width: 20%;
+    height: 55%;
+    top: 12%;
+    left: 70%;
+    background-color: white;
+    /* overflow: hidden; 
+}
+.innerDiv
+{
+    position: absolute;
+    border: solid 1px red;
+    width: 57%;
+    height: 800%;
+    top: -362%;
+    left: 22%;
+}
+.imgScale
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+.divcommon
+{
+    position: absolute;
+    width: 100%;*/
+    /* border-bottom: solid 1px red; 
+}
+.reading
+{
+    position: absolute;
+    bottom: 0%;*/
+    /* height: 20.8%; 
+    width: 10%;
+    left: 59%;
+    background-color: blue;
+} */
+
+
+
+
+.outerDiv{
+    position: absolute;
+    border: solid rgb(26, 26, 26);
+    width: 15%;
+    height: 56%;
+    top: 6%;
+    left: 70%;
+    border-radius: 7px;
+    overflow: hidden;
+    display: none;
+}
+.innerDiv{
+    position: absolute;
+    width: 44%;
+    height: 800%;
+    top: -563%;
+    left: 28%;
+}
+.imgScale{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+.divcommon{
+    position: absolute;
+    width: 100%;
+}
+.reading{
+    position: absolute;
+    bottom: 0%;
+    height: 21%;
+    width: 13%;
+    left: 53%;
+    background-color: rgba(255, 0, 0, 0.838);
+}
+
+#nextButton{
+    position: absolute;
+    left: 89%;
+    top: 7%;
+    width: 8.5%;
+    height: 7%;
+    display: none;
+    font-size: 1.1vw;
+    cursor: pointer;
+}
+#ConnextButton{
+    position: absolute;
+    left: 85%;
+    top: 3%;
+    width: 11%;
+    display: none;
+    font-size: 1.1vw;
+    cursor: pointer;
+}
+#nextButton1{
+    position: absolute;
+    left: 88%;
+    top: 93%;
+    width: 9%;
+    font-size: 1.1vw;
+    cursor: pointer;
+}
+#nextButton2{
+    position: absolute;
+    left: 88%;
+    top: 93%;
+    width: 9%;
+    font-size: 1.1vw;
+    cursor: pointer;
+    z-index: 12;
+    display: none;
+}
+#page2Div{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: none;
+}
+#page3Div{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: none;
+}
+ #controlTable {
+    font-size: 0.9vw;
+    height: 100%;
+    margin-left: 0%;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#controlTable td,th{
+    border: 0.5px solid black;
+}
+#plotGraph
+{
+    width: 47%;
+  
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #AAAAAA #AAAAAA #888888;
+ 
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+ 
+    color: #333333;
+    cursor: pointer;
+  
+    font-size: 1vw;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin: 1px;
+    padding: 0.45em 0.8em;
+   
+    background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8));
+    background: -webkit-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+    background: -o-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+    background: -ms-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+   
+}
+
+
+#Page2InnerDiv{
+    position: absolute;
+    top: 11%;
+    /* background-color: red; */
+    width: 93%;
+    height: 100%;
+    left: 5%;
+}
+#canvasTable{
+    width: 100%;
+    font-size: 1vw;
+    border-collapse: collapse;
+    height: 91%;
+}
+#canvasTable td,th{
+    border: 0.5px solid black;
+}
+
+#thermometerLabel{
+    position: absolute;
+    top: 89%;
+    height: 9%;
+    left: 74%;
+}
+
+
+
+/* ====================================== */
+/* =============== new style ============ */
+/* ====================================== */
+.hoverStyle:hover
+    {
+        /* background-color: rgb(255 255 255 / 27%); */
+    }
+.hoverStyle
+{
+    position: absolute;
+    width: 53%;
+    /* background-color: rgb(255 255 255 / 17%); */
+    top: 1%;
+    left: 15%;
+    border-radius: 5px;
+    padding-left:5px
+}
+@media (max-width: 480px){
+    .fontClass {
+        font-size: 2vw !important;
+    }
+    .hoverStyle
+    {
+        position: absolute;
+        width: 58%;
+        /* background-color: rgb(255 255 255 / 17%); */
+        top: -2%;
+        left: 15%;
+        border-radius: 5px;
+        padding-left:5px
+    }
+}
+#temperature {
+    color: white;
+    position: absolute;
+    top: 67%;
+    left: 80%;
+    font-size: 1.2vw;
+    display: none;
+}
+.outerDiv {
+    position: absolute;
+    border: solid rgb(26, 26, 26);
+    width: 15%;
+    height: 56%;
+    top: 12%;
+    left: 81%;
+    border-radius: 7px;
+    overflow: hidden;
+    display: none;
+}
+#nextButton {
+    position: absolute;
+    left: 89%;
+    top: 2%;
+    width: 8.5%;
+    height: 7%;
+    /* display: none; */
+    font-size: 1.1vw;
+    cursor: pointer;
+}
+#ConDiv{
+    width: 99.5%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    border: 2px solid;
+    border-radius: 6%;
+    background-color: white;
+    z-index: 11;
+    position: absolute;
+    display: none;
+}
+#GraphNew{
+    width: 37%;
+    margin-left: 62%;
+    margin-top: 7%;
+}
+#ConDivText{
+    width: 64%;
+    top: 6%;
+    left: 36%;
+    font-size: 1vw;
+border: solid;
+    position: absolute;
+}
+#bgTable{
+    margin-top: -36%;
+    font-size: 1vw;
+    height: 100%;
+    position: absolute;
+    width: 60%;
+}
+#tableP{
+    font-size: 2vw;
+    text-align: center;
+    font-family: auto;
+    font-weight: 900;
+    top: -8%;
+    left: 67%;
+    position: absolute;
+}
+#tableScale{
+    height: 3%;
+    width: 100%;
+    left: 60%;
+    top: 13%;
+    z-index: 12;
+    position: absolute;
+}
+#graphXAxis{
+    left: 40%;
+    top: 90%;
+    position: absolute;
+    height: 6%;
+    width: 27%;
+}
+#graphYAxis{
+    left: -11%;
+    top: 38%;
+    position: absolute;
+    height: 9%;
+    width: 28%;
+    transform: rotate(-90deg);
+}

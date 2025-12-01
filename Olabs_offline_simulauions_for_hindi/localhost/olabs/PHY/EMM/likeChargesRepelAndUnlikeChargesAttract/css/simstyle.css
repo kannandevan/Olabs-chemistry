@@ -1,0 +1,655 @@
+.varBox,
+#bgCanvas1,
+#scene1,
+#scene2 {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+img,
+.sim-buttons .sim-btn,
+#changeScreenBtn,
+#simHelp {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -ms-user-drag: none;
+}
+
+#mainDiv div {
+  position: absolute;
+}
+
+#mainDiv img {
+  position: absolute;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -ms-user-drag: none;
+}
+
+.userSelect,
+#mainDiv,
+.sim-footer div,
+.sim-body {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#bg {
+  height: 100%;
+  width: 100%;
+}
+
+#Two {
+  height: 97%;
+  width: 85%;
+  margin-left: 7%;
+  margin-top: 0.5%;
+}
+
+#One {
+  height: 97%;
+  width: 85%;
+  margin-left: 7%;
+  margin-top: 0.5%;
+  display: none;
+}
+
+#silkFinal {
+  height: 97%;
+  width: 85%;
+  margin-left: 7%;
+  margin-top: 0.5%;
+  display: none;
+}
+
+#woolFinal {
+  top: 1%;
+  left: 7%;
+  height: 97%;
+  width: 85%;
+  display: none;
+}
+
+#finalSilkEbon {
+  height: 98%;
+  width: 73%;
+  margin-left: 6%;
+  margin-top: 0.5%;
+  display: none;
+}
+
+#Three {
+  height: 98%;
+  width: 73%;
+  margin-left: 6%;
+  margin-top: 0.5%;
+  display: none;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.px-20 {
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+.textName {
+  margin-top: 41%;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+}
+
+#glassRodSel {
+  height: 95%;
+  padding-top: 17%;
+  width: 93%;
+  padding-bottom: 17%;
+  margin-top: 0%;
+  cursor: pointer;
+  border: solid;
+  margin-left: 2%;
+  border-radius: 17%;
+}
+
+#glassRodCon {
+  height: 28%;
+  width: 106%;
+  margin-top: 24%;
+  transform: rotate(45deg);
+}
+
+#eboRodCon {
+  height: 24%;
+  width: 101%;
+  margin-top: 29%;
+  transform: rotate(45deg);
+}
+
+#eboRodSel {
+  height: 100%;
+  padding-top: 13%;
+  width: 89%;
+  padding-bottom: 16%;
+  margin-top: 1%;
+  cursor: pointer;
+  border: solid;
+  margin-left: 6%;
+  border-radius: 17%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0px;
+}
+
+#glassClick {
+  height: 100%;
+  width: 100%;
+}
+
+#ebonClick {
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+#glassRodCanva {
+  height: 6%;
+  width: 23%;
+  left: 40%;
+  top: 73%;
+  transform: rotate(165deg);
+}
+
+#glassRodCanvaSec {
+  height: 6%;
+  width: 23%;
+  left: 47%;
+  top: 40%;
+  z-index: 1;
+  transform: rotate(-16deg);
+  display: none;
+}
+
+#ebonRodCanvaSec {
+  height: 6%;
+  width: 23%;
+  left: 47%;
+  cursor: pointer;
+  top: 40%;
+  z-index: 1;
+  transform: rotate(-16deg);
+  display: none;
+}
+
+#glassRodCanvaTwo {
+  height: 6%;
+  width: 23%;
+  left: 60%;
+  top: 73%;
+  transform: rotate(165deg);
+}
+
+#ebonRodCanva {
+  height: 6%;
+  width: 23%;
+  left: 40%;
+  top: 73%;
+  transform: rotate(165deg);
+}
+
+#ebonRodCanvaTwo {
+  height: 6%;
+  width: 23%;
+  left: 60%;
+  top: 73%;
+  transform: rotate(165deg);
+}
+
+#glassStand {
+  height: 80.5%;
+  width: 28.7%;
+  top: 1%;
+  left: 7%;
+}
+
+#silk {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+}
+
+#silkTwo {
+  left: 51%;
+  width: 17%;
+  top: 46%;
+  height: 9%;
+  display: none;
+}
+
+#silkThree {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+  cursor: pointer;
+  display: none;
+}
+
+#silkFour {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+  display: none;
+}
+
+#woolen {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+}
+
+#woolenTwo {
+  left: 51%;
+  width: 17%;
+  top: 46%;
+  height: 9%;
+  display: none;
+}
+
+#woolenThree {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+  cursor: pointer;
+  display: none;
+}
+
+#woolenFour {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+  display: none;
+}
+
+#ebonStand {
+  height: 80.5%;
+  width: 28.7%;
+  top: 1%;
+  left: 7%;
+}
+
+#next {
+  position: absolute;
+  top: 4%;
+  width: 11%;
+  height: 10%;
+  font-size: 1.5vw;
+  left: 86%;
+  background-color: #DBDBDB;
+  border-radius: 9%;
+  cursor: pointer;
+  z-index: 1;
+  display: none;
+}
+.newSilkAnimation {
+  top: 1%;
+  left: 7%;
+  height: 97%;
+  width: 85%;
+  display: none;
+}
+
+.newSilkAnimationOne {
+  top: 14%;
+  left: 45%;
+  height: 58%;
+  width: 51%;
+  display: none;
+}
+
+.newEbonAnimation {
+  top: 1%;
+  left: 38%;
+  height: 60%;
+  width: 51%;
+  display: none;
+}
+
+.newEbonAnimationOne {
+  top: 1%;
+  left: 7%;
+  height: 97%;
+  width: 85%;
+  display: none;
+}
+
+.newGlassEbonAnimation {
+  top: 1%;
+  left: 30%;
+  height: 60%;
+  width: 45%;
+  display: none;
+}
+
+.newGlassEbonBothAnimation {
+  top: 1%;
+  left: 6%;
+  height: 98%;
+  width: 73%;
+  display: none;
+}
+
+#glassebonClick {
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+#glassebonRodCanva {
+  height: 6%;
+  width: 19%;
+  left: 34%;
+  top: 71%;
+  transform: rotate(168deg);
+}
+
+#glassebonRodCanvaSec {
+  height: 6%;
+  width: 19%;
+  left: 40%;
+  top: 23%;
+  transform: rotate(-16deg);
+  cursor: pointer;
+  display: none;
+}
+
+#glassebonRodCanvaTwo {
+  height: 6%;
+  width: 19%;
+  left: 51%;
+  top: 72%;
+  transform: rotate(168deg);
+}
+
+#glassebonStand {
+  height: 81.5%;
+  width: 24.7%;
+  top: 1%;
+  left: 6%;
+}
+
+#glassebonsilk {
+  left: 68%;
+  width: 15%;
+  top: 74%;
+  height: 9%;
+}
+
+#glassebonsilkTwo {
+  left: 37%;
+  width: 17%;
+  top: 16%;
+  height: 9%;
+  display: none;
+}
+
+#glassebonwoolen {
+  left: 84%;
+  width: 15%;
+  top: 74%;
+  height: 9%;
+}
+
+#glassebonwoolenTwo {
+  left: 83%;
+  width: 17%;
+  top: 73%;
+  height: 9%;
+  display: none;
+}
+
+#nameSilk {
+  height: 10%;
+  width: 17%;
+  left: 66%;
+  top: 84%;
+}
+
+#nameWool {
+  height: 10%;
+  width: 17%;
+  left: 83%;
+  top: 84%;
+}
+
+#nameEbon {
+  height: 10%;
+  width: 17%;
+  left: 49%;
+  top: 83%;
+}
+
+#nameGlass {
+  height: 10%;
+  width: 17%;
+  left: 32%;
+  top: 83%;
+}
+
+#nameEbonOnly {
+  height: 10%;
+  width: 17%;
+  left: 53%;
+  top: 85%;
+}
+
+#nameSilkOnly {
+  height: 10%;
+  width: 17%;
+  left: 82%;
+  top: 83%;
+
+}
+
+#standEbonGlassName {
+  height: 10%;
+  width: 17%;
+  left: 8%;
+  top: 83%;
+}
+
+#nameWoolOnly {
+  height: 10%;
+  width: 17%;
+  left: 83%;
+  top: 84%;
+}
+
+#standEbonName {
+  height: 10%;
+  width: 17%;
+  left: 12%;
+  top: 83%;
+}
+
+#glassRodOnlyName {
+  height: 10%;
+  width: 17%;
+  left: 51%;
+  top: 85%;
+}
+
+#silkOnlyName {
+  height: 10%;
+  width: 17%;
+  left: 83%;
+  top: 84%;
+}
+
+#standGlassName {
+  height: 10%;
+  width: 17%;
+  left: 12%;
+  top: 83%;
+}
+
+#glassStandArea {
+  height: 24%;
+  width: 27%;
+  left: 14%;
+  top: 29%;
+}
+
+#glassRodArea {
+  height: 24%;
+  width: 42%;
+  left: 40%;
+  top: 63%;
+}
+
+#ebonStandArea {
+  height: 24%;
+  width: 20%;
+  left: 15%;
+  top: 30%;
+}
+
+#ebonRodArea {
+  height: 24%;
+  width: 43%;
+  left: 39%;
+  top: 61%;
+}
+
+#bothStandArea {
+  height: 24%;
+  width: 19%;
+  left: 10%;
+  top: 32%;
+}
+
+#bothRodArea {
+  height: 24%;
+  width: 19%;
+  left: 34%;
+  top: 57%;
+}
+
+#bothRodAreaTwo {
+  height: 24%;
+  width: 19%;
+  left: 50%;
+  top: 57%;
+}
+
+#watchBothSilk {
+  height: 8%;
+  width: 15%;
+  left: 68%;
+  top: 75%;
+}
+
+#watchBothwool {
+  height: 8%;
+  width: 15%;
+  left: 84%;
+  top: 75%;
+}
+
+#watchsilk {
+  height: 8%;
+  width: 15%;
+  left: 83%;
+  top: 75%;
+}
+
+#watchwool {
+  height: 8%;
+  width: 15%;
+  left: 83%;
+  top: 75%;
+}
+
+#inference {
+  height: 10%;
+  width: 5%;
+  left: 22%;
+  top: 7%;
+  cursor: pointer;
+  z-index: 50;
+  display: none;
+}
+
+#finalObs {
+  height: 69%;
+  left: 26%;
+  top: 12%;
+  display: none;
+  z-index: 10;
+}
+
+#valueTab {
+  border: none;
+  height: 99%;
+  width: 75%;
+  background-color: lightseagreen;
+  margin-left: 0%;
+  margin-top: 0%;
+  font-size: 1.5vw;
+}
+
+#inferenceTwo {
+  height: 10%;
+  width: 6%;
+  left: 8%;
+  top: 7%;
+  cursor: pointer;
+  z-index: 50;
+  display: none;
+}
+
+#inferenceThree {
+  height: 10%;
+  width: 6%;
+  left: 8%;
+  top: 7%;
+  cursor: pointer;
+  z-index: 50;
+  display: none;
+}
+
+h3 {
+  text-align: center;
+}

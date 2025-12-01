@@ -1,0 +1,25 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"Velocity of a Pulse Propagated Through a Slinky": "Velocity of a Pulse Propagated Through a Slinky",
+	"Transverse": "Transverse",
+	"Longitudinal": "Longitudinal",
+	"Select wave type:": "Select wave type:",
+	"Slinky length:&nbsp;": "Slinky length:&nbsp;",
+	"Pulse Speed:&nbsp;": "Pulse Speed:&nbsp;",
+	"&nbsp;m": "&nbsp;m",
+	"Start": "Start",
+	"Stop": "Stop",
+	"min  &nbsp;s&nbsp;&nbsp;&nbsp;ms": "min  &nbsp;s&nbsp;&nbsp;&nbsp;&nbsp;ms",
+	"START": "START",
+	"STOP": "STOP",
+	"Select the wave type.": "Select the wave type.",
+	"Change the length of the slinky": "Change the length of the slinky",
+	"Change the pulse speed.": "Change the pulse speed.",
+	"Click here to start the experiment.": "Click here to start the experiment.",
+	"Click here to start timer.": "Click here to start timer.",
+	"Click here to stop the experiment.": "Click here to stop the experiment.",
+	"HELP": "HELP",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+}

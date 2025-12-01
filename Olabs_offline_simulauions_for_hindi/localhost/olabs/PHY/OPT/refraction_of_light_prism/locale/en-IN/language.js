@@ -1,0 +1,26 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"HELP": "HELP",
+	"Refraction through a prism": "Refraction Through a Prism",
+	"Select the prism": "Select the prism",
+	"Angle of incidence": "Angle of incidence",
+	"Angle of prism": "Angle of prism",
+	"Reset": "Reset",
+	"Start experiment": "Start experiment",
+	"Result": "Result",
+	"Show result": "Show result",
+	"Refractive index of the prism": "Refractive index of the prism",
+	"Angle of deviation": "Angle of deviation",
+	"Show protractor": "Show protractor",
+	"Hide protractor": "Hide protractor",
+	"Prism 1": "Prism 1",
+	"Prism 2": "Prism 2",
+	"Prism 3": "Prism 3",
+	"Prism 4": "Prism 4",
+	"Prism 5": "Prism 5",
+	"Click on start experiment button to start the experiment": "Click on start experiment button to start the experiment.",
+	"Click on Show/Hide protractor button to Show/Hide protractor": "Click on Show/Hide protractor button to show/hide protractor.",
+	"Click on close icon to close the protractor": "Click on the close icon to close the protractor.",
+	"Click to 'drag icon' to drag the protractor": " Click on the icon and drag the protractor.",
+	"Click on rotate rotate icon to rotate the protractor": "Click on the rotate icon to rotate the protractor."
+}

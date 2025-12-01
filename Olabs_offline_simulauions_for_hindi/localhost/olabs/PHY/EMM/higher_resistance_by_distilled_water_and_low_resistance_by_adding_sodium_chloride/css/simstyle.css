@@ -1,0 +1,1297 @@
+/* .varTitle {
+  list-style-type: decimal;
+} */
+@font-face {
+	font-family:MRKGPEN;
+	src:url(MRKGPEN.TTF);
+}
+.sim-buttons,.sim-footer,.sim-head,.sim-controls,.varBox,.varTitle,#type,#text,#circutImgs,#Figurebg,
+.trip-content,.labName,.mainTitle p,.main p,#canfigure2,#canfigure3,#canfigure4,#canfigure5,#canfigure6,
+#beakerWat,#battery,#keyboard,#key,#ledBulb,#figureTwoElectTouch,#figureThreElectMax,#figureThreElectMin,
+#spatula,#watchSodium,#figureFourElectMax,img{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.userSelect 
+{
+ -webkit-user-select:none;
+ -khtml-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select: none;
+}
+img{
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+}
+#expName{
+    font-size: 1.4vw;
+}
+
+.main p {
+	overflow: visible;
+}
+#canvasBox
+{
+  -moz-user-select: none; 
+  -webkit-user-select: none; 
+  -ms-user-select:none; 
+  user-select:none;
+  -o-user-select:none;
+}
+#bg
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+}
+#bgOne
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#bgTwo
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#bgThree
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#bgFour
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  /* display: none; */
+}
+#canfigure2
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure3
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure4
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure5
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#canfigure6
+{
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  left: 0%;
+  display: none;
+}
+#check 
+{
+  position: absolute;
+  height: 4%;
+  bottom: 90.2%;
+  right: 94%;
+  /* width: 2.5%; */
+  cursor: pointer;
+} 
+
+#circuitDiagram
+{
+    position: absolute;
+    background-color: #fbf8f8;
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    display: none;
+ }
+#Figurebg
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+}
+
+#connectionDrawing {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100% !important;
+  width: 100% !important;
+
+  /* display: none; */
+}
+#circutImgs
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+
+.terminals {
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  cursor: pointer;
+  border-radius: 5%;
+  background-color: #ff0000;
+  opacity: 0;
+}
+.sim-div
+{
+  width: 100%;
+}
+.sim-controls
+{
+  display: none;
+}
+#beakerWat
+{
+  position: absolute;
+  top: 38%;
+  left: 2%;
+  width: 30%;
+  height: 55%;
+}
+#battery
+{
+  position: absolute;
+  top: 80%;
+  left: 42.5%;
+  width: 17%;
+  height: 10%;
+}
+#keyboard
+{
+  position: absolute;
+  left: 74.5%;
+  top: 77%;
+  height: 15%;
+  width: 16%;
+}
+#key
+{
+  position: absolute;
+  left: 79%;
+  top: 74.5%;
+  height: 7%;
+  width: 10.3%;
+}
+#keyOne
+{
+  position: absolute;
+  left: 74.5%;
+  top: 76.8%;
+  height: 8%;
+  width: 10.8%;
+  display: none;
+}
+#keyTwo
+{
+  position: absolute;
+  left: 74.5%;
+  top: 76.8%;
+  height: 8%;
+  width: 10.8%;
+  display: none;
+}
+#keyThree
+{
+  position: absolute;
+  left: 74.5%;
+  top: 76.8%;
+  height: 8%;
+  width: 10.8%;
+  display: none;
+}
+#keyFour
+{
+  position: absolute;
+  left: 74.5%;
+  top: 76.8%;
+  height: 8%;
+  width: 10.8%;
+  display: none;
+}
+/* #glassRod
+{
+  position: absolute;
+  left: 66.5%;
+  top: 50%;
+  height: 2%;
+  width: 33%;
+  display: none;
+} */
+#glassRodOne
+{
+  position: absolute;
+  left: 4.5%;
+  top: 1%;
+  height: 6%;
+  width: 93%;
+}
+#electrodesA
+{
+  position: absolute;
+  left: 67%;
+  top: 61%;
+  height: 8%;
+  width: 13%;
+  display: none;
+}
+#electrodesB
+{
+  position: absolute;
+  left: 85%;
+  top: 61%;
+  height: 8%;
+  width: 13%;
+  display: none;
+}
+#ledBulb
+{
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  height: 25%;
+  width: 15%;
+}
+#rodwithelect
+{
+  position: absolute;
+  left: -1%;
+  top: 40%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  /* display: none; */
+}
+#glassRodTwo
+{
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  height: 7%;
+  width: 96%;
+}
+#glassRodTwoB
+{
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  height: 7%;
+  width: 96%;
+}
+#glassRodTwoC
+{
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  height: 7%;
+  width: 96%;
+}
+#glassRodTwoD
+{
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  height: 7%;
+  width: 96%;
+}
+#electrodesAOne
+{
+  position: absolute;
+  left: 13%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electrodesBOne
+{
+  position: absolute;
+  left: 45%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+
+#bulbPostiv
+{
+  position: absolute;
+  width: 4%;
+  height: 3%;
+  top: 59%;
+  left: 51.5%;
+  border: solid;
+  border-radius: 70%;
+}
+#electA
+{
+  position: absolute;
+  width: 4%;
+  height: 3%;
+  top: 40%;
+  left: 10%;
+  border: solid;
+  border-radius: 58%;
+}
+#electToBulb 
+{
+  position: absolute;
+  top: 34%;
+  left: 11.7%;
+  width: 40%;
+  height: 57%;
+  display: none;
+}
+#electToBatP
+{
+  position: absolute;
+  top: 35.5%;
+  left: 23.5%;
+  width: 25%;
+  height: 53%;
+  display: none;
+}
+#electB
+{
+  position: absolute;
+  width: 4%;
+  height: 3%;
+  top: 40%;
+  left: 22%;
+  border: solid;
+  border-radius: 58%;
+}
+#battPostiv
+{
+  position: absolute;
+  width: 4%;
+  height: 4%;
+  top: 83%;
+  left: 43%;
+  border: solid;
+  border-radius: 70%;
+}
+#keyToBat
+{
+  position: absolute;
+  top: 79.2%;
+  left: 56.7%;
+  width: 20%;
+  height: 10%;
+  display: none;
+}
+#keyTpbulpN
+{
+  position: absolute;
+  top: 55.8%;
+  left: 60%;
+  width: 17.4%;
+  height: 22.4%;
+  display: none; 
+}
+#battNagtv
+{
+  position: absolute;
+  width: 3%;
+  height: 3%;
+  top: 83%;
+  left: 56.5%;
+  border: solid;
+  border-radius: 70%;
+}
+#keyleft
+{
+  position: absolute;
+  width: 3%;
+  height: 3%;
+  top: 84%;
+  left: 75.5%;
+  border: solid;
+  border-radius: 70%;
+}
+#keyRight
+{
+  position: absolute;
+  width: 3%;
+  height: 3%;
+  top: 78.3%;
+  left: 76.6%;
+  border: solid;
+  border-radius: 70%;
+}
+#bulbN
+{
+  position: absolute;
+  width: 3%;
+  height: 3%;
+  top: 56%;
+  left: 61.5%;
+  border: solid;
+  border-radius: 70%;
+}
+#circuitDiagram
+{
+    position: absolute;
+    /* background-color: #fbf8f8; */
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    display: none;
+ }
+ #check 
+{
+  position: absolute;
+  height: 4.5%;
+  top: 4.5%;
+  left: 6.3%;
+  width: 2.5%;
+  cursor: pointer;
+  /* display: none; */
+} 
+#text
+{
+
+  position: absolute;
+  height: 4%;
+  left: 10%;
+  /* width: 27%; */
+  bottom: 87.3%;
+  font-weight: bold;
+  font-size: 95%;
+  color: black;
+  cursor: pointer;
+  /* display: none; */
+}
+#nextOne
+{
+  position: absolute;
+  top: 1%;
+  right: 0.5%;
+  height: 12%;
+  width: 16%;
+  cursor: pointer;
+  display: none;
+}
+#nextTwo
+{
+  position: absolute;
+  top: 1%;
+  right: 0.5%;
+  height: 12%;
+  width: 16%;
+  cursor: pointer;
+  display: none;
+}
+#nextThree
+{
+  position: absolute;
+  top: 1%;
+  right: 0.5%;
+  height: 12%;
+  width: 16%;
+  cursor: pointer;
+  display: none;
+}
+#nextFour
+{
+  position: absolute;
+  top: 1%;
+  right: 0.5%;
+  height: 12%;
+  width: 16%;
+  cursor: pointer;
+  display: none;
+}
+#nextFive
+{
+  position: absolute;
+  top: 1%;
+  right: 0.5%;
+  height: 12%;
+  width: 16%;
+  cursor: pointer;
+  display: none;
+}
+#nextOne:hover{
+  transform: scale(110%);
+}
+#nextTwo:hover{
+  transform: scale(110%);
+}
+#nextThree:hover{
+  transform: scale(110%);
+}
+#nextFour:hover{
+  transform: scale(110%);
+}
+#nextFive:hover{
+  transform: scale(110%);
+}
+#rodwithelectTwoB
+{
+  position: absolute;
+  left: 0%;
+  top: 40%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  /* display: none; */
+}
+#rodwithelectTwoC
+{
+  position: absolute;
+  left: 0%;
+  top: 40%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  /* display: none; */
+}
+#rodwithelectTwoD
+{
+  position: absolute;
+  left: 0%;
+  top: 40%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  /* display: none; */
+}
+#rodwithelectTwo
+{
+  position: absolute;
+  left: 0%;
+  top: 40%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  /* display: none; */
+}
+#keyToBatTwo
+{
+  position: absolute;
+  top: 76.5%;
+  left: 56.7%;
+  width: 18.5%;
+  height: 18%;
+  transform: rotate(10deg);
+  /* display: none; */
+}
+#keyTpbulpNTwo
+{
+  position: absolute;
+  top: 59.5%;
+  left: 60.7%;
+  width: 30.5%;
+  height: 21%;
+  transform: rotate(8deg);
+  /* display: none;  */
+}
+#electToBulbTwo
+{
+  position: absolute;
+  top: 34.5%;
+  left: 9.7%;
+  width: 49.5%;
+  height: 21%;
+  transform: rotate(182deg);
+  /* display: none; */
+}
+#electToBatPTwo
+{
+  position: absolute;
+  top: 43.5%;
+  left: 21.7%;
+  width: 23.5%;
+  height: 48%;
+  transform: rotate(185deg);
+  /* display: none; */
+}
+#electAVe
+{
+  position: absolute;
+  left: 13%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electBVe
+{
+  position: absolute;
+  left: 45%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electAVeB
+{
+  position: absolute;
+  left: 13%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electBVeB
+{
+  position: absolute;
+  left: 45%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electAVeC
+{
+  position: absolute;
+  left: 1%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electBVeC
+{
+  position: absolute;
+  left: 54%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electAVeD
+{
+  position: absolute;
+  left: 13%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electBVeD
+{
+  position: absolute;
+  left: 45%;
+  top: 42%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(90deg);
+}
+#electAVeA
+{
+  position: absolute;
+  left: 18%;
+  top: 34%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(55deg);
+}
+#electBVeA
+{
+  position: absolute;
+  left: 39%;
+  top: 33%;
+  height: 36%;
+  width: 44%;
+  transform: rotate(120deg);
+}
+#glassRodTwoA
+{
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  height: 7%;
+  width: 96%;
+}
+#rodwithelectTwoA
+{
+  position: absolute;
+  left: 0%;
+  top: 9%;
+  height: 32%;
+  width: 35%;
+  /* border: solid; */
+  display: none;
+}
+#electToBulbTwoA
+{
+  position: absolute;
+  top: 13.5%;
+  left: 9.7%;
+  width: 51.5%;
+  height: 32%;
+  transform: rotate(198deg);
+  display: none;
+}
+#electToBatPTwoA
+{
+  position: absolute;
+  top: 15.5%;
+  left: 18.7%;
+  width: 29.5%;
+  height: 69%;
+  transform: rotate(195deg);
+  display: none;
+}
+#glassRodTwo
+{
+  position: absolute;
+  top: 48%;
+  left: 7%;
+  width: 26%;
+  height: 2%;
+  /* border: solid; */
+}
+#glassRodThree
+{
+  position: absolute;
+  top: 48%;
+  left: 7%;
+  width: 26%;
+  height: 2%;
+  /* border: solid; */
+}
+#glassRodFour
+{
+  position: absolute;
+  top: 48%;
+  left: 7%;
+  width: 26%;
+  height: 2%;
+  /* border: solid; */
+}
+#glassRodFive
+{
+  position: absolute;
+  top: 48%;
+  left: 7%;
+  width: 26%;
+  height: 2%;
+  /* border: solid; */
+}
+#lightOne
+{
+  position: absolute;
+  top: 32%;
+  left: 46%;
+  width: 15%;
+  height: 45%;
+  display: none;
+}
+#lightTwo
+{
+  position: absolute;
+  top: 32%;
+  left: 46%;
+  width: 15%;
+  height: 45%;
+  display: none;
+}
+#lightThree
+{
+  position: absolute;
+  top: 32%;
+  left: 46%;
+  width: 15%;
+  height: 45%;
+  display: none;
+}
+#watchSodium
+{
+  position: absolute;
+  top: 51%;
+  left: 67%;
+  width: 15%;
+  height: 10%;
+  /* display: none; */
+  /* border: solid; */
+}
+#watchglass
+{
+  position: absolute;
+  top: 18%;
+  left: 0%;
+  width: 100%;
+  height: 75%;
+}
+#sodium
+{
+  position: absolute;
+  top: -23%;
+  left: 8%;
+  width: 82%;
+  height: 100%;
+}
+#spatulaSodium
+{
+  position: absolute;
+  top: 45%;
+  left: 70%;
+  width: 15%;
+  height: 10%;
+  /* display: none; */
+  /* border: solid; */
+}
+#spatula
+{
+  position: absolute;
+  top: 4%;
+  left: 0%;
+  width: 100%;
+  height: 90%;
+  transform: rotate(-10deg);
+}
+#sodiumcolSpatu
+{
+  position: absolute;
+  top: 77%;
+  left: 4%;
+  width: 17%;
+  height: 35%;
+}
+#sodiumSptDrop
+{
+  position: absolute;
+  top: 3%;
+  left: 8%;
+  width: 27%;
+  height: 40%;
+  /* border: solid; */
+  display: none;
+}
+#sodiumPour
+{
+  position: absolute;
+  top: 25%;
+  left: 19.5%;
+  width: 1.5%;
+  height: 65%;
+  display: none;
+}
+#sodiuminBek
+{
+  position: absolute;
+  top: 90.5%;
+  left: 18%;
+  width: 5%;
+  height: 5%;
+  display: none;
+}
+#helpSpatula
+{
+  position: absolute;
+  top: 45%;
+  left: 76%;
+  width: 1%;
+  height: 1%;
+  /* border: solid; */
+}
+#figuretwo
+{
+  position: absolute;
+  top: -2%;
+  left: -5%;
+  width: 100%;
+  height: 110%;
+}
+.electrodeTouchAnimation
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+.electrodeMaxAnimation
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+.electrodeMiniAnimation
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+.electrodeSaltAnimation
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+#figureTwoElectTouch
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+#handOne
+{
+  position: absolute;
+  top: 50%;
+  left: 84%;
+  width: 16%;
+  height: 17%;
+  display: none;
+}
+#figurethre
+{
+  position: absolute;
+  top: -2%;
+  left: -5%;
+  width: 100%;
+  height: 110%;
+}
+#figureThreElectMax
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+#handTwo
+{
+  position: absolute;
+  top: 50%;
+  left: 84%;
+  width: 16%;
+  height: 17%;
+  display: none;
+}
+#figureFour
+{
+  position: absolute;
+  top: -2%;
+  left: -5%;
+  width: 100%;
+  height: 110%;
+}
+#figureFive
+{
+  position: absolute;
+  top: -2%;
+  left: -5%;
+  width: 100%;
+  height: 110%;
+}
+#figureThreElectMin
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+#handThree
+{
+  position: absolute;
+  top: 50%;
+  left: 84%;
+  width: 16%;
+  height: 17%;
+  display: none;
+}
+#figureFourElectMax
+{
+  position: absolute;
+  left: -5%;
+  top: -3%;
+  width: 100%;
+  height: 112%;
+  display: none;
+}
+#handFour
+{
+  position: absolute;
+  top: 55%;
+  left: 84%;
+  width: 16%;
+  height: 17%;
+  display: none;
+}
+#sodiumChloride
+{
+  position: absolute;
+  top: 61%;
+  left: 66.5%;
+  width: 16%;
+  height: 6%;
+}
+#board
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#noteDiv 
+{
+  position: absolute;
+  left: 5%;
+  top: 25%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#intro
+{
+  font-size: 1.6vw;
+  max-width: 30%;
+  line-height: 138%;
+    /* background: lightcyan; */
+    /* background:powderblue; */
+    color: aliceblue;
+     border-radius: 0%;
+    /* background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%);  */
+    /* display: none; */
+}
+#noteObser
+{
+  position: absolute;
+  left: 5%;
+  top: 14%;
+  width: 90%;
+    max-width: 90%;
+    font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#introObser
+{
+  font-size: 2vw;
+  max-width: 30%;
+  line-height: 138%;
+    /* background: lightcyan; */
+    /* background:powderblue; */
+    color: aliceblue;
+     border-radius: 0%;
+    /* background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%);  */
+    /* display: none; */
+}
+#notelabelOne
+{
+  position: absolute;
+  left: 41%;
+  top: 25%;
+  width: 50%;
+  max-width: 90%;
+  font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#labelOne
+{
+  font-size: 1vw;
+  max-width: 30%;
+  line-height: 200%;
+    /* color: aliceblue; */
+     border-radius: 0%;
+     margin-bottom: 20px;
+    padding: 5px 11px;
+    background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%); 
+    display: none;
+}
+#notelabelTwo
+{
+  position: absolute;
+  left: 35%;
+  top: 25%;
+  width: 62%;
+  max-width: 90%;
+  font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#labelTwo
+{
+  font-size: 1vw;
+  max-width: 30%;
+  line-height: 200%;
+    /* color: aliceblue; */
+     border-radius: 0%;
+     margin-bottom: 20px;
+    padding: 5px 11px;
+    background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%); 
+    display: none;
+}
+#notelabelThree
+{
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  width: 55%;
+  max-width: 90%;
+  font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#labelThree
+{
+  font-size: 1vw;
+  max-width: 30%;
+  line-height: 200%;
+    /* color: aliceblue; */
+     border-radius: 0%;
+     margin-bottom: 20px;
+    padding: 5px 11px;
+    background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%); 
+    display: none;
+}
+#warLabelOne
+{
+  position: absolute;
+  top: 55%;
+  left: 66%;
+  width: 30%;
+  height: 12%;
+  display: none;
+}
+#warLabelTwo
+{
+  position: absolute;
+  top: 55%;
+  left: 66%;
+  width: 30%;
+  height: 12%;
+  display: none;
+}
+#warLabelThree
+{
+  position: absolute;
+  top: 55%;
+  left: 66%;
+  width: 30%;
+  height: 12%;
+  display: none;
+}
+#warLabelFour
+{
+  position: absolute;
+  top: 14%;
+  left: 70%;
+  width: 30%;
+  height: 12%;
+  display: none;
+}
+#notelabelFour
+{
+  position: absolute;
+  left: 20%;
+  top: 30%;
+  width: 80%;
+  max-width: 90%;
+  font-size: 132%;
+    font-style: oblique;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#labelFour
+{
+  font-size: 1vw;
+  max-width: 30%;
+  line-height: 200%;
+    /* color: aliceblue; */
+     border-radius: 0%;
+     margin-bottom: 20px;
+    padding: 5px 11px;
+    background: linear-gradient(90deg, rgb(165, 247, 240) 0%, rgb(248, 248, 246) 35%, rgb(165, 247, 240) 100%); 
+    display: none;
+}

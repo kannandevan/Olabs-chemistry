@@ -1,0 +1,513 @@
+.varBox,
+.sim-controls,
+#bgCanvas1,
+#scene1,
+#scene2,
+.sim-btn,
+.flex-align-center {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+img,
+.sim-btn,
+.varBox {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+
+}
+
+
+img,
+.sim-buttons .sim-btn,
+#changeScreenBtn,
+#simHelp,
+.control-div {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+
+}
+
+
+
+#mainDiv div {
+    position: absolute;
+
+
+}
+
+.varTitle {
+
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+
+}
+
+#mainpage {
+    background-color: rgb(32, 18, 1);
+    z-index: -1;
+
+}
+
+#mainDiv {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    height: 100%;
+    width: 100%;
+}
+.Quize {
+   
+ 
+    width: 10%;
+    left: 85%;
+    height: 6%;
+    top: 2%;
+
+
+        position: absolute;
+        font-family: 'Noto Sans','Noto Sans Malayalam','Noto Sans Telugu', sans-serif !important;
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-top-colors: none;
+        border-color: #AAAAAA #AAAAAA #888888;
+        border-image: none;
+        border-radius: 4px 4px 4px 4px;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 0 rgb(255 255 255 / 20%) inset;
+        color: #333333;
+        cursor: pointer;
+        display: inline-block;
+        float: none;
+        font-size: 1vw;
+        font-weight: bold;
+        line-height: 0.3em;
+        margin: 0px;
+        padding: 0.45em 0.8em;
+        text-decoration: none;
+        background: #eeeeee;
+        background: -moz-linear-gradient(top, #eeeeee 0%, #c8c8c8 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#c8c8c8));
+        background: -webkit-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        background: -o-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        background: -ms-linear-gradient(top, #eeeeee 0%,#c8c8c8 100%);
+        background: linear-gradient(to bottom, #eeeeee 0%,#c8c8c8 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 );
+        display: none;
+                        }
+#bg {
+    /* z-index: -9; */
+    width: 100%;
+    height: 100%;
+}
+
+#Inference
+{
+left: 3%;
+top: 7%;
+height: 9%;
+z-index: 99;
+position: absolute;
+display: none;
+} 
+
+#mainDiv,
+.control-div {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+#mainDiv img {
+    /* position: absolute; */
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+img{ -webkit-user-drag: none; 
+    -khtml-user-drag:none;
+    -moz-user-drag:none;
+    -ms-user-drag:none;
+}
+#inferenceDiv{
+    position: absolute;
+	width: 100%;
+
+    height: 100%;
+   
+}
+#divBack{
+    background-color: rgb(36 14 66);
+    width: 100%;
+    height: 100%;
+    z-index: 90;
+    top: 1%;
+    display: none;
+
+}
+#blackBoard{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* display: none; */
+}
+#inference{
+    position: absolute;
+    color: white;
+    font-size: 1.7vw;
+    left: 3%;
+    top: 2%;
+    /* width: 90%; */
+    font-weight: bolder;
+    text-align: center;
+}
+#inferenceText1{
+    position: absolute;
+    color: white;
+    font-size: 1.5vw;
+    left: 3%;
+    top: 17%;
+    width: 90%;
+    /* font-weight: bolder; */
+    text-align: justify;
+}
+#inferenceText{
+    position: absolute;
+    color: white;
+    font-size: 1.5vw;
+    left: 3%;
+    top: 35%;
+    width: 90%;
+    /* font-weight: bolder; */
+    text-align: justify;
+}
+#screen1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* display: none; */
+}
+#wheel{
+    height: 23%;
+    width: 17%;
+    top: 71%;
+    left: 71%;
+    position: absolute;
+
+    z-index: 9;
+    transform: rotate(14deg);
+
+}
+#wheelStand{
+    height: 93%;
+    width: 41%;
+    top: 4%;
+    left: 11%;
+    z-index: 10;
+    display: none;
+    position: absolute;
+}
+#wheelStand2{
+    height: 93%;
+    width: 41%;
+    top: 4%;
+    left: 11%;
+    z-index: 10;
+    display: none;
+    position: absolute;
+}
+#wheelStand3{
+    height: 93%;
+    width: 41%;
+    top: 4%;
+    left: 11%;
+    z-index: 10;
+    display: none;
+    position: absolute;
+}
+#stand{
+    height: 93%;
+    width: 41%;
+    top: 4%;
+    left: 11%;
+    position: absolute;
+}
+#thread{
+    height: 17%;
+    width: 12%;
+    top: 78%;
+    left: 54%;
+    position: absolute;
+}
+#thraedDroparea{
+      /* border: solid; */
+      height: 85%;
+    width: 22%;
+    top: 3%;
+    left: 19%;
+    position: absolute;
+}
+#standSecond{
+    height: 93%;
+    width: 41%;
+    top: 4%;
+    left: 11%;
+    position: absolute;
+    display: none;
+}
+#clickDiv1{
+    /* border: solid; */
+    height: 37%;
+    width: 12%;
+    top: 44%;
+    left: 26%;
+    z-index: 55;
+    position: absolute;
+    /* display: none; */
+}
+#clickDiv2{
+    /* border: solid; */
+    height: 27%;
+    width: 12%;
+    top: 16%;
+    left: 26%;
+    z-index: 55;
+    position: absolute;
+    /* display: none; */
+}
+.wheelUp {
+    position: absolute;
+    /* border: solid; */
+    /* z-index: 99; */
+    /* background-color: aqua; */
+    top: 10%;
+    left: 10%;
+    height: 56.5%;
+    width: 23.3%;
+    
+}
+
+.wheelUping {
+    position: absolute;
+    left: 4%;
+    top: -11%;
+    width: 177%;
+    height: 165%;
+    display: none;
+    /* border: solid; */
+}
+.wheelUpyy {
+    position: absolute;
+    /* border: solid; */
+    /* z-index: 99; */
+    /* background-color: aqua; */
+    top: 10%;
+    left: 10%;
+    height: 56.5%;
+    width: 23.3%;
+    
+}
+
+.wheelUpingyy {
+    position: absolute;
+    left: 4%;
+    top: -10%;
+    width: 177%;
+    height: 164%;
+    display: none;
+    /* border: solid; */
+}
+
+
+
+
+
+
+
+/* quize */
+
+
+.lenceView1
+{
+    position: absolute;
+    width: 30%;
+    height: 41%;
+    border: solid 2px white;
+    z-index: 12;
+    top: 39%;
+    left: 55%;
+    border-radius: 50%;
+    background: black;
+    display: none; 
+}
+.triangle-down {
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid #000;
+    position: absolute;
+    top: 69%;
+    left: -7%;
+    transform: rotate(44deg);
+    z-index: 0;
+}
+.showLenceImg
+{
+    position: absolute;
+    width: 95%;
+    height: 19%;
+    top: 44%;
+    left: 2%;
+}
+
+/* //quiz css// */
+.questionLayout {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(36 14 66);
+    top: 0%;
+    z-index: 1000;
+ 
+}
+.questionNumber
+{
+    position: absolute;
+    width: 100%;
+    height: 12%;
+    background-color: #c0c1c900;
+    top: 2%;
+    border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1.8vw;
+    top: 20%;
+    left: 3%;
+    font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+    position: absolute;
+    color: #fbfbfb8f;
+    font-size: 1.8vw;
+    top: 20%;
+    left: 85%;
+    font-family: 'Inconsolata';
+}
+.questionText
+{
+    position: absolute;
+    color: #cac9cbb3;
+    top: 18%;
+    left: 3%;
+    /* background-color: rgb(36, 14, 66); */
+    width: 94%;
+    height: 12%;
+}
+.questionTextAlignment
+{
+    position: absolute;
+    width: 98%;
+    height: 75%;
+    top: 11%;
+    left: 2%;
+    font-size: 1.2vw;
+    color: #fcf8f8;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: not-allowed;
+}
+.OptionOne
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 34%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionTwo
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 48%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionThree
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 62%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.OptionFour
+{
+    position: absolute;
+    border: solid 2px #35aad3c7;
+    top: 76%;
+    width: 88%;
+    height: 11%;
+    left: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.optionTestDesign {
+    position: absolute;
+    color: #ffffff;
+    font-size: 1.2vw;
+    top: 20%;
+    left: 5%;
+}
+.optionNo
+{
+    padding-right: 7px;
+}

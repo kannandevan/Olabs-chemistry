@@ -1,0 +1,299 @@
+.subButton
+{
+	height:30px;
+	
+	}
+.jqplot-yaxis {
+  /*margin-left:-80px !important;*/
+  width:60px !important;
+}
+
+.controlHolder ul li .varBox 
+{
+min-height:31px;
+}
+.rangeVals .minrange 
+{
+	float:left;
+	padding-left: 26px;
+}
+
+.varTitle {
+	height:15px;
+}
+
+
+#label5
+{
+    height: 24%;
+    width: 50%;
+    position: absolute;
+    left: 16%;
+    top: 15%;
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#distanceTag
+{
+	height: 6%;
+	width: 20%;
+	position: absolute;
+	left: 45%;
+	top: 45%;
+	font-size: 130%;
+}
+ 
+ 
+/*  #bgCanvas 
+{
+	position:absolute;
+	top:0px;
+	display:inline;
+	background-image:url(../images/BG.gif);
+	width:561px;
+	height:342px;
+	background-repeat: no-repeat;
+	background-color: #5c583b;;
+	background-size: 110%;
+	background-position: center 25px;
+} */
+
+
+
+
+
+#cart {
+	width: 100%;
+    height: 52%;
+    position: absolute;
+    left: 0%;
+    top: 45%
+}
+
+
+#cart #horString 
+{
+	position: absolute;
+    top: 33%;
+    left: 4%;
+    width: 96%;
+	border: 1px solid #BBBBBB;
+}
+ 
+#stone 
+{
+	position:absolute;
+    bottom: 122%;
+    left: -2%;
+	z-index: 2;
+} 
+
+#stone > img
+{
+	position:absolute; 
+} 
+
+#stone  img:nth-child(1)
+{
+	left: 15px;
+    top: 3px;
+}
+
+#stone  img:nth-child(2)
+{
+	left: 25px;
+	 top: 3px;
+}
+
+#stone  img:nth-child(3)
+{
+	left: 35px;
+	 top: 3px;
+}
+
+#stone  img:nth-child(4)
+{
+	left: 45px;
+	 top: 3px;
+}
+
+#stone  img:nth-child(5)
+{
+	left: 20px;
+	top: -5px;
+}
+
+#stone  img:nth-child(6)
+{
+	left: 30px;
+	top: -5px;
+}
+
+#stone  img:nth-child(7)
+{
+	left: 40px;
+	top: -5px;
+}
+
+#stone  img:nth-child(8)
+{
+	top: -13px;
+	left: 26px;
+}
+
+#stone  img:nth-child(9)
+{
+	top: -13px;
+	left: 36px;
+}
+
+#stone  img:nth-child(10)
+{
+	top: -21px;
+	left: 32px;	
+}
+
+#stopwatchfull 
+{
+	position: absolute;
+    bottom: 0%;
+    right: 75%;
+    height: 23%;
+    width: 24%;
+	-webkit-transition: -webkit-transform 1s linear;
+}
+
+#stopwatch 
+{
+    height: 100%;
+    width: 90%;
+}
+
+#stopwatch > img
+{ 
+	width:100px;
+	height:60px;
+} 
+
+#woodblock 
+{
+	position: absolute;
+    top: 24%;
+    left: 32%;
+}
+
+
+#woodblock > img 
+{
+	width: 45px;
+	height: 40px;
+}
+
+#hook 
+{
+	position: absolute;
+    top: 35%;
+    width: 10%;
+    right: 1.5%;
+	height: 14%;
+	overflow: hidden;
+}
+
+#vertString 
+{
+	position: absolute;
+	border: 1px solid #BBBBBB;
+	height: 500px;
+    right: 67%;
+    bottom: 43px;
+}
+
+#hook img:nth-child(2) 
+{
+	position: absolute;
+	width: 10px;
+	height: 15px;
+	right: 60%;
+	bottom: 26px;
+}
+
+#hook #hookWeightDiv
+{
+    position: absolute;
+    bottom: -17px;
+    right: 44%;
+    width: 25px;
+    height: 50px;
+}
+
+#hook #hookWeightDiv img#hookWeight 
+{
+	width: 22px;
+	height: 13px;
+}
+
+#stop
+{
+    position: absolute;
+    height: 30%;
+    font-size: 140%;
+    bottom: 36%;
+    left: 13%;
+}
+
+#chart3
+{
+    height: 50%;
+    width: 60%;
+    position: absolute;
+    bottom: 2%;
+    left: 15%;
+}
+#cartBottom
+{
+	position: absolute;
+	top: -4px;
+	z-index: 1;
+	left: 0px;
+}
+#cartTop
+{
+	position: absolute;
+	left: 0%;
+    top: -6%;
+	z-index: 3;
+}
+#cartFull
+{
+	position: absolute;
+    width: 76%;
+    height: 28%;
+    left: 13%;
+    top: 10%;
+	overflow:hidden;
+}
+#page-content-wrapper{
+	background-image:url(../images/BG.gif);
+	background-position-x: 56%;
+    background-position-y: 25%;
+	background-size:128.5% 119%;
+}
+.dropBox{
+	margin: 3px 0px 3px 8px !important;
+}
+.varTitle {
+	margin-left: -2em;
+	margin-bottom: 1em;
+}
+input[type="range"]{
+	width:93%;
+	margin-left: 1em;
+}
+.varBox .rangeVals {
+    margin-bottom: 3em;
+}
+.form-control {
+	width: 76%;
+}

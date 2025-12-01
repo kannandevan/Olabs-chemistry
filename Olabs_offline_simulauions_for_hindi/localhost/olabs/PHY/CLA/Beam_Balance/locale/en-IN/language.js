@@ -1,0 +1,26 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"Beam Balance": "Beam Balance",
+	"HELP": "HELP",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT",
+	"Open Door": "Open Door",
+	"Select an object:": "Select an object:",
+	"Bob": "Bob",
+	"Wooden block": "Wooden block",
+	"Select weight:": "Select weight:",
+	"Close Door": "Close Door",
+	"Reset": "Reset",
+	"Weights added.": "Weights added.",
+	"Result": "Result",
+	"Check ": "Check ",
+	"Weight of the object =&nbsp;": "Weight of the object =&nbsp;",
+	"Show result": "Show result",
+	"Arrest the balance, then open the door": "Arrest the balance, then open the door",
+	"Click here to open the door.": "Click here to open the door.",
+	"Click here to select the object.": "Click here to select the object.",
+	"Click here to select the weights.": "Click here to select the weights.",
+	"Click here to close the door .": "Click here to close the door .",
+	"Click here to arrest the balance.": "Click here to arrest the balance."
+}
