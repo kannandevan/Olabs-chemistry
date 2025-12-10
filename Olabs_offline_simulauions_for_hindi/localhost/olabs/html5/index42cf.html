@@ -1,0 +1,383 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=UPS&exp=strengthOfElectromagnets&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Dec 2025 10:07:32 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/font.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="template/olab_ot/css/grid.css" />
+<link href="template/olab_ot/css/mainstyle.css" rel="stylesheet" type="text/css" />
+<link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+<script src="js/nanoscroller/overthrow.min.js"></script>
+<!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+<script src="js/jquery/jquery.js"></script>
+<script src="js/jquery/jquery-ui.js"></script>
+<script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+<script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+<script type="text/javascript" src="js/nanoscroller/main.js"></script>
+<!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/PHY/UPS/strengthOfElectromagnets/";</script>
+<link  href="../PHY/UPS/strengthOfElectromagnets/css/simstyle.html" rel="stylesheet" type="text/css" />
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../PHY/UPS/strengthOfElectromagnets/js/help.html"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.js"></script>
+<script type="text/javascript" src="../PHY/UPS/strengthOfElectromagnets/js/simcontrols.html"></script>
+<!-- <script src="js/jquery/ui/1.8.21/jquery-ui.min.js" language="javascript"></script> -->
+
+<script type="text/javascript" src="js/touchconvert.js"></script>
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/PHY/UPS/strengthOfElectromagnets/locale/en-IN/LC_MESSAGES/messages.po' />  
+<script type="text/javascript" src="../PHY/UPS/strengthOfElectromagnets/js/Gettext.html"></script>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+<script> 
+if( !Modernizr.inputtypes.range ){  
+		document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></"+"script>");
+        $(document).ready(function(){
+			$.webshims.setOptions("waitReady", false);
+     		$.webshims.polyfill('forms-ext');
+		});  
+    };  
+
+
+</script>
+</head>
+<body>
+<div class="main">
+<header id="silumatorTemp">
+  <div class="g99 logo">
+  </div>
+  <!-- end .g99 -->
+    <div class="g495 mainTitle">
+    <p id="expName"></p>
+  </div>
+  <!-- end .g495 -->
+    <div class="g198 menuSet">
+          
+  </div>
+  <!-- end .g198 -->
+<div class="g792 bannerFoot">
+<ul id="olabmenuBar">
+  	<!-- <li><a href="#" data-translate>HELP</a></li> -->
+    <li><a href="#" data-translate>HELP</a></li>
+    <li><a id="olabFullscrBtn" onClick="parent.simFullScreenOlab()" style="cursor:pointer;"  data-translate>FULLSCREEN</a></li>
+    <li><a href="#" data-translate>EXIT</a></li>
+  </ul>
+</div>
+    <!-- end .grid_8 -->
+</header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<div id="">
+
+
+<div id="zoomout">
+<canvas id="connectionDrawing" class="connections"></canvas>
+
+<img  src="../PHY/UPS/strengthOfElectromagnets/images/BG.html" id="bgCanvas1" />
+<img  src="../PHY/UPS/strengthOfElectromagnets/images/THERMOCOL.html" id="thermocol" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/inference.html" id="inferenceImg" />
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/PUSH%20PIN.html" id="pushPin1" />
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-PIN%20TO%20BATTERY%201.html" id="wirePinBat1" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-PIN%20TO%20BATTERY%202.html" id="wirePinBat2" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-PIN%20TO%20BATTERY%203.html" id="wirePinBat3" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-PIN%20TO%20BATTERY%205.html" id="wirePinBat4" />
+
+    <canvas id="shunt_wire" ></canvas>
+    <div id="boltTop" class="terminals"></div>
+    <div id="boltHelp" class="terminals"></div>
+    <div id="boltBottom" class="terminals"></div>
+    <div id="batteryBegin" class="terminals"></div>
+  	  <div id="batteryEnd1">    </div>
+      <div id="batteryEnd2">    </div>
+      <div id="batteryEnd3">    </div>
+      <div id="batteryEnd4">    </div>
+
+    <div id="switchLeft" class="terminals"></div>
+    <div id="switchRight" class="terminals"></div>
+    <div id="attractArea"></div>
+
+   
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/PLASTIC%20PIPE.html" id="plasticPipe" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BOLT.html" id="thinBolt" />
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BOLT.html" id="thickBolt" />
+    <div  id="nailStick">
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_40.html" id="nailStick40" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_45.html" id="nailStick45" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_35.html" id="nailStick35" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_30.html" id="nailStick30" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_25.html" id="nailStick25" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_20.html" id="nailStick20" style="display:none"/>
+
+    </div>
+
+    <div  id="nailStickfew">
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_15.html" id="nailStick15" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_10.html" id="nailStick10" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_5.html" id="nailStick5" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_4.html" id="nailStick4" style="display:none"/>
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20STICKED/Nail%20Sticked_2.html" id="nailStick2" style="display:none"/>
+    </div>
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-BOLT%20TO%20BATTERY.html" id="wireBoltBat" />
+
+    <div id="thickCopperwire">
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-20.html" id="copper20" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-40.html" id="copper40" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-60.html" id="copper60" />
+</div>
+
+<div id="thinCopperwire">
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-20.html" id="thinCopper20" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-40.html" id="thinCopper40" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/COPPER%20ROUNDED-60.html" id="thinCopper60" />
+    </div>
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/SAFETY%20PIN.html" id="safetyPin" />
+    
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/PUSH%20PIN.html" id="pushPin2" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/WIRE-BOLT%20TO%20PIN.html" id="wireBoltPin" />
+
+    <div id="nailInplate">
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/PLATE%20SHADOW.html" id="plateShadow" />
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/PLATE.html" id="plate" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_70.html" id="nail70" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_70.html" id="nail70In" />
+
+    </div>
+    <div id="nailsLeft" class="nailsLeft">
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_60.html" id="nail60" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_55.html" id="nail55" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_50.html" id="nail50" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_45.html" id="nail45" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_40.html" id="nail40" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_35.html" id="nail35" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_30.html" id="nail30" style="display:none" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/NAIL%20IN%20PLATE/Nail%20in%20Plate_25.html" id="nail25" style="display:none" />
+  
+
+  </div>
+
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BATTERY%20START.html" id="batteryStart" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BATTERY%20END.html" id="battery2" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BATTERY%20END.html" id="battery3" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BATTERY%20END.html" id="battery4" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/BATTERY%20END.html" id="battery5" />
+
+<div id=batPin></div>
+
+
+   </div>
+   <img  src="../PHY/UPS/strengthOfElectromagnets/images/circuit_diagram.html" id="circuitDiagram" />
+    <img  src="../PHY/UPS/strengthOfElectromagnets/images/circuit_diagraml.html" id="circuitDiagraml" />
+
+    <label for="check">
+    <p id="text">Show/Hide circuit diagram</p>
+
+    <input type="checkbox" id="check" />
+  </label>
+</div></div>
+</div>
+<div class="g198 controlHolder">
+<div class="nano has-scrollbar">
+<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+	<li>
+        <div class="varBox" style="height:250px;">
+
+        
+      <div id="magnetCore">
+      <h5 >Select core of magnet</h5>
+      <select id="core" name="core"> 
+            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+            data-bs-toggle="dropdown" aria-expanded="false">
+         </a>
+         <!-- <option >Select</option> -->
+
+            <option value='thickIron' class="dropdown-item active" href="#" id="thickIron">Thick Iron</option>
+            <option value='thinIron' class="dropdown-item" href="#" id="thinIron">Thin Iron</option>
+            <option value='plastic' class="dropdown-item" href="#" id="plastic">Plastic</option>
+
+
+        </select>
+      </div>
+        <div id="dropdown"> 
+        <br>
+      <div id="wireTurns">
+      <h5 >Select Number of turns</h5>
+        
+<select id="turns" name="turns">
+            <option value="20"  class="dropdown-item active" href="#" id="turn1">20</option>
+            <option value="40" class="dropdown-item" href="#" id="turn2">40</option>
+            <option value="60" class="dropdown-item" href="#" id="turn3">60</option>
+
+</select>
+      </div>
+
+
+
+<!-- <input type="button" onclick="fun()" value="click here"> -->
+
+
+      <br>
+
+      <div id="cellCount">
+      <h5 >Select Number of cells</h5>
+      <select id="cells" name="cells">
+
+            <option  value='2'class="dropdown-item active" href="#" id="cell2">2</option>
+            <option value='3' class="dropdown-item" href="#" id="cell3">3</option>
+            <option value='4'class="dropdown-item" href="#" id="cell4">4</option>
+
+            <option value='5'class="dropdown-item" href="#" id="cell5">5</option>
+
+        </select>
+      </div>
+      <br>
+
+
+</div>
+          </div>
+		<br/><br/>
+		<p align="center">
+			<input type="button" class="subButton" id="reset" onclick="window.location.reload();" value="Reset">
+		</p>
+	</li>	
+</ul>
+</div></div>
+<script type="text/javascript">
+ var expTitle="Strength of Electromagnets";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script><footer id="tempFooter">
+ <div class="g396 footer">
+<!-- <p class="labName">?php echo "Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology"; ?></p>   -->
+<p class="labName" data-translate>Developed by Amrita University Funded by : Ministry of Electronics and Information Technology || Ministry of Education Government of India</p>  
+</div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=PHY&cat=UPS&exp=strengthOfElectromagnets&tempId=olab_ot by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Dec 2025 10:07:32 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>

@@ -1,0 +1,632 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=UPS&exp=Infiltration_of_water_through_soil&tempId=olab_otr by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Dec 2025 10:07:32 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+  <!-- Enable IE9 Standards mode -->
+  <meta http-equiv="X-UA-Compatible" content="IE=9">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title></title>
+  <link rel="stylesheet" type="text/css" media="all" href="template/olab_otr/css/font.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="template/olab_otr/css/reset.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="template/olab_otr/css/grid.css" />
+  <link href="template/olab_otr/css/mainstyle.css" rel="stylesheet" type="text/css" />
+  <link href="js/nanoscroller/nanoscroller.css" rel="stylesheet" type="text/css" />
+  <script src="js/nanoscroller/overthrow.min.js"></script>
+  <!-- <script src="js/jquery/1.7/jquery-1.7.1.js"></script> -->
+  <script src="js/jquery/jquery.js"></script>
+  <script src="js/jquery/jquery-ui.js"></script>
+  <script src="js/nanoscroller/jquery.nanoscroller.js"></script>
+  <script type="text/javascript" src="js/nanoscroller/touchready.js"></script>
+  <script type="text/javascript" src="js/nanoscroller/main.js"></script>
+  <!--[if IE]><script src="js/excanvas.js"></script><![endif]-->
+  <link  href="../CHE/UPS/Infiltration_of_water_through_soil/css/simstyle.html" rel="stylesheet" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="../CHE/UPS/Infiltration_of_water_through_soil/js/simcontrols.html"></script>
+<script language="javascript" type="text/javascript" src="js/jquery/ui/1.10.2/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/touchconvert.js"></script>
+<script language="javascript" type="text/javascript" src="js/trip/trip.min.js"></script>
+<link  href="js/trip/trip.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="../CHE/UPS/Infiltration_of_water_through_soil/js/help.html"></script>
+
+
+
+
+
+
+<link rel="gettext" type="application/x-po" href='http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/locale/en-IN/messages.po' />  
+<script type="text/javascript" src="../CHE/UPS/Infiltration_of_water_through_soil/js/Gettext.html"></script>  <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+  <script src="js/js-webshim/1.9.7/minified/extras/modernizr-custom.js"></script>
+  <script>
+    if (!Modernizr.inputtypes.range) {
+      document.write("<script type=\"text/javascript\" src=\"js/js-webshim/1.9.7/minified/polyfiller.js\"></" + "script>");
+      $(document).ready(function() {
+        $.webshims.setOptions("waitReady", false);
+        $.webshims.polyfill('forms-ext');
+      });
+    };
+  </script>
+  <script>
+    $(document).ready(function() {
+      $("#simReset").click(function() {
+        $(".sim-alert-overlay").fadeIn();
+      })
+
+      $("#simResetCancel").click(function() {
+
+        $(".sim-alert-overlay").fadeOut();
+      });
+
+      $("#simResetCancel").click(function() {
+        $(".sim-alert-overlay").fadeOut(1000);
+      });
+
+
+      $("#reset,.reset").click(function() {
+        window.location.reload();
+      });
+
+    });
+  </script>
+</head>
+
+<body>
+  <div class="main">
+    <!-- OVERLAY DIV  : Show while clicking on Reset Button-->
+    <div class="sim-alert-overlay">
+      <div class="sim-alert">
+        <div class="sim-alert-heading">Alert</div>
+        <div class="sim-alert-body">
+          <p>Do you want to reset the simulation</p>
+          <button class="reset">Yes</button>
+          <button id="simResetCancel">No</button>
+        </div>
+      </div>
+    </div>
+    <!-- OVERLAY DIV END -->
+    <header id="silumatorTemp">
+      <div class="g99 logo">
+      </div>
+      <!-- end .g99 -->
+      <div class="g495 mainTitle">
+        <p id="expName"></p>
+      </div>
+      <!-- end .g495 -->
+      <div class="g198 menuSet">
+
+      </div>
+      <!-- end .g198 -->
+      <div class="g792 bannerFoot">
+      <ul id="olabmenuBar">
+          <li><a href="#"></a></li>
+          <li id="simReset" class="simReset"><a href="#">RESET</a></li>
+        </ul>
+      </div>
+      <!-- end .grid_8 -->
+    </header><!-- /header -->
+<div class="g594 canvasHolder"> 
+    <div id="canvasBox">
+<script type="text/javascript" language="javascript">var simPath="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/";</script>
+
+
+<!--Loading Background-->
+<canvas id="bgCanvas" style="background-image:url(../CHE/UPS/Infiltration_of_water_through_soil/images/BG.html);" ></canvas>
+
+<div id="firstPAge">
+    <div id="helpdiv">
+
+    </div>
+
+<div id="filterpaper1">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER.html" class="first-Filter-paper">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20SHADOW.html" class="first-Filter-paper-shadow">
+    
+
+</div>
+<div id="filterpaper2">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER.html" class="first-Filter-paper2">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20SHADOW.html" class="first-Filter-paper2-shadow">
+</div>
+
+<div id="filterpaper3">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER.html" class="first-Filter-paper3">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20SHADOW.html" class="first-Filter-paper3-shadow">
+</div>
+<div id="first_Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/bottle.html" class="FirstPage-1Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="FirstPage-1Bottle-shadow">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT.html" class="FirstPage-1Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="FirstPage-1Bottle-filterpaper">
+</div>
+<div id="Second_Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/bottle.html" class="FirstPage-2Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT.html" class="FirstPage-2Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="FirstPage-2Bottle-filterpaper">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="FirstPage-2Bottle-shadow">
+
+</div>
+
+<div id="Third_Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/bottle.html" class="FirstPage-3Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT.html" class="FirstPage-3Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="FirstPage-3Bottle-filterpaper">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="FirstPage-3Bottle-shadow">
+
+</div>
+<div id="knife">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/knife.html" class="Knife" id="knife1">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/KNIFE%20SHADOW.html" class="Knife-shadow">
+</div>
+
+
+
+<div id="FirstDropArea"></div>
+<div id="SecondDropArea"></div>
+<div id="ThirdDropArea"></div>
+<div id="bottleCutAnimation">
+
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010001.html" class="bottleCutAnimation1" id="BottlecutAnim1" style="display:block">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010002.html" class="bottleCutAnimation1" id="BottlecutAnim2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010003.html" class="bottleCutAnimation1" id="BottlecutAnim3" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010004.html" class="bottleCutAnimation1" id="BottlecutAnim4" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010005.html" class="bottleCutAnimation1" id="BottlecutAnim5" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010006.html" class="bottleCutAnimation1" id="BottlecutAnim6" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010007.html" class="bottleCutAnimation1" id="BottlecutAnim7" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010008.html" class="bottleCutAnimation1" id="BottlecutAnim8" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010009.html" class="bottleCutAnimation1" id="BottlecutAnim9" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010010.html" class="bottleCutAnimation1" id="BottlecutAnim10" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010011.html" class="bottleCutAnimation1" id="BottlecutAnim11" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010012.html" class="bottleCutAnimation1" id="BottlecutAnim12" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010013.html" class="bottleCutAnimation1" id="BottlecutAnim13" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010014.html" class="bottleCutAnimation1" id="BottlecutAnim14" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010015.html" class="bottleCutAnimation1" id="BottlecutAnim15" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010016.html" class="bottleCutAnimation1" id="BottlecutAnim16" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010017.html" class="bottleCutAnimation1" id="BottlecutAnim17" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010018.html" class="bottleCutAnimation1" id="BottlecutAnim18" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010019.html" class="bottleCutAnimation1" id="BottlecutAnim19" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010020.html" class="bottleCutAnimation1" id="BottlecutAnim20" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010021.html" class="bottleCutAnimation1" id="BottlecutAnim21" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010022.html" class="bottleCutAnimation1" id="BottlecutAnim22" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010023.html" class="bottleCutAnimation1" id="BottlecutAnim23" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010024.html" class="bottleCutAnimation1" id="BottlecutAnim24" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010025.html" class="bottleCutAnimation1" id="BottlecutAnim25" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010026.html" class="bottleCutAnimation1" id="BottlecutAnim26" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010027.html" class="bottleCutAnimation1" id="BottlecutAnim27" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010028.html" class="bottleCutAnimation1" id="BottlecutAnim28" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010029.html" class="bottleCutAnimation1" id="BottlecutAnim29" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010030.html" class="bottleCutAnimation1" id="BottlecutAnim30" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010031.html" class="bottleCutAnimation1" id="BottlecutAnim31" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010032.html" class="bottleCutAnimation1" id="BottlecutAnim32" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010033.html" class="bottleCutAnimation1" id="BottlecutAnim33" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010034.html" class="bottleCutAnimation1" id="BottlecutAnim34" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010035.html" class="bottleCutAnimation1" id="BottlecutAnim35" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010036.html" class="bottleCutAnimation1" id="BottlecutAnim36" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010037.html" class="bottleCutAnimation1" id="BottlecutAnim37" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010038.html" class="bottleCutAnimation1" id="BottlecutAnim38" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010039.html" class="bottleCutAnimation1" id="BottlecutAnim39" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010040.html" class="bottleCutAnimation1" id="BottlecutAnim40" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010041.html" class="bottleCutAnimation1" id="BottlecutAnim41" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010042.html" class="bottleCutAnimation1" id="BottlecutAnim42" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010043.html" class="bottleCutAnimation1" id="BottlecutAnim43" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010044.html" class="bottleCutAnimation1" id="BottlecutAnim44" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20CUTTING%20ANIMATION/Bottle%20Cut%20ani%2010045.html" class="bottleCutAnimation1" id="BottlecutAnim45" style="display:none">
+</div>
+
+<div id="filterpaperAnimation">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010001.html" class="filterpaperanim1" id="Filterpaperanim1" style="display:block">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010002.html" class="filterpaperanim1" id="Filterpaperanim2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010003.html" class="filterpaperanim1" id="Filterpaperanim3" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010004.html" class="filterpaperanim1" id="Filterpaperanim4" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010005.html" class="filterpaperanim1" id="Filterpaperanim5" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010006.html" class="filterpaperanim1" id="Filterpaperanim6" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010007.html" class="filterpaperanim1" id="Filterpaperanim7" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010008.html" class="filterpaperanim1" id="Filterpaperanim8" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010009.html" class="filterpaperanim1" id="Filterpaperanim9" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010010.html" class="filterpaperanim1" id="Filterpaperanim10" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010011.html" class="filterpaperanim1" id="Filterpaperanim11" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010012.html" class="filterpaperanim1" id="Filterpaperanim12" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010013.html" class="filterpaperanim1" id="Filterpaperanim13" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010014.html" class="filterpaperanim1" id="Filterpaperanim14" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010015.html" class="filterpaperanim1" id="Filterpaperanim15" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010016.html" class="filterpaperanim1" id="Filterpaperanim16" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010017.html" class="filterpaperanim1" id="Filterpaperanim17" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010018.html" class="filterpaperanim1" id="Filterpaperanim18" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010019.html" class="filterpaperanim1" id="Filterpaperanim19" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010020.html" class="filterpaperanim1" id="Filterpaperanim20" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010021.html" class="filterpaperanim1" id="Filterpaperanim21" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010022.html" class="filterpaperanim1" id="Filterpaperanim22" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010023.html" class="filterpaperanim1" id="Filterpaperanim23" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010024.html" class="filterpaperanim1" id="Filterpaperanim24" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010025.html" class="filterpaperanim1" id="Filterpaperanim25" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010026.html" class="filterpaperanim1" id="Filterpaperanim26" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010027.html" class="filterpaperanim1" id="Filterpaperanim27" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010028.html" class="filterpaperanim1" id="Filterpaperanim28" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010029.html" class="filterpaperanim1" id="Filterpaperanim29" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTER%20PAPER%20ANIMATION/Filter%20paper%20ani%2010030.html" class="filterpaperanim1" id="Filterpaperanim30" style="display:none;">
+
+
+</div>
+
+<button id="Btn_Next" class="subButton" >NEXT</button>
+
+</div>
+<!-- Second Page Starts Here -->
+<div id="Second_Page">
+    <div id="helpdiv2">
+    </div>
+    <div id="infdiv2">
+    </div>
+<div id="SecondPageFirstBottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT2.html" class="Second-1Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="Second-1Bottle-shadow">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="Second-1Bottle-filterpaper">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20FILTER%20PAPER%201.html" class="Second-1Bottle-soil-1">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20POUR%201.html" class="sandpourtobottle1" id="firstbottleSandPour">
+<img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERFALLTOCYLINDER.svg" class="firstbottlewaterfrom-filterpaper">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/filterwater.html" class="filterwater">
+
+
+<img id="waterDrop_in_firstbottle1" class="waterDrop_in_firstbottle1" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+<img id="waterDrop2_in_firstbottle1" class="waterDrop_in_firstbottle1" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+<img id="waterDrop3_in_firstbottle1" class="waterDrop_in_firstbottle1" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+<img id="waterDrop4_in_firstbottle1" class="waterDrop_in_firstbottle1" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+<img id="waterDrop5_in_firstbottle1" class="waterDrop_in_firstbottle1" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+</div>
+
+
+<div id="SecondPageSecond_Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT2.html" class="Second-2Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="Second-2Bottle-shadow">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="Second-2Bottle-filterpaper">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20FILTER%20PAPER%202.html" class="Second-2Bottle-soil-2">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20POUR%202.html" class="sandpourtobottle2" id="secondbottleSandPour">
+<img id="waterDrop_in_firstbottle2" class="waterDrop_in_firstbottle2" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/filterwater.html" class="filterwater2">
+</div>
+
+<div id="SecondPageThird_Bottle">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20AFTER%20CUT2.html" class="Second-3Bottle-cut">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/BOTTLE%20SHADOW.html" class="Second-2Bottle-shadow">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/FILTERPAPERONBOTTLE.html" class="Second-3Bottle-filterpaper">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20FILTER%20PAPER%203.html" class="Second-3Bottle-soil-3">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20POUR%203.html" class="sandpourtobottle3" id="thirdbottleSandPour">
+<img id="waterDrop_in_firstbottle3" class="waterDrop_in_firstbottle3" src="../CHE/UPS/Infiltration_of_water_through_soil/images/drop.html"/>
+</div>
+
+<div id="watchglass_soil">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/Watch%20Glass.html" class="Secondpage_watchglass">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%201.html" class="Sand-on-watchGlass" id="FirstSoilOnWatchglass">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%202.html" class="Sand-on-watchGlass" id="SecondSoilOnWatchglass">
+<img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%203.html" class="Sand-on-watchGlass" id="ThirdSoilOnWatchglass">
+</div>
+
+
+
+<!-- <div id="SecondpageFirst_drop"></div> -->
+<div id="secondpage_firstbottle_droparea"></div>
+<div id="secondpage_secondbottle_droparea"></div>
+<div id="secondpage_thirdbottle_droparea"></div>
+
+
+<div id="beaker">
+    <img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/Beaker100ml.svg" class="the-beaker">
+    <img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/Beakershadow.svg" class="the-beaker-shadow">
+    <img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERINBEAKER.svg" class="the-beaker-water">
+    <div id="water_falling_down">
+                <img src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERPOUR/water pour2.svg" class="waterfallingto_Beaker2" id="Waterto_beaker_2"
+                    style="display:block">
+                <img src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERPOUR/water pour3.svg" class="waterfallingto_Beaker3" id="Waterto_beaker_3"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERPOUR/water pour4.svg" class="waterfallingto_Beaker4" id="Waterto_beaker_4"
+                    style="display:none">
+                <img src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERPOUR/water pour5.svg" class="waterfallingto_Beaker5" id="Waterto_beaker_5"
+                    style="display:none">
+            </div>
+</div>
+<img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERFALLTOCYLINDER.svg" class="WaterFalltoBeaker">
+<img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERFALLTOCYLINDER.svg" class="WaterFalltoBeaker2">
+<img  src="http://localhost/olabs/CHE/UPS/Infiltration_of_water_through_soil/images/WATERFALLTOCYLINDER.svg" class="WaterFalltoBeaker3">
+
+<div id="waterflowAnim1">
+<div id="crossfade">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/1.html" id="s1"  class="first-sand" style="display:block" >
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/2.html" id="s2" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/3.html" id="s3" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/4.html" id="s4" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/5.html" id="s5" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/6.html" id="s6" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/7.html" id="s7" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/8.html" id="s8" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/9.html" id="s9" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/10.html" id="s10" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/11.html" id="s11" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/12.html" id="s12" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/13.html" id="s13" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/14.html" id="s14" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/15.html" id="s15" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/16.html" id="s16" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/17.html" id="s17" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/18.html" id="s18" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/19.html" id="s19" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/20.html" id="s20" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/21.html" id="s21" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/22.html" id="s22" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/23.html" id="s23" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/24.html" id="s24" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/25.html" id="s25" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/26.html" id="s26" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/27.html" id="s27" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/28.html" id="s28" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/29.html" id="s29" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/30.html" id="s30" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/31.html" id="s31" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/32.html" id="s32" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/33.html" id="s33" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/34.html" id="s34" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/35.html" id="s35" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/36.html" id="s36" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/37.html" id="s37" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/38.html" id="s38" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/39.html" id="s39" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/40.html" id="s40" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/41.html" id="s41" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/42.html" id="s42" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/43.html" id="s43" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/44.html" id="s44" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/45.html" id="s45" class="first-sand" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND/46.html" id="s46" class="first-sand" style="display:none">
+</div>
+</div>
+
+<div id="waterflowAnim2">
+<div id="sand2">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/1.html" id="2s1"  class="first-SAND2" style="display:block" >
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/2.html" id="2s2" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/3.html" id="2s3" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/4.html" id="2s4" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/5.html" id="2s5" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/6.html" id="2s6" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/7.html" id="2s7" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/8.html" id="2s8" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/9.html" id="2s9" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/10.html" id="2s10" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/11.html" id="2s11" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/12.html" id="2s12" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/13.html" id="2s13" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/14.html" id="2s14" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/15.html" id="2s15" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/16.html" id="2s16" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/17.html" id="2s17" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/18.html" id="2s18" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/19.html" id="2s19" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/20.html" id="2s20" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/21.html" id="2s21" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/22.html" id="2s22" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/23.html" id="2s23" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/24.html" id="2s24" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/25.html" id="2s25" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/26.html" id="2s26" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/27.html" id="2s27" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/28.html" id="2s28" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/29.html" id="2s29" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/30.html" id="2s30" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/31.html" id="2s31" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/32.html" id="2s32" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/33.html" id="2s33" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/34.html" id="2s34" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/35.html" id="2s35" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/36.html" id="2s36" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/37.html" id="2s37" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/38.html" id="2s38" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/39.html" id="2s39" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/40.html" id="2s40" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/41.html" id="2s41" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/42.html" id="2s42" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/43.html" id="2s43" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/44.html" id="2s44" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/45.html" id="2s45" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/46.html" id="2s46" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/47.html" id="2s47" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/48.html" id="2s48" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/49.html" id="2s49" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/50.html" id="2s50" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/51.html" id="2s51" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/52.html" id="2s52" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/53.html" id="2s53" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/54.html" id="2s54" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/55.html" id="2s55" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/56.html" id="2s56" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/57.html" id="2s57" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/58.html" id="2s58" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/59.html" id="2s59" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/60.html" id="2s60" class="first-SAND2" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND2/91.html" id="2s61" class="first-SAND2" style="display:none">
+</div>
+</div>
+
+
+<div id="waterflowAnim3">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/CWATER.html" id="claywater" class="clayonpage" style="display:block">
+<div id="clayAndwater">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/1.html" id="3s1"  class="thirdsandwater" style="display:block" >
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/2.html" id="3s2" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/3.html" id="3s3" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/4.html" id="3s4" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/5.html" id="3s5" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/6.html" id="3s6" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/7.html" id="3s7" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/8.html" id="3s8" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/9.html" id="3s9" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/10.html" id="3s10" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/11.html" id="3s11" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/12.html" id="3s12" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/13.html" id="3s13" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/14.html" id="3s14" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/15.html" id="3s15" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/16.html" id="3s16" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/17.html" id="3s17" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/18.html" id="3s18" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/19.html" id="3s19" class="thirdsandwater" style="display:none">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/CLAYWATER/20.html" id="3s20" class="thirdsandwater" style="display:none">
+
+</div>
+</div>
+
+
+</div>
+
+<div id="inferencebutton1">
+<img  src="../CHE/UPS/Infiltration_of_water_through_soil/images/inference.html" style="display:none" id="inferencebutton" class="inferencebutton" >
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+<div class="g198 controlHolder">
+<div class="nano has-scrollbar">
+<ul style="right: -17px;" tabindex="0" class="overthrow content description">
+    <li>
+    <p class="varTitle1" id="VarHeading_one">Instructions:</p>
+    <p class="varTitle" id="VarHeading_two"></p>
+    <p class="varTitle" id="VarHeading_three"></p>
+    <p class="varTitle" id="VarHeading_four"></p>
+    <p class="varTitle" id="VarHeading_five"></p>
+    <p class="varTitle" id="VarHeading_six"></p>
+    <p class="varTitle" id="VarHeading_seven"></p>
+    
+    <div id="theSecondControls" >       
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/Watch%20Glass.html" class="first_watchglass">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%201.html" class="first_watchglass-soil">
+    <p id="Sand" class="controls-sand-label"></p>
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/Watch%20Glass.html" class="second_watchglass">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%202.html" class="second_watchglass-soil">
+    <p id="Slit" class="controls-slit-label"></p>
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/Watch%20Glass.html" class="third_watchglass">
+    <img src="../CHE/UPS/Infiltration_of_water_through_soil/images/SAND%20ON%20WATCHGLASS%203.html" class="third_watchglass-soil">
+    <p id="clay" class="controls-clay-label"></p>
+    </div>
+  
+    <div class="varBox">               
+            </p>
+            <br />
+      
+</li>
+</ul>
+
+
+</div>
+</div>
+<script type="text/javascript">
+ var expTitle="Infiltration of Water through Soil";
+ document.getElementById("expName").style.size="11px";
+ document.getElementById("expName").innerHTML=expTitle;
+ 
+</script>   <footer id="tempFooter">
+ <div class="g396 footer">
+   <!-- <p class="labName"></p> -->
+   <p class="labName">Developed by Amrita University Under research grant from
+<br>Ministry of Electronics and Information Technology</p>
+  </div>
+  <!-- end .g396 -->
+  <div class="g396 footer">
+    <p class="copyName"></p>
+  </div>
+    <div class="clear"></div>
+    </footer> <!-- /footer -->
+</div>
+</body>
+
+<!-- Mirrored from localhost/olabs/html5/?sub=CHE&cat=UPS&exp=Infiltration_of_water_through_soil&tempId=olab_otr by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Dec 2025 10:07:32 GMT -->
+</html>
+<script>
+function simFullScreenOlab(){
+		var $ = function(selector,context){return(context||document).querySelector(selector)};
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+            var fullscreen = function(elem){
+            var prefix;
+			
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) 
+			{
+              prefix = domPrefixes[i].toLowerCase();
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+            return false;
+        }; 
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+		iframe[fullscreenother]();
+		(this,this.document);
+	    }
+
+</script><script>
+	document.addEventListener("DOMContentLoaded", function() {
+		let styleTag = document.createElement('style');
+		styleTag.setAttribute('nonce', 'RANDOM_NONCE');
+		document.head.appendChild(styleTag);
+		let counter = 0;
+		let cssText = '';
+		document.querySelectorAll('*[style]').forEach(el => {
+			let inlineStyle = el.getAttribute('style').trim();
+			if (inlineStyle) {
+			counter++;
+			// Generate a unique class name
+			let className = `auto-style-sim-${counter}`;
+			// Add the new class to the element
+			el.classList.add(className);
+			// Remove the inline style
+			el.removeAttribute('style');
+			// Add the CSS rule manually into a text string
+			cssText += `.${className} { ${inlineStyle} }\n`;
+			}
+		});
+		// Write all CSS rules at once into the style tag
+		styleTag.innerHTML = cssText;
+		console.log(`Moved ${counter} inline styles into <style> tag.`);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		document.querySelectorAll("iframe:not([sandbox])").forEach(function (iframe) {
+			iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+			console.log("Sandbox attribute applied to iframe:", iframe);
+		});
+	});
+</script>
