@@ -4,6 +4,7 @@ Date started:22/1/2014
 file name:simcontrols.js
 */
 // Variable declaration
+
 var labelArray=new Array();
 var SamplesOptions;
 var eqnArray;
