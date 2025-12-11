@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2013-12-10 09:16+0530\n"
+"PO-Revision-Date: 2013-12-10 09:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:66
+msgid "Decomposition Reaction"
+msgstr "Decomposition Reaction"
+
+#: simcontrols.js:71
+msgid "Thermal Decomposition"
+msgstr "Thermal Decomposition"
+
+#: simcontrols.js:71
+msgid "Electrolytic Decomposition"
+msgstr "Electrolytic Decomposition"
+
+#: simcontrols.js:71
+msgid "Photo Decomposition"
+msgstr "Photo Decomposition"
+
+#: simcontrols.js:71
+msgid "Copper Carbonate"
+msgstr "Copper Carbonate"
+
+#: simcontrols.js:71
+msgid "Ferrous Sulphate"
+msgstr "Ferrous Sulphate"
+
+#: simcontrols.js:71
+msgid "Water"
+msgstr "Water"
+
+#: simcontrols.js:71
+msgid "Sodium Chloride"
+msgstr "Sodium Chloride"
+
+#: simcontrols.js:71
+msgid "Silver Chloride"
+msgstr "Silver Chloride"
+
+#: simcontrols.js:71
+msgid "Silver Bromide"
+msgstr "Silver Bromide"
+
+#: simcontrols.js:71
+msgid "To separate "
+msgstr "To separate "
+
+#: simcontrols.js:71
+msgid " from the mixture"
+msgstr " from the mixture"
+
+#: simcontrols.js:71
+msgid "Select the mixture:"
+msgstr "Select the mixture:"
+
+#: simcontrols.js:71
+msgid "Chemical reaction :"
+msgstr "Chemical reaction :"
+
+#: simcontrols.js:71
+msgid "Select the power of the light from the source :"
+msgstr "Select the power of the light from the source :"
+
+#: simcontrols.js:71
+msgid "Select the distance of the light from the sample :"
+msgstr "Select the distance of the light from the sample :"
+
+#: simcontrols.js:71
+msgid "Rheostat Resistance :"
+msgstr "Rheostat Resistance :"
+
+#: simcontrols.js:71
+msgid "Select the sample :"
+msgstr "Select the sample :"
+
+#: simcontrols.js:71
+msgid "Select the type of reaction :"
+msgstr "Select the type of reaction :"
+
+#: simcontrols.js:71
+msgid " W"
+msgstr " W"
+
+#: simcontrols.js:71
+msgid " ohm"
+msgstr " ohm"
+
+#: simcontrols.js:71
+msgid "cm"
+msgstr "cm"
+
+#: simcontrols.js:71
+msgid "Anode(+ve electrode) :"
+msgstr "Anode (+ve electrode) :"
+
+#: simcontrols.js:71
+msgid "Cathode(-ve electrode) :"
+msgstr "Cathode (-ve electrode) :"
+
+#: simcontrols.js:71
+msgid "Overall:"
+msgstr "Overall:"
+
+#: simcontrols.js:71
+msgid "0 ohm"
+msgstr "0 ohm"
+
+#: simcontrols.js:71
+msgid "40 W"
+msgstr "40 W"
+
+#: simcontrols.js:71
+msgid "50cm"
+msgstr "50cm"
+
+#: simcontrols.js:71
+msgid "Switch On"
+msgstr "Switch On"
+
+#: simcontrols.js:71
+msgid "Start"
+msgstr "Start"
+
+#: simcontrols.js:71
+msgid "Stop"
+msgstr "Stop"
+
+#: simcontrols.js:71
+msgid "Switch Off"
+msgstr "Switch Off"
+
+#: simcontrols.js:71
+msgid "Strong heat"
+msgstr "Strong heat"
+
+#: simcontrols.js:71
+msgid "80&deg;C-100&deg;C"
+msgstr "80&deg;C-100&deg;C"
+
+#: simcontrols.js:71
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:73
+msgid ""
+"Copper carbonate decomposes at about 290&deg;C</br>giving off carbon dioxide "
+"and leaving copper (II) oxide."
+msgstr ""
+"Copper carbonate decomposes at about 290&deg;C</br>giving off carbon dioxide "
+"and leaving copper (II) oxide."
+
+#: simcontrols.js:73
+msgid ""
+"When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+"the water molecules to form</br>white coloured anhydrous FeSO<sub>4</sub>. "
+"On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes to form a "
+"reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and SO<sub>2</sub> and</"
+"br>SO<sub>3</sub> gases."
+msgstr ""
+"When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+"the water molecules to form</br>white coloured anhydrous FeSO<sub>4</sub>. "
+"On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes to form a "
+"reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and SO<sub>2</sub> and</"
+"br>SO<sub>3</sub> gases."
+
+#: simcontrols.js:73
+msgid ""
+"When an electric current is being passed through water, it decomposes</"
+"br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas (O<sub>2</"
+"sub>) at the</br>anode. The amount of hydrogen generated is twice that of "
+"oxygen."
+msgstr ""
+"When an electric current is being passed through water, it decomposes</"
+"br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas (O<sub>2</"
+"sub>) at the</br>anode. The amount of hydrogen generated is twice that of "
+"oxygen."
+
+#: simcontrols.js:73
+msgid ""
+"When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+"sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions undergo "
+"oxidation to form chlorine gas. At the cathode,</br>water molecules reduced "
+"to form hydrogen gas, leaving OH<sup>-</sup> ions. Na<sup>+</sup> ions</"
+"br>and OH<sup>-</sup> ions react together to form aqueous NaOH."
+msgstr ""
+"When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+"sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions undergo "
+"oxidation to form chlorine gas. At the cathode,</br>water molecules reduced "
+"to form hydrogen gas, leaving OH<sup>-</sup> ions. Na<sup>+</sup> ions</"
+"br>and OH<sup>-</sup> ions react together to form aqueous NaOH."
+
+#: simcontrols.js:73
+msgid ""
+"Silver chloride undergoes decomposition in the presence</br>of light giving "
+"off chlorine gas and leaving metallic silver."
+msgstr ""
+"Silver chloride undergoes decomposition in the presence</br>of light giving "
+"off chlorine gas and leaving metallic silver."
+
+#: simcontrols.js:73
+msgid ""
+"Silver bromide undergoes decomposition in the presence</br>of light giving "
+"off bromine gas and leaving metallic silver."
+msgstr ""
+"Silver bromide undergoes decomposition in the presence</br>of light giving "
+"off bromine gas and leaving metallic silver."
+
+#: simcontrols.js:100
+msgid "Select the reaction."
+msgstr "Select the reaction."
+
+#: simcontrols.js:100
+msgid "Select the sample."
+msgstr "Select the sample."
+
+#: simcontrols.js:100
+msgid "To start the experiment,</br>click on the Start button."
+msgstr "To start the experiment,</br>click on the Start button."
+
+#: simcontrols.js:100
+msgid ""
+"Drag the spatula over the</br>test tube to put CaCO<sub>3</sub> into it."
+msgstr ""
+"Drag the spatula over the</br>test tube to put CaCO<sub>3</sub> into it."
+
+#: simcontrols.js:100
+msgid "Click on the knob</br>to switch on the</br>burner."
+msgstr "Click on the knob</br>to switch on the</br>burner."
+
+#: simcontrols.js:100
+msgid "Drag the test tube over the burner</br>to heat the compound."
+msgstr "Drag the test tube over the burner</br>to heat the compound."
+
+#: simcontrols.js:100
+msgid "Move the slider to adjust</br>the rheostat resistance."
+msgstr "Move the slider to adjust</br>the rheostat resistance."
+
+#: simcontrols.js:100
+msgid "Click on the switch on button."
+msgstr "Click on the switch on button."
+
+#: simcontrols.js:100
+msgid "Use the slider to adjust</br>the power of the light."
+msgstr "Use the slider to adjust</br>the power of the light."
+
+#: simcontrols.js:100
+msgid "Use the slider to adjust the</br>distance of the light source."
+msgstr "Use the slider to adjust the</br>distance of the light source."
+
+#: simcontrols.js:100
+msgid ""
+"Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+msgstr ""
+"Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+
+#: simcontrols.js:100
+msgid "To start the experiment,</br>click on the Switch on button."
+msgstr "To start the experiment,</br>click on the Switch on button."
+
+#: simcontrols.js:100
+msgid "Click on the reset button</br>to redo the experiment."
+msgstr "Click on the reset button</br>to redo the experiment."
+
+#: simcontrols.js:104
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:105
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:106
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:107
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#~ msgid "Click on the start button."
+#~ msgstr "Click on the start button."
+
+#~ msgid "Adjust the rheostat resistance</br>by using the slider control."
+#~ msgstr "Adjust the rheostat resistance</br>by using the slider control."
+
+#~ msgid "Adjust the power of the light</br>by using the slider control."
+#~ msgstr "Adjust the power of the light</br>by using the slider control."
+
+#~ msgid "Move the lamp from the</br>compound by using the slider</br>control."
+#~ msgstr ""
+#~ "Move the lamp from the</br>compound by using the slider</br>control."
+
+#~ msgid "Anode:"
+#~ msgstr "Anode:"
+
+#~ msgid "Cathode:"
+#~ msgstr "Cathode:"
+
+#~ msgid "50 cm"
+#~ msgstr "50 cm"

@@ -1,0 +1,926 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title_one">
+	<TEXTVALUE>മൂലകങ്ങളുടെ നിർണ്ണയം : ലാസ്സൈൻസ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>ആരംഭിക്കുക </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>സ്റ്റാർട്ട് ബട്ടനിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തുടങ്ങുക</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="LassaignesExtract_text">
+	<TEXTVALUE>ലാസ്സൈൻസ് എക്സ്ട്രാറ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_text">
+	<TEXTVALUE>നൈട്രജന്റെ  നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_text">
+	<TEXTVALUE>സൾഫറിന്റെ  നിർണ്ണയം </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_text">
+	<TEXTVALUE>ഹാലജനുകളുടെ നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>ലഘുപട്ടികയിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് - ചൈനാഡിഷ്, കാർബണിക സംയുക്തം, ഫണൽ, ട്രൈപോഡ്സ്റ്റാൻഡ്, കമ്പിവല, ശുദ്ധീകരിച്ചജലം, ബൺസൺബർണർ, ഫ്യൂഷൻ ട്യൂബുകൾ, ടെസ്ട്യൂബ്, സോഡിയം ലോഹം, ചെറിയ സ്പാറ്റുല, ചവണ, ഫിൽട്ടർപേപ്പർ, ഗ്ലാസ്സ് റോഡ്, കൊടിൽ ഇവയാണ്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_txt">
+	<TEXTVALUE>ശുദ്ധീകരിച്ചജലം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chinaDish_text">
+	<TEXTVALUE>ചൈനാഡിഷ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="OrganicCompound_text">
+	<TEXTVALUE>കാർബണിക സംയുക്തം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Funnel_text">
+	<TEXTVALUE>ഫണൽ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TripodStand_text">
+	<TEXTVALUE>ട്രൈപോഡ് സ്റ്റാൻഡ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="WireGauze_text">
+	<TEXTVALUE>കമ്പിവല</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_text">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BunsenBurner_text">
+	<TEXTVALUE>ബൺസൺബർണർ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FusionTube_text">
+	<TEXTVALUE>ഫ്യൂഷൻ ട്യൂബുകൾ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubes_text">
+	<TEXTVALUE>ടെസ്ട്യൂബുകൾ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumMetal_text">
+	<TEXTVALUE>സോഡിയം ലോഹം</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="SmallSpatula_text">
+	<TEXTVALUE>ചെറിയ സ്പാറ്റുല</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Forceps_text">
+	<TEXTVALUE>ചവണ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sodium_text">
+	<TEXTVALUE>സോഡിയം ലോഹം</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>ചവണ ഉപയോഗിച്ച് സോഡിയം ലോഹത്തിന്റെ  ചെറിയ ഒരു കഷണം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Sodium_twotext">
+	<TEXTVALUE>സോഡിയം ലോഹം</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>സോഡിയം ലോഹത്തിന്റെ  ചെറിയ ഒരു കഷണം ഒരു ഫിൽട്ടർപേപ്പറിന്റെ  പുറത്ത് വച്ചിട്ട് ഉണങ്ങുന്നതിന് വേണ്ടി വേറൊരു ഫിൽട്ടർപേപ്പർ വച്ച്  അമർത്തുക. ഉണങ്ങിയ സോഡിയം ചവണ ഉപയോഗിച്ച് പിടിച്ച് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Filterpaper_text">
+	<TEXTVALUE>ഫിൽട്ടർപേപ്പർ</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>ഫ്യൂഷൻ ട്യൂബ്‌  കൊടിൽ ഉപയോഗിച്ച് പിടിച്ചിട്ട് ഉണങ്ങിയ സോഡിയം അതിലേക്ക് ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>ഫ്യൂഷൻ ട്യൂബ്‌  ഇങ്ങനെ പിടിച്ചുകൊണ്ട് ബൺസൺബർണറിൽ വച്ച് ചെറുതായി ചൂടാക്കുക, സോഡിയം ചെറുഗോളങ്ങളായി ഉരുകി തിളങ്ങുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>ചെറിയ സ്പാറ്റുല എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് ഒരു നുള്ള് കാർബണിക സംയുക്തം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>ഫ്യൂഷൻട്യൂബിലേക്ക് ഈ കാർബണികസംയുക്തം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>സ്പാറ്റുലയുടെ തിരിച്ച് അതേ സ്ഥാനത്ത് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Observation_text">
+	<TEXTVALUE>നിരീക്ഷണം</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>നല്ല കടുംചുവപ്പാകുന്നതുവരെ ഫ്യൂഷൻ ട്യൂബ്‌  ബൺസൺബർണറിൽ വച്ച് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>ചൂടാക്കിയ ചുവപ്പ്നിറമാർന്ന ട്യൂബ് ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ചൈനാഡിഷിലേക്ക് മുക്കുക, ട്യൂബ് പൊട്ടുന്നു. ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ട്യൂബ് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclusion_text">
+	<TEXTVALUE>സമാപനം</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>ഈ പ്രക്രിയ 2-3 മിനിട്ട് ആവർത്തിക്കുക, ചൈനാഡിഷിലെ മിശ്രിതം ഏതാനും മിനിട്ടുകൾകൊണ്ട് തിളക്കുന്നതിന് വേണ്ടി ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene14_subone">
+	<TEXTVALUE>ചൈനാഡിഷിലെ ദ്രാവകത്തിന്റെ  വ്യാപ്തം 1/3 ആയി കുറയുമ്പോൾ ചൂടാക്കൽ നിർത്തുക. ഇതാണ് അതിന്റെ  പ്രാരംഭ വ്യാപ്തം.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclsn_para">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>  പുറകോട്ട്  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>ഒരു ഫിൽട്ടർപേപ്പർ എടുക്കുക</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>ഫണലിൽ ഫിൽട്ടർപേപ്പർ വച്ചിട്ട് അത് ഒരു സ്റ്റാൻഡുമായി ഉറപ്പിക്കുക, ചൈനാഡിഷിലെ മിശ്രിതം ഒരു ഫണലിലൂടെ ഫണലിന് താഴെ വച്ചിരിക്കുന്ന വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക് അരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene16_sub_1">
+	<TEXTVALUE>ഇങ്ങനെ അരിച്ചുകിട്ടുന്ന മിശ്രിതമാണ് ലാസ്സൈൻസ് മിശ്രിതം.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>പുറകോട്ട് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaignesextract_text">
+	<TEXTVALUE>ലാസ്സൈൻസ് വാറ്റ്സത്ത് </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>സീൻ 17</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textTwo">
+	<TEXTVALUE>ലാസ്സൈൻസ് സത്ത്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_textTwo">
+	<TEXTVALUE>നൈട്രജന്റെ  നിർണ്ണയം </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് - ശുദ്ധമായി തയ്യാറാക്കിയ ഫെറസ് സൾഫേറ്റ് ലായനി, ഫെറിക് ക്ലോറൈഡ് ലായനി, ഗാഢഹൈഡ്രോക്ലോറിക് ആസിഡ്, ടെസ്ട്യൂബുകൾ, ലാസ്സൈൻസ് മിശ്രിങ്ങളും ഡ്രോപ്പറും ഇവയൊക്കെയാണ്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_text">
+	<TEXTVALUE>ഡ്രോപ്പറുകൾ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassignesExtract_text">
+	<TEXTVALUE>ലാസ്സൈൻസ് സത്ത് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Tubes_text">
+	<TEXTVALUE>ടെസ്ട്യൂബുകൾ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_text">
+	<TEXTVALUE>ഗാഢ HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChlorideSolution_text">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ്
+ലായനി </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_text">
+	<TEXTVALUE>ശുദ്ധമായി തയ്യാറാക്കിയ ഫെറസ് സൾഫേറ്റ്(അക്വസ്)</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHcl_textTwo">
+	<TEXTVALUE>ഗാഢ HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textTwo">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textTwo">
+	<TEXTVALUE>ശുദ്ധമായ തയ്യാറാക്കിയ ഫെറസ് സൾഫേറ്റ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>കുറച്ച് ലാസ്സൈൻസ് മിശ്രിതം ഡ്രോപ്പർ ഉപയോഗിച്ച് എടുക്കുക. ഇത്  ഒരു വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് ശുദ്ധമായി തയ്യാറാക്കിയ കുറച്ച്ഫെറസ് സൾഫേറ്റ് ലായനിഎടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="FericChloride_textThree">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് 
+ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textThree">
+	<TEXTVALUE>ശുദ്ധമായ തയ്യാറാക്കിയ 
+ഫെറസ് സൾഫേറ്റ്   ലായനി </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>ലാസ്സൈൻസ് മിശ്രിതം അടങ്ങിയ ടെസ്ട്യൂബിലേക്ക് ഫെറസ് സൾഫേറ്റ് ലായനി ഒഴിക്കുക, ടെസ്ട്യൂബ് ഹോൾഡർഉപയോഗിച്ച് ടെസ്ട്യൂബ് പിടിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>ടെസ്ട്യൂബ് ബൺസൺബർണറിൽ വച്ച് ചൂടാക്കുക, ലാസ്സൈൻസ് മിശ്രിതം തയ്യാറാക്കലിലൂടെ ഉണ്ടായ സോഡിയം സയനൈഡ് സോഡിയം ഫെറോസയനൈഡ് ആയി മാറ്റപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene22_sub_1">
+	<TEXTVALUE>സോ‍ഡിയം ഫെറോസയനൈഡ് ഫെറസ് സൾഫേറ്റുമായി പ്രവർത്തനത്തിൽ ഏർപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>ടെസ്ട്യൂബ്   ടെസ്ട്യൂബ് ഷെൽഫിലേക്ക് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ഫെറിക് ക്ലോറൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFour">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>ടെസ്ട്യൂബിലെ മിശ്രിതത്തിലേക്ക് ഫെറിക് ക്ലോറൈഡ് ലായനി ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ഗാഢഹൈഡ്രോക്ലോറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFive">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_textFive">
+	<TEXTVALUE>ഗാഢഹൈഡ്രോക്ലോറിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>ഗാഢഹൈഡ്രോക്ലോറിക് ആസിഡ് ടെസ്ട്യൂബിലെ മിശ്രിതത്തിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene27_subone">
+	<TEXTVALUE>ഗാഢഹൈഡ്രോക്ലോറിക് ആസിഡ് ഫെറിക് ക്ലോറൈഡുമായി കൂടുതലായി  പ്രവർത്തിച്ച് സോഡിയം ഫെറോസയനൈഡിന്റെ  ഒരു പ്രഷ്യൻ നീലയും ഫെറിക് ഫെറോസയനൈഡും ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>സീൻ 28</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>ടെസ്റ്റുകൾ തിരഞ്ഞെടുക്കുന്നതിന് ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_text">
+	<TEXTVALUE>സോഡിയം നൈട്രോപ്രൂസൈഡ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="LeadAcetateTest_text">
+	<TEXTVALUE>ലെഡ് അസറ്റേറ്റ് ടെസ്റ്റ് </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>ലെഡ് അസറ്റേറ്റ് ടെസ്റ്റ്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_textt">
+	<TEXTVALUE>സോഡിയം 
+നൈട്രോപ്രുസൈഡ് ലായനി </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Dropper_textTwo">
+	<TEXTVALUE>ഡ്രോപ്പർ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_text">
+	<TEXTVALUE>ലാസ്സൈൻസ് സത്ത്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTube_textTwo">
+	<TEXTVALUE>ടെസ്ട്യൂബ് </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>കുറച്ച് ലാസ്സൈൻസ് മിശ്രിതം ഡ്രോപ്പർ ഉപയോഗിച്ച് എടുക്കുക, ഇത്  ഒരു വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_texta">
+		<TEXTVALUE>ലാസ്സൈൻസ് മിശ്രിതം </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് സോഡിയം നൈട്രോപ്രുസൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Nitroprusside_text">
+		<TEXTVALUE>സോഡിയം നൈട്രോപ്രുസൈഡ്  </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>ചേർക്കുക, ലാസ്സൈൻ മിശ്രിതം തയ്യാറക്കൽ സമയത്ത് ഒരു പർപ്പിൾ നിറമോ വയലറ്റ് നിറമോ ആയ സോഡിയം സൾഫൈഡും സോഡിയം നൈട്രോപ്രുസൈഡും ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene33_subone">
+		<TEXTVALUE> സോഡിയം നൈട്രോപ്രുസൈഡിന്റെ  രൂപീകരണത്തിന് കാരണമായത്.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>സീൻ 34</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprussidetest_texttwo">
+		<TEXTVALUE>സോഡിയം നൈട്രോപ്രുസൈഡ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetateTest_texttwo">
+		<TEXTVALUE>ലെഡ് അസറ്റേറ്റ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് -അസറ്റിക് ആസിഡ്, ലെഡ് അസറ്റേറ്റ്  ലായനി, ടെസ്ട്യൂബുകൾ, ലാസ്സൈൻസ് മിശ്രിതം, ഡ്രോപ്പറുകൾഎന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AceticAcid_textnew">
+		<TEXTVALUE>അസറ്റിക് ആസിഡ്  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetate_textttnew">
+		<TEXTVALUE>ലെഡ് അസറ്റേറ്റ്   ലായനി  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_textnew">
+		<TEXTVALUE>ഡ്രോപ്പറുകൾ </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Lassaignes_textnew">
+		<TEXTVALUE>ലാസ്സൈൻസ് സത്ത് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Testtube_textnew">
+		<TEXTVALUE>ടെസ്ട്യൂബ്</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="LeadAcetate_textnew">
+		<TEXTVALUE>ലെഡ്അസറ്റേറ്റ് ലായനി </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="AceticAcid_ttextnew">
+		<TEXTVALUE>അസറ്റിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>കുറച്ച് ലാസ്സൈൻസ് മിശ്രിതം ഡ്രോപ്പർ ഉപയോഗിച്ച് എടുക്കുക, ഇത്  ഒരു വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് അസറ്റിക് ആസിഡ്എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatesss_text">
+		<TEXTVALUE>ലെഡ് അസറ്റേറ്റ് ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticAcid_txtnew">
+		<TEXTVALUE>അസറ്റിക് ആസിഡ്</TEXTVALUE>
+	</TEXT>
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിൽ അടങ്ങിയിരിക്കുന്ന ലാസ്സൈൻസ് മിശ്രിതത്തിലേക്ക് അസറ്റിക്ആസിഡ് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ലെഡ് അസറ്റേറ്റ് ലായനിഎടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatetxt_text">
+		<TEXTVALUE>ലെഡ് അസറ്റേറ്റ് ലായനി </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Acidsol_txt">
+		<TEXTVALUE>അസറ്റിക്ആസിഡ്  </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലെ മിശ്രിതത്തിലേക്ക് കുറച്ച് ലെഡ് അസറ്റേറ്റ് ലായനിചേർക്കുക, ലാസ്സൈൻസ് മിശ്രിതത്തിന്റെ  തയ്യാറാക്കൽ സമയത്ത് ഉണ്ടാകുന്ന സോഡിയം സൾഫൈഡ്..</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene40_sub_1">
+		<TEXTVALUE>ലെഡ് അസറ്റേറ്റുമായി ചേർന്ന് ലെഡ് സൾഫൈഡിന്റെ  കറുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>സീൻ 41</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textnew">
+		<TEXTVALUE>ലാസ്സൈൻസ് സത്ത്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofNitrogen_textnew">
+		<TEXTVALUE>നൈട്രജന്റെ  നിർണ്ണയിക്കൽ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_textnew">
+		<TEXTVALUE>സൾഫറിന്റെ  നിർണ്ണയിക്കൽ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_textnew">
+		<TEXTVALUE>ഹാലജനുകളുടെ നിർണ്ണയിക്കൽ </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>ടെസ്റ്റുകൾ തിരഞ്ഞെടുക്കുന്നതിന് ടാബുകളിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrateTest_textnew">
+		<TEXTVALUE>സിൽവർനൈട്രേറ്റ് ടെസ്റ്റ്  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CarbonDisulphideTest_ttnew">
+		<TEXTVALUE>കാർബൺഡൈസൾഫൈഡ് ടെസ്റ്റ്  </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് -ഗാഢനൈട്രിക് ആസിഡ്, സിൽവർനൈട്രേറ്റ് ലായനി, അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനി, ടെസ്റ്റൃൂബ്, ലാസ്സൈൻസ് മിശ്രിതം, ഡ്രോപ്പറുകൾ, ടെസ്ട്യൂബ്ഹോൾഡർ എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHNO_text">
+		<TEXTVALUE>ഗാഢ HNO </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrate_ttext">
+		<TEXTVALUE>സിൽവർനൈട്രേറ്റ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxide_text">
+		<TEXTVALUE>അമോണിയം 
+ഹൈഡ്രോക്സൈഡ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubett_new">
+		<TEXTVALUE>ടെസ്ട്യൂബ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNO_textt">
+		<TEXTVALUE>ഗാഢ HNO</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitratett_text">
+		<TEXTVALUE>സിൽവർനൈട്രേറ്റ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ammonium_text">
+		<TEXTVALUE>അമോണിയം 
+ഹൈഡ്രോക്സൈഡ്</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>കുറച്ച് ലാസ്സൈൻസ് മിശ്രിതം ഡ്രോപ്പർ ഉപയോഗിച്ച് എടുക്കുക, ഇത്  ഒരു വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ഗാഢ നൈട്രിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNOb_text">
+		<TEXTVALUE>ഗാഢനൈട്രിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetate_ttext">
+		<TEXTVALUE>സിൽവർനൈട്രേറ്റ് ലായനി  </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബ് ഹോൾഡർ ഉപയോഗിച്ച് ടെസ്ട്യൂബ് പിടിച്ചുകൊണ്ട്ഗാഢനൈട്രിക് ലാസ്സൈൻസ് മിശ്രിതത്തിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലെ മിശ്രിതം ബൺസൺബർണറിൽ വച്ച് കുറെ സമയം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലെ  മിശ്രിതം തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് സിൽവർനൈട്രേറ്റ് ലായനിഎടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_ttttext">
+		<TEXTVALUE>ഗാഢനൈട്രിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലെ  മിശ്രിതത്തിലേക്ക് സിൽവർനൈട്രേറ്റ് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>കാർബണിക സംയുക്തങ്ങളിൽ ക്ലോറിൻ അടങ്ങിയിട്ടുണ്ടങ്കിൽ ലാസ്സൈൻസ് സംയുക്തം സിൽവർനൈട്രറ്റുമായി പ്രവർത്തിക്കുന്ന സമയത്ത് സോഡിയം ക്ലോറൈഡ് ഉണ്ടാകുന്നു, സിൽവർക്ലോറൈഡിൻ്റെ വെള്ള അവക്ഷിപ്തവും രൂപപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subone">
+		<TEXTVALUE>കാർബണിക സംയുക്തങ്ങളിൽ ബ്രോമിൻ അടങ്ങിയിട്ടുണ്ടങ്കിൽ ലാസ്സൈൻസ് സംയുക്തം സിൽവർനൈട്രറ്റുമായി പ്രവർത്തിക്കുന്ന സമയത്ത് സോഡിയം ബ്രോമൈഡ് ഉണ്ടാകുന്നു..</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subone_1">
+		<TEXTVALUE>സിൽവർ ബ്രോമൈഡിന്റെ  മങ്ങിയ മഞ്ഞ നിറം അവക്ഷിപ്തവും രൂപപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subtwo">
+		<TEXTVALUE>കാർബണിക സംയുക്തങ്ങളിൽ അയഡിൻ അടങ്ങിയിട്ടുണ്ടങ്കിൽ ലാസ്സൈൻസ് സംയുക്തം സിൽവർനൈട്രറ്റുമായി പ്രവർത്തിക്കുന്ന സമയത്ത് സോഡിയം അയഡൈഡ് ഉണ്ടാകുന്നു, സിൽവർ അയഡൈഡിന്റെ  മഞ്ഞ നിറം അവക്ഷിപ്തവും രൂപപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനിഎടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxidet_text">
+		<TEXTVALUE>അമോണിയം ഹൈഡ്രോക്സൈഡ്</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>സിൽവർക്ലോറൈഡിന്റെ  വെള്ള അവക്ഷിപ്തമുള്ള ടെസ്ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>അധികമുള്ള അമോണിയം ഹൈഡ്രോക്സൈഡ് സിൽവർക്ലോറൈഡ് അവക്ഷിപ്തത്തിലേക്ക് ചേർത്തിട്ട് ടെസ്ട്യൂബ് നല്ലതുപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>കൂടുതൽ അളവിലുള്ള അമോണിയം ഹൈഡ്രോക്സൈഡിൽ സിൽവർക്ലോറൈഡ് ലയിക്കുന്നു അതിന് കാരണം, സിൽവർഅമോണിയം ക്ലോറൈഡിന്റെ  മിശ്രിതങ്ങളുടെ രൂപീകരണമാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനിഎടുക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>സിൽവർ ബ്രോമൈഡിന്റെ  മങ്ങിയ മഞ്ഞ അവക്ഷിപ്തം  അടങ്ങിയ ടെസ്ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>അധികമുള്ള അമോണിയം ഹൈഡ്രോക്സൈഡ് സിൽവർബ്രോമൈഡ് അവക്ഷിപ്തത്തിലേക്ക് ചേർത്തിട്ട് ടെസ്ട്യൂബ് നല്ലതുപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>സിൽവർ ബ്രോമൈഡ് കൂടുതൽ അളവിലുള്ള അമോണിയം ഹൈഡ്രോക്സൈഡിൽ വളരെ പരിമിതമായി മാത്രം ലയിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് വീണ്ടും അമോണിയം ഹൈഡ്രോക്സൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>സിൽവർ അയഡൈഡിന്റെ  മഞ്ഞ അവക്ഷിപ്തം അടങ്ങിയ ടെസ്ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>അധികമുള്ള അമോണിയം ഹൈഡ്രോക്സൈഡ് സിൽവർഅയഡൈഡ് അവക്ഷിപ്തത്തിലേക്ക് ചേർത്തിട്ട് ടെസ്ട്യൂബ് നല്ലതുപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനിയിൽ സിൽവർ അയഡൈഡ് ലയിക്കുന്നില്ല.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>സീൻ 64</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SilverNitrateTestyy_text">
+		<TEXTVALUE>സിൽവർനൈട്രേറ്റ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="CarbonDisulphideTestu_text">
+		<TEXTVALUE>കാർബൺഡൈസൾഫൈഡ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത്-ക്ലോറിൻ ജലം, കാർബൺഡൈസൾഫൈഡ്, നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ്, ടെസ്ട്യൂബുകൾ, ലാസ്സൈൻ മിശ്രിതവും ഡ്രോപ്പറുകളും</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatert_text">
+		<TEXTVALUE>ക്ലോറിൻ ജലം </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Carbontt_text">
+		<TEXTVALUE>കാർബൺഡൈസൾഫൈഡ് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLttr_text">
+		<TEXTVALUE>നേർപ്പിച്ചഹൈഡ്രോക്ലോറിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ClorineWater_textt">
+		<TEXTVALUE>ക്ലോറിൻ ജലം </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="CarbonDisulphide_textt">
+		<TEXTVALUE>കാർബൺഡൈസൾഫൈഡ് </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLn_text">
+		<TEXTVALUE>നേർപ്പിച്ച HCl</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>കുറച്ച് ലാസ്സൈൻസ് മിശ്രിതം ഡ്രോപ്പർ ഉപയോഗിച്ച് എടുക്കുക, ഇത്  ഒരു വൃത്തിയായ ടെസ്ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ്എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHclh_text">
+		<TEXTVALUE>നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>ലാസ്സൈൻസ് മിശ്രിതം അടങ്ങിയ ടെസ്ട്യൂബിലേക്ക്  നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ്ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>വേറൊരു ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് കാർബൺഡൈസൾഫൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലേക്ക്  കാർബൺഡൈസൾഫൈഡ് ചേർക്കുക, ലാസ്സൈൻസ് മിശ്രിതത്തിന് മുകളിലായി കാർബൺഡൈ സൾഫൈഡിന്റെ  വേർതിരിഞ്ഞുള്ള ഒരു ആവരണം ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatertt_text">
+		<TEXTVALUE>ക്ലോറിൻ ജലം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>ടെസ്ട്യൂബിലേക്ക് ക്ലോറിൻജലം എടുത്ത് നല്ലതുപോലെ കുലുക്കുക</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subone">
+		<TEXTVALUE>ലാസ്സൈൻസ് മിശ്രിതത്തിൽസോഡിയം ബ്രോമൈഡ് ഉണ്ടാകുമ്പോൾ അത് ക്ലോറിൻ ജലവുമായി പ്രവർത്തിക്കുകയും ബ്രോമൈഡിന് ഓക്സീകരണം സംഭവിച്ച് ബ്രോമിൻ ഉണ്ടാകുകയും ചെയ്യുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subtwo">
+		<TEXTVALUE>ബ്രോമിൻ കാർബൺഡൈസൾഫൈഡിൽ ലയിച്ച്, കാർബൺഡൈസൾഫൈഡിൽ ഒരുആവരണമായിഓറഞ്ച് നിറംപ്രദാനം ചെയ്യുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Bromaine_textt">
+		<TEXTVALUE>ബ്രോമിൻ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Iodinei_text">
+		<TEXTVALUE>അയഡിൻ </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

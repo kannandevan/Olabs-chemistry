@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PSC\n"
+"POT-Creation-Date: 2015-12-03 09:29+0530\n"
+"PO-Revision-Date: 2015-12-04 10:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:91
+msgid "Reactivity of Metals"
+msgstr "ലോഹത്തിന്റെ  പ്രവർത്തനക്ഷമത"
+
+#: simcontrols.js:92 simcontrols.js:123
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:98
+msgid "Select the metal:"
+msgstr "ലോഹം തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:98
+msgid "Beaker A:"
+msgstr "ബീക്കർ A:"
+
+#: simcontrols.js:98
+msgid "Beaker B:"
+msgstr "ബീക്കർ B:"
+
+#: simcontrols.js:98
+msgid "Beaker C:"
+msgstr "ബീക്കർ C:"
+
+#: simcontrols.js:98
+msgid "Most reactive metal:"
+msgstr "കൂടുതൽ ക്രിയാശീലത ഉള്ള ലോഹം:"
+
+#: simcontrols.js:98
+msgid "Least reactive metal:"
+msgstr "കുറഞ്ഞ  ക്രിയാശീലത ഉള്ള ലോഹം:"
+
+#: simcontrols.js:98
+msgid "Increasing order of reactivity:"
+msgstr "പ്രവർത്തനക്ഷമതയുടെ  ക്രമത്തിലുള്ള വർദ്ധന:"
+
+#: simcontrols.js:98
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം:"
+
+#: simcontrols.js:98
+msgid "1 hour"
+msgstr "1മണിക്കൂർ"
+
+#: simcontrols.js:98
+msgid "CHEMISTRY LAB"
+msgstr "രസതന്ത്ര ലാബ്"
+
+#: simcontrols.js:98
+msgid "Result"
+msgstr "ഫലം"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Aluminium"
+msgstr "അലൂമിനിയം"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Zinc"
+msgstr "സിങ്ക്"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Iron"
+msgstr "അയൺ"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Copper"
+msgstr "കോപ്പർ"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</"
+"sub>)<sub>3</sub>."
+msgstr ""
+"കോപ്പർഅലൂമിനിയത്തിന് കോപ്പറിനേക്കാൾ  ക്രിയാശീലത</br>  കൂടുതലാണ് ഇത് കോപ്പർസൾഫേറ്റ് "
+"ലായനിയിൽ നിന്നും കോപ്പറിനെ </br>. സ്ഥാനാന്തരണപ്പെടുത്തുന്നു.</br>cuso<sub>4</"
+"sub>നിറമില്ലാത്ത ലായനി Al<sub>2</sub>(so)<sub>4</sub>3</sub>"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Zn and it can displace Zn from </br>ZnSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</"
+"sub>)<sub>3</sub>."
+msgstr ""
+"അലൂമിനിയം സിങ്കിനേക്കാൾ  ക്രിയാശീലത  കൂടുതൽ </br>ഉള്ളവയാണ്.ഇത് സിങ്ക് സൾഫേറ്റിൽ നിന്നും "
+"സിങ്കിനെ സ്ഥാനാന്തരണപ്പെടുത്തുന്നു.<br>Znso<sub>4</sub>Al<sub>2</sub>(so<sub>4</"
+"sub><sub>3</sub>"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</"
+"sub>)<sub>3</sub>."
+msgstr ""
+"അലൂമിനിയം ഫെറസിനേക്കാൾ  ക്രിയാശീലത  കൂടുതൽ ഉള്ളവയാണ്.</br>ഇത് ഫെറസ്  സൾഫേറ്റിൽ നിന്നും "
+"ഫെറസിനെ സ്ഥാനാന്തരണപ്പെടുത്തുന്നു.<br>Feso<sub>4</sub>Al<sub>2</sub>(so<sub>4</"
+"sub><sub>3</sub>"
+
+#: simcontrols.js:107
+msgid ""
+"Zn is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"സിങ്ക് കോപ്പറിനേക്കാൾ  ക്രിയാശീലത  കൂടുതൽ ഉള്ളവയാണ്</br>.ഇത്കോപ്പർ  സൾഫേറ്റിൽ "
+"നിന്നുംകോപ്പറിനെ  സ്ഥാനാന്തരണപ്പെടുത്തുന്നു.<br>Cuso<sub>4</sub>Zn<sub>2</"
+"sub>(so<sub>4</sub><sub>3</sub>നിറമില്ലാത്ത ലായനിഉണ്ടാകുന്നു."
+
+#: simcontrols.js:107
+msgid ""
+"No change is observed. Because Zn is less reactive than Al </br>so it cannot "
+"displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല.എന്തെന്നാൽ സിങ്കിന് </br>അലൂമിനിയത്തേക്കാൾ കുറഞ്ഞ ക്രിയാശീലതയാണ് "
+"ഉള്ളത്Al <br>അതുകൊണ്ട് ഫെറസ് സൾഫേറ്റ് ലായനിയിൽ നിന്നും ഫെറസിനെ സ്ഥാനാന്തരണപ്പെടുത്താൻ </"
+"br>കഴിയില്ല.Al<sub>2</sub>so(<sub>4</sub>)<sub>3</sub>"
+
+#: simcontrols.js:107
+msgid ""
+"Zn is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"സിങ്ക് ഫെറസിനേക്കാൾ കൂടുതൽ  ക്രിയാശീലത  ഉള്ളതാണ്</br>.ഇത് ഫെറസ് സൾഫേറ്റ് ലായനിയിൽ നിന്നും "
+"ഫെറസിനെ സ്ഥാനാന്തരണം ചെയ്യപ്പെടുന്നു.</br>അതിന്റെ  ഫലമായി നിറമില്ലാത്ത ലായനി ഉണ്ടാകുന്നു.</"
+"br>Feso<sub>4</sub>Znso<sub>4</sub>"
+
+#: simcontrols.js:110
+msgid ""
+"Fe is is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms light green coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"ഫെറസിന് കോപ്പറിനേക്കാൾ ക്രിയാശീലത ഉണ്ട് .ഇത് കോപ്പറിനെ </br>കോപ്പർ സൾഫേറ്റ് ലായനിയിൽ  "
+"നിന്ന്  സ്ഥാനാന്തരണം നടത്തപ്പെടുന്നു.</br>ഇളം പച്ചനിറത്തിലുള്ള ലായനി ഉണ്ടാകുന്നു.</br> "
+"Cuso<sub>4</sub>Feso<sub>4</sub>"
+
+#: simcontrols.js:110
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത്  ഫെറസിന്</br> സിങ്കിനേക്കാൾ ക്രിയാശീലത കുറവെന്ന് "
+"കാണുന്നു.അതുകൊണ്ട് സിങ്ക് </br>സൾഫേറ്റിൽ നിന്ന് സിങ്കിനെ സ്ഥാനം മാറ്റാൻ കഴിയില്ല.znso</"
+"sub>4</sub>"
+
+#: simcontrols.js:110
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Al "
+"so it cannot displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> "
+"solution."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത്  ഫെറസിന്</br> അലൂമിനിയത്തേക്കാൾ ക്രിയാശീലത "
+"കുറവെന്ന് കാണുന്നു.</br>അതുകൊണ്ട് അലൂമിനിയം ലായനിയിൽ  നിന്ന് അലൂമിനിയത്തെ</br> സ്ഥാനം "
+"മാറ്റാൻ കഴിയില്ല.Al</sub>2</sub>(so)<sub>4<sub><sub>3</sub>"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത്  കോപ്പറിന്</br> സിങ്കിനേക്കാൾ ക്രിയാശീലത കുറവെന്ന് "
+"കാണുന്നു.അതുകൊണ്ട് സിങ്ക് ലായനിയിൽ</br>നിന്ന് സിങ്കിനെ സ്ഥാനം മാറ്റാൻ കഴിയില്ല.zn so</"
+"sub>4</sub>"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Al "
+"so it cannot displace Al from from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub> solution."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത്  കോപ്പറിന് </br> അലൂമിനിയത്തേക്കാൾ ക്രിയാശീലത "
+"കുറവെന്ന് കാണുന്നു.അതുകൊണ്ട്</br> അലൂമിനിയം  ലായനിയിൽ  നിന്ന് അലൂമിനിയത്തെ സ്ഥാനം </"
+"br>മാറ്റാൻ കഴിയില്ല.Al</sub>2</sub>(so)<sub>4</sub>3</sub>"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Fe "
+"so it cannot displace Fe from FeSO<sub>4</sub> solution."
+msgstr ""
+"രു മാറ്റവും കാണുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത്  കോപ്പറിന് </br>ഫെറസിനേക്കാൾ ക്രിയാശീലത കുറവെന്ന് "
+"കാണുന്നു.അതുകൊണ്ട്</br> ഫെറസ് സൾഫേറ്റ്  ലായനിയിൽ  നിന്ന് ഫെറസിനെ</br> സ്ഥാനം മാറ്റാൻ "
+"കഴിയില്ല.Feso</sub>4</sub>"
+
+#: simcontrols.js:116
+msgid "Select the metal."
+msgstr "ലോഹം തിരഞ്ഞെടുക്കുക."
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker A."
+msgstr "ബീക്കർ'A'യിലെ ലായനി തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker B."
+msgstr "ബീക്കർ'B'യിലെ ലായനി തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker C."
+msgstr "ബീക്കർ'B'യിലെ ലായനി തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:116
+msgid ""
+"Click and drag the forceps to add </br>two pieces of metal to the beaker."
+msgstr "ചവണകൾ ക്ലിക്ക് ചെയ്ത് നീക്കിയിട്ട് </br>രണ്ട് ലോഹക്കഷണങ്ങൾ ബീക്കറിലേക്ക് ഇടുക"
+
+#: simcontrols.js:118 simcontrols.js:119 simcontrols.js:122
+msgid "-Select-"
+msgstr "തിരഞ്ഞെടുക്കുക."
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Al<Cu<Fe<Zn"
+msgstr "Al<Cu<Fe<Zn"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Cu<Fe<Zn<Al"
+msgstr "Cu<Fe<Zn<Al"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Cu<Zn<Al<Fe"
+msgstr "Cu<Zn<Al<Fe"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Fe<Zn<Cu<Al"
+msgstr "Fe<Zn<Cu<Al"
+
+#: simcontrols.js:125 simcontrols.js:126 simcontrols.js:127
+msgid "Copper sulphate"
+msgstr "കോപ്പർസൾഫേറ്റ്"
+
+#: simcontrols.js:125 simcontrols.js:127 simcontrols.js:128
+msgid "Zinc sulphate"
+msgstr "സിങ്ക് സൾഫേറ്റ്"
+
+#: simcontrols.js:125 simcontrols.js:126 simcontrols.js:128
+msgid "Ferrous sulphate"
+msgstr "ഫെറസ് സൾഫേറ്റ്"
+
+#: simcontrols.js:126 simcontrols.js:127 simcontrols.js:128
+msgid "Aluminium sulphate"
+msgstr "അലൂമിനിയം സൾഫേറ്റ്"

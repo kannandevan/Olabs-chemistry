@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_AQUEOUSSOLUTION">
+        <source>जलयुक्त कॉपर सल्फेट द्रावण आणि लोखंडी खिळे</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BARIUMCHLORIDE">
+        <source>बेरियम क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BARIUMSULPHATE">
+        <source>सोडियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_BEAKER">
+        <source>चंचुपात्र</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BLUELIMTUSPAPER">
+        <source>निळे लिटमस कागद</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BROWNCOATING">
+        <source>तपकिरी आवरण </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_BURNINGMAGNESIUMAIR">
+        <source>हवेत मॅग्नीशियमचे ज्वलन </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_COPPERSULPHATE">
+        <source>कॉपर सल्फेट </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_COPPERSULPHATESOLUTION">
+        <source>कॉपर सल्फेट  द्रावण </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_CORK">
+        <source>बूच</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DAZZLINGFLAME">
+        <source>प्रखर ज्योती</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>विरल सल्फ्युरिक आम्ल</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ऊर्ध्वपतित पाणी</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERROUSSULPHAT">
+        <source>फेरस सल्फेट </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_GLASSROD">
+        <source>काचेचा रॉड </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GLASSTUBE">
+        <source>काचेची नलिका</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_HEATINGCOPPERSULPHATE">
+        <source>कॉपर सल्फेट हायड्रेट गरम करणे.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IRONNAILS">
+        <source>लोखंडी खिळे, </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>किप्स उपकरण</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MAGNESIUMOXIDE">
+        <source>मॅग्नीशियम ऑक्साइड </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_MAGNESIUMRIBBON">
+        <source>मॅग्नीशियम पट्टी </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MAINTITLE">
+        <source>रासायनिक अभिक्रिया</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MOISTREDLITMUSPAPER">
+        <source>ओलसर लिटमस कागद</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAIL">
+        <source>खिळे</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_REACTIONAQUEOUS">
+        <source>सोडियम सल्फेट आणि बेरीयम क्लोराइड मधील अभिक्रिया</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_REACTIONIRONNAIL_COPPERSULPHATE">
+        <source>जलयुक्त कॉपर सल्फेट द्रावण आणि लोखंडी खिळे</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_REDLITMUSPAPER">
+        <source>लाल लिटमस कागद</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_REFERENCE">
+        <source>[एखादी माहिती]</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_SANDPAPER">
+        <source>सॅंड पेपर</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_SODIUMSULPHATE">
+        <source>सोडियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_SODIUMSULPHATE_BARIUMCHLORIDE">
+        <source>बेरीयम क्लोराइड सह सोडियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_START">
+        <source>सुरु करा</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_TESTTUBESTAND">
+        <source>परिक्षा नळी स्टँड </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_THREAD">
+        <source>धागा</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_TITLE">
+        <source>रासायनिक अभिक्रिया</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_ZINC_SULPHURIC_ACID">
+        <source>जलयुक्त रूपात मधील अभिक्रिया</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_ZINC_SULPHURICTITLE">
+        <source>झिंक आणि विरल सल्फ्युरिक आम्ल यांची अभिक्रिया</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_ZINCMETAL">
+        <source>झिंक धातू</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_ZINCSULPHATE">
+        <source>झिंक सल्फेट </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

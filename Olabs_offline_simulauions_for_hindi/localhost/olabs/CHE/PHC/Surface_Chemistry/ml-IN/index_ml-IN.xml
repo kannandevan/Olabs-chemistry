@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_1GMGUM">
+        <source>1 ഗ്രാം ഗം</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ALUMINIUMCHLORIDESOLN">
+        <source>അലൂമിനിയം ക്ലോറൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ALUMINIUMHYDROXIDE">
+        <source>അലൂമിനിയം ഹൈഡ്രോക്സൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ALUMINIUMHYDROXIDESOL">
+        <source>അലൂമിനിയം ഹൈഡ്രോക്സൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ARSENIOUSSULPHIDE">
+        <source>ആർസെനസ് സൾഫൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_ARSENIOUSSULPHIDESOLN">
+        <source>ആർസെനസ് സൾഫൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BACK">
+        <source>പിറകിൽ </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_COLLOIDALSOLNSTARCH">
+        <source>സ്റ്റാർച്ചിന്റെ‍ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_DIALYSISSTARCHSOLN">
+        <source>സോഡിയം ക്ലോറൈഡ് അടങ്ങിയ സ്റ്റാർച്ച് ലായനിയുടെ ഡയാലിസിസ്</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DISTILLEDWATER">
+        <source>സ്വേദിത ജലം</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_EGGALBUMIN">
+        <source>മുട്ടയുടെ ആൽബുമിന്‍</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_EGGALBUMINSOLN">
+        <source>മുട്ടയുടെ ആല്ബു്മിന്‍ ലായനി</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FERRICCHOLORIDESOLN">
+        <source>ഫെറിക് ക്ലോറൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_FERRICHYDROXIDE">
+        <source>ഫെറിക് ഹൈഡ്രോക്സൈോഡ്</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERRICHYDROXIDESOLN">
+        <source>ഫെറിക് ഹൈഡ്രോക്സൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_FLUTTEREDFILTER">
+        <source>കമ്പനം ഫില്റ്റര്‍ പേപ്പര്‍</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GUM">
+        <source>ഗമ്മ്</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_GUMSOL">
+        <source>ഗമ്മ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IODINESOLN">
+        <source>അയഡിന്‍ ലായനി</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>കിപ്പ്സ് ഉപകരണം</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_LEADACETATEPAPER">
+        <source>ലെഡ് അസറ്റേറ്റ് പേപ്പര്‍ </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_LYOPHILICSOL">
+        <source>ലിയോഫിലിക് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_LYOPHOBICSOL">
+        <source>ലിയോഫോബിക് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MINUTE">
+        <source>മിനിറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_NACLSOLN">
+        <source> 5% NaCl  ലായനി</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_PARCHMENTMEMBRANE">
+        <source>ചർമപത്രം</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_PREPARATIONOFLYOPHILICANDLYOPHOBICSOLS">
+        <source>ലിയോഫിലിക്, ലിയോഫോബിക് ലായനികള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_PREPARECOLLOIDALSOLNALUMINIUMHY">
+        <source>അലൂമിനിയം ഹൈഡ്രോക്സൈഡിന്റെ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_PREPARECOLLOIDALSOLNARSENIOUS">
+        <source>ആർസെനസ് സൾഫൈഡിന്റെ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_PREPARECOLLOIDALSOLNEGGALBUMIN">
+        <source>മുട്ടയുടെ ആൽബുമിന്റെ‍ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_PREPARECOLLOIDALSOLNFERRIC">
+        <source>ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_PREPARECOLLOIDALSOLNGUM">
+        <source>ഗമ്മിന്റെ കൊളോയിഡല്‍ ലായനി തയാറാക്കാന്‍</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_PREPLYOPHILICSOL">
+        <source>ലിയോഫിലിക് ലായനി തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_PREPLYOPHOBICSOL">
+        <source>ലിയോഫോബിക് ലായനി തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_PUREGAS">
+        <source>ശുദ്ധ വാതകം</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_SILVERNITRATE">
+        <source>സിൽവര്‍ നൈട്രേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_STARCH">
+        <source>സ്റ്റാർച്ച് </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_STARCH_1">
+        <source>സ്റ്റാർച്ച് </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_STARCHSODIUMCL">
+        <source>സ്റ്റാർച്ച് ലായനി+NaCl</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_STARCHSOL">
+        <source>സ്റ്റാർച്ച് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EXP_START">
+        <source>തുടങ്ങുക</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_EXP_SURFACECHEMISTRY">
+        <source>ലിയോഫിലിക്, ലിയോഫോബിക് ലായനികള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_EXP_WATER">
+        <source>ജലം</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

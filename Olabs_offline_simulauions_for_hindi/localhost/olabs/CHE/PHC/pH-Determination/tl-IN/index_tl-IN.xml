@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="tl-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ACETICACID">
+        <source>ఎసెటిక్ యాసిడ్  </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ACIDIC">
+        <source>ఎసిడిక్</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_TITLE">
+        <source>pH నమూనాలని pH పేపర్/ యూనివర్శల్ ఇండికేటరుని వాడి  కనుగొనండి</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BACK">
+        <source>&lt;&lt; బాక్</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BACKTXT">
+        <source>బాక్</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BASIC">
+        <source>బేసిక్</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_START">
+        <source>స్టార్ట్</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INDICATOR">
+        <source>యూనివర్శల్ ఇండికేటర్</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_NEUTRAL">
+        <source>న్యూట్రల్</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_PAPERSTRIP">
+        <source>pH పేపర్ స్ట్రిప్</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TEST1">
+        <source>pH పేపర్</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TEST2">
+        <source>యూనివర్శల్ ఇండికేటర్</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

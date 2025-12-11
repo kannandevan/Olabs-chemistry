@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-10 15:40+0530\n"
+"PO-Revision-Date: 2025-10-10 15:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:44
+msgid "SO<sub>2</sub> dissolves in water to form sulphurous acid due to which <br> it possesses an acidic character."
+msgstr "SO<sub>2</sub> पाण्यात विरघळून सल्फ्युरस अम्ल तयार करते, ज्यामुळे <br> यात आम्लीय स्वभाव असतो."
+
+msgid "Click on the "Next"<br>  button to study its physical<br>  and chemical properties."
+msgstr "त्याच्या भौतिक<br> आणि रासायनिक गुणधर्मांचा अभ्यास करण्यासाठी "पुढे"<br> बटणावर क्लिक करा."
+
+msgid "Select the Physical property"
+msgstr "भौतिक गुणधर्म निवडा"
+
+msgid "Click on the inferance button"
+msgstr "अनुमान बटणावर क्लिक करा"
+
+msgid "Click on Next button to continue"
+msgstr "पुढे जाण्यासाठी पुढील बटणावर क्लिक करा"
+
+msgid "Click on the \"Next\" button to study its physical and chemical properties"
+msgstr "त्याचे भौतिक आणि रासायनिक गुणधर्म अभ्यासण्यासाठी \"पुढील\" बटण क्लिक करा"
+
+msgid "HELP"
+msgstr "साहाय्य"
+ 
+msgid "RESET"
+msgstr "रीसेट"
+ 
+msgid "MAXIMIZE"
+msgstr "मोठं करा"
+ 
+msgid "MINIMIZE"
+msgstr "लहान करा"
+ 
+ 
+msgid "Developed by Amrita University Under research grant from <br>Ministry of Electronics and Information Technology" 
+msgstr "अमृता विद्यापीठाने विकसित केले आहे <br> अनुदानित : इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय || <br> शिक्षण मंत्रालय, भारत सरकार"
+ 
+msgid "Alert"
+msgstr "इशारा"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "तुम्हाला सिम्युलेशन रीसेट करायचे आहे का?"
+ 
+msgid "Yes"
+msgstr "होय"
+ 
+msgid "No"
+msgstr "नाही"
+
+msgid "Cu Turnings"
+msgstr "तांब्याचे तुकडे"
+
+msgid "Click on Next button to continue"
+msgstr "पुढे जाण्यासाठी पुढील बटणावर क्लिक करा"
+
+msgid "Drag and drop wet blue litmus paper <br> to the jar filled with sulpher dioxide."
+msgstr "ओलसर निळा लिटमस पेपर <br> सल्फर डायऑक्साइडने भरलेल्या बरणीत ओढा आणि टाका."
+
+msgid 'Click on the "Next"<br>  button to study its physical<br>  and chemical properties.'
+msgstr "त्याच्या भौतिक<br>  आणि रासायनिक गुणधर्मांचा अभ्यास करण्यासाठी<br>  'Next' बटणावर क्लिक करा."
+
+msgid "Turn off burner"
+msgstr "बर्नर बंद करा"
+
+msgid "Reset"
+msgstr "रीसेट"
+
+msgid "RESET"
+msgstr "रीसेट"
+
+
+#: simcontrols.js:30
+msgid "Instructions"
+msgstr "सूचना"
+
+#: simcontrols.js:31
+msgid "1. Drag the spatula to take few pieces of copper turning and drop it into round bottom flask."
+msgstr "1. स्पॅटुला ओढा, काही तुकडे तांब्याचे टर्निंग घ्या आणि ते गोल तळाच्या फ्लास्कमध्ये टाका."
+
+#: simcontrols.js:32
+msgid "2. Drag double bored cork and drop it into the mouth of the round bottom flask.<br> <br> 3.Drag the thistle funnel and drop it into one of the holes in the cork. <br> <br> 4. Drag the delivery tube and drop it into the second hole of the cork and connect other side of the delivery tube to the gas jar <br> <br> 5. Drag the dropper to take 15-20 mL conc. sulphuric acid from glass dropper bottle and drop to measuring cylinder. <br> <br> 6. Drag and drop measuring cylinder containing 15 - 20 mL of conc. sulphuric acid to round bottom flask through the thistle funnel. <br> <br> 7. Click on the burner to heat the contents. <br> <br> 8. Click off the burner. <br> <br> 9. Click on the Inference button <br> <br> 10. Click on the 'Next' button to study its physical and chemical properties."
+msgstr "2. डबल बोअर कॉर्क ओढा आणि ते गोल तळाच्या फ्लास्कच्या तोंडात टाका.<br> <br> 3.थिसल फनेल ओढा आणि ते कॉर्कमधील एका छिद्रात टाका. <br> <br> 4. डिलिव्हरी ट्यूब ओढा आणि ते कॉर्कच्या दुसऱ्या छिद्रात टाका आणि डिलिव्हरी ट्यूबचा दुसरा टोक गॅस जारला जोडा. <br> <br> 5. ड्रॉपर ओढा आणि काचच्या ड्रॉपर बाटलीतून 15-20 mL एकाग्र सल्फ्युरिक आम्ल घ्या आणि मोजमाप सिलिंडरमध्ये टाका. <br> <br> 6. 15 - 20 mL एकाग्र सल्फ्युरिक आम्ल असलेला मोजमाप सिलिंडर थिसल फनेलमधून गोल तळाच्या फ्लास्कमध्ये ओढा आणि टाका. <br> <br> 7. सामग्री गरम करण्यासाठी बर्नरवर क्लिक करा. <br> <br> 8. बर्नर बंद करण्यासाठी क्लिक करा. <br> <br> 9. इंफरन्स बटणावर क्लिक करा. <br> <br> 10. त्याचे भौतिक आणि रासायनिक गुणधर्म अभ्यासण्यासाठी 'Next' बटणावर क्लिक करा."
+
+#: simcontrols.js:33
+msgid "Select Physical Property"
+msgstr "भौतिक गुणधर्म निवडा"
+
+#: simcontrols.js:34
+msgid "Select Chemical Property"
+msgstr "रासायनिक गुणधर्म निवडा"
+
+#: simcontrols.js:35 simcontrols.js:36 simcontrols.js:37 simcontrols.js:38
+msgid "Next"
+msgstr "पुढे"
+
+#: simcontrols.js:40
+msgid "Colour"
+msgstr "रंग"
+
+#: simcontrols.js:40
+msgid "Solubility in Water"
+msgstr "पाण्यात विरघळण्याची क्षमता"
+
+#: simcontrols.js:41
+msgid "Acidic or Basic nature"
+msgstr "अम्लीय किंवा क्षारीय स्वरूप"
+
+#: simcontrols.js:41
+msgid "Reaction with potassium <br> permanganate solution"
+msgstr "पोटॅशियम <br> पर्मॅंगनेट द्रावणासोबत अभिक्रिया"
+
+#: simcontrols.js:41
+msgid "Reaction with potassium <br> dichromate solution"
+msgstr "पोटॅशियम <br> डायक्रोमेट द्रावणासोबत अभिक्रिया"
+
+#: simcontrols.js:42
+msgid "SO<sub>2</sub> gas is formed inside gas jar."
+msgstr "गॅस जारच्या आत SO<sub>2</sub> वायू तयार होतो."
+
+#: simcontrols.js:43
+msgid "SO<sub>2</sub> is Colourless"
+msgstr "SO<sub>2</sub> रंगहीन आहे"
+
+#: simcontrols.js:44
+msgid "SO<sub>2</sub> dissolves in water to form sulphurous acid due to which <br> it possesses an acidic character."
+msgstr "SO<sub>2</sub> पाण्यात विरघळून सल्फ्युरस आम्ल तयार करते त्यामुळे <br> त्याला अम्लीय स्वरूप प्राप्त होते."
+
+#: simcontrols.js:45
+msgid "Red litmus has no change."
+msgstr "लाल लिटमस मध्ये काहीही बदल होत नाही."
+
+#: simcontrols.js:46
+msgid "Blue litmus changes to red colour"
+msgstr "निळा लिटमस लाल रंगात बदलतो"
+
+#: simcontrols.js:47
+msgid "Sulphur dioxide being a strong <br>reducing agent, reduces <br>the purple coloured solution<br> to form a colourless solution."
+msgstr "सल्फर डायऑक्साइड हा एक मजबूत <br>अपचायक असल्यामुळे, तो <br>जांभळ्या रंगाचे द्रावण <br>रंगहीन द्रावणात रूपांतरित करतो."
+
+#: simcontrols.js:48
+msgid "SO<sub>2</sub>​+K<sub>2​</sub>Cr<sub>2​</sub>O<sub>7</sub>​+3H<sub>2</sub>​SO<sub>4​</sub>→K<sub>2​</sub>SO<sub>4​</sub>+Cr<sub>2​</sub>(SO<sub>4​</sub>)3​+3H<sub>2</sub>​O"
+msgstr "SO<sub>2</sub>​+K<sub>2​</sub>Cr<sub>2​</sub>O<sub>7</sub>​+3H<sub>2</sub>​SO<sub>4​</sub>→K<sub>2​</sub>SO<sub>4​</sub>+Cr<sub>2​</sub>(SO<sub>4​</sub>)3​+3H<sub>2</sub>​O"
+
+#: simcontrols.js:51
+msgid "To prepare SO<sub>2</sub> gas and Study its Physical and Chemical Properties"
+msgstr "SO<sub>2</sub> वायू तयार करणे आणि त्याचे भौतिक व रासायनिक गुणधर्म अभ्यासणे"
+
+#: simcontrols.js:52
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:72
+msgid "Drag the spatula to <br>take few pieces of<br> copper turnings and<br> drop it into round<br> bottom flask."
+msgstr "स्पॅटुला ओढा <br>काही तुकडे<br> तांब्याचे टर्निंग घ्या आणि<br> ते गोल तळाच्या फ्लास्कमध्ये टाका."
+
+#: simcontrols.js:73
+msgid "Drag a double bored<br> cork and drop it<br> into the mouth of <br>the round bottom flask."
+msgstr "डबल बोअर कॉर्क ओढा<br> आणि ते टाका<br> गोल तळाच्या फ्लास्कच्या तोंडात."
+
+#: simcontrols.js:73
+msgid "Drag the thistle funnel<br> and drop it into one<br> of the holes in the cork."
+msgstr "थिसल फनेल ओढा<br> आणि ते टाका<br> कॉर्कमधील एका छिद्रात."
+
+#: simcontrols.js:74
+msgid "Drag the<br> delivery<br> tube and<br> drop it <br> into the<br> second<br> hole of<br> the cork<br> and connect<br> other side<br> of the <br>delivery<br> tube to<br> the gas jar"
+msgstr "डिलिव्हरी<br> ट्यूब ओढा<br> आणि टाका <br>कॉर्कच्या<br> दुसऱ्या छिद्रात<br> आणि<br> ट्यूबचा दुसरा<br> टोक<br> गॅस जारला जोडा"
+
+#: simcontrols.js:75
+msgid "Drag the dropper to <br>take 15-20 mL conc.<br> sulphuric acid from glass<br> dropper bottle and drop<br> to measuring cylinder."
+msgstr "ड्रॉपर ओढा <br>काचच्या बाटलीतून 15-20 mL<br> एकाग्र सल्फ्युरिक आम्ल घ्या आणि<br> मोजमाप सिलिंडरमध्ये टाका."
+
+#: simcontrols.js:76
+msgid "Drag and drop measuring<br> cylinder containing 15 - 20 mL<br> of conc. sulphuric acid <br> to round bottom flask <br>through the thistle funnel."
+msgstr "थिसल फनेलमधून<br> 15 - 20 mL एकाग्र सल्फ्युरिक आम्ल असलेला<br> मोजमाप सिलिंडर ओढा आणि गोल तळाच्या फ्लास्कमध्ये टाका."
+
+#: simcontrols.js:76
+msgid "Click on the burner <br>to heat the contents."
+msgstr "सामग्री गरम करण्यासाठी <br>बर्नरवर क्लिक करा."
+
+#: simcontrols.js:77
+msgid "You can see a colourless<br> gas coming out of the<br> round bottom flask and <br>collect it in the gas jar."
+msgstr "तुम्हाला रंगहीन<br> वायू गोल तळाच्या फ्लास्कमधून<br> बाहेर येताना दिसेल आणि<br> तो गॅस जारमध्ये जमा करा."
+
+#: simcontrols.js:77
+msgid "Click off the burner"
+msgstr "बर्नर बंद करण्यासाठी क्लिक करा"
+
+#: simcontrols.js:78
+msgid "Click on the Inference button"
+msgstr "इंफरन्स बटणावर क्लिक करा"
+
+#: simcontrols.js:79
+msgid "Click on the Inference button to show the Physical property colour of SO<sub>2<sub>"
+msgstr "SO<sub>2</sub> च्या भौतिक गुणधर्मांचा रंग दाखवण्यासाठी इंफरन्स बटणावर क्लिक करा"
+
+#: simcontrols.js:80
+msgid "Drag the gas jar and place it above the trough"
+msgstr "गॅस जार ओढा आणि ते ट्रफच्या वर ठेवा"
+
+#: simcontrols.js:80
+msgid "Click on the cap of the gas jar<br> and drop the gas into trough"
+msgstr "गॅस जारच्या झाकणावर क्लिक करा<br> आणि वायू ट्रफमध्ये सोडा"
+
+#: simcontrols.js:81
+msgid "Drag and drop wet red litmus paper <br> to the jar filled with sulphur dioxide."
+msgstr "सल्फर डायऑक्साइडने भरलेल्या जारमध्ये <br>ओला लाल लिटमस पेपर ओढा आणि टाका."
+
+#: simcontrols.js:82
+msgid "Drag and drop 2 mL of <br>potassium permanganate <br> solution (Purple solution)<br> into test-tube."
+msgstr "2 mL <br>पोटॅशियम पर्मॅंगनेट <br>(जांभळे द्रावण)<br> टेस्ट ट्यूबमध्ये ओढा आणि टाका."
+
+#: simcontrols.js:82
+msgid "Drag and drop 1 mL of<br> diluted H<sub>2</sub>SO<sub>4</sub> in test tube.."
+msgstr "1 mL विरळित H<sub>2</sub>SO<sub>4</sub> टेस्ट ट्यूबमध्ये ओढा आणि टाका."
+
+#: simcontrols.js:83
+msgid "Drag and drop<br> glasstube into <br>roundbottom <br>flask and<br> test tube."
+msgstr "काच ट्यूब ओढा आणि<br> गोल तळाच्या फ्लास्कमध्ये<br> व टेस्ट ट्यूबमध्ये टाका."
+
+#: simcontrols.js:83 simcontrols.js:85
+msgid "Turn On Burner"
+msgstr "बर्नर चालू करा"
+
+#: simcontrols.js:84
+msgid "Drag and drop 2ml of acidified potassium <br> dichromate solution into a test tube"
+msgstr "2 mL आम्लयुक्त पोटॅशियम <br> डायक्रोमेट द्रावण टेस्ट ट्यूबमध्ये ओढा आणि टाका"
+
+#: simcontrols.js:84
+msgid "Drag and drop 1ml <br>of H<sub>2</sub>SO<sub>4</sub> into it."
+msgstr "त्यात 1 mL <br>H<sub>2</sub>SO<sub>4</sub> ओढा आणि टाका."
+
+#: simcontrols.js:85
+msgid "Drag and drop<br>  glass tube into<br>  round bottom <br> flask and <br> test tube."
+msgstr "काच ट्यूब ओढा आणि टाका<br>  गोल तळाच्या फ्लास्कमध्ये <br>आणि टेस्ट ट्यूबमध्ये."
+
+#: simcontrols.js:85
+msgid "Turn off burner"
+msgstr "बर्नर बंद करा"

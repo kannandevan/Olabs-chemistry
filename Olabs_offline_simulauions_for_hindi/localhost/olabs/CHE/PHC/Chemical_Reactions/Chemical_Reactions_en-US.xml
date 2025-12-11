@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>We will require a small piece of magnesium ribbon, sand paper, tongs, watch glass, red litmus paper, Bunsen burner, etc.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>Take the magnesium ribbon and rub it with a sand paper, so that it looks silvery white.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>Hold the magnesium ribbon using a pair of tongs and light the magnesium ribbon.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>It burns brilliantly and a white ash is left behind.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>Collect the ash of the burnt ribbon in a watch glass and label it as magnesium oxide. Magnesium burns in air to form magnesium oxide (MgO).</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>Take a little amount of magnesium oxide using a spatula.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>Place this on a moist red litmus paper that is placed over a white tile.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>The red litmus paper turns blue, indicating MgO is basic in nature.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>We’ll require sodium sulphate, barium chloride, dil. HCl, a beaker, conical flask, test tubes, etc.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>Take a test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>Take a small quantity of barium chloride in a test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>Transfer it into a conical flask.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>Take another test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>Take a small quantity of sodium sulphate.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>Transfer it into the conical flask containing barium chloride solution.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>A white precipitate of barium sulphate is formed immediately. This confirms the presence of sulphate (SO₄²₋) ions.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>Stir the contents of the conical flask and keep it undisturbed for some time.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>The precipitate of barium sulphate settles down to the bottom of the flask.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE>Decant the upper solution from the conical flask into a beaker.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>Then add a small quantity of dil. HCl into the conical flask containing the precipitate.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>Then add a small quantity of dil. HCl into the conical flask containing the precipitate.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>Swirl the flask well.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>The white precipitate is insoluble in dil. HCl.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>In this chemical reaction, sulphate ions are displaced by chloride ions and chloride ions are displaced by sulphate ions.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>We will require copper sulphate, iron nails, distilled water, a beaker, measuring jar, test tubes , two clamp stands, a piece of thread and a glass rod.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>Take sufficient quantity of distilled water in a measuring jar and pour it into a clean beaker.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>To this add a required quantity of copper sulphate.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE>Stir the contents in the beaker using a glass rod until the copper sulphate crystals in the beaker dissolves completely.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>Pour sufficient quantity of copper sulphate solution into a test tube.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE>Clamp the test tube to a stand.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>Then pour sufficient quantity of copper sulphate into another test tube.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE>Clamp this test tube to another stand.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>Take two iron nails.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>Clean these by rubbing them with a sand paper so that their colour appears greyish.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>Tie one nail with a thread.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>Immerse this into one of the test tube containing copper sulphate solution.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>Keep the two test tubes undisturbed for about 15min.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>After 15min, the colour of the copper sulphate solution containing the iron nail turns light greenish colour where as the colour of the solution in the other test tube does not change.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>The greenish colour of the solution is due to the presence of Fe²⁺ ions.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>Remove the iron nail from the solution.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>Compare it with the other nail.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>The brown coating on the iron nail shows that copper is deposited on the iron nail by displacing iron.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>This is a single displacement reaction in which copper has been displaced by iron from copper sulphate solution and a new compound ferrous sulphate is formed. So this reaction is a chemical change.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>We require zinc granules, dilute sulphuric acid, NaOH, test tubes, conical flask, Kipp's apparatus, cork, glass tube, etc.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>Using a spatula take some zinc granules and transfer this into the conical flask containing dil. Sulphuric acid.
+        Bubbles of hydrogen gas are evolved as zinc granules react with dil. Sulphuric acid.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>Bubbles of hydrogen gas are evolved as zinc granules react with dil. Sulphuric acid.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>Show a wet red litmus paper over the mouth of the conical flask.There is no change in the colour of the red litmus paper.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>Show a wet blue litmus paper over the mouth of the conical flask.There is no change in the colour of the blue litmus paper. This indicates that hydrogen gas is neither acidic nor basic.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>Now cork the conical flask with a single bored cork.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>Introduce a fine jet tube through the hole in the cork.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>Bring a burning candle near the mouth of the fine jet tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE>On bringing the flame, the gas coming out of the jet tube burns instantaneously with a small explosion, produces a popping sound and then dips out.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>Now pour about 2ml of the Zinc sulphate solution from the conical flask into a clean test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>Then add a few drops of NaOH solution to the test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>A white gelatinous precipitate is formed.Shake the test tube well.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>Then add NaOH in excess into the test tube. The white precipitate is dissolved when NaOH is added in excess.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>The precipitate formed is Zn(OH)₂. This indicates the presence of Zn²⁺ ions in solution.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>Place the test tube in a test tube rack.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>Then pour about 2ml of the Zinc sulphate solution from the conical flask into another test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>Pass hydrogen sulphide gas through the solution in the test tube using Kipp’s apparatus.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE>Shake the test tube. A white precipitate of zinc sulphide is formed.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>From this reaction we can infer that, zinc is more reactive than hydrogen so it displaces hydrogen from dilute acids and passes into the solution as Zn²⁺ions.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>We require hydrated copper sulphate crystals, distilled water, test tube, spatula, test tube holder, boiling tube, Bunsen burner, etc.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>Hold the boiling tube with the test tube holder.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>Using a spatula take a small quantity of hydrated copper sulphate crystals from the watch glass and put it into the boiling tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>Heat the boiling tube over the flame of the burner first gently and then strongly.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>On heating, copper sulphate crystals change their colour from blue to white.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>Water droplets are left on the walls of the boiling tube.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>Hydrated copper sulphate contains water of crystallization (CuSO₄.5H₂O).</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>On heating, copper sulphate crystals lose their water molecules and form white coloured anhydrous copper sulphate (CuSO₄).</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>Remove the boiling tube from the flame and cool it for some time.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>Using a dropper take a small quantity of distilled water.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>Add 2-3 drops of water into the boiling tube containing the sample of anhydrous copper sulphate obtained after heating.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>The white copper sulphate turns blue indicating that the blue coloured hydrated copper sulphate is regenerated.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE>So this reaction is a reversible chemical change.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

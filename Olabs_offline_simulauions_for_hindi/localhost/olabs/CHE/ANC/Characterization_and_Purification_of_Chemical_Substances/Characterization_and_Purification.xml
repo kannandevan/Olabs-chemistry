@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+		<TEXTVALUE>Click the"Start" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!-- Interactive_scenes-->
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>Click on one of the sol to study its preparation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>Click on the tab to choose the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- To Prepare the crystals of Pure Copper Sulphate -->
+
+<SCENE ID="Title11">
+	<TEXT ID="Title11_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionS1">
+	<TEXT ID="IntroductionS1_one">
+	<TEXTVALUE>We require, crude sample of copper sulphate, dil. sulphuric acid., alcohol, distilled water, beakers, measuring cylinders, spatula, glass rod, china dish, funnel, filter papers, iron stand with clamp, crystallizing dish, trough, sand bath, wire gauze, tripod stand, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IntroductionS1_two">
+	<TEXTVALUE>tripod stand, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarBkrS2">
+	<TEXT ID="Wtr2jarBkrS2_one">
+	<TEXTVALUE>Take 30 ml of distilled water in the measuring cylinder and pour it into the clean beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarBkrS2_two">
+	<TEXTVALUE>Pour it into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperinSpoonS3">
+	<TEXT ID="CopperinSpoonS3_one">
+	<TEXTVALUE>Take a small quantity of powdered crude sample of copper sulphate using the spatula.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Copper2bkrS4">
+	<TEXT ID="Copper2bkrS4_one">
+	<TEXTVALUE>Add copper sulphate into the beaker containing distilled water.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Glassrod2bkrS5">
+	<TEXT ID="Glassrod2bkrS5_one">
+	<TEXTVALUE>Stir the contents of the beaker well using the glass rod to dissolve it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirCopperS6">
+	<TEXT ID="StirCopperS6_one">
+	<TEXTVALUE>Stir the contents of the beaker well using the glass rod to dissolve it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StirCopperS6_two">
+	<TEXTVALUE>Make several additions of the powdered sample  till a little of it remains undissolved even if it is stirred for some time.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="GlassrodbakS7">
+	<TEXT ID="GlassrodbakS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SulphuricBottleS8">
+	<TEXT ID="SulphuricBottleS8_one">
+	<TEXTVALUE>Take 5 ml of dil. Sulphuric acid in another measuring cylinder.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SulphuricBottleS8_two">
+	<TEXTVALUE>Take 5 ml of dil. Sulphuric acid in another measuring cylinder.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourSulphuricS9">
+	<TEXT ID="PourSulphuricS9_one">
+	<TEXTVALUE>Take 5 ml of dil. Sulphuric acid in another measuring cylinder.Place the filter paper in the funnel.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_two">
+	<TEXTVALUE>Add it into the beaker containing saturated solution of copper sulphate and stir the solution with the glass rod. Observe that the solution of copper sulphate becomes transparent by the addition of sulphuric acid there by preventing the hydrolysis of copper sulphate.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_three">
+	<TEXTVALUE>Observe that the solution of copper sulphate becomes transparent by the addition of sulphuric acid thereby preventing the hydrolysis of copper sulphate.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="DishFunnel2StandS10">
+	<TEXT ID="DishFunnel2StandS10_one">
+	<TEXTVALUE>Take the chain dish and place it below the stand.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PaperRodBkr2StandS11">
+	<TEXT ID="PaperRodBkr2StandS11_one">
+	<TEXTVALUE>Take the funnel and fix it to the stand .The stem of the funnel should touch the wall of the china dish to avoid splashing out of the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PaperRodBkr2StandS11_two">
+	<TEXTVALUE>Place the filter paper in the funnel.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolutionFilterS12">
+	<TEXT ID="SolutionFilterS12_one">
+	<TEXTVALUE>Place the glass rod over the funnel and pour the solution into the funnel through the glass rod and collect the filtrate in the china dish. The insoluble impurities are left behind on the filter paper.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SandbathS13">
+	<TEXT ID="SandbathS13_one">
+	<TEXTVALUE>Heat the solution in the china dish on the sand bath with stirring using the glass rod to avoid the crust formation on the side of the dish.  (Don’t allow the solution in the dish to boil).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirSolutionCloseS14">
+	<TEXT ID="StirSolutionCloseS14_one">
+	<TEXTVALUE>Heat the solution in the china dish on the sand bath with stirring using the glass rod to avoid the crust formation on the side of the dish. (Don’t allow the solution in the dish to boil).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="LineDrawS15">
+	<TEXT ID="LineDrawS15_one">
+	<TEXTVALUE>Continue heating till the solution is reduced to about one-third of its original volume.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalinRodS16">
+	<TEXT ID="CopperCrystalinRodS16_one">
+	<TEXTVALUE>Take out a drop of the solution using the glass rod and cool it by gently blowing on it.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_two">
+	<TEXTVALUE>Take out a drop of the solution using the glass rod and cool it by gently blowing on it.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_three">
+	<TEXTVALUE>The appearance of tiny crystals on the glass rod shows that the crystallization point has reached.
+    </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Sol2Dish2ColdwatrS17">
+	<TEXT ID="Sol2Dish2ColdwatrS17_one">
+	<TEXTVALUE>Now turn off the burner and stop heating and transfer the hot solution into the crystallizing dish.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sol2Dish2ColdwatrS17_two">
+	<TEXTVALUE>Place the crystallizing dish containing hot saturated solution on the trough half filled with  cold water.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalsS18">
+	<TEXT ID="CopperCrystalsS18_one">
+	<TEXTVALUE>Allow it to cool slowly for some time. Deep blue crystals will appear. After about half an hour the crystallization is complete.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Dish2BkrS19">
+	<TEXT ID="Dish2BkrS19_one">
+	<TEXTVALUE>Decant off the mother liquor carefully to the beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourWtr2BkrS20">
+	<TEXT ID="PourWtr2BkrS20_one">
+	<TEXTVALUE>Decant the mother liquor carefully to the beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WashCrystal2FilterpaperS21">
+	<TEXT ID="WashCrystal2FilterpaperS21_one">
+	<TEXTVALUE>Wash the crystals with little ethyl alcohol containing small amount of cold water.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WashCrystal2FilterpaperS21_two">
+	<TEXTVALUE>Remove the crystals on the filter paper which soaks the solution.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="DryCrystals2TtubeS22">
+	<TEXT ID="DryCrystals2TtubeS22_one">
+	<TEXTVALUE>Transfer the crystals to another filter paper and dry them by pressing gently with another filter paper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DryCrystals2TtubeS22_two">
+	<TEXTVALUE>Transfer the crystals into the dry test tube and cork it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultS23">
+	<TEXT ID="ResultS23_one">
+	<TEXTVALUE>The crystals of copper sulphate are triclinic, transparent and blue.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- To Prepare the crystals of Pure Alum-->
+
+
+<SCENE ID="TitleAlum">
+	<TEXT ID="TitleAlum_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionAlumS1">
+	<TEXT ID="IntroductionAlumS1_one">
+	<TEXTVALUE>We require, crude sample of potash alum, distilled water, alcohol, beakers, measuring cylinder, spatula, glass rod, china dish, funnel, filter papers, iron stand with clamp, crystallizing dish, trough, sand bath, wire gauze, tripod stand, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="wtr2jarAlumS2">
+	<TEXT ID="wtr2jarAlumS2_one">
+	<TEXTVALUE>Take 30 ml of distilled water in the measuring cylinder and pour it into the clean beaker.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="wtr2jarAlumS2_two">
+	<TEXTVALUE>Take 30 ml of distilled water in the measuring cylinder and pour it into the clean beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealuminspoonS3">
+	<TEXT ID="crudealuminspoonS3_one">
+	<TEXTVALUE>Take a small quantity of powdered crude sample of potash alum using the spatula.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealum2bkrS4">
+	<TEXT ID="crudealum2bkrS4_one">
+	<TEXTVALUE>Add the crude sample of alum into the beaker containing distilled water.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spoonglassrodS5">
+	<TEXT ID="spoonglassrodS5_one">
+	<TEXTVALUE>Stir the contents of the beaker well using the glass rod to dissolve it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodstiralumS6">
+	<TEXT ID="glassrodstiralumS6_one">
+	<TEXTVALUE>Stir the contents of the beaker well using the glass rod to dissolve it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodbakalumS7">
+	<TEXT ID="GlassrodbakalumS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dishFunnel2standS8">
+	<TEXT ID="dishFunnel2standS8_one">
+	<TEXTVALUE>Take the chain dish and place it below the stand.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="paperodbkr2standS9">
+	<TEXT ID="paperodbkr2standS9_one">
+	<TEXTVALUE>Take the funnel and fix it ot the stand .The stem of the funnel should touch the wall of the china dish to avoid splashing out of the solution.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="paperodbkr2standS9_two">
+	<TEXTVALUE>Place the filter paper in the funnel.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="solfiltrateS10">
+	<TEXT ID="solfiltrateS10_one">
+	<TEXTVALUE>Place the glass rod over the funnel and pour the solution into the funnel through the glass rod and collect the filtrate in the china dish. The insoluble impurities are left behind on the filter paper. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sandbathStirS11">
+	<TEXT ID="sandbathStirS11_one">
+	<TEXTVALUE>Heat the solution in the china dish on the sand bath with stirring using the glass rod to avoid the crust formation on the side of the dish.  (Don’t allow the solution in the dish to boil).
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="closesandstirS12">
+	<TEXT ID="SclosesandstirS12_one">
+	<TEXTVALUE>Heat the solution in the china dish on the sand bath with stirring using the glass rod to avoid the crust formation on the side of the dish.  (Don’t allow the solution in the dish to boil).
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="linedrawS13">
+	<TEXT ID="linedrawS13_one">
+	<TEXTVALUE>Continue heating till the solution is reduced to about one-third of its original volume.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crystalinRodS14">
+	<TEXT ID="crystalinRodS14_one">
+	<TEXTVALUE>Take out a drop of the solution using the glass rod and cool it by gently blowing on it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_two">
+	<TEXTVALUE>The appearance of tiny crystals on the glass rod shows that the crystallization point has reached.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_three">
+	<TEXTVALUE>The appearance of tiny crystals on the glass rod shows that the crystallization point has reached.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2crydish2ColdwtrS15">
+	<TEXT ID="sol2crydish2ColdwtrS15_one">
+	<TEXTVALUE>Now turn off the burner and stop heating and transfer the hot solution into the crystallizing dish.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_two">
+	<TEXTVALUE>Place the crystallizing dish containing hot saturated solution on the trough half filled with  cold water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_three">
+	<TEXTVALUE>Place the crystallizing dish containing hot saturated solution on the trough half filled with  cold water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumcrystalsS16">
+	<TEXT ID="AlumcrystalsS16_one">
+	<TEXTVALUE>Allow it to cool slowly for some time. Colourless ,transparent crystals of potash alum will appear. After about half an hour the crystallization is complete.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crysdish2bkrS17">
+	<TEXT ID="crysdish2bkrS17_one">
+	<TEXTVALUE>Decant off the mother liquor carefully to the beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pourMotherliqourS18">
+	<TEXT ID="pourMotherliqourS18_one">
+	<TEXTVALUE>Decant off the mother liquor carefully to the beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="washCrystal2filterpaperS19">
+	<TEXT ID="washCrystal2filterpaperS19_one">
+	<TEXTVALUE>Wash the crystals with cold solution of alcohol and water.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="washCrystal2filterpaperS19_two">
+	<TEXTVALUE>Remove the crystals on the filter paper which soaks the solution.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dryCrystal2TtubeS20">
+	<TEXT ID="dryCrystal2TtubeS20_one">
+	<TEXTVALUE>Transfer the crystals to another filter paper and dry them by pressing gently with another filter paper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dryCrystal2TtubeS20_two">
+	<TEXTVALUE>Transfer the crystals into the dry test tube and cork it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="resultAlum21">
+	<TEXT ID="resultAlum21_one">
+	<TEXTVALUE>The crystals of potash alum are colourless, transparent and octahedral.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<!-- To Purify impure sample of Benzoic Acid-->
+
+
+<SCENE ID="Titlebenzoic3">
+	<TEXT ID="Titlebenzoic3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrobenzoicS1">
+	<TEXT ID="IntrobenzoicS1_one">
+	<TEXTVALUE>We require, crude sample of benzoic acid, distilled water, beakers, measuring cylinders, spatula, glass rod, china dish, flutted filter paper, funnel, filter paper, iron stand with clamp, crystallizing dish, trough, wire gauze, tripod stand, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarbkrbenzoicS2">
+	<TEXT ID="Wtr2jarbkrbenzoicS2_one">
+	<TEXTVALUE>Take 150 ml of distilled water in the measuring cylinder and pour it into the clean 250 ml beaker.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_two">
+	<TEXTVALUE>Take 150 ml of distilled water in the measuring cylinder and pour it into the clean 250 ml beaker.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_three">
+	<TEXTVALUE>Boil the water by placing the beaker over the Bunsen burner.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WtrboilingS3">
+	<TEXT ID="WtrboilingS3_one">
+	<TEXTVALUE>Boil the water by placing the beaker over the Bunsen burner.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AcidInSpoonS4">
+	<TEXT ID="AcidInSpoonS4_one">
+	<TEXTVALUE>Take another beaker and put some crude sample of benzoic acid into it using the spatula.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AcidInSpoonS4_two">
+	<TEXTVALUE>Take another beaker and put some crude sample of benzoic acid into it using the spatula.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2AcidStirS5">
+	<TEXT ID="Wtr2AcidStirS5_one">
+	<TEXTVALUE>Take another beaker and put some crude sample of benzoic acid into it using the spatula.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2AcidStirS5_two">
+	<TEXTVALUE>Add gradually with stirring minimum quantity of boiling water just sufficient to dissolve benzoic acid in the beaker.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StandFunFlutedBkrS6">
+	<TEXT ID="StandFunFlutedBkrS6_one">
+	<TEXTVALUE>Take another beaker and place it below the stand. Fix the funnel to the stand. The stem of the funnel should touch the wall of the beaker to avoid splashing out of the solution. Place a filter paper in the funnel. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolFilterbenzoicS7">
+	<TEXT ID="SolFilterbenzoicS7_one">
+	<TEXTVALUE>Place the glass rod over the funnel and pour the solution into the funnel through the glass rod and collect the filtrate in the china dish. The insoluble impurities are left behind on the filter paper.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2ColdwtrBenzoicS8">
+	<TEXT ID="Wtr2ColdwtrBenzoicS8_one">
+	<TEXTVALUE>Let the filtered solution come to room temperature by itself. Now cool it by placing the beaker in cold water trough. Opaque white crystals of benzoic acid will formed.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FunFilterRodAcidwtrbenzoicS9">
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_one">
+	<TEXTVALUE>Take the china dish and place it below the stand. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_two">
+	<TEXTVALUE>Take the funnel and fix it ot the stand .The stem of the funnel should touch the wall of the china dish to avoid splashing out of the solution.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="SolFilteredcrystalsbenziocS10">
+	<TEXT ID="SolFilteredcrystalsbenziocS10_one">
+	<TEXTVALUE>Place the glass rod over the funnel and pour the contents of the beaker into the funnel through the glass rod.Crystals of benzoic acid left behind on the filter paper. Wash the crystals by spray out cold water from the wash bottle.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SolFilteredcrystalsbenziocS10_two">
+	<TEXTVALUE>Transfer the crystals to another filter paper and dry them by  pressing gently with another filter paper.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Crystals2FilterpaperbenzoicS11">
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_one">
+	<TEXTVALUE>Transfer the crystals on another filter paper and dry them by pressing gently with another filter paper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_two">
+	<TEXTVALUE>Transfer the crystals on another filter paper and dry them by pressing gently with another filter paper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_three">
+	<TEXTVALUE>Transfer the crystals into the dry test tube and cork it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultbenzoicS12">
+	<TEXT ID="ResultbenzoicS12_one">
+	<TEXTVALUE>The crystals of benzoic acid are opaque and white.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

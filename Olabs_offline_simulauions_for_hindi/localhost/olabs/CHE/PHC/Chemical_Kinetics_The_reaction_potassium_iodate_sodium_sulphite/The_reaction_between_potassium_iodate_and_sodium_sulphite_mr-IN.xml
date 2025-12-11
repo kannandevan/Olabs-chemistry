@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Scene1">
+	<TEXT ID="title">
+	<TEXTVALUE>पोटाशियम आयोडेट आणि सोडियम सल्फाइट यांच्या अभिक्रियेचा गती अभ्यास</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग करण्यासाठी ‘सुरू’ बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>आवश्यक सामग्री: चार वेगळ्या शंक्वाकृती चंबूत ०.०१ M KIO3 द्रावण, ऊर्ध्वपतित पाणी, मापन जार, १ M H2SO4, खळीचे द्रावण, ०.००५ M Na2S2O3 द्रावण, स्टॉप वॉच इ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="PotassiumLbl_text">
+	<TEXTVALUE>०.०१ M पोटाशियम आयोडेट [KIO3] द्रावण २ मिली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_text">
+	<TEXTVALUE>०.०१ M पोटाशियम आयोडेट [KIO3] द्रावण 4 मिली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textThree">
+	<TEXTVALUE>०.०१ M पोटाशियम आयोडेट [KIO3] द्रावण 6 मिली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textFour">
+	<TEXTVALUE>०.०१ M पोटाशियम आयोडेट [KIO3] द्रावण 8 मिली</TEXTVALUE>
+	</TEXT>
+	
+	   <TEXT ID="Distilled_text">
+	<TEXTVALUE>Dऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>  
+	
+	
+	 <TEXT ID="hso_text">
+	<TEXTVALUE>1M H&#8322;SO&#8324;</TEXTVALUE>
+	</TEXT> 
+
+
+<TEXT ID="Starch_solutionText">
+	<TEXTVALUE>खळीचे द्रावण</TEXTVALUE>
+	</TEXT> 
+	
+	<TEXT ID="Sodium_SulphiteText">
+	<TEXTVALUE>0.005 M [ Na&#8322;SO&#8323;]</TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>चार शंक्वाकृती चंबूत	२, ४, ६, आणि ८ मिली ०.०१ M पोटाशियम आयोडेट द्रावण घ्या, आणि अनुक्रमे ए, बी, सी आणि डी नावे द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>मापन जार मध्ये १० मिली १ M H2SO4 घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>हीच प्रक्रिया इतर चंबूंसाठी करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flask_text">
+	<TEXTVALUE>चंबू क्रं</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table2_text">
+	<TEXTVALUE>०.०१ M KIO3 द्रावण (मिली)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table3_text">
+	<TEXTVALUE>1/ KIO3 आकारमान (मिली)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table4_text">
+	<TEXTVALUE>1M H&#8322;SO&#8324; (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table5_text">
+	<TEXTVALUE>पाणी (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table6_text">
+	<TEXTVALUE>Sखळीचे द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table7_text">
+	<TEXTVALUE>0.005M Na&#8322;SO&#8323; (ml)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Table8_text">
+	<TEXTVALUE>निळा रंग येण्यासाठी लागणारा वेळ (टी)</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>मापन जारमध्ये ८८ मिली ऊर्ध्वपतित पाणी मोजा.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>ते चंबू ए मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>ते चंबू ए मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>८६ मिली, ८४ मिली आणि ८२ मिली ऊर्ध्वपतित पाणी मापन जार मध्ये मोजा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>पाणी चंबू बी, सी आणि डी मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>पाणी चंबू बी, सी आणि डी मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली खळीचे द्रावण मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>हीच प्रक्रिया इतर चंबूंसाठी करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>१० मिली ०.००५ M सोडियम सल्फाइट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+
+
+             <TEXT ID="Scene17_subtwo">
+	<TEXTVALUE>लगेच स्टॉप वॉच सुरू करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>निळा रंग कधी येतो ते बघा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene18_subtwo">
+	<TEXTVALUE>ज्या क्षणी निळा रंग येतो त्यावेळेची नोंद करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>१० मिली ०.००५ M सोडियम सल्फाइट चंबू बी, सी, आणि डी मध्ये टाकून प्रयोग परत करा आणि प्रत्येक वेळेला निळा रंग यायला किती वेळ लागतो त्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>निळा रंग यायला लागणारा वेळ आणि 1/ KIO3 चे आकारमान ह्यांचा आलेख काढा. वेळ (टी) वाय-अक्षावर आणि 1/ KIO3 चे आकारमान एक्स-अकषावर घ्या. ही एक सरळ रेष असेल.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="volText">
+	<TEXTVALUE>KIO3 चे आकारमान (मिली)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>या अभिक्रियेवरून आपण निष्कर्ष काढू शकतो की पोटाशियम आयोडेट ची संहत तीव्रता वाढली की पोटाशियम आयोडेट आणि सोडियम सल्फाइट यांच्या अभिक्रियेचा दर पण वाढतो.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="resultText">
+	<TEXTVALUE>पोटाशियम आयोडेट ची संहत तीव्रता वाढली की अभिक्रियेचा दर पण वाढतो.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_text">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

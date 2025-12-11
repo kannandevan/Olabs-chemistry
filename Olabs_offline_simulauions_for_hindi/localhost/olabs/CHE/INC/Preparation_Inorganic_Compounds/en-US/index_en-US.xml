@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_DILSULPHURICACID">
+        <source>Dil.Sulphuric acid</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ALCOHOL">
+        <source>Alcohol- water Mixture</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ALCOHOL_LBL">
+        <source>Alcohol</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ALUMINISOL">
+        <source>Aluminium sulphate solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ALUMINIUMSULPHATE">
+        <source>Aluminium sulphate </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_AMMONIUMSULPHATE">
+        <source>Ammonium sulphate</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>Preparation of Inorganic Compounds</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_ANIMATIONTITLEONE">
+        <source>Preparation of Pure Sample of  Inorganic Compounds</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_BLACKPAPER">
+        <source>Black Paper</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_COLDWATER">
+        <source>Cold Water</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DILSULPHRICACID">
+        <source>Dil: Sulphuric acid</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DISTILLEDWATER">
+        <source>Distilled Water </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_ETHYLALCOHOL">
+        <source>Ethyl alcohol</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERRICCHLORIDE">
+        <source>Ferric chloride</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_FERRICCHOLORIDE">
+        <source>Ferric chloride</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_FERROUSAMMONIUMSULPHATE">
+        <source>Ferrous Ammonium Sulphate</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_FERROUSAMONIUMSULPHATE">
+        <source>To Prepare a Pure Sample of Ferrous Ammonium sulphate</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_FERROUSAMONIUMSULPHATEMOHRSALT">
+        <source>Ferrous ammonium sulphate(Mohr&apos;s salt)</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_FERROUSSULPHATE">
+        <source>Ferrous sulphate</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_FILTERPAPER">
+        <source>Filter paper</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_GLASSROD">
+        <source>Glass rod</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_HYDRATEDOXALICACID">
+        <source>Hydrated oxalic acid</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_HYDRATEDPOTASSIUMOXALATE">
+        <source>Hydrated Potassium Oxalate</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_ICECOLDWATER">
+        <source>Ice cold water</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_POTASHALUM">
+        <source>Potash alum</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_POTASIUMTRIOXALATOFERRATE">
+        <source>Potassium Trioxalatoferrate(III)</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_POTASSIUMFERRICOXALATE">
+        <source>Potassium Ferric Oxalate</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_POTASSIUMHYDROXIDE">
+        <source>potassium hydroxide</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_POTASSIUMOXALATE">
+        <source>potassium Oxalate</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_POTASSIUMSULPHATE">
+        <source>potassium sulphate</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_POTTASIUMSULLPHATESOLN">
+        <source>Potassium sulphate solution</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_PREPOTASSIUMTRIOXALATOFERRATE">
+        <source>Preparation of Potassium Trioxalatoferrate(III)</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_PURESAMPLEOFPOTASHALUM">
+        <source>To Prepare pure sample of Potash Alum</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_PURESAMPLEPOTASHALUM">
+        <source> Pure sample Potash Alum</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SANDBATH">
+        <source>Sand bath</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>Water</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

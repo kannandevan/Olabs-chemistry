@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-13 12:36+0530\n"
+"PO-Revision-Date: 2025-10-13 12:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: QuestionExecutePackage.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+#: QuestionExecutePackage.js:23
+msgid "Level "
+msgstr "Level "
+
+#: QuestionExecutePackage.js:27 QuestionExecutePackage.js:132
+#: QuestionExecutePackage.js:176 QuestionExecutePackage.js:223
+#: QuestionExecutePackage.js:261
+msgid "Score "
+msgstr "Score "
+
+#: QuestionExecutePackage.js:146
+msgid "2. The change in velocity over change in time is referred to as"
+msgstr "2. The change in velocity over change in time is referred to as"
+
+#: QuestionExecutePackage.js:146
+msgid "Jerk"
+msgstr "Jerk"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:403
+msgid "Displacement"
+msgstr "Displacement"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:403
+msgid "Acceleration"
+msgstr "Acceleration"
+
+#: QuestionExecutePackage.js:192
+msgid "4. The area under velocity - time graph gives"
+msgstr "4. The area under velocity - time graph gives"
+
+#: QuestionExecutePackage.js:192
+msgid "Rate of change of velocity with time"
+msgstr "Rate of change of velocity with time"
+
+#: QuestionExecutePackage.js:192
+msgid "Magnitude of displacement"
+msgstr "Magnitude of displacement"
+
+#: QuestionExecutePackage.js:192
+msgid "Speed of the object"
+msgstr "Speed of the object"
+
+#: simcontrols.js:19
+msgid "Velocity-Time(v - t)Graph"
+msgstr "Velocity-Time(v - t)Graph"
+
+#: simcontrols.js:23
+msgid "Click on Show Axis"
+msgstr "Click on Show Axis"
+
+#: simcontrols.js:23 simcontrols.js:37
+msgid "Select axis"
+msgstr "Select axis"
+
+#: simcontrols.js:23
+msgid "Select the values"
+msgstr "Select the values"
+
+#: simcontrols.js:23
+msgid "Click to draw line"
+msgstr "Click to draw line"
+
+#: simcontrols.js:23
+msgid "Click to Show Co-ordinates"
+msgstr "Click to Show Co-ordinates"
+
+#: simcontrols.js:23
+msgid "Click on Show Calculation<br>after Selecting correct<br>answer"
+msgstr "Click on Show Calculation<br>after Selecting correct<br>answer"
+
+#: simcontrols.js:23
+msgid "Click on Hide Calculation after <br> Selecting correct answer"
+msgstr "Click on Hide Calculation after <br> Selecting correct answer"
+
+#: simcontrols.js:23
+msgid "Click to Show Distance"
+msgstr "Click to Show Distance"
+
+#: simcontrols.js:23
+msgid "Click to Hide Distance"
+msgstr "Click to Hide Distance"
+
+#: simcontrols.js:24
+msgid "Select Time and Velocity"
+msgstr "Select Time and Velocity"
+
+#: simcontrols.js:25
+msgid "Time in x-axis and velocity in y-axis "
+msgstr "Time in x-axis and velocity in y-axis "
+
+#: simcontrols.js:25
+msgid "Velocity in x-axis and time in y-axis"
+msgstr "Velocity in x-axis and time in y-axis"
+
+#: simcontrols.js:26
+msgid ""
+"The velocity-time graph for the motion of the car in the <br> data is a "
+"straight line. This indicates that the car is moving<br> with a uniform "
+"acceleration.<br>The acceleration of the moving car (from the graph) = "
+"2ms<sup>-2</sup><br>It is observed that the distance travelled by the car "
+"in<br> a given time intervals but at different instances are different.<br> "
+"This shows that the car is in accelerated motion."
+msgstr ""
+"The velocity-time graph for the motion of the car in the <br> data is a "
+"straight line. This indicates that the car is moving<br> with a uniform "
+"acceleration.<br>The acceleration of the moving car (from the graph) = "
+"2ms<sup>-2</sup><br>It is observed that the distance travelled by the car "
+"in<br> a given time intervals but at different instances are different.<br> "
+"This shows that the car is in accelerated motion."
+
+#: simcontrols.js:29
+msgid "Click on Inference button"
+msgstr "Click on Inference button"
+
+#: simcontrols.js:30
+msgid "Click on Reset button<br> to do the experiment again"
+msgstr "Click on Reset button<br> to do the experiment again"
+
+#: simcontrols.js:31
+msgid "Time(s)"
+msgstr "Time(s)"
+
+#: simcontrols.js:31
+msgid "Velocity(m/s)"
+msgstr "Velocity(m/s)"
+
+#: simcontrols.js:34
+msgid "<b>Time(s)</b>"
+msgstr "<b>Time(s)</b>"
+
+#: simcontrols.js:35
+msgid "<b>Velocity(m/s)</b>"
+msgstr "<b>Velocity(m/s)</b>"
+
+#: simcontrols.js:36
+msgid "Show Scale"
+msgstr "Show Scale"
+
+#: simcontrols.js:38
+msgid "Sl.No"
+msgstr "Sl.No"
+
+#: simcontrols.js:39
+msgid "Time,t(s)"
+msgstr "Time,t(s)"
+
+#: simcontrols.js:40
+msgid "Velocity,v(m/s)"
+msgstr "Velocity,v(m/s)"
+
+#: simcontrols.js:41
+msgid "Join Points"
+msgstr "Join Points"
+
+#: simcontrols.js:42
+msgid "Show Co-ordinates"
+msgstr "Show Co-ordinates"
+
+#: simcontrols.js:43
+msgid "Show Calculation"
+msgstr "Show Calculation"
+
+#: simcontrols.js:44
+msgid "Hide Calculation"
+msgstr "Hide Calculation"
+
+#: simcontrols.js:45
+msgid "Show Distance"
+msgstr "Show Distance"
+
+#: simcontrols.js:46
+msgid "Hide Distance"
+msgstr "Hide Distance"
+
+#: simcontrols.js:47
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:48
+msgid "Show Axis"
+msgstr "Show Axis"
+
+#: simcontrols.js:403
+msgid "3. The product of velocity and time is"
+msgstr "3. The product of velocity and time is"
+
+#: simcontrols.js:403
+msgid "Power"
+msgstr "Power"
+
+#: simcontrols.js:588
+msgid ""
+"1. Identify the quantity defined as the ratio of the vertical change (change "
+"in y-axis) between two points on the graph, to the horizontal change (change "
+"in x-axis) between the same two points?"
+msgstr ""
+"1. Identify the quantity defined as the ratio of the vertical change (change "
+"in y-axis) between two points on the graph, to the horizontal change (change "
+"in x-axis) between the same two points?"
+
+#: simcontrols.js:588
+msgid "Slope"
+msgstr "Slope"
+
+#: simcontrols.js:588
+msgid "Curvature"
+msgstr "Curvature"
+
+#: simcontrols.js:588
+msgid "Tangent"
+msgstr "Tangent"

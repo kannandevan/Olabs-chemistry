@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Intrductionsc">
+	<TEXT ID="Intrductionsc_one">
+		<TEXTVALUE>We require castor oil, cotton seed oil, coconut oil, kerosene oil, mustard oil, 1% soap solution, measuring cylinder, 5 ml pipettes, distilled water, five stoppered bottles labeled as A, B, C and D, stop watch etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Intrductionsc1">
+	<TEXT ID="Intrductionsc1_one">
+		<TEXTVALUE>Take a plastic pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="casteroil">
+	<TEXT ID="casteroil_one">
+		<TEXTVALUE>Using the pipette take 5 ml of Castor Oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Abottlepoured">
+	<TEXT ID="Abottlepoured_one">
+		<TEXTVALUE>Pour it into the stoppered bottle labelled 'A'.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="wastetip">
+	<TEXT ID="wastetip_one">
+		<TEXTVALUE>Discard the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2pipet">
+	<TEXT ID="2pipet_one">
+		<TEXTVALUE>Take a fresh pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseed">
+	<TEXT ID="cottonseed_one">
+		<TEXTVALUE>Take 5ml of Cottonseed oil using the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="AbottlepouredB">
+	<TEXT ID="AbottlepouredB_one">
+		<TEXTVALUE>Pour it into the stoppered bottle labelled 'B'.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Abottlepouredall">
+	<TEXT ID="Abottlepouredall_one">
+		<TEXTVALUE>Similarly take 5 ml of coconut oil in bottle C, kerosene oil in bottle D and mustard oil in bottle E.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring">
+	<TEXT ID="measuring_one">
+		<TEXTVALUE>Measure 50 ml distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour">
+	<TEXT ID="waterpour_one">
+		<TEXTVALUE>Take 50 ml distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour_two">
+		<TEXTVALUE>Transfer it into the bottle A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>Measure 50 ml distilled water in a measuring cylinder again.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour2">
+	<TEXT ID="waterpour2_one">
+		<TEXTVALUE>Take 50 ml distilled water in a measuring cylinder again.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour2_two">
+		<TEXTVALUE>Pour it into the bottle labelled  'B'.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="allbottles">
+	<TEXT ID="allbottles_one">
+		<TEXTVALUE>Repeat the same steps for other three bottles containing oil.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="allbottles_two">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="allbottles1">
+	<TEXT ID="allbottles1_one">
+		<TEXTVALUE>Shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="stopwatchA">
+	<TEXT ID="stopwatchA_one">
+		<TEXTVALUE>Allow it to stand. Start the stopwatch.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart1copy">
+	<TEXT ID="timeschart1copy_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesB">
+	<TEXT ID="allbottlesB_one">
+		<TEXTVALUE>Shake the bottle B vigorously for one minute. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottles1B">
+	<TEXT ID="allbottles1B_one">
+		<TEXTVALUE>Shake the bottle B vigorously for one minute. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchB">
+	<TEXT ID="stopwatchB_one">
+		<TEXTVALUE>Allow it to stand. Start the stopwatch.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart">
+	<TEXT ID="timeschart_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out. Repeat the same steps for other three bottles and note down the time taken for the two layers to separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapsolution">
+	<TEXT ID="soapsolution_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapA">
+	<TEXT ID="soapA_one">
+		<TEXTVALUE>Add 5 drops of 1% soap solution into each bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapB">
+	<TEXT ID="soapB_one">
+		<TEXTVALUE>Add 5 drops of 1% soap solution into each bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapall">
+	<TEXT ID="soapall_one">
+		<TEXTVALUE>Add 5 drops of 1% soap solution into each bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapAshake">
+	<TEXT ID="soapAshake_one">
+		<TEXTVALUE>Shake the bottle well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchAsoap">
+	<TEXT ID="stopwatchAsoap_one">
+		<TEXTVALUE>Allow them to stand.  Start the stopwatch.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapA">
+	<TEXT ID="timeschartsoapA_one">
+		<TEXTVALUE>Note down the time taken to settle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesBsoap">
+	<TEXT ID="allbottlesBsoap_one">
+		<TEXTVALUE>Take bottle B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="shakeBsoap">
+	<TEXT ID="shakeBsoap_one">
+		<TEXTVALUE>Shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchBsoap">
+	<TEXT ID="stopwatchBsoap_one">
+		<TEXTVALUE>Then allow it to stand and start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapAcopy">
+	<TEXT ID="timeschartsoapAcopy_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out. Similarly take the bottles C, D and E and note the time taken for the separation of two layers in each case and record the observations.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_two">
+		<TEXTVALUE>From the observations it is clear that mustard oil takes longest time to get separated from its emulsion and kerosene oil takes minimum time. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_three">
+		<TEXTVALUE> The decreasing order of stability or effectiveness is: Mustard oil > Coconut oil > Cotton seed oil > Castor oil > Kerosene oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

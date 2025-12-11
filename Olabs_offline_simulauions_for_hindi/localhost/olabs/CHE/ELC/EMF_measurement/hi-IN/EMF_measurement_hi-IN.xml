@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="EMF_measurement.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_0X1CAC78">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_0XD2E6E7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ALUMINIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANODE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANODE:">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BARIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CADMIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CALCIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CATHODE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CATHODE:">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CHROMIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_COBALT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CONCENTRATION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_COPPER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_GOLD">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_HYDROGEN">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_IRON">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_LEAD">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_LI">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_LICL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_LITHIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_MAGNESIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_MANGANESE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_NICKEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_POTASSIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_SELECT ELECTRODE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_SILVER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_SODIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TEMPERATURE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TEST1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TIN">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITANIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_ZINC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_ZN">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

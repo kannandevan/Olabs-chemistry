@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\\n\n"
+"POT-Creation-Date: 2022-04-27 14:46+0530\n"
+"PO-Revision-Date: 2022-04-27 14:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\\n\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:18
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:20
+#, fuzzy
+#| msgid ""
+#| "Drag the measuring cylinder containing 3 mL ethanol<br> into test tube "
+#| "containing 3 mL ethanoic acid."
+msgid ""
+"Drag the measuring cylinder containing 3 mL ethanol into test tube "
+"containing 3 mL ethanoic acid."
+msgstr ""
+"Drag the measuring cylinder containing 3 mL ethanol<br> into test tube "
+"containing 3 mL ethanoic acid."
+
+#: simcontrols.js:21
+#, fuzzy
+#| msgid ""
+#| "Drag the dropper from the conc.<br> H2SO4 bottle with 5 drops of <br>conc."
+#| "H2SO4 into the test tube"
+msgid ""
+"Drag the dropper from the conc. H2SO4 bottle with 5 drops ofconc.H2SO4 into "
+"the test tube"
+msgstr ""
+"Drag the dropper from the conc.<br> H2SO4 bottle with 5 drops of <br>conc."
+"H2SO4 into the test tube"
+
+#: simcontrols.js:21
+msgid "Drag a cork over the mouth of the test tube"
+msgstr "Drag a cork over the mouth of the test tube"
+
+#: simcontrols.js:21
+msgid "Click on the burner knob to heat the water in the beaker"
+msgstr "Click on the burner knob to heat the water in the beaker"
+
+#: simcontrols.js:22
+msgid "Drag the testube towards the beaker containing water"
+msgstr "Drag the testube towards the beaker containing water"
+
+#: simcontrols.js:22
+msgid "Drag a thermometer into the testube"
+msgstr "Drag a thermometer into the testube"
+
+#: simcontrols.js:22
+msgid "Drag the testube to shake"
+msgstr "Drag the testube to shake"
+
+#: simcontrols.js:22
+msgid "Drag the testube to pour into the beaker containing aquaeous NAHCO3"
+msgstr "Drag the testube to pour into the beaker containing aquaeous NAHCO3"
+
+#: simcontrols.js:23
+msgid ""
+"We observe a fruity smell of ester, Ethanoic acid has vinegar like<br> smell "
+"and Ethanol has sweet and pungent smell"
+msgstr ""
+"We observe a fruity smell of ester, Ethanoic acid has vinegar like<br> smell "
+"and Ethanol has sweet and pungent smell"
+
+#: simcontrols.js:24
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:25
+#, fuzzy
+#| msgid ""
+#| "Drag the measuring cylinder containing 3 mL ethanol<br> into test tube "
+#| "containing 3 mL ethanoic acid."
+msgid ""
+"Drag the measuring cylinder containing 3mL Ethanoic Acid into the test tube."
+msgstr ""
+"Drag the measuring cylinder containing 3 mL ethanol<br> into test tube "
+"containing 3 mL ethanoic acid."

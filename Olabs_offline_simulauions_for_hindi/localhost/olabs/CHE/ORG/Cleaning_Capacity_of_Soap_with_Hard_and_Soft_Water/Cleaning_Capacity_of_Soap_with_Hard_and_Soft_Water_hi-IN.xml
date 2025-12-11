@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_1">
+	<TEXTVALUE>कठोर और मुलायम जल के साथ साबुन की सफाई करने की क्षमता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_2">
+	<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab0">
+	<TEXT ID="Lab0_one">
+	<TEXTVALUE>हमें बीकर, साबुन के टुकड़ों, कपड़े के टुकड़ों, डिस्टिल वाटर, कुएं के पानी, 50 मिलीलीटर मापने वाला सिलेंडर, 10 मिलीलीटर मापने वाला सिलेंडर,  मापने वाला पैमाना, टेस्ट ट्यूब, कांच की छड़, स्‍याही, कैल्शियम क्लोराइड और बुन्‍सेन बर्नर की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_3">
+	<TEXTVALUE>साबुन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_4">
+	<TEXTVALUE>कपड़े के टुकड़े</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_5">
+	<TEXTVALUE>डिस्टिल वाटर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_6">
+	<TEXTVALUE>कुएं का पानी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_string_7">
+	<TEXTVALUE>स्याही</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_8">
+	<TEXTVALUE>कैल्शियम क्लोराइड[2g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_9">
+	<TEXTVALUE>बीकर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_10">
+	<TEXTVALUE>साबुन के टुकड़े[1g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_11">
+	<TEXTVALUE>कपड़े के टुकड़े 
+(5 cm x 5 cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_12">
+	<TEXTVALUE>डिस्टिल वाटर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_13">
+	<TEXTVALUE>कुएं का पानी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_14">
+	<TEXTVALUE>मापक सिलेंडर
+ 50ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_15">
+	<TEXTVALUE>मापक सिलेंडर
+ 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_16">
+	<TEXTVALUE>टेस्ट ट्यूब</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_17">
+	<TEXTVALUE>मापक पैमाना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_18">
+	<TEXTVALUE>स्याही</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_19">
+	<TEXTVALUE>कैल्शियम क्लोराइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_20">
+	<TEXTVALUE>बुन्‍सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_21">
+	<TEXTVALUE> कांच की छड़</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>डिस्टिल वाटर से युक्त बीकर लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 20 मिलीलीटर डिस्टिल वाटर नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>इसे बीकर ए में डालें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>कुएं के पानी वाला बीकर लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>एक दूसरे मापने वाले सिलेंडर में 20 मिलीलीटर कुएं का पानी नापें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_str_b1">
+	<TEXTVALUE>कुएं का पानी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>इसे बीकर बी में डालें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>फिर, मापने वाले सिलेंडर में 20 मिलीलीटर डिस्टिल वाटर ले।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>फिर, मापने वाले सिलेंडर में 20 मिलीलीटर डिस्टिल वाटर ले।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>इसे बीकर सी में डालें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>2 ग्राम कैल्शियम क्लोराइड लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>इसे डिस्टिल वाटर वाले बीकर सी में डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>कांच की छड़ी से सामग्री को तब तक हिलाएं जब तक कि कैल्शियम क्लोराइड घुल न जाए।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_str_b2">
+	<TEXTVALUE>कांच की छड़</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>1 ग्राम वजन के साबुन के तीन टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>और बीकर ए, बी और सी में एक-एक साबुन का टुकड़ा मिलाएं</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_two">
+	<TEXTVALUE>कांच की तीन छड़ें लें और एक-एक छड़ हर एक बीकर में रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>यह सुनिश्चित करने के लिए कि साबुन घुल गया है कांच की छड़ से सामग्री हिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>अगर साबुन पूरी तरह से नहीं घुलता है तो बीकर ले लें और इसे बुन्‍सेन बर्नर पर रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_two">
+	<TEXTVALUE>कांच की छड़ी से हिलाते हुए बीकर धीरे-धीरे गर्म करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>अन्य दो बीकरों के लिए भी इन्‍हीं चरणों को दोहराएँ।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>अन्य दो बीकरों के लिए भी इन्‍हीं चरणों को दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>ए, बी और सी के रूप में लेबल लगी तीन टेस्ट ट्यूब लें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>साबुन के घोल वाला बीकर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>मापने वाले जार में 10 मिलीलीटर साबुन का घोल डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>इसे टेस्ट ट्यूब ए में डालें</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>इसे टेस्ट ट्यूब ए में डालें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>इसी तरह, अलग-अलग मापने वाले सिलेंडरों से टेस्ट ट्यूब बी में बीकर बी से और टेस्ट ट्यूब सी में बीकर सी से 10 मिलीलीटर साबुन का घोल डालें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab25_two">
+	<TEXTVALUE>मापने वाले पैमाने से हर एक टेस्ट ट्यूब में साबुन के घोल की प्रारंभिक लंबाई मापें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_str_b3">
+	<TEXTVALUE>मापने वाले</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="lab26chart">
+	<TEXT ID="lab26chart_one">
+	<TEXTVALUE>रीडिंग नोट करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_1">
+	<TEXTVALUE>साबुन का घोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_2">
+	<TEXTVALUE>साबुन के घोल की 
+प्रारंभिक लंबाई (cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_3">
+	<TEXTVALUE>उत्पादित किए गए झाग
+की लंबाई(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_4">
+	<TEXTVALUE>साबुन के घोल की 
+अंतिम लंबाई(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_5">
+	<TEXTVALUE>डिस्टिल वाटर से युक्त बीकर
+(टेस्ट ट्यूब A में मुलायम जल )</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_6">
+	<TEXTVALUE>कुएं का पानी से युक्त बीकर
+(टेस्ट ट्यूब B में कठोर  जल)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_7">
+	<TEXTVALUE>कुएं का पानी से युक्त बीकर 
+(टेस्ट ट्यूब B में कठोर  जल)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab27">
+	<TEXT ID="Lab27_one">
+	<TEXTVALUE>टेस्ट ट्यूब ए लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab28">
+	<TEXT ID="Lab28_one">
+	<TEXTVALUE>हाथ से टेस्ट ट्यूब पकडें और अंगूठे से इसका मुंह बंद कर दें। इसे अच्छी तरह से ऊपर-नीचे 10 बार हिलाएं।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab29">
+	<TEXT ID="Lab29_one">
+	<TEXTVALUE>आप देखेंगें कि टेस्ट ट्यूब में साबुन का झाग बन गया है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab292">
+	<TEXT ID="Lab292_one">
+	<TEXTVALUE>अन्य दो टेस्ट ट्यूबों के लिए भी इन्‍हीं चरणों को दोहराएँ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab292_two">
+	<TEXTVALUE>हर एक टेस्ट ट्यूब में झाग की लंबाई और साबुन के घोल की अंतिम लंबाई मापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="lab30chart2">
+	<TEXT ID="lab30chart2_one">
+	<TEXTVALUE>टेस्ट ट्यूब ए में साबुन का घोल ज्‍यादातम लंबाई की झाग पैदा करता है, टेस्ट ट्यूब बी में साबुन का घोल छोटी लंबाई का झाग पैदा करता है और टेस्ट ट्यूब सी में का घोल न्यूनतम लंबाई का झाग पैदा करता है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab31">
+	<TEXT ID="Lab31_one">
+	<TEXTVALUE>एक टाइल लें और उस पर सफेद कपड़े के तीन टुकड़े रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab31_ab_1">
+	<TEXTVALUE>टाइल </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab32">
+	<TEXT ID="Lab32_one">
+	<TEXTVALUE>हर एक कपड़े के केंद्र में स्याही की एक बूंद डालें और इसे सूख्‍ने दें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Lab32_clc_1">
+	<TEXTVALUE>10 मिनट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab33">
+	<TEXT ID="Lab33_one">
+	<TEXTVALUE>टाइल से कपड़े का टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab34">
+	<TEXT ID="Lab34_one">
+	<TEXTVALUE>स्याही के दाग वाला कपड़े का टुकड़ा बीकर ए में, कपड़े का दूसरा टुकड़ा बीकर बी में और कपड़े का तीसरा टुकड़ा बीकर सी में साबुन के बाकी बचे घोल में डुबोएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab34_two">
+	<TEXTVALUE>लगभग 10 मिनट तक  तीनों बीकर को न छेड़ें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab35">
+	<TEXT ID="Lab35_one">
+	<TEXTVALUE>बीकर से कपड़े के टुकड़े निकालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab361">
+	<TEXT ID="Lab361_one">
+	<TEXTVALUE>हर एक टुकड़े को रगड़ें।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab36">
+	<TEXT ID="Lab36_one">
+	<TEXTVALUE>साबुन के घोल ए में डूबे कपड़े पर स्याही का दाग लगभग गायब हो गया है। साबुन के घोल बी में डूबे कपड़े पर स्याही का दाग आंशिक रूप से गायब हो गया है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab36_two">
+	<TEXTVALUE>साबुन के घोल सी में डूबे कपड़े के टुकड़े पर स्याही के दाग के रंग में कोई बदलाव नहीं होता है और कुछ मैल कपड़े के टुकड़े की सतह पर जमा हो जाती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab38chart3">
+	<TEXT ID="lab38chart3_one">
+	<TEXTVALUE>यह देखने में आता है कि डिस्टिल वाटर (मुलायम जल) वाले साबुन के घोल की सफाई क्षमता सबसे ज्‍यादा है। कुएं के पानी (कठोर जल) वाले साबुन के घोल की मुलायम जल की तुलना में सफाई की क्षमता कम है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_two">
+	<TEXTVALUE>डिस्टिल वाटर वाले साबुन के घोल की इसमें घुली हुई कैल्शियम क्लोराइड के साथ (बहुत कठोर जल) सफाई की क्षमता सबसे कम है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_1">
+	<TEXTVALUE>ज्‍यादातम</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_2">
+	<TEXTVALUE>सफाई की क्षमता सबसे ज्‍यादा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_3">
+	<TEXTVALUE>छोटी लंबाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_4">
+	<TEXTVALUE>मुलायम जल की तुलना में
+सफाई की क्षमता कम है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_5">
+	<TEXTVALUE>छोटी लंबाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_6">
+	<TEXTVALUE>सफाई की क्षमता कम है</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_las_1">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_fin_1">
+	<TEXTVALUE>सफाई करने की क्षमता</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

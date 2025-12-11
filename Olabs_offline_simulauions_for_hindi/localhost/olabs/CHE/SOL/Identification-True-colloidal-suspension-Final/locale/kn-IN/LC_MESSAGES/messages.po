@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H\n"
+"POT-Creation-Date: 2016-11-01 08:53+0530\n"
+"PO-Revision-Date: 2016-11-01 09:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Distinguish Between Solutions"
+msgstr "ದ್ರಾವಣಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:15 simcontrols.js:18
+msgid "True solutions"
+msgstr "ನೈಜ ದ್ರಾವಣಗಳು"
+
+#: simcontrols.js:15 simcontrols.js:18
+msgid "Suspensions"
+msgstr "ನಿಲಂಬನಗಳು"
+
+#: simcontrols.js:15 simcontrols.js:18
+msgid "Colloids"
+msgstr "ಕಲಿಲಗಳು"
+
+#: simcontrols.js:16
+msgid "Transparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
+
+#: simcontrols.js:16
+msgid "Filtrations"
+msgstr "ಸೋಸುವಿಕೆಗಳು"
+
+#: simcontrols.js:16
+msgid "Stability"
+msgstr "ಸ್ಥಿರತೆ"
+
+#: simcontrols.js:16
+msgid "Tyndall effect"
+msgstr "ಟಿಂಡಾಲ್ ಪರಿಣಾಮ "
+
+#: simcontrols.js:18
+msgid "Select the property"
+msgstr "ಗುಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+
+#: simcontrols.js:18
+msgid "Select the solution to be tested"
+msgstr "ಪರೀಕ್ಷಿಸಬೇಕಾದ ದ್ರಾವಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+
+#: simcontrols.js:18
+msgid "Reset"
+msgstr "ರಿಸೆಟ್"
+
+#: simcontrols.js:19
+msgid ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for "
+"checking <br> the transparency of true solution."
+msgstr ""
+"ನೈಜ ದ್ರಾವಣದ ಪಾರದರ್ಶಕತೆಯನ್ನು <br> ಪರೀಕ್ಷಿಸಲು ಪ್ರನಾಳದಲ್ಲಿರುವ ದ್ರಾವಣದ ಹಿಂದಕ್ಕೆ "
+"ಸೆಲ್ಲೋಫೇನ್<br> ಪೇಪರ್ ಡ್ರಾಗ್ ಮಾಡಿ."
+
+#: simcontrols.js:19
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of suspension."
+msgstr ""
+"ನಿಲಂಬನದ ಪಾರದರ್ಶಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು<br>  ಪ್ರನಾಳದಲ್ಲಿರುವ ದ್ರಾವಣದ ಹಿಂದಕ್ಕೆ ಸೆಲ್ಲೋಫೇನ್ "
+"ಪೇಪರ್  <br>ಕ್ಲಿಕ್ ಮಾಡಿ ಡ್ರಾಗ್ ಮಾಡಿ."
+
+#: simcontrols.js:19
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of colloid."
+msgstr ""
+"ಕಲಿಲದ ಪಾರದರ್ಶಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಪ್ರನಾಳದಲ್ಲಿರುವ<br> ದ್ರಾವಣದ ಹಿಂದಕ್ಕೆ ಸೆಲ್ಲೋಫೇನ್ ಪೇಪರ್ "
+"ಕ್ಲಿಕ್ ಮಾಡಿ<br> ಡ್ರಾಗ್ ಮಾಡಿ"
+
+#: simcontrols.js:20
+msgid ""
+"Drag the test tube and pour the solution into the <br> test tube through the "
+"funnel and glass rod."
+msgstr ""
+"ಲಾಳಿಕೆ ಮತ್ತು ಗಾಜಿನ ರಾಡ್ ಮೂಲಕ ಪ್ರನಾಳಕ್ಕೆ ದ್ರಾವಣವನ್ನು<br> ಸುರಿಯಲು ಪ್ರನಾಳವನ್ನು ಡ್ರಾಗ್ "
+"ಮಾಡಿ."
+
+#: simcontrols.js:20
+msgid ""
+"Click on the funnel to see the <br> zoomed view of the filter paper content."
+msgstr ""
+"ಫಿಲ್ಟರ್ ಪೇಪರ್‌ನ ಪದಾರ್ಥದ ಲಮೀಪೀಕರಿಸಿದ<br> ನೋಟವನ್ನು ನೋಡಲು ಲಾಳಿಕೆಯ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ."
+
+#: simcontrols.js:21
+msgid ""
+"Click on on the start button to wait<br>  for 20 minutes for the "
+"particles<br> in the solution to settle."
+msgstr ""
+"ದ್ರಾವಣದ ಕಣಗಳು ತಂಗಲು 20 ನಿಮಿಷಗಳ<br>ಕಾಲ ಕಾಯಲು ಸ್ಟಾರ್ಟ್ ಬಟನ್<br>ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ."
+
+#: simcontrols.js:22
+msgid "Drag the test tube to fit it in the stand."
+msgstr "ಸ್ಟಾಂಡ್‌ನಲ್ಲಿ ಜೋಡಿಸಲು ಪ್ರನಾಳವನ್ನು ಡ್ರಾಗ್ ಮಾಡಿ."
+
+#: simcontrols.js:22
+msgid "Drag the light source to view tyndall effect clearly."
+msgstr "ಟಿಂಡಾಲ್ ಪರಿಣಾಮವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲ ಬೆಳಕಿನ ಮೂಲವನ್ನು ಡ್ರಾಗ್ ಮಾಡಿ."
+
+#: simcontrols.js:23
+msgid "A true solution is transparent."
+msgstr "ಒಂದು ನೈಜ ದ್ರಾವಣ ಪಾರದರ್ಶಕವಾಗಿರುತ್ತದೆ."
+
+#: simcontrols.js:23
+msgid "A suspension is opaque."
+msgstr "ಒಂದು ನಿಲಂಬನವು ಅಪಾರದರ್ಶಕವಾಗಿರುತ್ತದೆ."
+
+#: simcontrols.js:23
+msgid "A colloid is a translucent."
+msgstr "ಒಂದು ಕಲಿಲವು ಅರೆಪಾರದರ್ಶಕವಾಗಿರುತ್ತದೆ."
+
+#: simcontrols.js:24
+msgid ""
+"Solid particles cannot be separated from <br>true solution by filtration."
+msgstr "ಸೋಸುವಿಕೆ ಮೂಲಕ ನೈಜ ದ್ರಾವಣದಿಂದ ಘನ<br> ಕಣಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+
+#: simcontrols.js:24
+msgid "Suspended components of suspension <br> can be separated by filtration."
+msgstr "ಸೋಸುವಿಕೆ ಮೂಲಕ ನಿಲಂಬನದ ನಿಲಂಬಿತ ಘಟಕಗಳನ್ನು<br>  ಪ್ರತ್ಯೇಕಿಸಬಹುದಾಗಿದೆ."
+
+#: simcontrols.js:24
+msgid "Components causing colloid cannot be <br> separated by filtration."
+msgstr "ಸೋಸುವಿಕೆ ಮೂಲಕ ಕಲಿಲಕ್ಕೆ ಕಾರಣವಾಗುವ ಘಟಕಗಳನ್ನು<br>ಪ್ರತ್ಯೇಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+
+#: simcontrols.js:25
+msgid ""
+"The true solutions are stable and do not<br> show the depositions of "
+"components."
+msgstr "ನೈಜ ದ್ರಾವಣಗಳು ಸ್ಥಿರವಾಗಿರುತ್ತತವೆ ಮತ್ತು<br> ಘಟಕಗಳ ಶೇಖರಣೆಯನ್ನು ತೋರಿಸುವುದಿಲ್ಲ."
+
+#: simcontrols.js:25
+msgid "Suspension is unstable and show <br>settlement of heavier particles."
+msgstr "ನಿಲಂಬನವು ಅಸ್ಥಿರವಾಗಿರುತ್ತದೆ ಮತ್ತು ಘನ<br> ಕಣಗಳ ತಂಗುವಿಕೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+
+#: simcontrols.js:25
+msgid ""
+"Colloids are stable. Their solute particles <br>do not settle down when left "
+"undisturbed."
+msgstr ""
+"ಕಲಿಲಗಳು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ. ಕದಡದೆ ಬಿಟ್ಟಾಗ ಅವುಗಳ<br> ದ್ರಾವ್ಯ ಕಣಗಳು ಕೆಳಗೆ ತಂಗುವುದಿಲ್ಲ."
+
+#: simcontrols.js:26
+msgid ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is "
+"present in its molecular size.  Because of <br>this small size,the solute "
+"particles do not scatter the <br>light passed through the solution. "
+msgstr ""
+"ನೈಜ ದ್ರಾವಣಗಳಲ್ಲಿ, ದ್ರಾವ್ಯವು ಸಂಪೂರ್ಣವಾಗಿ ದ್ರಾವಕದಲ್ಲಿ<br> ಕರಗುತ್ತದೆ ಮತ್ತು ಆಣ್ವಿಕ "
+"ಗಾತ್ರದಲ್ಲಿ ಇರುತ್ತದೆ. ಈ ಸಣ್ಣ ಗಾತ್ರದಿಂದಾಗಿ, <br> ದ್ರಾವ್ಯ ಕಣಗಳು ದ್ರಾವಣದ ಮೂಲಕ ಹಾಯುವ "
+"ಬೆಳಕನ್ನು ಚದುರಿಸುವುದಿಲ್ಲ."
+
+#: simcontrols.js:26
+msgid ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</"
+"sup> cm or larger.Because of the large size of the <br>particles, "
+"suspensions do not show Tyndall effect."
+msgstr ""
+"ನಿಲಂಬನವೊಂದರಲ್ಲಿ ಕಣಗಳ ಗಾತ್ರವು 10<sup>-5</sup> ಸೆಂಮೀ<br> ಅಥವಾ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ. "
+"ಯಾಕೆಂದರೆ ದೊಡ್ಡ ಗಾತ್ರದ ಕಣಗಳು,  ನಿಲಂಬನಗಳು ಟಾಂಸ್<br> ಪರಿಣಾಮವನ್ನು ತೋರಿಸುವುದಿಲ್ಲ."
+
+#: simcontrols.js:26
+msgid ""
+"When a strong beam of light is passed through a colloidal solution <br>the "
+"light is scattered by the particles of the colloid. Thus the <br>path of "
+"light is clearly visible in the colloid."
+msgstr ""
+"ಕಲಿಲ ದ್ರಾವಣದ ಮೂಲಕ ಬಲಿಷ್ಠವಾದ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಹಾಯಿಸಿದಾಗ ಕಲಿಲದ <br>ಕಣಗಳಿಂದ ಬೆಳಕು "
+"ಚದುರುತ್ತದೆ. ಹೀಗೆ ಕಲಿಲದಲ್ಲಿ ಬೆಳಕಿನ ಹಾದಿಯು ಸ್ಪಷ್ಟವಾಗಿ<br> ಕಾಣಿಸುತ್ತದೆ."
+
+#: simcontrols.js:45
+msgid "h"
+msgstr "h"
+
+#: simcontrols.js:45
+msgid "min"
+msgstr "ನಿಮಿಷ"
+
+#: simcontrols.js:45
+msgid "sec"
+msgstr "ಸೆಕೆಂಡ್"
+
+#: simcontrols.js:46
+msgid "START"
+msgstr "ಸ್ಟಾರ್ಟ್"
+
+#: simcontrols.js:46
+msgid "STOP"
+msgstr "ಸ್ಟಾಪ್"
+
+#: simcontrols.js:48
+msgid "Sugar"
+msgstr "ಸಕ್ಕರೆ"
+
+#: simcontrols.js:48
+msgid "Salt"
+msgstr "ಉಪ್ಪು"
+
+#: simcontrols.js:48
+msgid "Alum"
+msgstr "ಪಟಿಕ"
+
+#: simcontrols.js:49
+msgid "Soil"
+msgstr "ಮಣ್ಣು"
+
+#: simcontrols.js:49
+msgid "Chalk"
+msgstr "ಚಾಕ್"
+
+#: simcontrols.js:49
+msgid "Sand"
+msgstr "ಚಾಕ್"
+
+#: simcontrols.js:50
+msgid "Starch"
+msgstr "ಪಿಷ್ಟ"
+
+#: simcontrols.js:50
+msgid "Egg Albumin"
+msgstr "ಮೊಟ್ಟೆಯ ಲೋಳೆ"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "ms"
+#~ msgstr "ms"
+
+#~ msgid "True solutions do not show Tyndall effect."
+#~ msgstr "True solutions do not show Tyndall effect."
+
+#~ msgid "Suspensions do not show Tyndall effect."
+#~ msgstr "Suspensions do not show Tyndall effect."
+
+#~ msgid "Light is scattered by the particles of the colloid."
+#~ msgstr "Light is scattered by the particles of the colloid."

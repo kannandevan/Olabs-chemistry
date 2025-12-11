@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>प्रथिनांचे गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोगास सुरुवात करण्यासाठी सुरु करा बटणावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="TestforProteins_text">
+	<TEXTVALUE>प्रथिनांसाठी परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="biuretTest_text">
+	<TEXTVALUE>बिऊरेट परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परिक्षा निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="xanthoproteicTest_text">
+	<TEXTVALUE>क्सांथोप्रोटिक परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="millonsTest_text">
+	<TEXTVALUE>मिलन परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ninhydrinTest_text">
+	<TEXTVALUE>निनहायड्रिन परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn">
+	<TEXTVALUE>&#60;&#60;मागे</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="eggAlbumin_text">
+	<TEXTVALUE>अंड्याचे पांढरे बलक</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatin_text">
+	<TEXTVALUE>जेलेटीन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत अंड्याच्या पांढर्याआ बलकाचे प्रकीर्णन, NaOH द्रावण, १% CuSO4 द्रावण, पकड, रॅक, ड्रॉपर बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="NaOH_text">
+	<TEXTVALUE>NaOH</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperSulphate_text">
+	<TEXTVALUE>1% CuSO4 </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>ड्रॉपर वापरून थोडेसे NaOH द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_one">
+	<TEXTVALUE>परिक्षा नळीत असलेल्या पांढर्याण बलकाच्या प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_two">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून काही थेंब १% कॉपर सल्फेट द्रावण परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_one">
+	<TEXTVALUE>परिक्षा नळी काही मिनिटे बर्नर वर गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_two">
+	<TEXTVALUE>अल्कपदार्थाच्या उपस्थितीत, प्रथिन आणि कॉपर (II) आयन ह्यांची अभिक्रिया होते आणि बिऊरेट नावाचे जांभळ्या रंगाचे कॉम्प्लेक्स निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत जेलेटीन प्रकीर्णन, NaOH द्रावण, १% CuSO4 द्रावण, पकड, रॅक, ड्रॉपर आणि बन्सेन बर्नर.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatinDispersion_text">
+	<TEXTVALUE>जेलेटीन प्रकीर्णन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>ड्रॉपर वापरून थोडेसे NaOH द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_one">
+	<TEXTVALUE>परिक्षा नळीतल्या जेलेटीन प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून काही थेंब १% कॉपर सल्फेट द्रावण परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_one">
+	<TEXTVALUE>परिक्षा नळी काही मिनिटे बर्नर वर गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_two">
+	<TEXTVALUE>अल्कपदार्थाच्या उपस्थितीत, प्रथिन आणि कॉपर (II) आयन ह्यांची अभिक्रिया होते आणि बिऊरेट नावाचे जांभळ्या रंगाचे कॉम्प्लेक्स निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत अंड्याच्या पांढर्याI बलकाचे प्रकीर्णन, संहत HNO3, पकड, रॅक, ड्रॉपर आणि बन्सेन बर्नर.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcNitricacid_text">
+	<TEXTVALUE>संहत नायट्रिक आम्ल </TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब संहत नायट्रिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Scene12_sub_one">
+	<TEXTVALUE>परिक्षा नळीत असलेल्या पांढर्यां बलकाच्या प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_one">
+	<TEXTVALUE>परिक्षा नळी बर्नर वर गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_two">
+	<TEXTVALUE>संहत नायट्रिक आम्लाच्या उपस्थितीत, प्रथिनातल्या काही अमिनो आम्लांचे नायट्रेशन होते आणि पिवळ्या रंगाचे क्सांथोप्रोटिक आम्ल निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत जेलेटीन प्रकीर्णन, संहत HNO3, पकड, रॅक, ड्रॉपर आणि बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब संहत नायट्रिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene15_sub_one">
+	<TEXTVALUE>परिक्षा नळीतल्या जेलेटीन प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_one">
+	<TEXTVALUE>परिक्षा नळी बर्नर वर गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_two">
+	<TEXTVALUE>संहत नायट्रिक आम्लाच्या उपस्थितीत, प्रथिनातल्या काही अमिनो आम्लांचे नायट्रेशन होते आणि पिवळ्या रंगाचे क्सांथोप्रोटिक आम्ल निर्माण होते.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत अंड्याच्या पांढर्या  बलकाचे प्रकीर्णन, निनहायड्रिन द्रावण, पकड, रॅक, ड्रॉपर, बन्सेन बर्नर.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ninhydrinsolution_text">
+	<TEXTVALUE>निनहायड्रिन द्रावण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब निनहायड्रिन द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+
+
+    <TEXT ID="Scene19_sub_one">
+	<TEXTVALUE>परिक्षा नळीत असलेल्या पांढर्यां बलकाच्या प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_one">
+	<TEXTVALUE>परिक्षा नळी बर्नर वर ठेवून आतले द्रावण उकळा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_two">
+	<TEXTVALUE>प्रथिन आणि निनहायड्रिन अभिकारक ह्यांची अभिक्रिया होते आणि गडद निळ्या रंगाचे संयुग निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत जेलेटीन प्रकीर्णन, निनहायड्रिन द्रावण, पकड, रॅक, ड्रॉपर, बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब निनहायड्रिन द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene22_sub_one">
+	<TEXTVALUE>परिक्षा नळीत असलेल्या पांढर्याड बलकाच्या प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_one">
+	<TEXTVALUE>परिक्षा नळी बर्नर वर ठेवून आतले द्रावण उकळा.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_two">
+	<TEXTVALUE>प्रथिन आणि निनहायड्रिन अभिकारक ह्यांची अभिक्रिया होते आणि गडद निळ्या रंगाचे संयुग निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>परिक्षा करायला टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळीत अंड्याच्या पांढर्याद बलकाचे प्रकीर्णन, मिलन अभिकारक, पकड, रॅक, ड्रॉपर आणि बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="million_txt">
+	<TEXTVALUE>मिलन अभिकारक</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब मिलन अभिकारक घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_one">
+	<TEXTVALUE>परिक्षा नळीत असलेल्या पांढर्यां बलकाच्या प्रकीर्णनात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+	<TEXTVALUE>पांढरे अवक्षेपण निर्माण होईल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_one">
+	<TEXTVALUE>परिक्षा नळी बर्नर वर ठेवून आतले द्रावण उकळा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_two">
+	<TEXTVALUE>उकळल्यानंतर पांढरे अवक्षेपण विटेसारखे लाल होते, आणि हे प्रथिनांची उपस्थिती दाखविते.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+
+
+</DATA>

@@ -1,0 +1,1 @@
+http://localhost/OlabNexG/html5/?sub=CHE&cat=ANC&exp=EffectOfTemperatureOnRateOfReaction&tempId=olab_ot#

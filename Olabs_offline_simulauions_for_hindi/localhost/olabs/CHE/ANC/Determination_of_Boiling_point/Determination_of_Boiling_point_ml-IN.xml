@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമായത് - ഫിനോൾ, ഗാഢസൾഫ്യുറിക് ആസിഡ്, (പാരഫീൻ ദ്രാവകം) ക്യാപ്പിലറീട്യൂബ്, തെർമോമീറ്റർ, നൂല്, ഘടിപ്പിച്ച അയൺസ്റ്റാൻഡ്, ടെസ്ട്യുബ്, ബീക്കർ, സ്റ്റിയറർ, കമ്പിവല, ട്രൈപോഡ് സ്റ്റാൻഡ്, ബൺസൺബർണർ തുടങ്ങിയവ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് എടുക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takephenol">
+	<TEXT ID="takephenol_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ഫിനോൾ എടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>ടെസ്ട്യുബിന്റെ മൂന്നിൽ രണ്ട് ഭാഗം ഫിനോൾ നിറക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>നൂല് കെട്ടിയ ടെസ്ട്യുബുമായി തെർമോമീറ്റർ ഉറപ്പിക്കുക, ടെസ്ട്യുബിന്റെ വായ് ഭാഗത്തിനടുത്തായിരിക്കണം നൂല് കെട്ടേണ്ടത്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="taksulph">
+	<TEXT ID="taksulph_one">
+		<TEXTVALUE>ഗാഢ സൾഫ്യുറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+     <TEXTVALUE>ഫണൽ ഉപയോഗിച്ച് ബീക്കറിലേക്ക് ഗാഢ സൾഫ്യുറിക് ആസിഡ് നിറക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>ബൺസൺ ബർണറിലെ കമ്പിവലയിൽ ബീക്കർ വക്കുക, സ്റ്റിയറർ അതിനുള്ളിലേക്ക് കടത്തുക.
+</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>തെർമോമീറ്റർ വഹിക്കുന്ന ടെസ്ട്യുബ് അയൺ സ്റ്റാൻഡിൽ കെട്ടി വക്കുക. തെർമോമീറ്റർ ടെസ്ട്യുബിന് നേരെയായി ഗാഢ സൾഫ്യുറിക് ആസിഡ് ലായനിയിലേക്ക് താഴ്ത്തുക.
+</TEXTVALUE>
+   </TEXT>
+    <TEXT ID="parafinburner_three">
+		<TEXTVALUE>തെർമോമീറ്റർ ക്രമീകരിക്കുക, ഇങ്ങനെ ചെയ്യുന്നതുകൊണ്ട് അതിന്റെ ബൾബ് ആസിഡിന് താഴെയാകുന്നു. നൂല് കെട്ടിയ ട്യുബിന്റെ തുറന്ന ഭാഗം ആസിഡ് ലായനിയുടെ ഏറ്റവും മുകളിലാകുന്നു.
+</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="Scene28">
+	<TEXT ID="Scene28_one">
+		<TEXTVALUE>5-6 സെ.മി. നീളമുള്ള ഒരു ക്യാപ്പിലറീ ട്യൂബ് എടുക്കുക, അതിന്റെ ഒരറ്റം ജ്വാലയിൽ വച്ച് ചൂടാക്കി അടക്കുക, ഒരു നേർത്ത വളവ് നൽകുന്നു.
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner233">
+	<TEXT ID="parafinburner233_one">
+		<TEXTVALUE>ടെസ്ട്യുബിൽ ക്യാപ്പിലറീ ട്യൂബ് അടഞ്ഞ അറ്റം മുകളിലാക്കി വക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>സൾഫ്യുറിക് ആസിഡ് സാവധാനം ചൂടാക്കുക, സ്റ്റിയറർ മുകളിലേക്കും താഴേക്കും ചലിപ്പിച്ച് ദ്രാവകം ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom222">
+	<TEXT ID="parafinburnerzoom222_one">
+		<TEXTVALUE>കുറച്ച് സമയത്തിന് ശേഷം ദ്രാവകത്തിൽ മുങ്ങിയിരിക്കുന്ന ക്യാപ്പിലറി ട്യൂബിന്റെ അറ്റത്തുനിന്നും കുമിളകൾ വരാൻ തുടങ്ങുന്നു. പക്ഷെ അപ്പോൾ തന്നെ ഇതിൽ നിന്ന് കുമിളകൾ വളരെ വേഗം പുറത്തേക്ക് പ്രവഹിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburnerzoom222_two">
+		<TEXTVALUE>അടഞ്ഞ ക്യാപ്പിലറീ ട്യൂബിലെ ദ്രാവകത്തിന്റെ ബാഷ്പമർദ്ദം കഷ്ടിച്ച് അന്തരീക്ഷമർദ്ദത്തിൽ കവിയുമ്പോഴുള്ള ഘട്ടമാണ് ഇത്.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>വായൂ കുമിളകൾ വരാൻ തുടങ്ങുമ്പോൾ താപനില [t1]രേഖപ്പെടുത്തുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner_off">
+	<TEXT ID="parafinburner_off_one">
+		<TEXTVALUE>ബർണർ ഓഫ് ചെയ്യുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom22">
+	<TEXT ID="parafinburnerzoom22_one">
+		<TEXTVALUE>ക്യാപ്പിലറീ ട്യൂബിന്റെ അവസാന ഭാഗത്തുനിന്നും കുമിളകൾ കുറഞ്ഞുവരുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom33">
+	<TEXT ID="parafinburnerzoom33_one">
+		<TEXTVALUE>ക്യാപ്പിലറീ ട്യൂബിന്റെ അവസാന ഭാഗത്തുനിന്നും കുമിളകൾ ഉയർന്നുവരുമ്പോൾ തന്നെ നിർത്തുക, താപനില [t2] രേഖപ്പെടുത്തുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_one">
+		<TEXTVALUE>[t1о + t2о] /2 എന്ന സൂത്രവാക്യം ഉപയോഗിച്ച് ഫിനോളിന്റെ ബോയിലിംഗ് പോയിന്റ് കണക്കാക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+	
+</DATA>

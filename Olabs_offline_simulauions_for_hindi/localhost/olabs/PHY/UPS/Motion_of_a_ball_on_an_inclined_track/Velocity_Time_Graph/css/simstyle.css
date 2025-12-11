@@ -1,0 +1,716 @@
+.varTitle,#mainDiv,#the_table,.nano,#thecoordinateElement,#thecoordinateElement,#thexasixTag,#thecoordinate_join,#theYlabel,#thexrotatey,#theY-axisTag,.showscale-label{
+    
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+
+}
+
+
+
+#firstDivPoint,
+#firstDivPoint2
+,#firstDivPoint3
+,#firstDivPoint4
+,#firstDivPoint5
+,#firstDivPoint6
+,#firstDivPoint7
+,#firstDivPoint8
+,#firstDivPoint9
+,#firstDivPoint10,
+#firstDivPoint11,
+#GraphLine,#GraphHorizontal,#showScale,#showdistanceEquation,#theInference,#the_joinGraphline ,#graphArrowTop,#graphArrowright,#Graphverticalline,#theY-axisTag,#thexasixTag,#thecoordinateElement,#showScaleDiv,#thefirstEquationPreview,#theSecondEquationPreview,#TheFirstEquationOnScreen ,#myCanvas{display: none;
+  
+}
+/* #showScale */
+#TheScale,#the_table,#join_lines,#Show_cordinates,#Show_calculations,#Show_Distance{
+  opacity: .5;
+  pointer-events: none;
+
+}
+
+
+/* */
+#myCanvas{
+  position: absolute;
+    left: 29px;
+    top: 13px;
+    width: 512px;
+    height: 294px;
+    /* display: none; */
+}
+
+#graphArrowright{
+  position: absolute;
+  top: 90.4%;
+  height: 6%;
+  left: 97%;
+}
+#graphArrowTop{
+  position: absolute;
+  top: 0%;
+  transform: rotate(270deg);
+  height: 6%;
+  left: 5.9%;
+}
+
+
+#bgCanvas{
+    height: 102%;
+    width: 102%;
+    top: 0%;
+}
+table, th, td {
+    border: .5px solid black;
+  }
+  #mainDiv{
+    position: absolute;
+    top: 0%;
+    height: 98%;
+    width: 99%;
+  }
+#bgImage{
+  position: absolute;
+  height: 103%;
+  top: -1%;
+  width: 103%;
+  left: -1%;
+  }
+  #firstDivPoint{
+    position: absolute;
+    top: 90.8%;
+    left: 6.5%;
+  }
+  #GraphLine{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  #firstDivPoint2{
+    position: absolute;
+    top: 83%;
+    left: 14.8%;
+  }
+  #firstDivPoint3{
+    position: absolute;
+    top: 74.4%;
+    left: 23.1%;
+  }
+  #firstDivPoint4{
+    position: absolute;
+    top: 65.9%;
+    left: 31.5%;
+  }
+  #firstDivPoint5{
+    position: absolute;
+    left: 39.9%;
+    top: 57.3%;
+  }
+
+  #firstDivPoint6
+    {
+      position: absolute;
+      top: 48.7%;
+      left: 48.23%;
+  }
+  #firstDivPoint7
+  {
+    position: absolute;
+    top: 40.1%;
+    left: 56.67%;
+  }
+
+  #firstDivPoint8{
+    position: absolute;
+    top: 31.59%;
+    left: 64.99%;
+  }
+  #firstDivPoint9{
+    position: absolute;
+    top: 23%;
+    left: 73.39%;
+  }
+  #firstDivPoint10{
+    position: absolute;
+    top: 14.4%;
+    left: 81.7%;
+  }
+  #firstDivPoint11{
+    position: absolute;
+    top: 5.9%;
+    left: 90.05%;
+  }
+  #GraphHorizontal{
+    position: absolute;
+    top: 92.4%;
+    height: 0.8%;
+    width: 94%;
+    left: 6.2%;
+  }
+  #Graphverticalline{
+    position: absolute;
+    height: 0%;
+    left: 6%;
+    top: 4%;
+  }
+  #axis0_0{
+    position: absolute;
+    top: 92%;
+    left: 6.5%;
+
+  }
+  .allaxis{
+
+    font-size: 14px;
+    font-weight: bold;
+
+  }
+  #axis0_1{
+    position: absolute;
+    top: 92%;
+    left: 14.5%;
+  }
+  #axis0_2{
+    position: absolute;
+    top: 92%;
+    left: 23%;
+  }
+  #axis0_3{
+    position: absolute;
+    top: 92%;
+    left: 31.5%;
+  }
+  #axis0_4{
+    position: absolute;
+    top: 92%;
+    left: 39.5%;
+  }
+  #axis0_5{
+    position: absolute;
+    top: 92%;
+    left: 48%;
+  }
+  #axis0_6{
+    position: absolute;
+    top: 92%;
+    left: 56%;
+  }
+  #axis0_7{
+    position: absolute;
+    top: 92%;
+    left: 64.5%;
+  }
+  #axis0_8{
+    position: absolute;
+    top: 92%;
+    left: 72.5%;
+  }
+  #axis0_9{
+    position: absolute;
+    top: 92%;
+    left: 81%;
+  }
+  #axis0_10{
+    position: absolute;
+    top: 92%;
+    left: 88.5%;
+
+  }
+  #axis0_11{
+    position: absolute;
+    top: 92%;
+    left: 96.5%;
+  }
+  #theXlabel{
+    position: absolute;
+    left: 41%;
+    top: 96%;
+    font-size: larger;
+  }
+  #axis1_0{
+    position: absolute;
+    top: 81%;
+    left: 3%;
+  }
+  #axis1_2{
+    position: absolute;
+    top: 72%;
+    left: 3%;
+  }
+  #axis1_3{
+    position: absolute;
+    top: 65%;
+    left: 3%;
+  }
+  #axis1_4{
+    position: absolute;
+    top: 56%;
+    left: 3%;
+  }
+  #axis1_5{
+    position: absolute;
+    top: 48%;
+    left: 3%;
+  }
+  #axis1_6{
+
+    position: absolute;
+    top: 39%;
+    left: 3%;
+
+  }
+  #axis1_7{
+    position: absolute;
+    top: 31%;
+    left: 3%;
+  }
+  #axis1_8{
+    position: absolute;
+    top: 22%;
+    left: 3%;
+  }
+  #axis1_9{
+    position: absolute;
+    top: 14%;
+    left: 3%;
+  }
+  #axis1_10{
+
+    position: absolute;
+    top: 5%;
+    left: 2%;
+
+  }
+  #theYlabel{
+    position: absolute;
+    top: 43%;
+    left: 9%;
+    /* transform: rotate(270deg); */
+    font-size: larger;
+  }
+  #thexrotatey{
+    position: absolute;
+    top: 54%;
+    left: -11%;
+    transform: rotate(269deg);
+    width: 23%;
+    height: 12%;
+
+  }
+  #thecoordinate_join{
+    position: absolute;
+    left: -3%;
+    top: 42%;
+    height: 7.2%;
+    transform: rotate(149deg);
+  }
+
+
+  #the5-10_coordinate{
+    position: absolute;
+    top: 86%;
+    left: 16%;
+    display: none;
+  }
+  #the10-20_coordinate{
+    position: absolute;
+    top: 77%;
+    left: 24%;
+    display: none;
+
+  }
+  #the15-30_coordinate{
+    position: absolute;
+    top: 69%;
+    left: 32%;
+    display: none;
+
+  }
+  #the20-40_coordinate{
+    position: absolute;
+    left: 40%;
+    top: 61%;
+    display: none;
+
+  }
+  #the25-50_coordinate{
+    position: absolute;
+    top: 52%;
+    left: 49%;
+    display: none;
+
+  }
+  #the30-60_coordinate{
+    position: absolute;
+    top: 44%;
+    left: 57%;
+    display: none;
+
+  }
+  #the35-70_coordinate{
+    position: absolute;
+    top: 36%;
+    left: 65%;
+    display: none;
+
+  }
+  #the40-80_coordinate{
+    position: absolute;
+    top: 27%;
+    left: 74%;
+    display: none;
+
+  }
+  #the45-90_coordinate{
+    position: absolute;
+    left: 82%;
+    top: 18%;
+    display: none;
+
+  }
+  #the50-100_coordinate{
+    
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    display: none;
+
+  }
+  #showscale{
+    position: absolute;
+    top: 6%;
+    left: 87%;
+  }
+  .showscale-label{
+    position: absolute;
+    top: 7%;
+    left: 77%;
+  }
+  #showScaleDiv{
+    position: absolute;
+    top: 17%;
+    width: 90%;
+    height: 70%;
+    left: 4%;
+    background-color: cornsilk;
+    opacity: .9;
+  }
+  #FirstScaleImage{
+    height: 46%;
+    position: absolute;
+    top: 27%;
+    left: 12%;
+  }
+  #SecondScaleImage{
+    position: absolute;
+    top: 31%;
+    height: 48%;
+    left: 6%;
+  }
+  #thefirstEquationPreview{
+    position: absolute;
+    top: 59%;
+    width: 99%;
+    top: 6%;
+    height: 88%;
+    background-color: #ffffff;
+  }
+  #First-Accelaration-equation{
+    position: absolute;
+    height: 56%;
+    left: 14%;
+    top: 24%;
+  }
+  #The_V2Value{
+    position: absolute;
+    left: 31%;
+    top: 35%;
+    height: 18%;
+    width: 11%;
+    font-size: xxx-large;
+  }
+  #The_V1Value{
+    position: absolute;
+    left: 49%;
+    top: 35%;
+    height: 18%;
+    width: 10%;
+    font-size: xxx-large;
+  }
+  #The_T2Value{
+    position: absolute;
+    left: 31%;
+    top: 55%;
+    height: 18%;
+    width: 12%;
+    font-size: xxx-large;
+    align-items: center;
+  }
+  #The_T1Value{
+    position: absolute;
+    left: 49%;
+    top: 55%;
+    height: 18%;
+    width: 10%;
+    font-size: xxx-large;
+  }
+  #theSecondEquationPreview{
+    position: absolute;
+    top: 59%;
+    width: 99%;
+    top: 6%;
+    height: 88%;
+    background-color: #ffffff;
+  }
+  #Second-Accelaration-equation{
+    position: absolute;
+    height: 45%;
+    left: -7%;
+    top: 33%;
+  }
+  #TheSecond_V2Value{
+    position: absolute;
+    left: 43%;
+    top: 38%;
+    height: 18%;
+    width: 11%;
+    font-size: xxx-large;
+  }
+  #TheSecond_V1Value{
+    position: absolute;
+    left: 59%;
+    top: 38%;
+    height: 18%;
+    width: 10%;
+    font-size: xxx-large;
+  }
+  #TheSecond_T2Value{
+    position: absolute;
+    left: 43%;
+    top: 57%;
+    height: 18%;
+    width: 12%;
+    font-size: xxx-large;
+    align-items: center;
+  }
+  #TheSecond_T1Value{
+    position: absolute;
+    left: 59%;
+    top: 57%;
+    height: 18%;
+    width: 10%;
+    font-size: xxx-large;
+  }
+  #showdistanceEquation{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+  } 
+  #theFinal_Equation{
+    position: absolute;
+    height: 100%;
+    left: -4%;
+    width: 110%;
+  }
+
+#ThelastequationV2
+{ 
+  position: absolute;
+  left: 54%;
+  top: 66%;
+  height: 11%;
+  width: 11%;
+  font-size: x-large;
+
+}
+#ThelastequationV1
+{ 
+  position: absolute;
+  left: 11%;
+  top: 66%;
+  height: 18%;
+  width: 11%;
+  font-size: x-large;
+
+}
+#ThelastequationT1
+{ 
+  position: absolute;
+  left: 33%;
+  top: 66%;
+  height: 18%;
+  width: 11%;
+  font-size: x-large;
+}
+#ThelastequationT2
+{ 
+  position: absolute;
+  left: 23%;
+  top: 66%;
+  height: 18%;
+  width: 11%;
+  font-size: x-large;
+
+
+}
+.secondV1{
+  position: absolute;
+  left: 63% !important;
+}
+.secondT2{
+  left: 73% !important;
+}
+.secondT1{
+  left: 82% !important;
+}
+#The_resultOfthe_Distance{
+  position: absolute;
+  left: 45%;
+  top: 85%;
+  height: 18%;
+  width: 31%;
+  font-size: xx-large;
+}
+
+/* The Questions */
+.questionLayout {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #0d102eed;
+
+  top: 0%;
+  z-index: 1000;
+
+}
+.questionNumber
+{
+  position: absolute;
+  width: 100%;
+  height: 12%;
+  background-color: #c0c1c900;
+  top: 2%;
+  border-bottom: solid #ffffff75;
+}
+.questionNumberTestDesign
+{
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1rem;
+  top: 20%;
+  left: 3%;
+  font-family: 'Inconsolata';
+}
+.questionNumberScoreDesign
+{
+  position: absolute;
+  color: #fbfbfb8f;
+  font-size: 1rem;
+  top: 20%;
+  left: 82%;
+  font-family: 'Inconsolata';
+}
+.questionText
+{
+  position: absolute;
+  color: #cac9cbb3;
+  top: 18%;
+  left: 3%;
+  /* background-color: rgb(36, 14, 66); */
+  width: 94%;
+  height: 21%;
+}
+.questionTextAlignment
+{
+  position: absolute;
+  width: 94%;
+  height: 75%;
+  top: 11%;
+  left: 2%;
+  font-size: .9rem;
+  color: #fcf8f8;
+  text-align: justify;
+  line-height: 1.3;
+  cursor: not-allowed;
+}
+.OptionOne
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 34%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.OptionTwo
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 48%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.OptionThree
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 62%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.OptionFour
+{
+  position: absolute;
+  border: solid 2px #35aad3c7;
+  top: 76%;
+  width: 88%;
+  height: 11%;
+  left: 5%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.optionTestDesign {
+  position: absolute;
+  color: #ffffff;
+  font-size: .8rem;
+  top: 20%;
+  left: 5%;
+}
+.optionNo
+{
+  padding-right: 7px;
+}
+#theInference {
+  position: absolute;
+  top: 8%;
+  height: 10%;
+  left: 8%;
+  z-index: 10;
+}
+#InferenceMessage{
+  position: absolute;
+  top: 30%;
+  left: 13%;
+
+
+}
+.subButton{
+  width: 126px; 
+}

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1title">
+	<TEXT ID="1title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2intro">
+	<TEXT ID="2intro_one">
+		<TEXTVALUE>നമുക്ക് ആവശൃമായത്- ശുദ്ധീകരിച്ച ജലം, ബോയിലിംഗ് ടൃൂബ്, ബീക്കർ, തെർമോമീറ്റർ, ഒരു സ്പാറ്റുല, മിനുക്കുകല്ല്, ഘടിപ്പിച്ച സ്റ്റാൻഡ്, ബൺസൺബർണർ എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3tube">
+	<TEXT ID="3tube_one">
+		<TEXTVALUE>ഒരു ബോയിലിംഗ് ടൃൂബിൽ 25 മി.ലി. ശുദ്ധീകരിച്ച ജലം എടുക്കുക, എന്നിട്ട് സ്റ്റാൻഡുമായി ബന്ധിപ്പിക്കുക.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4sptulla">
+	<TEXT ID="4sptulla_one">
+		<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് കുറച്ച് മിനുക്കുകല്ല് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5put">
+	<TEXT ID="5put_one">
+		<TEXTVALUE>ഇത് ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബോയിലിംഗ് ടൃൂബിലേക്ക് ഇടുക, ചൂടാക്കുമ്പോൾ ഉള്ള  വലിയ ശബ്ദം ഒഴിവാക്കാൻ ആണ് ഇങ്ങനെ ചെയ്യുന്നത്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_two">
+		<TEXTVALUE>ബോയിലിംഗ് ടൃൂബ് ഇരട്ട സുഷിരമുള്ള കോർക്ക് കൊണ്ട് അടക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_three">
+		<TEXTVALUE>കോർക്കിൻ്റെ ഒരു സുഷിരത്തിലൂടെ തെർമോമീറ്റർ കടത്തുക, തെർമോമീറ്ററിൻ്റെ ബൾബ് ജലോപരിതലത്തിൽ നിന്ന് 3-5 സെ.മി. മുകളിൽ ആയിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin">
+	<TEXT ID="6lin_one">
+		<TEXTVALUE>ഒരു നിർഗമനകുഴൽ എടുക്കുക, ഈ കുഴലിൻ്റെ ഒരറ്റം  കോർക്കിൻ്റെ രണ്ടാമത്തെ സുഷിരത്തിലൂടെ കടത്തിയിട്ട് കുഴലിൻ്റെ രണ്ടാമത്തെ അറ്റം ബീക്കറിലേക്കും ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6lin_two">
+		<TEXTVALUE>ഒരു ബൺസൺബർണർ എടുക്കുക, ജ്വാല ചലിക്കുന്നതനുസരിച്ച്  ബോയിലിംഗ് ടൃൂബ്  സാവധാനം  ചൂടാക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin2">
+	<TEXT ID="6lin2_one">
+		<TEXTVALUE>ജലം ചൂടാകാൻ ആരംഭിക്കുമ്പോൾ ഊഷ്മാവ്  t1 രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7zoom">
+	<TEXT ID="7zoom_one">
+		<TEXTVALUE>ജലം ചൂടാകാൻ ആരംഭിക്കുമ്പോൾ ഊഷ്മാവ്  t1 രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8drop">
+	<TEXT ID="8drop_one">
+		<TEXTVALUE>ചൂടാകുന്ന ജലം ആവിയായി മാറ്റപ്പെടുകയും, അത് നിർഗമനകുഴലിലേക്ക് കടന്ന്  അവിടെ വെച്ച് തണുത്ത് ബീക്കറിൽ ശേഖരിക്കപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="9lin2">
+	<TEXT ID="9lin2_one">
+		<TEXTVALUE>ജലത്തിൻ്റെ ഊഷ്മാവ് സ്ഥിരമാകുന്നതുവരെ ചൂടാക്കൽ തുടരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10zoom2">
+	<TEXT ID="10zoom2_one">
+		<TEXTVALUE>ജലത്തിൻ്റെ തുടർച്ചയായുള്ള ചൂടാക്കലിൻ്റെ  സ്ഥിരമായ ഊഷ്മാവ്  t2 രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="11chart">
+	<TEXT ID="11chart_one">
+		<TEXTVALUE>രണ്ട് ഊഷ്മാവിൻ്റെയും ശരാശരി തരുന്നതാണ് ജലത്തിൻ്റെ തിളനില എന്ന് പറയുന്നത്. ജലത്തിൻ്റെ തിളനില 100 ഡിഗ്രി സെൽഷൃസ് ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

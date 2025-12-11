@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>ನಮಗೆ ಬೇಕಾಗಿರುವ ಸಾಮಗ್ರಿಗಳು - ಅಳತೆ ಜಾಡಿಗಳು, ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ  , ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್  ದ್ರಾವಣ, ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ , ಬಿರಡೆ,10 ml ಪ್ರನಾಳ ಮತ್ತು ವಿದ್ಯುನ್ಮಾನ ತುಲಾಯಂತ್ರ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>ಅಳತೆ ಮಾಡುವ ಜಾಡಿನಲ್ಲಿ 5 ml ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್ ದ್ರಾವಣ ಅಳತೆ ಮಾಡುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>ಅಳತೆ ಮಾಡುವ ಜಾಡಿನಲ್ಲಿ 5 ml ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್ ದ್ರಾವಣ ಅಳತೆ ಮಾಡುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>ಇದನ್ನು ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಒಳಗೆ  ಹಾಕುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>ಇನ್ನೊಂದು ಅಳತೆ ಮಾಡುವ ಜಾಡಿನಲ್ಲಿ 5 ml  ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್  ದ್ರಾವಣ ಅಳತೆ ಮಾಡುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>ಇನ್ನೊಂದು ಅಳತೆ ಮಾಡುವ ಜಾಡಿನಲ್ಲಿ 5 ml  ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಅಳತೆ ಮಾಡುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>10 ml ಪ್ರನಾಳದಲ್ಲಿ ಹಾಕಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ದಾರದಿಂದ ಕಟ್ಟಿರಿ ಮತ್ತು ಕಟ್ಟಿದ ಪ್ರನಾಳವನ್ನು  ಕೊನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ಒಳಗೆ ತೂಗು ಹಾಕಿರಿ ಹಾಗೂ ದ್ರಾವಣಗಳು ಮಿಶ್ರಣವಾಗದಂತೆ ಎಚ್ಚರವಹಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಅನ್ನು ಬಿರಡೆಯ ಸಹಾಯದಿಂದ ಮುಚ್ಚುವುದರಿಂದ ಪ್ರನಾಳವು ಬಿಗಿಯಾಗಿ ಬಂಧಿಸುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಅನ್ನು ತುಲಾಯಂತ್ರದಿಂದ ತೆಗೆದು, ಬಾಗಿಸಿ ಮತ್ತು  ತಿರುಗಿಸುವುದರಿಂದ ಪ್ರನಾಳದಲ್ಲಿರುವ ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಹೊರಚೆಲ್ಲಿ ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವ ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್ ದ್ರಾವಣದೊಂದಿಗೆ ವರ್ತಿಸಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್  ಅನ್ನು ವಿದ್ಯುನ್ಮಾನ ತುಲಾಯಂತ್ರದಲ್ಲಿ ಜಾಗ್ರತೆಯಿಂದ ಆ ರಾಸಾಯನಿಕ  ಕ್ರಿಯೆಗೆ ಒಳಪಡದಂತೆ ಎಚ್ಚರವಹಿಸಿ ಅವುಗಳ ದ್ರವ್ಯರಾಶಿ ಕಂಡು ಹಿಡಿಯುವುದು.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Lab12_two">
+	<TEXTVALUE>ಬಿಳಿ ಒತ್ತರದ ಬೇರಿಯಂ ಸಲ್ಪೇಟ್ ಮತ್ತು ಜಲೀಯ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಉಂಟಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯಲು 10 ನಿಮಿಷ ಕಾಯಿರಿ. ಬೇರಿಯಂ ಸಲ್ಪೇಟ್  ಬಿಳಿ ಒತ್ತರವು , ಫ್ಲಾಸ್ಕ್  ತಳಭಾಗದಲ್ಲಿ  ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE> ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವುದನ್ನು ಮತ್ತೊಮ್ಮೆ ವಿದ್ಯುನ್ಮಾನ ತುಲಾಯಂತ್ರದಲ್ಲಿ  ಇರಿಸಿ ತೂಕ ಮಾಡಿ ಮಾಪನವನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab15">
+	<TEXT ID="lab15_one">
+	<TEXTVALUE>ವೀಕ್ಷಿಸಿ , ತಿಳಿಯುವುದೇನೆಂದರೆ "ಪ್ರತಿವರ್ತಕಗಳ ದ್ರವ್ಯರಾಶಿಯು ಉತ್ಪನ್ನಗಳ ದ್ರವ್ಯರಾಶಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ". ಇದರಿಂದ ದ್ರವ್ಯರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು ಪರಿಶೀಲಿಸಬಹುದಾಗಿದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

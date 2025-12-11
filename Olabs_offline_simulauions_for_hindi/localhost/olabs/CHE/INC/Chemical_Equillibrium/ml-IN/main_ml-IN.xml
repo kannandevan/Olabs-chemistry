@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_A">
+        <source>A</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>രാസസന്തുലനം</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_B">
+        <source>B</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BACK">
+        <source>പുറകോട്ട്</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_C">
+        <source>C</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_CHEMICALEQUILIBRIUM">
+        <source>രാസസന്തുലനം</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_D">
+        <source>D</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_FEC">
+        <source>0.1M ഫെറിക് ക്ലോറൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_FECL">
+        <source>0.1M ഫെറിക് ക്ലോറൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_KCL">
+        <source>0.1M പൊട്ടാസൃംക്ലോറൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_KCNS">
+        <source>0.1M പൊട്ടാസൃം സയനൈഡ് ലായനി</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_REPLAY">
+        <source>പുനർദൃശൃം</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_TAAB">
+        <source>നിറത്തിലെ വൃതൃാസം</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_TAB">
+        <source>ചേർത്ത പദാർത്ഥങ്ങൾ</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_TABA">
+        <source>5ml ജലം</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_TABB">
+        <source>ഗാഢതയിലെ സ്വാധീനം</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_TAD">
+        <source>5ml of 0.1M
+ FeCl3 ലായനി</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_TAF">
+        <source>5ml of 0.1M 
+KCNS ലായനി</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_TASE">
+        <source>നിറം</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_TEA">
+        <source>5ml of 0.1M
+ KCl ലായനി</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_TEDA">
+        <source>നേർത്ത് വരുന്നു.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_TEK">
+        <source>കൂടുന്നു</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_TEN">
+        <source>കുറയുന്നു</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_TEO">
+        <source>വലതിന് നേരെ</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_TEST">
+        <source>ടെസ്റ്റൃൂബ്</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_THREE">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_TSAM">
+        <source>കടുംനിറമാകുന്നു.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_TTA">
+        <source>സന്തുലിതാവസ്ഥയുടെ സ്ഥാനമാറ്റം</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_TVB">
+        <source>വലതിന് നേരെ</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_WATER">
+        <source>ജലം</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

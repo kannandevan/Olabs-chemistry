@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+
+
+<SCENE ID="Reactivity_Met_Title">
+	<TEXT ID="Reactivity_Met_Title_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Reactivity_Met_Title_string1">
+	 	<TEXTVALUE>धातूंची अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Reactivity_Met_Title_string_2">
+	 	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4_Buttons_Metals">
+	<TEXT ID="4_Buttons_Metals_one">
+	 	<TEXTVALUE>एक क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_3">
+	 	<TEXTVALUE>धातूंची अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_4">
+	 	<TEXTVALUE>झिंक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_5">
+	 	<TEXTVALUE>अॅल्युमिनियम</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_6">
+	 	<TEXTVALUE>तांबे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_7">
+	 	<TEXTVALUE>लोह</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_8">
+	 	<TEXTVALUE>अभिक्रियाशीलतेचा  क्रम</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_9">
+	 	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Zinc_S1">
+	<TEXT ID="Zinc_S1_one">
+	 	<TEXTVALUE>कॉपर सल्फेट, अॅल्युमिनियम सल्फेट आणि फेरस सल्फेट ह्यांचे 1M द्रावणाचे २० मिली तीन वेगळ्या चंचुपात्रांमध्ये घ्या आणि थोडे झिंक धातूचे तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_two">
+	 	<TEXTVALUE>फोर्सेप वापरुन झिंक धातूचे काही तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_three">
+	 	<TEXTVALUE>फेरस सल्फेट, अॅल्युमिनियम सल्फेट आणि कॉपर सल्फेट द्रावण असलेल्या चंचुपात्रात प्रत्येकी दोन झिंकचे तुकडे फोर्सेप वापरून टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_four">
+	 	<TEXTVALUE>१ तास चंचुपात्र तसेच राहू द्या. आणि मग द्रावणाचा रंग आणि धातू कसे दिसते ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_five">
+	 	<TEXTVALUE>CuSO4 चा निळा रंग अदृश्य होतो आणि तांब्याचे लाल-तपकिरी कण चंचुपात्राच्या बुडाला बसतात.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Zinc_S1_five1">
+		<TEXTVALUE>हे निर्देशित करते की Zn हे Cu पेक्षा अधिक अभिक्रियाशील आहे, आणि ते CuSO4 द्रावणातून Cu ला विस्थापित करते आणि एक रंगहीन ZnSO4  द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_six">
+	 	<TEXTVALUE>अॅल्युमिनियम सल्फेट द्रावणाच्या बाबतीत कुठलाही बदल दिसत नाही. Zn हे Al पेक्षा कमी अभिक्रियाशील आहे आणि ते Al2(SO4)3 मधून Al ला विस्थापित करू शकत नाही. </TEXTVALUE>
+	</TEXT>
+	
+			<TEXT ID="Zinc_S1_seven">
+	 	<TEXTVALUE>FeSO4 द्रावणाच्या बाबतीत फेरस सल्फेट चा हिरवा रंग अदृश्य होतो आणि लोहाचे कण चंचुपात्राच्या बुडाला बसतात.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_seven1">
+	 	<TEXTVALUE>हे निर्देशित करते की Zn हे Fe पेक्षा अधिक अभिक्रियाशील आहे, आणि ते FeSO4 द्रावणातून Fe ला विस्थापित करते आणि एक रंगहीन ZnSO4  द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_10">
+	 	<TEXTVALUE>कॉपर सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_11">
+	 	<TEXTVALUE>अॅल्युमिनियम सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_12">
+	 	<TEXTVALUE>फेरस सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_13">
+	 	<TEXTVALUE>झिंक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_14">
+	 	<TEXTVALUE>1 तास</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_15">
+	 	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<SCENE ID="Copper_S2 ">
+	<TEXT ID="Copper_S2_one">
+	 	<TEXTVALUE>झिंक सल्फेट, अॅल्युमिनियम सल्फेट आणि फेरस सल्फेट ह्यांचे २० मिली द्रावण तीन वेगळ्या चंचुपात्रांमध्ये घ्या आणि थोडे तांब्याचे तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_two">
+	 	<TEXTVALUE>फेरस सल्फेट, अॅल्युमिनियम सल्फेट आणि झिंक सल्फेट द्रावण असलेल्या चंचुपात्रात प्रत्येकी दोन तांब्याचे तुकडे फोर्सेप वापरून टाका.</TEXTVALUE>
+	</TEXT>
+
+	
+	
+
+	<TEXT ID="Copper_S2_three">
+	 	<TEXTVALUE>१ तास चंचुपात्र तसेच राहू द्या. आणि मग द्रावणाचा रंग आणि धातू कसे दिसते ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_four">
+	 	<TEXTVALUE>तीनही क्षार द्रावणात आणि धातूच्या तुकड्यांमध्ये काहीही बदल होत नाही.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Copper_S2_four1">
+	 	<TEXTVALUE>ही अभिक्रिया दाखविते की Cu हे Al, Zn आणि Fe पेक्षा कमी अभिक्रियाशील आहे आणि म्हणून Cu तीनही धातुंना त्यांच्या क्षार द्रावणातून विस्थापित करू शकत नाही. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_16">
+	 	<TEXTVALUE>झिंक सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_17">
+	 	<TEXTVALUE>तांबे</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+<SCENE ID="Aluminium_S3">
+	<TEXT ID="Aluminium_S3_one">
+	 	<TEXTVALUE>कॉपर सल्फेट, झिंक सल्फेट आणि फेरस सल्फेट ह्यांचे २० मिली द्रावण तीन वेगळ्या चंचुपात्रांमध्ये घ्या आणि थोडे अॅल्युमिनियम तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_two">
+	 	<TEXTVALUE>फेरस सल्फेट, कॉपर सल्फेट आणि झिंक सल्फेट द्रावण असलेल्या चंचुपात्रात प्रत्येकी दोन अॅल्युमिनियम तुकडे फोर्सेप वापरून टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_three">
+	 	<TEXTVALUE>१ तास चंचुपात्र तसेच राहू द्या. आणि मग द्रावणाचा रंग आणि धातू कसे दिसते ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Aluminium_S3_four">
+	 	<TEXTVALUE>CuSO4 द्रावणाच्या बाबतीत, CuSO4 चा निळा रंग अदृश्य होतो आणि तांब्याचे लाल-तपकिरी कण चंचुपात्राच्या बुडाला बसतात.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_four1">
+	 	<TEXTVALUE>हे निर्देशित करते की Al हे Cu पेक्षा अधिक अभिक्रियाशील आहे, आणि ते CuSO4 द्रावणातून Cu ला विस्थापित करते आणि एक रंगहीन Al2(SO4)3  द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Aluminium_S3_five">
+	 	<TEXTVALUE>झिंक सल्फेट द्रावणाच्या बाबतीत द्रावण रंगहीनच राहते आणि Zn चे कण चंचुपात्राच्या बुडाला बसतात</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_five1">
+	 	<TEXTVALUE>हे निर्देशित करते की Al हे Zn पेक्षा अधिक अभिक्रियाशील आहे, आणि ते ZnSO4 द्रावणातून Zn ला विस्थापित करते आणि एक रंगहीन Al2(SO4)3  द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="Aluminium_S3_six">
+	 	<TEXTVALUE>FeSO4 द्रावणाच्या बाबतीत फेरस सल्फेट चा हिरवा रंग अदृश्य होतो आणि लोहाचे कण चंचुपात्राच्या बुडाला बसतात.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_six1">
+	 	<TEXTVALUE>हे निर्देशित करते की Al हे Fe पेक्षा अधिक अभिक्रियाशील आहे, आणि ते FeSO4 द्रावणातून Fe ला विस्थापित करते आणि एक रंगहीन Al2(SO4)3  द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Aluminium_S3_string_18">
+	 	<TEXTVALUE>अॅल्युमिनियम</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Iron_S4">
+	<TEXT ID="Iron_S4_one">
+	 	<TEXTVALUE>कॉपर सल्फेट, झिंक सल्फेट आणि अॅल्युमिनियम सल्फेट ह्यांचे २० मिली द्रावण तीन वेगळ्या चंचुपात्रांमध्ये घ्या आणि थोडे लोह धातूचे तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+<TEXT ID="Iron_S4_two">
+	 	<TEXTVALUE>अॅल्युमिनियम सल्फेट, कॉपर सल्फेट आणि झिंक सल्फेट द्रावण असलेल्या चंचुपात्रात प्रत्येकी दोन अॅल्युमिनियम तुकडे फोर्सेप वापरून टाका.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Iron_S4_three">
+	 	<TEXTVALUE>CuSO4 द्रावणाच्या बाबतीत, CuSO4 चा रंग फिकट हिरवा होतो आणि तांब्याचे लाल-तपकिरी कण चंचुपात्राच्या बुडाला बसतात.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_three1">
+	 	<TEXTVALUE>हे निर्देशित करते की Fe हे Cu पेक्षा अधिक अभिक्रियाशील आहे, आणि ते CuSO4 द्रावणातून Cu ला विस्थापित करते आणि एक हलके हिरव्या रंगाचे FeSO4 द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_four">
+	 	<TEXTVALUE>दुसर्‍या दोन बाबतीत, काहीही बदल होत नाही. हे निर्देशित करते की Fe हे Al आणि Zn या दोन धातूंपेक्षा कमी अभिक्रियाशील आहे, आणि त्यांच्या क्षार द्रावणातून त्या धातूंना विस्थापित करू शकत नाही.</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="Iron_S4_string_19">
+	 	<TEXTVALUE>लोह</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+	
+
+
+<SCENE ID="MetalFinal">
+	<TEXT ID="MetalFinal_one">
+	 	<TEXTVALUE>या अभिक्रियांमधून आपण निष्कर्ष काढू शकतो की त्याच्या क्षार द्रावणातून Fe हे Cuला विस्थापित करते, Zn हे Cu आणि Fe ला विस्थापित करते, Al हे Zn ला विस्थापित करते.  म्हणून Al हे सर्वाधिक अभिक्रियाशील आहे आहे, आणि Cu हे सर्वात कमी अभिक्रियाशील.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MetalFinal_string_20">
+	 	<TEXTVALUE>दिलेल्या धातूंच्या अभिक्रियाशीलतेचा क्रम</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_21">
+	 	<TEXTVALUE>सर्वाधिक अभिक्रियाशील </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_22">
+	 	<TEXTVALUE>सर्वात कमी अभिक्रियाशील</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_23">
+	 	<TEXTVALUE> उतरत्या क्रमात अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

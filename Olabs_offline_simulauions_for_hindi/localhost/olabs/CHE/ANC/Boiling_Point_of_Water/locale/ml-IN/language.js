@@ -1,0 +1,26 @@
+$.i18n.ml = {};
+ jQuery.i18n.ml.strings ={
+	"Drag the spatula towards the test tube<br>to drop the pumice stones into it.": "സ്പാറ്റുല ടെസ്റ്റൃൂബിന് നേരെ നീക്കി<br>അതിലേക്ക് പൃൂമൈസ് കല്ലുകൾ ഇടുക.",
+	"Drag the cork over the test tube to close it.": "ടെസ്റ്റൃൂബിന് മുകളിലേക്ക് കോർക്ക്<br>നീക്കിയിട്ട് അടയ്ക്കുക.",
+	"Drag the thermometer towards the test tube<br>to place it in it.": "തെർമോമീറ്ററിന് നേരെ ടെസ്റ്റൃൂബ് നീക്കി അവിടെ<br>വെയ്ക്കുക.",
+	"Drag the delivery tube towards the test tube<br>to place it in it.": "നിർഗമനകുഴൽ നീക്കി<br>ടെസ്റ്റൃൂബിന് നേരെ വെയ്ക്കുക.",
+	"Click on the knob of the burner<br>to turn it ON or OFF.": "ബർണറിൻ്റെ നോബിൽ ക്ലിക്ക് ചെയ്തിട്ട് തിരിക്കുക,<br>ശേഷം On അല്ലെങ്കിൽ Off ആക്കുകയോ ചെയ്യുക.",
+	"In presence of impurities ": "മാലിനൃങ്ങളുടെ സാന്നിദ്ധൃത്തിൽ ",
+	"At different pressures": "വൃതൃസ്തമായ മർദ്ദങ്ങളിൽ ",
+	"Pure water": "ശുദ്ധജലം",
+	"Water + 50g NaCl": "ജലം+50g NaCl",
+	"Water + 200g sugar": "ജലം+200g പഞ്ചസാര",
+	"Water + 90g KCl": "ജലം+90g KCl",
+	"Select the impure sample:": "കലർപ്പുള്ള സാമ്പിൾ തിരഞ്ഞെടുക്കുക.",
+	"Select the pressure:": "മർദ്ദം തിരഞ്ഞെടുക്കുക.",
+	"Boiling point of water:": "ജലത്തിൻ്റെ  തിളനില.",
+	"Show zoom": "വലുതാക്കി പ്രദർശിപ്പിക്കുക.",
+	"Temperature:&nbsp;": "താപനില:&nbsp;",
+	"Reset": "പുനഃക്രമീകരണം",
+	"Pumice Stones": "മിനുക്ക് കല്ല്",
+	"Determination of Boiling Point of Water": "ജലത്തിൻ്റെ തിളനില നിർണയിക്കുക",
+	"HELP": "സഹായം",
+	"FULLSCREEN": "ഫുൾസ്ക്രീൻ",
+	"EXIT": "പുറത്ത്",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "അമൃതാ സർവ്വകലാശാലയും CDAC മുംബെയും' സംയുക്തമായി വികസിപ്പിച്ചെടുത്തത്<br>IT വിഭാഗത്തിൻ്റെ സാമ്പത്തിക സഹായത്തിലുള്ളത്."
+}

@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ama\n"
+"POT-Creation-Date: 2015-09-08 10:43+0530\n"
+"PO-Revision-Date: 2015-10-01 09:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:70
+msgid "Separation of Components of a Mixture"
+msgstr "एक मिश्रण के घटकों का पृथक्करण"
+
+#: ../js/simcontrols.js:71
+msgid "HELP"
+msgstr "HELP"
+
+#: ../js/simcontrols.js:72
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: ../js/simcontrols.js:73
+msgid "EXIT"
+msgstr "EXIT"
+
+#: ../js/simcontrols.js:74
+msgid "Developed by CDAC Mumbai"
+msgstr "Developed by CDAC Mumbai"
+
+#: ../js/simcontrols.js:75
+msgid "Next"
+msgstr "अगला"
+
+#: ../js/simcontrols.js:75
+msgid "Water"
+msgstr "पानी"
+
+#: ../js/simcontrols.js:75
+msgid "Sugar"
+msgstr "चीनी"
+
+#: ../js/simcontrols.js:75
+msgid "Salt"
+msgstr "नमक"
+
+#: ../js/simcontrols.js:75
+msgid "Naphthalene"
+msgstr "नेफ़थलीन"
+
+#: ../js/simcontrols.js:75
+msgid "Anthracene"
+msgstr "एंथ्रासीन"
+
+#: ../js/simcontrols.js:75
+msgid "Camphor"
+msgstr "कपूर"
+
+#: ../js/simcontrols.js:75
+msgid "Soil"
+msgstr "मिट्टी"
+
+#: ../js/simcontrols.js:75
+msgid "Sand"
+msgstr "रेत"
+
+#: ../js/simcontrols.js:75
+msgid "Select the mixture:"
+msgstr "मिश्रण का चयन करें:"
+
+#: ../js/simcontrols.js:75
+msgid "Ammonium Chloride"
+msgstr "अमोनियम क्लोराइड"
+
+#: ../js/simcontrols.js:76
+msgid "To separate naphthalene from the mixture"
+msgstr "मिश्रण से नेफ़थलीन अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate camphor from the mixture"
+msgstr "मिश्रण से कपूर अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate anthracene from the mixture"
+msgstr "मिश्रण से एंथ्रासीन अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate ammonium chloride from the mixture"
+msgstr "मिश्रण से अमोनियम क्लोराइड अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate sand from the mixture"
+msgstr "मिश्रण से रेत अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate soil from the mixture"
+msgstr "मिश्रण से मिट्टी अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate salt from the mixture"
+msgstr "मिश्रण से नमक अलग करने के लिए"
+
+#: ../js/simcontrols.js:76
+msgid "To separate sugar from the mixture"
+msgstr "मिश्रण से चीनी अलग करने के लिए"
+
+#: ../js/simcontrols.js:87
+msgid "Drag the china dish and place it over the burner"
+msgstr "चीन रकाबी खींचें और बर्नर के ऊपर रखे।"
+
+#: ../js/simcontrols.js:87
+msgid "Drag the funnel and place it over the china dish to collect the compound."
+msgstr "कीप खींचें और यौगिक इकट्ठा करने के लिए चीन रकाबी के ऊपर रखे।"
+
+#: ../js/simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the watch glass to "
+"place the compound in it"
+msgstr ""
+"यौगिक इकट्ठा करने के लिए स्पैचुला को कीप तक खींचे और यौगिक को वाच ग्लास में डालने के लिए उसे वहाँ तक खींचे"
+
+#: ../js/simcontrols.js:87
+msgid ""
+"To transfer the mixture into the beaker containing water, drag the china dish over it."
+msgstr "बीकर युक्त पानी में मिश्रण को डालने के लिए, इस पर चीन रकाबी खींचें।"
+
+#: ../js/simcontrols.js:87
+msgid "Click on the glass  rod to stir the solution."
+msgstr "विलयन हिलाने के लिए गिलास छड़ी पर क्लिक करें।"
+
+#: ../js/simcontrols.js:87
+msgid "Drag the beaker over the funnel to collect the residue in the filter paper."
+msgstr "फिल्टर पेपर में अवशेषों को इकट्ठा करने के लिए कीप के ऊपर बीकर खींचें।"
+
+#: ../js/simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the watch glass to "
+"place the compound in it."
+msgstr ""
+"यौगिक इकट्ठा करने के लिए स्पैचुला को कीप तक खींचे और यौगिक को वाच ग्लास में डालने के लिए उसे वहाँ तक खींचे"
+
+#: ../js/simcontrols.js:87
+msgid ""
+"To pour the filtrate from the beaker to the china dish, drag  the beaker over the china "
+"dish"
+msgstr "बीकर से चीन रकाबी में निस्पंद डालने के लिए चीन रकाबी पर बीकर खींचें।"
+
+#: ../js/simcontrols.js:87
+msgid ""
+"Drag the spatula over the china dish to collect the compound and drag it to the watch "
+"glass to place the compound in it."
+msgstr ""
+"यौगिक इकट्ठा करने के लिए स्पैचुला को चीन रकाबी तक खींचे और यौगिक को वाच ग्लास में डालने के लिए उसे वहाँ "
+"तक खींचे "
+
+#: ../js/simcontrols.js:88
+msgid "Naphthalene is separated by the process of sublimation."
+msgstr "नेफ़थलीन उर्ध्वपतन  की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Anthracene is separated by the process of sublimation."
+msgstr "एंथ्रासीन उर्ध्वपतन  की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Camphor is separated by the process of sublimation."
+msgstr "कपूर उर्ध्वपतन  की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Ammonium Chloride is separated by the process of sublimation."
+msgstr "अमोनियम क्लोराइड उर्ध्वपतन  की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Sand is separated by the process of filtration."
+msgstr "रेत निस्पंदन की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Soil is separated by the process of filtration."
+msgstr "मिट्टी निस्पंदन की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Salt is separated by the process of evaporation."
+msgstr "नमक वाष्पीकरण की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Sugar is separated by the process of evaporation."
+msgstr "चीनी वाष्पीकरण की प्रक्रिया से अलग किया जाता है।"
+
+#: ../js/simcontrols.js:88
+msgid "Carefully heat sugar solution"
+msgstr "चीनी विलयन को ध्यान से गर्म करे"
+
+#: ../js/simcontrols.js:92
+msgid "Start Sublimation"
+msgstr "निस्पंदन शुरू करे|"
+
+#: ../js/simcontrols.js:92
+msgid "Start Filtration"
+msgstr "शुरू करे उर्ध्वपतन"
+
+#: ../js/simcontrols.js:92
+msgid "Start Evaporation"
+msgstr "वाष्पीकरण शुरू करे|"
+
+#: ../js/simcontrols.js:92
+msgid "Reset"
+msgstr "रीसेट"

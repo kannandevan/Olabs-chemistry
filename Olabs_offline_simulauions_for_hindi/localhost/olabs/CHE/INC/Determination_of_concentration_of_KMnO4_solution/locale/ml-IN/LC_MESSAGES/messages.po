@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: g\n"
+"POT-Creation-Date: 2013-10-01 09:47+0530\n"
+"PO-Revision-Date: 2016-06-03 15:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: g <g>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:4
+msgid "Determination of Concentration/Molarity of KMnO<sub>4</sub> solution"
+msgstr "KMnO<sub>4</sub> ലായനിയുടെ സംയോജനം/മൊളാരിറ്റിയുടെ നിര്ണ്ണയയം"
+
+#: simcontrols.js:5
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:6
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:7
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:8
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:9
+msgid "Drops rate:"
+msgstr "ഡ്രോപ്സ് റേറ്റ്:"
+
+#: simcontrols.js:9
+msgid "Titrate:"
+msgstr "അനുമാപനം:"
+
+#: simcontrols.js:9
+msgid "Molarity of titrate, M1: "
+msgstr "അനുമാപനത്തിന്റെ മൊളാരിറ്റി, M1:"
+
+#: simcontrols.js:9
+msgid "Volume of titrate, V1:"
+msgstr "അനുമാപനത്തിന്റെ വോളിയം, V1:"
+
+#: simcontrols.js:9
+msgid "Result"
+msgstr "ഫലം "
+
+#: simcontrols.js:9
+msgid "Molarity of titrant, a "
+msgstr "അനുമാപനത്തിന്റെ മൊളാരിറ്റി, a"
+
+#: simcontrols.js:9
+msgid "No of moles of titrant, n2"
+msgstr "അനുമാപനത്തിന്റെ തന്മാത്രകളുടെ എണ്ണം, n2"
+
+#: simcontrols.js:9
+msgid "No of moles of titrate, n1"
+msgstr "അനുമാപനത്തിന്റെ തന്മാത്രകളുടെ എണ്ണം, n1"
+
+#: simcontrols.js:9
+msgid "Molar mass of titrant, b"
+msgstr "അനുമാപനത്തിന്റെ തന്മാത്രാ പിണ്ഡം, b"
+
+#: simcontrols.js:9
+msgid "Strength of given titrant, [a xb]"
+msgstr "തന്നിരിക്കുന്ന അനുമാപനത്തിന്റെ ദൃഢത, [a xb]"
+
+#: simcontrols.js:9
+msgid "Show volume of titrant, V2"
+msgstr "അനുമാപനത്തിന്റെ വോളിയം കാണിക്കുക, V2"
+
+#: simcontrols.js:9
+msgid "Temperature: "
+msgstr "താപനില:"
+
+#: simcontrols.js:10
+msgid "Mohr<sup>&#39;</sup>s salt"
+msgstr "മോഹ്ർ സാൾട്ട്"
+
+#: simcontrols.js:10
+msgid "Oxalic acid"
+msgstr "ഓക്സാലിക് ആസിഡ്"
+
+#: simcontrols.js:11
+msgid "Start"
+msgstr "ആരംഭിക്കുക"
+
+#: simcontrols.js:11
+msgid "Stop"
+msgstr "നിർത്തുക"
+
+#: simcontrols.js:12
+msgid "Correct."
+msgstr "ശരി "
+
+#: simcontrols.js:12
+msgid "Wrong! Try Again"
+msgstr "തെറ്റ്! വീണ്ടും ശ്രമിക്കുക"
+
+#: simcontrols.js:13
+msgid "Burette"
+msgstr "ബ്യൂറെറ്റ്"
+
+#: simcontrols.js:13
+msgid "Titration flask"
+msgstr "അനുമാപന ഫ്ലാസ്ക്"
+
+#: simcontrols.js:13
+msgid "Clamp stand"
+msgstr "ക്ലാംപ് സ്റ്റാൻഡ്"
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or start button to start the titration."
+msgstr "അനുമാപനം ആരംഭിക്കാൻ നോസിലില്‍ അല്ലെങ്കിൽ ആരംഭ ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or stop button to stop the titration."
+msgstr "അനുമാപനം അവസാനിപ്പിക്കാന്‍ നോസിലില്‍ അല്ലെങ്കിൽ 'നിർത്തുക' ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക. "
+
+#: simcontrols.js:13
+msgid "Click on the reset button to reset the titration."
+msgstr "അനുമാപനം പുനഃക്രമീകരിക്കാൻ റീസെറ്റ് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:13
+msgid "Burner"
+msgstr "ബർണര്‍"
+
+#: simcontrols.js:14
+msgid "Reset"
+msgstr "റീസെറ്റ്"
+
+#: simcontrols.js:15
+msgid "Select the titrate."
+msgstr "അനുമാപനം തിരഞ്ഞെടുക്കുക."
+
+#: simcontrols.js:15
+msgid "Increase/decrease the drops rate."
+msgstr "ഡ്രോപ്സ് റേറ്റ് വർദ്ധിപ്പിക്കുക/കുറയ്ക്കുക."
+
+#: simcontrols.js:15
+msgid "Change the molarity of the titrate."
+msgstr "അനുമാപനത്തിന്റെ മൊളാരിറ്റി മാറ്റുക."
+
+#: simcontrols.js:15
+msgid "Change the volume of the titrate."
+msgstr "അനുമാപനത്തിന്റെ വോളിയം മാറ്റുക."
+
+#: simcontrols.js:15
+msgid "Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask containing </br> Mohr<sup>&#39;</sup>s salt."
+msgstr "ടെസ്റ്റ് ട്യൂബ് ഡ്രാഗ് ചെയ്ത് </br> മോഹര്‍ സാൾട്ട്  അടങ്ങിയ </br> കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് സൾഫ്യൂറിക്ക് ആസിഡ് ഒഴിക്കുക."
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it below the burette."
+msgstr "കോണിക്കല്‍ ഫ്ലാസ്ക് ഡ്രാഗ് ചെയ്ത് <br>അതിനെ ബ്യൂറെറ്റിന് താഴെ വയ്ക്കുക."
+
+#: simcontrols.js:15
+msgid "Click on the nozzle or  </br> start button to start the titration."
+msgstr "അനുമാപനം ആരംഭിക്കാൻ നോസിലില്‍ അല്ലെങ്കിൽ ആരംഭ ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:15
+msgid "Click on the checkbox to show volume of titrant."
+msgstr "അനുമാപനത്തിന്റെ വോളിയം കാണിക്കുവാന്‍ ചെക്ക്ബോക്സില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it above the burner."
+msgstr "ചൂടാക്കുന്നത് ആരംഭിക്കുവാന്‍<br>ബർണര്‍ നോബില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:15
+msgid "Click on the burner <br> knob to start heating."
+msgstr "ചൂടാക്കുന്നത് ആരംഭിക്കുവാന്‍<br>ബർണര്‍ നോബില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:15
+msgid "Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask containing </br> Oxalic acid."
+msgstr "ടെസ്റ്റ് ട്യൂബ് ഡ്രാഗ് ചെയ്ത് </br> ഓക്സാലിക് ആസിഡ് അടങ്ങിയ </br> കോണിക്കല്‍ ഫ്ലാസ്കിലേക്ക് സൾഫ്യൂറിക്ക് ആസിഡ് ഒഴിക്കുക."

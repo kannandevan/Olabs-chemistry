@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="singleDisplacement.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BACK">
+        <source>Zoom Out</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_INS1">
+        <source>1. Click on the iron nail to immerse it in one of the test tubes.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INS2">
+        <source>2. Click on the thread to remove the iron nail from the test tube and compare it with the other iron nail.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INS3">
+        <source>3.To see the zoomed in view of the test tubes or nails, click on them.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INSTRUCT">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MSG2">
+        <source>Click on the icon to see the inference</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MSG3">
+        <source>Click on the iron nail to immerse it in the test tubes.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MSG4">
+        <source>Click on the thread to remove the iron nail.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MSG5">
+        <source>This indicates that Fe is more reactive than Cu as Fe2+ ions have displaced Cu2+ ions from CuSO4 solution.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_MSG6">
+        <source>A brown coating of copper on the iron nail. </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_MSG7">
+        <source>The colour of the solution changes to green indicating the presence of Fe2+ ion. </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1">
+        <source>Burning of Magnesium Ribbon</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2">
+        <source>Sodium sulphate with Barium Chloride</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S3">
+        <source>Iiron nail with Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S4">
+        <source>Zinc with dil.H2SO4</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S5">
+        <source>Heating of Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_SELECT">
+        <source>Select Reaction</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_START">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ZOOM">
+        <source>Zoom In</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

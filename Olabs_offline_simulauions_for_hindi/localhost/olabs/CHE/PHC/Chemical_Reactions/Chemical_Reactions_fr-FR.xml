@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+
+<!--burning magnesium-->
+
+<!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+
+<SCENE ID="Magnesiumribbonmgns">
+	<TEXT ID="Magnesiumribbonmgns_one">
+		<TEXTVALUE>Nous aurons besoin d'un petit morceau de ruban de magnésium, du papier de verre, de pinces, de verre de montre, de papier de tournesol rouge, de bec Bunsen, etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandpapermgns">
+	<TEXT ID="sandpapermgns_one">
+		<TEXTVALUE>Prendre le ruban de magnésium et le frotter avec du papier de verre, de sorte qu'il semble blanc argenté.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="burningmgns">
+	<TEXT ID="burningmgns_one">
+		<TEXTVALUE>Maintenir le ruban de magnésium en utilisant une paire de pinces et allumer le ruban de magnésium.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="burningmgns_two">
+		<TEXTVALUE>Il brûle avec brio et une cendre blanche est laissée derrière.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="burningmgns_three">
+		<TEXTVALUE>Recueillir les cendres du ruban brûlé dans un verre de montre et l'étiqueter comme l'oxyde de magnésium. Le magnésium brûle dans l'air pour former de l'oxyde de magnésium (MgO)..</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+	<SCENE ID="Finallitmusmgns">
+	<TEXT ID="Finallitmusmgns_one">
+		<TEXTVALUE>Prendre une petite quantité d'oxyde de magnésium à l'aide d'une spatule.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Finallitmusmgns_two">
+		<TEXTVALUE>Placer cette quantité sur un papier de tournesol rouge humide qui est placé sur un carreau blanc.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Finallitmusmgns_three">
+		<TEXTVALUE>Le papier de tournesol rouge devient bleu, indiquant MgO est de nature basique.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+		
+<!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+	
+		
+		
+		
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>Nous aurons besoin du sulfate de sodium, le chlorure de baryum, de HCl dilué, d’un bécher, d’un flacon conique, de tubes à essai, etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE>Prendre un tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>Prendre une petite quantité de chlorure de baryum dans un tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>Transférer dans une fiole conique.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>Prendre un autre tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>Prendre une petite quantité de sulfate de sodium.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>Transférer dans la fiole conique contenant une solution de chlorure de baryum.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_two">
+		<TEXTVALUE>Un précipité blanc de sulfate de baryum est formé immédiatement. Ceci confirme la présence de sulfate (SO [sub]4[/sub][sup]2-[/sup]) ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>Agiter le contenu de la fiole et le garder au repos pendant un certain temps.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>Le précipité de sulfate de baryum se dépose au fond du ballon.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>Décanter la solution supérieure de la fiole dans un bécher.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>Puis ajouter une petite quantité de HCl dilué dans la fiole conique contenant le précipité.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>Puis ajouter une petite quantité HCl dilué dans la fiole conique contenant le précipité.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>Agiter bien le flacon.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>Le précipité blanc est insoluble dans le HCl dilué.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>Dans cette réaction chimique, des ions sulfate sont déplacés par des ions chlorure et des ions chlorure sont déplacés par des ions sulfate.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+
+
+
+<!--Type_Of_Reaction_iron_nail_with_copper_new-->
+
+
+
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>Nous aurons besoin de sulfate de cuivre, des clous de fer, de l'eau distillée, un bécher, pot de mesure, tubes à essai, deux supports avec pince, un morceau de fil et une tige de verre.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>Prendre une quantité suffisante d'eau distillée dans un bocal de mesure et la verser dans un bécher propre.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE>Pour cela ajouter une quantité requise de sulfate de cuivre.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>Agiter le contenu du bécher à l'aide d'une baguette de verre jusqu'à ce que les cristaux de sulfate de cuivre dans le bécher soient dissouts complètement.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>Verser une quantité suffisante de solution de sulfate de cuivre dans un tube à essai.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>Fixer le tube à essai à un support.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>Verser ensuite une quantité suffisante de sulfate de cuivre dans un autre tube à essai.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>Fixer ce tube à essai à un autre support.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>Prendre deux clous de fer.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>Nettoyer les clous en les frottant avec du papier de verre pour que leur couleur grisâtre apparaisse.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>Attacher un clou avec un fil.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>Immerger le dans l'un des tubes à essai contenant une solution de sulfate de cuivre.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>Garder les deux tubes à essai au repos pendant environ 15 minutes.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>Après 15 minutes, la couleur de la solution de sulfate de cuivre contenant le clou de fer change de couleur en une couleur vert-clair tandis que la couleur de la solution dans l'autre tube à essai ne change pas.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>La couleur verdâtre de la solution est due à la présence de Fe[sup]2 +[/sup] ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>Retirer le clou de fer de la solution.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>Comparer avec l'autre clou.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>Le revêtement brun sur le clou en fer montre que le cuivre est déposé sur le clou en fer en déplaçant le fer.
+</TEXTVALUE>
+		</TEXT>
+			<TEXT ID="lastnail_four">
+		<TEXTVALUE>Il s'agit d'une réaction de déplacement unique, dans lequel le cuivre a été déplacé par le fer de la solution de sulfate de cuivre et un nouveau composé, le sulfate ferreux, est formé. Ainsi, cette réaction est une modification chimique.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+			
+	
+
+
+<!--Zinc_with_dilute_Sulphuric Acid_new-->
+
+
+
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+		<TEXTVALUE>Nous avons besoin de granules de zinc, de l'acide sulfurique dilué, de NaOH, de tubes à essai, d’un flacon conique, de l'appareil de Kipp, de liège, d'un tube de verre, etc.
+		</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+	<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_one">
+		<TEXTVALUE>"Avec une spatule, prendre quelques granules de zinc et les transférer dans la fiole conique contenant l’acide sulfurique dilué. Les bulles de gaz se dégagent de l'hydrogène comme les granules de zinc réagissent avec l'acide sulfurique dilué."</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_two">
+		<TEXTVALUE>Les bulles de gaz se dégagent de l'hydrogène comme les granules de zinc réagissent avec l'acide sulfurique dilué."
+		</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_three">
+		<TEXTVALUE>Placer un papier de tournesol rouge humide sur l’ouverture du flacon conique. Il n’y a pas de changement dans la couleur du papier de tournesol rouge.
+		</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_four">
+		<TEXTVALUE>Placer un papier de tournesol bleu humide sur l’ouverture du flacon conique. Il n’y a pas de changement dans la couleur du papier de tournesol bleu. Ceci indique que l'hydrogène gazeux n'est ni acide ni basique.</TEXTVALUE>
+	</TEXT>
+	</SCENE>	
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_five">
+		<TEXTVALUE>Maintenant boucher le flacon conique avec un bouchon de liège perforé.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_six">
+		<TEXTVALUE>Introduire un tube à jet à travers le trou dans le bouchon.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_seven">
+		<TEXTVALUE>Porter une bougie allumée à proximité de l'embouchure du tube fin à jet.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="ZincLitmuspaperCandle">
+	<TEXT ID="ZincLitmuspaperCandle_eight">
+		<TEXTVALUE>En portant la flamme, le gaz sortant des brûlures, tube à jet brûle instantanément avec une petite explosion, produit un bruit d'éclatement, puis chute.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="NaOH">
+	<TEXT ID="NaOH_one">
+		<TEXTVALUE>Maintenant, verser environ 2 ml de la solution de sulfate de zinc à partir de la fiole conique dans un tube à essai propre.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="NaOH">
+	<TEXT ID="NaOH_two">
+		<TEXTVALUE>Ensuite, ajouter quelques gouttes d'une solution de NaOH pour le tube à essai.</TEXTVALUE>
+		</TEXT>
+	</SCENE>	
+<SCENE ID="NaOH">
+	<TEXT ID="NaOH_two">
+		<TEXTVALUE>Un précipité blanc gélatineux est formé. Secouer bien le tube à essai. 
+		</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="NaOH">
+	<TEXT ID="NaOH_three">
+		<TEXTVALUE>Puis ajouter du NaOH en excès dans le tube à essai. Le précipité blanc est dissous lorsque le NaOH est ajouté en excès.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+	<SCENE ID="NaOH">
+	<TEXT ID="NaOH_four">
+		<TEXTVALUE> Le précipité formé est Zn (OH) [sub]2[/sub]. Ceci indique la présence de Zn [sup]2 + [/sup] ions en solution .</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="TestTubeRack">
+	<TEXT ID="TestTubeRack_one">
+		<TEXTVALUE>Placer le tube à essai dans un portoir de tubes à essai.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="KippsApparatus">
+	<TEXT ID="KippsApparatus_one">
+		<TEXTVALUE>Puis verser environ 2 ml de la solution de sulfate de zinc à partir de la fiole conique dans un autre tube à essai.</TEXTVALUE>
+		
+		</TEXT>
+	</SCENE>
+<SCENE ID="GasFromKipps">
+	<TEXT ID="GasFromKipps_one">
+		<TEXTVALUE>Passer le gaz de sulfure d'hydrogène à travers la solution dans le tube à essai en utilisant l'appareil de Kipp.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="ShakingTestTube">
+	<TEXT ID="ShakingTestTube_one">
+		<TEXTVALUE>Agiter le tube à essai. Un précipité blanc de sulfure de zinc est formé.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+<SCENE ID="Result">
+	<TEXT ID="Result_one">
+		<TEXTVALUE>A partir de cette réaction on peut en déduire que le zinc est plus réactif que l'hydrogène, alors il déplace l'hydrogène à partir des acides dilués et passe dans la solution sous forme Zn [sup] 2 + [/sup] ions.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!--Heating of copper sulphate-->
+
+
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+	
+	<SCENE ID="2table">
+	<TEXT ID="2table_one">
+		<TEXTVALUE>Nous avons besoin de cristaux de sulfate de cuivre hydratés, d'eau distillée, de tube à essai, de spatule, de support de tube à essai, tube d’ébullition, de bec Bunsen, etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+	
+		<SCENE ID="3takcop">
+	<TEXT ID="3takcop_one">
+		<TEXTVALUE>Maintenir le tube d’ébullition avec le support de tube à essai.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="3takcop_two">
+		<TEXTVALUE>Avec une spatule prendre une petite quantité de cristaux de sulfate de cuivre hydratés du verre de montre et la mettre dans le tube d'ébullition.</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	
+	<SCENE ID="4heat">
+	<TEXT ID="4heat_one">
+		<TEXTVALUE>Chauffer le tube d'ébullition sur la flamme du brûleur abord doucement puis fortement.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="4heat_two">
+		<TEXTVALUE>Lors du chauffage, les cristaux de sulfate de cuivre changent de couleur du bleu au blanc.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+	<SCENE ID="5drop">
+	<TEXT ID="5drop_one">
+		<TEXTVALUE>Des gouttelettes d'eau sont laissées sur les parois du tube d'ébullition.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5drop_two">
+		<TEXTVALUE>Le sulfate de cuivre hydraté contient de l'eau de cristallisation (CuSO [sub] 4 [/ sub] 0,5 H [sub] 2 [/ sub] O). </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="5drop_three">
+		<TEXTVALUE>Par chauffage, les cristaux de sulfate de cuivre perdent leurs molécules d'eau et forment du sulfate de cuivre anhydre (CuSO [ sub] 4 [/ sub ] ) de couleur blanche.</TEXTVALUE>
+	</TEXT>
+
+	</SCENE>
+
+
+	<SCENE ID="6rest">
+	<TEXT ID="6rest_one">
+		<TEXTVALUE>Retirer le tube d'ébullition de la flamme et laisser refroidir pendant un certain temps.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+	<SCENE ID="7dist">
+	<TEXT ID="7dist_one">
+		<TEXTVALUE>En utilisant un compte-gouttes, prendre une petite quantité d'eau distillée.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+	<SCENE ID="8drop">
+	<TEXT ID="8drop_one">
+		<TEXTVALUE>Ajouter 2 à 3 gouttes d'eau bouillante dans le tube contenant l'échantillon de sulfate de cuivre anhydre obtenu après chauffage.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="8drop_two">
+		<TEXTVALUE>Le sulfate de cuivre blanc devient bleu, indiquant que la couleur du sulfate de cuivre hydraté bleu est régénérée.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+		<TEXTVALUE>Ainsi, cette réaction est un changement chimique réversible.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+	
+		</DATA>
+
+	

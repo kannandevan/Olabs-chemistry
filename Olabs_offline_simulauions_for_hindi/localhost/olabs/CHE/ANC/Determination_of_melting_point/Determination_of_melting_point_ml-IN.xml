@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_zero">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>സ്റ്റാർട്ട്' ബട്ടനിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം ആരംഭിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="capillarytube">
+	<TEXT ID="capillarytube_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് - പൊടിച്ച നാഫ്തലൈൻ, ദ്രാവകരൂപത്തിലുള്ള പാരഫീൻ, ക്യാപ്പിലറീ ട്യൂബ്, പോറസ് പ്ലേറ്റ്, സ്പാറ്റുല, തെർമോമീറ്റർ, നൂല് ,ബീക്കർ, സ്റ്റിയറർ, ഘടിപ്പിച്ച അയൺസ്റ്റാമ്പ്, കമ്പിവല, ട്രൈപോഡ് സ്റ്റാൻഡ്, ബൺസൺബർണർ തുടങ്ങിയവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Seal">
+	<TEXT ID="Seal_one">
+		<TEXTVALUE>ഒരു ക്യാപ്പിലറീ  ട്യൂബ് എടുക്കുക, അതിന്റെ  ഒരറ്റം ബൺസൺബർണറിൽ വച്ച് ചൂടാക്കി അടയ്ക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="takesomepowderer">
+	<TEXT ID="takesomepowderer_one">
+		<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് പൊടിച്ച നാഫ്തലൈൻ എടുക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Addporous">
+	<TEXT ID="Addporous_one">
+		<TEXTVALUE>ഇത് ഒരു പോറസ് പ്ലേറ്റിൽ വയ്ക്കുക.പോറസ് പ്ലേറ്റിൽ നാഫ്തലൈൻ പൊടി ചെറുകൂമ്പാരമായി വയ്ക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube">
+	<TEXT ID="fillthetube_one">
+		<TEXTVALUE>ക്യാപ്പിലറീ ട്യുബിന്റെ  തുറന്ന ഭാഗം നാഫ്തലൈൻ പൊടിയിലേക്ക് തള്ളുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="zoom1">
+	<TEXT ID="zoom1_one">
+		<TEXTVALUE>കുറച്ച് നാഫ്തലൈൻ സാമ്പിൾ പൊടി ക്യാപ്പിലറീ ട്യുബിലേക്ക് കടത്തുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube23">
+	<TEXT ID="fillthetube23_one">
+		<TEXTVALUE>പോറസ് പ്ലേറ്റിൽ നിന്ന് ക്യാപ്പിലറീ ട്യുബിന്റെ  അടച്ചുവച്ച അറ്റത്ത് വരെ ഈ പൊടി മൃദുവായി തട്ടിക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="zoom16">
+	<TEXT ID="zoom16_one">
+		<TEXTVALUE>ക്യാപ്പിലറീ ട്യുബ്  2-3 mm നിറയ്ക്കുക, ഇതേ പ്രക്രിയ ആവർത്തിക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="fillthetube237">
+	<TEXT ID="fillthetube237_one">
+		<TEXTVALUE>ക്യാപ്പിലറീ ട്യുബ്   2-3 mm നിറയ്ക്കുക, ഇതേ പ്രക്രിയ ആവർത്തിക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>നൂല് ഉപയോഗിച്ച് ക്യാപ്പിലറീ ട്യുബ്   തെർമോമീറ്ററുമായി കെട്ടുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+		<TEXTVALUE>പാരഫീൻ ദ്രാവകം അടങ്ങിയ ദ്രാവകം ടെസ്ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>ബൺസൺബർണറിലെ കമ്പിവലയുടെ പുറത്ത് ഇത് വയ്ക്കുക,അതിന് ഉള്ളിലേക്ക് ഒരു സ്റ്റിയറർ കടത്തുക</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>കാപ്പിലറി  ട്യൂബ് വഹിച്ചുകൊണ്ട് തെർമോമീറ്റർ ഇരുമ്പ് സ്റ്റാൻഡിൽ ക്രമീകരിക്കുക. ക്രമീകരണം നിയന്ത്രിച് കൊണ്ട് കാപ്പിലറി  ട്യൂബ് വഹിച്ചുകൊണ്ടുള്ള  തെർമോമീറ്റർ ദ്രവ പരഫിനിൽ മുക്കുക</TEXTVALUE>
+   </TEXT>
+   
+  <TEXT ID="parafinburner_three">
+		<TEXTVALUE>നൂല് പാരഫീൻ ദ്രാവക ജാറിന് പുറത്താണ് എന്ന് ഉറപ്പ് വരുത്തുക.</TEXTVALUE>
+   </TEXT> 
+   
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>പാരഫീൻ ദ്രാവകജാർ സാവധാനം ചൂടാക്കുക, സ്റ്റിയറർ കൊണ്ട് ദ്രാവകം ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburner2_two">
+		<TEXTVALUE>സ്റ്റിയറർ കൊണ്ട് താഴേക്കും മുകളിലേക്കും ചലിപ്പിക്കുന്നതുകൊണ്ട് ആദ്യാവസാനം  വരെ ഏകീകരിച്ച താപനിലയായി നിലനിൽക്കുന്നു</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+<SCENE ID="line">
+	<TEXT ID="line_one">
+		<TEXTVALUE>കുറച്ച് സമയത്തിന് ശേഷം ക്യാപ്പിലറീ ട്യുബിലെ  നാഫ്തലൈൻ ഉരുകാൻ തുടങ്ങുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>നാഫ്തലൈൻ ഉരുകാൻ തുടങ്ങുമ്പോൾ താപനില [ t1 ]രേഖപ്പെടുത്തുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="line33">
+	<TEXT ID="line33_one">
+		<TEXTVALUE>കുറത്ത് സമയത്തിന് ശേഷം ടെസ്ട്യുബിലെ നാഫ്തലൈൻ പൂർണ്ണമായും ഉരുകുന്നു</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom55">
+	<TEXT ID="parafinburnerzoom55_one">
+		<TEXTVALUE>നാഫ്തലൈൻ പൂർണ്ണമായും ഉരുകുമ്പോൾ താപനില [ t2] രേഖപ്പെടുത്തുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_one">
+		<TEXTVALUE>[ t1 + t2 ]/2 എന്ന സൂത്രവാക്യം  ഉപയോഗിച്ച് നാഫ്തലൈന്റെ  ദ്രവണാങ്കം കണക്കാക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+	
+</DATA>

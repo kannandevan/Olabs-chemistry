@@ -1,0 +1,27 @@
+$.i18n.hi = {};
+ jQuery.i18n.hi.strings ={
+	"Select the test": "परीक्षण का चयन करें",
+	"Solubility </br>&nbsp;in water": " &nbsp; &nbsp;जल में  </br> घुलनशीलता",
+	"Odour": "&nbsp;&nbsp;गंध",
+	"Effect on </br> &nbsp;&nbsp;litmus": " लिटमस<br/> पर प्रभाव",
+	"&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>": "&nbsp; NaHCO<sub>3</sub> साथ <br /> &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbspरिएक्शन",
+	"Acetic acid": "एसिटिक अम्ल",
+	"Litmus paper": "लिट्मस पेपर",
+	"Water": "पानी",
+	"Reset": "रीसेट करें",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "आईटी विभाग से अनुसंधान अनुदान के तहत सीडैक <br> मुंबई और अमृता विश्वविद्यालय द्वारा विकसित",
+	"Properties of Acetic Acid (Ethanoic Acid)": "एसिटिक एसिड (एथानोइक एसिड) के गुणधर्म ",
+	"NaHCO<sub>3</sub> solution": "NaHCO<sub>3</sub> समाधान",
+	"Lime water": "चूने का पानी",
+	"Drag the test tube to pour acetic acid into<br/> the test tube containing water.": "पानी वाले टेस्ट ट्यूब <br/> में एसिटिक अम्‍ल (एसिड) डालने के लिए टेस्ट ट्यूब खींचें।",
+	"Click on the test tube to shake it.": "इसे हिलाने के लिए टेस्ट ट्यूब पर क्लिक करें।",
+	"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.": "ड्रॉपर खींचें और एसिटिक अम्ल (एसिड) में डुबोएं <br/>, तब विलयन (साल्यूशन) खींचें और <br/> लिटमस पेपर पर छोड़ दें  ।",
+	"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.": "एसिटिक अम्ल (एसिड) डालने के लिए थीस्ल कीप<br/> के ऊपर शंक्वाकार फ्लास्क  खींचें।",
+	"A homogeneous solution is formed.": "एक समांग विलयन बन जाता है।",
+	"A pungent smell is produced.": "एक तीखी गंध निकलती है।",
+	"Blue litmus turns red.": "नीला लिटमस लाल हो जाता है।",
+	"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.": "एसिटिक अम्‍ल (एसिड) सोडियम बाइकार्बोनेट <br/> के साथ अभिक्रिया करता है जिससे CO<sub>2</sub> गैस बनती है। यह चूने के पानी को दूधिया बना देता है।",
+	"HELP": "HELP",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT"
+}

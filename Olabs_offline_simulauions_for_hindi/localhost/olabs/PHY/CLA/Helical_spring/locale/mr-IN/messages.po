@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: j\n"
+"POT-Creation-Date: 2016-02-12 15:44+0530\n"
+"PO-Revision-Date: 2016-02-12 15:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: j <j>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:27
+msgid "Spring 1"
+msgstr "स्प्रिंग 1"
+
+#: simcontrols.js:27
+msgid "Spring 2"
+msgstr "स्प्रिंग 2"
+
+#: simcontrols.js:27
+msgid "Spring 3"
+msgstr "स्प्रिंग 3"
+
+#: simcontrols.js:28
+msgid "Earth (g=9.8 m/s&#178;)"
+msgstr "पृथ्वी (g=9.8 मी/से)"
+
+#: simcontrols.js:28
+msgid "Moon (g=1.6 m/s&#178;)"
+msgstr "चंद्र (g=1.6 मी/से)"
+
+#: simcontrols.js:28
+msgid "Uranus (g=8.69 m/s&#178;)"
+msgstr "युरेनस (g=8.69 मी/से)"
+
+#: simcontrols.js:28
+msgid "Saturn (g=11.17 m/s&#178;)"
+msgstr "शनी (g=11.17 मी/से)"
+
+#: simcontrols.js:28
+msgid "Jupiter (g=26 m/s&#178;)"
+msgstr "गुरु (g=26 मी/से)"
+
+#: simcontrols.js:29
+msgid "Select spring :"
+msgstr "स्प्रिंग निवडा:"
+
+#: simcontrols.js:30
+msgid "Choose environment :"
+msgstr "वातावरण निवडा:"
+
+#: simcontrols.js:31
+msgid "Change hanging mass :"
+msgstr "लटकते वस्तूमान बदला:"
+
+#: simcontrols.js:32
+msgid "Show result"
+msgstr "निकाल दाखवा"
+
+#: simcontrols.js:33
+msgid "Spring constant, K = "
+msgstr "स्प्रिंग स्थिरांक, K="
+
+#: simcontrols.js:34
+msgid "Helical Spring"
+msgstr "हेलिकल स्प्रिंग"
+
+#: simcontrols.js:41
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Earth g=9.8(m/s<sup>2</sup>)"
+#~ msgstr "Earth g=9.8(m/s<sup>2</sup>)"
+
+#~ msgid "Moon g=1.6(m/s<sup>2</sup>)"
+#~ msgstr "Moon g=1.6(m/s<sup>2</sup>)"
+
+#~ msgid "Earth"
+#~ msgstr "Earth"
+
+#~ msgid "Moon"
+#~ msgstr "Moon"
+
+#~ msgid "Uranus"
+#~ msgstr "Uranus"
+
+#~ msgid "Saturn"
+#~ msgstr "Saturn"
+
+#~ msgid "Jupiter"
+#~ msgstr "Jupiter"
+
+#~ msgid "T.S. of"
+#~ msgstr "T.S. of"
+
+#~ msgid "Slide adjustment:"
+#~ msgstr "Slide adjustment:"
+
+#~ msgid "Select objective lens:"
+#~ msgstr "Select objective lens:"
+
+#~ msgid "sunflower stem"
+#~ msgstr "sunflower stem"
+
+#~ msgid "sunflower root"
+#~ msgstr "sunflower root"
+
+#~ msgid "maize stem"
+#~ msgstr "maize stem"
+
+#~ msgid "maize root"
+#~ msgstr "maize root"
+
+#~ msgid "Click on the icon to select the sample."
+#~ msgstr "Click on the icon to select the sample."
+
+#~ msgid "Drag the slide towards<br/>  the stage of the microscope."
+#~ msgstr "Drag the slide towards<br/>  the stage of the microscope."
+
+#~ msgid "Click on the eye piece of the <br/> microscope to view the sample."
+#~ msgstr "Click on the eye piece of the <br/> microscope to view the sample."
+
+#~ msgid "Select power of the lens <br/> from the drop down list."
+#~ msgstr "Select power of the lens <br/> from the drop down list."
+
+#~ msgid "Characteristics of Dicot and Monocot Stem and Root"
+#~ msgstr "Characteristics of Dicot and Monocot Stem and Root"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "TS of"
+#~ msgstr "TS of"
+
+#~ msgid "Place the slide here."
+#~ msgstr "Place the slide here."
+
+#~ msgid "Click here to view the cell using microscope."
+#~ msgstr "Click here to view the cell using microscope."
+
+#~ msgid "Select the microscope zoom level."
+#~ msgstr "Select the microscope zoom level."
+
+#~ msgid "In petri dish: "
+#~ msgstr "In petri dish: "
+
+#~ msgid "Select the sugar concentration: "
+#~ msgstr "Select the sugar concentration: "
+
+#~ msgid "In potato: "
+#~ msgstr "In potato: "
+
+#~ msgid "Water concentration: "
+#~ msgstr "Water concentration: "
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "Cross sectional view"
+#~ msgstr "Cross sectional view"
+
+#~ msgid "2 Hours"
+#~ msgstr "2 Hours"
+
+#~ msgid "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a region of higher  concentration to a region of<br/> lower concentration through  a semipermeable membrane."
+#~ msgstr "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a region of higher  concentration to a region of<br/> lower concentration through  a semipermeable membrane."
+
+#~ msgid "There is no change in the water concentration."
+#~ msgstr "There is no change in the water concentration."
+
+#~ msgid "Osmosis"
+#~ msgstr "Osmosis"
+
+#~ msgid "Select the sugar concentration in the petri dish."
+#~ msgstr "Select the sugar concentration in the petri dish."
+
+#~ msgid "Select the sugar concentration in the potato."
+#~ msgstr "Select the sugar concentration in the potato."
+
+#~ msgid "Drag the first pin and place it at the <br/>initial level of water in the potato."
+#~ msgstr "Drag the first pin and place it at the <br/>initial level of water in the potato."
+
+#~ msgid "Drag the second pin and <br/>place it at the final level of water in the potato."
+#~ msgstr "Drag the second pin and <br/>place it at the final level of water in the potato."
+
+#~ msgid "During the process of osmosis water will move <br>from high water concentration to low water concentration."
+#~ msgstr "During the process of osmosis water will move <br>from high water concentration to low water concentration."
+
+#~ msgid "During the process of osmosis water will move<br> from low water concentration to high water concentration."
+#~ msgstr "During the process of osmosis water will move<br> from low water concentration to high water concentration."
+
+#, fuzzy
+#~ msgid "Monocot and Dicot Plants"
+#~ msgstr "Monocot and Dicot Plants"
+
+#~ msgid "Petals"
+#~ msgstr "Petals"
+
+#~ msgid "Pollens"
+#~ msgstr "Pollens"
+
+#, fuzzy
+#~ msgid "Seeds"
+#~ msgstr "Seeds"
+
+#, fuzzy
+#~ msgid "Roots"
+#~ msgstr "Roots"
+
+#, fuzzy
+#~ msgid "Leaves"
+#~ msgstr "Leaves"
+
+#~ msgid "Vascular bundles"
+#~ msgstr "Vascular bundles"
+
+#, fuzzy
+#~ msgid "Sepals"
+#~ msgstr "Sepals"
+
+#, fuzzy
+#~ msgid "Instruction"
+#~ msgstr "Instruction"
+
+#~ msgid "3 Sepals"
+#~ msgstr "3 Sepals"
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding  flower for  this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding  flower for  this plant from the left side pane."
+
+#~ msgid "Drag and place the corresponding pollen for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding pollen for this plant from the left side pane."
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding seed for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding seed for this plant from the left side pane."
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding root for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding root for this plant from the left side pane."
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding leaf for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding leaf for this plant from the left side pane."
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding stem vascular bundle for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding stem vascular bundle for this plant from the left side pane."
+
+#, fuzzy
+#~ msgid "Drag and place the corresponding sepal for this plant from the left side pane."
+#~ msgstr "Drag and place the corresponding sepal for this plant from the left side pane."
+
+#~ msgid "The petals in the flower of a dicot plant are in multiples of four or five. <br> The above plant has a tap root system and the venation is reticulate."
+#~ msgstr "The petals in the flower of a dicot plant are in multiples of four or five. <br> The above plant has a tap root system and the venation is reticulate."
+
+#~ msgid "Dicot plants have three pores in the pollen. The above plant has a tap <br> root system and the venation is reticulate. The flowers have four petals."
+#~ msgstr "Dicot plants have three pores in the pollen. The above plant has a tap <br> root system and the venation is reticulate. The flowers have four petals."
+
+#~ msgid "Dicot plants have two cotyledons in the seeds. <br>The above plant has a tap root system and the venation is reticulate."
+#~ msgstr "Dicot plants have two cotyledons in the seeds. <br>The above plant has a tap root system and the venation is reticulate."
+
+#~ msgid "Monocot plants have a fibrous root system. <br>The above plant has a parallel venation."
+#~ msgstr "Monocot plants have a fibrous root system. <br>The above plant has a parallel venation."
+
+#~ msgid "Monocot plants have a single cotyledon in the seeds. <br>The above plant has a fibrous root system and the venation is parallel."
+#~ msgstr "Monocot plants have a single cotyledon in the seeds. <br>The above plant has a fibrous root system and the venation is parallel."
+
+#~ msgid "Monocot plants have parallel venation. The above plant has a <br>fibrous root system and the flowers have three petals and three sepals."
+#~ msgstr "Monocot plants have parallel venation. The above plant has a <br>fibrous root system and the flowers have three petals and three sepals."
+
+#~ msgid "Dicot plants have reticulate venation. <br>The above plant has a tap root system and the flowers have four petals."
+#~ msgstr "Dicot plants have reticulate venation. <br>The above plant has a tap root system and the flowers have four petals."
+
+#~ msgid "Dicot plants have a tap root system. <br>The above plant has a reticulate venation and the flowers have five petals."
+#~ msgstr "Dicot plants have a tap root system. <br>The above plant has a reticulate venation and the flowers have five petals."
+
+#~ msgid "Dicot plants have ring shaped vascular bundles. <br>The above plant has a tap root system and the venation is reticulate."
+#~ msgstr "Dicot plants have ring shaped vascular bundles. <br>The above plant has a tap root system and the venation is reticulate."
+
+#~ msgid "The sepals of a dicot plant are in multiples of four or five. <br>The above plant has a tap root system and the flowers have five petals."
+#~ msgstr "The sepals of a dicot plant are in multiples of four or five. <br>The above plant has a tap root system and the flowers have five petals."
+
+#~ msgid "The sepals of a monocot plant are in multiples of three. <br>The above plant has a fibrous root system and the venation is parallel."
+#~ msgstr "The sepals of a monocot plant are in multiples of three. <br>The above plant has a fibrous root system and the venation is parallel."
+
+#~ msgid "The petals in the flower of a monocot plant are in multiples of three. <br>The above plant has a fibrous root system and the venation is parallel."
+#~ msgstr "The petals in the flower of a monocot plant are in multiples of three. <br>The above plant has a fibrous root system and the venation is parallel."
+
+#~ msgid "Monocot plants have scattered vascular bundles. <br>The above plant has a fibrous root system and the venation is parallel."
+#~ msgstr "Monocot plants have scattered vascular bundles. <br>The above plant has a fibrous root system and the venation is parallel."
+
+#~ msgid "Monocot plants have a single pore in the pollen. <br>The above plant has a fibrous root system and the venation is parallel. "
+#~ msgstr "Monocot plants have a single pore in the pollen. <br>The above plant has a fibrous root system and the venation is parallel. "

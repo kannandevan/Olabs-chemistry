@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2014-12-03 09:51+0530\n"
+"PO-Revision-Date: 2016-05-18 15:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:70
+msgid "Separation of Components of a Mixture"
+msgstr "मिश्रणातले घटक वेगळे करणे"
+
+#: simcontrols.js:71
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:72
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:73
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:74
+msgid "Developed by CDAC Mumbai"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department "
+"of IT"
+
+#: simcontrols.js:75
+msgid "Next"
+msgstr "पुढे"
+
+#: simcontrols.js:75
+msgid "Water"
+msgstr "पाणी"
+
+#: simcontrols.js:75
+msgid "Sugar"
+msgstr "साखर"
+
+#: simcontrols.js:75
+msgid "Salt"
+msgstr "मीठ"
+
+#: simcontrols.js:75
+msgid "Naphthalene"
+msgstr "नाफ्थालीन"
+
+#: simcontrols.js:75
+msgid "Anthracene"
+msgstr "एन्थ्रासीन"
+
+#: simcontrols.js:75
+msgid "Camphor"
+msgstr "कापूर"
+
+#: simcontrols.js:75
+msgid "Soil"
+msgstr "माती"
+
+#: simcontrols.js:75
+msgid "Sand"
+msgstr "वाळू"
+
+#: simcontrols.js:75
+msgid "Select the mixture:"
+msgstr "मिश्रण निवडा:"
+
+#: simcontrols.js:75
+msgid "Ammonium Chloride"
+msgstr "अमोनियम क्लोराइड"
+
+#: simcontrols.js:76
+msgid "To separate naphthalene from the mixture"
+msgstr "वेगळे करण्यासाठी नाफ्थालीन मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate camphor from the mixture"
+msgstr "वेगळे करण्यासाठी कापूर मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate anthracene from the mixture"
+msgstr "वेगळे करण्यासाठी एन्थ्रासीन मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate ammonium chloride from the mixture"
+msgstr "वेगळे करण्यासाठी अमोनियम क्लोराइड मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate sand from the mixture"
+msgstr "वेगळे करण्यासाठी वाळू मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate soil from the mixture"
+msgstr "वेगळे करण्यासाठी मातीमिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate salt from the mixture"
+msgstr "वेगळे करण्यासाठी मीठ मिश्रणातून"
+
+#: simcontrols.js:76
+msgid "To separate sugar from the mixture"
+msgstr "वेगळे करण्यासाठी साखर मिश्रणातून"
+
+#: simcontrols.js:87
+msgid "Drag the china dish and place it over the burner"
+msgstr "चायना ताटलीतले मिश्रण गरम करण्यासाठी, चायना ताटली बन्सेन बर्नरकडे ओढा."
+
+#: simcontrols.js:87
+msgid "Drag the funnel and place it over the china dish to collect the compound."
+msgstr "पदार्थ गोळा करण्यासाठी काचेचे नरसाळे चायना ताटलीवर ओढा."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the watch glass "
+"to place the compound in it"
+msgstr ""
+"नरसाळ्यात गोळा झालेला पदार्थ काढण्यासाठी स्पाट्युला नरसाळ्याकडे ओढा मग पदार्थ वॉच ग्लास मध्ये "
+"टाकण्यासाठी स्पाट्युला वॉच ग्लास कडे ओढा."
+
+#: simcontrols.js:87
+msgid ""
+"To transfer the mixture into the beaker containing water, drag the china dish over it."
+msgstr "पाणी असलेल्या चंचुपात्रात मिश्रण टाकण्यासाठी चायना ताटली चंचुपात्राकडे ओढा."
+
+#: simcontrols.js:87
+msgid "Click on the glass  rod to stir the solution."
+msgstr "चंचुपात्रातले द्रावण ढवळण्यासाठी काचेच्या रॉड वर क्लिक करा."
+
+#: simcontrols.js:87
+msgid "Drag the beaker over the funnel to collect the residue in the filter paper."
+msgstr "फिल्टर कागदात राहिलेला पदार्थ गोळा करण्यासाठी चंचुपात्र नरसाळ्यावर ओढा."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the watch glass "
+"to place the compound in it."
+msgstr ""
+"नरसाळ्यात गोळा झालेला पदार्थ काढण्यासाठी स्पाट्युला नरसाळ्याकडे ओढा मग पदार्थ वॉच ग्लास मध्ये "
+"टाकण्यासाठी स्पाट्युला वॉच ग्लास कडे ओढा."
+
+#: simcontrols.js:87
+msgid ""
+"To pour the filtrate from the beaker to the china dish, drag  the beaker over the china "
+"dish"
+msgstr "चंचुपात्रातले गळण चायना ताटलीत टाकण्यासाठी चंचुपात्र चायना ताटलीकडे ओढा."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula over the china dish to collect the compound and drag it to the watch "
+"glass to place the compound in it."
+msgstr ""
+"चायना ताटलीवर गोळा झालेला पदार्थ काढण्यासाठी स्पाट्युला नरसाळ्याकडे ओढा मग पदार्थ वॉच ग्लास मध्ये "
+"टाकण्यासाठी स्पाट्युला वॉच ग्लास कडे ओढा."
+
+#: simcontrols.js:88
+msgid "Naphthalene is separated by the process of sublimation."
+msgstr "संप्लवन प्रक्रियेने नाफ्थालीन वेगळे केले."
+
+#: simcontrols.js:88
+msgid "Anthracene is separated by the process of sublimation."
+msgstr "संप्लवन प्रक्रियेने एन्थ्रासीन वेगळे केले."
+
+#: simcontrols.js:88
+msgid "Camphor is separated by the process of sublimation."
+msgstr "संप्लवन प्रक्रियेने कापूर वेगळे केले."
+
+#: simcontrols.js:88
+msgid "Ammonium Chloride is separated by the process of sublimation."
+msgstr "संप्लवन प्रक्रियेने अमोनियम क्लोराइड वेगळे केले."
+
+#: simcontrols.js:88
+msgid "Sand is separated by the process of filtration."
+msgstr "वाळू गाळून वेगळी केली"
+
+#: simcontrols.js:88
+msgid "Soil is separated by the process of filtration."
+msgstr "माती गाळून वेगळी केली"
+
+#: simcontrols.js:88
+msgid "Salt is separated by the process of evaporation."
+msgstr "मीठ बाष्पीभवन करून वेगळे केले"
+
+#: simcontrols.js:88
+msgid "Sugar is separated by the process of evaporation."
+msgstr "साखर बाष्पीभवन करून वेगळी केली"
+
+#: simcontrols.js:88
+msgid "Carefully heat sugar solution"
+msgstr "उच्च तापमानाला साखरेचे द्रावण गरम करा, साखरेचे अपघटन होते."
+
+#: simcontrols.js:92
+msgid "Start Sublimation"
+msgstr "संप्लवन सुरू करा."
+
+#: simcontrols.js:92
+msgid "Start Filtration"
+msgstr "गाळणे सुरू करा."
+
+#: simcontrols.js:92
+msgid "Start Evaporation"
+msgstr "बाष्पीभवन सुरू करा."
+
+#: simcontrols.js:92
+msgid "Reset"
+msgstr "पूर्ववत करा"
+
+#~ msgid "Drag the funnel and place it"
+#~ msgstr ""
+#~ "Drag the funnel and place it</br>over the china dish to collect</br>the compound."
+
+#~ msgid "Drag the spatula to the funnel"
+#~ msgstr ""
+#~ "Drag the spatula to the funnel</br>to collect the compound and drag</br>it to the "
+#~ "watch glass to</br>place the compound in it."
+
+#~ msgid "To transfer the mixture into the"
+#~ msgstr ""
+#~ "To transfer the mixture into the</br>beaker containing water, drag</br>the china "
+#~ "dish over it."
+
+#~ msgid "Click on the glass"
+#~ msgstr "Click on the glass </br>rod to stir the solution."
+
+#~ msgid "Drag the beaker over"
+#~ msgstr ""
+#~ "Drag the beaker over</br>the funnel to collect the</br>residue in the filter paper."
+
+#~ msgid "Drag the spatula to the"
+#~ msgstr ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag it to the "
+#~ "watch glass</br>to place the compound in it."
+
+#~ msgid "To pour the filtrate from the"
+#~ msgstr ""
+#~ "To pour the filtrate from the</br>beaker to the china dish, drag </br>the beaker "
+#~ "over the china dish"
+
+#~ msgid "Drag the spatula over the"
+#~ msgstr ""
+#~ "Drag the spatula over the</br>china dish to collect the</br>compound and drag it to "
+#~ "the</br>watch glass to place the</br>compound in it."
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"
+
+#~ msgid ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag it to the "
+#~ "watch glass</br>to place the compound in it."
+#~ msgstr ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag it to the "
+#~ "watch glass</br>to place the compound in it."
+
+#~ msgid "Carefully heat sugar solution because</br>under intense heat, sugar decomposes."
+#~ msgstr ""
+#~ "Carefully heat sugar solution because</br>under intense heat, sugar decomposes."
+
+#~ msgid "To separate&nbsp;"
+#~ msgstr "To separate&nbsp;"

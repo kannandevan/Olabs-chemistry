@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="combinationReaction.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_INS1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_INS2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INS3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INS4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INSTRUCT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MSG0">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MSG1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_MSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_MSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_MSG6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_MSG7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_MSG8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_MSG9">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_MSG11">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_MSG12">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_MSG99">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_RESET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_START">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

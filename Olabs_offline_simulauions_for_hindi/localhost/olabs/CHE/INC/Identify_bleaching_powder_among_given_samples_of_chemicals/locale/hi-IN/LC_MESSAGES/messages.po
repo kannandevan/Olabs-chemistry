@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-10 12:12+0530\n"
+"PO-Revision-Date: 2025-10-10 12:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+#: simcontrols.js:9
+msgid "HELP"
+msgstr "सहायता"
+
+#: simcontrols.js:10
+msgid "FULLSCREEN"
+msgstr "पूर्ण स्क्रीन"
+
+#: simcontrols.js:11
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:12
+msgid "Identify bleaching powder among given samples of chemicals"
+msgstr "दिए गए रासायनिक नमूनों में से ब्लीचिंग पाउडर की पहचान करें"
+
+#: simcontrols.js:13
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "अमृता विश्वविद्यालय द्वारा <br> इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी विभाग के अनुसंधान अनुदान के तहत विकसित"
+
+#: simcontrols.js:14
+msgid "Bleaching powder is calcium oxochloride(CaOCl<sub>2</sub>).<br>  On treatment with dil.H<sub>2</sub>SO<sub>4</sub>,it liberates hypochlorous acid(HOCl)<br>  which is not stable and decomposes giving nascent oxygen<br> and thus acts as an oxidising and bleaching agent.<br> Thus the solution is bleaching powder"
+msgstr "ब्लीचिंग पाउडर कैल्शियम ऑक्सोक्लोराइड (CaOCl<sub>2</sub>) है।<br> इसे पतला H<sub>2</sub>SO<sub>4</sub> से उपचारित करने पर यह हाइपोक्लोरस अम्ल (HOCl) बनाता है,<br> जो अस्थिर होता है और विघटित होकर सक्रिय ऑक्सीजन उत्पन्न करता है,<br> जिससे यह एक ऑक्सीकरण और ब्लीचिंग एजेंट के रूप में कार्य करता है।<br> अतः यह विलयन ब्लीचिंग पाउडर है।"
+
+#: simcontrols.js:15
+msgid "No colour change in the cloth because the production <br> of nascent oxygen does not happen in the reaction"
+msgstr "कपड़े का रंग नहीं बदलता क्योंकि अभिक्रिया में सक्रिय ऑक्सीजन का निर्माण नहीं होता है"
+
+#: simcontrols.js:16
+msgid "Select the sample solution"
+msgstr "नमूना विलयन चुनें"
+
+#: simcontrols.js:16
+msgid "Drag the cotton cloth towards <br> the beaker containing 50ml solution"
+msgstr "50 मिलीलीटर विलयन वाले बीकर की ओर <br> सूती कपड़ा खींचें"
+
+#: simcontrols.js:16
+msgid "Drag the tweezer towards the same <br> beaker to pick the cloth and <br> drop it in the beaker containing <br> diluted sulphuric acid solution"
+msgstr "चिमटी को उसी <br> बीकर की ओर खींचें ताकि कपड़ा उठाया जा सके और <br> उसे पतले सल्फ्यूरिक अम्ल वाले बीकर में डालें"
+
+#: simcontrols.js:16
+msgid "Drag the glassrod towards the beaker <br> containing Sulphuric acid"
+msgstr "कांच की छड़ी को सल्फ्यूरिक अम्ल वाले बीकर की ओर खींचें"
+
+#: simcontrols.js:22
+msgid "Sample solution and sulphuric acid <br/> must not touch your skin. Handle carefully"
+msgstr "नमूना विलयन और सल्फ्यूरिक अम्ल <br/> आपकी त्वचा को नहीं छूना चाहिए। सावधानी से संभालें"
+
+#: simcontrols.js:23
+msgid "Select the sample"
+msgstr "नमूना चुनें"
+
+#: simcontrols.js:23
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:24
+msgid "Solution A"
+msgstr "विलयन A"
+
+#: simcontrols.js:25
+msgid "Solution B"
+msgstr "विलयन B"
+
+#: simcontrols.js:26
+msgid "Solution C"
+msgstr "विलयन C"
+
+#: simcontrols.js:27
+msgid "Solution D"
+msgstr "विलयन D"
+
+#: simcontrols.js:28
+msgid "50ml Solution"
+msgstr "50 मिलीलीटर विलयन"
+
+#: simcontrols.js:29
+msgid "20ml Dil.Sulphuric Acid"
+msgstr "20 मिलीलीटर पतला सल्फ्यूरिक अम्ल"
+
+#: simcontrols.js:30
+msgid "Cotton Cloth"
+msgstr "सूती कपड़ा"

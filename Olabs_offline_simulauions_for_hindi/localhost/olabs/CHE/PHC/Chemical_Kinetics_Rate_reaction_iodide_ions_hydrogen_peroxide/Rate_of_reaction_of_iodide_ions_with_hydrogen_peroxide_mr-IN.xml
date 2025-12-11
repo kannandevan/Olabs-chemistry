@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>प्रयोगास सुरुवात करण्यासाठी सुरु करा बटणावर क्लिक करा </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_1">
+	<TEXTVALUE>पोटाशियम आयोडाइड आणि हायड्रोजन पेरोक्साइड मधील अभिक्रियेचा गती-अभ्यास</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_2">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>आवश्यक सामग्री: चार वेगळ्या शंक्वाकृती चंबूत ०.१ M KI द्रावण, ऊर्ध्वपतित पाणी, मापन जार, २.५ M H2SO4, खळीचे द्रावण, ०.०५ M Na2S2O3 द्रावण, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_two">
+	<TEXTVALUE>३% H2O2 द्रावण, काचेचा रॉड, स्टॉप वॉच इ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_3">
+	<TEXTVALUE>०.१ M पोटाशियम आयोडाइड 
+द्रावण  5ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>०.१ M पोटाशियम आयोडाइड 
+द्रावण  10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_5">
+	<TEXTVALUE>०.१ M पोटाशियम आयोडाइड 
+द्रावण 15ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>०.१ M पोटाशियम आयोडाइड 
+द्रावण  20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>२.५ M H2SO4</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>खळीचे द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>3% हायड्रोजन पेरोक्साइड 
+H2O2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>0.05M
+सोडियम थायोसल्फाइट 
+Na2s2o3</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+
+
+<SCENE ID="2table2">
+	<TEXT ID="2table2_one">
+	<TEXTVALUE>चार शंक्वाकृती चंबूत	५, १०, १५, आणि २० मिली ०.१ M पोटाशियम आयोडाइड द्रावण घ्या, आणि अनुक्रमे ए, बी, सी आणि डी नावे द्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3h2so4">
+	<TEXT ID="3h2so4_one">
+	<TEXTVALUE>मापन जार मध्ये १० मिली २.५ M H2SO4 घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4poura">
+	<TEXT ID="4poura_one">
+	<TEXTVALUE>शंक्वाकृती चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5chart">
+	<TEXT ID="5chart_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर चंबूंसाठी करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sreing_12">
+	<TEXTVALUE>खळीचे द्रावण (ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>पाणी  (ml) 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>3% H2O2 द्रावण (ml)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>निळा रंग यायला लागणारा 
+वेळ (टी) (सेकंदात) 
+</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Flaskno">
+	<TEXTVALUE>
+चंबू क्रमांक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solutionml">
+	<TEXTVALUE>0.1M KI 
+द्रावण (ml)
+</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="6pour2">
+	<TEXT ID="6pour2_one">
+	<TEXTVALUE>८५ मिली ऊर्ध्वपतित पाणी एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="7por3">
+	<TEXT ID="7por3_one">
+	<TEXTVALUE>ते चंबू ए मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Potassium_iodide46">
+	<TEXTVALUE> 0.1M 
+[KI] द्रावण
+       40ml </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8chart2">
+	<TEXT ID="8chart2_one">
+	<TEXTVALUE>ते चंबू ए मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="9pour23">
+	<TEXT ID="9pour23_one">
+	<TEXTVALUE>८० मिली ऊर्ध्वपतित पाणी मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10pourb">
+	<TEXT ID="10pourb_one">
+	<TEXTVALUE>ते चंबू बी मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11chart3">
+	<TEXT ID="11chart3_one">
+	<TEXTVALUE>७५ मिली आणि ७० मिली ऊर्ध्वपतित पाणी चंबू सी आणि डी मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान १०० मिली होईल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="11starch">
+	<TEXT ID="11starch_one">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली खळीचे द्रावण मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="12por4">
+	<TEXT ID="12por4_one">
+	<TEXTVALUE>चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="13chart4">
+	<TEXT ID="13chart4_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर चंबूंसाठी करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="14sodiumthio">
+	<TEXT ID="14sodiumthio_one">
+	<TEXTVALUE>१० मिली ०.०५ M सोडियम थायोसल्फेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="15sodpour">
+	<TEXT ID="15sodpour_one">
+	<TEXTVALUE>चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="16chart5">
+	<TEXT ID="16chart5_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर चंबूंसाठी करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="17h2o2">
+	<TEXT ID="17h2o2_one">
+	<TEXTVALUE>५ मिली ३% हायड्रोजन पेरोक्साइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="18h2o2pour">
+	<TEXT ID="18h2o2pour_one">
+	<TEXTVALUE>५ मिली ३% हायड्रोजन पेरोक्साइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="19por6">
+	<TEXT ID="19por6_one">
+	<TEXTVALUE>चंबू ए मध्ये ओता आणि लगेच स्टॉप वॉच सुरू करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="20rot">
+	<TEXT ID="20rot_one">
+	<TEXTVALUE>द्रावण काचेच्या रॉडने ढवळा आणि निळा रंग कधी येतो ते बघा.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="20rot_two">
+	<TEXTVALUE>ज्या क्षणी निळा रंग येतो त्यावेळेची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="20rot_three">
+	<TEXTVALUE>ज्या क्षणी निळा रंग येतो त्यावेळेची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="21chart8">
+	<TEXT ID="21chart8_one">
+	<TEXTVALUE>५ मिली ३% H2O2 चंबू बी, सी, आणि डी मध्ये टाकून प्रयोग परत करा आणि प्रत्येक वेळेला निळा रंग यायला किती वेळ लागतो त्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="21chart8_two">
+	<TEXTVALUE>निळा रंग यायला लागणारा वेळ आणि 1/ KI चे आकारमान ह्यांचा आलेख काढा. वेळ (टी) वाय-अक्षावर आणि 1/ KI चे आकारमान एक्स-अकषावर घ्या. ही एक उतार असलेली सरळ रेष असेल.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart21">
+	<TEXTVALUE>Time for the appearance of blue colour [s]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="23last">
+	<TEXT ID="23last_one">
+	<TEXTVALUE>या अभिक्रियेवरून आपण निष्कर्ष काढू शकतो की आयोडाइड आयन ची संहत तीव्रता वाढली की आयोडाइड आयन आणि हायड्रोजन पेरोक्साइड यांच्या अभिक्रियेचा दर पण वाढतो.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>आयोडाइड आयनची संहत तीव्रता वाढली की 
+अभिक्रियेचा दर वाढतो</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+</DATA>

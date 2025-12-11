@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>കാർബണിക സംയുക്തങ്ങളുടെ തിളനില</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt; പുറകോട്ട്</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BOILINGPOINTPHENOL">
+        <source>ഫിനോളിൻ്റെ തിളനില</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_CAPILLARYTUBE">
+        <source>കൃാപ്പിലറീ ടൃൂബ്</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_PHENOL">
+        <source>ഫിനോൾ</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_STIRRER">
+        <source>സ്റ്റിയറർ</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_SULPHURICACID">
+        <source>ഗാഢസൾഫൃൂറിക് ആസിഡ്</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_THERMOMETER">
+        <source>തെർമോമീറ്റർ</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_WARNINGTXT">
+        <source>വായൂസഞ്ചാര പേ‍ടകത്തിൽ ചെയ്യുന്ന പ്രവർത്തനം</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2014-05-15 14:08+0530\n"
+"PO-Revision-Date: 2014-05-15 14:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: h\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Determination of pH"
+msgstr "pH యొక్క సంకల్పం"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "సేవ్"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "ఫుల్ స్క్రీన్"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "ఎక్జిట్"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr "సిడాక్ మరియు అమ్రిత యూనివర్శిటీ రిసెర్చ్ సహకారంతో అభివద్ధి చెందినది"
+
+#: simcontrols.js:16
+#, fuzzy
+msgid "ACIDIC"
+msgstr "ఎసిడిక్"
+
+#: simcontrols.js:16
+#, fuzzy
+msgid "NEUTRAL"
+msgstr "న్యూట్రల్"
+
+#: simcontrols.js:16
+#, fuzzy
+msgid "BASIC"
+msgstr "బేసిక్"
+
+#: simcontrols.js:16
+#, fuzzy
+msgid "Universal Indicator"
+msgstr "యూనివర్సల్ ఇండికేటర్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Lemon juice"
+msgstr "లెమన్ జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Tomato juice"
+msgstr "టొమాటొ జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Orange juice"
+msgstr "ఆరెంజ్ జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Pineapple juice"
+msgstr ".పైనాపిల్ జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Amla juice"
+msgstr "ఆమ్లా జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid " Mango juice"
+msgstr "మాంగో జ్యూస్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Common salt"
+msgstr "సాధారణ ఉప్పు"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Sugar"
+msgstr "పంచదార"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid " Baking soda"
+msgstr "బేకింగ్ సోడ"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid " Milk"
+msgstr "పాలు"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Vinegar"
+msgstr "వెనిగర్"
+
+#: simcontrols.js:17
+#, fuzzy
+msgid "Butter milk"
+msgstr "బటర్ మిల్క్"
+
+#: simcontrols.js:17
+msgid "Bleaching powder"
+msgstr "బ్లీచింగ్ సోడ"
+
+#: simcontrols.js:17
+msgid "Washing soda"
+msgstr "వాషింగ్ సోడ"
+
+#: simcontrols.js:17
+msgid "Milk of magnesia"
+msgstr "మెగ్నిషియా గల పాలు"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the solution to suck it and drop it over the "
+"strip to pour the solution."
+msgstr "డ్రాపరుని లాగండి మిశ్రమంలో ముంచి పీల్చేలా చేసి స్ట్రిప్పై చుక్క మిశ్రమాన్ని వేయాలి"
+
+#: simcontrols.js:21
+msgid "Drag the dropper to the sample solution to add universal indicator."
+msgstr "డ్రాపర్ని డ్రాగ్ చేసి నమూనా మిశ్రమంను యూనివర్సల్ ఇండికేటర్లో కలపాలి"
+
+#: simcontrols.js:21
+msgid ""
+"This dropper cannot be used now, as the universal indicator has already been "
+"poured."
+msgstr "డ్రాపరుని ఇప్పుడు వాడరాదు, యూనివర్సల్ ఇండికేటర్ ఇప్పటికే పోయబడింది"
+
+#: simcontrols.js:21
+msgid "Click any one of the beaker to start the experiment."
+msgstr "ప్రయోగం మొదలు పెట్టడానికి బీకర్లొ ఏదైనా క్లిక్ చేయండి "
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the "
+"universal indicator dropper to drop it into the sample solution."
+msgstr ""
+"డ్రాపర్ని డ్రాగ్ చేసి నమూనా మిశ్రమంను పీల్చుకునేలా చేయండి లేదా యూనివర్సల్ ఇండికేటర్ని డ్రాగ్ చేసి మిశ్రమంలో వేయండ"
+
+#: simcontrols.js:21
+msgid "Click on the strips to select."
+msgstr "స్ట్రిప్స్ని ఎంచుకోడానికి క్లిక్ చేయండి"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the colour strip to the sample solution or indicator strip to identify "
+"the pH."
+msgstr "కలర్ స్ట్రిప్ని డ్రాగ్ చేసి నమూనా మిశ్రమాన్ని లేదా ఇండికేటర్ స్ట్రిప్ని pH నిగుర్తింఛడానికి వేయండి"
+
+#: simcontrols.js:21
+msgid "Click on the information icon to see the inference."
+msgstr "ఇన్ఫర్మేషన్ ఐకాన్ని క్లిక్ చేసి అనుమేయాన్ని గమనించండి"
+
+#: simcontrols.js:21
+msgid "Litmus paper"
+msgstr "లిట్మస్ పేపర్"
+
+#: simcontrols.js:24
+msgid "Vegetable & fruit juice"
+msgstr "కూరగాయలు మరియు పళ్ళ జ్యూసులు"
+
+#: simcontrols.js:25
+msgid "House hold items"
+msgstr "గృహోపకరణ వస్తువులు"
+
+#: simcontrols.js:26
+msgid "Acids & bases in the lab"
+msgstr "లాబ్లో యాసిడ్స్ మరియు బేసెస్ "
+
+#: simcontrols.js:27
+msgid "Salts in water"
+msgstr "నీటిలో ఉప్పు"
+
+#: simcontrols.js:28
+msgid "Select the aqueous solution:"
+msgstr "స్ట్రిప్స్ని ఎంచుకోడానికి క్లిక్ చేయండి"
+
+#: simcontrols.js:29
+msgid "Click on any one of the sample solution to start the experiment "
+msgstr "ఏ నమూనా మిశ్రమం వద్దైనా నొక్కి ప్రయోగాన్ని ప్రారంభించండి"
+
+#: simcontrols.js:34
+msgid "Reset"
+msgstr "రీసెట్"

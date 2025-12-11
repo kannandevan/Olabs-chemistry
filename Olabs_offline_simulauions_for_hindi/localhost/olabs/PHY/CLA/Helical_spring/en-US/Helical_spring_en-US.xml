@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="Helical_spring.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ENVIR1">
+        <source>Earth(g=9.8m/s²)</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ENVIR2">
+        <source>Moon(g=1.6m/s²)</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ENVIR3">
+        <source>Mars(g=3.72m/s²)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LABEL1">
+        <source>Select spring :</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LABEL2">
+        <source>Choose Environment :
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LABEL3">
+        <source>Scale reading :</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SPRING1">
+        <source>Spring1</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SPRING2">
+        <source>Spring2</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SPRING3">
+        <source>Spring3</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE">
+        <source>Helical Spring Constant</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

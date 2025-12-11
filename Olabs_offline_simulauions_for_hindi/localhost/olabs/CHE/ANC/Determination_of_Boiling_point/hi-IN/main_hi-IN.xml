@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>कार्बनिक यौगिक का क्वथनांक</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt; वापस</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BOILINGPOINTPHENOL">
+        <source>फिनोल के क्वथनांक</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_CAPILLARYTUBE">
+        <source>कैपिलरी ट्यूब</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_PHENOL">
+        <source>फिनोल</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_START">
+        <source>प्रारंभ करें</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_STIRRER">
+        <source>विलोड़क</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_SULPHURICACID">
+        <source>सान्द्र सल्फ्यूरिक एसिड</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_THERMOMETER">
+        <source>थर्मामीटर</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_WARNINGTXT">
+        <source>हवादार छतरी में अभिक्रिया करें।</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-07 16:14+0530\n"
+"PO-Revision-Date: 2025-10-15 10:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: QuestionExecutePackage.js\n"
+"X-Poedit-SearchPath-1: secondpage.js\n"
+"X-Poedit-SearchPath-2: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "मोठं करा"
+
+msgid "MINIMIZE"
+msgstr "लहान करा"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "अमृता विद्यापीठाने विकसित केले आहे <br> अनुदानित : इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय || <br> शिक्षण मंत्रालय, भारत सरकार"
+
+msgid "Alert"
+msgstr "इशारा"
+
+msgid "Do you want to reset the simulation"
+msgstr "तुम्हाला सिम्युलेशन रीसेट करायचे आहे का?"
+
+msgid "Yes"
+msgstr "होय"
+
+msgid "No"
+msgstr "नाही"
+
+msgid "HELP"
+msgstr "साहाय्य"
+
+msgid "RESET"
+msgstr "रीसेट"
+
+#: secondpage.js:32
+msgid "1. Drag and drop the funnel to empty test tube A."
+msgstr "1. फनेल ओढून रिकाम्या टेस्ट ट्यूब A मध्ये टाका."
+
+#: secondpage.js:33
+msgid "2. Drag and drop the filter paper above the funnel."
+msgstr "2. फनेलच्या वर फिल्टर पेपर ओढून ठेवा."
+
+#: secondpage.js:34
+msgid "3. Drag the test tube and drop it in the empty test tube A."
+msgstr "3. टेस्ट ट्यूब ओढून रिकाम्या टेस्ट ट्यूब A मध्ये टाका."
+
+#: secondpage.js:293
+msgid "Can filter paper be used to separate colloids?"
+msgstr "कोलॉइड्स वेगळे करण्यासाठी फिल्टर पेपर वापरता येईल का?"
+
+#: secondpage.js:293
+msgid "Yes, because the size of the colloidal particle is 100 micrometer"
+msgstr "होय, कारण कोलॉइडल कणांचा आकार 100 मायक्रोमीटर आहे."
+
+#: secondpage.js:293
+msgid "No, the size of the colloidal particle is less than 100 nanometers"
+msgstr "नाही, कोलॉइडल कणांचा आकार 100 नॅनोमीटरपेक्षा कमी आहे."
+
+#: simcontrols.js:57
+msgid "Prepare a Colloidal Solution of Sulphur"
+msgstr "सल्फरचे कोलॉइडल द्रावण तयार करा"
+
+#: simcontrols.js:63
+msgid "Click and drag the distilled water and <br>  drop it in the test tube"
+msgstr "डिस्टिल्ड पाणी क्लिक करून ओढा आणि <br>  टेस्ट ट्यूबमध्ये टाका"
+
+#: simcontrols.js:64
+msgid "Drop it in the test tube"
+msgstr "ते टेस्ट ट्यूबमध्ये टाका"
+
+#: simcontrols.js:65
+msgid "Drag the test tube and drop it <br> towards the Kipp's apparatus"
+msgstr "टेस्ट ट्यूब ओढा आणि <br> ती किपच्या उपकरणाकडे टाका"
+
+#: simcontrols.js:66
+msgid "Drag the test tube upwards to <br> shake"
+msgstr "टेस्ट ट्यूब वरच्या दिशेने ओढून <br> हलवा"
+
+#: simcontrols.js:67
+msgid "Drag the test tube and <br>drop it in the empty test tube"
+msgstr "टेस्ट ट्यूब ओढा आणि <br> रिकाम्या टेस्ट ट्यूबमध्ये टाका"
+
+#: simcontrols.js:68
+msgid "Drop it into the Kipp's apparatus"
+msgstr "ते किपच्या उपकरणात टाका"
+
+#: simcontrols.js:69
+msgid "Click the knob to open the valve"
+msgstr "वाल्व उघडण्यासाठी नॉबवर क्लिक करा"
+
+#: simcontrols.js:70
+msgid "Click the knob to close the valve"
+msgstr "वाल्व बंद करण्यासाठी नॉबवर क्लिक करा"
+
+#: simcontrols.js:71
+msgid "Drag and drop the dropper towards the test tube"
+msgstr "ड्रॉपर ओढून टेस्ट ट्यूबकडे टाका"
+
+#: simcontrols.js:72
+msgid "Click on the Next button"
+msgstr "नेक्स्ट बटणावर क्लिक करा"
+
+#: simcontrols.js:73
+msgid "Drag the spatula and drop <br> it in the watch glass"
+msgstr "स्पॅटुला ओढा आणि <br> वॉच ग्लासमध्ये टाका"
+
+#: simcontrols.js:74
+msgid "Drag the spatula and drop <br> it in the test tube"
+msgstr "स्पॅटुला ओढा आणि <br> टेस्ट ट्यूबमध्ये टाका"
+
+#: simcontrols.js:76
+msgid "Drag and drop the funnel to empty test tube A"
+msgstr "फनेल ओढून रिकाम्या टेस्ट ट्यूब A मध्ये टाका"
+
+#: simcontrols.js:77
+msgid "Drag and drop the filter paper above the funnel"
+msgstr "फनेलच्या वर फिल्टर पेपर ओढून ठेवा"
+
+#: simcontrols.js:78
+msgid "Drag the test tube and <br>drop it in the empty test tube A"
+msgstr "टेस्ट ट्यूब ओढा आणि <br> रिकाम्या टेस्ट ट्यूब A मध्ये टाका"
+
+#: simcontrols.js:79
+msgid "Repeat the previous three steps for <br> the other two test tubes B and C"
+msgstr "मागील तीन पायऱ्या <br> उर्वरित दोन टेस्ट ट्यूब B आणि C साठी पुन्हा करा"
+
+#: simcontrols.js:81
+msgid "Please wash and use the funnel"
+msgstr "कृपया फनेल धुऊन वापरा"
+
+#: simcontrols.js:82 simcontrols.js:94
+msgid "The solution will smell like a rotten egg"
+msgstr "द्रावणाला कुजलेल्या अंड्यासारखा वास येईल"
+
+#: simcontrols.js:84
+msgid ""
+"A colloidal solution is heterogenous, it appears translucent.<br> It cannot  be filtered completely through filter paper.<br> Here solute particles do not easily settle down on "
+"standing."
+msgstr "कोलॉइडल द्रावण विषम असते, ते अर्धपारदर्शक दिसते.<br> ते फिल्टर पेपरमधून पूर्णपणे गाळले जाऊ शकत नाही.<br> येथे द्रव्यकण सहज खाली बसत नाहीत."
+
+#: simcontrols.js:85
+msgid "A true solution is homogenous and transparent. <br>It can be completely filtered through filter paper.<br> It remains stable on standing."
+msgstr "खरे द्रावण समरूप आणि पारदर्शक असते.<br> ते फिल्टर पेपरमधून पूर्णपणे गाळता येते.<br> ते स्थिर राहते."
+
+#: simcontrols.js:86
+msgid "A suspension is heterogeneous mixture. <br>The particles of a suspension are visible<br>to the naked eye. They settle down on <br>standing and can be separated by filtration."
+msgstr "सस्पेंशन हे विषम मिश्रण असते.<br> त्यातील कण उघड्या डोळ्यांना दिसतात.<br> ते खाली बसतात आणि फिल्ट्रेशनद्वारे वेगळे करता येतात."
+
+#: simcontrols.js:88
+msgid "Click on the Reset button <br>to repeat the experiment again"
+msgstr "प्रयोग पुन्हा करण्यासाठी <br> रीसेट बटणावर क्लिक करा"
+
+#: simcontrols.js:89
+msgid "Fog is a colloidal solution of:"
+msgstr "धुके हे खालीलपैकी कोणत्या प्रकारचे कोलॉइडल द्रावण आहे:"
+
+#: simcontrols.js:89
+msgid "Solid in gas"
+msgstr "घन वायूमध्ये"
+
+#: simcontrols.js:89
+msgid "Gas in liquid"
+msgstr "वायू द्रवामध्ये"
+
+#: simcontrols.js:89
+msgid "Liquid in gas"
+msgstr "द्रव वायूमध्ये"
+
+#: simcontrols.js:89
+msgid "Gas in gas"
+msgstr "वायू वायूमध्ये"
+
+#: simcontrols.js:93
+msgid "Choose the correct answer"
+msgstr "योग्य उत्तर निवडा"
+
+#: simcontrols.js:95
+msgid "Instructions:"
+msgstr "सूचना:"
+
+#: simcontrols.js:96
+msgid "1. Click and drag the distilled water and drop it in the test tube."
+msgstr "1.डिस्टिल्ड पाणी क्लिक करून ओढा आणि टेस्ट ट्यूबमध्ये टाका."
+
+#: simcontrols.js:97
+msgid "2. Drag the test tube and drop it into the Kipp's apparatus."
+msgstr "2.टेस्ट ट्यूब ओढून किपच्या उपकरणात टाका."
+
+#: simcontrols.js:98
+msgid "3. Click the knob to open the valve."
+msgstr "3.वाल्व उघडण्यासाठी नॉबवर क्लिक करा."
+
+#: simcontrols.js:99
+msgid "4. Click the knob to close the valve."
+msgstr "4.वाल्व बंद करण्यासाठी नॉबवर क्लिक करा."
+
+#: simcontrols.js:100
+msgid "5. Drag and drop the dropper towards the test tube."
+msgstr "5.ड्रॉपर ओढून टेस्ट ट्यूबकडे टाका."
+
+#: simcontrols.js:101
+msgid "6. Drag the test tube upwards to shake."
+msgstr "6.टेस्ट ट्यूब वरच्या दिशेने ओढून हलवा."
+
+#: simcontrols.js:102
+msgid "7. Drag and drop the dropper towards the test tube."
+msgstr "7.ड्रॉपर ओढून टेस्ट ट्यूबकडे टाका."
+
+#: simcontrols.js:103
+msgid "8. Drag the test tube and drop it in the empty test tube."
+msgstr "8.टेस्ट ट्यूब ओढून रिकाम्या टेस्ट ट्यूबमध्ये टाका."
+
+#: simcontrols.js:104
+msgid "Next"
+msgstr "पुढे"
+
+#: simcontrols.js:335
+msgid "2. Drag the spatula and drop it in the watch glass."
+msgstr "2.स्पॅटुला ओढून वॉच ग्लासमध्ये टाका."
+
+#: simcontrols.js:336
+msgid "3. Drag the spatula and drop it in the test tube."
+msgstr "3.स्पॅटुला ओढून टेस्ट ट्यूबमध्ये टाका."
+
+#: simcontrols.js:337
+msgid "4. Drag the test tube upwards to shake."
+msgstr "4.टेस्ट ट्यूब वर ओढून हलवा."
+
+msgid "Level "
+msgstr "स्तर "
+
+msgid "Score "
+msgstr "गुण "

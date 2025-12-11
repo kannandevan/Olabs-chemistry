@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>सॉल की रचना का अध्ययन करने के लिए किसी एक सॉल पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophilicsol">
+	<TEXT ID="Lyophilicsol_one">
+		<TEXTVALUE>ल्योफ्लिक के सॉल की रचना का अध्ययन करने के लिए किसी एक "ल्योफ्लिक सॉल" पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophobicsol">
+	<TEXT ID="Lyophobicsol_one">
+		<TEXTVALUE>कोलायडियल विलयन (या सॉल) की रचना का अध्ययन करने के लिए कोलायडियल विलयन (या सॉल) पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TitleName1">
+	<TEXT ID="TitleName1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>हमें चाहिए,  इलेक्ट्रॉनिक तुला, स्टार्च पाउडर, बटर पेपर, ड्रॉपर, स्पैचुला, कांच की छड़, मूसल और ओखली, आसुत जल, बीकर, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, कीप, फिल्टर पेपर, शंक्वाकार कुप्पी, क्लैंप सहित आयरन स्टैण्ड आदि।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Takingstarch">
+	<TEXT ID="Takingstarch_one">
+		<TEXTVALUE>तौलने वाली तुला का प्रयोग कर 1 ग्राम स्टार्च तौलें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Paperstarchinbeaker">
+	<TEXT ID="Paperstarchinbeaker_one">
+		<TEXTVALUE>तौली गई स्टार्च ओखली में डालें और ड्रॉपर का प्रयोग कर इस में आसुत जल की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Paperstarchinbeaker_two">
+		<TEXTVALUE>पतला पेस्ट बनाने के लिए मूसल से स्टार्च पीसें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Paperstarchinbeaker_three">
+		<TEXTVALUE>50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2">
+	<TEXT ID="Starchinbeaker2_one">
+		<TEXTVALUE>50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtng">
+<TEXT ID="Starchinbeakerandwtrhtng_one">
+		<TEXTVALUE>50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Starchinbeakerandwtrhtng_two">
+		<TEXTVALUE>250 मिलीलीटर के बीकर में लगभग 100 मिलीलीटर आसुत जल लें और बीकर इतना गर्म करें कि पानी उबलने लगे।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heatingbeakerwater">
+	<TEXT ID="Heatingbeakerwater_one">
+		<TEXTVALUE>250 मिलीलीटर के बीकर में लगभग 100 मिलीलीटर आसुत जल लें और बीकर इतना गर्म करें कि पानी उबलने लगे।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringstarchsolution">
+	<TEXT ID="Pouringstarchsolution_one">
+		<TEXTVALUE>कांच की छड़ का प्रयोग कर चलाते हुए उबलते हुए पानी में धीरे-धीरे पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolution_two">
+		<TEXTVALUE>लगभग 10 मिनट तक उबालना जारी रखें और इसके बाद बीकर को ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Funnelstandpaper">
+	<TEXT ID="Funnelstandpaper_one">
+		<TEXTVALUE>स्टैण्ड मे लगी कीप में फिल्टर पेपर लगाएं और कीप के ऊपर कांच की छड़ रखें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Funnelstandpaper_two">
+		<TEXTVALUE>कीप के माध्यम से बीकर की सामग्री छानें और शंक्वाकार कुप्पी में छनी हुई सामग्री एकत्र कर लें।
+5. 
+
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpaper_three">
+		<TEXTVALUE>'स्टार्च के सॉल' के रूप में छनी हुई सामग्री चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Starchsolution11">
+	<TEXT ID="Starchsolution11_one">
+	<!--	<TEXTVALUE>Label the filtrate “Starch Sol”. </TEXTVALUE>-->
+		<TEXTVALUE>शंक्वाकार कुप्पी में सोडियम क्लोराइड से युक्त स्टार्च का सॉल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="membrane">
+	<TEXT ID="membrane_one">
+		<TEXTVALUE>कीप लें और कीप के स्तम्भ‍ में चर्मपत्र की झिल्ली लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="membranetofunnel">
+	<TEXT ID="membranetofunnel_one">
+		<TEXTVALUE>कीप लें और कीप के स्तम्भ‍ में चर्मपत्र की झिल्ली लगाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="membranetofunnel_two">
+		<TEXTVALUE>धागे का प्रयोग कर कीप के स्तेम्भ से झिल्ली बाँधें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutionbkr">
+	<TEXT ID="Starchsolutionbkr_one">
+		<TEXTVALUE>स्टार्च का सॉल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchsolution2memb">
+	<TEXT ID="Starchsolution2memb_one">
+		<TEXTVALUE>कीप में सोडियम क्लोराइड से युक्त स्टार्च का सॉल तब तक डालें जब तक कि दो-तिहाई चर्मपत्र थैली भर न जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="memb2wtr">
+	<TEXT ID="memb2wtr_one">
+		<TEXTVALUE>बीकर में लिए हुए आसुत जल में चर्मपत्र की थैली डुबोएं और क्लैंप के माध्यम से सही स्थिति में कीप लगाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_two">
+		<TEXTVALUE>बीकर में लिए हुए आसुत जल में चर्मपत्र की थैली डुबोएं और क्लैंप के माध्यम से सही स्थिति में कीप लगाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_three">
+		<TEXTVALUE>इसे लगभग आधे घंटे तक खड़ा रहने दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_four">
+		<TEXTVALUE>आधे घंटे बाद, ड्रॉपर का प्रयोग कर बीकर से पानी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="iodine">
+	<TEXT ID="iodine_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर आयोडीन के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="iodine2tube">
+	<TEXT ID="iodine2tube_one">
+		<TEXTVALUE>पानी युक्त परखनली में आयोडीन के विलयन की कुछ बूँदें मिलाएं। यदि रंग नीला नहीं होता है, तो यह पानी में स्टार्च की अनुपस्थिति को दर्शाता है। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="close">
+	<TEXT ID="close_one">
+		<TEXTVALUE>इस प्रकार यह परिणाम निकलता है कि चर्मपत्र की झिल्ली के माध्यम से स्टार्च के अणु विसरित नहीं होते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sol2dropper">
+	<TEXT ID="sol2dropper_one">
+		<TEXTVALUE>बीकर से 1 मिलीलीटर पानी और निकालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2tube">
+	<TEXT ID="sol2tube_one">
+		<TEXTVALUE>इसे एक दूसरी परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate">
+	<TEXT ID="silvernitrate_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट विलयन की कुछ बूँदें लें और इसे पानी युक्त् परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="drops2testube">
+	<TEXT ID="drops2testube_one">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट विलयन की कुछ बूँदें लें और इसे पानी युक्त् परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops2testube_two">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे क्लोराइड आयनों की उपस्थिति और इसलिए पानी में सोडियम क्लोराइड का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="closeup">
+	<TEXT ID="closeup_one">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे क्लोराइड आयनों की उपस्थिति और इसलिए पानी में सोडियम क्लोराइड का पता चलता है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="closeup_two">
+		<TEXTVALUE>इससे परिणाम निकलता है कि चर्मपत्र की झिल्ली के माध्यम से सोडियम और क्लोराइड आयन विसरित होते हैं। चूंकि सोडियम और क्लोराइड के आयन स्टार्च के सॉल में से विसरित होते हैं, अत: यह धीरे धीरे आयनों से मुक्त हो जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="memb2secbkr">
+	<TEXT ID="memb2secbkr_one">
+		<TEXTVALUE>ताजे आसुत जल से बीकर का पानी बदलें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2secbkr_two">
+		<TEXTVALUE>लगभग 10 मिनट बाद, क्लोराइड आयनों की उपस्थिति का परीक्षण करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2dropper2">
+	<TEXT ID="sol2dropper2_one">
+		<TEXTVALUE>पर का प्रयोग कर बीकर से पानी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2testube2">
+	<TEXT ID="sol2testube2_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate2">
+	<TEXT ID="silvernitrate2_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट के विलयन की कुछ बूँदें लें और इसे पानी युक्त परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitrate2tube">
+	<TEXT ID="nitrate2tube_one">
+		<TEXTVALUE>यदि कोई सफेद तलछट नहीं बनता है, तो क्लोराइड आयन अनुपस्थित हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result">
+	<TEXT ID="result_one">
+		<TEXTVALUE>इससे पता चलता है कि अपोहन पूरा हो गया है, नहीं तो सॉल में अभी भी क्लोराइड के आयन होते और इसलिए अपोहन जारी रखा जाना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+		<TEXTVALUE> हमें चाहिए, 1 ग्राम गोंद, ड्रॉपर, स्पैचुला, कांच की छड़, मूसल और ओखली, आसुत जल, बीकर, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, कीप, फिल्टर पेपर, शंक्वाकार कुप्पी,  क्लैंम्प  सहित आयरन स्टैण्ड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Paperstarchinbeakergum">
+	<TEXT ID="Paperstarchinbeakergum_one">
+		<TEXTVALUE>ओखली में 1 ग्राम गोंद लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_two">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर आसुत जल की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_three">
+		<TEXTVALUE>पेस्ट बनाने के लिए मूसल का प्रयोग कर गोंद पीसें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_four">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर 50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtnggum">
+	<TEXT ID="Starchinbeakerandwtrhtnggum_one">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर 50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchinbeaker1">
+	<TEXT ID="Starchinbeaker1_one">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर 50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2gum">
+	<TEXT ID="Starchinbeaker2gum_one">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर 50 मिलीलीटर के बीकर में पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Starchinbeaker2gum_two">
+		<TEXTVALUE>250 मिलीलीटर के बीकर में 100 मिलीलीटर आसुत जल लें और बीकर गर्म करें (पानी उबालें नहीं। गर्म पानी का प्रयोग किया जाना है क्योंकि गोंद गर्म पानी में पूरी तरह से घुलनशील है)।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Heatingbeakerwatergum">
+	<TEXT ID="Heatingbeakerwatergum_one">
+		<TEXTVALUE>250 मिलीलीटर के बीकर में 100 मिलीलीटर आसुत जल लें और बीकर गर्म करें (पानी उबालें नहीं। गर्म पानी का प्रयोग किया जाना है क्योंकि गोंद गर्म पानी में पूरी तरह से घुलनशील है)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pouringstarchsolutiongum">
+	<TEXT ID="Pouringstarchsolutiongum_one">
+		<TEXTVALUE>कांच की छड़ का प्रयोग कर चलाते हुए गर्म पानी में धीरे-धीरे पेस्ट डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolutiongum_two">
+		<TEXTVALUE>लगभग 10 मिनट तक गर्माना जारी रखें और इसके बाद बीकर ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Funnelstandpapergum">
+	<TEXT ID="Funnelstandpapergum_one">
+		<TEXTVALUE>स्टैण्ड से लगे कीप में फिल्टर पेपर लगाएं और कीप के ऊपर कांच की छड़ रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpapergum_two">
+		<TEXTVALUE>कांच की छड़ का प्रयोग कर, कीप के माध्यम से बीकर की सामग्री छानें और शंक्वाकार कुप्पी में छनी हुई सामग्री एकत्र कर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutiongum">
+	<TEXT ID="Starchsolutiongum_one">
+		<TEXTVALUE> 'गोंद की सॉल' के रूप में छने हुए पदार्थ को चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Title">
+	<TEXT ID="Title_01_one">
+		<TEXTVALUE>हमें चाहिए अंडा, बीकर, कांच की छड़, 5% NaCl का विलयन, फिल्टर पेपर, कीप, शंक्वाकार कुप्पी, क्लैंप सहित आयरन स्टैंड।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Takingegg">
+	<TEXT ID="Takingegg_one">
+		<TEXTVALUE>अंडा लें। </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Takingegg_two">
+		<TEXTVALUE>कांच की छड़ से ठोंक कर अंडे का बाहरी खोल तोड़ दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Eggbrocken">
+	<TEXT ID="Eggbrocken_one">
+		<TEXTVALUE>कांच की छड़ से ठोंक कर अंडे का बाहरी खोल तोड़ दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringEggalbumin">
+	<TEXT ID="PouringEggalbumin_one">
+		<TEXTVALUE>बीकर में पीली जर्दी सहित रंगहीन तरल (अंडे की सफेदी) एकत्र कर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringalbuminbeaker">
+	<TEXT ID="Pouringalbuminbeaker_one">
+		<TEXTVALUE>एक दूसरे बीकर में रंगहीन तरल (अंडे की सफेदी) छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PouringalbuminWater">
+	<TEXT ID="PouringalbuminWater_one">
+		<TEXTVALUE>5% सोडियम क्लोराइड के विलयन से युक्त् बीकर में अंडे की सफेदी डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringalbuminWaterzoom">
+	<TEXT ID="PouringalbuminWaterzoom_one">
+		<TEXTVALUE>5% सोडियम क्लोराइड के विलयन से युक्त् बीकर में अंडे की सफेदी डालें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="PouringalbuminWaterzoom_two">
+		<TEXTVALUE>लगभग 15-20 मिनट तक लगातार इसे चलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="FunnelstandpaperAlbumin">
+	<TEXT ID="FunnelstandpaperAlbumin_one">
+		<TEXTVALUE>स्टैण्ड से लगे कीप में फिल्टर पेपर लगाएं और कीप के ऊपर कांच की छड़ रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunnelstandpaperAlbumin_two">
+		<TEXTVALUE>कीप के माध्यम से बीकर की सामग्री छानें और शंक्वाकार कुप्पी में छनी हुई सामग्री को एकत्र कर लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Albuminsolution1">
+	<TEXT ID="Albuminsolution1_one">
+		<TEXTVALUE>'अंडे की सफेदी के सॉल' के रूप में छनी हुई सामग्री को चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title1a">
+	<TEXT ID="title1a_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introd007">
+	<TEXT ID="introd007_one">
+	 	<TEXTVALUE>हमें चाहिए, 2% एल्यूमिनियम क्लोराइड, सिल्वर नाइट्रेट का विलयन, ड्रॉपर, कांच की छड़, आसुत जल, बीकर, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, कीप, फिल्टर पेपर, शंक्वाकार कुप्पी, चर्मपत्र की झिल्ली, क्लैम्प सहित आयरन स्टैण्ड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamingOutProcess">
+	<TEXT ID="SteamingOutProcess_one">
+		<TEXTVALUE>250 मिलीलीटर की शंक्वाकार कुप्पी लें और स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।
+
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamClose">
+	<TEXT ID="SteamClose_one">
+		<TEXTVALUE>250 मिलीलीटर की शंक्वाकार कुप्पी लें और स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।
+
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MeasuringJar">
+	<TEXT ID="MeasuringJar_one">
+		<TEXTVALUE>इस साफ शंक्वाकार कुप्पी में, 100 मिलीलीटर आसुत जल मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heating">
+	<TEXT ID="Heating_one">
+		<TEXTVALUE>बुन्सेन बर्नर पर कुप्पी रखकर उबालने के लिए पानी युक्त शंक्वाकार कुप्पी गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="UsingDropper">
+	<TEXT ID="UsingDropper_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर 2% एल्यूमिनियम क्लोराइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Evaporate">
+	<TEXT ID="Evaporate_one">
+		<TEXTVALUE>उबलते हुए पानी में बूंद-बूंद करके अमोनियम क्लोराइड का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Evaporate_two">
+		<TEXTVALUE>तब तक उबालते रहें जब तक एल्यूमीनियम हाइड्राक्साडइड का सफेद सरेस विलयन नहीं बन जाता है।</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Evaporate_three">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="ferrricsolution">
+	<TEXT ID="ferrricsolution_one">
+		<TEXTVALUE>कमरे के तापमान पर कुछ समय तक शंक्वाकार कुप्पी की सामग्री अछूती रखें। "एल्यूमीनियम हाइड्राक्साइड के सॉल" के रूप में विलयन चिह्नित करें।
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembrane">
+	<TEXT ID="Alumembrane_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembranetofunnel">
+	<TEXT ID="Alumembranetofunnel_one">
+		<TEXTVALUE>कीप लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Alumembranetofunnel_two">
+		<TEXTVALUE>कीप में चर्मपत्र की झिल्ली लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alhydroxidesolution">
+	<TEXT ID="alhydroxidesolution_one">
+		<TEXTVALUE>कीप के माध्यम से चर्मपत्र की थैली में एल्यूमिनियम हाइड्रॉक्साइड का सॉल तब तक मिलाएं जब तक दो-तिहाई थैली भर न जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutiontomembrane">
+	<TEXT ID="solutiontomembrane_one">
+		<TEXTVALUE>कीप के माध्यम से चर्मपत्र की थैली में एल्यूमिनियम हाइड्रॉक्साइड का सॉल तब तक मिलाएं जब तक दो-तिहाई थैली भर न जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipintowater">
+	<TEXT ID="dipintowater_one">
+		<TEXTVALUE>स्टैंड से सॉल युक्त झिल्ली सहित कीप लगाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_two">
+		<TEXTVALUE>आसुत जल में चर्मपत्र की थैली डुबोएं और क्लैम्प के माध्यम से उसी स्थिति में कीप लगाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_three">
+		<TEXTVALUE>आसुत जल में चर्मपत्र की थैली डुबोएं और क्लैम्प के माध्यम से उसी स्थिति में कीप लगाएं।
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_four">
+		<TEXTVALUE>आधे घंटे बाद, ड्रॉपर का प्रयोग कर बीकर से पानी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="totesttubestand">
+	<TEXT ID="totesttubestand_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sivernitrate">
+	<TEXT ID="sivernitrate_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitate">
+	<TEXT ID="whiteprecipitate_one">
+		<TEXTVALUE> पानी युक्त परखनली में सिल्वर नाइट्रेट के विलयन की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whiteprecipitate_two">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे पानी में क्लोराइड के आयनों की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alucloseup">
+	<TEXT ID="Alucloseup_one">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे पानी में क्लोराइड के आयनों की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondbeaker">
+	<TEXT ID="secondbeaker_one">
+		<TEXTVALUE>ताजे आसुत जल से बीकर का पानी बदलें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondbeaker_two">
+		<TEXTVALUE>इसे 10 मिनट तक खड़ा रहने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Frombeaker">
+	<TEXT ID="Frombeaker_one">
+		<TEXTVALUE>क्लोराइड आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttubetransfer">
+	<TEXT ID="totesttubetransfer_one">
+		<TEXTVALUE>क्लोराइड आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromsivenitrate">
+	<TEXT ID="fromsivenitrate_one">
+		<TEXTVALUE>क्लोराइड आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitatesolution">
+	<TEXT ID="whiteprecipitatesolution_one">
+		<TEXTVALUE>यदि सफेद तलछट बनता है, तो अपोहन जारी रखा जाना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateclose">
+	<TEXT ID="whiteprecipitateclose_one">
+		<TEXTVALUE> यदि कोई सफेद तलछट नहीं बनता है, तो क्लोराइड आयन अनुपस्थित हैं। इससे पता चलता है कि अपोहन पूरा हो गया है, नहीं तो सॉल में अभी भी क्लोराइड के आयन होते और इसलिए अपोहन जारी रखा जाना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>हमें चाहिए, 2%  फेरिक क्लोराइड का विलयन,सिल्वर नाइट्रेट का विलयन, ड्रॉपर, कांच की छड़, आसुत जल, बीकर, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, कीप, फिल्टर पेपर, शंक्वाकार कुप्पी, चर्मपत्र की झिल्ली, क्लैम्प सहित आयरन स्टैण्ड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="FerricSteamingOutProcess">
+	<TEXT ID="FerricSteamingOutProcess_one">
+		<TEXTVALUE> 250 मिलीलीटर की शंक्वाकार कुप्पी लें। स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricSteamClose">
+	<TEXT ID="FerricSteamClose_one">
+		<TEXTVALUE>250 मिलीलीटर की शंक्वाकार कुप्पी लें। स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FerricMeasuringJar">
+	<TEXT ID="FerricMeasuringJar_one">
+		<TEXTVALUE>इस साफ शंक्वाकार कुप्पी में, 100 मिलीलीटर आसुत जल मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricHeating">
+	<TEXT ID="FerricHeating_one">
+		<TEXTVALUE>बुन्सेन बर्नर पर कुप्पी रखकर उबालने के लिए पानी युक्त शंक्वाकार कुप्पी गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricUsingDropper">
+	<TEXT ID="FerricUsingDropper_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर 2% फेरिक  क्लोराइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricEvaporate">
+	<TEXT ID="FerricEvaporate_one">
+		<TEXTVALUE>उबलते हुए पानी में बूंद-बूंद करके फेरिक  क्लोराइड का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_two">
+		<TEXTVALUE>तब तक उबालते रहें जब तक फेरिक हाइड्राक्साडइड का सफेद सरेस विलयन नहीं बन जाता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_three">
+		<TEXTVALUE>तब तक उबालते रहें जब तक फेरिक हाइड्राक्साडइड का सफेद सरेस विलयन नहीं बन जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="ferrricsolution1">
+	<TEXT ID="ferrricsolution1_one">
+		<TEXTVALUE>कमरे के तापमान पर कुछ समय तक शंक्वाकार कुप्पी की सामग्री अछूती रखें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ferrricsolution1_two">
+		<TEXTVALUE>"फेरिक हाइड्राक्साइड के सॉल" के रूप में विलयन चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembrane">
+	<TEXT ID="Ferricmembrane_one">
+		<TEXTVALUE>कीप लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembranetofunnel">
+	<TEXT ID="Ferricmembranetofunnel_one">
+		<TEXTVALUE>कीप में चर्मपत्र की झिल्ली लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrichydroxidesolution">
+	<TEXT ID="ferrrichydroxidesolution_one">
+		<TEXTVALUE> 'फेरिक हाइड्रॉक्साइड का सॉल' लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsolutiontomembrane">
+	<TEXT ID="Ferricsolutiontomembrane_one">
+		<TEXTVALUE>कीप के माध्यम से चर्मपत्र की थैली में फेरिक हाइड्रॉक्साइड का सॉल तब तक डालें जब तक की थैली दो-तिहाई भर नहीं जाती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricdipintowater">
+	<TEXT ID="Ferricdipintowater_one">
+		<TEXTVALUE>स्टैंड से सॉल युक्त झिल्ली सहित कीप लगाएं। बीकर में लिए गए आसुत जल में चर्मपत्र की थैली डुबोएं और क्लैंम्प के माध्यम से सही स्थिति में कीप लगाएं। लगभग आधे घंटे तक इसे खड़ा रहने दें।
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricdipintowater_two">
+		<TEXTVALUE>आधे घंटे बाद, ड्रॉपर का प्रयोग कर बीकर से पानी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>इसे परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsivernitrate">
+	<TEXT ID="Ferricsivernitrate_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricwhiteprecipitate">
+	<TEXT ID="Ferricwhiteprecipitate_one">
+		<TEXTVALUE>. इसे पानी युक्त  परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricwhiteprecipitate_two">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे पानी में क्लोराइड के आयनों की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferriccloseup">
+	<TEXT ID="Ferriccloseup_one">
+		<TEXTVALUE>तुरंत ही AgCl का सफेद तलछट बनता है जिससे पानी में क्लोराइड के आयनों की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondsolution">
+	<TEXT ID="secondsolution_one">
+		<TEXTVALUE>ताजे आसुत जल से बीकर का पानी बदलें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondsolution_two">
+		<TEXTVALUE>इसे 10 मिनट तक खड़ा रहने दें।.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+		<TEXTVALUE>क्लोराइड के आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferrictotesttubetransfer">
+	<TEXT ID="Ferrictotesttubetransfer_one">
+		<TEXTVALUE>क्लोराइड के आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="fromsivernitrate">
+	<TEXT ID="fromsivernitrate_one">
+		<TEXTVALUE>क्लोराइड के आयनों की उपस्थिति के लिए परीक्षण दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whteprecipitatetube">
+	<TEXT ID="whteprecipitatetube_one">
+		<TEXTVALUE>यदि सफेद तलछट बनता है, तो अपोहन जारी रखा जाना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateresult">
+	<TEXT ID="whiteprecipitateresult_one">
+		<TEXTVALUE>यदि कोई सफेद तलछट नहीं बनता है, तो क्लोराइड आयन अनुपस्थित हैं। इससे पता चलता है कि अपोहन पूरा हो गया है, नहीं तो सॉल में अभी भी क्लोराइड के आयन होते और इसलिए अपोहन जारी रखा जाना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1Arsetitle">
+	<TEXT ID="1Arsetitle_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2Arseintro">
+	<TEXT ID="2Arseintro_one">
+		<TEXTVALUE>हमें चाहिए, ठोस संखियादार ऑक्साइड, हाइड्रोजन सल्फाइड गैस, आसुत जल, शंक्वाकार कुप्पी, बीकर, आरबी कुप्पी, कांच की छड़, कांच की नलिका, फ्लुटेड फिल्टर पेपर, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, किप्स उपकरण,  क्लैम्प सहित आयरन स्टैण्ड </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Arsetakeconicalflask">
+	<TEXT ID="3Arsetakeconicalflask_one">
+		<TEXTVALUE> 250 मिलीलीटर की शंक्वाकार कुप्पी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4Arsesteamingoutprocess">
+	<TEXT ID="4Arsesteamingoutprocess_one">
+		<TEXTVALUE>स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Arsesteamingzoom">
+	<TEXT ID="5Arsesteamingzoom_one">
+		<TEXTVALUE>स्टीमिंग आऊट प्रक्रिया से इसे साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Arsesteamingback">
+	<TEXT ID="6Arsesteamingback_one">
+		<TEXTVALUE>साफ शंक्वाकार कुप्पी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7Arsetakeconicalflaskback">
+	<TEXT ID="7Arsetakeconicalflaskback_one">
+		<TEXTVALUE>साफ शंक्वाकार कुप्पी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8Arsetaktake">
+	<TEXT ID="8Arsetaktake_one">
+		<TEXTVALUE>इस साफ कुप्पी में, 0.2 ग्राम संखियादार ऑक्साइड मिलाएं।</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+<SCENE ID="9Arsetakeconicalflask3">
+	<TEXT ID="9Arsetakeconicalflask3_one">
+		<TEXTVALUE>इस साफ कुप्पी में, 0.2 ग्राम संखियादार ऑक्साइड मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10Arsetakeconwater">
+	<TEXT ID="10Arsetakeconwater_one">
+		<TEXTVALUE>मापने वाले वाले जार में 100 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11Arsetakeconwater2">
+	<TEXT ID="11Arsetakeconwater2_one">
+		<TEXTVALUE>मापने वाले वाले जार में 100 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12Arsetakeconwater3">
+	<TEXT ID="12Arsetakeconwater3_one">
+		<TEXTVALUE>विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13Arsesteamingflame">
+	<TEXT ID="13Arsesteamingflame_one">
+		<TEXTVALUE>बुन्सेन बर्नर पर कुप्पी रखकर लगभग 10 मिनट तक चलाते हुए विलयन उबालें। उबलते हुए आसुत जल के साथ संखियादार ऑक्साइड अपोहन से गुजरता है जिससे संखियादार अम्ल बनता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14Arsesteamingflam6">
+	<TEXT ID="14Arsesteamingflam6_one">
+		<TEXTVALUE>बुन्सेन बर्नर पर कुप्पी रखकर लगभग 10 मिनट तक चलाते हुए विलयन उबालें। उबलते हुए आसुत जल के साथ संखियादार ऑक्साइड अपोहन से गुजरता है जिससे संखियादार अम्ल बनता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15glassrod">
+	<TEXT ID="15glassrod_one">
+		<TEXTVALUE>कीप में फ्लुटेड फिल्टर पेपर लगाएं और कीप के ऊपर कांच की छड़ रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15glassrod_two">
+		<TEXTVALUE>कीप में फ्लुटेड फिल्टर पेपर लगाएं और कीप के ऊपर कांच की छड़ रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16glassrozoom">
+	<TEXT ID="16glassrozoom_one">
+		<TEXTVALUE>फ्लुटेड फिल्टर पेपर के माध्यम से कुप्पी में गर्म विलयन छानें और एक दूसरे बीकर में छनी हुई सामग्री एकत्र कर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17takebeaker">
+	<TEXT ID="17takebeaker_one">
+		<TEXTVALUE>संखियादार अम्ल के विलयन में हाइड्रोजन सल्फाइड गैस की धीमी धारा गुजारें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takebeaker_two">
+		<TEXTVALUE>संखियादार अम्ल हाइड्रोजन सल्फाइड के साथ अभिक्रिया करता है जिससे पीले रंग का संखियादार सल्फाइड बनता है। हाइड्रोजन सल्फाइड गैस तब तक गुजारना जारी रखें जब तक रंग की तीव्रता नहीं बदलती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17A">
+	<TEXT ID="17A_one">
+		<!--<TEXTVALUE>Pass a slow current of H[sub]2[/sub]S into As[sub]2[/sub]O[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>तब तक सॉल उबालकर सॉल से अतिरिक्त हाइड्रोजन सल्फाइड गैस बाहर निकालें जब तक कि पलायन करने वाली हुई गैस लेड एसीटेट पेपर को काला नहीं कर देती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_two">
+		<!--<TEXTVALUE>The solution develops a yellow color due to the formation of As[sub]2[/sub]S[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>तब तक सॉल उबालकर सॉल से अतिरिक्त हाइड्रोजन सल्फाइड गैस बाहर निकालें जब तक कि पलायन करने वाली हुई गैस लेड एसीटेट पेपर को काला नहीं कर देती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_three">
+		<TEXTVALUE></TEXTVALUE>		
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18glassrozoom3">
+	<TEXT ID="18glassrozoom3_one">
+		<TEXTVALUE>फ्लुटेड फिल्टर पेपर के माध्यम से विलयन छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20glassrozoom4">
+	<TEXT ID="20glassrozoom4_one">
+		<TEXTVALUE>शुष्क शंक्वाकार कुप्पी में चमकीली पीली छनी हुई सामग्री एकत्र कर लें और इस पर कॉर्क लगा दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="20glassrozoom4_two">
+		<TEXTVALUE> 'संखियादार सल्फाइड के सॉल' के रूप में छनी हुई सामग्री को चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1028 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="title">
+
+	<TEXT ID="string_01">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ സംയോജനം നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strng_111">
+	<TEXTVALUE>തുടങ്ങുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="buttons">
+	<TEXT ID="string_2">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ സംയോജനം നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strnig_3">
+	<TEXTVALUE>ഓക്സാലിക്ക്‌ ആസിഡ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>ഫെറസ് അമോണിയം സൾഫേറ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="0title">
+	<TEXT ID="title_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട്(ഫെറസ് അമോണിയം സൾഫേറ്റ്) സ്റ്റാൻഡേർഡ് ലായനിയുടെ തയ്യാറാക്കൽ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_5">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ സംയോജനം നിർണ്ണയം</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമായവ: 250 മി.ലി കോണിക്കല്‍ ഫ്ലാസ്ക്, 250 മി.ലി സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക്, മോഹ്ർ സാൾട്ട് ക്രിസ്റ്റലുകള്‍, 250 മി.ലി ബീക്കര്‍, ശുദ്ധജലം, ഫണല്‍, അളവ് കുപ്പി, ഇലക്ട്രോണിക് ത്രാസ്, നേർപ്പിച്ച H[sub]2[/sub]SO[sub]4[/sub],</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="1intro_two">
+	<TEXTVALUE>20 മി.ലി പിപ്പെറ്റ്, ടെസ്റ്റ് ട്യൂബ്, അളവ് ജാര്‍, സ്പാറ്റുല, ഗ്ലാസ് ദണ്ഡ്, വെള്ള ടൈൽ, ട്രിപ്പോഡ് സ്റ്റാൻഡ്, വയർ ഗോസ് , ബുൻസൻ ബർണര്‍ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE> മോഹ്ർ സാൾട്ട് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>ശുദ്ധജലം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+	<TEXTVALUE>ഒരു അളവ് കുപ്പി എടുത്ത് ഒരു ഇലക്ട്രോണിക് ബാലൻസില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+	<TEXTVALUE>ഒരു അളവ് കുപ്പി എടുത്ത് ഒരു ഇലക്ട്രോണിക് ബാലൻസില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+	<TEXTVALUE>ബാലൻസ് പൂജ്യമായി ക്രമീകരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Mohrssalt">
+	<TEXT ID="mohrssalt_txt">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട്</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="5Mohrssalt_one">
+	<TEXTVALUE>ഒരു സ്പാറ്റുല ഉപയോഗിച്ച് മോഹ്ർ സാൾട്ട് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+	<TEXTVALUE>അത് അളവ് കുപ്പിയില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+	<TEXTVALUE>4.9 ഗ്രാം മോഹ്ർ സാൾട്ട്  ക്രിസ്റ്റലുകള്‍ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+	<TEXTVALUE>ത്രാസില്‍ നിന്ന് അളവ് കുപ്പി മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+	<TEXTVALUE>250 മി.ലി ബീക്കറിലേക്ക് അളന്നെടുത്ത മോഹ്ർ സാൾട്ട് ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11h2so4">
+	<TEXT ID="11h2so4_one">
+	<TEXTVALUE>5 മി.ലി ഗാഡ H[sub]2[/sub]SO[sub]4[/sub] ഒരു അളവ് പാത്രത്തിൽ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="121JAR">
+	<TEXT ID="121JAR_one">
+	<TEXTVALUE>5 മി.ലി ഗാഡ H[sub]2[/sub]SO[sub]4[/sub] ഒരു അളവ് പാത്രത്തിൽ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13gzoo">
+	<TEXT ID="13gzoo_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട് ക്രിസ്റ്റലുകള്‍ അടങ്ങിയ ബീക്കറിലേക്ക് അത് പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14pour">
+	<TEXT ID="14pour_one">
+	<TEXTVALUE>അളവ് കുപ്പിയില്‍ ഒട്ടിപ്പിടിച്ചിരിക്കുന്ന കണികകൾ ബീക്കറിലേക്ക് മാറ്റാന്‍ അളവ് കുപ്പി   ശുദ്ധജലത്തില്‍ കഴുകുക. (ഈ പ്രക്രിയ രണ്ടോ മൂന്നോ പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15sta">
+	<TEXT ID="15sta_one">
+	<TEXTVALUE>കഴുകിയ ജലം ബീക്കറിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15sta_two">
+	<TEXTVALUE>വൃത്തിയുള്ള ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ബീക്കറിലെ  മോഹ്ർ സാൾട്ട് ക്രിസ്റ്റലുകള്‍ സാവധാനം ഇളക്കി അലിയിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16tk">
+	<TEXT ID="16tk_one">
+	<TEXTVALUE>അതിനുശേഷം ഒരു ഫണല്‍ ഉപയോഗിച്ച് ബീക്കറിലെ മുഴുവൻ ലായനിയും 250 മി.ലി സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16ro">
+	<TEXT ID="16ro_one">
+	<TEXTVALUE>ബീക്കറില്‍ ഒട്ടിപ്പിടിച്ചിരിക്കുന്ന കണികകൾ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റാന്‍ ബീക്കര്‍ ശുദ്ധജലത്തില്‍ കഴുകുക (ഇത് രണ്ടോ മൂന്നോ പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17fl">
+	<TEXT ID="17fl_one">
+	<TEXTVALUE>കഴുകിയ ജലം  സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക്  പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18rod">
+	<TEXT ID="18rod_one">
+	<TEXTVALUE>അവസാനമായി ഗ്ലാസ് ദണ്ഡ്, ഫണല്‍, ഫണലിന്റെ അറ്റം എന്നിവ ശുദ്ധജലത്തില്‍ കഴുകുകയും അടയാളത്തിന് തൊട്ടുതാഴെ ജലത്തിന്റെ ലെവല്‍ വരുന്ന വിധത്തില്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക്  ശുദ്ധജലം ഒഴിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="19wash">
+	<TEXT ID="19wash_one">
+	<TEXTVALUE>അവസാനമായി ഗ്ലാസ് ദണ്ഡ്, ഫണല്‍, ഫണലിന്റെ അറ്റം എന്നിവ ശുദ്ധജലത്തില്‍ കഴുകുകയും അടയാളത്തിന് തൊട്ടുതാഴെ ജലത്തിന്റെ ലെവല്‍ വരുന്ന വിധത്തില്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക്  ശുദ്ധജലം ഒഴിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20p1">
+	<TEXT ID="20p1_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="21fi">
+	<TEXT ID="21fi_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="22p1">
+	<TEXT ID="22p1_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="23h">
+	<TEXT ID="23h_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനത്തെ  കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24p2">
+	<TEXT ID="24p2_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനത്തെ  കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24pzoom">
+	<TEXT ID="24pzoom_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനത്തെ  കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25cork">
+	<TEXT ID="25cork_one">
+	<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക് മൂടിവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="26mix">
+	<TEXT ID="26mix_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട് ലായനി മുഴുവൻ എല്ലായിടത്തും ഒരുപോലെ എത്തുന്നതിനായി സാവധാനം കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27rest">
+	<TEXT ID="27rest_one">
+	<TEXTVALUE>തയ്യാറാക്കിയ മോഹ്ർ സാൾട്ട്  ലായനിയുടെ മൊളാരിറ്റി 0.05 M ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="titration">
+	<TEXT ID="titration_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട്  ഉപയോഗിച്ചുള്ള KMnO<sub>4</sub> ലായനിയുടെ സംയോജനം/ മൊളാരിറ്റിയുടെ നിർണ്ണയം.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ സംയോജനം/ നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28brret">
+	<TEXT ID="28brret_one">
+	<TEXTVALUE>ബ്യൂറെറ്റ് സ്റ്റാൻഡില്‍ വൃത്തിയുള്ള ഒരു ബ്യൂറെറ്റ് വയ്ക്കുകയും ബ്യൂറെറ്റിന്റെ വായയില്‍  ഒരു ഫണല്‍ വയ്ക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="29km">
+	<TEXT ID="29km_one">
+	<TEXTVALUE>പൊട്ടാസ്യം പെർമാംഗനേറ്റ്  KMnO[sub]4[/sub] ലായനി അടങ്ങിയ ഒരു കുപ്പി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30but">
+	<TEXT ID="30but_one">
+	<TEXTVALUE>ഫണല്‍ വഴി ബ്യൂറെറ്റിലേക്ക്  ചെറിയ അളവില്‍  KMnO[sub]4[/sub] ലായനി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31tub">
+	<TEXT ID="31tub_one">
+	<TEXTVALUE>ഫണല്‍ നീക്കം ചെയ്ത് സ്റ്റാൻഡിൽ നിന്ന് ബ്യൂറെറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32r1">
+	<TEXT ID="32r1_one">
+	<TEXTVALUE>ഫണല്‍ നീക്കം ചെയ്ത് സ്റ്റാൻഡിൽ നിന്ന് ബ്യൂറെറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33rot">
+	<TEXT ID="33rot_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിനുള്ളിലുളള ഈർപ്പം നീക്കം ചെയ്യുന്നതിന് KMnO[sub]4[/sub] ലായനി ഉപയോഗിച്ച് ബ്യൂറെറ്റ് കഴുകുക(ഈ പ്രക്രിയ രണ്ടു മൂന്നു പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="34out">
+	<TEXT ID="34out_one">
+	<TEXTVALUE>കഴുകിയവ നീക്കുന്നതിനായി ബ്യൂറെറ്റ് സിങ്കിലേക്ക് കൊണ്ടുപോകുകയും സ്റ്റോപ്പ്-കോക്ക് നീക്കം ചെയ്യുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="35back">
+	<TEXT ID="35back_one">
+	<TEXTVALUE>അതിനുശേഷം സ്റ്റാൻഡില്‍ ബ്യൂറെറ്റ് വയ്ക്കുകയും ബ്യൂറെറ്റിന്റെ വായില്‍  ഒരു ഫണല്‍ വയ്ക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36km2">
+	<TEXT ID="36km2_one">
+	<TEXTVALUE>KMnO[sub]4[/sub] അടങ്ങിയ കുപ്പി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37bt">
+	<TEXT ID="37bt_one">
+	<TEXTVALUE>ഫണല്‍ ഉപയോഗിച്ച്  ബ്യൂറെറ്റില്‍ പൂജ്യം അടയാളത്തിന് തൊട്ടുമുകളിൽവരെ  KMnO[sub]4[/sub]  ലായനി നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38fi">
+	<TEXT ID="38fi_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിന് താഴെ ഒരു ബീക്കര്‍ വയ്ക്കുകയും  പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ബീക്കറിലേക്ക് ഒഴുകുന്ന വിധത്തില്‍  സാവധാനത്തിൽ സ്റ്റോപ്പ്-കോക്ക് തുറക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39lo">
+	<TEXT ID="39lo_one">
+	<TEXTVALUE>പ്രാരംഭ ബ്യൂറെറ്റ് റീഡിംഗ് പൂജ്യമായി സെറ്റ് ചെയ്യുക( KMnO[sub]4[/sub] ലായനിയില്‍ ബ്യൂറെറ്റ് റീഡിംഗ് എടുക്കുമ്പോള്‍ മുകളിലെ മെനിസ്കസ് റീഡ് ചെയ്യുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40bak">
+	<TEXT ID="40bak_one">
+	<TEXTVALUE>പ്രാരംഭ ബ്യൂറെറ്റ് റീഡിംഗ് പൂജ്യമായി സെറ്റ് ചെയ്യുക( KMnO[sub]4[/sub] ലായനിയില്‍ ബ്യൂറെറ്റ് റീഡിംഗ് എടുക്കുമ്പോള്‍ മുകളിലെ മെനിസ്കസ് റീഡ് ചെയ്യുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="41fla">
+	<TEXT ID="41fla_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ മോഹ്ർ സാൾട്ട് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42face">
+	<TEXT ID="42face_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ മോഹ്ർ  സാൾട്ട് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43f2">
+	<TEXT ID="43f2_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ മോഹ്ർ സാൾട്ട് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="44rot">
+	<TEXT ID="44rot_one">
+	<TEXTVALUE>പിപ്പറ്റിലെ ഈർപ്പം നീക്കം ചെയ്യുന്നതിന് മോഹ്ർ സാൾട്ട്  ലായനി ഉപയോഗിച്ച് പിപ്പറ്റ് കഴുകുക(ഈ പ്രക്രിയ രണ്ടു മൂന്നു പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45fo">
+	<TEXT ID="45fo_one">
+	<TEXTVALUE>പിപ്പറ്റ് സിങ്കിലേക്ക് കൊണ്ടുവരികയും ലായനി ഒഴുക്കിക്കളയുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46nj">
+	<TEXT ID="46nj_one">
+	<TEXTVALUE>വീണ്ടും  സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് മോഹ്ർ സാൾട്ട് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47f4">
+	<TEXT ID="47f4_one">
+	<TEXTVALUE>വീണ്ടും  സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് മോഹ്ർ സാൾട്ട് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="48vali">
+	<TEXT ID="48vali_one">
+	<TEXTVALUE>വീണ്ടും  സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് മോഹ്ർ സാൾട്ട് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="492k">
+	<TEXT ID="492k_one">
+	<TEXTVALUE>സാവധാനം വിരൽ  സ്വതന്ത്രമാക്കിക്കൊണ്ട് വ്യാപ്തം 20 മി.ലി ലേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="49lk">
+	<TEXT ID="49lk_one">
+	<TEXTVALUE>20 മി.ലി മോഹ്ർ സാൾട്ട് ലായനി കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="49zoom">
+	<TEXT ID="49zoom_one">
+	<TEXTVALUE>പിപ്പറ്റില്‍ നിന്നും ശേഷിക്കുന്ന ലായനി മാറ്റുന്നതിന് പിപ്പറ്റിന്റെ അഗ്രം കോണിക്കല്‍ ഫ്ലാസ്കിന്റെ താഴെ തൊടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="50dil">
+	<TEXT ID="50dil_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് നിറയെ  (ഏകദേശം 20മി.ലി) നേർപ്പിച്ച H[sub]2[/sub]SO[sub]4[/sub]) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51tub">
+	<TEXT ID="51tub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് നിറയെ  (ഏകദേശം 20മി.ലി) നേർപ്പിച്ച H[sub]2[/sub]SO[sub]4[/sub]) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="52fl">
+	<TEXT ID="52fl_one">
+	<TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്കിലേക്ക് മോഹ്ർ സാൾട്ട് ലായനി  ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53t1">
+	<TEXT ID="53t1_one">
+	<TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്ക് എടുത്ത് ബ്യൂറെറ്റിന് താഴെയായി ഒരു വെളുത്ത ടൈലില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="54Scene71">
+	<TEXT ID="54Scene71_one">
+	<TEXTVALUE>അതിനുശേഷം, അവസാന ഒറ്റത്തുള്ളി KMnO[sub]4[/sub] ലായനി ചേർത്തുകൊണ്ട് കോണിക്കല്‍ ഫ്ലാസ്കിലെ ലായനിയുടെ നിറം ഇളം പിങ്ക് നിറത്തിലേക്ക് മാറുന്നതുവരെ KMnO4 ലായനിയില്‍ ഇത് അനുമാപനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="55Scene72">
+	<TEXT ID="55Scene72_one">
+	<TEXTVALUE>അവസാന ബ്യൂററ്റ് റീഡിംഗ് എടുക്കുകയും അനുയോജ്യമായ മൂല്യം ലഭിക്കുന്നതുവരെ അനുമാപനം ആവർത്തിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="112chart">
+	<TEXT ID="112chart_one">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ പട്ടികയില്‍  രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>ആദ്യ ബ്യൂററ്റ്
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>അവസാന ബ്യൂററ്റ്
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE>ഉപയോഗിച്ച  KMnO4ന്റെ
+വ്യാപ്തം(ml)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="113Calculations">
+	<TEXT ID="113Calculations_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട്  ലായനിയുടെ വ്യാപ്തം, മോഹ്ർ സാൾട്ട് ലായനിയുടെ മൊളാരിറ്റി, പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ലായനിയുടെ വ്യാപ്തംഎന്നിവ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_two">
+	<TEXTVALUE>ഓക്സാലിക് ആസിഡിന്റെയും പൊട്ടാസ്യം പെർമാംഗനേറ്റിനന്റെയും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ രാസസമവാക്യത്തില്‍ നിന്നും, പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ 2 തന്മാപത്രകള്‍ മോഹര്‍ സാൾട്ടിന്റെ 10 തന്മാത്രകളുമായി ചേർന്ന് പ്രതിപവർത്തിക്കുന്നുവെന്നത് വ്യക്തമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_three">
+	<TEXTVALUE>തന്നിരിക്കുന്ന പൊട്ടാസ്യം പെർമാംഗനേറ്റിൽ ലായനിയുടെ മൊളാരിറ്റി, മൊളാരിറ്റി സമവാക്യം ഉപയോഗിച്ച് കണക്കാക്കാവുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_four">
+	<TEXTVALUE>പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ മൊളാരിറ്റി, പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ തന്മാത്രാ പിണ്ഡവുമായി ഗുണിച്ചുകൊണ്ട് തന്നിരിക്കുന്ന പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ലായനിയുടെ ദൃഢത കണക്കാക്കാന്‍ സാധിക്കുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>കണക്കുകൂട്ടലുകൾ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="string_11">
+	<TEXTVALUE>മോഹ്ർ സാൽട്ടിന്റ വ്യാപ്തം = 20 മി.ലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE>മോഹ്ർ സാൽട്ടിന്റ മോളാരിറ്റി = 0.05 M</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="string_14">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ വ്യാപ്തം = 21.2 മി.ലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>KMnO4ന്റെയും മോഹർ സാൾട്ടിന്റെയും പ്രവർത്തനം </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>തന്നിരിക്കുന്ന KMnO4 ന്റെ  മോളാരിറ്റി </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>മോളാരിറ്റിയുടെ സൂത്രവാക്യം 
+
+(KMnO4ന്റെ വ്യാപ്തം  ×KMnO4ന്റെ മോളാരിറ്റി )
+(മോഹർ സാൾട്ടിന്റെ വ്യാപ്തം× മോഹർ സാൾട്ടിന്റെ  മോളാരിറ്റി)
+(KMnO4ലെ മോളുകളുടെ എണ്ണം )
+(മോഹർ സാൾട്ടിലെ മോളുകളുടെ എണ്ണം ) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_18">
+	<TEXTVALUE>KMnO4ന്റെ മോളാർ മാസ്സ്  = 158 g/ mol 
+തന്നിരിക്കുന്ന KMnO4ന്റെ ശക്തി 
+ =KMnO4ൻറെ മോളാരിറ്റി× KMnO4ന്റെ മോളാർ മാസ്സ് 
+ =0.0094× 158=1.4852 g/ litre
+</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="string_b1">
+	<TEXTVALUE>പിന്നോട്ട്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="56title">
+	<TEXT ID="56title_one">
+	<TEXTVALUE>ഓക്സാലിക് ആസിഡിന്റെ സ്റ്റാൻഡേർഡ് ലായനി തയ്യാറാക്കൽ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_19">
+	<TEXTVALUE>ഓക്സാലിക് ആസിഡിന്റെ സ്റ്റാൻഡേർഡ് ലായനി തയ്യാറാക്കൽ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="57intro">
+	<TEXT ID="57intro_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമായവ: 250 മി.ലി കോണിക്കല്‍ ഫ്ലാസ്ക്, 250 മി.ലി സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക്, മോഹ്ർ സാൾട്ട് ക്രിസ്റ്റലുകള്‍, 250 മി.ലി ബീക്കര്‍, ശുദ്ധജലം, ഫണല്‍, അളവ് കുപ്പി, ഇലക്ട്രോണിക് ത്രാസ്, നേർപ്പിച്ച H2SO4,</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="57intro_two">
+	<TEXTVALUE>ബ്യൂറെറ്റ്, ബ്യൂറെറ്റ് സ്റ്റാൻഡ്, 20 മി.ലി പിപ്പെറ്റ്, ടെസ്റ്റ് ട്യൂബ്, സ്പാറ്റുല, ഗ്ലാസ് ദണ്ഡ്, വെളുത്ത ടൈൽ, ട്രിപ്പോഡ് സ്റ്റാൻഡ്, വയർ കമ്പി, ബുൻസൻ ബർണര്‍ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_20">
+	<TEXTVALUE>ഓക്സാലിക്ക്‌ ആസിഡ് ക്രിസ്റ്റൽ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_21">
+	<TEXTVALUE>ശുദ്ധജലം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58botil">
+	<TEXT ID="58botil_one">
+	<TEXTVALUE>ഒരു അളവ് കുപ്പി എടുത്ത് ഒരു ഇലക്ട്രോണിക് ബാലൻസില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59weing">
+	<TEXT ID="59weing_one">
+	<TEXTVALUE>ഒരു അളവ് കുപ്പി എടുത്ത് ഒരു ഇലക്ട്രോണിക് ബാലൻസില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60tare">
+	<TEXT ID="60tare_one">
+	<TEXTVALUE>ബാലൻസ് പൂജ്യമായി ക്രമീകരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61Mohrssalt">
+	<TEXT ID="61Mohrssalt_one">
+	<TEXTVALUE>ഒരു സ്പാറ്റുല ഉപയോഗിച്ച് കുറച്ച് ഓക്സാലിക് ആസിഡ് ക്രിസ്റ്റലുകള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62open">
+	<TEXT ID="62open_one">
+	<TEXTVALUE>അത് അളവ് കുപ്പിയില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63view">
+	<TEXT ID="63view_one">
+	<TEXTVALUE>3.15 ഗ്രാം ഓക്സാലിക് ആസിഡ്  ക്രിസ്റ്റലുകള്‍ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64go">
+	<TEXT ID="64go_one">
+	<TEXTVALUE>ത്രാസില്‍ നിന്ന് അളവ് കുപ്പി മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65Scene75">
+	<TEXT ID="65Scene75_one">
+	<TEXTVALUE>ശ്രദ്ധാപൂർവ്വം 250 മി.ലി ബീക്കറിലേക്ക് അത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="65Scene75_two">
+	<TEXTVALUE>അളവ് കുപ്പിയില്‍ ഒട്ടിപ്പിടിച്ചിരിക്കുന്ന കണികകൾ ബീക്കറിലേക്ക് മാറ്റാന്‍ അളവ് കുപ്പി   ശുദ്ധജലത്തില്‍ കഴുകുക (ഈ പ്രക്രിയ രണ്ടോ മൂന്നോ പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="665sta">
+	<TEXT ID="665sta_one">
+	<TEXTVALUE>കഴുകിയ ജലം ബീക്കറിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="665sta_two">
+	<TEXTVALUE>വൃത്തിയുള്ള ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് സാവധാനം ഇളക്കിക്കൊണ്ട്  ബീക്കറിലെ ഓക്സാലിക് ആസിഡ് ക്രിസ്റ്റലുകള്‍  അലിയിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6716tk">
+	<TEXT ID="6716tk_one">
+	<TEXTVALUE>അതിനുശേഷം ഒരു ഫണല്‍ ഉപയോഗിച്ച് ബീക്കറിലെ മുഴുവൻ ലായനിയും 250മി.ലി സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6816ro">
+	<TEXT ID="6816ro_one">
+	<TEXTVALUE>ബീക്കറില്‍ ഒട്ടിപ്പിടിച്ചിരിക്കുന്ന കണികകൾ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റാന്‍ ബീക്കര്‍ ശുദ്ധജലത്തില്‍ കഴുകുക. (ഇത് രണ്ടോ മൂന്നോ പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6917fl">
+	<TEXT ID="6917fl_one">
+	<TEXTVALUE>കഴുകിയ ജലം  സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക്  പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7018rod">
+	<TEXT ID="7018rod_one">
+	<TEXTVALUE>അവസാനമായി ഗ്ലാസ് ദണ്ഡ്, ഫണല്‍, ഫണലിന്റെ അറ്റം എന്നിവ ശുദ്ധജലത്തില്‍ കഴുകുകയും അടയാളത്തിന് തൊട്ടുതാഴെ ജലത്തിന്റെ ലെവല്‍ വരുന്ന വിധത്തില്‍ സ്റ്റാൻഡേ്ർഡ് ഫ്ലാസ്കിലേക്ക്  ശുദ്ധജലം ഒഴിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7119wash">
+	<TEXT ID="7119wash_one">
+	<TEXTVALUE>അവസാനമായി ഗ്ലാസ് ദണ്ഡ്, ഫണല്‍, ഫണലിന്റെ അറ്റം എന്നിവ ശുദ്ധജലത്തില്‍ കഴുകുകയും അടയാളത്തിന് തൊട്ടുതാഴെ ജലത്തിന്റെ ലെവല്‍ വരുന്ന വിധത്തില്‍ സ്റ്റാൻഡേ്ർഡ് ഫ്ലാസ്കിലേക്ക്  ശുദ്ധജലം ഒഴിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7119wash_two">
+	<TEXTVALUE>അടയാളത്തിന് തൊട്ടുതാഴെ ജലത്തിന്റെ ലെവല്‍ വരുന്ന വിധത്തില്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക്  വേണ്ടത്ര ശുദ്ധജലം ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7220p1">
+	<TEXT ID="7220p1_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7321fi">
+	<TEXT ID="7321fi_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7422p1">
+	<TEXT ID="7422p1_one">
+	<TEXTVALUE>അതിനുശേഷം, ചെറിയ അളവില്‍ ശുദ്ധജലം പിപ്പറ്റിലൂടെ പുറത്തേക്ക് കൊണ്ടുവരിക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7523h">
+	<TEXT ID="7523h_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനമായി കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7624p2">
+	<TEXT ID="7624p2_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനമായി കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7724pzoom">
+	<TEXT ID="7724pzoom_one">
+	<TEXTVALUE>മെനിസ്കസിന്റെ താഴത്തെ ലെവല്‍ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ മാർക്കില്‍ തൊടുന്നതുവരെ ഒരു പിപ്പറ്റ് ഉപയോഗിച്ച് അവസാനമായി കുറച്ചുതുള്ളി ശുദ്ധജലം ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7825cork">
+	<TEXT ID="7825cork_one">
+	<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക് മൂടിവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7926mix">
+	<TEXT ID="7926mix_one">
+	<TEXTVALUE>മോഹ്ർ സാൾട്ട് ലായനി മുഴുവൻ എല്ലായിടത്തും ഒരുപോലെ എത്തുന്നതിനായി സാവധാനം കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8027rest">
+	<TEXT ID="8027rest_one">
+	<TEXTVALUE>തയ്യാറാക്കിയ മോഹ്ർ സാൾട്ട് ലായനിയുടെ മൊളാരിറ്റി  0.05 M ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81titration">
+	<TEXT ID="81titration_one">
+	<TEXTVALUE>KMnO<sub>4</sub> ലായനിയുടെ സംയോജനം നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_22">
+	<TEXTVALUE>KMnO<sub>4</sub> ലായനിയുടെ സംയോജനം നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8228brret">
+	<TEXT ID="8228brret_one">
+	<TEXTVALUE>ബ്യൂറെറ്റ് സ്റ്റാൻഡില്‍ വൃത്തിയുള്ള ഒരു ബ്യൂറെറ്റ് വയ്ക്കുകയും ബ്യൂറെറ്റിന്റെ വായയില്‍  ഒരു ഫണല്‍ വയ്ക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8329km">
+	<TEXT ID="8329km_one">
+	<TEXTVALUE>പൊട്ടാസ്യം പെർമാംഗനേറ്റ്  KMnO4 ലായനി അടങ്ങിയ ഒരു കുപ്പി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8430but">
+	<TEXT ID="8430but_one">
+	<TEXTVALUE>ഫണല്‍ വഴി ബ്യൂറെററ്റിലേക്ക്  ചെറിയ അളവില്‍  KMnO[sub]4[/sub] ലായനി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8531tub">
+	<TEXT ID="8531tub_one">
+	<TEXTVALUE>ഫണല്‍ നീക്കംചെയ്ത് സ്റ്റാൻഡിൽ നിന്ന് ബ്യൂറെറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8632r1">
+	<TEXT ID="8632r1_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിനുള്ളിലുളള ഈർപ്പം നീക്കം ചെയ്യുന്നതിന് KMnO4 ലായനി ഉപയോഗിച്ച് ബ്യൂറെറ്റ് കഴുകുക (ഈ പ്രക്രിയ രണ്ടു മൂന്നു പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8733rot">
+	<TEXT ID="8733rot_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിനുള്ളിലുളള ഈർപ്പം നീക്കം ചെയ്യുന്നതിന് KMnO4 ലായനി ഉപയോഗിച്ച് ബ്യൂറെറ്റ് കഴുകുക (ഈ പ്രക്രിയ രണ്ടു മൂന്നു പ്രാവശ്യം ആവർത്തിക്കുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8834out">
+	<TEXT ID="8834out_one">
+	<TEXTVALUE>കഴുകിയവ നീക്കുന്നതിനായി ബ്യൂറെറ്റ് സിങ്കിലേക്ക് കൊണ്ടുപോകുകയും സ്റ്റോപ്പ്-കോക്ക് നീക്കം ചെയ്യുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8935back">
+	<TEXT ID="8935back_one">
+	<TEXTVALUE>അതിനുശേഷം സ്റ്റാൻഡില്‍ ബ്യൂറെറ്റ് വയ്ക്കുകയും ബ്യൂറെറ്റിന്റെ വായില്‍ ഒരു ഫണല്‍ വയ്ക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9036km2">
+	<TEXT ID="9036km2_one">
+	<TEXTVALUE>KMnO4 അടങ്ങിയ കുപ്പി എടുക്കുക. ഫണല്‍ ഉപയോഗിച്ച്  ബ്യൂറെറ്റില്‍ പൂജ്യം അടയാളത്തിന് തൊട്ടുമുകളിലായി KMnO4 ലായനി  നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9137bt">
+	<TEXT ID="9137bt_one">
+	<TEXTVALUE>KMnO4 അടങ്ങിയ കുപ്പി എടുക്കുക. ഫണല്‍ ഉപയോഗിച്ച്  ബ്യൂറെറ്റില്‍ പൂജ്യം അടയാളത്തിന് തൊട്ടുമുകളിലായി KMnO4 ലായനി  നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9238fi">
+	<TEXT ID="9238fi_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിന് താഴെ ഒരു ബീക്കര്‍ വയ്ക്കുകയും പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ബീക്കറിലേക്ക് ഒഴുകുന്ന വിധത്തില്‍ സാവധാനത്തിൽ സ്റ്റോപ്പ്-കോക്ക് തുറക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9339lo">
+	<TEXT ID="9339lo_one">
+	<TEXTVALUE>പ്രാരംഭ ബ്യൂറെറ്റ് റീഡിംഗ് പൂജ്യമായി സെറ്റ് ചെയ്യുക ( KMnO[sub]4[/sub] ലായനിയില്‍ ബ്യൂറെറ്റ് റീഡിംഗ് എടുക്കുമ്പോള്‍ മുകളിലെ മെനിസ്കസ് റീഡ് ചെയ്യുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9440bak">
+	<TEXT ID="9440bak_one">
+	<TEXTVALUE>പ്രാരംഭ ബ്യൂറെറ്റ് റീഡിംഗ് പൂജ്യമായി സെറ്റ് ചെയ്യുക ( KMnO[sub]4[/sub] ലായനിയില്‍ ബ്യൂറെറ്റ് റീഡിംഗ് എടുക്കുമ്പോള്‍ മുകളിലെ മെനിസ്കസ് റീഡ് ചെയ്യുക).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9541fla">
+	<TEXT ID="9541fla_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ ഓക്സാലിക് ആസിഡ് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9642face">
+	<TEXT ID="9642face_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ ഓക്സാലിക് ആസിഡ് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9743f2">
+	<TEXT ID="9743f2_one">
+	<TEXTVALUE>ഒരു 20 മി.ലി പിപ്പെറ്റ് എടുത്ത് ചെറിയ അളവില്‍ ഓക്സാലിക് ആസിഡ് ലായനി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9844rot">
+	<TEXT ID="9844rot_one">
+	<TEXTVALUE>പിപ്പറ്റിലെ ഈർപ്പം നീക്കം ചെയ്യുന്നതിന് ഓക്സാലിക് ആസിഡ് ലായനി ഉപയോഗിച്ച് പിപ്പറ്റ് കഴുകുക. (ഈ പ്രക്രിയ രണ്ടു മൂന്നു പ്രാവശ്യം ആവർത്തിക്കുക)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9945fo">
+	<TEXT ID="9945fo_one">
+	<TEXTVALUE>പിപ്പറ്റ് സിങ്കിലേക്ക് കൊണ്ടുവരികയും ലായനി ഒഴുക്കിക്കളയുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10046nj">
+	<TEXT ID="10046nj_one">
+	<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് ഓക്സാലിക് ആസിഡ് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10147f4">
+	<TEXT ID="10147f4_one">
+	<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് ഓക്സാലിക് ആസിഡ് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10248vali">
+	<TEXT ID="10248vali_one">
+	<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കില്‍ നിന്ന് പിപ്പെറ്റിലേക്ക് ഓക്സാലിക് ആസിഡ് ലായനി പിപ്പറ്റില്‍ അടയാളപ്പെടുത്തിയതിന് തൊട്ടുമുകളിലായി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="103492k">
+	<TEXT ID="103492k_one">
+	<TEXTVALUE>ചൂണ്ടുവിരൽ ഉപയോഗിച്ച് പിപ്പെറ്റിന്റെ മുകളിലെ അഗ്രം അടയ്ക്കുകയും സാവധാനത്തിൽ വിരൽ റിലീസ് ചെയ്ത് വ്യാപ്തം 20 മി.ലി കൊണ്ടുവരുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10449lk">
+	<TEXT ID="10449lk_one">
+	<TEXTVALUE>ഇപ്പോൾ ഒരു കോണിക്കല്‍ ഫ്ലാസ്കിലേക്ക് 20 മി.ലി ഓക്സാലിക് ആസിഡ് ലായനി മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="1040k">
+	<TEXT ID="1040k_one">
+	<TEXTVALUE>പിപ്പറ്റില്‍ നിന്നും ശേഷിക്കുന്ന ലായനി മാറ്റുന്നതിന് പിപ്പറ്റിന്റെ അഗ്രം കോണിക്കല്‍ ഫ്ലാസ്കിന്റെ താഴെ തൊടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10550dil">
+	<TEXT ID="10550dil_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് നിറയെ  (ഏകദേശം 20 മി.ലി) നേർപ്പിച്ച H[sub]2[/sub]SO[sub]4[/sub]) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10651tub">
+	<TEXT ID="10651tub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് നിറയെ  (ഏകദേശം 20 മി.ലി) നേർപ്പിച്ച H[sub]2[/sub]SO[sub]4[/sub]) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10752fl">
+	<TEXT ID="10752fl_one">
+	<TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്കിലെ ഓക്സാലിക് ആസിഡ് ലായനിയിലേക്ക് ഇത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10852flcopy">
+	<TEXT ID="10852flcopy_one">
+	<TEXTVALUE>ബർണറിന് മുകളില്‍ ഒരു വയർ കമ്പിയില്‍ കോണിക്കല്‍ ഫ്ലാസ്ക് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="10852flcopy_two">
+	<TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്കിലുള്ളത് 60-70°C വരെ ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10953t1">
+	<TEXT ID="10953t1_one">
+	<TEXTVALUE>ബ്യൂറെറ്റിന് താഴെ ഒരു വെളുത്ത ടൈലിൽ കോണിക്കല്‍ ഫ്ലാസ്ക് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110Scene711">
+	<TEXT ID="110Scene711_one">
+	<TEXTVALUE>അതിനുശേഷം, അവസാന ഒറ്റത്തുള്ളി KMnO[sub]4[/sub] ലായനി ചേർത്തുകൊണ്ട് കോണിക്കല്‍ ഫ്ലാസ്കിലെ ലായനിയുടെ നിറം ഇളം പിങ്ക് നിറത്തിലേക്ക് മാറുന്നതുവരെ KMnO4 ലായനിയില്‍ ഇത് അനുമാപനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111Scene72">
+	<TEXT ID="111Scene72_one">
+	<TEXTVALUE>അവസാന ബ്യൂററ്റ് റീഡിംഗ് എടുക്കുകയും അനുയോജ്യമായ മൂല്യം ലഭിക്കുന്നതുവരെ അനുമാപനം ആവർത്തിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="112ch">
+	<TEXT ID="112ch_one">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ പട്ടികയില്‍  രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="string_23">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_24">
+	<TEXTVALUE>ആദ്യ ബ്യൂററ്റ്
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_25">
+	<TEXTVALUE>അവസാന ബ്യൂററ്റ്
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_26">
+	<TEXTVALUE>ഉപയോഗിച്ച  KMnO4ന്റെ 
+വ്യാപ്തം(മി.ലി)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="113Ca">
+	<TEXT ID="113Ca_one">
+	<TEXTVALUE>ഓക്സാലിക് ആസിഡ്  ലായനിയുടെ വ്യാപ്തം, ഓക്സാലിക് ആസിഡ്  ലായനിയുടെ  മൊളാരിറ്റി, പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ലായനിയുടെ വ്യാപ് തംഎന്നിവ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+
+
+	<TEXT ID="113Ca_two">
+	<TEXTVALUE>ഓക്സാലിക് ആസിഡിന്റെയും പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെയും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ രാസസമവാക്യത്തില്‍ നിന്നും, പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ 2 തന്മാത്രകള്‍ ഓക്സാലിക് ആസിഡിന്റെ 10 തന്മാത്രകളുമായി ചേർന്ന് പ്രതിപവർത്തിക്കുന്നുവെന്നത് വ്യക്തമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_three">
+	<TEXTVALUE>തന്നിരിക്കുന്ന പൊട്ടാസ്യം പെർമാംഗനേറ്റിൽ ലായനിയുടെ മൊളാരിറ്റി, മൊളാരിറ്റി സമവാക്യം ഉപയോഗിച്ച് കണക്കാക്കാവുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_four">
+	<TEXTVALUE>പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ മൊളാരിറ്റി, പൊട്ടാസ്യം പെർമാംഗനേറ്റിന്റെ തന്മാത്രാ പിണ്ഡവുമായി ഗുണിച്ചുകൊണ്ട് തന്നിരിക്കുന്ന പൊട്ടാസ്യം പെർമാംഗനേറ്റ് ലായനിയുടെ ദൃഢത കണക്കാക്കാന്‍ സാധിക്കുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_27">
+	<TEXTVALUE>കണക്കുകൂട്ടലുകൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_28">
+	<TEXTVALUE>ഓക്സാലിക്ക്‌ ആസിഡിന്റെ വ്യാപ്തം= 20 മി.ലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_29">
+	<TEXTVALUE>ഓക്സാലിക്ക്‌ ആസിഡിന്റെ മോളാരിറ്റി = 0.1 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_30">
+	<TEXTVALUE>KMnO4 ലായനിയുടെ വ്യാപ്തം = 16 മി.ലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_31">
+	<TEXTVALUE>KMnO4ന്റെയും ഓക്സാലിക്ക്‌ ആസിഡിന്റെയും പ്രവർത്തനം  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_32">
+	<TEXTVALUE>മോളാരിറ്റിയുടെ സൂത്രവാക്യം  അനുസരിച് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_33">
+	<TEXTVALUE>(KMnO4ന്റെ വ്യാപ്തം × KMnO4ന്റെ  മോളാരിറ്റി)
+(ഓക്സാലിക്ക്‌ ആസിഡിന്റെ വ്യാപ്തം  × ഓക്സാലിക്ക്‌ ആസിഡിന്റെ മോളാരിറ്റി)
+(KMnO4ലെ മോളുകളുടെ എണ്ണം )
+(ഓക്സാലിക്ക്‌ ആസിഡിലെ മോളുകളുടെ എണ്ണം )</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_34">
+	<TEXTVALUE>16xKMnO4ന്റെ  മോളാരിറ്റി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_35">
+	<TEXTVALUE>തന്നിരിക്കുന്ന KMnO4ന്റെ  മോളാരിറ്റി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_36">
+	<TEXTVALUE>KMnO4ന്റെ മോളാർ മാസ്സ്  = 158 g/ mol </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_37">
+	<TEXTVALUE>തന്നിരിക്കുന്ന KMnO4ന്റെ ശക്തി  
+ =KMnO4ന്റെ  മോളാരിറ്റി × KMnO4ന്റെ മോളാർ മാസ്സ്
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_b2">
+	<TEXTVALUE>പിന്നോട്ട്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="naming_reaction1_11">
+		<TEXTVALUE>ലഘുസ്ഥാനാന്തരണ  പ്രവർത്തനം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="naming_strt_s1">
+		<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യം കോപ്പർസൾഫേറ്റ്, ഇരുമ്പാണികൾ, ശുദ്ധീകരിച്ച ജലം, ബീക്കറുകൾ, അളവ് ജാർ, ടെസ്ട്യുബുകൾ, രണ്ട് ഘടിപ്പിച്ച സ്റ്റാൻഡുകൾ, ഒരു കഷണംനൂലും, ഗ്ലാസ്സ്റോഡും എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_01">
+		<TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ്
+സ്റ്റാൻഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_02">
+		<TEXTVALUE>ബീക്കർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_03">
+		<TEXTVALUE>ആണി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_04">
+		<TEXTVALUE>ഗ്ലാസ്സ് റോഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_05">
+		<TEXTVALUE>നൂല്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_ststtxt_01">
+		<TEXTVALUE>കോപ്പർ 
+സൾഫേറ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>അളവ് ജാറിൽ  ആവശ്യത്തിന് അളവിലുള്ള  ജലം എടുത്തിട്ട് ഒരു വൃത്തിയായ  ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE>മതിയായ അളവിലള്ള കോപ്പർസൾഫേറ്റിലേക്ക് ഇത് ചേർക്കുക</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ് തരികൾ ബീക്കറിൽ പൂർണ്ണമായി ലയിക്കുന്നതുവരെ  ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച്  ബീക്കറിലെ മിശ്രിതം ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="addcoppersulphate_textb_07">
+		<TEXTVALUE>ശുദ്ധീകരണ
+ജലം</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_ststtic_03">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ്
+ലായനി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>മതിയായ അളവിലുള്ള കോപ്പർസൾഫേറ്റ് ലായനി  ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് സ്റ്റാൻഡിനോട്  ഘടിപ്പിക്കുക.</TEXTVALUE>
+		</TEXT>
+			<TEXT ID="cstotesttube_stastic_04">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ്
+ലായനി</TEXTVALUE>
+	</TEXT>
+		
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>മതിയായ അളവിലുള്ള കോപ്പർസൾഫേറ്റ് ലായനി  വേറൊരു ടെസ്റ്റ്‌ ട്യൂബിലും  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ്  വേറൊരു സ്റ്റാൻഡുമായി  ഘടിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>രണ്ട് ഇരുമ്പാണികൾ എടുക്കുക</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_sand_11">
+		<TEXTVALUE>സാൻഡ് പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_ststiron_1">
+		<TEXTVALUE>ഇരുമ്പാണികൾ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>സാൻഡ്  പേപ്പർ കൊണ്ട് ഉരച്ച്  വൃത്തിയാക്കിയതുകൊണ്ട്  അവയുടെ  നിറം മങ്ങിയിരിക്കുന്നു.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>ഒരു ഇരുമ്പാണി നൂല് ഉപയോഗിച്ച് കെട്ടുക</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ് ലായനി അടങ്ങിയ ടെസ്ട്യുബിലേക്ക്  ഒരു ഇരുമ്പാണി  മുക്കുക.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>രണ്ട് ടെസ്ട്യുബുകളും അനക്കാതെ 15 മിനിട്ട്  വെയ്ക്കുക.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>15 മിനിട്ടിന് ശേഷം കോപ്പർസൾഫേറ്റ് ലായനിയിൽ അടങ്ങിയിരിക്കുന്ന ഇരുമ്പാണിയുടെ നിറം ഇളം പച്ചനിറമാകുന്നു. എന്നാൽ അടുത്ത ടെസ്റ്റ്‌ ട്യൂബിനു  മാറ്റം  ഉണ്ടാകുന്നില്ല.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>ലായനിയുടെ  ഈ പച്ച നിറത്തിന് കാരണം ഫെറസ് അയോണുകളുടെ Fe2+ സാന്നിധ്യമാണ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="changecolor_cusref_11">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ്</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_cusref_22">
+		<TEXTVALUE>കോപ്പർസൾഫേറ്റ്</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_mints_11">
+		<TEXTVALUE>15 മിനുട്ട് </TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_feras_11">
+		<TEXTVALUE>ഫെറസ് 
+സൾഫേറ്റ്</TEXTVALUE>
+		</TEXT>
+		
+	
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>ലായനിയിൽ നിന്ന് ഇരുമ്പാണി മാറ്റുക.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>അടുത്ത ഇരുമ്പാണിയുമായി താരതമ്യം  ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>കോപ്പറിന്റെ  തവിട്ട് നിറത്തിലുള്ള ആവരണം ഉണ്ടാകുന്നു. അടുത്ത ഇരുമ്പാണി പച്ചനിറം തന്നെ നിലനിർത്തുന്നു.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_brct_11">
+		<TEXTVALUE>തവിട്ട്
+ആവരണം</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_bcko_1">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+		</TEXT>
+		
+		
+</SCENE>
+			
+	
+</DATA>
+
+	

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="naming_reaction1_11">
+		<TEXTVALUE>ರಾಸಾಯನಿಕ ಸ್ಥಾನಪಲ್ಲಟ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="naming_strt_s1">
+		<TEXTVALUE>ಪ್ರಾರಂಭಿಸು </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>ಬೇಕಾಗಿರುವ ಸಾಮಗ್ರಿಗಳು_ ತಾಮ್ರದ ಸಲ್ಫೇಟ್,ಕಬ್ಬಿಣದ ಮೊಳೆಗಳು, ಆಸವಿತ ನೀರು,ಬೀಕರ್,ಅಳೆತೆ ಜಾಡಿ,ಪ್ರನಾಳಗಳು,ಹಿಡಿಕಟ್ಟು ಹೊಂದಿರುವ 2 ಆಧಾರ ಸ್ಥಂಭಗಳು,ದಾರದ ತುಂಡು ಮತ್ತು ಗಾಜಿನ ಕಡ್ಡಿ .</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_01">
+		<TEXTVALUE>ಪ್ರನಾಳದ ಸ್ಟ್ಯಾಂಡ್ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_02">
+		<TEXTVALUE>ಬೀಕರ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_03">
+		<TEXTVALUE>ಮೊಳೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_04">
+		<TEXTVALUE>ಗಾಜಿನ ಕಡ್ಡಿ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_05">
+		<TEXTVALUE>ದಾರ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_ststtxt_01">
+		<TEXTVALUE>ಕಾಪರ್ ಸಲ್ಫೇಟ್</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>ಸಾಕಷ್ಟು ಪ್ರಮಾಣದ ಆಸವಿತ  ನೀರನ್ನು ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ ತೆಗೆದುಕೊಂಡು ಸ್ವಚ್ಛವಾದ ಬೀಕರ್ ಗೆ ಸುರಿಯಿರಿ </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE> ಇದಕ್ಕೆ ಅಗತ್ಯ ಪ್ರಮಾಣದಷ್ಟು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಸೇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>ಬೀಕರ್ ನಲ್ಲಿರುವ  ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಅರಳುಗಳು ಪೂರ್ತಿಯಾಗಿ ಕರಗುವವರೆಗೂ  ಗಾಜಿನ ಕಡ್ಡಿಯಿಂದ ಕಲಕಿರಿ. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="addcoppersulphate_textb_07">
+		<TEXTVALUE>ಅಸವಿತ ನೀರು</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_ststtic_03">
+		<TEXTVALUE>Copper Sulphate solution</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>ಸಾಕಷ್ಟು ಪ್ರಮಾಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಅನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಸುರಿಯಿರಿ </TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಹಿಡಿಕಟ್ಟಿನ ಸಹಾಯದಿಂದ ಆಧಾರ ಸ್ತಂಭದಲ್ಲಿರಿಸಿ.</TEXTVALUE>
+		</TEXT>
+			<TEXT ID="cstotesttube_stastic_04">
+		<TEXTVALUE>ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ</TEXTVALUE>
+	</TEXT>
+		
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>ಆಮೇಲೆ ಮತ್ತೊಂದು ಪ್ರನಾಳಕ್ಕೆ ಸಾಕಷ್ಟು ಪ್ರಮಾಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟನ್ನು ಸುರಿಯಿರಿ.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>ಈ ಪ್ರನಾಳವನ್ನು ಮತ್ತೊಂದು ಆಧಾರ ಸ್ಥಂಭಕ್ಕೆ ಹಿಡಿದಿಡಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>ಎರಡು ಕಬ್ಬಿಣದ ಮೊಳೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_sand_11">
+		<TEXTVALUE>ಮರಳಿನ ಕಾಗದ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_ststiron_1">
+		<TEXTVALUE>ಕಬ್ಬಿಣದ ಮೊಳೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>ಇವೆರಡನ್ನು ಬೂದು ಬಣ್ಣಕ್ಕೆ ಬರುವಂತೆ ಮರಳು ಕಾಗದದಿಂದ ಉಜ್ಜಿ  ಸ್ವಚ್ಛ ಮಾಡಿ  </TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>ಒಂದು ಮೊಳೆಯನ್ನು ದಾರದಿಂದ ಕಟ್ಟಿ.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>ಇದನ್ನು ಯಾವುದಾದರೊಂದು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವಿರುವ ಪ್ರನಾಳದೊಳಗೆ ಮುಳುಗಿಸಿ.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>ಎರಡೂ ಪ್ರನಾಳಗಳನ್ನು ಅಲುಗಾಡಿಸದೆ 15 ನಿಮಿಷಗಳ ಕಾಲ ಹಾಗೆಯೇ ಇಡಿ </TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>15 ನಿಮಿಷಗಳ ನಂತರ,ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ಹೊಂದಿರುವ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದ ಬಣ್ಣವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಆದರೆ ಮತ್ತೊಂದು ಪ್ರನಾಳದಲ್ಲಿರುವ ದ್ರಾವಣದ ಬಣ್ಣವು ಬದಲಾಗುವುದಿಲ್ಲ .
+</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>ದ್ರಾವಣದ ಹಸಿರು ಬಣ್ಣವು Fe2+ಅಯಾನುಗಳ ಇರುವಿಕೆಯನ್ನು ತೋರಿಸುತ್ತದೆ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="changecolor_cusref_11">
+		<TEXTVALUE>CuSO4[Reference]</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_cusref_22">
+		<TEXTVALUE>CuSO4</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_mints_11">
+		<TEXTVALUE>15 Min</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_feras_11">
+		<TEXTVALUE>ಫೆರಸ್ ಸಲಗಫೇಟ್</TEXTVALUE>
+		</TEXT>
+		
+	
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>ದ್ರಾವಣದಿಂದ ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ತೆಗೆಯಿರಿ.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>ಮತ್ತೊಂದು ಮೊಳೆಯೊಂದಿಗೆ ಅದನ್ನು ಹೋಲಿಸಿ.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ನಲ್ಲಿ ಅದ್ದಿದ ಮೊಳೆಯು ತಾಮ್ರದ ಕಂದು ಲೇಪನದಿಂದಾಗಿದೆ ಹಾಗೂ ಮತ್ತೊಂದು ಮೊಳೆಯು ಅದರ ಬೂದು ಬಣ್ಣವನ್ನು ಹಾಗೆಯೇ ಉಳಿಸಿಕೊಂಡಿದೆ .ಇದು ರಾಸಾಯನಿಕ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾಗಿರುವುದರಿಂದ  ಕಬ್ಬಿಣದ ಅಯಾನುಗಳು , ತಾಮ್ರದ ಅಯಾನುಗಳಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡಿದೆ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_brct_11">
+		<TEXTVALUE>ಕಂದು ಲೇಪನ</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_bcko_1">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+		</TEXT>
+		
+		
+</SCENE>
+			
+	
+</DATA>
+
+	

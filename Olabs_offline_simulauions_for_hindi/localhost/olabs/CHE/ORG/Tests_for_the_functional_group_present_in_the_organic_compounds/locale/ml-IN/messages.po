@@ -1,0 +1,1818 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-06-16 11:38+0530\n"
+"PO-Revision-Date: 2016-06-16 14:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:16
+msgid "Unsaturation"
+msgstr "അപൂരിതമായ പദാർഥിന്റെ പരിശോധനകൾ"
+
+#: simcontrols.js:16
+msgid "Functional group"
+msgstr "ഫംങ്ഷണൽ ഗ്രൂപ്പുകൾക്ക്‌ <br>വേണ്ടിയുള്ള പരിശോധനകൾ"
+
+#: simcontrols.js:17
+msgid "Bromine water test"
+msgstr "ബ്രോമൈഡ് ജല പരിശോധന"
+
+#: simcontrols.js:17
+msgid "Baeyer test"
+msgstr "ബേയര്‍ പരിശോധന"
+
+#: simcontrols.js:18
+msgid "Alcohols"
+msgstr "ആൽക്കഹോൾ "
+
+#: simcontrols.js:18
+msgid "Phenols"
+msgstr "ഫീനോൾ "
+
+#: simcontrols.js:18
+msgid "Aldehydes"
+msgstr "ആൽഡിഹൈഡ്"
+
+#: simcontrols.js:18
+msgid "Ketones"
+msgstr "കീറ്റോൺസ് "
+
+#: simcontrols.js:18
+msgid "Carboxylic acids"
+msgstr "കാര്‍ബോക്സിലിക് അമ്ലം"
+
+#: simcontrols.js:18
+msgid "Amines"
+msgstr "അമീൻസ് "
+
+#: simcontrols.js:19
+msgid "Sodium metal test"
+msgstr "സോഡിയം ലോഹം ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Ester test"
+msgstr "എസ്‍റ്റര്‍ ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Ceric ammonium nitrate test"
+msgstr "സെറിക് അമോണിയം നൈട്രേറ്റ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Acetyl chloride test"
+msgstr "അസെറ്റൈല്‍ ക്ലോറൈഡ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Iodoform test"
+msgstr "അയോഡോഫോം ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Lucas test"
+msgstr "ലൂക്കാസ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Litmus test"
+msgstr "ലിറ്റ്മസ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Ferric chloride test"
+msgstr "ഫെറിക് ക്ലോറൈഡ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Liebermann test"
+msgstr "ലൈബർമാൻ ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Phthalein Dye test"
+msgstr "ഫ്‍താലീന്‍ ഡൈ ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Schiff test"
+msgstr "ഷ്ഫ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Tollen test (Silver mirror test)"
+msgstr "ടൊല്ലെൻസ്‌ ടെസ്റ്റ്‌ "
+
+#: simcontrols.js:19
+msgid "Fehling test"
+msgstr "ഫെലിംഗ് ടെസ്റ്റ്‌ "
+
+#: simcontrols.js:19
+msgid "2 4 Dintrophenyl hydrazine test"
+msgstr "2, 4 - ഡൈ നൈട്രോഫിനൈൽ ഹൈഡ്രാസിൻ ടെസ്റ്റ്‌  "
+
+#: simcontrols.js:19
+msgid "Sodium bisulphite test"
+msgstr "സോഡിയം ബൈസള്‍ഫൈറ്റ് ടെസ്റ്റ്‌ "
+
+#: simcontrols.js:19
+msgid "m Dinitrobenzene test"
+msgstr "m-ഡൈ നൈട്രോബെൻസീൻ "
+
+#: simcontrols.js:19
+msgid "Sodium nitroprusside test"
+msgstr "സോഡിയം നൈട്രോപ്രസൈട് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Sodium Hydrogen Carbonate test"
+msgstr "സോഡിയം ഹൈഡ്രജൻ കാർബണേറ്റ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Solubility test"
+msgstr "ലേയത്വം ടെസ്റ്റ്‌ "
+
+#: simcontrols.js:19
+msgid "Carbylamines test"
+msgstr "കാർബൈലമീൻ ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Azo Dye test"
+msgstr "അസോ-ഡൈ ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Nitrous acid test"
+msgstr "നൈട്രസ് ആസിഡ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:19
+msgid "Hinsberg test"
+msgstr "ഹിൻസ്ബെർഗ് ടെസ്റ്റ്‌"
+
+#: simcontrols.js:22
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:23
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:24
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:25
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:27
+msgid "Tests for Functional Groups"
+msgstr "ഫംങ്ഷണൽ ഗ്രൂപ്പുകൾക്ക്‌ വേണ്ടിയുള്ള പരിശോധനകൾ"
+
+#: simcontrols.js:29
+#, fuzzy
+msgid "Select the type:"
+msgstr "പരിശോധന തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:30 simcontrols.js:32
+msgid "Select the test:"
+msgstr "പരിശോധന തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:31
+msgid "Select the functional group:"
+msgstr "ഫങ്ഷണല്‍ ഗ്രൂപ്പ് തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:33
+msgid "Select the amines:"
+msgstr "അമീനുകള്‍ തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:34
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: simcontrols.js:35
+msgid "10 Min"
+msgstr "10 Min"
+
+#: simcontrols.js:36
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം   "
+
+#: simcontrols.js:38
+msgid "Drag the test tube A to shake it well. "
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് A നല്ലപോലെ കുലുക്കാന്‍ ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:39
+msgid "Drag the test tube B to shake it well. "
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് B നല്ലപോലെ കുലുക്കാന്‍ ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:40
+msgid "Drag the test tube to shake it well. "
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കാന്‍ ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:41
+msgid "Click on the Next button to <br>go to the next process."
+msgstr "അടുത്ത പ്രക്രിയയിലേക്ക് പോകാന്‍<br>'അടുത്ത' ബട്ടണ്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:42
+msgid ""
+"Drag the test tube A towards the test tube B to filter the contents <br>of A "
+"into B through the funnel and filter paper."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബ് A ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്ത് <br> ഒരു ഫണലും അരിപ്പുകടലാസും ഉപയോഗിച്ച് A "
+"യിലെ ഉള്ളടക്കം B <br> യിലേക്ക് അരിച്ചെടുക്കുക."
+
+#: simcontrols.js:43
+msgid ""
+"Drag the test tube towards the beaker to<br> place it in the water bath."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്ത് അത് വാട്ടര്‍ബാത്തില്‍ വയ്‍ക്കുക."
+
+#: simcontrols.js:44
+msgid "Click on the switch of the hot plate <br>to heat the water bath."
+msgstr "ഹോട്ട് പ്ലേറ്റിന്‍റെ സ്വിച്ച് ക്ലിക് ഓണ്‍ ചെയ്ത് വാട്ടര്‍ ബാത്ത് ചൂടാക്കുക."
+
+#: simcontrols.js:45
+msgid "Wait for some time to heat <br>the contents of the test tube."
+msgstr "ടെസ്‍റ്റ് ട്യൂബിലെ ഉള്ളടക്കം ചൂടാകുന്നതു<br>വരെ അല്‍പസമയം കാക്കുക."
+
+#: simcontrols.js:46
+msgid "Click on the knob of the burner to turn it on."
+msgstr "ബര്‍ണര്‍ ഓണ്‍ ചെയ്യാന്‍ അതിന്‍റെ നോബ് ക്ലിക് ചെയ്യുക."
+
+#: simcontrols.js:47
+msgid "Drag the test tubes towards the <br>test tube rack to place them back."
+msgstr "ടെസ്‍റ്റ് ടൂബ് അതിന്‍റെ റാക്കിലേക്ക് ഡ്രാഗ് ചെയ്ത് അതില്‍ തിരിച്ചുവയ്‍ക്കുക."
+
+#: simcontrols.js:48
+msgid "Drag the test tubes to the test <br>tube rack to place them back."
+msgstr "ടെസ്‍റ്റ് ടൂബ് അതിന്‍റെ റാക്കിലേക്ക് ഡ്രാഗ് ചെയ്ത് അതില്‍ തിരിച്ചുവയ്‍ക്കുക."
+
+#: simcontrols.js:49
+msgid "Saturated compound"
+msgstr "പൂരിത സംയുക്തം"
+
+#: simcontrols.js:50
+msgid "Unsaturated compound"
+msgstr "അപൂരിത സംയുക്തം"
+
+#: simcontrols.js:51
+msgid "Bromine water"
+msgstr "ബ്രോമിന്‍ ജലം"
+
+#: simcontrols.js:52
+msgid "Alkaline KMnO<sub>4</sub>"
+msgstr "ആല്‍ക്കലൈന്‍ KMnO<sub>4</sub>"
+
+#: simcontrols.js:53
+msgid "Lucas reagent"
+msgstr "ലൂക്കാസ് റീയേജന്‍റ്"
+
+#: simcontrols.js:54
+msgid "Primary alcohol"
+msgstr "പ്രൈമറി ആല്‍ക്കഹോള്‍"
+
+#: simcontrols.js:55
+msgid "Secondary alcohol"
+msgstr "സെക്കന്‍ററി ആല്‍ക്കഹോള്‍"
+
+#: simcontrols.js:56
+msgid "Tertiary alcohol"
+msgstr "ടെര്‍ഷറി ആല്‍ക്കഹോള്‍"
+
+#: simcontrols.js:57
+msgid ""
+"3 alcohols react instantaneously with Lucas reagent to form<br> alkyl "
+"chloride which is being insoluble result in cloudiness<br> in the solution."
+msgstr ""
+"3 ആല്‍ക്കഹോളുകളും ലൂക്കാസ് റീയേജന്‍റില്‍ തല്‍ക്ഷണം ലയിച്ച് ആല്‍ക്കൈല്‍ ക്ലോറൈഡ് ഉണ്ടാക്കുന്നു. അത് "
+"ലയിക്കാത്തതുകൊണ്ട് ലായനിയില്‍ ഒരു മൂടല്‍ സൃഷ്ടിക്കുന്നു."
+
+#: simcontrols.js:58
+msgid ""
+"2 alcohols react in about 1-5 minutes with Lucas reagent to form <br>alkyl "
+"chloride which is being insoluble result in cloudiness <br>in the solution."
+msgstr ""
+"2 ആല്‍ക്കഹോളുകള്‍  1- 5 മിനിറ്റ് വരെ ലൂക്കാസ് റീയേജന്‍റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കൈല്‍ ക്ലോറൈഡ് "
+"ഉണ്ടാക്കുന്നു. അത് ലയിക്കാത്തതുകൊണ്ട് ലായനിയില്‍ ഒരു മൂടല്‍ സൃഷ്ടിക്കുന്നു."
+
+#: simcontrols.js:59
+msgid ""
+"On warming 1 alcohols react with Lucas reagent to form <br>alkyl chloride "
+"which is being insoluble result in <br>cloudiness in the solution."
+msgstr ""
+"ചൂടാക്കുമ്പോള്‍ 1 ആല്‍ക്കഹോളുകള്‍ ലൂക്കാസ് റീയേജന്‍റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് അള്‍ക്കൈല്‍ ക്ലോറൈഡ് ഉണ്ടാകുന്നു. "
+"അത് ലയിക്കാത്തതുകൊണ്ട് ലായനിയില്‍ ഒരു മൂടല്‍ സൃഷ്ടിക്കുന്നു."
+
+#: simcontrols.js:60
+msgid ""
+"Drag the dropper towards the test tube A to drop <br>Lucas reagent into the "
+"tertiary alcohol."
+msgstr ""
+"ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് ചെയ്ത് അതിലെ ടെര്‍ഷറി ആല്‍ക്കഹോളില്‍ ലൂക്കാസ് റീയേജന്‍റ് "
+"ചേര്‍ക്കുക."
+
+#: simcontrols.js:60
+msgid ""
+"Drag the dropper towards the test tube B to drop <br>Lucas reagent into the "
+"secondary alcohol."
+msgstr ""
+"ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ്  B യിലേക്ക് ഡ്രാഗ് ചെയ്ത് അതിലെ ടെര്‍ഷറി ആല്‍ക്കഹോളില്‍ ലൂക്കാസ് റീയേജന്‍റ് "
+"ചേര്‍ക്കുക."
+
+#: simcontrols.js:60
+msgid ""
+"Drag the dropper towards the test tube C to drop <br>Lucas reagent into the "
+"primary alcohol."
+msgstr ""
+"ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്ത് അതിലെ ടെര്‍ഷറി ആല്‍ക്കഹോളില്‍ ലൂക്കാസ് റീയേജന്‍റ് "
+"ചേര്‍ക്കുക."
+
+#: simcontrols.js:60
+msgid ""
+"Drag the test tube C to shake it well and <br>place it over the Bunsen "
+"burner."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് C നല്ലപോലെ കുലുക്കാന്‍ ഡ്രാഗ് ചെയ്യുക. അതിനുശേഷം അത് ബുന്‍സന്‍ ബര്‍ണറില്‍ വയ്‍ക്കുക."
+
+#: simcontrols.js:60
+msgid ""
+"Click on the knob of the burner to turn it on <br>and heat the contents of "
+"the test tube C."
+msgstr "ബര്‍ണറിന്‍റെ നോബ് ക്ലിക് ചെയ്ത് അത് ഓണ്‍ ആക്കുക. ടെസ്‍റ്റ് ട്യൂബ് C അതില്‍ ചൂടാക്കുക."
+
+#: simcontrols.js:62
+msgid "Ceric ammonium nitrate"
+msgstr "സെറിക് അമോണിയം നൈട്രേറ്റ്"
+
+#: simcontrols.js:63
+msgid "Sample"
+msgstr "സാമ്പിള്‍"
+
+#: simcontrols.js:64
+msgid ""
+"Alcohols on reaction with ceric ammonium nitrate to give a red "
+"<br>colouration due to the formation of alkoxy cerium (IV) complex."
+msgstr ""
+"ആല്‍ക്കഹോള്‍ സെറിക്ക് അമോണിയം നൈട്രേറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കോക്സി സെറിയം(IV) "
+"കോംപ്ലെക്സ് ഉണ്ടാകുന്നതിനാല്‍ ഒരു ചുവപ്പ് നിറം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:65
+msgid ""
+"Drag the dropper towards the test tube to drop <br>ceric ammomium nitrate "
+"solution into the sample."
+msgstr ""
+"സാമ്പിളില്‍ സെറിക് അമോണിയം നൈട്രേറ്റ് ലായനി ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:67
+msgid "Neutral ferric chloride"
+msgstr "ന്യൂട്രല്‍ ഫെറിക് ക്ലോറൈഡ്"
+
+#: simcontrols.js:68
+msgid ""
+"Phenol on reaction with neutral ferric chloride to give <br>a violet color "
+"due to the formation of a complex."
+msgstr ""
+"ഫീനോള്‍ ന്യൂട്രല്‍ ഫെറിക് ക്ലോറൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ഒരു കോംപ്ലെക്സ് ഉണ്ടാകുന്നതു കാരണം വയലറ്റ് "
+"നിറം കാണപ്പെടുന്നു."
+
+#: simcontrols.js:69
+msgid ""
+"Drag the dropper towards the test tube to drop the<br> sample into neutral "
+"ferric chloride solution."
+msgstr ""
+"സാമ്പിള്‍ ന്യൂട്രല്‍ ഫെറിക് ക്ലോറൈഡില്‍ ചേര്‍ക്കാനായി ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:72
+msgid "Schiff's reagent"
+msgstr "ഷിഫ് റീയേജന്‍റ്"
+
+#: simcontrols.js:73
+msgid ""
+"Schiff reagent gives characteristic pink <br>or magenta color with aldehydes."
+msgstr "ഷിഫ് റീയേജന്‍റ് ആല്‍ഡിഹൈഡുകളുമായി <br> ചേര്‍ന്ന് സവിശേഷമായ പിങ്ക് നിറം നല്‍കുന്നു."
+
+#: simcontrols.js:74
+msgid ""
+"Drag the dropper towards the test tube to <br>drop Schiff reagent into the "
+"sample."
+msgstr "സാമ്പിളില്‍ ഷിഫ് റീയേജന്‍റ്  ഒഴിക്കാന്‍<br> ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:76
+msgid "Sodium bicarbonate"
+msgstr "സോഡിയം ബൈകാര്‍ബണേറ്റ്"
+
+#: simcontrols.js:77
+msgid ""
+"Drag the spatula towards the test tube <br>to add sodium bicarbonate into "
+"the sample."
+msgstr ""
+"സാമ്പിളില്‍ സോഡിയം ബൈകാര്‍ബണേറ്റ് ചേര്‍ക്കാന്‍<br> പ്രലേപനകത്തി ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:79
+msgid "Sodium bisulphite"
+msgstr "സോഡിയം ബൈസൽ ഫൈറ്റ്"
+
+#: simcontrols.js:80
+msgid ""
+"Aldehydes give bisulphite addition product with sodium bisulphite,<br> which "
+"is white crystalline in nature."
+msgstr ""
+"ആല്‍ഡിഹൈഡുകള്‍ സോഡിയം ബൈസള്‍ഫേറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് <br> പരല്‍ രൂപത്തിലുള്ള  ബൈസള്‍ഫൈറ്റ് "
+"അഡിഷന്‍ ഉല്‍പന്നം<br>  നല്‍കുന്നു. "
+
+#: simcontrols.js:81
+msgid ""
+"Ketones give bisulphite addition product with sodium bisulphite,<br> which "
+"is white crystalline in nature."
+msgstr ""
+"സാമ്പിളില്‍ പൂരിത സോഡിയം ബൈസള്‍ഫൈറ്റ്<br> ലായനി ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് <br> "
+"ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:82
+msgid ""
+"Drag the dropper towards the test tube <br> to drop saturated solution of "
+"sodium <br>bisulphite into the sample."
+msgstr ""
+"സാമ്പിളില്‍ സോഡിയം ബൈസള്‍ഫേറ്റ്  ചേര്‍ക്കാന്‍ <br>ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:82
+msgid "Drag the cork towards the test tube to <br>close the test tube with it."
+msgstr "ടെസ്റ്റ് ട്യൂബ് അടയ്ക്കാന്‍ <br>കോര്‍ക്ക് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:84
+msgid "Dil. HCl "
+msgstr "നേര്‍ത്ത HCl"
+
+#: simcontrols.js:85
+msgid ""
+"Amines are basic in nature and easily <br>reacts with acids to form soluble "
+"salts."
+msgstr ""
+"ക്ഷാര സ്വഭാവമുള്ള അമീനുകള്‍ <br> അമ്ലങ്ങളുമായി അനായാസം പ്രതിപ്രവര്‍ത്തിച്ച് <br> ലേയത്വമുള്ള "
+"ലവണങ്ങള്‍ ഉല്‍പാദിപ്പിക്കുന്നു."
+
+#: simcontrols.js:86
+msgid ""
+"Drag the dropper towards the test tube <br>to drop dil. HCl into the sample."
+msgstr "സാമ്പിളില്‍ നേര്‍ത്ത HCl   ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:88
+msgid "Rectified spirit "
+msgstr "റെക്റ്റിഫൈ ഡ് സ്‍പിരിറ്റ്"
+
+#: simcontrols.js:89
+msgid "2 4-dinitro phenyl hydrazine"
+msgstr "2 4-ഡൈനൈട്രോ ഫീനൈല്‍ ഹൈഡ്രാസിന്‍"
+
+#: simcontrols.js:90
+msgid ""
+"2 4 Dinitrophenyl hydrazine on reaction with aldehydes to give<br> a yellow "
+"or orange precipitate of 2, 4  Dinitrophenyl hydrazone. "
+msgstr ""
+"2 4-ഡൈനൈട്രോ ഫീനൈല്‍ ഹൈഡ്രാസിന്‍ ആല്‍ഡിഹൈഡുകളുമായി<br>  പ്രതിപ്രവര്‍ത്തിച്ച് 2 4-ഡൈ നൈട്രോ "
+"ഫീനൈല്‍ <br> ഹൈഡ്രാസോണിന്‍റെ മഞ്ഞ അവക്ഷിപ്‍തം ഉണ്ടാക്കുന്നു."
+
+#: simcontrols.js:91
+msgid ""
+"2 4  Dinitrophenyl hydrazine on reaction with ketones to give <br>a yellow "
+"or orange precipitate of 2, 4  Dinitrophenyl hydrazone."
+msgstr ""
+"ഡൈ നൈട്രോ ഫിനൈല്‍ ഹൈഡ്രാസിന്‍ കീറ്റോണുകളുമായി പ്രവര്‍ത്തിച്ച് <br> 2,4- ഡൈ നൈട്രോ ഫിനൈല്‍ "
+"ഹൈഡ്രാസോണിന്‍റെ മഞ്ഞയോ ഓറഞ്ചോ ആയ അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:92
+msgid ""
+"Drag the dropper towards the test tube to <br>drop rectified spirit into the "
+"sample."
+msgstr ""
+"സാമ്പിളില്‍ റെക്ടിഫൈഡ് സ്‍പിരിറ്റ് ഒഴിക്കാന്‍<br> ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:92
+msgid ""
+"Drag the dropper towards the test tube <br>to drop 2,4  "
+"dinitrophenylhydrazine <br>reagent into the sample."
+msgstr ""
+"സാമ്പിളില്‍ 2 4-ഡൈനൈട്രോ ഫിനൈല്‍ ഹൈഡ്രാസിന്‍<br>  ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:94
+msgid "Blue litmus paper"
+msgstr "ഈര്‍പമുള്ള നീല ലിറ്റ്മസ് പേപ്പര്‍ "
+
+#: simcontrols.js:95
+msgid "Red litmus paper"
+msgstr "ഈര്‍പമുള്ള ചുവപ്പ്  ലിറ്റ്മസ്"
+
+#: simcontrols.js:96
+msgid "Phenol is a weak acid, it turns the color of blue litmus paper red."
+msgstr "വീര്യംകുറഞ്ഞ അമ്ലമായ ഫിനോള്‍ നീല ലിറ്റ്മസിനെ ചുവപ്പാക്കുന്നു."
+
+#: simcontrols.js:97
+msgid "Carboxylic acid turns blue litmus red."
+msgstr "കാര്‍ബോക്സിലിക് അമ്ലം നീല ലിറ്റ്മസിനെ ചുവപ്പാക്കുന്നു."
+
+#: simcontrols.js:98
+msgid "Amines are basic in nature that turns red litmus paper blue."
+msgstr "അമീനുകള്‍ ക്ഷാര സ്വഭാവമുള്ളവയായതിനാല്‍ ചുവപ്പ് ലിറ്റ്മസിനെ നീലയാക്കുന്നു."
+
+#: simcontrols.js:99
+msgid ""
+"Drag the dropper towards the moist blue <br>litmus paper to drop the sample "
+"on it."
+msgstr ""
+"ഈര്‍പമുള്ള നീല ലിറ്റ്മസ് പേപ്പറില്‍ സാമ്പിള്‍ ഒഴിക്കാന്‍  <br> ഡ്രോപ്പര്‍ ലിറ്റ്മസ് പേപ്പറിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:100
+msgid ""
+"Drag the dropper towards the moist red <br>litmus paper to drop the sample "
+"on it."
+msgstr ""
+"ഈര്‍പമുള്ള ചുവപ്പ്  ലിറ്റ്മസ് പേപ്പറില്‍ സാമ്പിള്‍ ഒഴിക്കാന്‍ <br>ഡ്രോപ്പര്‍ ലിറ്റ്മസ് പേപ്പറിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:102
+msgid "Glacial acetic acid"
+msgstr "ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം"
+
+#: simcontrols.js:103
+msgid "Conc. Sulphuric acid"
+msgstr "ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം"
+
+#: simcontrols.js:104
+msgid "A fruity smell is produced"
+msgstr "ഒരു പഴവാസന ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:105
+msgid ""
+"Alcohols react with carboxylic acids in presence of conc. H<sub>2</"
+"sub>SO<sub>4</sub> <br>to form fruity smelling compound called esters."
+msgstr ""
+"ആല്‍ക്കഹോളുകള്‍ ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലത്തിന്‍റെ സാന്നിധ്യത്തില്‍<br> പഴവാസനയുള്ള സംയുക്തം എസ്‍റ്റര്‍ "
+"ഉല്‍പാദിപ്പിക്കുന്നു."
+
+#: simcontrols.js:106
+msgid ""
+"Carboxylic acids react with alcohols in the acidic medium <br>to produce "
+"fruity smelling compound called esters."
+msgstr ""
+"കാര്‍ബോക്സിലിക് അമ്ലം അമ്ല മാധ്യമത്തില്‍ ആല്‍ക്കഹോളുമായി <br> പ്രതിപ്രവര്‍ത്തിച്ച് പഴ വാസനയുള്ള "
+"സംയുക്തം എസ്‍റ്റര്‍ ഉല്‍പാദിപ്പിക്കുന്നു."
+
+#: simcontrols.js:107
+msgid ""
+"Drag the dropper towards the test tube to <br>drop glacial acetic acid into "
+"the sample."
+msgstr ""
+"സാമ്പിളില്‍ ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:108
+msgid ""
+"Drag the dropper towards the test tube to <br>drop ethyl alcohol into the "
+"sample."
+msgstr "സാമ്പിളില്‍ ഈഥൈല്‍ ആല്‍ക്കഹോള്‍ ചേര്‍ക്കാന്‍ <br>ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:109 simcontrols.js:156
+msgid ""
+"Drag the dropper towards the test tube to <br>drop Conc. sulphuric acid into "
+"the sample."
+msgstr ""
+"സാമ്പിളില്‍ ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം ഒഴിക്കാന്‍<br>  ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:109
+msgid ""
+"Drag the test tube towards the small beaker to pour <br>the contents of the "
+"test tube into the cold water."
+msgstr ""
+"ടെസ്റ്റ് ട്യൂബിലെ ഉള്ളടക്കം തണുത്ത വെള്ളത്തില്‍ ഒഴിക്കാന്‍ <br>ടെസ്റ്റ് ട്യൂബ് ചെറിയ ബീക്കറിലേക്ക് "
+"ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols.js:110
+msgid "Cold water"
+msgstr "തണുത്ത ജലം"
+
+#: simcontrols.js:111
+msgid "Ethyl alcohol"
+msgstr "ഈഥൈല്‍ ആല്‍ക്കഹോ ള്‍"
+
+#: simcontrols.js:126
+msgid "Fehling solution A "
+msgstr "ഫെലിംഗ് ലായനി A"
+
+#: simcontrols.js:127
+msgid "Fehling solution B "
+msgstr "ഫെലിംഗ് ലായനി B"
+
+#: simcontrols.js:128
+msgid ""
+"Aldehydes reduces the Cu(II) ions in the test reagent <br>to red precipitate "
+"of copper (I) oxide."
+msgstr ""
+"ടെസ്‍റ്റ് റീയേജന്‍റുമായി ചേര്‍ന്ന് ആല്‍ഡിഹൈഡുകള്‍<br>  Cu(II) അയോണുകളെ ഓക്സീകരിച്ച് കോപ്പര്‍( I) "
+"ഓക്സൈഡിന്‍റെ <br> ചുവന്ന അവക്ഷിപ്തമാക്കി മാറ്റുന്നു."
+
+#: simcontrols.js:129
+msgid ""
+"Drag the dropper towards the test tube to <br>drop Fehling solution A into "
+"the sample."
+msgstr "സാമ്പിളില്‍ ഫെലിംഗ് ലായനി A ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:129
+msgid ""
+"Drag the dropper towards the test tube to <br>drop Fehling solution B into "
+"the sample."
+msgstr "സാമ്പിളില്‍ ഫെലിംഗ് ലായനി B ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:131
+#, python-format
+msgid "1% iodine solution"
+msgstr "അയോഡിന്‍ ലായനി 1%"
+
+#: simcontrols.js:132 simcontrols.js:167
+msgid "Dil. Sodium hydroxide"
+msgstr "നേര്‍ത്ത NaOH"
+
+#: simcontrols.js:133
+msgid ""
+"This test is given by alcohols containing CH<sub>3</sub>-CH-OH <br>group."
+"When alcohol is warmed with NaOH solution and iodine,<br> a yellow "
+"precipitate of iodoform is formed."
+msgstr ""
+"CH<sub>3</sub>-CH-OH  അടങ്ങിയ ആല്‍ക്കഹോളുകല്‍ ഉപയോഗിച്ച് ഈ പരിശോധന നടത്തിയപ്പോള്‍ ആല്‍ക്കഹോള്‍ "
+"NaOH ലായനിയും അയോഡിനുമായി ചൂടാക്കുമ്പോള്‍ അയോഡോഫോമിന്‍റെ മഞ്ഞ അവക്ഷിപ്‍തമുണ്ടാകുന്നു."
+
+#: simcontrols.js:134
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube to drop <br>1% iodine solution into "
+"the sample."
+msgstr "സാമ്പിളില്‍ 1% അയോഡിന്‍ ലായനി ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:134
+msgid ""
+"Drag the dropper towards the test tube to drop <br>dil. sodium hydroxide "
+"into the sample."
+msgstr ""
+"സാമ്പിളില്‍ നേര്‍ത്ത സോഡിയം ഹൈഡ്രോക്സൈഡ് ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:136
+msgid ""
+"Carboxylic acids react with sodium bicarbonate to produce brisk "
+"<br>effervescence due to the formation carbon dioxide gas."
+msgstr ""
+"കാര്‍ബോക്സിലിക് അമ്ലം സോഡിയം ബൈകാര്‍ബണേറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് കാര്‍ബണ്‍ ഡൈഓക്സഡ് വാതകത്തിന്‍റെ "
+"കുമിളകള്‍ ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:138
+msgid "m-dinitrobenzene"
+msgstr "m-ഡൈ നൈട്രോ ബെന്‍സീന്‍"
+
+#: simcontrols.js:139
+msgid ""
+"Ketones on reaction with m-dinitrobenzene and sodium hydroxide to<br> give a "
+"violet colouration that slowly fades away."
+msgstr ""
+"കീറ്റോണുകള്‍ m-ഡൈ നൈട്രോ ബെന്‍സീന്‍, സോഡിയം ഹൈഡ്രോക്സൈഡ് എന്നിവയുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ക്രമേണ "
+"മങ്ങി ഇല്ലാതാകുന്ന വയലറ്റ് നിറം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:141
+msgid ""
+"Drag the spatula towards the test tube to <br>add m- dinitrobenzene into the "
+"sample."
+msgstr "സാമ്പിളില്‍ ഡൈ നൈട്രോ ബെന്‍സീൻ ചേര്‍ക്കാന്‍ പ്രലേപനകത്തി ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:141
+msgid ""
+"Drag the dropper towards the test tube to <br>drop dil. sodium hydroxide "
+"into the sample."
+msgstr "സാമ്പിളില്‍ സോഡിയം ഹൈഡ്രോക്സൈഡ് ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:143
+msgid "Sodium nitroprusside"
+msgstr "സോഡിയം നൈട്രോപ്ര സ്സൈഡ്"
+
+#: simcontrols.js:144
+msgid "Distilled water"
+msgstr "സ്വേദിത ജലം"
+
+#: simcontrols.js:145
+msgid "Sodium hydroxide"
+msgstr "സോഡിയം ഹൈഡ്രോ ക്സൈഡ്"
+
+#: simcontrols.js:146
+msgid ""
+"This test is given by methyl ketones. The anion of the <br>ketone formed by "
+"an alkali reacts with nitroprusside <br> ion to form red coloured complex."
+msgstr ""
+"മീഥൈല്‍ കീറ്റോണുകളാണ് ഈ പരിശോധന നല്‍കുന്നത്. ഒരു ക്ഷാരം ഉല്‍പാദിപ്പിക്കുന്ന കീറ്റോണ്‍ ആനയോണ്‍ "
+"നൈട്രോപ്രസൈഡ് അയോണുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ചുവപ്പു നിറമുള്ള കോംപ്ലെക്സ് ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:148
+msgid ""
+"Phenol on reaction with sodium nitrite in presence of <br>Conc. H<sub>2</"
+"sub>SO<sub>4</sub> to give a deep blue or green colored product."
+msgstr ""
+"ഫിനോൾ സോഡിയം നൈട്രൈറ്റുമായി <br> ഗാഢ H<sub>2</sub>SO<sub>4</sub> ന്‍റെ "
+"സാന്നിധ്യത്തില്‍ പ്രതിപ്രവര്‍ത്തിച്ച് ഒരു കടുത്ത നീല അല്ലെങ്കില്‍ പച്ച നിറമുള്ള ഉല്‍പന്നം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:149
+msgid ""
+"The blue or green colour changes to red or brown colour on <br>treatment "
+"with water due to the formation of indophenol."
+msgstr ""
+"ഇതില്‍ ജലം ചേര്‍ക്കുമ്പോള്‍ ഇന്‍ഡോഫെനോള്‍ രൂപീകരിക്കുന്നതിനാല്‍ നീലയോ പച്ചയോ ആയ നിറം ചുവപ്പോ "
+"തവിട്ടോ ആയി മാറുന്നു."
+
+#: simcontrols.js:150
+msgid ""
+"The red colour again changes to blue or green by the addition of <br>strong "
+"alkali due to the formation of indophenol anion."
+msgstr ""
+"ഇതില്‍ വീര്യമുള്ള ക്ഷാരം ചേര്‍ക്കുമ്പോള്‍ ഇന്‍ഡീഫെനോല്‍ ആനയോണ്‍ ഉണ്ടാകുന്നതിനാല്‍ ചുവപ്പുനിറം വീണ്ടും "
+"നീലയോ പച്ചയോ ആയി മാറുന്നു."
+
+#: simcontrols.js:151
+msgid ""
+"Drag the spatula towards the test tube to<br> add sodium nitrite into the "
+"sample."
+msgstr "സാമ്പിളില്‍ സോഡിയം നൈട്രൈറ്റ് ചേര്‍ക്കാന്‍ പ്രലേപനകത്തി ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:151
+msgid ""
+"Drag the test tube over the Bunsen burner <br>to heat the contents of the "
+"test tube."
+msgstr "ടെസ്‍റ്റ് ട്യൂബിലെ ഉള്ളടക്കം ചൂടാക്കാന്‍ ടെസ്‍റ്റ് ട്യുബ് ബുന്‍സന്‍ ബര്‍ണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:151
+msgid "Wait for some time to cool the<br> contents of the test tube."
+msgstr "ടെസ്‍റ്റ് ട്യൂബിലെ ഉള്ളടക്കം തണുക്കാനായി കുറച്ചുസമയം കാക്കുക."
+
+#: simcontrols.js:151
+msgid ""
+"Drag the dropper towards the test tube <br>to drop Conc. sulphuric acid into "
+"it."
+msgstr "ടെസ്‍റ്റ് ട്യൂബില്‍ ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:151
+msgid ""
+"Drag the dropper towards the test tube <br>to drop distilled water into the "
+"<br>contents of the test tube."
+msgstr "ടെസ്‍റ്റ് ട്യൂബില്‍ സ്വേദിത ജലം ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:151
+msgid ""
+"Drag the dropper towards the test tube to <br>drop excess sodium hydroxide "
+"solution <br>into the contents of the test tube."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബില്‍ അധിക സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+"ചെയുക."
+
+#: simcontrols.js:153
+msgid "Phthalic anhydride"
+msgstr "ഫ്‍താലിക് അന്‍ഹൈഡ്രൈഡ്"
+
+#: simcontrols.js:154
+msgid "Pink colouration inside the beaker."
+msgstr "ബീക്കറിനുള്ളില്‍ പിങ്ക് നിറം"
+
+#: simcontrols.js:155
+msgid ""
+"On heating, phenol reacts with phthalic anhydride in presence of H<sub>2</"
+"sub>SO<sub>4</sub> <br>to produces phenolphthalein, which gives pink colour "
+"with alkali like NaOH."
+msgstr ""
+"ചൂടാക്കുമ്പോള്‍ ഫിനോള്‍ ഫ്‍താലിക് അന്‍ഹൈഡ്രൈഡുമായി H<sub>2</sub>SO<sub>4</sub> ന്‍റെ "
+"സാന്നിധ്യത്തില്‍ പ്രതിപ്രവര്‍ത്തിച്ച് ഫിനോഫ്‍തലീന്‍ ഉല്‍പാദിപ്പിക്കുന്നു. NaOH പോലുള്ള ക്ഷാരങ്ങളുമായി "
+"ചേരുമ്പോള്‍ അത് പിങ്ക് നിറം നല്‍കുന്നു."
+
+#: simcontrols.js:156
+msgid ""
+"Drag the spatula towards the test tube to <br>add phthalic anhydride into "
+"the sample."
+msgstr "സാമ്പിളില്‍ ഫ്‍താലിക് അന്‍ഹൈഡ്രൈഡ് ചേര്‍ക്കാന്‍ പ്രലേപനകത്തി ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:156
+msgid "Drag the test tube towards the beaker to<br> place it in the oil bath."
+msgstr "ഓയില്‍ ബാത്ത് ചൂടാക്കാന്‍ ഹോട്ട് പ്ലേറ്റിന്‍റെ സ്വിച്ച് ക്ലിക് ചെയ്യുക."
+
+#: simcontrols.js:156
+msgid "Click on the switch of the hot plate <br>to heat the oil bath."
+msgstr "ഓയില്‍ ബാത്ത് ചൂടാക്കാന്‍ ഹോട്ട് പ്ലേറ്റിന്‍റെ സ്വിച്ച് ക്ലിക് ചെയ്യുക."
+
+#: simcontrols.js:156
+msgid ""
+"Drag the test tube towards the small beaker <br>to pour the contents of the "
+"test tube into <br>the sodium hydroxide solution."
+msgstr ""
+"ടെസ്റ്റ് ട്യൂബിലെ ഉള്ളടക്കം സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനിയില്‍ ഒഴിക്കാന്‍ <br>ടെസ്റ്റ് ട്യൂബ് ചെറിയ "
+"ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols.js:158
+msgid "Ethanol"
+msgstr "എതനോൾ"
+
+#: simcontrols.js:159
+msgid "Chloroform"
+msgstr "ക്ലോറോഫോം"
+
+#: simcontrols.js:160
+msgid "Potassium hydroxide"
+msgstr "പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ്"
+
+#: simcontrols.js:161
+msgid "Offensive smell is produced."
+msgstr "അസഹനീയ ഗന്ധം ഉണ്ടാക്കുന്നു."
+
+#: simcontrols.js:162
+msgid ""
+"Aliphatic as well as aromatic 1 amines when warmed with chloroform <br>and "
+"alcoholic KOH, give isocyanide, which has an offensive smell."
+msgstr ""
+"അലിഫാറ്റിക്കും അരോമാറ്റിക്കുമായ 1 അമീനുകള്‍ ക്ലോറോഫോം, ആല്‍ക്കഹോളിക് KOH എന്നിവയുമായി "
+"ചൂടാക്കുമ്പോള്‍ അസഹനീയ ഗന്ധമുള്ള ഐസോസയനൈഡ് ഉണ്ടാകുന്നു. "
+
+#: simcontrols.js:163
+msgid "Alcoholic KOH"
+msgstr "ആല്‍ക്കഹോളിക് KOH"
+
+#: simcontrols.js:164
+msgid ""
+"Drag the dropper towards the test tube to <br>drop ethyl alcohol into "
+"potassium hydroxide."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബിലെ പൊട്ടാസിയം ഹൈഡ്രോക്സൈഡിലേക്ക് ഈഥൈല്‍ ആല്‍ക്കഹോള്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് "
+"ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols.js:164
+msgid "Drag the test tube over <br>the burner to warm it."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് ചൂടാക്കാന്‍ ബര്‍ണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:164
+msgid "Drag the dropper towards the test tube <br>to drop chloroform into it."
+msgstr "ടെസ്‍റ്റ് ട്യൂബില്‍ ക്ലോറോഫോം ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:164
+msgid "Drag the dropper towards the test tube<br> to drop the sample into it."
+msgstr "ടെസ്‍റ്റ് ട്യൂബില്‍ സാമ്പിള്‍ ഇടാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:166
+msgid "Dil. Ammonia solution"
+msgstr "നേര്‍ത്ത അമോണിയ ലായനി"
+
+#: simcontrols.js:168
+msgid "Silver nitrate"
+msgstr "സില്‍വര്‍ നൈട്രേറ്റ്"
+
+#: simcontrols.js:169
+msgid ""
+"Silver nitrate reacts with sodium hydroxide to form brown precipitate<br> of "
+"silver oxide which is dissolved in ammonium hydroxide."
+msgstr ""
+"സില്‍വര്‍ നൈട്രേറ്റ് സോഡിയം ഹൈഡ്രോക്സൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് സില്‍വര്‍ ഓക്സൈഡിന്‍റെ തവിട്ട് "
+"അവക്ഷിപ്‍തം ഉണ്ടാകുന്നു. അത് അമോണിയം ഹൈഡ്രോക്സൈഡില്‍ ലയിക്കുന്നു."
+
+#: simcontrols.js:170
+msgid ""
+"In presence of aldehydes, the silver ions in the test reagent <br>are "
+"reduced to elemental silver, accumulated onto the inner <br>surface of the "
+"reaction vessel, producing silver mirror on <br>the inner surface of the "
+"vessel."
+msgstr ""
+"ആല്‍ഡിഹൈഡുകളുടെ സാന്നിധ്യത്തില്‍ ടെസ്‍റ്റ് റീയേജന്‍റിലെ സില്‍വര്‍ അയോണുകള്‍ നിരോക്സീകരിക്കപ്പെട്ട് മൂലക "
+"സില്‍വര്‍ ഉണ്ടാകുകയും അത് പ്രതിപ്രവര്‍ത്തന പാത്രത്തിന്‍റെ ഉള്‍വശങ്ങളില്‍ അടിഞ്ഞുചേരുകയും പാത്രത്തിന്‍റെ "
+"ഉള്‍വശത്ത് ഒരു വെള്ളി ദര്‍പ്പണം രൂപം കൊള്ളുകയൂം ചെയ്യുന്നു. "
+
+#: simcontrols.js:171
+msgid ""
+"Drag the dropper towards the test tube to drop <br>silver nitrate solution "
+"into the test tube."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബില്‍ സില്‍വര്‍ നൈട്രേറ്റ് ലായനി ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:171
+msgid ""
+"Drag the dropper towards the test tube to drop <br>dil. sodium hydroxide "
+"solution into the test tube."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബില്‍ നേര്‍ത്ത സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:171
+msgid ""
+"Drag the dropper towards the test tube to drop <br>dil. ammonia solution "
+"into the test tube."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബില്‍ സില്‍വര്‍ നൈട്രേറ്റ് ലായനി ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:171
+msgid ""
+"Drag the dropper towards the test tube <br>to drop sample into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ സാമ്പിള്‍ ചേര്‍ക്കാന്‍ <br>ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:173
+msgid "Calcium sulphate (anhydrous)"
+msgstr "കാല്‍സ്യം സൾഫേറ്റ്(അന്‍ഹൈഡ്രസ്)"
+
+#: simcontrols.js:174
+msgid ""
+"Alcohols react with active metals like sodium to produce effervescence<br> "
+"due to the liberation of hydrogen gas."
+msgstr ""
+"ആല്‍ക്കഹോള്‍ സോഡിയം പോലുള്ള സജീവലോഹങ്ങളുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ഹൈഡ്രജന്‍ വാതകത്തിന്‍റെ കുമിളകള്‍ "
+"പുറപ്പെടുവിക്കുനു."
+
+#: simcontrols.js:175
+msgid "Sodium metal"
+msgstr "സോഡിയം ലോഹം"
+
+#: simcontrols.js:176
+msgid ""
+"Drag the spatula towards the test tube A to add <br>anhydrous calcium "
+"sulphate into the sample."
+msgstr ""
+"സാമ്പിളില്‍ ആന്‍ഹൈഡ്രസ് കാല്‍സ്യം സള്‍ഫേറ്റ് ചേര്‍ക്കാന്‍ പ്രലേപനകത്തി ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:177
+msgid ""
+"Drag the forceps towards the bottle containing sodium metal<br> to take "
+"small piece of sodium using it."
+msgstr ""
+"ഒരു ചെറിയ കഷണം സോഡിയം എടുക്കാന്‍ ചവണ <br> സോഡിയം ലോഹം അടങ്ങിയ കുപ്പിയിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:177
+msgid ""
+"Drag the forceps towards the filter paper to <br>place the sodium metal on "
+"the filter paper."
+msgstr "സോഡിയം ലോഹം അരിപ്പുകടലാസില്‍ വയ്‍ക്കാന്‍ ചവണ അരിപ്പുകടലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:177
+msgid ""
+"Drag the other filter paper towards the <br>filter paper containing sodium "
+"to dry it."
+msgstr ""
+"അരിപ്പുകടലാസിലെ സോഡിയം ഈര്‍പരഹിതമാക്കുന്നതിനായി അതിലേക്ക് മറ്റൊരു അരിപ്പുകടലാസ് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:177
+msgid ""
+"Drag the forceps towards the filter paper <br>to take the dry piece of "
+"sodium."
+msgstr "ഈര്‍പരഹിത സോഡിയം കഷ്ണങ്ങള്‍ എടുക്കാൻ ചവണ അരിപ്പുകടലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:177
+msgid ""
+"Drag the forceps towards the test tube to put <br>the dry piece of sodium "
+"into the sample."
+msgstr "സാമ്പിളില്‍ ഈര്‍പരഹിത സോഡിയം കഷണങ്ങള്‍ ഇടാന്‍ ചവണ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:179
+msgid "Acetyl chloride"
+msgstr "അസെറ്റൈല്‍ ക്ലോറൈഡ്"
+
+#: simcontrols.js:180
+msgid "Ammonium hydroxide"
+msgstr "അമോണിയം ഹൈഡ്രോക്സൈഡ്"
+
+#: simcontrols.js:181
+msgid ""
+"Alcohols on reaction with acetyl chloride to form esters and <br>give out "
+"hydrogen chloride gas that gives white fumes of <br>ammonium chloride with "
+"ammonium hydroxide."
+msgstr ""
+"ആല്‍ക്കഹോളുകള്‍ അസെറ്റൈല്‍ ക്ലോറൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് എസ്‍റ്റര്‍ ഉണ്ടാകുന്നു. അതോടൊപ്പം അമോണിയം "
+"ക്ലോറൈഡിന്‍റെ വെളുത്ത പുകയോടെ ഹൈഡ്രജന്‍ ക്ലോറൈഡ് വാതകം പുറത്തുവിടുന്നു."
+
+#: simcontrols.js:182
+msgid ""
+"Drag the dropper towards the test tube B to <br>drop acetyl chloride into "
+"the sample."
+msgstr "സാമ്പിളില്‍ അസെറ്റൈല്‍ ക്ലോറൈഡ് ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:182
+msgid ""
+"Drag the glass rod towards the bottle to dip it <br>in ammonium hydroxide "
+"solution and drag it again <br>towards the test tube B to shown it over the "
+"<br>mouth of the test tube."
+msgstr ""
+"ഗ്ലാസ് റോഡ് അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനിയില്‍ മുക്കാന്‍ അത് കുപ്പിയിലേക്ക് ഡ്രാഗ് ചെയ്യുക. തുടര്‍ന്ന "
+"ഗ്ലാസ് റോഡ് ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വായ്ഭാഗത്ത് കാണിക്കാനായി റോഡ് ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:184
+msgid "Hydrochloric acid"
+msgstr "ഹൈഡ്രോ ക്ലോറിക് അമ്ലം"
+
+#: simcontrols.js:185
+msgid "Sodium nitrite(aq)"
+msgstr "സോഡിയം നൈട്രൈറ്റ്(aq)"
+
+#: simcontrols.js:186
+msgid "naphthol"
+msgstr "β-നാഫ്‍തോള്‍"
+
+#: simcontrols.js:187
+msgid "Ice bath container"
+msgstr "ഐസ് ബാത്ത് കണ്ടെയ്‍നര്‍ "
+
+#: simcontrols.js:188
+msgid ""
+"Aromatic 1 amine reacts with sodium nitrite and HCl at <br>0 5 C to produce "
+"diazonium salt which couples with <br>naphthol to give a scarlet red dye."
+msgstr ""
+"അരോമാറ്റിക് 1 അമീന്‍ സോഡിയം നൈട്രൈറ്റ്, HCl എന്നിവയുമായി 05C യില്‍ പ്രതിപ്രവര്‍ത്തിക്കുമ്പോള്‍ "
+"ഡയാസോണിയം ലവണം ഉല്‍പാദിപ്പിക്കുന്നു. ഇത് നാഫ്‍തോളുമായി ചേര്‍ന്ന് തിളങ്ങുന്ന ചുവപ്പ് ഡൈ ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:189
+msgid ""
+"Drag the dropper towards the test tube A to <br>drop dil. hydrochloric acid "
+"into the sample."
+msgstr ""
+"സാമ്പിളില്‍ നേര്‍ത്ത ഹൈഡ്രോക്ലോറിക് അമ്ലം ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:189
+msgid ""
+"Drag the dropper towards the test tube C to drop <br>dil. sodium hydroxide "
+"into the naphthol."
+msgstr ""
+"നേര്‍ത്ത സോഡിയം ഹൈഡ്രോക്സൈഡ് നാഫ്‍തോളില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:189
+msgid "Drag the test tube C to shake it well."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് C നല്ലപോലെ കുലുക്കാന്‍ അത് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:189
+msgid "Drag the test tubes A, B and C <br>towards the ice bath."
+msgstr "A, B, C ടെസ്‍റ്റ് ട്യൂബുകളെ ഐസ് ബാത്തിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:189
+msgid ""
+"Drag the test tube B towards the test tube A to<br> pour sodium nitrite "
+"solution into the sample."
+msgstr ""
+"സോഡിയം നൈട്രേറ്റ് ലായനി സാമ്പിളില്‍ ഒഴിക്കാന്‍ ടെസ്‍റ്റ് ട്യൂബ് B ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയുക."
+
+#: simcontrols.js:190
+msgid ""
+"Drag the test tube A towards the test tube C <br>to pour resulting solution "
+"into alkaline <br>solution of naphthol."
+msgstr ""
+"പ്രതിപ്രവര്‍ത്തന ഫലമായുണ്ടായ ലായനി നാഫ്‍തോളിന്‍റെ ക്ഷാരീയ ലായനിയില്‍ ചേര്‍ക്കാന്‍ ടെസ്‍റ്റ് ട്യൂബ് A "
+"ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയുക. "
+
+#: simcontrols.js:192
+msgid "Conc. sulphuric acid"
+msgstr "ഗാഢ സൾഫ്യുരിക് അമ്ലം"
+
+#: simcontrols.js:193
+msgid "Sodium nitrite"
+msgstr "സോഡിയം നൈട്രൈറ്റ്"
+
+#: simcontrols.js:194
+msgid ""
+"1 amine reacts with sodium nitrite and HCl<br> to liberate bubbles of "
+"nitrogen gas."
+msgstr ""
+"1 അമീന്‍  സോഡിയം നൈട്രൈറ്റ്, HCl എന്നിവയുമായി പ്രതിപ്രവര്‍ത്തിച്ച് നൈട്രജന്‍ വാതക കുമിളകള്‍ "
+"സ്വതന്ത്രമാക്കപ്പെടുന്നു."
+
+#: simcontrols.js:194
+msgid ""
+"2 amine reacts with sodium nitrite and HCl <br>to form a yellow oily layer "
+"of nitrosamine."
+msgstr ""
+"2 അമീന്‍ സോഡിയം നൈട്രൈറ്റ്, HCl എന്നിവയുമായി പ്രതിപ്രവര്‍ത്തിച്ച് നൈട്രോസാമൈനിന്‍റെ മഞ്ഞ "
+"എണ്ണമയമുള്ള പാളി ഉണ്ടാക്കുന്നു."
+
+#: simcontrols.js:194
+msgid ""
+"No visual change is observed in this case, a colorless <br>solution is left. "
+"The 3 amine has formed a soluble <br>nitrite salt by reacting with the acid "
+"present."
+msgstr ""
+"ഒരു നിറമില്ലാത്ത ലായനി അവശേഷിക്കുന്നതല്ലാതെ മറ്റ് പ്രകടമായ മാറ്റങ്ങള്‍ ഒന്നും കാണാനില്ല. 3 "
+"അമീന്‍ അമ്ലവുമായി പ്രവര്‍ത്തിച്ച് ലേയത്വമുള്ള ഒരു നൈട്രൈറ്റ് ലവണം ഉണ്ടാക്കുന്നു. "
+
+#: simcontrols.js:195
+msgid ""
+"Drag the spatula towards the test tube B to <br>add sodium nitrite into "
+"distilled water."
+msgstr ""
+"സ്വേദിത ജലത്തിലേക്ക് സോഡിയം നൈട്രേറ്റ് ചേര്‍ക്കാന്‍ പ്രലേപനകത്തി ടെസ്റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:195
+msgid ""
+"Drag the test tubes A and B towards the <br>ice bath to place them in ice "
+"bath."
+msgstr ""
+"ടെസ്‍റ്റ് ട്യൂബ് B, ടെസ്‍റ്റ് ട്യൂബ് A എന്നിവയെ ഐസ് ബാത്തില്‍ വയ്‍ക്കാന്‍ അവയെ ഐസ് ബാത്തിലേക്ക് ഡ്രാഗ് "
+"ചെയുക. "
+
+#: simcontrols.js:196
+msgid ""
+"Drag the dropper towards the test tube A <br>to drop Conc. hydrochloric acid "
+"into the <br>primary amine."
+msgstr ""
+"പ്രൈമറി അമീനില്‍ ഗാഢ  ഹൈഡ്രോക്ലോറിക്  അമ്ലം ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍  ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയുക."
+
+#: simcontrols.js:196
+msgid ""
+"Drag the dropper towards the test tube A to drop <br>Conc. hydrochloric acid "
+"into the secondary amine."
+msgstr ""
+"ഗാഢ ഹൈഡ്രോറിക് അമ്ലം സെക്കന്‍ററി അമീനില്‍ ഒഴിക്കാന്‍<br> ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:196
+msgid ""
+"Drag the dropper towards the test tube A <br>to drop Conc. hydrochloric acid "
+"into <br>the tertiary amine."
+msgstr ""
+"ഗാഢ ഹൈഡ്രോറിക് അമ്ലം ടെർഷ്യറി അമീനില്‍ ഒഴിക്കാന്‍<br> ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:197
+msgid ""
+"Drag the test tube B towards the <br>test tube A to pour sodium nitrite "
+"<br>solution into primary amine."
+msgstr ""
+"ഗാഢ ഹൈഡ്രോറിക് അമ്ലം സെക്കന്‍ററി അമീനില്‍ ഒഴിക്കാന്‍<br> ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:197
+msgid ""
+"Drag the test tube B towards the test tube A to <br>pour sodium nitrite "
+"solution into secondary amine."
+msgstr ""
+"പ്രൈമറി അമീനില്‍ സോഡിയം നൈട്രൈറ്റ് ലായനി ഒഴിക്കാന്‍ ടെസ്‍റ്റ് ട്യൂബ് B ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് "
+"ഡ്രാഗ് ചെയുക."
+
+#: simcontrols.js:197
+msgid ""
+"Drag the test tube B towards the <br>test tube A to pour sodium nitrite<br> "
+"solution into tertiary amine."
+msgstr ""
+"സോഡിയം നൈട്രൈറ്റ് ലായനി പ്രൈമറി അമീനില്‍  ഒഴിക്കാന്‍<br>  ടെസ്റ്റ് ട്യൂബ് A യിലേക്ക് ടെസ്റ്റ് "
+"ട്യൂബ് B ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:199
+msgid "25% NaOH"
+msgstr "25% NaOH"
+
+#: simcontrols.js:200
+msgid "Water"
+msgstr "ജലം"
+
+#: simcontrols.js:201
+msgid "Benzene sulphonyl chloride"
+msgstr "ബെന്‍സീന്‍ സള്‍ഫോനൈല്‍ ക്ലോറൈഡ്"
+
+#: simcontrols.js:202
+msgid "Conc. HCl"
+msgstr "ഗാഢ HCl"
+
+#: simcontrols.js:203
+msgid "Formation of precipitate inside the test tube A."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് A യുടെ ഉള്‍വശത്ത് അവക്ഷിപ്‍ത രൂപീകരണം"
+
+#: simcontrols.js:204
+msgid ""
+"1 amine reacts with benzene sulphonyl chloride and NaOH <br>to form a "
+"soluble sulphonamide salt which precipitates <br>after addition of dil. HCl."
+msgstr ""
+"1 അമീന്‍ ബെന്‍സീൻ സള്‍ഫോനൈല്‍ ക്ലോറൈഡും NaOH മായി പ്രതിപ്രവര്‍ത്തിച്ച് ലേയത്വമുള്ള സള്‍ഫോണമൈഡ് ലവണം "
+"ഉണ്ടാകുന്നു. നേര്‍ത്ത HCl ചേര്‍ക്കുമ്പോള്‍ അത് അവക്ഷിപ്‍തമായി രൂപപ്പെടുന്നു."
+
+#: simcontrols.js:204
+msgid ""
+"2 amine reacts with benzene sulphonyl chloride and NaOH to <br>form an "
+"insoluble sulphonamide. Acidification of the mixture <br> does not dissolve "
+"the insoluble sulphonamide."
+msgstr ""
+"2 അമീന്‍ ബെന്‍സീൻ സള്‍ഫോനൈല്‍ ക്ലോറൈഡും NaOH മായി പ്രതിപ്രവര്‍ത്തിച്ച് അലേയമായ സള്‍ഫോണമൈഡ്  "
+"ഉണ്ടാകുന്നു. മിശ്രിതം അമ്ലീകരിച്ചാലും അലേയ സള്‍ഫോണിമൈഡ് ലയിക്കുന്നില്ല."
+
+#: simcontrols.js:204
+msgid ""
+"3 amine will not react, but is insoluble.<br> After adding dilute acid this "
+"insoluble <br>amine is converted to a soluble ammonium salt."
+msgstr ""
+"3 അമീന്‍ പ്രതിപ്രവര്‍ത്തിക്കുന്നില്ല. നേര്‍ത്ത അമ്ലം ചേര്‍ക്കുമ്പോള്‍ അലേയമായ അമീന്‍ ലയിക്കുന്ന അമോണിയം "
+"ലവണമായി മാറുന്നു."
+
+#: simcontrols.js:205
+msgid "Drag the dropper towards the test tube <br>to drop water into it."
+msgstr "ജലം ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:205
+msgid ""
+"Drag the dropper towards the test tube to <br> drop benzene sulphonyl "
+"chloride into it."
+msgstr ""
+"\n"
+"ബെന്‍സീൻ സള്‍ഫോനൈല്‍ ക്ലോറൈഡ് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:205
+msgid "Drag the test tube towards the beaker<br> to place it in the water."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് ജലത്തില്‍ വയ്‍ക്കാന്‍ അതിനെ ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:205
+msgid ""
+"Drag the dropper towards the test tube to <br>drop Conc. hydrochloric acid "
+"into it."
+msgstr "ഗാഢ ഹൈഡ്രോക്ലോറിക് അമ്ലം അതില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:206
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube to drop <br>25% sodium hydroxide into "
+"the primary amine."
+msgstr ""
+"25% സോഡിയം ഹൈഡ്രോക്സൈഡ് പ്രൈമറി അമീനില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:206
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube to drop <br>25% sodium hydroxide into "
+"the secondary amine."
+msgstr ""
+"25% സോഡിയം ഹൈഡ്രോക്സൈഡ് സെക്കന്‍ററി അമീനില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+"ചെയ്യുക."
+
+#: simcontrols.js:206
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube to drop <br>25% sodium hydroxide into "
+"the tertiary amine."
+msgstr ""
+"25% സോഡിയം ഹൈഡ്രോക്സൈഡ് പ്രൈമറി അമീനില്‍ ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols.js:208
+msgid "Primary amines"
+msgstr "പ്രൈമറി അമീനുകള്‍"
+
+#: simcontrols.js:208
+msgid "Secondary amines"
+msgstr "സെക്കന്‍ററി അമീനുകള്‍"
+
+#: simcontrols.js:208
+msgid "Tertiary amines"
+msgstr "ടെര്‍ഷറി അമീനുകള്‍"
+
+#~ msgid "--Select--"
+#~ msgstr "തിരഞ്ഞെടുക്കുക "
+
+#~ msgid "Select the test for unsaturation:"
+#~ msgstr "അപൂരിത ടെസ്റ്റ്‌ തിരഞ്ഞെടുക്കുക:"
+
+#~ msgid ""
+#~ "Saturated compounds do not decolorize the <br>red-brown color of bromine "
+#~ "water."
+#~ msgstr "പൂരിത സംയുക്തങ്ങള്‍ ബ്രോമിന്‍ ജലത്തിന്‍റെ തവിട്ട് നിറം നിറരഹിതമാക്കുന്നില്ല."
+
+#~ msgid ""
+#~ "When bromine water reacts with unsaturated compounds such as alkenes "
+#~ "<br>or alkynes, bromine will react with alkenes to produce dibromoalkanes "
+#~ "<br>and alkynes to produce tetrabromoalkanes.  When this reaction occurs, "
+#~ "<br>molecular bromine is consumed, and its characteristic dark red -brown "
+#~ "<br>color disappears."
+#~ msgstr ""
+#~ "ആല്‍ക്കീനുകള്‍ അല്ലെങ്കില്‍ ആല്‍ക്കൈനുകള്‍ പോലുള്ള അപൂരിത<br> സംയുക്തങ്ങളുമായി ബ്രോമിന്‍ ജലം "
+#~ "പ്രതിപ്രവര്‍ത്തിക്കുമ്പോള്‍ <br>ബ്രോമിന്‍ ആല്‍ക്കീനുകളുമായി പ്രതിപ്രവര്‍ത്തിച്ച്<br> ഡൈ ബ്രോമോ "
+#~ "ആല്‍ക്കെയ്‍നുകളും ആല്‍ക്കൈനുകളുമായി<br> പ്രവര്‍ത്തിച്ച് ടെട്രാ ബ്രോമോ ആല്‍ക്കെയ്‍നുകളും ഉണ്ടാക്കുന്നു."
+#~ "<br> ഈ പ്രതിപ്രവര്‍ത്തനം നടക്കുമ്പോള്‍ തന്മാത്രാ ബ്രോമിന്‍ ഉപയോഗിക്കപ്പെടുകയും<br>അതിന്‍റെ "
+#~ "സവിശേഷ കരിഞ്ചുവപ്പ്-തവിട്ട് നിറം അപ്രത്യക്ഷമാകുകയും <br>ചെയ്യുന്നു."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube A to drop <br>bromine water into "
+#~ "the saturated compound."
+#~ msgstr ""
+#~ "ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് ചെയ്ത് പൂരിത സംയുക്തത്തില്‍ ബ്രോമിന്‍ ജലം ഒഴിക്കുക."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube B to drop <br>bromine water into "
+#~ "the unsaturated compound."
+#~ msgstr ""
+#~ "ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്ത് പൂരിത സംയുക്തത്തില്‍ ബ്രോമിന്‍ ജലം ഒഴിക്കുക."
+
+#~ msgid ""
+#~ "Saturated compounds do not decolorize the <br>pink color of potassium "
+#~ "permanganate."
+#~ msgstr "പൂരിത സംയുക്തങ്ങള്‍ ബ്രോമിന്‍ ജലത്തിന്‍റെ തവിട്ട് നിറം നിറരഹിതമാക്കുന്നില്ല. "
+
+#~ msgid ""
+#~ "When KMnO<sub>4</sub> reacts with unsaturated compounds such as alkenes "
+#~ "or <br>alkynes it oxidizes carbon-carbon double bond to give alkanediols "
+#~ "and <br>the carbon-carbon triple bond to give carboxylic acids. The pink "
+#~ "colored <br>permanganate is destroyed in the reaction, and a brown "
+#~ "precipitate of <br>MnO<sub>2</sub> produced."
+#~ msgstr ""
+#~ "KMnO<sub>4</sub> , ആല്‍ക്കീനുകളോ ആല്‍ക്കൈനുകളോ പോലുള്ള <br>അപൂരിത സംയുക്തങ്ങളുമായി "
+#~ "പ്രതിപ്രവര്‍ത്തിക്കുമ്പോള്‍  കാര്‍ബണ്‍ <br>ഡബിള്‍ ബോണ്ടിനെ അത് ഓക്സീകരിച്ച്  "
+#~ "ആല്‍ക്കേന്‍ഡിയോളുകളും<br> കാര്‍ബണ്‍ ട്രിപ്പിള്‍ ബോണ്ടിനെ ഓക്സീകരിച്ച് കാര്‍ബോക്സിലിക്<br> അമ്ലവും "
+#~ "നല്‍കുന്നു. ഈ പ്രതിപ്രവര്‍ത്തനത്തില്‍ <br>പിങ്ക് നിറ പെര്‍മാംഗനേറ്റ് നശിപ്പിക്കപ്പെടുകയും  "
+#~ "<br>MnO<sub>2</sub> ന്‍റെ തവിട്ട് അവക്ഷിപ്‍തം <br>ഉല്‍പാദിപ്പിക്കപ്പെടുകയും ചെയ്യുന്നു."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube A to drop alkaline <br>potassium "
+#~ "permanganate into the saturated compound."
+#~ msgstr ""
+#~ "ക്ഷാരതയുള്ള പൊട്ടാസ്യം പെര്‍മാംഗനേറ്റ് <br>പൂരിത സംയുക്തത്തിലേക്ക് ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് "
+#~ "ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് ചെയ്യുക.  "
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube B to drop alkaline <br>potassium "
+#~ "permanganate into the unsaturated compound."
+#~ msgstr ""
+#~ "ക്ഷാരതയുള്ള പൊട്ടാസ്യം പെര്‍മാംഗനേറ്റ് <br>പൂരിത സംയുക്തത്തിലേക്ക് ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് "
+#~ "ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്യുക.  "
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube to drop <br>sodium nitroprusside "
+#~ "solution into the sample."
+#~ msgstr "ടെസ്റ്റ് ട്യൂബില്‍ സാമ്പിള്‍ ചേര്‍ക്കാന്‍ <br>ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube to drop<br> sodium hydroxide "
+#~ "solution into the test tube."
+#~ msgstr ""
+#~ "ടെസ്‍റ്റ് ട്യൂബില്‍ സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചേര്‍ക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് "
+#~ "ചെയ്യുക."
+
+#~ msgid "5 Min"
+#~ msgstr "5 Min"
+
+#~ msgid "Alcoholic group"
+#~ msgstr "Alcoholic group"
+
+#~ msgid "Phenolic group"
+#~ msgstr "Phenolic group"
+
+#~ msgid "Aldehydic and ketonic groups"
+#~ msgstr "Aldehydic and ketonic groups"
+
+#~ msgid "Aldehydic group"
+#~ msgstr "Aldehydic group"
+
+#~ msgid "Ketonic group"
+#~ msgstr "Ketonic group"
+
+#~ msgid "Amino group"
+#~ msgstr "Amino group"
+
+#~ msgid "Transluscent Spot test"
+#~ msgstr "Transluscent Spot test"
+
+#~ msgid "Baudouin test"
+#~ msgstr "Baudouin test"
+
+#~ msgid "Desi ghee"
+#~ msgstr "Desi ghee"
+
+#~ msgid "Vegetable ghee"
+#~ msgstr "Vegetable ghee"
+
+#~ msgid "Refined oil"
+#~ msgstr "Refined oil"
+
+#~ msgid "Filter papers"
+#~ msgstr "Filter papers"
+
+#~ msgid "Cotton seed oil"
+#~ msgstr "Cotton seed oil"
+
+#~ msgid "Linseed oil "
+#~ msgstr "Linseed oil "
+
+#~ msgid "Conc. H<sub>2</sub>SO<sub>4</sub>"
+#~ msgstr "Conc. H<sub>2</sub>SO<sub>4</sub>"
+
+#~ msgid "Characteristics Tests of Oils and Fats"
+#~ msgstr "Characteristics Tests of Oils and Fats"
+
+#~ msgid "Select the solvent:"
+#~ msgstr "Select the solvent:"
+
+#~ msgid ""
+#~ "Drag the dropper of alcohol towards vegetable<br> ghee test tube to drop "
+#~ "the alcohol."
+#~ msgstr ""
+#~ "Drag the dropper of alcohol towards vegetable<br> ghee test tube to drop "
+#~ "the alcohol."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards vegetable <br>ghee test tube to "
+#~ "drop the chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards vegetable <br>ghee test tube to "
+#~ "drop the chloroform."
+
+#~ msgid ""
+#~ "Drag the dropper of alcohol towards refined <br>oil test tube to drop the "
+#~ "alcohol."
+#~ msgstr ""
+#~ "Drag the dropper of alcohol towards refined <br>oil test tube to drop the "
+#~ "alcohol."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards refined <br>oil test tube to drop "
+#~ "the chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards refined <br>oil test tube to drop "
+#~ "the chloroform."
+
+#~ msgid "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+#~ msgstr ""
+#~ "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+
+#~ msgid "Drag the refined oil test tube towards <br>the burner to heat it. "
+#~ msgstr "Drag the refined oil test tube towards <br>the burner to heat it. "
+
+#~ msgid ""
+#~ "Drag the desi ghee test tube towards <br>the canvas area to shake it. "
+#~ msgstr ""
+#~ "Drag the desi ghee test tube towards <br>the canvas area to shake it. "
+
+#~ msgid ""
+#~ "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+#~ msgstr ""
+#~ "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+
+#~ msgid ""
+#~ "Drag the refined oil test tube towards <br>the canvas area to shake it."
+#~ msgstr ""
+#~ "Drag the refined oil test tube towards <br>the canvas area to shake it."
+
+#~ msgid "Samples are immiscible."
+#~ msgstr "Samples are immiscible."
+
+#~ msgid "Samples form a lower layer, which dissolves on heating."
+#~ msgstr "Samples form a lower layer, which dissolves on heating."
+
+#~ msgid ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop "
+#~ "vegetable ghee into filter paper."
+#~ msgstr ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop "
+#~ "vegetable ghee into filter paper."
+
+#~ msgid "A transluscent spot appear on the filter paper."
+#~ msgstr "A transluscent spot appear on the filter paper."
+
+#~ msgid ""
+#~ "Drag the spatula towards the test tube to add crystals of <br>potassium "
+#~ "bisulphate into the test tube containing vegetable ghee."
+#~ msgstr ""
+#~ "Drag the spatula towards the test tube to add crystals of <br>potassium "
+#~ "bisulphate into the test tube containing vegetable ghee."
+
+#~ msgid "A pungent irritating odour of acrolein is produced."
+#~ msgstr "A pungent irritating odour of acrolein is produced."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. "
+#~ "Sulphuric acid into <br>test tube containing desi ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. "
+#~ "Sulphuric acid into <br>test tube containing desi ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol<br> into test tube containing desi ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol<br> into test tube containing desi ghee."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. "
+#~ "Sulphuric acid into <br>test tube containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. "
+#~ "Sulphuric acid into <br>test tube containing vanaspati ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol <br>into test tube containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol <br>into test tube containing vanaspati ghee."
+
+#~ msgid ""
+#~ "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee "
+#~ "contains sesame oil."
+#~ msgstr ""
+#~ "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee "
+#~ "contains sesame oil."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards<br> test tube containing cotton "
+#~ "seed <br>oil to add 3ml of chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards<br> test tube containing cotton "
+#~ "seed <br>oil to add 3ml of chloroform."
+
+#~ msgid ""
+#~ "Drag the dropper of Huble reagent <br>towards test tube containing cotton "
+#~ "seed<br> oil to add 3 drops of Huble reagent."
+#~ msgstr ""
+#~ "Drag the dropper of Huble' reagent <br>towards test tube containing "
+#~ "cotton seed<br> oil to add 3 drops of Huble's reagent."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards<br> test tube containing linseed "
+#~ "oil<br> to add 3ml of chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards<br> test tube containing linseed "
+#~ "oil<br> to add 3ml of chloroform."
+
+#~ msgid ""
+#~ "Drag the dropper of Huble reagent <br>towards test tube containing "
+#~ "linseed <br>oil to add 3 drops of Huble reagent."
+#~ msgstr ""
+#~ "Drag the dropper of Huble's reagent <br>towards test tube containing "
+#~ "linseed <br>oil to add 3 drops of Huble's reagent."
+
+#~ msgid "Linseed oil is more unsaturated than cotton seed oil."
+#~ msgstr "Linseed oil is more unsaturated than cotton seed oil."
+
+#~ msgid ""
+#~ "Drag the cotton seed oil test tube towards <br>the canvas area to shake "
+#~ "it."
+#~ msgstr ""
+#~ "Drag the cotton seed oil test tube towards <br>the canvas area to shake "
+#~ "it."
+
+#~ msgid ""
+#~ "Drag the linseed oil test tube towards <br>the canvas area to shake it."
+#~ msgstr ""
+#~ "Drag the linseed oil test tube towards <br>the canvas area to shake it."
+
+#~ msgid "Charcoal cavity test"
+#~ msgstr "Charcoal cavity test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Select preliminary test:"
+#~ msgstr "Select preliminary test:"
+
+#~ msgid "Select the confirmation test:"
+#~ msgstr "Select the confirmation test:"
+
+#~ msgid "Ammonium-NH4+"
+#~ msgstr "Ammonium-NH4+"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Magnesium-Mg2+"
+#~ msgstr "Magnesium-Mg2+"
+
+#~ msgid "Salt.png"
+#~ msgstr "Salt.png"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</"
+#~ "sup>, Mn<sup>2+</sup> are absent."
+#~ msgstr ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</"
+#~ "sup>, Mn<sup>2+</sup> are absent."
+
+#~ msgid "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+#~ msgstr "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "May be Mn<sup>2+</sup> is present"
+#~ msgstr "May be Mn<sup>2+</sup> is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>We require acetic acid, pH paper strip, a standard colour pH chart, dropper and a white tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>Take a pH paper strip and place it on a white tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>Take a pH paper strip and place it on a white tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>Take a pH paper strip and place it on a white tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>Take a small quantity of acetic acid using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>Pour one drop of acetic acid on the pH paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>Observe the colour produced on the pH paper. The colour of the pH paper changes to red.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>Compare the colour produced on the pH paper with the different colour shades of a standard colour pH chart and note down the pH from the colour chart. The pH of acetic acid is 3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>We require acetic acid, universal indicator, a standard colour pH chart, dropper and a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>Take a small quantity of acetic acid using a dropper and pour it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>Take a small quantity of acetic acid using a dropper and pour it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>Take a small quantity of universal indicator solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>Pour a few drops of universal indicator into the test tube containing acetic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>Shake the test tube well. The colour of the solution changes to red.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>Compare the colour produced in the test tube with the standard colour pH chart and note down the pH from the colour chart. The pH of acetic acid is 3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

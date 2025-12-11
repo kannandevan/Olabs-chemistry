@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>सोडियम थायोसल्फेbट और हाइड्रोक्लोरिक अम्ला के बीच होने वाली अभिक्रिया पर गतिकी अध्ययन</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="start">
+	 	<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1table">
+	<TEXT ID="sodium_10">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेbट 
+        10ml</TEXTVALUE>
+    </TEXT>
+
+	<TEXT ID="sodium_20">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेbट 
+        10ml</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="sodium_30">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेbट 
+        10ml</TEXTVALUE>
+    </TEXT>
+
+	<TEXT ID="sodium_40">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेbट 
+        10ml</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="sodium_50">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेbट 
+        10ml</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water">
+	 	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="hcl">
+	 	<TEXTVALUE>1M HCl</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="1table_one">
+	<TEXTVALUE>हमें चाहिए 0.1 मोल Na₂S₂O₃ का विलयन, 1 मोल HCL, A, B, C, D और E के रूप में चिह्नित पाँच 250 मि.ली. वाली शंक्वाकार कुप्पियां, मापने वाला जार, केंद्र में क्रॉस के चिह्न वाली सफेद टाइल, स्टॉाप-वॉच आदि |</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1table2">
+	<TEXT ID="1table2_one">
+		<TEXTVALUE>क्रमश: A, B, C, D और E के रूप में चिह्नित पाँच शंक्वाकार कुप्पियों में 10, 20, 30, 40 और 50 मि.ली. 0.1 मोल सोडियम थायोसल्फेAट का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2takecylinder">
+	<TEXT ID="2takecylinder_one">
+		<TEXTVALUE>मापने वाले जार में 40 मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3pourconical">
+	<TEXT ID="3pourconical_one">
+		<TEXTVALUE>इसे शंक्वाकार कुप्पी  A में डालें|</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="4chart">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>कुप्पी
+  नंबर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h2">
+		<TEXTVALUE> 0.1 M Na&#8322;S&#8322;O&#8323; की मात्रा:.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h3">
+		<TEXTVALUE>पानी की 
+			मात्रा(मि.ली.)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h4">
+		<TEXTVALUE>विलयन की कुल
+		 मात्रा(मि.ली.)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h5">
+		<TEXTVALUE>विलयन की
+		 Na&#8322;S&#8322;O&#8323; सांद्रता  </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h6">
+		<TEXTVALUE>विलयन की 
+1M HCl(मि.ली.)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="table_h7">
+		<TEXTVALUE>क्रॉस चिह्न के
+		 अदृश्य होने में
+		  लगा समय(t) </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="4chart_one">
+		<TEXTVALUE>अब विलयन की कुल मात्रा 50 मि.ली. है और विलयन की सांद्रता 0.02 मोल है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5takecylinde2">
+	<TEXT ID="5takecylinde2_one">
+		<TEXTVALUE>इसके बाद मापने वाले जार में 30 मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="6pourconicab">
+	<TEXT ID="6pourconicab_one">
+		<TEXTVALUE>इसे शंक्वाकार कुप्पी5 B में डालें .</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="7chart2">
+	<TEXT ID="7chart2_one">
+		<TEXTVALUE>अब विलयन की कुल मात्रा 50 मि.ली. है और विलयन की सांद्रता 0.02 मोल है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="7chart2_two">
+		<TEXTVALUE>इसके बाद, क्रमश: C और D कुप्पी में 20 और 10 मि.ली. आसुत जल मिलाएं, ताकि प्रत्येक कुप्पी  में विलयन की मात्रा 50 मि.ली. हो जाए। क्रमश: C, D और E कुप्पी में विलयन की सांद्रता 0.06, 0.08 और 0.1 मोल है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="8showall">
+	<TEXT ID="8showall_one">
+		<TEXTVALUE>केंद्र में क्रॉस चिह्न वाली सफेद टाइल पर शंक्वाकार कुप्पी रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="9placetile">
+	<TEXT ID="9placetile_one">
+		<TEXTVALUE>केंद्र में क्रॉस चिह्न वाली सफेद टाइल पर शंक्वाकार कुप्पी रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10hclpour">
+	<TEXT ID="10hclpour_one">
+		<TEXTVALUE>मापने वाले जार में 10 मि.ली. 1 मोल HCL नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11pourcon">
+	<TEXT ID="11pourcon_one">
+		<TEXTVALUE>आधा HCL शंक्वाकार कुप्पीa A में डालें |</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11pourcon_two">
+		<TEXTVALUE>शंक्वाकार कुप्पी हिलाएं और इसे क्रॉस चिह्न पर रख दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11pourcon_three">
+		<TEXTVALUE>इसके बाद शंक्वाकार कुप्पीव में शेष HCL मिलाएं। </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="12conrest">
+	<TEXT ID="12conrest_one">
+		<TEXTVALUE>स्टॉ प वॉच तुरंत ही चालू कर दें। </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="13top">
+	<TEXT ID="13top_one">
+		<TEXTVALUE> ऊपर से कुप्पीि में तरल पर दृष्टि बनाएं रखें। अभिक्रिया के दौरान बनने वाली अघुलनशील सल्फर,  दूधिया रंग देती है और विलयन को अपारदर्शी बना देती है। जैसे ही टाइल पर क्रॉस चिह्न अदृश्य होने लगे स्टॉ,प-वॉच रोक दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13top_two">
+		<TEXTVALUE>क्रॉस चिह्न के अदृश्य होने में लगा समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="14sidenew">
+	<TEXT ID="14sidenew_one">
+		<TEXTVALUE>क्रॉस चिह्न के अदृश्य होने में लगा समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14chart3">
+	<TEXT ID="14chart3_one">
+		<TEXTVALUE>B, C, D और E कुप्पी में 10 मि.ली. 1 मोल HCL को मिलाकर प्रयोग दोहराएं और प्रत्येकक मामले में क्रॉस चिह्न के थोड़ा सा ही अदृश्य होने में लगा समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="15graph">
+	<TEXT ID="x_axis">
+		<TEXTVALUE>विलयन की
+		 Na&#8322;S&#8322;O&#8323;(M) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15graph_one">
+		<TEXTVALUE>कोटि के साथ 1 / t और भुज के साथ Na₂S₂O₃ की सान्द्रता लेकर 1 / t और Na₂S₂O₃ की सान्द्रता के बीच ग्राफ बनाएं। एक सीधी ढालू रेखा प्राप्त होती है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="16last">
+	<TEXT ID="result">
+		<TEXTVALUE>Na₂S₂O₃ और HCL के बीच अभिक्रिया
+		 की दर Na₂S₂O₃ की सांद्रता
+		  की सीधे समानुपातिक है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="back_txt">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="16last_one">
+	<TEXTVALUE>ग्राफ से, यह स्पष्ट है कि 1 / t Na₂S₂O₃ विलयन की सान्द्रता का सीधे समानुपातिक है। लेकिन 1 / t, अभिक्रिया की दर का  सीधा पैमाना है, इसलिए,</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="16last_two">
+		<TEXTVALUE>Na₂S₂O₃ और HCL के बीच अभिक्रिया की दर Na₂S₂O₃ की सांद्रता की सीधे समानुपातिक है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_last">
+		<TEXTVALUE>Na₂S₂O₃ और HCL के बीच अभिक्रिया की दर Na₂S₂O₃ की सांद्रता की सीधे समानुपातिक है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+</DATA>

@@ -1,0 +1,26 @@
+$.i18n.mr = {};
+ jQuery.i18n.mr.strings ={
+	"Drag the spatula towards the test tube<br>to drop the pumice stones into it.": "परिक्षा नळीत अश्मफेन टाकण्यासाठी स्पाट्युला नलिकडे ओढा.",
+	"Drag the cork over the test tube to close it.": "नळी बंद करण्यासाठी बूच नळीकडे ओढा.",
+	"Drag the thermometer towards the test tube<br>to place it in it.": "थर्मामिटर नळीत टाकण्यासाठी थर्मामिटर नळीकडे ओढा.",
+	"Drag the delivery tube towards the test tube<br>to place it in it.": "वितरण नलिका नळीत टाकण्यासाठी नलिका नळीकडे ओढा.",
+	"Click on the knob of the burner<br>to turn it ON or OFF.": "बर्नर बंद/सुरू करण्यासाठी बटण क्लिक करा.",
+	"In presence of impurities ": "अशुद्धतेच्या उपस्थितीत",
+	"At different pressures": "विविध दाबांना",
+	"Pure water": "शुद्ध पाणी",
+	"Water + 50g NaCl": "पाणी + ५० ग्राम. NaCl",
+	"Water + 200g sugar": "पाणी + २०० ग्राम साखर",
+	"Water + 90g KCl": "पाणी + ९० ग्राम KCl",
+	"Select the impure sample:": "अशुद्ध नमूना निवडा:",
+	"Select the pressure:": "दाब निवडा:",
+	"Boiling point of water:": "पाण्याचे उत्कलन बिन्दु:",
+	"Show zoom": "झूम दाखवा",
+	"Temperature:&nbsp;": "तापमान:&nbsp;",
+	"Reset": "पूर्ववत करा",
+	"Pumice Stones": "अश्मफेन",
+	"Determination of Boiling Point of Water": "पाण्याचे उत्कलन बिन्दु निर्धारित करणे",
+	"HELP": "मदत",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+}

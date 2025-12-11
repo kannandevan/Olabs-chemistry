@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_zero">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>प्रयोग शुरू करने के लिए "शुरू करें" बटन पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="capillarytube">
+	<TEXT ID="capillarytube_one">
+		<TEXTVALUE>हमें पाउडर नेफ़थलीन, तरल पैराफिन, कैपिलरी ट्यूब, छिद्रित प्लेट, स्पै चुला, थर्मामीटर, धागा, बीकर, चलाने वाला औजार, क्लैलम्प  सहित आयरन स्टैण्ड, तार की जाली, तिपाया स्टैंड, बुन्सेचन बर्नर आदि चाहिए होगा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Seal">
+	<TEXT ID="Seal_one">
+		<TEXTVALUE>कैपिलरी ट्यूब लें और बुन्सेरन बर्नर पर इसे गर्म करके इसका एक सिरा सील कर दें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="takesomepowderer">
+	<TEXT ID="takesomepowderer_one">
+		<TEXTVALUE>स्पैचुला की मदद से कुछ पाउडर किया हुआ नेफ़थलीन लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Addporous">
+	<TEXT ID="Addporous_one">
+		<TEXTVALUE>छिद्रित प्लेट पर पाउडर नेफ़थलीन का ढेर लगाने के लिए इसे छिद्रित प्लेट पर रखें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube">
+	<TEXT ID="fillthetube_one">
+		<TEXTVALUE>कैपिलरी ट्यूब का खुला सिरा ढेर में घुसेंडें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="zoom1">
+	<TEXT ID="zoom1_one">
+		<TEXTVALUE>पाउडर किया हुआ कुछ सैंपल कैपिलरी में प्रवेश कर जाएगा।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube23">
+	<TEXT ID="fillthetube23_one">
+		<TEXTVALUE>छिद्रित प्लेट पर धीरे से कैपिलरी ट्यूब का बंद सिरा थपथपाएं।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="zoom16">
+	<TEXT ID="zoom16_one">
+		<TEXTVALUE>इसी प्रक्रिया को बार-बार दोहराएं और  कैपिलरी ट्यूब 2 - 3 मिमी तक भर लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="fillthetube237">
+	<TEXT ID="fillthetube237_one">
+		<TEXTVALUE>इसी प्रक्रिया को बार-बार दोहराएं और  कैपिलरी ट्यूब 2 - 3 मिमी तक भर लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>धागे की मदद से थर्मामीटर कैपिलरी ट्यूब से जोड़ें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+		<TEXTVALUE>तरल पैराफिन वाला बीकर लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>इसे बुन्सेन बर्नर पर रखी तार की जाली पर रखें और इस में एक चलाने वाला औजार डालें।</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>कैपिलरी ट्यूब वाला थर्मामीटर आयरन स्टैंड में फंसाएं। अरेंजमेंट समायोजित करें और कैपिलरी ट्यूब और थर्मामीटर तरल पैराफिन बाथ में ड़बोएं।</TEXTVALUE>
+   </TEXT>
+   
+  <TEXT ID="parafinburner_three">
+		<TEXTVALUE>सुनिश्चित करें कि धागा तरल पैराफिन बाथ के बाहर रहे।</TEXTVALUE>
+   </TEXT> 
+   
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>धीरे-धीरे तरल पैराफिन बाथ गर्म करें और चलाने वाला औजार से तरल को चलाते रहें।</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburner2_two">
+		<TEXTVALUE>इसे ऊपर और नीचे करते रहें ताकि तापमान एक समान बना रहे।</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+<SCENE ID="line">
+	<TEXT ID="line_one">
+		<TEXTVALUE>कुछ समय बाद, कैपिलरी ट्यूब में ली गई नेफ़थलीन पिघलने लगेगी।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>नेफ़थलीन जब पिघलने लगे तापमान (T1)नोट करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="line33">
+	<TEXT ID="line33_one">
+		<TEXTVALUE>कुछ समय बाद, टेस्ट ट्यूब में ली गई नेफ़थलीन पूरी तरह से पिघल जाएगी।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom55">
+	<TEXT ID="parafinburnerzoom55_one">
+		<TEXTVALUE>जब नेफ़थलीन पूरी तरह से पिघल जाए तापमान (T2) नोट करें ।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_one">
+		<TEXTVALUE>सूत्र (T1 + T2) / 2 की मदद से नेफ़थलीन के गलनांक (मेल्टिंग प्वाबइंट) की गणना करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+	
+</DATA>

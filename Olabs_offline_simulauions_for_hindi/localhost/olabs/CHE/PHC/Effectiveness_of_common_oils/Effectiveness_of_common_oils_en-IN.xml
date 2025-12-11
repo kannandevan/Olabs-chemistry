@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>Effectiveness of Different Common Oils 
+in forming Emulsions</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="button_txt">
+		<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Intrductionsc">
+	<TEXT ID="label1">
+		<TEXTVALUE>Castor oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label2">
+		<TEXTVALUE>Cotton seed oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label3">
+		<TEXTVALUE>Coconut oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label4">
+		<TEXTVALUE>Kerosene Oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label5">
+		<TEXTVALUE>Mustard Oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label6">
+		<TEXTVALUE>1% soap solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label7">
+		<TEXTVALUE>Distilled water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Intrductionsc_one">
+		<TEXTVALUE>We require castor oil, cotton seed oil, coconut oil, kerosene oil, mustard oil, 1% soap solution, measuring cylinder, 5 ml pipettes, distilled water, five stoppered bottles labeled as A, B, C and D, stop watch etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Intrductionsc1">
+	<TEXT ID="Intrductionsc1_one">
+		<TEXTVALUE>Take a plastic pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="casteroil">
+	<TEXT ID="casteroil_one">
+		<TEXTVALUE>Using the pipette take 5 ml of Castor Oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Abottlepoured">
+	<TEXT ID="Abottlepoured_one">
+		<TEXTVALUE>Transfer the oil into the stoppered bottle labeled as A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="wastetip">
+	<TEXT ID="wastetip_one">
+		<TEXTVALUE>Discard the used pipette.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pipette">
+		<TEXTVALUE>Waste pipette</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2pipet">
+	<TEXT ID="2pipet_one">
+		<TEXTVALUE>Take a fresh pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseed">
+	<TEXT ID="cottonseed_one">
+		<TEXTVALUE>Take 5ml of Cotton seed oil using the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="AbottlepouredB">
+	<TEXT ID="AbottlepouredB_one">
+		<TEXTVALUE>Transfer it into the bottle labeled as B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Abottlepouredall">
+	<TEXT ID="Abottlepouredall_one">
+		<TEXTVALUE>Similarly take 5 ml of coconut oil in bottle C, kerosene oil in bottle D and mustard oil in bottle E.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring">
+	<TEXT ID="measuring_one">
+		<TEXTVALUE>Take 50 ml of distilled water using the measuring cylinder. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour">
+	<TEXT ID="waterpour_one">
+		<TEXTVALUE>Take 50 ml of distilled water using the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour_two">
+		<TEXTVALUE>Transfer it into the bottle A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>Take another 50 ml of distilled water in the measuring cylinder .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour2">
+	<TEXT ID="waterpour2_one">
+		<TEXTVALUE>Take another 50 ml of distilled water in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour2_two">
+		<TEXTVALUE>Transfer it into the bottle B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="allbottles">
+	<TEXT ID="allbottles_one">
+		<TEXTVALUE>Similarly add 50 ml of distilled water to the remaining bottles C, D and E.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="allbottles_two">
+		<TEXTVALUE>Take the stoppered bottle A </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="allbottles1">
+	<TEXT ID="allbottles1_one">
+		<TEXTVALUE>Shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="minute">
+		<TEXTVALUE>1 
+Minute</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="stopwatchA">
+	<TEXT ID="stopwatchA_one">
+		<TEXTVALUE>Then allow it to stand and start the stop watch immediately.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart1copy">
+	<TEXT ID="timeschart1copy_one">
+		<TEXTVALUE>Note the time taken for the two layers (oil layer and water layer) to separate out and record the observation.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h1">
+		<TEXTVALUE>Oil bottles </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE> Time taken for the separation
+of layers without soap solution[In Sec] </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val">
+		<TEXTVALUE>Castor Oil -A</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesB">
+	<TEXT ID="allbottlesB_one">
+		<TEXTVALUE>Take the stoppered bottle B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottles1B">
+	<TEXT ID="allbottles1B_one">
+		<TEXTVALUE>Shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchB">
+	<TEXT ID="stopwatchB_one">
+		<TEXTVALUE>Then allow it to stand and start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart">
+	<TEXT ID="timeschart_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out. Similarly take the bottles C, D and E and note the time taken for the separation of two layers in each case and record the observations.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_1">
+		<TEXTVALUE>Cotton Seed Oil-B</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_2">
+		<TEXTVALUE>Coconut Oil-C</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_3">
+		<TEXTVALUE>Kerosene Oil-D</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_4">
+		<TEXTVALUE>Mustard Oil-E</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapsolution">
+	<TEXT ID="soapsolution_one">
+		<TEXTVALUE>Take 1% soap solution using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapA">
+	<TEXT ID="soapA_one">
+		<TEXTVALUE>Add 10 drops of the soap solution to bottle A.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>10drops</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapB">
+	<TEXT ID="soapB_one">
+		<TEXTVALUE>Then add 10 drops of the soap solution to bottle B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapall">
+	<TEXT ID="soapall_one">
+		<TEXTVALUE>Similarly add 10 drops of soap solution to the remaining bottles C, D and E.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapAshake">
+	<TEXT ID="soapAshake_one">
+		<TEXTVALUE>Take the bottle A and shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchAsoap">
+	<TEXT ID="stopwatchAsoap_one">
+		<TEXTVALUE>Then allow it to stand and start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapA">
+	<TEXT ID="timeschartsoapA_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE> Time taken for the separation 
+ of layers with soap solution.[in Sec]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesBsoap">
+	<TEXT ID="allbottlesBsoap_one">
+		<TEXTVALUE>Take the bottle B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="shakeBsoap">
+	<TEXT ID="shakeBsoap_one">
+		<TEXTVALUE>Shake it vigorously for one minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchBsoap">
+	<TEXT ID="stopwatchBsoap_one">
+		<TEXTVALUE>Then allow it to stand and start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapAcopy">
+	<TEXT ID="line_1">
+		<TEXTVALUE>•The oil takes the longest time to separate from its emulsion – Mustard oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_2">
+		<TEXTVALUE>•The oil takes the minimum time to separate from its emulsion – Kerosene oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_3">
+		<TEXTVALUE>•The decreasing order of stability or effectiveness is :</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_4">
+		<TEXTVALUE>Mustard oil > Coconut oil > Cotton seed oil > Castor oil > Kerosene oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_one">
+		<TEXTVALUE>Note the time taken for the two layers to separate out. Similarly take the bottles C, D and E and note the time taken for the separation of two layers in each case and record the observations.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_two">
+		<TEXTVALUE>From the observations it is clear that mustard oil takes longest time to get separated from its emulsion and kerosene oil takes minimum time. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_three">
+		<TEXTVALUE> The decreasing order of stability or effectiveness is: Mustard oil > Coconut oil > Cotton seed oil > Castor oil > Kerosene oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

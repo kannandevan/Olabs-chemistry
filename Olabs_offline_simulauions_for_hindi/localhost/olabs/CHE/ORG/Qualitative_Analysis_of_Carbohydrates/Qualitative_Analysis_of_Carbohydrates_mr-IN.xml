@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>पिष्ठमय पदार्थांचे गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="start">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोगास सुरुवात करण्यासाठी सुरु करा बटणावर क्लिक करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परिक्षा निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="btn_solubility">
+	<TEXTVALUE>द्रावणीयता परिक्षा</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_molischs">
+		<TEXTVALUE>मोलिश परिक्षा</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_fehlings">
+	  <TEXTVALUE>फेहलिंग परिक्षा</TEXTVALUE>
+	</TEXT>	
+	  <TEXT ID="txt_benedicts">
+	<TEXTVALUE>बेनेडिक्ट परिक्षा</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+	  <TEXTVALUE>टोलेन परिक्षा</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_iodine">
+	   <TEXTVALUE>आयोडीन परिक्षा</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_observations">
+	   <TEXTVALUE>निरीक्षणे</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+	   <TEXTVALUE>पिष्ठमय पदार्थांसाठी परिक्षा</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_back">
+	   <TEXTVALUE>&lt;&lt; मागे</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>द्रावणीयता परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लुकोस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>सुक्रोस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे ग्लुकोस घ्या आणि परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_one">
+		<TEXTVALUE>ड्रॉपरमध्ये ३ मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_two">
+		<TEXTVALUE>परिक्षा नळीत ओता आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_three">
+		<TEXTVALUE>ग्लुकोस पूर्णपणे पाण्यात विरघळते.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लुकोस</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_water">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_3ml">
+		<TEXTVALUE>3ml</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे सुक्रोस घ्या आणि परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene5_sub_one">
+		<TEXTVALUE>ड्रॉपरमध्ये ३ मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_two">
+		<TEXTVALUE>परिक्षा नळीत ओता आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_three">
+		<TEXTVALUE>सुक्रोस पूर्णपणे पाण्यात विरघळते.</TEXTVALUE>
+	</TEXT>	
+		
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>सुक्रोस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे स्टार्च घ्या आणि परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_one">
+		<TEXTVALUE>ड्रॉपरमध्ये ३ मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_two">
+		<TEXTVALUE>परिक्षा नळीत ओता आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_three">
+		<TEXTVALUE>स्टार्च पाण्यात विरघळत नाही.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>मोलिश परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+		<TEXTVALUE>ड्रॉपर वापरून मोलिश अभिकारक घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत ६ थेंब मोलिश अभिकारक टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब संहत सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+     </TEXT>
+	<TEXT ID="Scene8_sub_three">
+	<TEXTVALUE>हळू हळू परिक्षा नळीच्या कडेने टाका, मिश्रित होऊ देऊ नका.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Scene8_sub_four">
+	<TEXTVALUE>दोन थर (आम्ल थर आणि परिक्षा थर) जिथे भेटतात तिथे एक लाल जांभळे वर्तुळ निर्माण होते, ह्याचा अर्थ हा की पिष्ठमय पदार्थ उपस्थित आहेत.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लुकोस (2 ml)</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>मोलिश अभिकारक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sulphuric">
+		<TEXTVALUE>संहत सल्फ्युरिक आम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_6drops">
+		<TEXTVALUE>६ थेंब</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+		<TEXTVALUE>ड्रॉपर वापरून मोलिश अभिकारक घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत ६ थेंब मोलिश अभिकारक टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_two">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब संहत सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_three">
+		<TEXTVALUE>हळू हळू परिक्षा नळीच्या कडेने टाका, मिश्रित होऊ देऊ नका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_four">
+		<TEXTVALUE>दोन थर (आम्ल थर आणि परिक्षा थर) जिथे भेटतात तिथे एक लाल जांभळे वर्तुळ निर्माण होते, ह्याचा अर्थ हा की पिष्ठमय पदार्थ उपस्थित आहेत.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+	<TEXTVALUE>सुक्रोस (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+		<TEXTVALUE>ड्रॉपर वापरून मोलिश अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_one">
+		<TEXTVALUE>२ मिली स्टार्चचे कणयुक्त द्रावण  असलेल्या परिक्षा नळीत ६ थेंब मोलिश अभिकारक टाका. </TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_two">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब संहत सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_three">
+		<TEXTVALUE>हळू हळू परिक्षा नळीच्या कडेने टाका, मिश्रित होऊ देऊ नका.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_four">
+		<TEXTVALUE>दोन थर (आम्ल थर आणि परिक्षा थर) जिथे भेटतात तिथे एक लाल जांभळे वर्तुळ निर्माण होते, ह्याचा अर्थ हा की पिष्ठमय पदार्थ उपस्थित आहेत.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>फेहलिंग परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली फेहलिंग द्रावण ए घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_two">
+		<TEXTVALUE>२ मिली फेहलिंग द्रावण बी परिक्षा नळीत टाका. द्रावण गडद निळे होते.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_three">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_four">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_five">
+	<TEXTVALUE>ग्लुकोस ही क्षपणक शर्करा आहे जी परिक्षा अभिकारकातल्या Cu(II) आयनचे क्षपण करून कॉपर (I) ऑक्साइडचे लाल अवक्षेपण निर्माण करते.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>फेहलिंग द्रावण ए </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_fehlingsB">
+		<TEXTVALUE>फेहलिंग द्रावण बी </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली फेहलिंग द्रावण ए घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_one">
+		<TEXTVALUE>२ मिली सुक्रोस जलयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_two">
+		<TEXTVALUE>२ मिली फेहलिंग द्रावण बी परिक्षा नळीत टाका. द्रावण गडद निळे होते.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_three">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_four">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+	
+		<TEXT ID="Scene13_sub_five">
+		<TEXTVALUE>रंग बदलत नाही. म्हणजे परिक्षा नकारात्मक आहे, आणि सुक्रोस ही अ-क्षपणक शर्करा आहे हे निर्देशित होते.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली फेहलिंग द्रावण ए घ्या.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_one">
+		<TEXTVALUE>२ मिलि स्टार्चचे कणयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_two">
+		<TEXTVALUE>२ मिली फेहलिंग द्रावण बी परिक्षा नळीत टाका. द्रावण गडद निळे होते.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene14_sub_three">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene14_sub_four">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="Scene14_sub_five">
+		<TEXTVALUE>रंग बदलत नाही. म्हणजे परिक्षा नकारात्मक आहे, आणि स्टार्च मध्ये क्षपणक शर्करा नाही हे निर्देशित होते.</TEXTVALUE>
+
+	</TEXT>	
+	</SCENE>
+	
+	<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>बेनेडिक्ट परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+		<TEXTVALUE>ड्रॉपर मध्ये २ मिली बेनेडिक्ट अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत टाका. द्रावण निळे होते.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_four">
+		<TEXTVALUE>ग्लुकोस ही क्षपणक शर्करा आहे जी परिक्षा अभिकारकातल्या Cu(II) आयनचे क्षपण करून कॉपर (I) ऑक्साइडचे लाल अवक्षेपण निर्माण करते.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>बेनेडिक्ट अभिकारक </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+		<TEXTVALUE>ड्रॉपर मध्ये २ मिली बेनेडिक्ट अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_one">
+		<TEXTVALUE>२ मिली सुक्रोसचे जलयुक्त द्रावण  असलेल्या परिक्षा नळीत टाका. द्रावण निळे होते. Add it to 2ml aqueous solution of sucrose taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी घ्या.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_four">
+		<TEXTVALUE>रंग बदलत नाही. म्हणजे परिक्षा नकारात्मक आहे, आणि सुक्रोस ही अ-क्षपणक शर्करा आहे हे निर्देशित होते.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+		<TEXTVALUE>ड्रॉपर मध्ये २ मिली बेनेडिक्ट अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_one">
+		<TEXTVALUE>२ मिलि स्टार्चचे कणयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.द ्रावण निळे होते.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि काही मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_four">
+		<TEXTVALUE>रंग बदलत नाही. म्हणजे परिक्षा नकारात्मक आहे, आणि स्टार्च मध्ये क्षपणक शर्करा नाही हे निर्देशित होते.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>टोलेन परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली टोलेन अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि १० मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_four">
+		<TEXTVALUE>ग्लुकोस ही क्षपणक शर्करा आहे जी परिक्षा अभिकारकातल्या सिल्वर आयनचे क्षपण करून मूलद्रव चांदी निर्माण करते. हे अभिक्रिया भांड्याच्या आतल्या बाजूला जमा होते, आणि एक चांदीचा आरसा निर्माण होतो.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>टोलेन अभिकारक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_minutes">
+		<TEXTVALUE>१० मिनिटे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली टोलेन अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_one">
+		<TEXTVALUE>२ मिली सुक्रोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="Scene21_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि १० मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_four">
+		<TEXTVALUE>कुठलाही बदल होणार नाही, म्हणजे क्षपणक पिष्ठमय पदार्थ अनुपस्थित आहे.</TEXTVALUE>
+		</TEXT>	
+		
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene22">
+	<TEXT ID="Scene22_sub">
+		<TEXTVALUE>ड्रॉपर वापरून २ मिली टोलेन अभिकारक घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_one">
+		<TEXTVALUE>२ मिलि स्टार्चचे कणयुक्त द्रावण असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_two">
+		<TEXTVALUE>पकड वापरून परिक्षा नळी रॅक मधून काढा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_three">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि १० मिनिटे गरम करा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_four">
+		<TEXTVALUE>कुठलाही बदल होणार नाही, म्हणजे क्षपणक पिष्ठमय पदार्थ अनुपस्थित आहे.</TEXTVALUE>	
+	    </TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene23">
+	<TEXT ID="Scene23_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>आयोडीन परिक्षा</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene24">
+	<TEXT ID="Scene24_sub">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब आयोडीन द्रावण घ्या.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_one">
+		<TEXTVALUE>२ मिली ग्लुकोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत २ थेंब आयोडीन टाका.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_two">
+		<TEXTVALUE>कुठलाही बदल होणार नाही, म्हणजे स्टार्च अनुपस्थित आहे.</TEXTVALUE>
+		</TEXT>	
+	
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>आयोडीन द्रावण</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene25">
+	<TEXT ID="Scene25_sub">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब आयोडीन द्रावण घ्या.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_one">
+		<TEXTVALUE>२ मिली सुक्रोसचे जलयुक्त द्रावण असलेल्या परिक्षा नळीत २ थेंब आयोडीन द्रावण टाका.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_two">
+		<TEXTVALUE>कुठलाही बदल होणार नाही, म्हणजे स्टार्च अनुपस्थित आहे.</TEXTVALUE>	
+	</TEXT>	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="Scene26_sub">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब आयोडीन द्रावण घ्या.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene26_sub_one">
+		<TEXTVALUE>२ मिलि स्टार्चचे कणयुक्त द्रावण असलेल्या परिक्षा नळीत २ थेंब आयोडीन द्रावण टाका.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+		<TEXTVALUE>द्रावण निळे होते, म्हणजे स्टार्च उपस्थित आहे. </TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_sub">
+		<TEXTVALUE>तक्त्यात निरीक्षणे लिहा.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_test">
+		<TEXTVALUE>परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_purple">
+		<TEXTVALUE>जांभळे वर्तुळ</TEXTVALUE>
+	</TEXT>		
+	<TEXT ID="txt_red">
+		<TEXTVALUE>लाल अवक्षेपण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_silver">
+		<TEXTVALUE>चांदीचा आरसा</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_negative">
+		<TEXTVALUE>नकारात्मक</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_blue">
+		<TEXTVALUE>निळा रंग</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>मोलिश परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>फेहलिंग परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>बेनेडिक्ट परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>टोलेन परिक्षा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>आयोडीन परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>

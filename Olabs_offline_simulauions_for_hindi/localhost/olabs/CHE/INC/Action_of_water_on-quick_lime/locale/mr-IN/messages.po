@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2014-02-03 10:42+0530\n"
+"PO-Revision-Date: 2016-03-15 14:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: help.js:11
+msgid "Drag the spatula </br>over the empty beaker to put</br> quick lime into it."
+msgstr "चुनकळी टाकायला स्पाट्युला रिकाम्या चंचुपात्रावर ओढा."
+
+#: help.js:18
+msgid ""
+"Drag the distilled water beaker</br> to the beaker containing quick lime</br> to add water "
+"into it."
+msgstr "चुनकळी असलेल्या चंचुपात्रात पाणी टाकण्यासाठी ऊर्ध्वपतित पाणी चंचुपात्राकडे ओढा."
+
+#: help.js:44
+msgid ""
+"Drag the dropper and dip it</br> in the beaker to suck lime water </br>into it, and then "
+"drag it to </br>the test tube to pour the solution</br> into the test tube."
+msgstr ""
+"ड्रॉपर ओढा आणि चंचुपात्रात बुडवा म्हणजे त्यात चुन्याची निवळी ओढल्या जाईल, आणि मग तो ड्रॉपर परिक्षा नळी कडे "
+"ओढा म्हणजे चुन्याची निवळी परिक्षा नळीत ओतल्या जाईल."
+
+#: help.js:51
+msgid "Drop the solution </br>in the test tube"
+msgstr "द्रावण परिक्षा नळीत टाका."
+
+#: help.js:59
+msgid "Drag the cork to the</br> test tube to close it.</br>"
+msgstr "परिक्षा नळी बंद करण्यासाठी बूच त्याच्याकडे ओढा."
+
+#: help.js:84
+msgid "Click here continuously </br>to blow exhaust air </br>into the tube."
+msgstr "नळीत हवेची फुंकर मारण्यासाठी इथे सारखे क्लिक करा."
+
+#: help.js:112
+msgid ""
+"Quick lime reacts vigorously with water releasing a large</br>amount of heat and producing a "
+"single product-slaked lime.</br>This is a combination reaction."
+msgstr ""
+"चुनकळी आणि पाण्याची अतिजलद अभिक्रिया होते, खूप प्रमाणात ऊर्जा मुक्त होते, आणि एक उत्पादन मिळते: विरी "
+"गेलेला चुना (कॅल्शियम हायड्रोक्साइड). ही संयोग अभिक्रिया आहे."
+
+#: help.js:139
+msgid ""
+"CO<sub>2</sub>(g) contained in exhaled air turns lime water milky. The milky</br> apperance "
+"of lime water is due to the formation of white precipitate of </br>calcium carbonate."
+msgstr ""
+"हवेतल्या CO2 मुळे चुन्याची निवळी दुधाळ होते. कॅल्शियम कार्बोनेट च्या पांढर्‍या अवक्षेपणामुळे चुन्याची निवळी दुधाळ "
+"दिसते."
+
+#: simcontrols.js:5
+msgid "Quick lime"
+msgstr "चुनकळी"
+
+#: simcontrols.js:5
+msgid "Distilled water"
+msgstr "ऊर्ध्वपतित पाणी"
+
+#: simcontrols.js:5
+msgid "Lime water"
+msgstr "चुन्याची निवळी"
+
+#: simcontrols.js:5
+msgid "Blow"
+msgstr "फुंकर मारा"
+
+#: simcontrols.js:5
+msgid "Next"
+msgstr "पुढचे"
+
+#: simcontrols.js:59
+msgid "Combination Reaction"
+msgstr "संयोग अभिक्रिया"
+
+#: simcontrols.js:60
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:61
+msgid "FULLSCREEN"
+msgstr "संपूर्णस्क्रीन"
+
+#: simcontrols.js:62
+msgid "EXIT"
+msgstr "बंदकरा."
+
+#: simcontrols.js:63
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:64
+msgid "Reset"
+msgstr "पूर्ववत करा"
+
+#: simcontrols.js:76
+msgid "Instructions"
+msgstr "सूचना"
+
+#: simcontrols.js:77
+msgid "<li>Drag the spatula over the empty beaker to put quick lime into it.</li><br />"
+msgstr "चुनकळी टाकायला स्पाट्युला रिकाम्या चंचुपात्रावर ओढा."
+
+#: simcontrols.js:77
+msgid ""
+"<li>Drag the distilled water beaker to the beaker containing quick lime to add water into it."
+"</li><br />"
+msgstr "चुनकळी असलेल्या चंचुपात्रात पाणी टाकण्यासाठी ऊर्ध्वपतित पाणी चंचुपात्राकडे ओढा."
+
+#: simcontrols.js:78
+msgid ""
+"<li>Wait for some time till the quick lime reacts with water to form slaked lime.</li><br />"
+msgstr "चुनकळी आणि पाण्याची अभिक्रिया होऊन विरी असलेला चुना निर्माण होईपर्यंत थोडावेळ थांबा."
+
+#: simcontrols.js:78 simcontrols.js:400
+msgid "<li>Click on the inference icon to view the inference.</li><br />"
+msgstr "अनुमान बघण्यासाठी अनुमान आयकॉन क्लिक करा."
+
+#: simcontrols.js:79 simcontrols.js:363
+msgid "<li>Click on the 'Next' button.</li><br />"
+msgstr "'पुढचे' बटण क्लिक करा."
+
+#: simcontrols.js:363
+msgid ""
+"<li value='6'>Clear solution of lime water is obtained as the suspension of slaked lime "
+"settle down at the bottom of the beaker.</li><br />"
+msgstr ""
+"विरी गेलेल्या चुन्याचे कणयुक्त द्रव चंचुपात्राच्या बुडाशी एकत्र होते आणि वर चुन्याच्या निवळीचे स्वच्छ द्रावण दिसते."
+
+#: simcontrols.js:363
+msgid ""
+"<li>Drag the dropper and dip it in the beaker to suck lime water into it, and then drag it "
+"to the test tube to pour the solution into the test tube.</li><br />"
+msgstr ""
+"ड्रॉपर ओढा आणि चंचुपात्रात बुडवा म्हणजे त्यात चुन्याची निवळी ओढल्या जाईल, आणि मग तो ड्रॉपर परिक्षा नळी कडे "
+"ओढा म्हणजे चुन्याची निवळी परिक्षा नळीत ओतल्या जाईल."
+
+#: simcontrols.js:399
+msgid ""
+"<li value='9'>Click on the 'Blow' button 3-4 times to blow the exhaled air into the tube.</"
+"li><br />"
+msgstr "'फुंकर मारा' बटण 3-4 वेळा क्लिक करा म्हणजे नळीत हवेची फुंकर मारल्या जाईल."
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Earth (g=9.8 m/s&#178;)"
+#~ msgstr "पृथ्वी (g=9.8 m/s&#178;)"
+
+#~ msgid "Mars (g=3.69 m/s&#178;)"
+#~ msgstr "मंगल ग्रह (g=3.69 m/s&#178;)"
+
+#~ msgid "Moon (g=1.63 m/s&#178;)"
+#~ msgstr "चांद (g=1.63 m/s&#178;)"
+
+#~ msgid "Mass of solid in"
+#~ msgstr "ठोस का मास में"
+
+#~ msgid "Dip object:"
+#~ msgstr "डुबकी वस्तु:"
+
+#~ msgid " 0% immersed"
+#~ msgstr "0% डूबे"
+
+#~ msgid "Air"
+#~ msgstr "हवा"
+
+#~ msgid "Salty water"
+#~ msgstr "नमकीन पानी"
+
+#~ msgid "Loss of weight"
+#~ msgstr "भार में कमी"
+
+#~ msgid "Enter the upthrust"
+#~ msgstr "उत्क्षेप दर्ज"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#~ msgid "g"
+#~ msgstr "g"
+
+#~ msgid "Wrong loss input"
+#~ msgstr "गलत नुकसान इनपुट"
+
+#~ msgid "Wrong upthrust"
+#~ msgstr "गलत उत्क्षेप"
+
+#~ msgid "Empty loss input"
+#~ msgstr "खाली नुकसान इनपुट"
+
+#~ msgid "Correct upthrust"
+#~ msgstr "सही उत्क्षेप"
+
+#~ msgid "Correct loss input"
+#~ msgstr "सही नुकसान इनपुट"
+
+#~ msgid "Empty Upthrust input"
+#~ msgstr "खाली उत्क्षेप इनपुट"
+
+#~ msgid "0% immersed"
+#~ msgstr "0% डूबे"
+
+#~ msgid "Iron Block"
+#~ msgstr "आयरन ब्लॉक"
+
+#~ msgid "Copper Block"
+#~ msgstr "कॉपर ब्लॉक"
+
+#~ msgid "10% immersed"
+#~ msgstr "10% डूबे"
+
+#~ msgid "25% immersed"
+#~ msgstr "25% डूबे"
+
+#~ msgid "50% immersed"
+#~ msgstr "50% डूबे"
+
+#~ msgid "75% immersed"
+#~ msgstr "75% डूबे"
+
+#~ msgid "100% immersed"
+#~ msgstr "100% डूबे"
+
+#~ msgid "Verification of Archimedes' Principle"
+#~ msgstr "आर्किमिडीज के सिद्धांत का सत्यापन"
+
+#~ msgid "SAVE"
+#~ msgstr "सहेजें"
+
+#~ msgid "SEVE"
+#~ msgstr "जतन करा"
+
+#~ msgid "Select the test"
+#~ msgstr "चाचणी निवडा"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "पाण्यात</br> विद्राव्यता"
+
+#~ msgid "Odour"
+#~ msgstr "गंध"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "दगडफुलापासून </br>  मिळणारा रंग लागू"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "NaHCO3 <br /> सह प्रतिक्रिया"
+
+#~ msgid "Acetic acid"
+#~ msgstr "आंबट आम्ल"
+
+#~ msgid "Litmus paper"
+#~ msgstr "लिटमस कागद"
+
+#~ msgid "Water"
+#~ msgstr "पाणी"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "आंबट आम्ल गुणधर्म Ethanoic ऍसिड"
+
+#~ msgid "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+#~ msgstr "पाणी असलेली चाचणी ट्यूब मध्ये आंबट ऍसिड ओतणे चाचणी ट्यूब ड्रॅग."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "आंबट आम्ल उचलू dropper ड्रॅग."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "दगडफुलापासून मिळणारा रंग कागदावर तो ड्रॉप पुन्हा dropper ड्रॅग."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "काटेरी पाने असलेले एक रानटी रोप नसराळे मध्ये आंबट ऍसिड ओतणे चंबू ड्रॅग."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "एक एकसंध समाधान तयार होतो."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "आपण एक irritating झणझणीत वास करा."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "ब्लू दगडफुलापासून मिळणारा रंग लाल वळते."
+
+#~ msgid ""
+#~ "When acetic acid reacts with <br/> sodium bicarbonate, CO<sub>2</sub>  gas is evolved and "
+#~ "that turns the lime water milky."
+#~ msgstr ""
+#~ "आंबट ऍसिड आम्लविरोधी पदार्थ सह reacts तेव्हा, CO2 वायू उत्क्रांत आणि त्या चुना पाणी दुधाचा करते आहे."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."

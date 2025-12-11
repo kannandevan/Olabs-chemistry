@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="01Intro_heading_01">
+		<TEXTVALUE>ഇരട്ട സ്ഥാനാന്തരണപ്രവർത്തനം</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="01Intro_start_11">
+		<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>സോഡിയം സൾഫേറ്റ്, ബേരിയം ക്ലോറൈഡ്, നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ്, ബീക്കർ, കോണിക്കൽ ഫ്ലാസ്ക് ടെസ്ട്യുബുകൾ  എന്നിവയെല്ലാം നമുക്ക്  ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_bar_11">
+		<TEXTVALUE>ബേരിയം 
+ക്ലോറൈഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_sod_1">
+		<TEXTVALUE>സോഡിയം 
+സൾഫേറ്റ്</TEXTVALUE>
+	</TEXT>
+
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE>ഒരു ടെസ്ട്യുബ്  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>ഒരു ടെസ്ട്യുബിൽ  ചെറിയ അളവ് ബേരിയം ക്ലോറൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>ഇത് കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>വേറൊരു ടെസ്ട്യുബ്  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>ടെസ്ട്യുബിൽ ചെറിയ അളവ് ബേരിയം സൾഫേറ്റ്  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>ബേരിയം ക്ലോറൈഡ് ലായനിയുള്ള കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഇത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_basu_11">
+		<TEXTVALUE>ബേരിയം
+സൾഫേറ്റ്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിലെ മിശ്രിതം ഇളക്കുക, ശേഷം കുറച്ചുസമയം അനക്കാതെ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>ഉടൻതന്നെ ബേരിയം സൾഫേറ്റിന്റെ  ഒരു വെള്ള അവക്ഷിപ്തം വേർതിരിയുന്നു. സൾഫേറ്റ് (so&#8324;)&#8322;- അയോണുകളുടെ സാന്നിധ്യം ഇത് വ്യക്തമാക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_three">
+		<TEXTVALUE>ബേരിയം സൾഫേറ്റിന്റെ  അവക്ഷിപ്തം  ബീക്കറിന് അടിയിൽ അവശേഷിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിൽ നിന്നും തെളിഞ്ഞ അവക്ഷിപ്തം ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>അവക്ഷിപ്തം അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ചെറിയ അളവ് നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>അവക്ഷിപ്തം അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ചെറിയ അളവ് നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് നന്നായി കറക്കി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>വെള്ള അവക്ഷിപ്തം നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡിൽ ലയിക്കുന്നില്ല.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>അയോണുകളായും സൾഫേറ്റ് അയോണുകൾ സ്ഥാനമാറ്റത്തിലൂടെ ക്ലോറൈഡ് അയോണുകളായും മാറുന്നു. ഇത് ഒരു ഇരട്ട സ്ഥാനാന്തരിത പ്രവർത്തനം ആണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13shake3_bko_1">
+		<TEXTVALUE>പുറകോട്ട്</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+	

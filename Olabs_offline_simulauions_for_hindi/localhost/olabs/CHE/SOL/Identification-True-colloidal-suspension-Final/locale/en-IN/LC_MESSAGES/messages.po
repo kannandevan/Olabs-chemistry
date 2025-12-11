@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H\n"
+"POT-Creation-Date: 2013-12-12 15:05+0530\n"
+"PO-Revision-Date: 2013-12-12 15:06+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Distinguish Between Solutions"
+msgstr "Distinguish Between Solutions"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:15
+msgid "Select the property"
+msgstr "Select the property"
+
+#: simcontrols.js:15
+msgid "Select the solution to be tested"
+msgstr "Select the solution to be tested"
+
+#: simcontrols.js:15
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "True solutions"
+msgstr "True solutions"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Suspensions"
+msgstr "Suspensions"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Colloids"
+msgstr "Colloids"
+
+#: simcontrols.js:16
+msgid ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for "
+"checking <br> the transparency of true solution."
+msgstr ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for "
+"checking <br> the transparency of true solution."
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of suspension."
+msgstr ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of suspension."
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of colloid."
+msgstr ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of colloid."
+
+#: simcontrols.js:17
+msgid ""
+"Drag the test tube and pour the solution into the <br> test tube through the "
+"funnel and glass rod."
+msgstr ""
+"Drag the test tube and pour the solution into the <br> test tube through the "
+"funnel and glass rod."
+
+#: simcontrols.js:17
+msgid ""
+"Click on the funnel to see the <br> zoomed view of the filter paper content."
+msgstr ""
+"Click on the funnel to see the <br> zoomed view of the filter paper content."
+
+#: simcontrols.js:18
+msgid ""
+"Click on on the start button to wait<br>  for 20 minutes for the "
+"particles<br> in the solution to settle."
+msgstr ""
+"Click on on the start button to wait<br>  for 20 minutes for the "
+"particles<br> in the solution to settle."
+
+#: simcontrols.js:19
+msgid "Drag the test tube to fit it in the stand."
+msgstr "Drag the test tube to fit it in the stand."
+
+#: simcontrols.js:19
+msgid "Drag the light source to view tyndall effect clearly."
+msgstr "Drag the light source to view tyndall effect clearly."
+
+#: simcontrols.js:20
+msgid "A true solution is transparent."
+msgstr "A true solution is transparent."
+
+#: simcontrols.js:20
+msgid "A suspension is opaque."
+msgstr "A suspension is opaque."
+
+#: simcontrols.js:20
+msgid "A colloid is a translucent."
+msgstr "A colloid is a translucent."
+
+#: simcontrols.js:21
+msgid ""
+"Solid particles cannot be separated from <br>true solution by filtration."
+msgstr ""
+"Solid particles cannot be separated from <br>true solution by filtration."
+
+#: simcontrols.js:21
+msgid "Suspended components of suspension <br> can be separated by filtration."
+msgstr ""
+"Suspended components of suspension <br> can be separated by filtration."
+
+#: simcontrols.js:21
+msgid "Components causing colloid cannot be <br> separated by filtration."
+msgstr "Components causing colloid cannot be <br> separated by filtration."
+
+#: simcontrols.js:22
+msgid ""
+"The true solutions are stable and do not<br> show the depositions of "
+"components."
+msgstr ""
+"The true solutions are stable and do not<br> show the depositions of "
+"components."
+
+#: simcontrols.js:22
+msgid "Suspension is unstable and show <br>settlement of heavier particles."
+msgstr "Suspension is unstable and show <br>settlement of heavier particles."
+
+#: simcontrols.js:22
+msgid ""
+"Colloids are stable. Their solute particles <br>do not settle down when left "
+"undisturbed."
+msgstr ""
+"Colloids are stable. Their solute particles <br>do not settle down when left "
+"undisturbed."
+
+#: simcontrols.js:23
+msgid ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is "
+"present in its molecular size.  Because of <br>this small size,the solute "
+"particles do not scatter the <br>light passed through the solution. "
+msgstr ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is "
+"present in its molecular size.  Because of <br>this small size,the solute "
+"particles do not scatter the <br>light passed through the solution. "
+
+#: simcontrols.js:23
+msgid ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</"
+"sup> cm or larger.Because of the large size of the <br>particles, "
+"suspensions do not show Tyndall effect."
+msgstr ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</"
+"sup> cm or larger.Because of the large size of the <br>particles, "
+"suspensions do not show Tyndall effect."
+
+#: simcontrols.js:23
+msgid ""
+"When a strong beam of light is passed through a colloidal solution <br>the "
+"light is scattered by the particles of the colloid. Thus the <br>path of "
+"light is clearly visible in the colloid."
+msgstr ""
+"When a strong beam of light is passed through a colloidal solution <br>the "
+"light is scattered by the particles of the colloid. Thus the <br>path of "
+"light is clearly visible in the colloid."
+
+#: simcontrols.js:25
+msgid "Transparency"
+msgstr "Transparency"
+
+#: simcontrols.js:25
+msgid "Filtrations"
+msgstr "Filtrations"
+
+#: simcontrols.js:25
+msgid "Stability"
+msgstr "Stability"
+
+#: simcontrols.js:25
+msgid "Tyndall effect"
+msgstr "Tyndall effect"
+
+#: simcontrols.js:44
+msgid "min"
+msgstr "min"
+
+#: simcontrols.js:44
+msgid "sec"
+msgstr "sec"
+
+#: simcontrols.js:44
+msgid "ms"
+msgstr "ms"
+
+#: simcontrols.js:45
+msgid "START"
+msgstr "START"
+
+#: simcontrols.js:45
+msgid "STOP"
+msgstr "STOP"
+
+#: simcontrols.js:47
+msgid "Sugar"
+msgstr "Sugar"
+
+#: simcontrols.js:47
+msgid "Salt"
+msgstr "Salt"
+
+#: simcontrols.js:47
+msgid "Alum"
+msgstr "Alum"
+
+#: simcontrols.js:48
+msgid "Soil"
+msgstr "Soil"
+
+#: simcontrols.js:48
+msgid "Chalk"
+msgstr "Chalk"
+
+#: simcontrols.js:48
+msgid "Sand"
+msgstr "Sand"
+
+#: simcontrols.js:49
+msgid "Starch"
+msgstr "Starch"
+
+#: simcontrols.js:49
+msgid "Egg Albumin"
+msgstr "Egg Albumin"
+
+#~ msgid "True solutions do not show Tyndall effect."
+#~ msgstr "True solutions do not show Tyndall effect."
+
+#~ msgid "Suspensions do not show Tyndall effect."
+#~ msgstr "Suspensions do not show Tyndall effect."
+
+#~ msgid "Light is scattered by the particles of the colloid."
+#~ msgstr "Light is scattered by the particles of the colloid."

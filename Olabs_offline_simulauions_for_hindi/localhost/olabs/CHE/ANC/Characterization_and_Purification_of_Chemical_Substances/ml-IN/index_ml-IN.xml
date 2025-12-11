@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ALUM">
+        <source>ആലം</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>ക്രിസ്റ്റലൈസേഷനിലൂടെ കലർപ്പുള്ള സാമ്പിളുകളെ ശുദ്ധിയാക്കൽ</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;പുറകോട്ട്</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BENZOICACID">
+        <source>ബെൻസോയിക് ആസിഡ്</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_COLDWATER">
+        <source>തണുത്ത ജലം</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_COPPERSULPHATE">
+        <source>കോപ്പർസൾഫേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_CRUDEALUM">
+        <source>അശുദ്ധആലം</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_CRUDECOPPERSULPHATE">
+        <source>അശുദ്ധ കോപ്പർസൾഫേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRYSTALLISATION">
+        <source>ശുദ്ധീകരിക്കാത്ത സാമ്പിളുകളുടെ പരലീകരണം</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>നേർപ്പിച്ച H2SO4</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ശുദ്ധീകരിച്ച ജലം</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_ETHYLALCOHOLCOLDWATER">
+        <source>ഈഥൈൽ ആൽക്കഹോൾ 
++
+തണുത്ത ജലം</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FILTERPAPER">
+        <source>ഫിൽട്ടർപേപ്പർ</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_FLUTTEREDPAPER">
+        <source>ഫ്ലട്ടേഡ് ഫിൽട്ടർപേപ്പർ</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_MIN">
+        <source>മിനിട്ട്</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_PREPARATIONCRYSTAL_COPPERSULPAHTE">
+        <source>അശുദ്ധമായ സാമ്പിളിൽ നിന്നും ശുദ്ധമായ കോപ്പർസൾഫേറ്റ് ക്രിസ്റ്റുലുകൾ തയ്യാറാക്കൽ </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_PREPARATIONOFCRUDESAMPLE">
+        <source>അസംസ്കൃത സാമ്പിളിൽ നിന്നും ശുദ്ധമായ ആലത്തിന്റെ  തരികൾ തയ്യാറാക്കൽ </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_PURIFICATIONOFBENZOICACID">
+        <source>ക്രിസ്റ്റലൈസേഷൻ പ്രക്രിയയിലൂടെ അശുദ്ധമായ ബെൻസോയിക് ആസിഡ് സാമ്പിളിനെ ശുദ്ധീകരിക്കൽ </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_SANDBATH">
+        <source>മണൽ ബാത്ത്</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_WATER">
+        <source>ജലം</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

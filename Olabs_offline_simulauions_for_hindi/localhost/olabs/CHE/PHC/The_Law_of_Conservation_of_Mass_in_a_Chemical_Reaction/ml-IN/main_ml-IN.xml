@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_TITLE">
+        <source>ഒരു രാസപ്രവർത്തനത്തിലെ ദ്രവൃസംരക്ഷണനിയമം
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONICAL_FLASK_POP">
+        <source>250ml
+കോണിക്കൽഫ്ലാസ്ക്
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LAB_BACK">
+        <source>പിന്നിൽ</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LAB_BARIUM">
+        <source>ബേരിയംക്ലോറൈഡ്
+ (BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LAB_BARIUM_POP">
+        <source>ബേരിയംക്ലോറൈഡ്
+ (BaCl2)
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LAB_CLOCK">
+        <source>10 Min</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LAB_CORK">
+        <source>കോർക്ക്
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_LAB_CYLINDERS">
+        <source>അളവ്
+സിലിണ്ടറുകൾ
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_LAB_SODIUM">
+        <source>സോഡിയംസൾഫേറ്റ്
+(Na2So4)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_LAB_SODIUMPOP">
+        <source>സോഡിയംസൾഫേറ്റ്
+(Na2So4)
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_LAB_TABLE_01">
+        <source>മൊത്തംഉപകരണത്തിൻ്റെ മാസ്സ്
++
+അഭികാരകങ്ങളുടെ മാസ്സ്, (M +m1)g
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_LAB_TABLE_03">
+        <source>മൊത്തംഉപകരണത്തിൻ്റെ മാസ്സ്
++
+ഉൽപ്പന്നത്തിൻ്റെ മാസ്സ്, (M +m2)g
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_LAB_TABLE_04">
+        <source>ince Mസ്ഥിരമാണ്, M1 =M2
+അതുകൊണ്ട്, അഭികാരകങ്ങളുടെ
+മൊത്തംമാസ്സ്=ഉൽപ്പന്നങ്ങളുടെ മൊത്തം മാസ്സ്
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LAB_TEST_TUBE">
+        <source>ടെസ്റ്റൃൂബ്
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LAB_WEIGHT_POP">
+        <source>ഭാരം നോക്കുന്ന
+ബാലൻസ്
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LAW_HEAD_01">
+        <source>ഒരു രാസപ്രവർത്തനത്തിലെ
+ദ്രവൃസംരക്ഷണനിയമം
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_START_01">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

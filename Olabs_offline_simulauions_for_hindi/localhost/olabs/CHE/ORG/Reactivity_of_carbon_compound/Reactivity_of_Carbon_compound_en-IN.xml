@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_title_1">
+	<TEXTVALUE>Properties of Acetic Acid (Ethanoic Acid)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_string_2">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="buttons">
+	<TEXT ID="buttons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l1">
+	<TEXTVALUE>Reactivity Of Carbon Compound</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l2">
+	<TEXTVALUE>Odour</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l3">
+	<TEXTVALUE>Solubility In Water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l4">
+	<TEXTVALUE>Effect On Litmus</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l5">
+	<TEXTVALUE>Reaction with 
+Sodium Bicarbonate</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="odour">
+	<TEXT ID="odour_one">
+	<TEXTVALUE>Take a small quantity of acetic acid in a test tube and smell it.  It emits an irritating pungent odour.  Keep the mouth of the test tube away from both your and your classmates' faces.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_3">
+	<TEXTVALUE>Acetic Acid</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_4">
+	<TEXTVALUE>Irritating Pungent
+ Smell</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_5">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="solubilityinwater">
+	<TEXT ID="solubilityinwater_one">
+	<TEXTVALUE>Put a small quantity of acetic acid in one test tube and a small quantity of distilled water in another test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_two">
+	<TEXTVALUE>Add acetic acid to the water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_string_6">
+	<TEXTVALUE>Water</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solubilityinwatersecond">
+	<TEXT ID="solubilityinwatersecond_one">
+	<TEXTVALUE>Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solubilityinwaterthird">
+	<TEXT ID="solubilityinwaterthird_one">
+	<TEXTVALUE>A homogeneous solution is formed.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwaterthird_string_7">
+	<TEXTVALUE>Homogeneous
+solution</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Litmus">
+	<TEXT ID="Litmus_one">
+	<TEXTVALUE>Take a strip of blue litmus paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Litmus_string_8">
+	<TEXTVALUE>Litmus Paper</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Litmussecond">
+	<TEXT ID="Litmussecond_one">
+	<TEXTVALUE>Dip it in a test tube containing a small quantity of acetic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Litmusthird">
+	<TEXT ID="Litmusthird_one">
+	<TEXTVALUE>Blue litmus turns red, showing that acetic acid is acidic in nature.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumbicarbonate">
+	<TEXT ID="sodiumbicarbonate_one">
+	<TEXTVALUE>Put a small quantity of sodium bicarbonate solution in a  boiling tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_two">
+	<TEXTVALUE>Clamp the boiling tube to a stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_three">
+	<TEXTVALUE>Close the mouth of the boiling tube with a double bored cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_four">
+	<TEXTVALUE>Insert a thistle funnel into the tube through one of the holes in the cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_five">
+	<TEXTVALUE>Take another boiling tube containing lime water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_six">
+	<TEXTVALUE>Clamp this boiling tube to another stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_seven">
+	<TEXTVALUE>Take a delivery tube and insert one end in the tube containing sodium bicarbonate (through the hole in the cork) and the other end in the tube containing lime water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_9">
+	<TEXTVALUE>Sodium bicarbonate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_10">
+	<TEXTVALUE>Thistle Funnel</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_stri_ls1">
+	<TEXTVALUE>Lime Water</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="takeaceticacid">
+	<TEXT ID="takeaceticacid_one">
+	<TEXTVALUE>Take a bottle containing acetic acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeaceticacid_string11">
+	<TEXTVALUE>Acetic Acid</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="last">
+	<TEXT ID="last_one">
+	<TEXTVALUE>Pour the acetic acid through the thistle funnel into the boiling tube containing sodium bicarbonate.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_two">
+	<TEXTVALUE>A gas evolves.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_three">
+	<TEXTVALUE>The lime water in the boiling tube turns milky.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_four">
+	<TEXTVALUE>The gas evolved is CO2 which turns lime water milky.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

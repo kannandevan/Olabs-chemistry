@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title02">
+	<TEXT ID="title02_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_heading_tx01">
+	 <TEXTVALUE>Decomposition Reaction</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_strt_tx001">
+	 <TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="02Iintro">
+	<TEXT ID="02Iintro_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Iintro_ferous_o01">
+	 <TEXTVALUE>Ferrous Sulphate</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="03tube">
+	<TEXT ID="03tube_one">
+	 <TEXTVALUE>Take a small quantity of ferrous sulphate crystals (FeSO4.7H2O) in a dry boiling tube.	 
+	 </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="03tube_two">
+	 <TEXTVALUE>Hold the boiling tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04lamp1">
+	<TEXT ID="04lamp1_one">
+	 <TEXTVALUE>Heat the boiling tube over the flame of a burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="04lamp1_two">
+	 <TEXTVALUE>On heating ferrous sulphate crystals, they lose their water molecules and form white coloured crystals of anhydrous ferrous sulphate (FeSO4).</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="04lamp1_three">
+	 <TEXTVALUE>On further heating, anhydrous ferrous sulphate decomposes to form dark brown coloured ferric oxide (Fe2O3), sulphur dioxide (SO2) and sulphur trioxide (SO3) gases. The gas emitted has the odour of burning sulphur.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="04lamp1_odour_o01">
+	 <TEXTVALUE> Odour of 
+Burning Sulphur</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	<SCENE ID="05result">
+	<TEXT ID="05result_one">
+	 <TEXTVALUE>In this reaction a single reactant FeSO4 decomposes to form three different products Fe2O3(s), SO2(g) and SO3(g). So the reaction is a decomposition reaction.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_feri_o01">
+	 <TEXTVALUE>Ferric oxide</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_bakos_01">
+	 <TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>
+

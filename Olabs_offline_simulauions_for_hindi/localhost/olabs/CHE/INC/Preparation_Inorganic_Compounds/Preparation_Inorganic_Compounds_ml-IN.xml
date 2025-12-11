@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+<!-- Interactive_scenes-->
+
+<SCENE ID="Heading">
+	<TEXT ID="Heading_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- Ferrous ammonium sulphate -->
+
+<SCENE ID="firstschead">
+	<TEXT ID="firstschead_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstsc">
+	<TEXT ID="firstsc_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളവ: ഇലക്ട്രോണിക് ബാലൻസ്, വയർ ഗോസ്, മുക്കാലി, ബൻസൻ ബേണർ, ചൈനാപ്പാത്രം, ഫെറസ് സൾഫേറ്റ്, അമോണിയം സൾഫേറ്റ്, ബീക്കറുകൾ, നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ്, ഈഥൈൽ ആൽക്കഹോൾ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrros">
+	<TEXT ID="ferrros_one">
+	<TEXTVALUE>ഒരു കോരിക ഉപയോഗിച്ച് ഫെറസ് സൾഫേറ്റ് അൽപ്പം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweigh">
+	<TEXT ID="inweigh_one">
+	<TEXTVALUE>ഇലക്ട്രോണിക് ബാലൻസിൽ ബട്ടർ പേപ്പർ വെച്ചിട്ട് തൂക്കം അഡ്ജസ്റ്റ് ചെയ്യുക. വട്ടർ പേപ്പറിൽ ഫെറസ് സൾഫേറ്റ് ക്രിസ്റ്റലുകൾ വെച്ച് ഏകദേശം 7 ഗ്രാം ഫെറസ് സൾഫേറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeaker">
+	<TEXT ID="inbeaker_one">
+	<TEXTVALUE>അളന്നെടുത്ത ഫെറസ് സൾഫേറ്റ് ഒരു ബീക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ammonium">
+	<TEXT ID="ammonium_one">
+	<TEXTVALUE>ഇപ്പോൾ ഇലക്ട്രോണിക് ബാലൻസിൽ മറ്റൊരു വെണ്ണ പേപ്പർ വെച്ച് അമോണിയം സൾഫേറ്റ് 3.5 ഗ്രാം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoni">
+	<TEXT ID="inweighammoni_one">
+	<TEXTVALUE>ഇപ്പോൾ ഇലക്ട്രോണിക് ബാലൻസിൽ മറ്റൊരു വെണ്ണ പേപ്പർ വെച്ച് അമോണിയം സൾഫേറ്റ് 3.5 ഗ്രാം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammo">
+	<TEXT ID="inbeakerammo_one">
+	<TEXTVALUE>അത് ഒരു ബീക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sulphu">
+	<TEXT ID="sulphu_one">
+	<TEXTVALUE>ഒരു അളവു പാത്രത്തിൽ 3മി.ലി. നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowder">
+	<TEXT ID="dilsulphuinpowder_one">
+	<TEXTVALUE>അത്, ഫെറസ് സൾഫേറ്റും അമോണിയം സൾഫേറ്റും അടങ്ങിയ ബീക്കറിലേക്കു ചേര്ക്കു ക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water">
+	<TEXT ID="water_one">
+	<TEXTVALUE>മറ്റൊരു അളവു പാത്രത്തിൽ ശുദ്ധീകരിച്ച വെള്ളം 20മി.ലി. എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeaker">
+	<TEXT ID="waterinbeaker_one">
+	<TEXTVALUE>അത് മറ്റൊരു ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="tripode">
+	<TEXT ID="tripode_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം അടങ്ങിയ ബീക്കർ 5 മിനിറ്റോളം തിളപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hotwateradd">
+	<TEXT ID="hotwateradd_one">
+	<TEXTVALUE>ആദ്യത്തെ അളവുപാത്രത്തിലേക്ക് ചൂടുള്ള കുറേശ്ശെ ഒഴിക്കുക, അപ്പോൾ അത് ഒരു ഗ്ലാസ് ദണ്ഡുകൊണ്ട് ഇളക്കിക്കൊണ്ടിരിക്കണം. ലവണങ്ങൾ പൂര്ണപമായി അലിഞ്ഞുചേരുന്നതുവരെ ഇതു ചെയ്ക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnel">
+	<TEXT ID="funnel_one">
+	<TEXTVALUE>ഒരു ഫണൽ എടുത്ത് സ്റ്റാൻഡിൽ പിടിപ്പിച്ചിട്ട് അതിൽ ഒരു ഫിൽട്ടർ പേപ്പർ വെക്കുക. ഫണലിന്റെഎ താഴെയായി വൃത്തിയുള്ള ഒരു ചൈനാ കളിമൺ പാത്രം വെക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeit">
+	<TEXT ID="takeit_one">
+	<TEXTVALUE>ബീക്കറിലുള്ള ലായനി ഫിൽറ്ററിലൂടെ കളിമൺപാത്രത്തിലേക്ക് അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelflush">
+	<TEXT ID="funnelflush_one">
+	<TEXTVALUE>ബീക്കറിലുള്ള ലായനി ഫിൽറ്ററിലൂടെ കളിമൺപാത്രത്തിലേക്ക് അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chinainheat">
+	<TEXT ID="chinainheat_one">
+	<TEXTVALUE>ഒരു മുക്കാലിയിൽ വെച്ചിരിക്കുന്ന വയർ ഗോസിനു മുകളിൽ അരിച്ചെടുത്തത് കളിമൺപാത്രത്തോടെ വെച്ച് ചൂടാക്കുക. അതു പരലുകളായി രൂപപ്പെടുന്നതുവരെ തുടർച്ചയായി ഇളക്കിക്കൊണ്ടിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystelise">
+	<TEXT ID="crystelise_one">
+	<TEXTVALUE>സാന്ദ്രീകരിച്ച ലായനി ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന ഒരു പാത്രത്തിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_two">
+	<TEXTVALUE>ഒരു വാച്ച് ഗ്ലാസ് ഉപയോഗിച്ച് പാത്രം മൂടുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_three">
+	<TEXTVALUE>ക്രിസ്റ്റൈലൈസ് ചെയ്യുന്ന പാത്രം തണുത്ത വെള്ളം അടങ്ങിയ ഒരു തൊട്ടിയിൽ വെച്ച് തണുപ്പിക്കുക. ലായനി തണുക്കുമ്പോൾ ഫെറസ് അമോണിയം സൾഫേറ്റിന്റെ  (മോഹ്ർ ലവണം) പരലുകൾ വേർതിരിഞ്ഞു വരുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crysteliseout">
+	<TEXT ID="crysteliseout_one">
+	<TEXTVALUE>മാതൃ ലിക്കർ വേഗത്തിൽ ഒഴിച്ചുകളയുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intable">
+	<TEXT ID="intable_one">
+	<TEXTVALUE>അൽപ്പം ഈഥൈൽ ആൽക്കഹോൾ പാത്രത്തിലേക്ക് ഒഴിച്ച് അത് ഉപയോഗിച്ച് ക്രിസ്റ്റലുകൾ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelalcohol">
+	<TEXT ID="funnelalcohol_one">
+	<TEXTVALUE>ശേഷിക്കുന്ന ആൽക്കഹോൾ ഒരു ഫണൽ ഉപയോഗിച്ച് അരിച്ച് അരിച്ചുമാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	<TEXTVALUE>ഒരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മോഹ്ർ ലവണം മാറ്റിയിട്ട് ആ പേപ്പർ കൊണ്ട് മെല്ലെ അമർത്തി പരലുകൾ ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filterpaper_two">
+	<TEXTVALUE>തുടർന്ന്, ഉണങ്ങിയ മോഹ്ർ ലവണം ഒരു വാച്ച് ഗ്ലാസ്സിലേക്കു മാറ്റിയിട്ട് അതിനു ലേബൽ കൊടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- Potash alum-->
+
+<SCENE ID="TitlePottash">
+	<TEXT ID="TitlePottash_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroApparatusS2">
+	<TEXT ID="IntroApparatusS2_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളവ: ഇലക്ട്രോണിക് ബാലൻസ്, കോരിക, വാച്ച് ഗ്ലാസ്സ്, പൊട്ടാസിയം സൾഫേറ്റ്, അലൂമിനിയം സൾഫേറ്റ്, ബീക്കർ, അളവുപാത്രം, ശുദ്ധീകരിച്ച വെള്ളം, നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ്, വയർ ഗോസ്, മുക്കാലി, ബൻസൻ ബേണർ, കളിമൺപാത്രം, ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രം, ഈഥൈൽ ആൽക്കഹോൾ വാട്ടർ മിക്സ്ചർ, വിളക്കോടു കൂടിയ സ്റ്റാൻഡ് മുതലായവ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Watchglass2machineS2">
+	<TEXT ID="Watchglass2machineS2_one">
+	<TEXTVALUE>ഒരു ബട്ടർ പേപ്പർ എടുത്തു ഒരു ഇലക്ട്രോണിക് ബാലൻസിൽ വെച്ച് തൂക്കം അഡ്ജസ്റ്റ് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotassiumInSpatulaS2">
+	<TEXT ID="PotassiumInSpatulaS2_one">
+	<TEXTVALUE>ഒരു കോരിക ഉപയോഗിച്ച് അൽപ്പം പൊട്ടാസ്യം സൾഫേറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Potassium2PlateS2">
+	<TEXT ID="Potassium2PlateS2_one">
+	<TEXTVALUE>അത് ബട്ടർ വെണ്ണ വെച്ച് പൊട്ടാസ്യം സൾഫേറ്റ് ഏകദേശം 2.5 ഗ്രാം തൂക്കിയെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterMixingPotasiumS3">
+	<TEXT ID="WaterMixingPotasiumS3_one">
+	<TEXTVALUE>അളന്നെടുത്ത പൊട്ടാസ്യം സൾഫേറ്റ് ഒരു ബീക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WaterMixingPotasiumS3_two">
+	<TEXTVALUE>ഒരു അളവുപാത്രത്തിൽ ശുദ്ധീകരിച്ച വെള്ളം 20മി.ലി. എടുത്ത് ബീക്കറിൽ ഒഴിക്കുക. ബീക്കറിലെ പരലുകൾ പൂർണ്ണമായും അലിഞ്ഞു ചേരുന്നതുവരെ ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ബീക്കറിലെ ലായനി ഇളക്കിക്കൊണ്ടിരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2ndWatchglass2MachineS4">
+	<TEXT ID="2ndWatchglass2MachineS4_one">
+	<TEXTVALUE>മറ്റൊരു ബട്ടർ പേപ്പർ ബാലൻസിൽ വെച്ച് തൂക്കം ക്രമീകരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminimInSpatulaS4">
+	<TEXT ID="AluminimInSpatulaS4_one">
+	<TEXTVALUE>അൽപ്പം അലുമിനിയം സൾഫേറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Aluminim2plateS4">
+	<TEXT ID="Aluminim2plateS4_one">
+	<TEXTVALUE>അലുമിനിയം സൾഫേറ്റ് 10 ഗ്രാം ബട്ടർ പേപ്പറിൽ തൂക്കിയെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WterMixingAluminiumS5">
+	<TEXT ID="WterMixingAluminiumS5_one">
+	<TEXTVALUE>അത് മറ്റൊരു ബീക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WterMixingAluminiumS5_two">
+	<TEXTVALUE>20മി.ലി. ശുദ്ധീകരിച്ച വെള്ളം എടുത്ത് അലൂമിനിയം സൾഫേറ്റ് അടങ്ങിയ ബിക്കറിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricInJarS5">
+	<TEXT ID="SulphuricInJarS5_one">
+	<TEXTVALUE>തുടർന്ന് നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ് 1മി.ലി. എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricAdded2AluminimS5">
+	<TEXT ID="SulphuricAdded2AluminimS5_one">
+	<TEXTVALUE>അത്, അലുമിനിയം സൾഫേറ്റിന്റെൂ ഹൈഡ്രോളിസിസ് തടയുന്നതിന് അലുമിനിയം സൾഫേറ്റ് അടങ്ങിയ പാത്രത്തിലേക്ക് ഒഴിക്കേണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminiSulphateDissolveS6">
+	<TEXT ID="AluminiSulphateDissolveS6_one">
+	<TEXTVALUE>ബീക്കറിലെ ആ ലായനി ഏകദേശം 5 മിനിറ്റ് നേരത്തേക്കു ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Mixing2SolutionsS6">
+	<TEXT ID="Mixing2SolutionsS6_one">
+	<TEXTVALUE>കളിമൺപാത്രത്തിലേക്ക് ആദ്യം അലുമിനിയം സൾഫേറ്റും തുടർന്ന് പൊട്ടാസ്യം സൾഫേറ്റും ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Mixing2SolutionsS6_two">
+	<TEXTVALUE>ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് രണ്ട് ലായനികളും മിക്സ് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingCrystalizationpointS7">
+	<TEXT ID="HeatingCrystalizationpointS7_one">
+	<TEXTVALUE>ബർണറിൽ വെച്ചിരിക്കുന്ന വയർ ഗോസിന്റെു മുകളിൽ ലായനി അടങ്ങിയ ചൈനാ കളിമൺപാത്രം മൃദുവായി ചൂടാക്കുക.  പരലുകൾ രൂപീകൃതമാകുന്നതുരെ തുടർച്ചയായി ഇളക്കിക്കൊണ്ടിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DishCoveringWithPlateS8">
+	<TEXT ID="DishCoveringWithPlateS8_one">
+	<TEXTVALUE>സാന്ദ്രീകരിച്ച ലായനി ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന ഒരു പാത്രത്തിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DishCoveringWithPlateS8_two">
+	<TEXTVALUE>ഒരു വാച്ച് ഗ്ലാസ് ഉപയോഗിച്ച് പാത്രം മൂടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumSeparatedS8">
+	<TEXT ID="PotashAlumSeparatedS8_one">
+	<TEXTVALUE>ക്രിസ്റ്റൈലൈസ് ചെയ്യുന്ന പാത്രം തണുത്ത വെള്ളം അടങ്ങിയ ഒരു തൊട്ടിയിൽ വെച്ച് തണുപ്പിക്കുക. ലായനി തണുക്കുമ്പോൾ പൊട്ടാഷ് ആലത്തിന്റെു പരലുകൾ വേർതിരിഞ്ഞു വരുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolutionDecantS9">
+	<TEXT ID="SolutionDecantS9_one">
+	<TEXTVALUE>മാതൃ ലിക്കർ ശ്രദ്ധാപൂർവ്വം ഒരു ബീക്കറിലേക്കു പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FilteringUpperSoluS10">
+	<TEXT ID="FilteringUpperSoluS10_one">
+	<TEXTVALUE>ഒരു ഫണൽ എടുത്ത് സ്റ്റാൻഡിൽ പിടിപ്പിച്ചിട്ട് അതിൽ ഒരു ഫിൽട്ടർ പേപ്പർ വെക്കുക. ഫണലിന്റെഎ താഴെയായി ബീക്കർ വെക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_two">
+	<TEXTVALUE>ആൽക്കഹോളിന്റെകയും-തണുത്ത വെള്ളത്തിന്റെ യും അൽപ്പം മിശ്രിതം എടുത്ത് അതു പാത്രത്തിലേക്ക് ഒഴിച്ചു പരലുകൾ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_three">
+	<TEXTVALUE>അത് ഒരു ഫണൽവഴി ബീക്കറിലേക്കു പകരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_four">
+	<TEXTVALUE>വീണ്ടും ആൽക്കഹോളിന്റെിയും-തണുത്ത വെള്ളത്തിന്റെറയും മിശ്രിതം പാത്രത്തിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalFilteringS11">
+	<TEXT ID="CrystalFilteringS11_one">
+	<TEXTVALUE>പിന്നെ ക്രിസ്റ്റലുകളെല്ലാം ഫണലിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_two">
+	<TEXTVALUE>എഴുന്നിൽക്കുന്ന ക്രിസ്റ്റലുകൾ ഒരു ഫണലിലൂടെ പാത്രത്തിലേക്ക് മാറ്റുന്നതിനായി വീണ്ടും ഇതു ചെയ്ക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_three">
+	<TEXTVALUE>ഒരു കോരിക ഉപയോഗിച്ച് ഫണലിൽനിന്ന് നിന്ന് പരലുകൾ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumS12">
+	<TEXT ID="PotashAlumS12_one">
+	<TEXTVALUE>ഒരു ഫിൽട്ടർ പേപ്പറിലേക്ക് ലവണം മാറ്റിയിട്ട് ആ പേപ്പർ കൊണ്ട് മെല്ലെ അമർത്തി പരലുകൾ ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PotashAlumS12_two">
+	<TEXTVALUE>പൊട്ടാഷ് ആലത്തിന്റെ് ഉണങ്ങിയ ക്രിസ്റ്റലുകൾ ഒരു വാച്ച് ഗ്ലാസ്സിലേക്ക് മാറ്റി അതിനു ലേബൽ കൊടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!-- Potassium trioxalatoferrate (III) -->
+
+<SCENE ID="firstscheadox">
+	<TEXT ID="firstscheadox_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstscox">
+	<TEXT ID="firstscox_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളവ: ഇലക്ട്രോണിക് ബാലൻസ്, വയർ ഗോസ്, മുക്കാലി, ബൻസൻ ബേണർ, ഫെറിക് ക്ലോറൈഡ്, പൊട്ടാസ്യം ഹൈഡ്രോക്സൈസ്, ഹൈഡ്രേറ്റഡ് പൊട്ടാസ്യം ഓക്സലേറ്റ്, ബീക്കറുകൾ, ഈഥൈൽ ആൽക്കഹോൾ, കോരിക, ഗ്ലാസ്സ് ദണ്ഡ്, ബൂക്ക്നർ ഫണൽ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrosox">
+	<TEXT ID="ferrrosox_one">
+	<TEXTVALUE>ഒരു കോരിക ഉപയോഗിച്ച് ഫെറിക്ക് ക്ലോറൈഡ് അൽപ്പം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighox">
+	<TEXT ID="inweighox_one">
+	<TEXTVALUE>ഇലക്ട്രോണിക് ബാലൻസിൽ ബട്ടർ പേപ്പർ വെച്ചിട്ട് തൂക്കം അഡ്ജസ്റ്റ് ചെയ്യുക. ബട്ടർ പേപ്പറിൽ ഫെറിക് ക്ലോറൈഡ് വെച്ച് അത് ഏകദേശം 3.5 ഗ്രാം തൂക്കം നോക്കി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerox">
+	<TEXT ID="inbeakerox_one">
+	<TEXTVALUE>അളന്നെടുത്ത ഫെറിക് ക്ലോറൈഡ് ഒരു ബീക്കറിൽ ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water1ox">
+	<TEXT ID="water1ox_one">
+	<TEXTVALUE>ഒരു അളവു ജാറിൽ 50മി.ലി. ശുദ്ധീകരിച്ച വെള്ളം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowderox">
+	<TEXT ID="dilsulphuinpowderox_one">
+	<TEXTVALUE>അത് ഫെറിക് ക്ലോറൈഡ് അടങ്ങിയ ബീക്കറിലേക്ക് ഒഴിക്കുക. ഫെറിക് ക്ലോറൈഡ് പൂർണമായും ലയിച്ചുചേരുന്നതുവരെ ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ബീക്കറിലെ ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dilsulphuinpowderox_two">
+	<TEXTVALUE>പരലുകൾ പൂർണമായും ലയിക്കുന്നതുവരെ ബീക്കറിലെ ലായനി ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="pottasiumox">
+	<TEXT ID="pottasiumox_one">
+	<TEXTVALUE>ഒരു കോരിക ഉപയോഗിച്ച് അൽപ്പം പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoniox">
+	<TEXT ID="inweighammoniox_one">
+	<TEXTVALUE>പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് ഏകദേശം 4 ഗ്രാം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammoox">
+	<TEXT ID="inbeakerammoox_one">
+	<TEXTVALUE>അത് മറ്റൊരു ബിക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water2ox">
+	<TEXT ID="water2ox_one">
+	<TEXTVALUE>തുടർന്ന് ശുദ്ധീകരിച്ച വെള്ളം 50മി.ലി. എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeakerox">
+	<TEXT ID="waterinbeakerox_one">
+	<TEXTVALUE>പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് അടങ്ങിയ ബീക്കറിലേക്ക് ഈ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterinbeakerox_two">
+	<TEXTVALUE>തുടർന്ന് പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് പൂര്ണ. മായി ലയിക്കുന്നതുവരെ ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ബീക്കറിലെ ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="stiringox">
+	<TEXT ID="stiringox_one">
+	<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് ലായനിയിലേക്ക് ചെറിയ അളവിൽ പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് ലായനി ചേർക്കുക; ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് അതു നിരന്തരം ഇളക്കിക്കൊണ്ടിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="stiringox_two">
+	<TEXTVALUE>ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെ; അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnelox">
+	<TEXT ID="buchnerfunnelox_one">
+	<TEXTVALUE>ഒരു ബുക്നർ ഫണലിൽ ഒരു ഫിൽട്ടർ പേപ്പർ വെച്ചിട്ട് മാതൃ ലിക്കർ ഫണലിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwaterox">
+	<TEXT ID="distilledwaterox_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം അൽപ്പം ബീക്കറിലേക്ക് ഒഴിച്ചു അവക്ഷിപ്തം കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2copyox">
+	<TEXT ID="buchnerfunneldist2copyox_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം അൽപ്പം ബീക്കറിലേക്ക് ഒഴിച്ചു അവക്ഷിപ്തം കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldistox">
+	<TEXT ID="buchnerfunneldistox_one">
+	<TEXTVALUE>കഴുകിയെടുത്തത് ബുക്നർ ഫണലിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwater2ox">
+	<TEXT ID="distilledwater2ox_one">
+	<TEXTVALUE>വീണ്ടും അവക്ഷിപ്തം അടങ്ങിയ ബീക്കറിലേക്ക് ശുദ്ധീകരിച്ച വെള്ളം അൽപ്പം ചേർക്കുക. ഈ പ്രക്രിയ ആവർത്തിക്കുകയും അവക്ഷിപ്തം അരിച്ചെടുക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2ox">
+	<TEXT ID="buchnerfunneldist2ox_one">
+	<TEXTVALUE>വീണ്ടും അവക്ഷിപ്തം അടങ്ങിയ ബീക്കറിലേക്ക് ശുദ്ധീകരിച്ച വെള്ളം അൽപ്പം ചേർക്കുക. ഈ പ്രക്രിയ ആവർത്തിക്കുകയും അവക്ഷിപ്തം അരിച്ചെടുക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnel2ox">
+	<TEXT ID="buchnerfunnel2ox_one">
+	<TEXTVALUE>വീണ്ടും അവക്ഷിപ്തം അടങ്ങിയ ബീക്കറിലേക്ക് ശുദ്ധീകരിച്ച വെള്ളം അൽപ്പം ചേർക്കുക. ഈ പ്രക്രിയ ആവർത്തിക്കുകയും അവക്ഷിപ്തം അരിച്ചെടുക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedoxalicacidox">
+	<TEXT ID="hydratedoxalicacidox_one">
+	<TEXTVALUE>ഹൈഡ്രേറ്റ് ചെയ്ത ഓക്സാലിക് ആസിഡ് അൽപ്പം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicox">
+	<TEXT ID="weighoxalicox_one">
+	<TEXTVALUE>ഏകദേശം 4 ഗ്രാം ഓക്സാലിക് ആസിഡ് ബാലൻസിൽ അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inoxabeakerox">
+	<TEXT ID="inoxabeakerox_one">
+	<TEXTVALUE>അത് ഒരു ബീക്കറിലേക്കു മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedpotassiumox">
+	<TEXT ID="hydratedpotassiumox_one">
+	<TEXTVALUE>തുടർന്ന് ഹൈഡ്രേറ്റ് ചെയ്ത പൊട്ടാസ്യം ഓക്സലേറ്റ് അൽപ്പം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicpottasiumox">
+	<TEXT ID="weighoxalicpottasiumox_one">
+	<TEXTVALUE>പൊട്ടാസ്യം ഓക്സലേറ്റ് 5.5 ഗ്രാം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="beakerox">
+	<TEXT ID="beakerox_one">
+	<TEXTVALUE>അതേ ബീക്കറിലേക്ക് അത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilwatrox">
+	<TEXT ID="distilwatrox_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം 100 മില്ലി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100mlinbeakerox">
+	<TEXT ID="100mlinbeakerox_one">
+	<TEXTVALUE>അത് ഹൈഡ്രേറ്റ് ചെയ്ത് ഓക്സാലിക ആസിഡും ഹൈഡ്രേറ്റ് ചെയ്ത പൊട്ടാസ്യം ഓക്സലേറ്റും അടങ്ങിയ ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="100mlinbeakerox_two">
+	<TEXTVALUE>തെളിഞ്ഞ ലായനി കിട്ടുന്നതിനായി ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ബീക്കറിലെ ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetaox">
+	<TEXT ID="percipitatetaox_one">
+	<TEXTVALUE>മുകളിൽ പറഞ്ഞ ബീക്കറിലേക്ക് ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെറ അവക്ഷിപ്തം ചേര്ത്ത്  ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrox">
+	<TEXT ID="percipitateinbeakrox_one">
+	<TEXTVALUE>മുകളിൽ പറഞ്ഞ ബീക്കറിലേക്ക് ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെറ അവക്ഷിപ്തം ചേര്ത്ത് ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetacopyox">
+	<TEXT ID="percipitatetacopyox_one">
+	<TEXTVALUE>മുകളിൽ പറഞ്ഞ ബീക്കറിലേക്ക് ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെറ അവക്ഷിപ്തം ചേര്ത്ത് ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrcopyox">
+	<TEXT ID="percipitateinbeakrcopyox_one">
+	<TEXTVALUE>മുകളിൽ പറഞ്ഞ ബീക്കറിലേക്ക് ഫെറിക് ഹൈഡ്രോക്സൈഡിന്റെറ അവക്ഷിപ്തം ചേര്ത്ത് ലായനി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelox">
+	<TEXT ID="funnelox_one">
+	<TEXTVALUE>ഒരു ഫണൽ എടുത്ത് സ്റ്റാൻഡിൽ പിടിപ്പിച്ച് അതിൽ ഫിൽട്ടർ പേപ്പർ വെക്കുക. ഫണലിനു കീഴിലായി വൃത്തിയുള്ള ഒരു  കളിമൺപാത്രം വെക്കുക. ലായനിതെറിച്ചു പോകാതിരിക്കാനായി ഫണലിന്റെ് തണ്ട് കളിമൺപാത്രത്തേൽ തൊട്ടിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeitox">
+	<TEXT ID="takeitox_one">
+	<TEXTVALUE>ലായനി കളിമൺപാത്രത്തിലേക്ക് അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="freakox">
+	<TEXT ID="freakox_one">
+	<TEXTVALUE>ലായനി കളിമൺപാത്രത്തിലേക്ക് അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbathox">
+	<TEXT ID="sandbathox_one">
+	<TEXTVALUE>ക്രിസ്റ്റലീകരണം നടക്കുന്നതുവരെ ഒരു മണൽ ബാത്തിൽവെച്ച് കളിമൺപാത്രത്തിൽ ഉള്ളതു ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linedrawox">
+	<TEXT ID="linedrawox_one">
+	<TEXTVALUE>ക്രിസ്റ്റലീകരണം നടക്കുന്നതുവരെ ഒരു മണൽ ബാത്തിൽവെച്ച് കളിമൺപാത്രത്തിൽ ഉള്ളതു ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbath2ox">
+	<TEXT ID="sandbath2ox_one">
+	<TEXTVALUE>ക്രിസ്റ്റലീകരണം നടക്കുന്നതുവരെ ഒരു മണൽ ബാത്തിൽവെച്ച് കളിമൺപാത്രത്തിൽ ഉള്ളതു ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="coldwaterox">
+	<TEXT ID="coldwaterox_one">
+	<TEXTVALUE>ചൂടുള്ള പൂരിത ലായനി അടങ്ങിയ കളിമൺപാത്രം തണുത്ത വെള്ളം അടങ്ങിയ ഒരു തൊട്ടിയിൽ വെക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_two">
+	<TEXTVALUE>സംയുക്തം പ്രകാശത്തോടു പ്രതികരിക്കുന്നതായതുകൊണ്ട് കളിമൺപാത്രം ഒരു കറുത്ത പേപ്പർകൊണ്ട് മൂടുക. ലായനി കുറച്ചു നേരത്തേക്കു തണുക്കാൻ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_three">
+	<TEXTVALUE>ലായനി തണുക്കുമ്പോൾ പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് (III) ക്രിസ്റ്റലുകൾ വേർതിരിയപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteox">
+	<TEXT ID="sinkwasteox_one">
+	<TEXTVALUE>മാതൃ ലിക്കർ ഒഴിച്ചുകളയുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethylalcoholox">
+	<TEXT ID="ethylalcoholox_one">
+	<TEXTVALUE>കളിമൺപാത്രത്തിലേക്ക് ഈഥൈൽ ആൽക്കഹോൾ അൽപ്പം ഒഴിച്ച് അതുകൊണ്ട് ക്രിസ്റ്റലുകൾ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethyltochinadishox">
+	<TEXT ID="ethyltochinadishox_one">
+	<TEXTVALUE>കളിമൺപാത്രത്തിലേക്ക് ഈഥൈൽ ആൽക്കഹോൾ അൽപ്പം ഒഴിച്ച് അതുകൊണ്ട് ക്രിസ്റ്റലുകൾ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteddox">
+	<TEXT ID="sinkwasteddox_one">
+	<TEXTVALUE>കഴുകിയെടുത്തത് ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastox">
+	<TEXT ID="lastox_one">
+	<TEXTVALUE>ഒരു ഫിൽട്ടർ പേപ്പറിലേക്ക് ക്രിസ്റ്റലുകൾ മാറ്റിയിട്ട് ആ പേപ്പർ കൊണ്ട് മെല്ലെ അമർത്തി അവ ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="labeledcrystalox">
+	<TEXT ID="labeledcrystalox_one">
+	<TEXTVALUE>സംയുക്തത്തിന്റെ് ഉണങ്ങിയ ക്രിസ്റ്റലുകൾ ഒരു വാച്ച് ഗ്ലാസ്സിലേക്കു മാറ്റി അതിനു ലേബൽ കൊടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

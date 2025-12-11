@@ -1,0 +1,166 @@
+﻿<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>सेल के ई.एम.एफ का निर्धारण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene1">
+	<TEXT ID="zinc">
+	 <TEXTVALUE>जिंक की
+	  पट्टी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper">
+	 <TEXTVALUE>कॉपर की
+	  पट्टी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zinc_sulph">
+	 <TEXTVALUE>जिंक सल्फेट 
+ के विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="voltmeter">
+	 <TEXTVALUE>वोल्टमीटर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_sulph">
+	 <TEXTVALUE>कॉपर सल्फेट 
+ के विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="bridge">
+	 <TEXTVALUE>साल्ट  ब्रिज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zink_solu">
+	 <TEXTVALUE>1M ZnSO&#x2084;का विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_solu">
+	 <TEXTVALUE>1M CuSO&#x2084;का विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene1_one">
+	 <TEXTVALUE>हमें जिंक की पट्टी, कॉपर की पट्टी, 1M ZnSO4 का विलयन, वोल्टमीटर, 1M CuSO4 का विलयन, साल्टी ब्रिज, जोड़ने वाला तार, सैण्ड पेपर, आदि चाहिए</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takecopper2">
+	<TEXT ID="takecopper2_one">
+	 <TEXTVALUE>कॉपर की पट्टी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean3">
+	<TEXT ID="sand_aper">
+	 <TEXTVALUE>सैण्ड पेपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clean3_one">
+	 <TEXTVALUE>सैण्ड पेपर की मदद से इसे साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution4">
+	<TEXT ID="dipethesolution4_one">
+	 <TEXTVALUE>1M कॉपर सल्फेट के विलयन से युक्त बीकर में कॉपर की पट्टी डुबोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean5">
+	<TEXT ID="clean5_one">
+	 <TEXTVALUE>इसी तरह, जिंक की पट्टी लें और इसे सैण्ड पेपर से साफ करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution6">
+	<TEXT ID="dipethesolution6_one">
+	 <TEXTVALUE>इसके बाद इसे 1M जिंक सल्फेट के विलयन से युक्त एक दूसरे बीकर में डुबोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takesaltbridge7">
+	<TEXT ID="takesaltbridge7_one">
+	 <TEXTVALUE>साल्ट ब्रिज लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipsaltbridge8">
+	<TEXT ID="dipsaltbridge8_one">
+	 <TEXTVALUE>साल्ट ब्रिज के माध्यम से दोनों विलयनों को जोड़ें। [साल्ट ब्रिज K2SO4, KCl, KNO3 आदि जैसे निष्क्रिय इलेक्ट्रोलाइट्स के विलयन से भरा औंधा यू-ट्यूब हेाता है|</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="dipsaltbridge8_two">
+	 <TEXTVALUE>अब, जोड़ने वाले तार का प्रयोग कर कॉपर की पट्टी से वोल्टमीटर का पाजिटिव टर्मिनल जोड़ें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge8_three">
+	 <TEXTVALUE>वोल्टमीटर में सूचक की स्थिति पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="dipsaltbridge11">
+	<TEXT ID="dipsaltbridge11_one">
+	 <TEXTVALUE>एक और जोड़ने वाले तार का प्रयोग कर जिंक की पट्टी से वोल्टमीटर का निगेटिव टर्मिनल जोड़ें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge11_two">
+	 <TEXTVALUE>एक और जोड़ने वाले तार का प्रयोग कर जिंक की पट्टी से वोल्टमीटर का निगेटिव टर्मिनल जोड़ें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="chart9">
+	<TEXT ID="table_h1">
+	 <TEXTVALUE>ZnSO&#x2084;विलयन का सांद्रता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+	 <TEXTVALUE>CuSO&#x2084;विलयन का सांद्रता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+	 <TEXTVALUE>सेल का ई.एम.एफ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart9_one">
+	 <TEXTVALUE>इस मान से सेल का इलेक्ट्रो मोटिव बल मिलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart10">
+	<TEXT ID="line_1">
+	 <TEXTVALUE>अलग-अलग सांद्रता के
+	 	जिंक सल्फेट और कॉपर
+	  सल्फेट के विलयन लेकर 
+	  प्रयोग दोहराएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart10_one">
+	 <TEXTVALUE>अलग-अलग सांद्रता के जिंक सल्फेट और कॉपर सल्फेट के विलयन लेकर प्रयोग दोहराएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart12">
+	<TEXT ID="chart12_one">
+	 <TEXTVALUE>निरीक्षणों से यह स्पष्ट है कि एनोड (जिंक की इलेक्ट्रोड) के आसपास इलेक्ट्रोलाइट की सांद्रता में कमी आने से और कैथोड (कॉपर की इलेक्ट्रोड) के आसपास इलेक्ट्रोलाइट की सांद्रता में वृद्धि होने से सेल का ई.एम.एफ बढ़ जाता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+	 <TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+</DATA>
+

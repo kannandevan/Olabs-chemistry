@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="SeparateCompounds.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_AMMCLLBL">
+        <source>Separation of Ammonium chloride</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_AMMION">
+        <source>The  Ammonium chloride is separated by the process of sublimation.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_AMMONIUMCHLORIDE">
+        <source>Ammonium Chloride</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BACK">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BACKCLICK">
+        <source>Click back button for the separation of next compound in the mixture.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BTN1">
+        <source>Ammonium chloride</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_BTN2">
+        <source>Sand.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_BTN3">
+        <source>Salt.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CHINADISKTAKE">
+        <source>Click here to collect the compound in the china dish.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLCTFILTR">
+        <source>Click on the funnel to collect the residue.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICKFUNNEL">
+        <source>Click on the funnel to place it over the china dish.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICKFUNNEL2">
+        <source>Click here to collect the Ammonium chloride.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CLICKINFO">
+        <source>Click here to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_COLLECT3">
+        <source>Click on the china dish to collect the compound in it.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_COLLECT4">
+        <source>Collect the compound from china dish using spatula.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_COLLECT5">
+        <source>The collected compound is salt.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_COLLECTAMMONI">
+        <source>Collect the substance from the funnel by using a spatula.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_COLLECTFILTR">
+        <source>Click on the funnel to collect the residue.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_COLLECTSAND">
+        <source>The residue in the funnel will be collected in a watch glass using a spatula.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_COLLECTSAND1">
+        <source>The collected substance is sand.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EVAPOR">
+        <source>Click on the beaker to pour the filtrate into the china dish.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EVAPOVER">
+        <source>Wait till the evaporation of water in the china dish is complete.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXPSTEPS">
+        <source>Experiment steps</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_FILTERBEAKER">
+        <source>Click on the beaker to filter the contents of the beaker</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_FILTERSLN">
+        <source>Click here to filter the contents of the beaker</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_FIRST">
+        <source>This is ammonium chloride.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_INFER1">
+        <source>Ammonium Chloride  is separated by the process of sublimation, sand is separated by the process of filtration and salt is separated by the process of evaporation from the mixture.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_INFER123">
+        <source>Click on the back button to restart the experiment.</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_INFER1234">
+        <source>Click on the information icon to see the inference. </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_INFERENCE">
+        <source>Inference</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_INSTRUCTION">
+        <source>Click on the burner to switch on it.</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_INSTRUCTION_11">
+        <source>Click here to turn off the burner.</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_INSTRUCTION11">
+        <source>Click here for heating the mixture.</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_INTRO1">
+        <source>Introduction</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_INTRODUCTIONS">
+        <source>Instructions</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_MIXTUREPOUR">
+        <source>Click here to transfer the mixture into the beaker.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_POURBACK">
+        <source>Click here to pour the solution to the china dish.</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_POURW">
+        <source>Click here to pour the water to the sand.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_POURWATERMIX">
+        <source>Click the second beaker to pour the water to the mixture.</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_PROPERTIES">
+        <source>Properties</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_REDBTN">
+        <source>Click on the radio button to see the separation of particular compounds.</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_RESTART">
+        <source>All the compounds in the mixture are separated.The compounds are salt,sand and Ammonium chloride.
+
+
+
+Click the back button to restart the experiment</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_SALT">
+        <source>Salt</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_SALTSEP">
+        <source>Salt</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_SALTSEPRA">
+        <source>The salt is separated from the mixture by the process of evaporation.</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_SAND">
+        <source>Sand</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_SANDSEP">
+        <source>Sand.</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_SANDSEPRA">
+        <source>The sand is separated from the mixture by the process of filtration.</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_SEPOF">
+        <source>Separation of:</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_START">
+        <source>Turn On Burner</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_STIRHERE">
+        <source>Click here to stir the mixture.</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_STIRNOTE">
+        <source>Click on the beaker to stir the contents with a glass rod.</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_STOP">
+        <source>Turn Off Burner</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_SWITCHBURNER">
+        <source>Click on the burner to switch it on for heating.</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TAKECHINADISH">
+        <source>Click on the china dish to transfer the mixture into the beaker.</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_VARIABLES">
+        <source>Variables</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_WAITMSG">
+        <source>Wait till the white fumes rise in the funnel.</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_WAITMSG2">
+        <source>Wait till filtration gets over.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

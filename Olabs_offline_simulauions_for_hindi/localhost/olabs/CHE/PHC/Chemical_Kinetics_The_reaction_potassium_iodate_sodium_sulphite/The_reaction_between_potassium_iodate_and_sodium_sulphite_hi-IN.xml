@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Scene1">
+	<TEXT ID="title">
+	<TEXTVALUE>पोटेशियम आयोडेट और सोडियम सल्फाइट के बीच होने वाली अभिक्रिया पर गतिकी अध्ययन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग शुरू करने के लिए प्रारंभ बटन पर क्लिक करें |</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>आरंभ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>हमें चाहिए चार अलग-अलग शंक्वाकार कुप्पियों में 0.01 मोल KIO₃, आसुत जल, मापने वाला जार, 1 मोल H₂SO₄, स्टार्च का विलयन, 0.005 मोल Na₂SO₃, स्टॉंप - वॉच आदि |</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="PotassiumLbl_text">
+	<TEXTVALUE>0.01मोल पोटेशियम आयोडेट [KIO₃] का विलयन 2मि.ली.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_text">
+	<TEXTVALUE> 0.01मोल पोटेशियम आयोडेट [KIO₃] का विलयन 4 मि.ली.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textThree">
+	<TEXTVALUE>0.01मोल पोटेशियम आयोडेट [KIO₃] का विलयन 6 मि.ली.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textFour">
+	<TEXTVALUE>0.01मोल पोटेशियम आयोडेट [KIO₃] का विलयन 8 मि.ली.</TEXTVALUE>
+	</TEXT>
+	
+	   <TEXT ID="Distilled_text">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>  
+	
+	
+	 <TEXT ID="hso_text">
+	<TEXTVALUE>, 1 मोल H₂SO₄</TEXTVALUE>
+	</TEXT> 
+
+
+<TEXT ID="Starch_solutionText">
+	<TEXTVALUE>स्टार्च का विलयन</TEXTVALUE>
+	</TEXT> 
+	
+	<TEXT ID="Sodium_SulphiteText">
+	<TEXTVALUE>0.005 मोल Na₂SO₃</TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>चार अलग-अलग शंक्वाकार कुप्पियों क्रमश: A, B, C और D में 2, 4, 6 और 8 मि.ली. 0.01 मोल पोटेशियम आयोडेट का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>मापने वाले जार में 10 मि.ली. 1 मोल H₂SO₄ नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>और इसे कुप्पी A में डाल दें |</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>शेष तीन कुप्पियों के लिए भी यही प्रक्रिया दोहराएँ। </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flask_text">
+	<TEXTVALUE>कोई कुप्पी नहीं</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table2_text">
+	<TEXTVALUE> 0.01 मोल KIO₃ के विलयन की मात्रा (मिलीलीटर)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table3_text">
+	<TEXTVALUE>KIO₃ की मात्रा/1 (मिलीलीटर)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table4_text">
+	<TEXTVALUE>1 मोल  H₂SO₄(मि.ली.)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table5_text">
+	<TEXTVALUE>जल (मि.ली.)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table6_text">
+	<TEXTVALUE>स्टार्च का विलयन(मि.ली.)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table7_text">
+	<TEXTVALUE>0.005 मोल  H₂SO₄ (मि.ली.)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Table8_text">
+	<TEXTVALUE>नीला रंग आने में लगने वाला समय (t)</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>मापने वाले जार में 88 मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>विलयन की मात्रा 100 मि.ली. करने के लिए इसे कुप्पी A में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>विलयन की मात्रा 100 मि.ली. करने के लिए इसे कुप्पी A में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>इसके बाद मापने वाले जार में 86, 84 और 82 मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>विलयन की मात्रा 100 मि.ली. करने के लिए इसे कुप्पी B, C और D में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>विलयन की मात्रा 100 मि.ली. करने के लिए इसे कुप्पी B, C और D में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE> मापने वाले जार में 5मि.ली. स्टार्च का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>इसे कुप्पी Aमें डालें|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>शेष तीन कुप्पियों के लिए भी यही प्रक्रिया दोहराएँ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>10मि.ली. 0.005 मोल सोडियम सल्फाइट का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>इसे कुप्पी Aमें डालें</TEXTVALUE>
+	</TEXT>
+
+
+             <TEXT ID="Scene17_subtwo">
+	<TEXTVALUE>तुरंत ही स्टॉप वॉच चालू करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>नीला रंग आने के लिए विलयन देखते रहें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene18_subtwo">
+	<TEXTVALUE>जैसे ही नीला रंग दिखाई दे, समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE> B, C और D कुप्पियों में 10  मि.ली. 0.005 मोल सोडियम सल्फाइट मिलाकर प्रयोग दोहराएँ और प्रत्येक मामले में विलयन नीला होने में लगने वाला समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>कोटि के साथ-साथ KIO₃ की मात्रा/1 लेकर नीला रंग दिखाई देने में लगने वाले समय (t) के विरूद्ध KIO₃ की मात्रा/1 और भुज के साथ-साथ t के बीच ग्राफ बनाएं। इसे सीधी रेखा होना चाहिए।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="volText">
+	<TEXTVALUE> KIO₃ की मात्रा (मिलीलीटर)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>ग्राफ से यह स्पष्ट है कि पोटेशियम आयोडेट की सांद्रता में वृद्धि होने से पोटेशियम आयोडेट और सोडियम सल्फाइट के बीच अभिक्रिया की दर बढ़ जाती है ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="resultText">
+	<TEXTVALUE>पोटेशियम आयोडेट की सांद्रता में वृद्धि होने से अभिक्रिया की दर बढ़ जाती है</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_text">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

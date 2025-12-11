@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_head_1">
+		<TEXTVALUE>ആസിഡുകളുടേയും ആൽക്കലികളുടേയും ഗുണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_strt1_1">
+		<TEXTVALUE>തുടങ്ങുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>ആസിഡുകളുടേയും ആൽക്കലികളുടേയും ഗുണങ്ങൾ </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_1">
+		<TEXTVALUE>ആസിഡുകളുടേയും ആൽക്കലികളുടേയും ഗുണങ്ങൾ </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_22">
+		<TEXTVALUE>ലിറ്റ്മസ് ലായനി(നീല/ചുവപ്പ്)</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_zic_11">
+		<TEXTVALUE>സിങ്ക് ലോഹം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title2_sod1_2">
+		<TEXTVALUE>ഖര സോഡിയം കാർബണേറ്റ് </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="title3">
+	<TEXT ID="title3_one">
+		<TEXTVALUE> ഏതെങ്കിലും ഒന്ന്  ക്ലിക്ക് ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_titl_22">
+		<TEXTVALUE>ലിറ്റ്മസ് ലായനി(നീല/ചുവപ്പ്)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_a11_1">
+		<TEXTVALUE>ആസിഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_b11_1">
+		<TEXTVALUE>ആൽക്കലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_bak11_1">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="title004">
+	<TEXT ID="title004_one">
+		<TEXTVALUE> ഏതെങ്കിലും ഒന്ന്  ക്ലിക്ക് ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_zinc_11">
+		<TEXTVALUE>സിങ്ക് ലോഹം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa_11">
+		<TEXTVALUE>ആസിഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa__22">
+		<TEXTVALUE>ആൽക്കലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_bak_12">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+   
+</SCENE>
+<SCENE ID="title005">
+	<TEXT ID="title005_one">
+		<TEXTVALUE> ഏതെങ്കിലും ഒന്ന്  ക്ലിക്ക് ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_11">
+		<TEXTVALUE>ഖര സോഡിയം കാർബണേറ്റ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_21">
+		<TEXTVALUE>ആസിഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_12">
+		<TEXTVALUE>ആൽക്കലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_bb_13">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>നമുക്ക്ആവശ്യമുള്ളത് രണ്ട് ടെസ്ട്യുബുകൾ ടെസ്ട്യുബ്ഷെൽഫിൽ വെച്ചത്, ചുവപ്പും നീലയും ലിറ്റ്മസ് ലായനികൾ, ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനിയും ഒരു ഡ്രോപ്പറും എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_11">
+		<TEXTVALUE>ചുവപ്പ് 
+ലിറ്റ്മസ് ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_22">
+		<TEXTVALUE>നീല 
+ലിറ്റ്മസ് ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	<SCENE ID="2zoomsol">
+	<TEXT ID="2zoomsol_one">
+		<TEXTVALUE>ആദ്യം ചുവന്ന ലിറ്റ്മസ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+		
+		<SCENE ID="3testtubil">
+	<TEXT ID="3testtubil_one">
+		<TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് ലായനി ഒരു ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+			<SCENE ID="4redback">
+	<TEXT ID="4redback_one">
+		<TEXTVALUE>പാത്രം പുനർ ആവർത്തനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+			<SCENE ID="5blue">
+	<TEXT ID="5blue_one">
+		<TEXTVALUE>നീല ലിറ്റ്മസ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+	<SCENE ID="6bluflo">
+	<TEXT ID="6bluflo_one">
+		<TEXTVALUE>നീല ലിറ്റ്മസ് ലായനി വേറൊരു  ടെസ്ട്യുബിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="7bluebak">
+	<TEXT ID="7bluebak_one">
+		<TEXTVALUE>പാത്രം പുനർ ആവർത്തനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="8hcl">
+	<TEXT ID="8hcl_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും ഏതാനും തുള്ളി  ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		<SCENE ID="9addto1">
+	<TEXT ID="9addto1_one">
+		<TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് ലായനി  അടങ്ങിയ ടെസ്ട്യുബിലേക്ക്  ഇത് ചേർക്കുക </TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+<SCENE ID="9azoom">
+	<TEXT ID="9azoom_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം സ്ഥിരമായി നിലനിൽക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	<SCENE ID="10hcl2">
+	<TEXT ID="10hcl2_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും കൂടുതൽ  തുള്ളി  ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+<SCENE ID="11addto2">
+	<TEXT ID="11addto2_one">
+		<TEXTVALUE>നീല ലിറ്റ്മസ് ലായനി അടങ്ങിയ ടെസ്ട്യുബിലേക്ക്  ഇത് ചേർക്കുക. നിറം മാറുന്നത് രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12change">
+	<TEXT ID="12change_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം നീലയിൽ നിന്ന് മാറി  ചുവപ്പ് ആകുന്നു. ഹൈഡ്രോക്ലോറിക് ആസിഡ് ഒരു ആസിഡ് ആണ് ഇതിന്റെ  PH മൂല്യം 7 ൽ കുറവാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12change_ac_23">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="14intro">
+	<TEXT ID="14intro_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് -രണ്ട് ടെസ്ട്യുബുകൾ ടെസ്ട്യുബ്ഷെൽഫിൽ വെച്ചത്, ലായനികൾ, സോഡിയം ഹൈഡ്രോക്സൈഡ്  ലായനിയും ഒരു ഡ്രോപ്പറും എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="15zoomso">
+	<TEXT ID="15zoomso_one">
+		<TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് ലായനി ആദ്യം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="16testtubil">
+	<TEXT ID="16testtubil_one">
+		<TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് ലായനി ഒരു  ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="17redback">
+	<TEXT ID="17redback_one">
+		<TEXTVALUE>പാത്രം പുനർ ആവർത്തനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+		 
+</SCENE>
+<SCENE ID="18blue">
+	<TEXT ID="18blue_one">
+		<TEXTVALUE>നീല ലിറ്റ്മസ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="19bluflo">
+	<TEXT ID="19bluflo_one">
+		<TEXTVALUE>നീല ലിറ്റ്മസ് ലായനി വേറൊരു   ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="20bluebak">
+	<TEXT ID="20bluebak_one">
+		<TEXTVALUE>പാത്രം പുനർ ആവർത്തനം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="21NAOH">
+	<TEXT ID="21NAOH_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും ഏതാനും  തുള്ളി സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ആസിഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22addt0">
+	<TEXT ID="22addt0_one">
+		<TEXTVALUE>ചുവപ്പ്  ലിറ്റ്മസ് ലായനി അടങ്ങിയ  ടെസ്ട്യുബിലേക്ക് ഇത് ചേർക്കുക. നിറം മാറുന്നത് രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change1">
+	<TEXT ID="25change1_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം മാറി ചുവപ്പിൽ നിന്ന് നീലയാകുന്നു. സോഡിയം ഹൈഡ്രോക്സൈഡ് ഒരു ആൽക്കലിയാണ് PH മൂല്യം7 ൽ കൂടുതലാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="23NAOH">
+	<TEXT ID="23NAOH_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച്  കുപ്പിയിൽ നിന്ന് കൂടുതൽ തുള്ളി സോഡിയം ഹൈഡ്രോക്സൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="24addto2">
+	<TEXT ID="24addto2_one">
+		<TEXTVALUE>നീല  ലിറ്റ്മസ് ലായനി അടങ്ങിയ ടെസ്ട്യുബിലേക്ക് ഇത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change">
+	<TEXT ID="25change_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം സ്ഥിരമായി നിൽക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="25change_bah_11">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1intro2">
+	<TEXT ID="1intro2_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് ടെസ്ട്യുബ്, നിരീക്ഷണഗ്ലാസ്സിലെ സിങ്ക് മെറ്റൽ, സ്പാറ്റുല, ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി, ഡ്രോപ്പർ, ഘടിപ്പിച്ച സ്റ്റാൻഡ്, ഒറ്റ സുഷിരമുള്ള കോർക്ക്, ഒരു ജെറ്റ് ട്യുബ്, ബൻസൺബർണർ, തീപ്പെട്ടിക്കൊള്ളി എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro2_zn_11">
+		<TEXTVALUE>സിങ്ക് ലോഹം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3takezinc">
+	<TEXT ID="3takezinc_one">
+		<TEXTVALUE>സ്പാറ്റുല  ഉപയോഗിച്ച് കുറച്ച് സിങ്ക് ലോഹം നിരീക്ഷണഗ്ലാസ്സിൽ നിന്ന് ടെസ്ട്യുബിലേക്ക് മാറ്റുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4hcl1">
+	<TEXT ID="4hcl1_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും ഏതാനും  തുള്ളി  ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow">
+	<TEXT ID="5flow_one">
+		<TEXTVALUE>സിങ്ക് ലോഹം അടങ്ങിയടെസ്ട്യുബിലേക്ക് ഇത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand">
+	<TEXT ID="6stand_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് സ്റ്റാൻഡും കോർക്കുമായി ഘടിപ്പിക്കുക, കോർക്കിലൂടെ ജെറ്റ് ട്യുബ്   കടത്തുക, ഇപ്പോൾ ഒരു ടെസ്ട്യുബ് താഴേക്ക് കൊണ്ടുവന്ന് ബൻസൺബർണറിന് മുകളിൽ പിടിച്ച് ചൂടാക്കുക, ഹൈഡ്രജൻവാതകം ചൂടാക്കുമ്പോൾ ഉരുത്തിരിയുന്നു.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_h2_2">
+		<TEXTVALUE>H2 വാതകം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_fjt_11">
+		<TEXTVALUE>ഫൈൻ ജെറ്റ്
+ട്യൂബ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7teepati">
+	<TEXT ID="7teepati_one">
+		<TEXTVALUE>ഒരു തീപ്പെട്ടി എടുക്കുക, തീപ്പെട്ടിക്കൊള്ളി കത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8zoomstand">
+	<TEXT ID="8zoomstand_one">
+		<TEXTVALUE>ജെറ്റ് ട്യുബിന്റെ  വായ്ഭാഗത്തിനടുത്തേക്ക് ഒരു കത്തിച്ച തീപ്പെട്ടി ക്കൊള്ളി കൊണ്ടുവരുക, തീജ്വാല ആളികത്തുന്നത് മൂലം ഹൈഡ്രജൻ വാതകം പുറത്തേക്ക് വരുന്നു. അപ്പോൾ ഒരു ചെറിയസ്ഫോടനത്തോടെയുള്ള ശബ്ദംകൊണ്ട് ജ്വാല മങ്ങുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bcd_01">
+		<TEXTVALUE>ഹൈഡ്രോജെൻ വാതകം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bv_11">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="1intro02">
+	<TEXT ID="1intro02_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് അടിഭാഗം  പരന്ന ഫ്ലാസ്ക്, ഒരു സ്റ്റാൻഡ്, തിസിൽ ഫണൽ, ബന്ധിപ്പിക്കന്ന ഗ്ലാസ്‌ട്യുബ്, ബീക്കറിൽ ശുദ്ധീകരിച്ച ജലം, ഘടിപ്പിച്ച സ്റ്റാൻഡ്, ഗ്ലാസ്സിൽ കുറച്ച് സോഡിയം കാർബണേറ്റ്, ഇരട്ട സുഷിരമുള്ള കോർക്ക്, സ്പാറ്റുല, ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി, ഒരു ബീക്കറിൽ  ഡ്രോപ്പറും നാരങ്ങാലായനിയും എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takezinc1">
+	<TEXT ID="3takezinc1_one">
+		<TEXTVALUE>സ്പാറ്റുല  ഉപയോഗിച്ച് കുറച്ച് സിങ്ക് ലോഹം നിരീക്ഷണഗ്ലാസ്സിൽ നിന്ന് ടെസ്ട്യുബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4naoh">
+	<TEXT ID="4naoh_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും ഏതാനും  തുള്ളി സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ആസിഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow1">
+	<TEXT ID="5flow1_one">
+		<TEXTVALUE>സിങ്ക് ലോഹം അടങ്ങിയ ടെസ്ട്യുബിലേക്ക്  ഇത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand1">
+	<TEXT ID="6stand1_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് സ്റ്റാൻഡും കോർക്കുമായി ഘടിപ്പിക്കുക, കോർക്കിലൂടെ ജെറ്റ് ട്യുബ് കടത്തുക, ഇപ്പോൾ ഒരു ടെസ്ട്യുബ് താഴേക്ക് കൊണ്ടുവന്ന് ബൻസൺബർണറിന് മുകളിൽ പിടിച്ച് ചൂടാക്കുക, ഹൈഡ്രജൻവാതകം ചൂടാക്കുമ്പോൾ ഉരുത്തിരിയുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="7teepat1">
+	<TEXT ID="7teepat1_one">
+		<TEXTVALUE>ഒരു തീപ്പെട്ടി എടുക്കുക, തീപ്പെട്ടിക്കൊള്ളി കത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="8zoomstand11">
+	<TEXT ID="8zoomstand11_one">
+		<TEXTVALUE>ജെറ്റ് ട്യുബിന്റെ  വായ്ഭാഗത്തിനടുത്തേക്ക് ഒരു കത്തിച്ച തീപ്പെട്ടി ക്കൊള്ളി കൊണ്ടുവരുക, തീജ്വാല ആളികത്തുന്നത് മൂലം ഹൈഡ്രജൻ വാതകം പുറത്തേക്ക് വരുന്നു. അപ്പോൾ ഒരു ചെറിയസ്ഫോടനത്തോടെയുള്ള ശബ്ദംകൊണ്ട് ജ്വാല മങ്ങുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand11_bb_44">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="1intro03">
+	<TEXT ID="1intro03_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് അടിഭാഗം  പരന്ന ഫ്ലാസ്ക്, ഒരു സ്റ്റാൻഡ്, തിസിൽ ഫണൽ, ബന്ധിപ്പിക്കന്ന ഗ്ലാസ്‌ട്യുബ്, ബീക്കറിൽ ശുദ്ധീകരിച്ച ജലം, ഘടിപ്പിച്ച സ്റ്റാൻഡ്, ഗ്ലാസ്സിൽ കുറച്ച് സോഡിയം കാർബണേറ്റ്, ഇരട്ട സുഷിരമുള്ള കോർക്ക്, സ്പാറ്റുല, ഹൈഡ്രോക്ലോറിക് ആസിഡ് ലായനി, ഒരു ബീക്കറിൽ  ഡ്രോപ്പറും നാരങ്ങാലായനിയും എന്നിവയാണ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2placeit">
+	<TEXT ID="2placeit_one">
+		<TEXTVALUE>അടിപരന്ന ഫ്ലാസ്ക്  സ്റ്റാൻഡുമായി ഘടിപ്പിക്കുക, ഫ്ലാസ്കിന്റെ വായ്ഭാഗത്ത് വെച്ച് ബന്ധിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="3takesodium">
+	<TEXT ID="3takesodium_one">
+		<TEXTVALUE>സ്പാറ്റുല  ഉപയോഗിച്ച് കുറച്ച് സോഡിയം കാർബണേറ്റ്  നിരീക്ഷണഗ്ലാസ്സിൽ നിന്നും എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_soda_11">
+		<TEXTVALUE>സോഡിയം 
+കാർബണേറ്റ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_limewat_1">
+		<TEXTVALUE>നാരങ്ങ 
+വെള്ളം</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="3takesodium_dw_11">
+		<TEXTVALUE>നാരങ്ങ 
+വെള്ളം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="4putit">
+	<TEXT ID="4putit_one">
+		<TEXTVALUE>അടിപരന്ന ഫ്ലാസ്കിലേക്ക് ഇത് ഇടുക.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="5dist">
+	<TEXT ID="5dist_one">
+		<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6flo">
+	<TEXT ID="6flo_one">
+		<TEXTVALUE>അടിപരന്ന ഫ്ലാസ്കിലേക്ക് ഇത് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7corck">
+	<TEXT ID="7corck_one">
+		<TEXTVALUE>ഫ്ലാസ്ക്  ഒരു ഇരട്ട സുഷിരമുള്ള കോർക്ക്  കൊണ്ട്  അടയ്ക്കുക.ഒരു തിസിൽ ഫണൽ കോർക്കിന്റെ ഒരു സുഷിരത്തിലൂടെ ഫ്ലാസ്കിലേക്ക്  കടത്തുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="7corck_tf_11">
+		<TEXTVALUE>തിസിൽ
+ഫണൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8lime">
+	<TEXT ID="8lime_one">
+		<TEXTVALUE>നാരങ്ങാ വെള്ളം  അടങ്ങിയ ബീക്കർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8lime_lw_12">
+		<TEXTVALUE>നാരങ്ങാ വെള്ളം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="9corck2">
+	<TEXT ID="9corck2_one">
+		<TEXTVALUE>കോർക്കിലെ സുഷിരത്തിലൂടെ അടിപരന്ന ഫ്ലാസ്കിലേക്ക് ബന്ധിപ്പിക്കുന്ന ട്യുബിന്റെ ഒരറ്റം ശ്രദ്ധാപൂർവ്വം നിവേശിപ്പിക്കുക. ഫ്ലാസ്കിലെ ലായനിയിൽ ട്യുബ് തട്ടുന്നില്ല എന്ന് ഉറപ്പ് വരുത്തുക. അതിന്റെ അടുത്ത അറ്റം നാരങ്ങാവെള്ളം അടങ്ങിയ ബീക്കറിലേക്ക് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9corck2_dt_1">
+		<TEXTVALUE>ഡെലിവറി ട്യൂബ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="81HCL">
+	<TEXT ID="81HCL_one">
+		<TEXTVALUE>ഹൈഡ്രോക്ലോറിക് ആസിഡ് അടങ്ങിയ ബീക്കർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11zoom">
+	<TEXT ID="11zoom_one">
+		<TEXTVALUE>തിസിൽ ഫണലിലൂടെ അടിപരന്ന ഫ്ലാസ്കിലേക്ക് ഇത് കുറച്ച് ഒഴിക്കുക.ഒരു വാതകം വേർതിരിയുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE><SCENE ID="11zoom2">
+	<TEXT ID="11zoom2_one">
+		<TEXTVALUE>ബീക്കറലെ നാരങ്ങാ വെള്ളം പാൽ നിറമാകുന്നത് നിങ്ങളുടെ ശ്രദ്ധയിൽ പെടുന്നു. വേർതിരിഞ്ഞ വാതകം Co&#8322; നാരങ്ങാ വെള്ളം പാൽ നിറമാകുന്നു.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11zoom2_bbaa_11">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1intro04">
+	<TEXT ID="1intro04_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യം  ഒരുടെസ്ട്യുബ്, ടെസ്ട്യുബ് ഷെൽഫ്, നിരീക്ഷണഗ്ലാസിൽ കുറച്ച് സോഡിയം കാർബണേറ്റ്, സ്പാറ്റുല, സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി, ഫിനോഫ്തലീൻ ലായനിഎന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro04_pleem_11">
+		<TEXTVALUE>ഫിനൊഫ്തലീൻ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="tube">
+	<TEXT ID="tube_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് എടുക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium3">
+	<TEXT ID="3takesodium3_one">
+		<TEXTVALUE>സ്പാറ്റുല  ഉപയോഗിച്ച് കുറച്ച് സോഡിയം കാർബണേറ്റ്  നിരീക്ഷണഗ്ലാസ്സിൽ നിന്നും എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit2">
+	<TEXT ID="4putit2_one">
+		<TEXTVALUE>മിശ്രിതം ടെസ്ട്യുബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8naoch">
+	<TEXT ID="8naoch_one">
+		<TEXTVALUE>സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom6">
+	<TEXT ID="11zoom6_one">
+		<TEXTVALUE>കുറച്ച് ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+
+<SCENE ID="11zoom61">
+	<TEXT ID="11zoom61_one">
+		<TEXTVALUE>ടെസ്ട്യുബ് നന്നായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുപ്പിയിൽ നിന്നും ഏതാനും  തുള്ളി ഫിനോഫ്തലീൻ  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colour">
+	<TEXT ID="colour_one">
+		<TEXTVALUE>ടെസ്ട്യുബിലേക്ക് ഏതാനും തുള്ളി ഒഴിക്കുക നിറം മാറ്റം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colou2">
+	<TEXT ID="colou2_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം പിങ്ക് ആയി മാറുന്നു.സോഡിയവും Na&#8322;Co&#8323; സോഡിയം ഹൈഡ്രോക്സൈഡും ആൽക്കലികളാണ്. അതുകൊണ്ട് അവ പ്രവർത്തിക്കുകയില്ല, എന്നാൽ ആൽക്കലൈൻ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="colou2_last_b1">
+		<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+</DATA>

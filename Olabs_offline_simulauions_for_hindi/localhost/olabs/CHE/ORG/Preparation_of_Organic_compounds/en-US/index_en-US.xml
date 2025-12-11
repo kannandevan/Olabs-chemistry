@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ACETANILIDE">
+        <source>Acetanilide</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ACETICACID">
+        <source>Acetic acid</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ACETICANHYDRIDE">
+        <source>Acetic anhydride </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ACETONE">
+        <source>Acetone</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ANILINE">
+        <source>Aniline</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BACK">
+        <source>&lt;&lt; Back</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BENZALDEHYDE">
+        <source>Benzaldehyde</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_COLDWATER">
+        <source>Cold water</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRUSHED_ICE">
+        <source>Crushed ice</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DIBENZALACETONE">
+        <source>Dibenzal acetone</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_ETHANOL">
+        <source>Ethanol</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_FILTERPAPER">
+        <source>Filter paper</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FUMINGNITRICACID">
+        <source>Fuming nitric acid</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_GLACIALACETICACID">
+        <source>Glacial Acetic acid</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_HYDROCLORICACID">
+        <source>Conc.Hydrochloric Acid</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ICE">
+        <source>Ice</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_ICEBOX">
+        <source>Freezing mixture</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_ICECOLDWATER">
+        <source>Ice cold water</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_METHYLATEDSPRIT">
+        <source>methylated spirit</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MINUTES">
+        <source>10 minutes</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MODE">
+        <source>Mode</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_NAOH">
+        <source>10% NaOH</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAPHTHOL">
+        <source>2-naphthol</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_NAPHTHOLANILINEDYE">
+        <source>2-Naphthol aniline dye</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_NITROACETANILIDE">
+        <source>p-Nitroacetanilide </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_ORGANICCOMPOUND">
+        <source>Preparation of Organic compounds</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_PREP_ACETANILIDE">
+        <source>Preparation of Acetanilide</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_PREP_NITROACETAILIDE">
+        <source>Preparation of p-Nitroacetanilide</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_PREPARATIONDIBENZAL">
+        <source>Preparation of Dibenzal acetone </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_PREPARATIONNAPHTHOL">
+        <source>Preparation of 2-Naphthol Aniline dye</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_PREPARATIONORGANICCOMPOUND">
+        <source>Preparation of Organic Compounds</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_RECRYSTALLIZATION">
+        <source>Recrystallization of  p-nitroacetanilide</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_RECTIFIEDSPRIT">
+        <source>Rectified Spirit</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_SODIUMNITRITE">
+        <source>sodium nitrite</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SULPHURICACID">
+        <source> Conc. Sulphuric acid </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_TARE">
+        <source>Tare</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_WATERCONDENSER">
+        <source>Water Condenser</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

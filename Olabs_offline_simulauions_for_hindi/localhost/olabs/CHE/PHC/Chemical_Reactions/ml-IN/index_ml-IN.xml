@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_AQUEOUSSOLUTION">
+        <source>കോപ്പർസൾഫേറ്റിൻ്റെ ജലീയലായനിയും ഇരുമ്പാണിയും തമ്മിലുള്ള പ്രവർത്തനം .
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;പുറകോട്ട്
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BARIUMCHLORIDE">
+        <source>ബേരിയം ക്ലോറൈഡ്        
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BARIUMSULPHATE">
+        <source>ബേരിയം സൾഫേറ്റ്
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_BEAKER">
+        <source>ബീക്കർ
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BLUELIMTUSPAPER">
+        <source>നീല ലിറ്റ്മസ് പേപ്പർ
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BROWNCOATING">
+        <source>തവിട്ട് നിറത്തിലുള്ള ആവരണം
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_BURNINGMAGNESIUMAIR">
+        <source>വായുവിലെ 
+മഗ്നീഷൃത്തിൻ്റെ  കത്തൽ
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_COPPERSULPHATE">
+        <source>കോപ്പർസൾഫേറ്റ് 
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_COPPERSULPHATESOLUTION">
+        <source>കോപ്പർസൾഫേറ്റ് ലായനി
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_CORK">
+        <source>കോർക്ക്
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DAZZLINGFLAME">
+        <source>ഉജ്ജ്വലമായ ജ്വാല
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>നേർപ്പിച്ച സൾഫൃൂറിക് ആസിഡ്.
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ശുദ്ധീകരിച്ച ജലം
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERROUSSULPHAT">
+        <source>ഫെറസ് സൾഫേറ്റ്
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_GLASSROD">
+        <source>ഗ്ലാസ്സ് റോഡ് 
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GLASSTUBE">
+        <source>ഗ്ലാസ്സ്  ടൃൂബ്
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_HEATINGCOPPERSULPHATE">
+        <source>ജലാംശീകരിച്ച കോപ്പർ സൾഫേറ്റിൻ്റെ ചൂടാക്കൽ 
+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IRONNAILS">
+        <source>ഇരുമ്പാണികൾ
+</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>കിപ്പ്സ് ഉപകരണം
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MAGNESIUMOXIDE">
+        <source>മഗ്നീഷൃം ഓക്സൈഡ്
+</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_MAGNESIUMRIBBON">
+        <source>മഗ്നീഷൃം റിബ്ബൺ
+</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MAINTITLE">
+        <source>രാസപ്രവർത്തനങ്ങൾ</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MOISTREDLITMUSPAPER">
+        <source>ഈർപ്പമുള്ള ചുവന്ന ലിറ്റ്മസ് പേപ്പർ.
+</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAIL">
+        <source>ആണി
+</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_REACTIONAQUEOUS">
+        <source>ജലീയലായനിയുടെ Na₂SO₄ &amp; BaCl₂ൻ്റേയും ഇടയ്ക്കുള്ള പ്രവർത്തനം 
+</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_REACTIONIRONNAIL_COPPERSULPHATE">
+        <source>കോപ്പർസൾഫേറ്റും ഇരുമ്പാണിയും തമ്മിലുള്ള പ്രവർത്തനം 
+</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_REDLITMUSPAPER">
+        <source>ചുവന്ന ലിറ്റ്മസ് പേപ്പർ
+</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_REFERENCE">
+        <source>പരാമർശം 
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_SANDPAPER">
+        <source>സാൻഡ് പേപ്പർ
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_SODIUMSULPHATE">
+        <source>സോഡിയം സൾഫേറ്റ് 
+</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_SODIUMSULPHATE_BARIUMCHLORIDE">
+        <source>സോഡിയം സൾഫേറ്റും ബേരിയം ക്ലോറൈഡും
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക.
+</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_TESTTUBESTAND">
+        <source>ടെസ്റ്റൃൂബ് സ്റ്റാൻഡ് 
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_THREAD">
+        <source>നൂല് 
+</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_TITLE">
+        <source>രാസപ്രവർത്തനങ്ങൾ
+</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_ZINC_SULPHURIC_ACID">
+        <source>ജലീയലായനിയുടെ പ്രവർത്തനങ്ങൾക്കിടയിൽ 
+</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_ZINC_SULPHURICTITLE">
+        <source>സിങ്കും നേർപ്പിച്ച സൾഫൃൂറിക് ആസിഡും തമ്മിലുള്ള പ്രവർത്തനം.
+</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_ZINCMETAL">
+        <source>സിങ്ക് ലോഹം
+</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_ZINCSULPHATE">
+        <source>സിങ്ക് സൾഫേറ്റ്
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

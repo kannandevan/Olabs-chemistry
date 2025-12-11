@@ -1,0 +1,1010 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+
+
+
+<SCENE ID="TitleCarbohy">
+	<TEXT ID="TitleCarbohy_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="3buttonsSolubility">
+	<TEXT ID="3buttonsSolubility_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3buttonsMolisch">
+	<TEXT ID="3buttonsMolisch_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3buttonsFehling">
+	<TEXT ID="3buttonsFehling_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3buttonsBenedict">
+	<TEXT ID="3buttonsBenedict_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3buttonsIodine">
+	<TEXT ID="3buttonsIodine_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE><SCENE ID="3buttonsTollen">
+	<TEXT ID="3buttonsTollen_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="6buttonsCarbo">
+	<TEXT ID="6buttonsCarbo_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+	
+<SCENE ID="Xantho">
+	<TEXT ID="Xantho_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Ninhydrin">
+	<TEXT ID="Ninhydrin_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="millons">
+	<TEXT ID="millons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene4copy">
+	<TEXT ID="Scene4copy_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60copy">
+	<TEXT ID="Scene60copy_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60copycopy">
+	<TEXT ID="Scene60copycopy_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="GlucoseSoluble">
+	<TEXT ID="GlucoseSoluble_one">
+	<TEXTVALUE>Using a spatula take a small quantity of glucose and put this in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="GlucoseSoluble_two">
+	<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="GlucoseSoluble_three">
+	<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="GlucoseSoluble_four">
+	<TEXTVALUE>Glucose completely dissolves in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SucroseSoluble">
+	<TEXT ID="SucroseSoluble_one">
+	<TEXTVALUE>Using a spatula take a small quantity of sucrose and put this in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SucroseSoluble_two">
+	<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SucroseSoluble_three">
+	<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SucroseSoluble_four">
+	<TEXTVALUE>Sucrose completely dissolves in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="StarchInSoluble">
+	<TEXT ID="StarchInSoluble_one">
+	<TEXTVALUE>Using a spatula take a small quantity of starch and put this in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StarchInSoluble_two">
+	<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StarchInSoluble_three">
+	<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StarchInSoluble_four">
+	<TEXTVALUE>Starch is insoluble in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="MolischTestGlu">
+	<TEXT ID="MolischTestGlu_one">
+	<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestGlu_two">
+	<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestGlu_three">
+	<TEXTVALUE>Using a dropper take few drops s.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestGlu_four">
+	<TEXTVALUE>Add it slowly along the side of the test tube, without mixing. Two layers will form.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestGlu_five">
+	<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MolischTestSucro">
+	<TEXT ID="MolischTestSucro_one">
+	<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestSucro_two">
+	<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestSucro_three">
+	<TEXTVALUE>Using a dropper take few drops Conc. Sulphuric acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestSucro_four">
+	<TEXTVALUE>Add it slowly along the side of the test tube, without mixing. Two layers will form.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestSucro_five">
+	<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MolischTestStarch">
+	<TEXT ID="MolischTestStarch_one">
+	<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestStarch_two">
+	<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml aqueous solution of starch.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestStarch_three">
+	<TEXTVALUE>Using a dropper take few drops Conc. Sulphuric acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestStarch_four">
+	<TEXTVALUE>Add it slowly along the side of the test tube, without mixing. Two layers will form.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MolischTestStarch_five">
+	<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FehlingsTestGlu">
+	<TEXT ID="FehlingsTestGlu_one">
+	<TEXTVALUE>Take 2 ml of Fehling’s solution A using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestGlu_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of glucose taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestGlu_three">
+	<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns deep blue colour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestGlu_four">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestGlu_five">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestGlu_six">
+	<TEXTVALUE>A reddish precipitate is formed in the glucose solution, indicating the presence of reducing sugar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FehlingsTestSucro">
+	<TEXT ID="FehlingsTestSucro_one">
+	<TEXTVALUE>Take 2 ml of Fehling’s solution A using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestSucro_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of Sucrose taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestSucro_three">
+	<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns deep blue colour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestSucro_four">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestSucro_five">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestSucro_six">
+	<TEXTVALUE>The colour remains the same. The test is negative, indicating that sucrose is not a reducing sugar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FehlingsTestStarch">
+	<TEXT ID="FehlingsTestStarch_one">
+	<TEXTVALUE>Take 2 ml of Fehling’s solution A using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestStarch_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of starch taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestStarch_three">
+	<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns deep blue colour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestStarch_four">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestStarch_five">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FehlingsTestStarch_six">
+	<TEXTVALUE>The colour remains the same. The test is negative.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="BenedictsTestGlu">
+	<TEXT ID="BenedictsTestGlu_one">
+	<TEXTVALUE>Take 2ml of Benedict’s reagent in a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestGlu_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of glucose taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestGlu_three">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestGlu_four">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestGlu_five">
+	<TEXTVALUE>A reddish precipitate is formed in the glucose solution, indicating the presence of a reducing sugar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BenedictsTestSucro">
+	<TEXT ID="BenedictsTestSucro_one">
+	<TEXTVALUE>Take 2ml of Benedict’s reagent in a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestSucro_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of sucrose taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestSucro_three">
+	<TEXTVALUE>Now take the test tube using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestSucro_four">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestSucro_five">
+	<TEXTVALUE>The colour remains the same. The test is negative. Sucrose is not a reducing sugar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BenedictsTestStarch">
+	<TEXT ID="BenedictsTestStarch_one">
+	<TEXTVALUE>Take 2ml of Benedict’s reagent in a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestStarch_two">
+	<TEXTVALUE>Add it to 2ml aqueous solution of starch taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestStarch_three">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestStarch_four">
+	<TEXTVALUE>Place it in a boiling water bath.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenedictsTestStarch_five">
+	<TEXTVALUE>The colour remains the same. The test is negative. Starch does not contain reducing sugar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TollensTestGlu">
+	<TEXT ID="TollensTestGlu_one">
+	<TEXTVALUE>Take 2ml of Tollen’s reagent using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestGlu_two">
+	<TEXTVALUE>Add it to a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestGlu_three">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestGlu_four">
+	<TEXTVALUE>Place it in a boiling water bath and heat it for 10 min.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestGlu_five">
+	<TEXTVALUE>A shining silver mirror is formed indicating the presence of reducing carbohydrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TollensTestSucro">
+	<TEXT ID="TollensTestSucro_one">
+	<TEXTVALUE>Take 2ml of Tollen’s reagent using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestSucro_two">
+	<TEXTVALUE>Add it to a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestSucro_three">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestSucro_four">
+	<TEXTVALUE>Place it in a boiling water bath and heat it for 10 min.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestSucro_five">
+	<TEXTVALUE>There will be no characteristic change indicating the absence of reducing carbohydrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TollensTestStarch">
+	<TEXT ID="TollensTestStarch_one">
+	<TEXTVALUE>Take 2ml of Tollen’s reagent using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestStarch_two">
+	<TEXTVALUE>Add it into a test tube containing 2ml suspension of starch.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestStarch_three">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestStarch_four">
+	<TEXTVALUE>Place it in a boiling water bath and heat it for 10 min.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TollensTestStarch_five">
+	<TEXTVALUE>There will be no characteristic change indicating the absence of reducing carbohydrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="IodineTestGlu">
+	<TEXT ID="IodineTestGlu_one">
+	<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestGlu_two">
+	<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestGlu_three">
+	<TEXTVALUE>There will be no characteristic change, indicating the absence of starch.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IodineTestSucro">
+	<TEXT ID="IodineTestSucro_one">
+	<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestSucro_two">
+	<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestSucro_three">
+	<TEXTVALUE>There will be no characteristic change, indicating the absence of starch.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IodineTestStarch">
+	<TEXT ID="IodineTestStarch_one">
+	<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestStarch_two">
+	<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml suspension of starch.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IodineTestStarch_three">
+	<TEXTVALUE>The colour of the solution turns blue, indicating the presence of starch.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="int01sc">
+	<TEXT ID="int01sc_one">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="desigeetake">
+	<TEXT ID="desigeetake_one">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="desigetest">
+	<TEXT ID="desigetest_one">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water">
+	<TEXT ID="water_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestube">
+	<TEXT ID="intestube_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestube_two">
+	<TEXTVALUE>Desi ghee is immiscible in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="desigeetakealco">
+	<TEXT ID="desigeetakealco_one">
+	<TEXTVALUE>Now take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="desigetestalco">
+	<TEXT ID="desigetestalco_one">
+	<TEXTVALUE>Now take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alco">
+	<TEXT ID="alco_one">
+	<TEXTVALUE>Add 5ml alcohol in the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestubealco">
+	<TEXT ID="intestubealco_one">
+	<TEXTVALUE>Add 5ml alcohol in the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestubealco_two">
+	<TEXTVALUE>The ghee forms a lower layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="burnertestt">
+	<TEXT ID="burnertestt_one">
+	<TEXTVALUE>Heat the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="burnertestt_two">
+	<TEXTVALUE>The lower layer of ghee formed dissolves on heating.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorospac">
+	<TEXT ID="clorospac_one">
+	<TEXTVALUE>Again take a small amount of ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="desigetestalcloro">
+	<TEXT ID="desigetestalcloro_one">
+	<TEXTVALUE>Again take a small amount of ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorotake">
+	<TEXT ID="clorotake_one">
+	<TEXTVALUE>To this add 5ml chloroform.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorointest">
+	<TEXT ID="clorointest_one">
+	<TEXTVALUE>To this add 5ml chloroform.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clorointest_two">
+	<TEXTVALUE>Sample is miscible. Oil or fat is present.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="veggeetake">
+	<TEXT ID="veggeetake_one">
+	<TEXTVALUE>Take a small amount of vegetable ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegintest">
+	<TEXT ID="vegintest_one">
+	<TEXTVALUE>Take a small amount of vegetable ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterveg">
+	<TEXT ID="waterveg_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestubeveg">
+	<TEXT ID="intestubeveg_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestubeveg_two">
+	<TEXTVALUE>Vegetable ghee is immiscible in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="veggeetakealco">
+	<TEXT ID="veggeetakealco_one">
+	<TEXTVALUE>Take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegibnte">
+	<TEXT ID="vegibnte_one">
+	<TEXTVALUE>Take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alco copy">
+	<TEXT ID="alco copy_one">
+	<TEXTVALUE>Add 5ml of alcohol into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestubealcocopy">
+	<TEXT ID="intestubealcocopy_one">
+	<TEXTVALUE>Add 5ml of alcohol into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestubealcocopy_two">
+	<TEXTVALUE>The ghee forms a lower layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegresult">
+	<TEXT ID="vegresult_one">
+	<TEXTVALUE>Heat the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="vegresult_two">
+	<TEXTVALUE>The lower layer of ghee formed dissolves on heating.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="veggeetakecloro">
+	<TEXT ID="veggeetakecloro_one">
+	<TEXTVALUE>Again take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegibntecloro">
+	<TEXT ID="vegibntecloro_one">
+	<TEXTVALUE>Again take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorotakeveg">
+	<TEXT ID="clorotakeveg_one">
+	<TEXTVALUE>Add 5ml of chloroform to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorointestveg">
+	<TEXT ID="clorointestveg_one">
+	<TEXTVALUE>Add 5ml of chloroform to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clorointestveg_two">
+	<TEXTVALUE>The sample taken dissolves in chloroform.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegintro">
+	<TEXT ID="vegintro_one">
+	<TEXTVALUE>Take some refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegintrocopy">
+	<TEXT ID="vegintrocopy_one">
+	<TEXTVALUE>Take some refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testube">
+	<TEXT ID="testube_one">
+	<TEXTVALUE>Take some refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinoil">
+	<TEXT ID="waterinoil_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestubeoil">
+	<TEXT ID="intestubeoil_one">
+	<TEXTVALUE>Add 5ml water to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestubeoil_two">
+	<TEXTVALUE>Oil is immiscible in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="oilintroalco">
+	<TEXT ID="oilintroalco_one">
+	<TEXTVALUE>Take some refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testubealco">
+	<TEXT ID="testubealco_one">
+	<TEXTVALUE>Take some refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alcocopycopy">
+	<TEXT ID="alcocopycopy_one">
+	<TEXTVALUE>Add about 5ml of alcohol to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="oilalcohol">
+	<TEXT ID="oilalcohol_one">
+	<TEXTVALUE>Add about 5ml of alcohol to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="oilalcohol_two">
+	<TEXTVALUE>The oil forms a lower layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="vegresult01">
+	<TEXT ID="vegresult01_one">
+	<TEXTVALUE>Heat the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="vegresult_two">
+	<TEXTVALUE>The lower layer of oil formed dissolves on heating.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vegintrocopy01">
+	<TEXT ID="vegintrocopy01_one">
+	<TEXTVALUE>Again take some refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clorointestveg02">
+	<TEXT ID="clorointestveg02_one">
+	<TEXTVALUE>Add 5ml of chloroform to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clorointestveg02_two">
+	<TEXTVALUE>The oil taken dissolves in chloroform.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="TransluscentSpotTest">
+	<TEXT ID="TransluscentSpotTest_one">
+	<TEXTVALUE>Take a small amount of desi ghee using a spatula.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TransluscentSpotTest_two">
+	<TEXTVALUE>Put it on a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TransluscentSpotTest_three">
+	<TEXTVALUE>Then press the substance onto the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TransluscentSpotTest_four">
+	<TEXTVALUE>A transluscent spot appears on the filter paper indicating the presence of fat or oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Transluscentveg">
+	<TEXT ID="Transluscentveg_one">
+	<TEXTVALUE>Take a small amount of vegetable ghee using a spatula.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentveg_two">
+	<TEXTVALUE>Put it on a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentveg_three">
+	<TEXTVALUE>Then press the substance onto the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentveg_four">
+	<TEXTVALUE>Transluscent spot appears on the filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Transluscentoil">
+	<TEXT ID="Transluscentoil_one">
+	<TEXTVALUE>Take some refined oil using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentoil_two">
+	<TEXTVALUE>Drop a few drops on  a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentoil_three">
+	<TEXTVALUE>Then press the substance on the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Transluscentoil_four">
+	<TEXTVALUE>A transluscent spot appears on the filter paper indicating the presence of fat or oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Baudouin Test">
+	<TEXT ID="Baudouin Test_one">
+	<TEXTVALUE>Take some melted desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="consulphur">
+	<TEXT ID="consulphur_one">
+	<TEXTVALUE>Using a dropper add 5ml Conc. Sulphuric acid into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="furfurulsolutio">
+	<TEXT ID="furfurulsolutio_one">
+	<TEXTVALUE>Then add 3 drops of 2% furfural solution into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="furfurulsolutio_two">
+	<TEXTVALUE>Keep it aside for 5-10 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="furfurulsolutio_three">
+	<TEXTVALUE>There will be no characteristic change. Sesame oil is not present.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vanaspathi">
+	<TEXT ID="vanaspathi_one">
+	<TEXTVALUE>Take some melted vanspati ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="vanasconsulphur">
+	<TEXT ID="vanasconsulphur_one">
+	<TEXTVALUE>Using a dropper add 5ml Conc. Sulphuric acid into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="furfurulvans">
+	<TEXT ID="furfurulvans_one">
+	<TEXTVALUE>Then add 3 drops of 2% furfural solution into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result">
+	<TEXT ID="result_one">
+	<TEXTVALUE>Keep it aside for 5-10 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="result_two">
+	<TEXTVALUE>Rose red color appears if seasame oil is present.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseedintro">
+	<TEXT ID="cottonseedintro_one">
+	<TEXTVALUE>Take 3ml chloroform in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeoil">
+	<TEXT ID="takeoil_one">
+	<TEXTVALUE>Add 4 drops of cotton seed oil into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeoil_two">
+	<TEXTVALUE>Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hubles">
+	<TEXT ID="hubles_one">
+	<TEXTVALUE>Take some Huble’s reagent using a graduated pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intestubehubl">
+	<TEXT ID="intestubehubl_one">
+	<TEXTVALUE>Add 3 drops of Huble’s reagent into the test tube containing the mixture of chloroform and linseed oil.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intestubehubl_two">
+	<TEXTVALUE>The color of Huble’s reagent fade away.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linseedintro">
+	<TEXT ID="linseedintro_one">
+	<TEXTVALUE>Take 3ml chloroform in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linseedoiltake">
+	<TEXT ID="linseedoiltake_one">
+	<TEXTVALUE>Add 4 drops of linseed oil into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="linseedoiltake_two">
+	<TEXTVALUE>Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hublestake2">
+	<TEXT ID="hublestake2_one">
+	<TEXTVALUE>Take some Huble’s reagent using a graduated pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result2">
+	<TEXT ID="result2_one">
+	<TEXTVALUE>Add 3 drops of Huble’s reagent into the test tube containing the mixture of chloroform and cotton seed oil.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="result2_two">
+	<TEXTVALUE>The color of Huble’s reagent does not fade away.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Egg">
+	<TEXT ID="Egg_one">
+	<TEXTVALUE>Take some NaOH solution using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Egg_two">
+	<TEXTVALUE>Add it to an egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Egg_three">
+	<TEXTVALUE>Add few drops of 1% copper sulphate solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Heat">
+	<TEXT ID="Heat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Heat_two">
+	<TEXTVALUE>Heat the contents of the test tube over a burner for a few minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Heat_three">
+	<TEXTVALUE>A bluish violet colour is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="GelaTIN">
+	<TEXT ID="GelaTIN_one">
+	<TEXTVALUE>Take some NaOH solution using a plastic dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="GelaTIN_two">
+	<TEXTVALUE>Add it to a gelatin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="GelaTIN_three">
+	<TEXTVALUE>Add few drops of 1% copper sulphate solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Heatinggltn">
+	<TEXT ID="Heatinggltn_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Heatinggltn_two">
+	<TEXTVALUE>Heat the contents of the test tube over a burner for a few minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Heatinggltn_three">
+	<TEXTVALUE>A bluish violet colour is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="XanthoproteicEgg">
+	<TEXT ID="XanthoproteicEgg_one">
+	<TEXTVALUE>Take a few drops of conc. Nitric acid using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="XanthoproteicEgg_two">
+	<TEXTVALUE>Add it to an egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="xanthoegghaeat">
+	<TEXT ID="xanthoegghaeat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="xanthoegghaeat_two">
+	<TEXTVALUE>Heat the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="xanthoegghaeat_three">
+	<TEXTVALUE>A yellow precipitate is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="XanthoproteicGelatin">
+	<TEXT ID="XanthoproteicGelatin_one">
+	<TEXTVALUE>Take a few drops of conc. Nitric acid using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="XanthoproteicGelatin_two">
+	<TEXTVALUE>Add it to a gelatin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="xanthoGelatinHaeat">
+	<TEXT ID="xanthoGelatinHaeat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="xanthoGelatinHaeat_two">
+	<TEXTVALUE>Heat the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="xanthoGelatinHaeat_three">
+	<TEXTVALUE>A yellow precipitate is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="NinhydrinEgg">
+	<TEXT ID="NinhydrinEgg_one">
+	<TEXTVALUE>Take a few drops of Ninhydrin reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="NinhydrinEgg_two">
+	<TEXTVALUE>Add it to an egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Ninhydrinheat">
+	<TEXT ID="Ninhydrinheat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ninhydrinheat_two">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ninhydrinheat_three">
+	<TEXTVALUE>Intense blue color is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="NinhydrinGelatin">
+	<TEXT ID="NinhydrinGelatin_one">
+	<TEXTVALUE>Take a few drops of Ninhydrin reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="NinhydrinGelatin_two">
+	<TEXTVALUE>Add it to a gelatin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NinhydrinGelatinHeat">
+	<TEXT ID="NinhydrinGelatinHeat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="NinhydrinGelatinHeat_two">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="NinhydrinGelatinHeat_three">
+	<TEXTVALUE>Intense blue color is formed, indicating the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Millon’sEgg">
+	<TEXT ID="Millon’sEgg_one">
+	<TEXTVALUE>Take a few drops of Millon’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Millon’sEgg_two">
+	<TEXTVALUE>Add it to an egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Millon’sEgg_three">
+	<TEXTVALUE>A white precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Millon’sEggHeat">
+	<TEXT ID="Millon’sEggHeat_one">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Millon’sEggHeat_two">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Millon’sEggHeat_three">
+	<TEXTVALUE>White precipitate changes to brick red on boiling, confirming the presence of proteins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>

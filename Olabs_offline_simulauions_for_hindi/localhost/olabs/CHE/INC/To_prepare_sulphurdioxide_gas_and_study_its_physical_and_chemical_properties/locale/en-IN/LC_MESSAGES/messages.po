@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-10 15:17+0530\n"
+"PO-Revision-Date: 2025-10-10 15:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "Select the Physical property"
+msgstr "Select the Physical property"
+
+msgid "Click on the inferance button"
+msgstr "Click on the inferance button"
+
+msgid "Click on Next button to continue"
+msgstr "Click on Next button to continue"
+
+msgid "Click on the "Next" button to study its physical and chemical properties"
+msgstr "Click on the "Next" button to study its physical and chemical properties"
+
+msgid "HELP"
+msgstr "HELP"
+
+msgid "RESET"
+msgstr "RESET"
+
+msgid "MAXIMIZE"
+msgstr "MAXIMIZE"
+
+msgid "MINIMIZE"
+msgstr "MINIMIZE"
+
+msgid "Alert"
+msgstr "Alert"
+
+msgid "Do you want to reset the simulation"
+msgstr "Do you want to reset the simulation"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Developed by Amrita University Under research grant from <br>Ministry of Electronics and Information Technology"
+msgstr "Developed by Amrita University Under research grant from <br>Ministry of Electronics and Information Technology"
+
+msgid "Cu Turnings"
+msgstr "Cu Turnings"
+
+msgid "Click on Next button to continue"
+msgstr "Click on Next button to continue"
+
+msgid "Drag and drop wet blue litmus paper <br> to the jar filled with sulpher dioxide."
+msgstr "Drag and drop wet blue litmus paper <br> to the jar filled with sulpher dioxide."
+
+#: simcontrols.js:30
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Click on the "Next"<br>  button to study its physical<br>  and chemical properties."
+msgstr "Click on the "Next"<br>  button to study its physical<br>  and chemical properties."
+
+msgid "Turn off burner"
+msgstr "Turn off burner"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "RESET"
+msgstr "RESET"
+
+#: simcontrols.js:31
+msgid "1. Drag the spatula to take few pieces of copper turning and drop it into round bottom flask."
+msgstr "1. Drag the spatula to take few pieces of copper turning and drop it into round bottom flask."
+
+
+#: simcontrols.js:32
+msgid "2. Drag double bored cork and drop it into the mouth of the round bottom flask.<br> <br> 3.Drag the thistle funnel and drop it into one of the holes in the cork. <br> <br> 4. Drag the delivery tube and drop it into the second hole of the cork and connect other side of the delivery tube to the gas jar <br> <br> 5. Drag the dropper to take 15-20 mL conc. sulphuric acid from glass dropper bottle and drop to measuring cylinder. <br> <br> 6. Drag and drop measuring cylinder containing 15 - 20 mL of conc. sulphuric acid to round bottom flask through the thistle funnel. <br> <br> 7. Click on the burner to heat the contents. <br> <br> 8. Click off the burner. <br> <br> 9. Click on the Inference button <br> <br> 10. Click on the 'Next' button to study its physical and chemical properties."
+msgstr "2. Drag double bored cork and drop it into the mouth of the round bottom flask.<br> <br> 3.Drag the thistle funnel and drop it into one of the holes in the cork. <br> <br> 4. Drag the delivery tube and drop it into the second hole of the cork and connect other side of the delivery tube to the gas jar <br> <br> 5. Drag the dropper to take 15-20 mL conc. sulphuric acid from glass dropper bottle and drop to measuring cylinder. <br> <br> 6. Drag and drop measuring cylinder containing 15 - 20 mL of conc. sulphuric acid to round bottom flask through the thistle funnel. <br> <br> 7. Click on the burner to heat the contents. <br> <br> 8. Click off the burner. <br> <br> 9. Click on the Inference button <br> <br> 10. Click on the 'Next' button to study its physical and chemical properties."
+
+#: simcontrols.js:33
+msgid "Select Physical Property"
+msgstr "Select Physical Property"
+
+#: simcontrols.js:34
+msgid "Select Chemical Property"
+msgstr "Select Chemical Property"
+
+#: simcontrols.js:35 simcontrols.js:36 simcontrols.js:37 simcontrols.js:38
+msgid "Next"
+msgstr "Next"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+#: simcontrols.js:40
+msgid "Colour"
+msgstr "Colour"
+
+#: simcontrols.js:40
+msgid "Solubility in Water"
+msgstr "Solubility in Water"
+
+#: simcontrols.js:41
+msgid "Acidic or Basic nature"
+msgstr "Acidic or Basic nature"
+
+#: simcontrols.js:41
+msgid "Reaction with potassium <br> permanganate solution"
+msgstr "Reaction with potassium <br> permanganate solution"
+
+#: simcontrols.js:41
+msgid "Reaction with potassium <br> dichromate solution"
+msgstr "Reaction with potassium <br> dichromate solution"
+
+#: simcontrols.js:42
+msgid "SO<sub>2</sub> gas is formed inside gas jar."
+msgstr "SO<sub>2</sub> gas is formed inside gas jar."
+
+#: simcontrols.js:43
+msgid "SO<sub>2</sub> is Colourless"
+msgstr "SO<sub>2</sub> is Colourless"
+
+#: simcontrols.js:44
+msgid "SO<sub>2</sub> dissolves in water to form sulphurous acid due to which <br> it possesses an acidic character."
+msgstr "SO<sub>2</sub> dissolves in water to form sulphurous acid due to which <br> it possesses an acidic character."
+
+#: simcontrols.js:45
+msgid "Red litmus has no change."
+msgstr "Red litmus has no change."
+
+#: simcontrols.js:46
+msgid "Blue litmus changes to red colour"
+msgstr "Blue litmus changes to red colour"
+
+#: simcontrols.js:47
+msgid "Sulphur dioxide being a strong <br>reducing agent, reduces <br>the purple coloured solution<br> to form a colourless solution."
+msgstr "Sulphur dioxide being a strong <br>reducing agent, reduces <br>the purple coloured solution<br> to form a colourless solution."
+
+#: simcontrols.js:48
+msgid "SO<sub>2</sub>​+K<sub>2​</sub>Cr<sub>2​</sub>O<sub>7</sub>​+3H<sub>2</sub>​SO<sub>4​</sub>→K<sub>2​</sub>SO<sub>4​</sub>+Cr<sub>2​</sub>(SO<sub>4​</sub>)3​+3H<sub>2</sub>​O"
+msgstr "SO<sub>2</sub>​+K<sub>2​</sub>Cr<sub>2​</sub>O<sub>7</sub>​+3H<sub>2</sub>​SO<sub>4​</sub>→K<sub>2​</sub>SO<sub>4​</sub>+Cr<sub>2​</sub>(SO<sub>4​</sub>)3​+3H<sub>2</sub>​O"
+
+#: simcontrols.js:51
+msgid "To prepare SO<sub>2</sub> gas and Study its Physical and Chemical Properties"
+msgstr "To prepare SO<sub>2</sub> gas and Study its Physical and Chemical Properties"
+
+#: simcontrols.js:52
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:72
+msgid "Drag the spatula to <br>take few pieces of<br> copper turnings and<br> drop it into round<br> bottom flask."
+msgstr "Drag the spatula to <br>take few pieces of<br> copper turnings and<br> drop it into round<br> bottom flask."
+
+#: simcontrols.js:73
+msgid "Drag a double bored<br> cork and drop it<br> into the mouth of <br>the round bottom flask."
+msgstr "Drag a double bored<br> cork and drop it<br> into the mouth of <br>the round bottom flask."
+
+#: simcontrols.js:73
+msgid "Drag the thistle funnel<br> and drop it into one<br> of the holes in the cork."
+msgstr "Drag the thistle funnel<br> and drop it into one<br> of the holes in the cork."
+
+#: simcontrols.js:74
+msgid "Drag the<br> delivery<br> tube and<br> drop it <br> into the<br> second<br> hole of<br> the cork<br> and connect<br> other side<br> of the <br>delivery<br> tube to<br> the gas jar"
+msgstr "Drag the<br> delivery<br> tube and<br> drop it <br> into the<br> second<br> hole of<br> the cork<br> and connect<br> other side<br> of the <br>delivery<br> tube to<br> the gas jarr"
+
+#: simcontrols.js:75
+msgid "Drag the dropper to <br>take 15-20 mL conc.<br> sulphuric acid from glass<br> dropper bottle and drop<br> to measuring cylinder."
+msgstr "Drag the dropper to <br>take 15-20 mL conc.<br> sulphuric acid from glass<br> dropper bottle and drop<br> to measuring cylinder."
+
+#: simcontrols.js:76
+msgid "Drag and drop measuring<br> cylinder containing 15 - 20 mL<br> of conc. sulphuric acid <br> to round bottom flask <br>through the thistle funnel."
+msgstr "Drag and drop measuring<br> cylinder containing 15 - 20 mL<br> of conc. sulphuric acid <br> to round bottom flask <br>through the thistle funnel."
+
+#: simcontrols.js:76
+msgid "Click on the burner <br>to heat the contents."
+msgstr "Click on the burner <br>to heat the contents."
+
+#: simcontrols.js:77
+msgid "You can see a colourless<br> gas coming out of the<br> round bottom flask and <br>collect it in the gas jar."
+msgstr "You can see a colourless<br> gas coming out of the<br> round bottom flask and <br>collect it in the gas jar."
+
+#: simcontrols.js:77
+msgid "Click off the burner"
+msgstr "Click off the burner"
+
+#: simcontrols.js:78
+msgid "Click on the Inference button"
+msgstr "Click on the Inference button"
+
+#: simcontrols.js:79
+msgid "Click on the Inference button to show the Physical property colour of SO<sub>2<sub>"
+msgstr "Click on the Inference button to show the Physical property colour of SO<sub>2<sub>"
+
+#: simcontrols.js:80
+msgid "Drag the gas jar and place it above the trough"
+msgstr "Drag the gas jar and place it above the trough"
+
+#: simcontrols.js:80
+msgid "Click on the cap of the gas jar<br> and drop the gas into trough"
+msgstr "Click on the cap of the gas jar<br> and drop the gas into trough"
+
+#: simcontrols.js:81
+msgid "Drag and drop wet red litmus paper <br> to the jar filled with sulphur dioxide."
+msgstr "Drag and drop wet red litmus paper <br> to the jar filled with sulphur dioxide."
+
+#: simcontrols.js:81
+msgid "Drag and drop wet red litmus paper <br> to the jar filled with sulphur dioxide."
+msgstr "Drag and drop wet red litmus paper <br> to the jar filled with sulphur dioxide."
+
+#: simcontrols.js:82
+msgid "Drag and drop 2 mL of <br>potassium permanganate <br> solution (Purple solution)<br> into test-tube."
+msgstr "Drag and drop 2 mL of <br>potassium permanganate <br> solution (Purple solution)<br> into test-tube."
+
+#: simcontrols.js:82
+msgid "Drag and drop 1 mL of<br> diluted H<sub>2</sub>SO<sub>4</sub> in test tube.."
+msgstr "Drag and drop 1 mL of<br> diluted H<sub>2</sub>SO<sub>4</sub> in test tube."
+
+#: simcontrols.js:83
+msgid "Drag and drop<br> glasstube into <br>roundbottom <br>flask and<br> test tube."
+msgstr "Drag and drop<br> glasstube into <br>roundbottom <br>flask and<br> test tube."
+
+#: simcontrols.js:83 simcontrols.js:85
+msgid "Turn On Burner"
+msgstr "Turn On Burner"
+
+#: simcontrols.js:84
+msgid "Drag and drop 2ml of acidified potassium <br> dichromate solution into a test tube"
+msgstr "Drag and drop 2ml of acidified potassium <br> dichromate solution into a test tube"
+
+#: simcontrols.js:84
+msgid "Drag and drop 1ml <br>of H<sub>2</sub>SO<sub>4</sub> into it."
+msgstr "Drag and drop 1ml <br>of H<sub>2</sub>SO<sub>4</sub> into it."
+
+#: simcontrols.js:85
+msgid "Drag and drop<br>  glass tube into<br>  round bottom <br> flask and <br> test tube."
+msgstr "Drag and drop<br>  glass tube into<br>  round bottom <br> flask and <br> test tube."
+
+#: simcontrols.js:85
+msgid "Turn off burner"
+msgstr "Turn off burner"

@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: am\n"
+"POT-Creation-Date: 2014-01-31 14:35+0530\n"
+"PO-Revision-Date: 2016-04-29 16:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:45
+msgid "Distinguish Between Mixture and Compound"
+msgstr "मिश्रण आणि कंपाऊंड फरक"
+
+#: simcontrols.js:46
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:47
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:48
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:49
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:51
+msgid "Basis of appearance"
+msgstr "स्वरूप"
+
+#: simcontrols.js:51
+msgid "Behaviour towards magnet"
+msgstr "चुंबकाचा प्रभाव"
+
+#: simcontrols.js:51
+msgid "Action with Carbon disulphide"
+msgstr "कार्बन डायसल्फाइड चा प्रभाव"
+
+#: simcontrols.js:51
+msgid "Action of heat"
+msgstr "उष्णतेचा परिणाम"
+
+#: simcontrols.js:51
+msgid "Action with dil. HCl"
+msgstr "विरल HCl शी अभिक्रिया"
+
+#: simcontrols.js:53
+msgid "Select the test"
+msgstr "परिक्षा निवडा"
+
+#: simcontrols.js:53
+msgid "Fe + S"
+msgstr "Fe + S"
+
+#: simcontrols.js:53
+msgid "FeS"
+msgstr "FeS"
+
+#: simcontrols.js:53
+msgid "Fe + S + dil. HCl"
+msgstr "Fe + S + विरल HCl"
+
+#: simcontrols.js:53
+msgid "FeS + dil. HCl"
+msgstr "FeS + विरल HCl"
+
+#: simcontrols.js:53
+msgid "CuSO<sub>4</sub> solution"
+msgstr "CuSO4 द्रावण"
+
+#: simcontrols.js:53
+msgid "Mixture"
+msgstr "मिश्रण"
+
+#: simcontrols.js:53
+msgid "Compound"
+msgstr "संयुग"
+
+#: simcontrols.js:53
+msgid "Carbon disulphide"
+msgstr "कार्बन डायसल्फाइड"
+
+#: simcontrols.js:53
+msgid "2 mins"
+msgstr "२ मिनिटे"
+
+#: simcontrols.js:53
+msgid "Reset"
+msgstr "पूर्ववत करा."
+
+#: simcontrols.js:55
+msgid ""
+"The yellow particles of sulphur and iron filings can be clearly seen and they </br>are non-uniformly distributed "
+"throughout the mixture. This indicates that </br>the mixture of iron and sulphur is heterogeneous in appearance."
+msgstr ""
+"सल्फरचे पिवळे कण आणि लोहाचा कीस स्पष्टपणे दिसतात आणि ते मिश्रणात एकसारखे पसरलेले नाही. हे सूचित करते की लोह आणि सल्फर चे मिश्रण दिसायला "
+"नैकविध आहे."
+
+#: simcontrols.js:55
+msgid ""
+"Uniform grey-black particles can be seen throughout, indicating </br>that the compound FeS is homogeneous in appearance."
+msgstr "एकसारखे राखाडी-काळे कण दिसतात, म्हणजे FeS संयुग दिसायला एकविध आहे."
+
+#: simcontrols.js:55
+msgid ""
+"The iron filings cling to the magnet indicating that the iron has retained its </br>original property (magnetic nature) "
+"during the formation of the mixture."
+msgstr "चुंबकाला लोहाचा कीस चिकटतो म्हणजे मिश्रण तयार होताना लोह आपले मूळ गुणधर्म (चुंबकत्व) राखून ठेवतो."
+
+#: simcontrols.js:55
+msgid ""
+"There are no particles clinging to the magnet,  indicating that iron has lost its </br>original property (magnetic "
+"nature) on the formation of the compound."
+msgstr "चुंबकाला कुठलेही कण चिकटत नाही. हे सूचित करते की संयुग निर्माण झाल्यानंतर लोह आपले मूळ गुणधर्म (चुंबकत्व) गमावतो."
+
+#: simcontrols.js:55
+msgid ""
+"The yellow particles of sulphur dissolve in carbon disulphide to form a </br>yellow solution, and the particles of iron "
+"settle at the bottom of the test tube."
+msgstr "सल्फरचे पिवळे कण कार्बन डायसल्फाइड मध्ये विरघळतात आणि पिवळे द्रावण निर्माण होते, आणि लोहाचे कण परिक्षा नळीच्या बुडाशी एकत्र होतात."
+
+#: simcontrols.js:55
+msgid ""
+"On the evaporation of carbon disulphide, the yellow particles of </br>sulphur reappear. This indicates that sulphur "
+"retains its </br>original property during the formation of a mixture."
+msgstr ""
+"कार्बन डायसल्फाइड चे बाष्पीभवन झाल्यावर पिवळ्या पावडरच्या रूपात सल्फर मागे राहते. हे सूचित करते की<br> मिश्रण निर्माण होताना सल्फर आपले मूळ "
+"गुणधर्म कायम ठेवतो."
+
+#: simcontrols.js:55
+msgid "There is no change. This indicates that sulphur loses its </br>original property on the formation of a compound."
+msgstr "काही बदल दिसत नाही. संयुग निर्माण झाल्यानंतर सल्फरचे मूळ गुणधर्म नष्ट झाले आहेत."
+
+#: simcontrols.js:55
+msgid ""
+"A black mass forms and particles of iron and sulphur cannot be seen </br>separately. Iron and sulphur, both lose their "
+"individual properties on </br>heating, and react chemically to form a compound FeS."
+msgstr ""
+"एक काळा पदार्थ निर्माण होतो, आणि लोह व सल्फरचे कण वेगळे दिसत नाहीत. गरम केल्यावर लोह आणि सल्फर दोन्हीचे मूळ गुणधर्म नष्ट होतात. त्यांची "
+"अभिक्रिया होते आणि FeS संयुग निर्माण होते. "
+
+#: simcontrols.js:55
+msgid ""
+"No change is observed.  The compound FeS does not undergo a </br>chemical reaction when heated, nor does it lose its "
+"properties."
+msgstr "काही बदल दिसत नाही. संयुग FeS गरम केल्यावर कुठलीही रासायनिक अभिक्रिया होत नाही, आणि त्याचे गुणधर्म पण नष्ट होत नाहीत."
+
+#: simcontrols.js:55
+msgid ""
+"Iron filings in the mixture reacts with dil. HCl producing</br> hydrogen gas that extinguishes the burning matchstick "
+"with a</br> mild explosion while producing a popping sound."
+msgstr "मिश्रणातला लोहाचा कीस आणि विरल HCl ह्यांची अभिक्रिया होते आणि काडेपेटी विझते, पॉप आवाज येतो आणि छोटासा स्फोट होतो. "
+
+#: simcontrols.js:55
+msgid ""
+"The compound FeS reacts with dil. HCl to produce </br>H<sub>2</sub>S gas which reacts with copper sulphate solution </"
+"br>to form a black precipitate of copper sulphide."
+msgstr ""
+"संयुग FeS आणि विरल HCl ह्यांची अभिक्रिया होते आणि H2S वायु निर्माण होते. ह्याची आणि कॉपर सल्फेट ची अभिक्रिया होते आणि कॉपर सल्फाइड चे "
+"काळे अवक्षेपण निर्माण होते."
+
+#: simcontrols.js:57
+msgid "Click on the rod to stir the mixture."
+msgstr "काचेचा रॉड क्लिक करून मिश्रण ढवळा."
+
+#: simcontrols.js:57
+msgid "Click on the rod to stir the compound."
+msgstr "काचेचा रॉड क्लिक करून संयुग ढवळा."
+
+#: simcontrols.js:57
+msgid "Drag the magnet towards the mixture."
+msgstr "मिश्रणाकडे चुंबक ओढा."
+
+#: simcontrols.js:57
+msgid "Drag the magnet towards the compound."
+msgstr "संयुगाकडे चुंबक ओढा."
+
+#: simcontrols.js:57
+msgid "Drag the dropper towards the test tube to </br>pour carbon disulphide into the test tube."
+msgstr "परिक्षा नळीत कार्बन डायसल्फाइड टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols.js:57
+msgid ""
+"Click on the test tube containing the mixture </br>and solution to shake it well. Drag the test tube towards the </"
+"br>petri dish to pour the solution  into it and wait for two minutes."
+msgstr ""
+"मिश्रण आणि द्रावण असलेली परिक्षा नळी हलविण्यासाठी त्यावर क्लिक करा. द्रावण निवळून घेण्यासाठी परिक्षा नळी पेट्रीडिश कडे ओढा. २ मिनिटे "
+"थांबा."
+
+#: simcontrols.js:57
+msgid "Click on the test tube containing the </br>compound and solution to shake it well."
+msgstr "संयुग आणि द्रावण असलेली परिक्षा नळी हलविण्यासाठी त्यावर क्लिक करा."
+
+#: simcontrols.js:57
+msgid "Click on the burner to turn it on."
+msgstr "बर्नर सुरू करण्यासाठी बटण क्लिक करा."
+
+#: simcontrols.js:57
+msgid "Click on the bent tube to remove it."
+msgstr "वाकलेली नलिका काढून टाकण्यासाठी त्यावर क्लिक करा."
+
+#: simcontrols.js:57
+msgid "Drag the matchstick towards the mouth of the </br>test tube that is on the test tube rack."
+msgstr "रॅक वरच्या परिक्षा नळीच्या तोंडाकडे काडेपेटी ओढा."
+
+#: simcontrols.js:59
+msgid "Select the test."
+msgstr "परिक्षा निवडा"
+
+#: simcontrols.js:59
+msgid "Select the sample."
+msgstr "नमूना निवडा"

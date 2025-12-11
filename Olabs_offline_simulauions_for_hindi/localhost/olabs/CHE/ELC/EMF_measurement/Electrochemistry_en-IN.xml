@@ -1,0 +1,166 @@
+﻿<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>Determination of EMF of a Cell</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene1">
+	<TEXT ID="zinc">
+	 <TEXTVALUE>Zinc Strip</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper">
+	 <TEXTVALUE>Copper Strip</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zinc_sulph">
+	 <TEXTVALUE>Zinc Sulphate
+ solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="voltmeter">
+	 <TEXTVALUE>Voltmeter</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_sulph">
+	 <TEXTVALUE>Copper Sulphate
+ solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="bridge">
+	 <TEXTVALUE>Salt Bridge </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zink_solu">
+	 <TEXTVALUE>1M ZnSO4 Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_solu">
+	 <TEXTVALUE>1M CuSO4 Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene1_one">
+	 <TEXTVALUE>We require zinc strip, copper strip, 1M ZnSO4 solution, voltmeter, 1M CuSO4 solution, salt bridge, connecting wires, sand paper, etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takecopper2">
+	<TEXT ID="takecopper2_one">
+	 <TEXTVALUE>Take the copper strip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean3">
+	<TEXT ID="sand_aper">
+	 <TEXTVALUE>Sand Paper</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clean3_one">
+	 <TEXTVALUE>Clean it with the help of sand paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution4">
+	<TEXT ID="dipethesolution4_one">
+	 <TEXTVALUE>Dip the copper strip in to the beaker containing 1M copper sulphate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean5">
+	<TEXT ID="clean5_one">
+	 <TEXTVALUE>Similarly, take the zinc strip and clean it with sand paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution6">
+	<TEXT ID="dipethesolution6_one">
+	 <TEXTVALUE>Then dip it into another beaker containing 1M zinc sulphate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takesaltbridge7">
+	<TEXT ID="takesaltbridge7_one">
+	 <TEXTVALUE>Take the salt bridge.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipsaltbridge8">
+	<TEXT ID="dipsaltbridge8_one">
+	 <TEXTVALUE>Connect the two solutions through the salt bridge. Salt bridge is an inverted U-tube filled with a solution of inert electrolytes like K2SO4, KCl, KNO3 etc.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="dipsaltbridge8_two">
+	 <TEXTVALUE>Now,connect the positive terminal of the voltmeter with the copper strip using connecting wire.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge8_three">
+	 <TEXTVALUE>Note the position of the pointer in the voltmeter.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="dipsaltbridge11">
+	<TEXT ID="dipsaltbridge11_one">
+	 <TEXTVALUE>Connect the negative terminal of the voltmeter with the zinc strip using another connecting wire.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge11_two">
+	 <TEXTVALUE>Note the position of the pointer in the voltmeter and record the reading. </TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="chart9">
+	<TEXT ID="table_h1">
+	 <TEXTVALUE>Concentration of
+  ZnSO&#x2084; solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+	 <TEXTVALUE>Concentration of
+  CuSO4 solution </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+	 <TEXTVALUE>E.M.F of the cell </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart9_one">
+	 <TEXTVALUE>This value gives the E.M.F of the cell.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart10">
+	<TEXT ID="line_1">
+	 <TEXTVALUE>Repeat the experiment by 
+taking the different concentrations
+of zinc sulphate and copper sulphate 
+solutions</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart10_one">
+	 <TEXTVALUE>Repeat the experiment by taking different concentrations of zinc sulphate and copper sulphate solutions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart12">
+	<TEXT ID="chart12_one">
+	 <TEXTVALUE>From the observations it is clear that E.M.F of the cell increases with decrease in concentration of the electrolyte around anode (zinc electrode) and increase in concentration of the electrolyte around cathode (copper electrode).</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+	 <TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+</DATA>
+

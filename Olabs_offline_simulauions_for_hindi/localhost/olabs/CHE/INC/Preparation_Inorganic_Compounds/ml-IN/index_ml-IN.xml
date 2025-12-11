@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_DILSULPHURICACID">
+        <source>നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ്</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ALCOHOL">
+        <source>ആൽക്കഹോൾ - വെള്ളം മിശ്രിതം</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ALCOHOL_LBL">
+        <source>ആൽക്കഹോൾ</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ALUMINISOL">
+        <source>അലൂമിനിയം സൾഫേറ്റ് ലായനി </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ALUMINIUMSULPHATE">
+        <source>അലൂമിനിയം സൾഫേറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_AMMONIUMSULPHATE">
+        <source>അലൂമിനിയം സൾഫേറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>അകാര്‍ബണിക സംയുക്തങ്ങള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_ANIMATIONTITLEONE">
+        <source>അകാര്‍ബണിക സംയുക്തങ്ങളുടെ ശുദ്ധ സാമ്പിള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_BACK">
+        <source>തിരികെ</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_BLACKPAPER">
+        <source>കറുത്ത പേപ്പർ</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_COLDWATER">
+        <source>തണുത്ത വെള്ളം </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DILSULPHRICACID">
+        <source>നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ്</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ശുദ്ധീകരിച്ച വെള്ളം</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_ETHYLALCOHOL">
+        <source>ഈഥൈൽ ആൽക്കഹോൾ</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERRICCHLORIDE">
+        <source>ഫെറിക് ക്ലോറൈഡ് </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_FERRICCHOLORIDE">
+        <source>ഫെറിക് ക്ലോറൈഡ് </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_FERROUSAMMONIUMSULPHATE">
+        <source>ഫെറസ് അമോണിയം സൾഫേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_FERROUSAMONIUMSULPHATE">
+        <source>ഫെറസ് അമോണിയം സള്‍ഫേറ്റിന്‍റെ ശുദ്ധ സാമ്പിള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_FERROUSAMONIUMSULPHATEMOHRSALT">
+        <source>ഫെറസ് അമോണിയം സൾഫേറ്റ്(മോഹ്ർ ലവണം) </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_FERROUSSULPHATE">
+        <source>ഫെറസ് സൾഫേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_FILTERPAPER">
+        <source>ഫിൽട്ടർ പേപ്പർ </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_GLASSROD">
+        <source>ഗ്ലാസ് ദണ്ഡ് </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_HYDRATEDOXALICACID">
+        <source>ഹൈഡ്രേറ്റഡ് ഓക്സാലിക് ആസിഡ് </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_HYDRATEDPOTASSIUMOXALATE">
+        <source>ഹൈഡ്രേറ്റഡ് പൊട്ടാസ്യം ഓക്സലേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_ICECOLDWATER">
+        <source>തണുത്ത വെള്ളം </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_POTASHALUM">
+        <source>പൊട്ടാഷ് ആലം </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_POTASIUMTRIOXALATOFERRATE">
+        <source>പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് (III) </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_POTASSIUMFERRICOXALATE">
+        <source>പൊട്ടാസ്യം ഫെറിക് ഓക്സലേറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_POTASSIUMHYDROXIDE">
+        <source>പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_POTASSIUMOXALATE">
+        <source>പൊട്ടാസ്യം ഓക്സലേറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_POTASSIUMSULPHATE">
+        <source>പൊട്ടാസിയം സൾഫേറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_POTTASIUMSULLPHATESOLN">
+        <source>പൊട്ടാസിയം സൾഫേറ്റ് ലായനി </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_PREPOTASSIUMTRIOXALATOFERRATE">
+        <source>പൊട്ടാസിയം ട്രൈഓക്‍സലാറ്റോഫേറ്റിന്‍റെ(III) ശുദ്ധ സാമ്പിള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_PURESAMPLEOFPOTASHALUM">
+        <source>പൊട്ടാഷ് ആലത്തിന്റെ ശുദ്ധ സാമ്പിള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_PURESAMPLEPOTASHALUM">
+        <source>പൊട്ടാഷ് ആലത്തിന്റെ ശുദ്ധ സാമ്പിള്‍
+</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SANDBATH">
+        <source>മണൽ ബാത്ത്  </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>വെള്ളം </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

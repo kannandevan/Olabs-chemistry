@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ACETANILIDE">
+        <source>एसीटैनिलाइड</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ACETICACID">
+        <source>एसिटिक अम्ल </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ACETICANHYDRIDE">
+        <source>एसिटिक एनहाइड्राइड </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ACETONE">
+        <source>एसीटोन</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ANILINE">
+        <source>एनिलिन</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BACK">
+        <source>वापस</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BENZALDEHYDE">
+        <source>बेंजल्डीहाइड</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_COLDWATER">
+        <source>ठंडे पानी</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRUSHED_ICE">
+        <source>कुचला बर्फ</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DIBENZALACETONE">
+        <source>डाईबेंजाल एसीटोन </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_ETHANOL">
+        <source>इथेनॉल</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_FILTERPAPER">
+        <source>फिल्टर पेपर </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FUMINGNITRICACID">
+        <source>धूममय नाइट्रिक अम्ल </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_GLACIALACETICACID">
+        <source>ग्लेसियल एसिटिक अम्ल</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_HYDROCLORICACID">
+        <source>Conc.HCL</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ICE">
+        <source>बर्फ</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_ICEBOX">
+        <source>ठंडा मिश्रण </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_ICECOLDWATER">
+        <source>ठंडे पानी</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_METHYLATEDSPRIT">
+        <source>मिथाइलेटेड स्प्रिट</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MINUTES">
+        <source>10 min</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MODE">
+        <source>मोड</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_NAOH">
+        <source>10% NaOH</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAPHTHOL">
+        <source>2-नैफ्थोल </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_NAPHTHOLANILINEDYE">
+        <source>2-नैफ्थोल एनिलिन रंजक </source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_NITROACETANILIDE">
+        <source>पी-नाइट्रोएसीटैनिलाइड</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_ORGANICCOMPOUND">
+        <source>कार्बनिक यौगिकों की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_PREP_ACETANILIDE">
+        <source>सीटैनिलाइड की तैयारी।</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_PREP_NITROACETAILIDE">
+        <source>पी-नाइट्रोएसीटैनिलाइड की तैयारी।</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_PREPARATIONDIBENZAL">
+        <source>डाईबेंजाल एसीटोन की तैयारी।</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_PREPARATIONNAPHTHOL">
+        <source>2-नैफ्थोल एनिलिन रंजक की तैयारी।</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_PREPARATIONORGANICCOMPOUND">
+        <source>कार्बनिक यौगिकों की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_RECRYSTALLIZATION">
+        <source>पी-नाइट्रोएसीटैनिलाइड की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_RECTIFIEDSPRIT">
+        <source>परिशोधित स्पिरिट </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_SODIUMNITRITE">
+        <source>सोडियम नाइट्राइट</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_START">
+        <source>प्रारंभ</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SULPHURICACID">
+        <source>Conc.H2SO4</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_TARE">
+        <source>कठिन</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>पानी</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_WATERCONDENSER">
+        <source>जल कंडेनसर</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

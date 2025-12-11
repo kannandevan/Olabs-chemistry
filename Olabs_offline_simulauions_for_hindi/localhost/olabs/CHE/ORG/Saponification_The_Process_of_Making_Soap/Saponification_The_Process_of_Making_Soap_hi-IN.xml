@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_1">
+	<TEXTVALUE>साबुनीकरण:  साबुन बनाने की प्रक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_2">
+	<TEXTVALUE>आरंभ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>हमें मापने वाले सिलेंडर, साधारण नमक, कांच के बीकर, नारियल के तेल, 20% NaOH विलयन (साल्‍यूशन), बुन्‍सेन बर्नर, कांच की छड़, कीप, फिल्टर पेपर, तार की बनी जाली, तिपाए स्टैंड और क्‍लैम्‍प स्टैंड की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_3">
+	<TEXTVALUE>नमक[15g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_4">
+	<TEXTVALUE>नारियल का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_5">
+	<TEXTVALUE>[20%] NaOH 
+ विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_6">
+	<TEXTVALUE>सिलेंडरों का
+मापन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_7">
+	<TEXTVALUE>नमक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_8">
+	<TEXTVALUE>ग्लास बीकर
+ (250 ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_9">
+	<TEXTVALUE>नारियल का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_10">
+	<TEXTVALUE>20% NaOH  विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_11">
+	<TEXTVALUE>लेम्प बर्नर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_12">
+	<TEXTVALUE>फ़िल्टर का कीप</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 25 मिलीलीटर नारियल का तेल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 25 मिलीलीटर नारियल का तेल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>कांच की बीकर में तेल डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>एक दूसरा मापने वाला सिलेंडर लें और</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>इसमें 30 मिलीलीटर 20% NaOH का विलयन (साल्‍यूशन) नापें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_string_13">
+	<TEXTVALUE>[20%] NaOH 
+विलयन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>इसे नारियल के तेल वाले बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>कांच की छड़ की मदद से मिश्रण जोर से हिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>बाहर से बीकर स्पर्श करें। यह दिखता है कि बीकर गर्म है। ऐसा वनस्पति तेल (नारियल तेल) और सोडियम हाइड्रॉक्साइड के विलयन (साल्‍यूशन) के बीच उष्‍माक्षेपी (एक्ज़ोथिर्मिक) अभिक्रिया की वजह से होता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab8_string_14">
+	<TEXTVALUE>हटाना</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>बीकर बुन्‍सेन बर्नर पर रखें और इसे तब तक गर्म करें जब तक कि मिश्रण सफेद रंग का पेस्ट नहीं बन जाता। यह मिश्रण (निलंबन (सस्‍पेंशन) रूप में) साबुन और ग्लिसरॉल से बना होता है।</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_two">
+	<TEXTVALUE>लौ पर से बीकर हटाएं और इसे ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>बनने वाले निलंबन (सस्‍पेंशन) में लाल लिटमस पेपर डुबोएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_two">
+	<TEXTVALUE>निलंबन (सस्‍पेंशन) में डूबोने पर लाल लिटमस पेपर नीला रंग का हो जाता है। इससे पता चलता है कि साबुन का विलयन (साल्यूशन) प्रकृति में क्षारीय है।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_15">
+	<TEXTVALUE>लाल लिटमस पेपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_16">
+	<TEXTVALUE>प्रकृति का आधारभूत</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>निलंबन (सस्‍पेंशन) में नीला लिटमस पेपर डुबोएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_17">
+	<TEXTVALUE>नीला लिटमस पेपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_18">
+	<TEXTVALUE>प्रकृति में अम्लीय नहीं</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_two">
+	<TEXTVALUE>नीले लिटमस पेपर का रंग वैसा ही बना रहता है। इससे पता चलता है कि साबुन का निलंबन (सस्‍पेंशन) प्रकृति में अम्लीय नहीं है।
+	</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>निलंबन (सस्‍पेंशन) में 15 ग्राम साधारण नमक डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_bet_string">
+	<TEXTVALUE>नमक[15g]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>इसे कांच की छड़ से अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_two">
+	<TEXTVALUE>यह मालूम पड़ता है कि साबुन ठोस रूप में अवक्षेपित (पर्सीपेटेड) हो जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>फिल्टर पेपर लें और इसे फिल्टर कीप में लगा दें और</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab14_string_19">
+	<TEXTVALUE>फिल्टर पेपर</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab15">
+	<TEXT ID="Lab15_one">
+	<TEXTVALUE>कीप के ऊपर कांच की छड़ टिकाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab15_string_20">
+	<TEXTVALUE>कांच की छड़</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>साबुन वाला बीकर लें और</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>इसे कांच की छड़ पर डालें और मिश्रण फिल्टर करें। साबुन फिल्टर पेपर पर रह जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>फिल्टर पेपर लें और</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab18_string_21">
+	<TEXTVALUE>फिल्टर-पेपर</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>स्‍पैचुला की मदद से कीप पर से साबुन हटाएं और</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>इसे फिल्टर पेपर पर रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>स्‍पैचुला की मदद सेकीप से साबुन को हटाएं और</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>फिल्टर पेपर पर रखें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर से दबाकर साबुन सूखाएं</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>चाकू से इसे वांछित आकार में काट लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>इस प्रकार साबुन तैयार है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_last_1">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

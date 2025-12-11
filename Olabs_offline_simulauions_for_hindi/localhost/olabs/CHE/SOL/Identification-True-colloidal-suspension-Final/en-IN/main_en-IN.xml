@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_3ML">
+        <source>3 ml</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ANIMATION_ALU">
+        <source>Alum</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_ALU10">
+        <source>Alum (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANIMATION_AS">
+        <source>Alum Solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANIMATION_BACK">
+        <source>&lt;&lt; Back</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ANIMATION_BACKE">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ANIMATION_CEA">
+        <source>Colloid of 
+egg albumin</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ANIMATION_CELL">
+        <source>Cellophane Paper</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ANIMATION_CHAK">
+        <source>Chalk Powder</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ANIMATION_CHAK10">
+        <source>Chalk (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ANIMATION_CHALKPARTI">
+        <source>Chalk particles left
+
+on the filter paper</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ANIMATION_CHALKSUS">
+        <source>Chalk Suspension</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ANIMATION_CLFLT">
+        <source>Clear filtrate</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ANIMATION_COLLO">
+        <source>Colloidal Solutions</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ANIMATION_COLLOID">
+        <source>Colloid of Starch</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ANIMATION_CS">
+        <source>Chalk Solution</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ANIMATION_DIST">
+        <source>Dist: Water</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_ANIMATION_EAS">
+        <source>Egg Albumin Solution</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_ANIMATION_EGG">
+        <source>Egg Albumin</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ANIMATION_EGGGM">
+        <source>Egg albumin (1gm)</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_ANIMATION_FILT">
+        <source>Filtration</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_ANIMATION_FP">
+        <source>Filter paper</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_ANIMATION_FS">
+        <source>Fine Sand (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ANIMATION_FSS">
+        <source>Fine Sand Solution</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_ANIMATION_HCL">
+        <source>HCl</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_ANIMATION_NO">
+        <source>No particles left
+on
+the filter paper</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_ANIMATION_PARTICLE">
+        <source>Soil particles left
+
+on the filter paper</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_ANIMATION_RESUIDE">
+        <source>No residue left 
+
+on the filter paper</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_ANIMATION_S">
+        <source>Starch Solution</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_ANIMATION_SAL">
+        <source>Salt</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_ANIMATION_SALT10">
+        <source>Salt (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_ANIMATION_SAN">
+        <source>Fine Sand</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_ANIMATION_SANDPARTI">
+        <source>Sand particles left
+
+on the filter paper</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_ANIMATION_SANDSUS">
+        <source>Sand Suspension</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_ANIMATION_SO10">
+        <source>Soil (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_ANIMATION_SOI">
+        <source>Soil</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_ANIMATION_SOILS">
+        <source>Soil Suspension</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_ANIMATION_SS">
+        <source>Salt Solution</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_ANIMATION_SSO">
+        <source>Soil Solution</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_ANIMATION_ST1">
+        <source>Starch (1gm)</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_ANIMATION_STAB">
+        <source>Stability</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_ANIMATION_STAR">
+        <source>Starch</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_ANIMATION_SU">
+        <source>Sugar (10 gm)</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_ANIMATION_SUG">
+        <source>Sugar</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_ANIMATION_SUR">
+        <source>Sugar Solution</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_ANIMATION_SUSP">
+        <source>Suspensions </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_ANIMATION_TITLE">
+        <source>Distinguish between Solutions </source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_ANIMATION_TRANSL">
+        <source>Translucent filtrate</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_ANIMATION_TRANSP">
+        <source>Transparency</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_ANIMATION_TRUE">
+        <source>True Solutions</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_ANIMATION_WAT">
+        <source>Water (95 ml)</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_ANIMATION_WAT100">
+        <source>Water 100 ml</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_5ML">
+        <source>5 ml</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

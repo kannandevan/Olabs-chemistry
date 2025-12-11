@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="Helical_spring.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ENVIR1">
+        <source>i`Foh</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ENVIR2">
+        <source>pkan</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ENVIR3">
+        <source>ekpZ</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LABEL1">
+        <source>olar dk p;u djsa</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LABEL2">
+        <source>i;kZoj.k pqusa</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LABEL3">
+        <source>Ldsy i&lt;+us</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_RESET">
+        <source>jhlsV djsa</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SPRING1">
+        <source>olar1</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SPRING2">
+        <source>olar2</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SPRING3">
+        <source>olar3</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE">
+        <source>ispnkj yxkrkj fLizax</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

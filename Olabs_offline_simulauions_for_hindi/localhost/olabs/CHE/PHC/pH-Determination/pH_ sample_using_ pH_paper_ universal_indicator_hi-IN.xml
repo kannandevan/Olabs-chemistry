@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>हमें एसिटिक एसिड, पीएच पेपर की पट्टी (स्ट्रिप), स्‍टैण्‍डर्ड कलर पीएच चार्ट, ड्रॉपर और सफेद टाइल की जरूरत है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>पीएच पेपर की पट्टी (स्ट्रिप) लें और इसे एक सफेद टाइल पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>पीएच पेपर की पट्टी (स्ट्रिप) लें और इसे एक सफेद टाइल पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>पीएच पेपर की पट्टी (स्ट्रिप) लें और इसे एक सफेद टाइल पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>ड्रापर से एसिटिक एसिड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>पीएच पेपर पर एसिटिक एसिड की एक बूंद डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>पीएच पेपर पर बनने वाला रंग देखें। पीएच पेपर का रंग बदलकर लाल हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>स्‍टैण्‍डर्ड कलर पीएच चार्ट के अलग-अलग रंगों के शेड के साथ पीएच पेपर पर बनने वाले रंग की तुलना करें और कलर चार्ट से पीएच नोट करें। एसिटिक एसिड का पीएच 3 है</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>हमें एसिटिक एसिड, सार्वत्रिक सूचक (यूनीवर्सल इंडीकेटर),स्‍टैण्‍डर्ड कलर पीएच चार्ट, ड्रॉपर और एक टेस्ट ट्यूब की जरूरत है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>ड्रापर से एसिटिक एसिड की थोड़ी सी मात्रा लें और टेस्ट ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>ड्रापर से एसिटिक एसिड की थोड़ी सी मात्रा लें और टेस्ट ट्यूब में डालें।।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>सार्वत्रिक सूचक विलयन (यूनीवर्सल इंडीकेटर साल्यूशन)  की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>एसिटिक एसिड वाले टेस्ट ट्यूब में सार्वत्रिक सूचक विलयन (यूनीवर्सल इंडीकेटर साल्‍यूशन) की कुछ बूँदें डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>अच्छी तरह से टेस्ट ट्यूब हिलाएं। विलयन (साल्‍यूशन) का रंग बदलकर लाल हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>स्टैण्डर्ड कलर पीएच चार्ट से टेस्‍ट ट्युब में बनने वाले रंग की तुलना करें और कलर चार्ट से पीएच नोट करें। एसिटिक एसिड का पीएच 3 है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

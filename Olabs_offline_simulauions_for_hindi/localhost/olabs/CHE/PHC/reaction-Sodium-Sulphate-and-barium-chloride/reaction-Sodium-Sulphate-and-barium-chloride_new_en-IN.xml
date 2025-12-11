@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="01Intro_heading_01">
+		<TEXTVALUE>Double Displacement Reaction</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="01Intro_start_11">
+		<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>We’ll require sodium sulphate, barium chloride, dil. HCl, a beaker, conical flask, test tubes, etc.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_bar_11">
+		<TEXTVALUE>Barium 
+Chloride</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_sod_1">
+		<TEXTVALUE>Sodium 
+Sulphate</TEXTVALUE>
+	</TEXT>
+
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE>Take a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>Take a small quantity of barium chloride in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>Transfer it into a conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>Take another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>Take a small quantity of sodium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>Transfer it into the conical flask containing barium chloride solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_basu_11">
+		<TEXTVALUE>Barium
+Sulphate</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>Stir the contents of the conical flask and keep it undisturbed for some time.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>A white precipitate of barium sulphate is formed immediately. This confirms the presence of sulphate (SO4)2- ions.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_three">
+		<TEXTVALUE>The precipitate of barium sulphate settles down to the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>Decant the upper solution from the conical flask into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>Then add a small quantity of dil. HCl into the conical flask containing the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>Then add a small quantity of dil. HCl into the conical flask containing the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>Swirl the flask well.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>The white precipitate is insoluble in dil. HCl.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>In this chemical reaction, sulphate ions are displaced by chloride ions and chloride ions are displaced by sulphate ions.This is a double displacement reaction.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13shake3_bko_1">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+	

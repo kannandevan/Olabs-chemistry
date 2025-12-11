@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-22 15:11+0530\n"
+"PO-Revision-Date: 2016-02-24 10:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: help.js:10 help.js:17 help.js:24
+msgid "Drag the dropper to add<br/>the solution to the test tube."
+msgstr "परखनली में विलयन डालने के लिए ,<br/>परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols.js:12
+msgid "Chemical Equilibrium"
+msgstr "रासायनिक संतुलन"
+
+#: simcontrols.js:13
+msgid "[Fe(CNS)]<sup>2+</sup>"
+msgstr "[Fe(CNS)]<sup>2+</sup>"
+
+#: simcontrols.js:13
+msgid "[CoCl<sub>4</sub>]<sup>2-</sup>"
+msgstr "[CoCl<sub>4</sub>]<sup>2-</sup>"
+
+#: simcontrols.js:13
+msgid "[CuCl<sub>4</sub>]<sup>2-</sup>"
+msgstr "[CuCl<sub>4</sub>]<sup>2-</sup>"
+
+#: simcontrols.js:14
+msgid "Ferric and thiocyanate ions"
+msgstr "फेरिक और थायोसाइनेट आयन"
+
+#: simcontrols.js:14
+msgid "Cobalt complex and chloride ions "
+msgstr "कोबाल्ट कांप्लेक्स और क्लोराइड आयन"
+
+#: simcontrols.js:14
+msgid "Copper complex and chloride ions"
+msgstr "कॉपर कांप्लेक्स और क्लोराइड आयन"
+
+#: simcontrols.js:15
+msgid "Test tube A"
+msgstr "टेस्ट ट्यूब ए"
+
+#: simcontrols.js:15
+msgid "Test tube B"
+msgstr "टेस्ट ट्यूब बी"
+
+#: simcontrols.js:15
+msgid "Test tube C"
+msgstr "टेस्ट ट्यूब सी"
+
+#: simcontrols.js:15
+msgid "Test tube D"
+msgstr "टेस्ट ट्यूब डी"
+
+#: simcontrols.js:19
+msgid "Select the test solution:"
+msgstr "परीक्षण विलयन चुनना"
+
+#: simcontrols.js:19
+msgid "Select the control tube:"
+msgstr "नियंत्रण ट्यूब चुनना"
+
+#: simcontrols.js:22
+msgid "Control"
+msgstr "नियंत्रण"
+
+#: simcontrols.js:23
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:27 simcontrols.js:109
+msgid "FeCl<sub>3</sub>"
+msgstr "FeCl<sub>3</sub>"
+
+#: simcontrols.js:28 simcontrols.js:110
+msgid "KCNS"
+msgstr "KCNS"
+
+#: simcontrols.js:29 simcontrols.js:111
+msgid "KCl"
+msgstr "KCl"
+
+#: simcontrols.js:126
+msgid "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+msgstr "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+
+#: simcontrols.js:127 simcontrols.js:148
+msgid "HCl"
+msgstr "HCl"
+
+#: simcontrols.js:128 simcontrols.js:149
+msgid "H<sub>2</sub>O"
+msgstr "H<sub>2</sub>O"
+
+#: simcontrols.js:147
+msgid "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+msgstr "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+
+#: simcontrols.js:302
+msgid ""
+"Addition of more Fe<sup>3+</sup> ions results in more Fe(CNS)<sup>2+</sup>complex. Hence the</br>colour "
+"intensity of red solution increases and the equilibrium shifts</br>in the forward direction."
+msgstr ""
+"अधिक Fe3 + आयन मिलाने का परिणाम अधिक Fe (CNS2 + कांप्लेक्स होता है। इसलिए लाल विलयन की रंग तीव्रता बढ़ जाती है और "
+"संतुलन फारवर्ड दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:306
+msgid ""
+"Addition of more [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in more (CoCl<sub>4</sub>)<sup>2-"
+"</sup> complex.</br>Hence the intensity of blue colour increases and the equilibrium</br>shifts in the "
+"forward direction."
+msgstr ""
+"अधिक [Co (H2O) 6] 2 + मिलाने का परिणाम अधिक (CoCl4) 2-  कांप्ले्क्स होता है।  इसलिए नीले रंग की तीव्रता बढ़ जाती है "
+"और और संतुलन फारवर्ड दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:310
+msgid ""
+"Addition of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in the formation of more</"
+"br>(CuCl<sub>4</sub>)<sup>2-</sup> and the equilibrium shifts in the forward direction."
+msgstr ""
+"अधिक [Cu(H2O)6]2+ मिलाने का परिणाम अधिक (CuCl4)2- का निर्माण होता है।  और संतुलन फारवर्ड दिशा में स्थानांतरित हो "
+"जाता है।"
+
+#: simcontrols.js:316
+msgid ""
+"Addition of more CNS<sup>-</sup> ions results in more Fe(CNS)<sup>2+</sup>complex. Hence the</br>colour "
+"intensity of red solution increases and the equilibrium shifts</br>in the forward direction."
+msgstr ""
+"अधिक CNS- आयन मिलाने का परिणाम अधिक Fe (CNS2 + कांप्लेक्स  होता है। इसलिए लाल विलयन की रंग तीव्रता बढ़ जाती है और "
+"संतुलन फारवर्ड दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:319
+msgid ""
+"Addition of more Cl<sup>-</sup> ions results in more (CoCl<sub>4</sub>)<sup>2-</sup> complex. Hence the</"
+"br>intensity of blue colour increases and the equilibrium shifts</br>in the forward direction."
+msgstr ""
+"अधिक Cl- मिलाने का परिणाम अधिक (CoCl4) 2- कांप्ले्क्स होता है।  इसलिए नीले रंग की तीव्रता बढ़ जाती है और संतुलन फारवर्ड "
+"दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:323
+msgid ""
+"Addition of more Cl<sup>-</sup> ions results in the formation of more (CuCl<sub>4</sub>)<sup>2-</sup></"
+"br>and the equilibrium shifts in the forward direction. "
+msgstr ""
+"अधिक Cl- मिलाने का परिणाम अधिक (CuCl4)2- का निर्माण होता है। और संतुलन फारवर्ड दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:329
+msgid ""
+"Addition of K<sup>+</sup> ions affects the dissociation of KCNS and decrease the</br>concentration of "
+"CNS<sup>-</sup>, as a result the equilibrium shifts towards</br>backwards and the intensity of red "
+"colour decrease."
+msgstr ""
+"K+ आयन मिलाने से KCNS का संबंध विच्छेद प्रभावित होता है और CNS- की सांद्रता में कमी आती, फलस्वरूप संतुलन बैकवार्ड दिशा में "
+"स्थानांतरित हो जाता है और लाल रंग की तीव्रता कम हो जाती है।"
+
+#: simcontrols.js:333
+msgid ""
+"Addition of H<sub>2</sub>O results the formation of pink colour (CoCl<sub>4</sub>)<sup>2-</sup>.</"
+"br>Hence the colour of the solution turns to pink and the equilibrium shifts</br>in the backward "
+"direction."
+msgstr ""
+"H2O मिलाने से गुलाबी रंग (CoCl4) का निर्माण प्रभावित होता है इसलिए विलयन का रंग गुलाबी हो जाता है और संतुलन बैकवार्ड "
+"दिशा में स्थानांतरित हो जाता है।"
+
+#: simcontrols.js:337
+msgid ""
+"Addition of water results in the formation of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup></br>and "
+"the equilibrium shifts in the backward direction. "
+msgstr "पानी मिलाने का परिणाम अधिक [Cu(H2O)6]2+का निर्माण होता है। और संतुलन बैकवार्ड दिशा में स्थानांतरित हो जाता है।"
+
+#~ msgid "Simple Pendulum"
+#~ msgstr "Simple Pendulum"
+
+#~ msgid "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+
+#~ msgid "Solution Controls"
+#~ msgstr "Solution Controls"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select Shape"
+#~ msgstr "Select Shape"
+
+#~ msgid "Select Material"
+#~ msgstr "Select Material"
+
+#~ msgid "Select Wire"
+#~ msgstr "Select Wire"
+
+#~ msgid "Pendulum Length(m):"
+#~ msgstr "Pendulum Length(m):"
+
+#~ msgid "Change Diameter(mm):"
+#~ msgstr "Change Diameter(mm):"
+
+#~ msgid "Hide Protractor"
+#~ msgstr "Hide Protractor"
+
+#~ msgid "earth"
+#~ msgstr "earth"
+
+#~ msgid "moon"
+#~ msgstr "moon"
+
+#~ msgid "uranus"
+#~ msgstr "uranus"
+
+#~ msgid "saturn"
+#~ msgstr "saturn"
+
+#~ msgid "jupiter"
+#~ msgstr "jupiter"
+
+#~ msgid "Sphere"
+#~ msgstr "Sphere"
+
+#~ msgid "Clock Pendulum"
+#~ msgstr "Clock Pendulum"
+
+#~ msgid "Square"
+#~ msgstr "Square"
+
+#~ msgid "Rectangle"
+#~ msgstr "Rectangle"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminum"
+#~ msgstr "Aluminum"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Lead"
+#~ msgstr "Lead"
+
+#~ msgid "Twine Thread"
+#~ msgstr "Twine Thread"
+
+#~ msgid "Steel String"
+#~ msgstr "Steel String"
+
+#~ msgid "Twisted Copper Wire"
+#~ msgstr "Twisted Copper Wire"
+
+#~ msgid "Show Protractor"
+#~ msgstr "Show Protractor"
+
+#~ msgid "Play/Pause"
+#~ msgstr "Play/Pause"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+
+#~ msgid "Simple-Pendulum"
+#~ msgstr "Simple-Pendulum"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Equivalent Resistance of Resistors (Parallel)"
+#~ msgstr "Equivalent Resistance of Resistors (Parallel)"
+
+#~ msgid "Arrangement of Resistors:"
+#~ msgstr "Arrangement of Resistors:"
+
+#~ msgid "Jockey Position(cm):"
+#~ msgstr "Jockey Position(cm):"
+
+#~ msgid "Please select Resistance"
+#~ msgstr "Please select Resistance"
+
+#~ msgid "Single"
+#~ msgstr "Single"
+
+#~ msgid "Parallel"
+#~ msgstr "Parallel"
+
+#~ msgid "Remove key"
+#~ msgstr "Remove key"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid "Remove Key"
+#~ msgstr "കീ നീക്കം"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Ohm's Law"
+#~ msgstr "Ohm's Law"
+
+#~ msgid "Readings"
+#~ msgstr "Readings"
+
+#~ msgid "Voltage (V) :"
+#~ msgstr "Voltage (V) :"
+
+#~ msgid "Ammeter reading (I) :"
+#~ msgstr "Ammeter reading (I) :"
+
+#~ msgid "Rheostat resistance :"
+#~ msgstr "Rheostat resistance :"
+
+#~ msgid "Length of the resistance wire :"
+#~ msgstr "Length of resistance wire :"
+
+#~ msgid "Show Circuit Diagram"
+#~ msgstr "Show Circuit Diagram"
+
+#~ msgid "Results"
+#~ msgstr "Results"
+
+#~ msgid "Enter the resistance of the wire:"
+#~ msgstr "Enter the resistance of the wire:"
+
+#~ msgid "Enter the resistance per cm of the wire:"
+#~ msgstr "Enter the resistance per cm of the wire:"
+
+#~ msgid "Please enter the value"
+#~ msgstr "Please enter the value"
+
+#~ msgid "Check"
+#~ msgstr "Check"

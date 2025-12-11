@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="truesolution">
+	<TEXT ID="truesolution_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sugar">
+	<TEXT ID="sugar_one">
+		<TEXTVALUE>ജലത്തിലെ പഞ്ചസാര ലായനിയുടെ നിർമ്മാണം.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_two">
+		<TEXTVALUE> 10 ഗ്രാം നന്നായി പൊടിച്ച പഞ്ചസാര 95 മി.ലി.ശുദ്ധീകരിച്ച ജലം നിറച്ച 250 മി.ലി കൊള്ളുന്ന ബീക്കറിൽ എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_three">
+		<TEXTVALUE>പഞ്ചസാര ലയിക്കുന്നതുവരെ ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+		</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solution">
+	<TEXT ID="solution_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="cellophanepaper">
+	<TEXT ID="cellophanepaper_one">
+		<TEXTVALUE>Tടെസ്റ്റൃൂബിൽ കുറച്ച് പഞ്ചസാര ലായനി എടുക്കുക, ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="cellophanepaper_two">
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിൻേറെ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് വൃക്തമായി കാണാൻ സാധിക്കുന്നു. ഇത് സൂചിപ്പിക്കുന്നത് ട്രൂ ലായനി സുതാരൃമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Sugarfiltration">
+	<TEXT ID="Sugarfiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച്  ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ  വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച്  പഞ്ചസാര ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Sugarfiltration_two">
+		<TEXTVALUE>ഫിൽട്ടർ പേപ്പറിൽ മാലിനൃം ഒന്നും ഉണ്ടാകുന്നില്ല.അരിക്കൽ  പ്രക്രിയ വഴി  ഖരവസ്തുക്കളെ ട്രൂ ലായനിയിൽ നിന്നും വേർതിരിക്കാൻ കഴിയില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="Stability">
+	<TEXT ID="Stability_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ പഞ്ചസാര ലായനി  എടുത്തിട്ട്  ടെസ്റ്റൃൂബ് ഫെൽഫിൽ 20 മിന്നിട്ട് വെയ്ക്കുക. എക്കൽ ഇല്ലാതെ ഇത് നിലനിൽക്കുന്നു. ട്രൂ ലായനി സ്ഥിരമാണ്. നിക്ഷേപങ്ങളിലെ ഘടകങ്ങൾ കാണിക്കുന്നില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SaltWater">
+	
+   <TEXT ID="SaltWater_one">
+		<TEXTVALUE>ജലത്തിലെ പൊടിയുപ്പിൻ്റെ ട്രൂ ലായനിയുടെ തയ്യാറാക്കൽ</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltWater_two">
+		<TEXTVALUE>10 ഗ്രാം പൊടിയുപ്പ്  95 മി.ലി. ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ 250 മിലി. ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+ </TEXT>
+    <TEXT ID="SaltWater_three">
+		<TEXTVALUE>ഉപ്പ് പൂർണ്ണമായി ലയിക്കുന്നതുവരെ ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി ഇളക്കുക.
+</TEXTVALUE>
+ </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="solutionsalt">
+	<TEXT ID="solutionsalt_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ  ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Salttranspirancy">
+	<TEXT ID="Salttranspirancy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് ഉപ്പ് ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Salttranspirancy_two">
+		<TEXTVALUE>സെല്ലോഫെൻ പേപ്പർ ഒരു വശത്ത് നിന്ന് നോക്കിയാൽ വൃക്തമായി കാണാം. ട്രൂ ലായനി സുതാരൃമാണന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="SaltFiltration">
+	<TEXT ID="SaltFiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച്  ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ  വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച്  ഉപ്പ്  ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltFiltration_two">
+		<TEXTVALUE>ഫിൽട്ടർ പേപ്പറിൽ മാലിനൃം ഒന്നും ഉണ്ടാകുന്നില്ല. അരിക്കൽ  പ്രക്രിയ വഴി  ഖരവസ്തുക്കളെ ട്രൂ ലായനിയിൽ നിന്നും വേർതിരിക്കാൻ കഴിയില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+    
+</SCENE>
+
+
+
+<SCENE ID="SaltStability">
+	<TEXT ID="SaltStability_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ ഉപ്പ് ലായനി  എടുത്തിട്ട്  ടെസ്റ്റൃൂബ് ഫെൽഫിൽ 20 മിന്നിട്ട് വെയ്ക്കുക. എക്കൽ ഇല്ലാതെ ഇത് നിലനിൽക്കുന്നു. ട്രൂ ലായനി സ്ഥിരമാണ്. നിക്ഷേപങ്ങളിലെ ഘടകങ്ങൾ കാണിക്കുന്നില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AlumWater">
+	<TEXT ID="AlumWater_one">
+		<TEXTVALUE>10 ഗ്രാം ആലം 95 മി.ലി. ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ 250 മിലി.ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumWater_two">
+		<TEXTVALUE>ആലം പൂർണ്ണമായി ലയിക്കുന്നതുവരെ ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="solutionAlum">
+	<TEXT ID="psolutionAlum_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumTranspirncy">
+	<TEXT ID="AlumTranspirncy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് ആലം ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="AlumTranspirncy_two">
+		
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിൻേറെ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് വൃക്തമായി കാണാൻ സാധിക്കുന്നു. ഇത് സൂചിപ്പിക്കുന്നത് ട്രൂ ലായനി സുതാരൃമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumFiltration">
+	<TEXT ID="AlumFiltration_one">
+		<TEXTVALUE>സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച് ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച് ആലം ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumFiltration_two">
+		<TEXTVALUE>ഫിൽട്ടർ പേപ്പറിൽ മാലിനൃം ഒന്നും ഉണ്ടാകുന്നില്ല. അരിക്കൽ  പ്രക്രിയ വഴി  ഖരവസ്തുക്കളെ ട്രൂ ലായനിയിൽ നിന്നും വേർതിരിക്കാൻ കഴിയില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+       
+</SCENE>
+
+<SCENE ID="AlumStability">
+	<TEXT ID="AlumStability_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ ആലം ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബ് ഫെൽഫിൽ 20 മിന്നിട്ട് വെയ്ക്കുക. എക്കൽ ഇല്ലാതെ ഇത് നിലനിൽക്കുന്നു. ട്രൂ ലായനി സ്ഥിരമാണ്. നിക്ഷേപങ്ങളിലെ ഘടകങ്ങൾ കാണിക്കുന്നില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilWater">
+	<TEXT ID="SoilWater_one">
+		<TEXTVALUE>10 ഗ്രാം മണ്ണ് 95 മി.ലി. ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ 250 മിലി. ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilWater_two">
+		<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilTransparency">
+	<TEXT ID="SoilTransparency_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് തങ്ങിയ മണ്ണ് ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="SoilTransparency_two">
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിൻേറെ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് കാണാൻ സാധിക്കുന്നില്ല.ഇത് സൂചിപ്പിക്കുന്നത് തങ്ങിനിൽക്കൽ  അവൃക്തമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="SoilFiltration">
+	<TEXT ID="SoilFiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച്  ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ  വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച്  തങ്ങിയ മണൽ ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+  <TEXT ID="SoilFiltration_two">
+		<TEXTVALUE>മണ്ണിൻ്റെ കണങ്ങൾ വൃക്തമായി ഫിൽട്ടർ പേപ്പറിൽ കാണാം മണ്ണിൻ്റെ ഘടകങ്ങളെ അരിക്കലിലൂടെ വേർതിരിക്കാം എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+   </SCENE>
+
+
+<SCENE ID="SoilStability">
+	<TEXT ID="SoilStability_one">
+		<TEXTVALUE>തങ്ങിനിൽക്കുന്ന മണ്ണ് തരികൾ  ഒരു ടെസ്റ്റൃൂബിൽ എടുത്തിട്ട് 20 മിന്നിട്ട് ടെസ്റ്റ്ടൃൂബ് ഷെൽഫിൽ അനക്കാതെ വെയ്ക്കുക. മണ്ണ് തരികൾ ക്രമേണ താഴേക്ക് അടിയുന്നതായി നിങ്ങൾക്ക് കാണാം.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilStability_two">
+		<TEXTVALUE>ഇതിൽ നിന്ന് മനഃസ്സിലാക്കേണ്ടത് ഭാരം കൂടിയ കണങ്ങളുടെ തങ്ങി നിൽക്കൽ അസ്ഥിരമാണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Chalkwater">
+	<TEXT ID="Chalkwater_one">
+		<TEXTVALUE>10 ഗ്രാം ചോക്ക് പൊടി 95 മി.ലി. ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ 250 മിലി. ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Chalkwater_two">
+		<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionchalk">
+	<TEXT ID="solutionchalk_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Chalktranspirancy">
+	<TEXT ID="Chalktranspirancy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് തങ്ങിയ ചോക്ക്  ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Chalktranspirancy_two">
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിൻേറെ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് കാണാൻ സാധിക്കുന്നില്ല. ഇത് സൂചിപ്പിക്കുന്നത് തങ്ങിനിൽക്കൽ അവൃക്തമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="ChalkFiltration">
+	<TEXT ID="ChalkFiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച് ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച് തങ്ങിയ ചോക്ക് ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkFiltration_two">
+		<TEXTVALUE>ചോക്കിൻ്റെ കണങ്ങൾ വൃക്തമായി ഫിൽട്ടർ പേപ്പറിൽ കാണാം ചോക്കിൻ്റെ ഘടകങ്ങളെ അരിക്കലിലൂടെ വേർതിരിക്കാം എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="ChalkStability">
+	<TEXT ID="ChalkStability_one">
+		<TEXTVALUE>ചോക്ക് പൊടി ഒരു ടെസ്റ്റൃൂബിൽ എടുത്തിട്ട് 20 മിന്നിട്ട് ടെസ്റ്റൃൂബ് ഷെൽഫിൽ  അനക്കാതെ വെക്കുക.ചോക്ക് തരികൾ ക്രമേണ അടിയിലേക്ക് താഴുന്നതായി കാണാം.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkStability_two">
+		<TEXTVALUE>തങ്ങിൽക്കൽ അസ്ഥിരമാണ്. ഭാരം കൂടിയ കണങ്ങളുടെ അടിയുന്നു എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandWater">
+	<TEXT ID="FindsandWater_one">
+		<TEXTVALUE>10 ഗ്രാം മണൽ  95 മി.ലി. ജലം അടങ്ങിയ 250 മി.ലി. ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandWater_two">
+		<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി ഇളക്കുക</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="solutionsoisand">
+	<TEXT ID="solutionsoisand_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ  ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandTranspirancy">
+	<TEXT ID="FindsandTranspirancy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് തങ്ങിയ മണ്ണ്  ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		 </TEXT>
+		<TEXT ID="FindsandTranspirancy_two">
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിന്റ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് കാണാൻ സാധിക്കുന്നില്ല. ഇത് സൂചിപ്പിക്കുന്നത് തങ്ങിനിൽക്കൽ അവൃക്തമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="FindsandFiltration">
+	<TEXT ID="FindsandFiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച് ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ  വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച് തങ്ങിയ മണൽ  ലായനി ഫണലിലൂടെ ഒഴിക്കുക. തെളിഞ്ഞ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandFiltration_two">
+		<TEXTVALUE>മണലിൻ്റെ കണങ്ങൾ വൃക്തമായി ഫിൽട്ടർ പേപ്പറിൽ കാണാം മണലിൻ്റെ ഘടകങ്ങളെ അരിക്കലിലൂടെ വേർതിരിക്കാം എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+<SCENE ID="Findsandstability">
+	<TEXT ID="Findsandstability_one">
+		<TEXTVALUE>കുറച്ച് തങ്ങിനിൽക്കുന്ന മണൽത്തരികൾ എടുക്കുക20 മിന്നിട്ട് ഷെൽഫിൽ വെയ്ക്കുക. ടെസ്റ്റൃൂബിന് അടിയിൽ ക്രമേണ മണൽ അടിയുന്നത് ആയി കാണാം.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Findsandstability_two">
+		<TEXTVALUE>അസ്ഥിരമായ ഭാരം കൂടിയ കണങ്ങളെയാണ് ഇത് സൂചിപ്പിക്കുന്നത്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchwater">
+	<TEXT ID="Starchwater_one">
+		<TEXTVALUE>1 ഗ്രാം സ്റ്റാർച്ച് പൊടി  250 മി.ലി.ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_two">
+		<TEXTVALUE>വേറൊരു 100ഗ്രാം ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ എടുക്കുക.3മി.ലി ജലം അളവ് ജാറിൽ എടുക്കുക. ഇത് സ്റ്റാർച്ച് അടങ്ങിയ ബീക്കറിൽ ഒഴിക്കുക. ഗ്ലാസ്സ് റോ‍് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_three">
+		<TEXTVALUE>അവശേഷിച്ച 97 മി.ലി.ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ ബൺസൺബെർണറിന്  മുകളിൽ  വെച്ച്  ചൂടാക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_four">
+		<TEXTVALUE>സ്റ്റാർച്ച്  അടങ്ങിയ ബീക്കറിലേക്ക് ചൂടായ ജലം ഒഴിക്കുക. ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കിയതിന് ശേഷം തണുപ്പിക്കുക.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilstarch">
+	<TEXT ID="solutionsoilstarch_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchtranspirancy">
+	<TEXT ID="Starchtranspirancy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ കുറച്ച് സ്റ്റാർച്ചിൻ്റെ കൊളോയ്ഡ്  ലായനി എടുത്തിട്ട് ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ പേപ്പർ ഒട്ടിക്കുക, അടുത്ത വശത്ത് നിന്ന് നോക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Starchtranspirancy_two">
+		<TEXTVALUE>മറുഭാഗത്ത് നിന്നും സെല്ലോഫെൻ പേപ്പറിൻേറെ ദൃശൃം നിരീക്ഷിക്കുക, അപ്പോൾ ഇത് മങ്ങലായി കാണാൻ സാധിക്കുന്നു. ഇത് സൂചിപ്പിക്കുന്നത് കൊളോയ്ഡ് അർത്ഥ സുതാരൃമാണന്ന് ആണ്.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="StarchFiltration">
+	<TEXT ID="StarchFiltration_one">
+		<TEXTVALUE> സ്റ്റാൻഡിനോട് ഘടിപ്പിച്ച്  ടെസ്റ്റൃൂബിന് മുകളിലായി ഒരു ഫണൽ  വെച്ചിട്ട് ഉള്ളിൽ അരിക്കൽ പേപ്പർ വെയ്ക്കുക, വേറൊരു ടെസ്റ്റൃൂബിൽ കുറച്ച്  കൊളോയ്ഡൽ സ്റ്റാർച്ച്   ഫണലിലൂടെ ഒഴിക്കുക. അർത്ഥസുതാരൃ അവക്ഷിപ്തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="StarchFiltration_two">
+		<TEXTVALUE>ഫിൽട്ടർ പേപ്പറിൽ അവക്ഷിപ്തങ്ങളൊന്നും അവശേഷിക്കുന്നില്ല. കൊളോയ്ഡിന് കാരണമായ ഘടകങ്ങളെ അരിക്കലിലൂടെ വേർതിരിക്കാൻ കഴിയില്ല. എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="StarchStability">
+	<TEXT ID="StarchStability_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ സ്റ്റാർച്ചിൻ്റെ കൊളോയ്ഡൽ   ലായനി  എടുത്തിട്ട്  ടെസ്റ്റൃൂബ് ഫെൽഫിൽ 20 മിന്നിട്ട് വെയ്ക്കുക. ഒരു മാറ്റവും കാണുന്നില്ല ഇത് നിലനിൽക്കുന്നു. ട്രൂ ലായനി സ്ഥിരമാണ്.പദാർത്ഥ കണങ്ങൾ  അടിയുന്നില്ല. എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Eggwater">
+	<TEXT ID="Eggwater_one">
+		<TEXTVALUE>1 ഗ്രാം മുട്ടയുടെ വെള്ള 250 മി.ലി. ബീക്കറിൽ ചേർക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_two">
+		<TEXTVALUE>100 മി.ലി. ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ വേറൊരു ബീക്കർ എടുത്തിട്ട്  5 മി.ലി. ജലം അളവ് ജാറിൽ എടുക്കുക, മുട്ടയുടെ വെള്ള അടങ്ങിയ ബീക്കറിലേക്ക് ഇത് ഒഴിക്കുക. ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനി നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_three">
+		<TEXTVALUE>അവശേഷിച്ച 95 മിലി.ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ എടുക്കുക. മുട്ടയുടെ വെള്ള അടങ്ങിയ ബീക്കറിലേക്ക് ഇത് സാവധാനം ഒഴിക്കുക. ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. തെളിഞ്ഞ ലായനി വേർതിരിയുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_four">
+		<TEXTVALUE>ഈ തെളിഞ്ഞ ലായനിയിലേക്ക്  നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് ചേർക്കുക. നന്നായി ഇളക്കുക. ആൽബുമിൻ്റെ തെളിഞ്ഞ ലായനിയും ജലവും കലങ്ങുന്നു.
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilegg">
+	<TEXT ID="solutionsoilegg_one">
+		<TEXTVALUE>ടെസ്റ്റിൽ ക്ലിക്ക് ചെയ്ത് ഏതെങ്കിലും ഒന്ന് തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="eggtranspirancy">
+	<TEXT ID="eggtranspirancy_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റൃൂബിൽ  മുട്ടയുടെ വെള്ളയുടെ കൊളോയ്ഡൽ എടുക്കുക. ടെസ്റ്റൃൂബിൻ്റെ ഒരു വശത്ത് സെല്ലോഫെൻ കഷണം ഒട്ടിക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="eggtranspirancy_two">
+		<TEXTVALUE>അടുത്ത വശത്തുനിന്നും ഇത് നോക്കുക, ടെസ്റ്റൃൂബിൻ്റെ അങ്ങേ വശത്തുനിന്നും നോക്കുമ്പോൾ സെല്ലോഫെൻ ഒട്ടിച്ചത് മങ്ങലായി കാണുന്നു. ഇത്കൊളോയ്ഡ് അർത്ഥസുതാരൃത ഉള്ളതാണ് എന്ന് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="EggFiltration">
+	<TEXT ID="EggFiltration_one">
+		<TEXTVALUE>ഘടിപ്പിച്ച സ്റ്റാൻഡ്  ഉപയോഗിച്ച് ഒരു ചോർപ്പ്  ടെസ്റ്റൃൂബിന് മുകളിലായി വെയ്ക്കുക.എന്നിട്ട് ചോർപ്പിൽ ഒരു ഫിൽട്ടർ പേപ്പർ വെയ്ക്കുക, ശേഷം മറ്റൊരു ചോർപ്പിലൂടെ ടെസ്റ്റൃൂബിലേക്ക് മുട്ടയുടെ വെള്ളയുടെ കൊളോയ്ഡ് ഒഴിക്കുക. അപ്പോൾ അർത്ഥ സുതാരൃതയുള്ള ഒരു അവക്ഷിപ്തം വേർതിരിയുന്നു.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="EggFiltration_two">
+		<TEXTVALUE>ഫിൽട്ടർപേപ്പറിൽ മാലിനൃം അവശേഷിക്കുന്നില്ല. അരിക്കലിലൂടെ ഘടകങ്ങൾക്ക് കാരണമായ കൊളോയ്ഡിനെ വേർതിരിക്കാൻ കഴിയുകയില്ല എന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+   </TEXT>
+   
+   
+</SCENE>
+
+<SCENE ID="Eggstability">
+	<TEXT ID="Eggstability_one">
+		<TEXTVALUE> കുറച്ച് മുട്ടയുടെ വെള്ളയുടെ ലായനി ഒരു ടെസ്റ്റൃൂബിൽ എടുത്തിട്ട്  20 മിന്നിട്ട് നേരം ടെസ്റ്റൃൂബ് ഷൽഫിൽ വെയ്ക്കുക,ഒരു മാറ്റവും കാണുന്നില്ല. കൊളോയ്ഡ് സ്ഥിരമാണന്ന് ഇത് സൂചിപ്പിക്കുന്നു. ലായകതന്മാത്രകൾ അബദ്ധവശാൽ പോലും അടിയിലേക്ക് വേർതിരിയുന്നില്ല.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+</DATA>

@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="naming_reaction1_11">
+		<TEXTVALUE>एकेरी विस्थापन अभिक्रियेचा </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="naming_strt_s1">
+		<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>आवश्यक सामग्री: कॉपर सल्फेट, लोखंडी खिळे, ऊर्ध्वपतित पाणी, चंचुपात्र, मापन नळकांडे, परिक्षा नळ्या, दोन क्लांप स्टँड, धाग्याचा तुकडा, काचेचा रॉड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_01">
+		<TEXTVALUE>परिक्षा नळ्या
+स्टँड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_02">
+		<TEXTVALUE>चंचुपात्र</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_03">
+		<TEXTVALUE>लोखंडी खिळे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_04">
+		<TEXTVALUE> काचेचा रॉड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_05">
+		<TEXTVALUE>धाग्याचा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_ststtxt_01">
+		<TEXTVALUE>कॉपर 
+	सल्फेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>पुरेसे ऊर्ध्वपतित पाणी एका मापन नळकांड्यात घेऊन एका स्वच्छ चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE>ह्यात आवश्यक मात्रेत कॉपर सल्फेट टाका.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>चंचुपात्रातले द्रावण काचेच्या रॉडने नीट ढवळा जोपर्यंत कॉपर सल्फेट स्फटिके पूर्णपणे विरघळत नाही.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="addcoppersulphate_textb_07">
+		<TEXTVALUE>ऊर्ध्वपतित 
+	पाणी</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_ststtic_03">
+		<TEXTVALUE>कॉपर सल्फेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>पुरेसे कॉपर सल्फेट एका परिक्षा नळीत ओता.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>परिक्षा नळी स्टँडला लावा.</TEXTVALUE>
+		</TEXT>
+			<TEXT ID="cstotesttube_stastic_04">
+		<TEXTVALUE>कॉपर सल्फेट 
+	द्रावण</TEXTVALUE>
+	</TEXT>
+		
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>पुरेसे कॉपर सल्फेट दुसर्‍या परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>ही परिक्षा नळी पण स्टँडला लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>दोन लोखंडी खिळे घ्या</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_sand_11">
+		<TEXTVALUE>सॅंड पेपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_ststiron_1">
+		<TEXTVALUE>लोखंडी खिळे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>खिळे सॅंड पेपरने घासून स्वच्छ करा म्हणजे त्यांचा रंग राखाडी दिसेल.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>एक खिळा धाग्याने बांधा. </TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>कॉपर सल्फेट द्रावण असलेल्या एका परिक्षा नळीत तो बुडवा.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>दोन्ही परिक्षा नळ्या 15 मिनिटे तशाच राहू द्या.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>१५ मिनिटांनी, खिळा असलेल्या कॉपर सल्फेट द्रावणाचा रंग फिकट हिरवा होतो, आणि दुसर्‍या परिक्षा नळीतल्या द्रावणाचा रंग बदलत नाही.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>द्रावणाचा रंग Fe2+ आयन च्या उपस्थितीमुळे असतो.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="changecolor_cusref_11">
+		<TEXTVALUE>CuSO4
+</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_cusref_22">
+		<TEXTVALUE>CuSO4</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_mints_11">
+		<TEXTVALUE>15 मिनिटे</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_feras_11">
+		<TEXTVALUE>FeSO4</TEXTVALUE>
+		</TEXT>
+		
+	
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>द्रावणातून लोखंडी खिळा काढा.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>दुसर्‍या खिळ्याशी त्याची तुलना करा.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>कॉपर सल्फेट मध्ये बुडविलेल्या खिळ्याला एक तांब्याचे तपकिरी आवरण आहे, दूसरा खिळा राखडीच आहे. ही एक एकेरी विस्थापन अभिक्रिया आहे कारण Fe आयन हे कॉपर सल्फेट द्रावणातून Cu आयन ना विस्थापित करतात.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_brct_11">
+		<TEXTVALUE>तपकिरी 
+आवरण</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_bcko_1">
+		<TEXTVALUE>मागे</TEXTVALUE>
+		</TEXT>
+		
+		
+</SCENE>
+			
+	
+</DATA>
+
+	

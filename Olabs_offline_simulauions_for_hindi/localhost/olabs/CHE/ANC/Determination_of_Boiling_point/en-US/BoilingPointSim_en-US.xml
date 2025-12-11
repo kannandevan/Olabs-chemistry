@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="BoilingPointSim.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BEAKER">
+        <source>Beaker</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_BOILTUBE">
+        <source>Boiling Tube</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BURNER">
+        <source>Bunsen Burner</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CORK">
+        <source>Cork</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CORKLABL">
+        <source>Cork the boiling tube</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_DELTUBE">
+        <source>Delivery Tube</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INTRODUCTIONS">
+        <source>Move the Mouse Over each apparatus to know the names.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_PUMICE">
+        <source>Pumice Stone</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_START">
+        <source>Turn On Burner</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STONELABL">
+        <source>Add pumice stone</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STOP">
+        <source>Turn Off Burner</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TEMP">
+        <source>Temperature:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_THERMO">
+        <source>Thermometer</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_THERMOLABL">
+        <source>Insert thermometer</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TUBELABL">
+        <source>Insert delivery tube</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_UNITDEGREE">
+        <source>°C</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_WATER">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_WATERLEVEL">
+        <source>Water in Boiling tube : 25 ml</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ZOOM">
+        <source>Show zoom</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

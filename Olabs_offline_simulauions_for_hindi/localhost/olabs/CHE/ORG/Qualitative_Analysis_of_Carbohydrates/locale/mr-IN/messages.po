@@ -1,0 +1,727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-05-18 14:16+0530\n"
+"PO-Revision-Date: 2016-05-18 14:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:18
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols_main.js:22
+msgid "Qualitative Analysis of Carbohydrates"
+msgstr "पिष्ठमय पदार्थांचे गुणात्मक विश्लेषण"
+
+#: simcontrols_main.js:24
+msgid "Glucose"
+msgstr "ग्लुकोस"
+
+#: simcontrols_main.js:24
+msgid "Lactose"
+msgstr "लॅक्टोस"
+
+#: simcontrols_main.js:24
+msgid "Sucrose"
+msgstr "सुक्रोस"
+
+#: simcontrols_main.js:24
+msgid "Starch"
+msgstr "स्टार्च"
+
+#: simcontrols_main.js:24
+msgid "Water"
+msgstr "पाणी"
+
+#: simcontrols_main.js:24
+msgid ""
+"Glucose, lactose and sucrose are soluble in water,<br>whereas starch is insoluble in "
+"water."
+msgstr "ग्लुकोस, लॅक्टोस आणि सुक्रोस पाण्यात विरघळतात, <br> स्टार्च पाण्यात अविद्राव्य असते."
+
+#: simcontrols_main.js:25
+msgid "Molisch’s Reagent"
+msgstr "मोलिश अभिकारक"
+
+#: simcontrols_main.js:25
+msgid "Conc. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "संहत H2SO4"
+
+#: simcontrols_main.js:25
+msgid ""
+"Carbohydrates undergo dehydration by Conc. H<sub>2</sub>SO<sub>4</sub> to form "
+"furfural<br>(furfuraldehyde) or its derivative.  The furfurals further react with α-"
+"naphthol<br>present in the Molisch’s reagent to form a red-violet (purple) "
+"coloured<br>product that appears as a purple ring at the interface between<br>the acid "
+"and the test layers."
+msgstr ""
+"संहत H2SO4 मुळे पिष्ठमय पदार्थांचे निर्जलीभवन होते आणि फरफरल किंवा त्यापासून निर्माण झालेले संयुग तयार "
+"होते. ह्या फरफरल आणि मोलिश अभिकारकातल्या α-नाफ्थोल ची अभिक्रिया होते आणि एक लाल-जांभळे उत्पादन "
+"निर्माण होते. हे आम्ल व परिक्षा थरांच्या मध्ये एक लाल-जांभळ्या वर्तुळाच्या रूपात दिसते."
+
+#: simcontrols_main.js:26
+msgid "Fehling’s solution A"
+msgstr "फेहलिंग द्रावण ए"
+
+#: simcontrols_main.js:26
+msgid "Fehling’s solution B"
+msgstr "फेहलिंग द्रावण बी"
+
+#: simcontrols_main.js:26
+msgid "Place test tubes in waterbath"
+msgstr "पाण्याच्या कुंडात परिक्षा नळ्या ठेवा."
+
+#: simcontrols_main.js:26
+msgid ""
+"Reducing sugars (glucose & lactose) reduce the deep blue solution of<br>copper (II) in "
+"the test reagent to red precipitate of insoluble cuprous oxide."
+msgstr ""
+"परिक्षा अभिकारकातल्या कॉपर (II) च्या गडद निळ्या रंगाचे क्षपणक शर्करांमुळे (ग्लुकोस आणि लॅक्टोस) क्षपणन "
+"होते आणि क्युप्रस ऑक्साइड चे लाल अविद्राव्य अवक्षेपण निर्माण होते."
+
+#: simcontrols_main.js:27
+msgid "Benedict’s Reagent"
+msgstr "बेनेडिक्ट अभिकारक"
+
+#: simcontrols_main.js:27
+msgid ""
+"Reducing sugars (glucose & lactose) reduce blue copper (II)<br>ions in the Benedict’s "
+"reagent to red precipitate of cuprous oxide."
+msgstr ""
+"बेनेडिक्ट अभिकारकातल्या कॉपर (II) च्या निळ्या आयनचे क्षपणक शर्करांमुळे (ग्लुकोस आणि लॅक्टोस) क्षपणन होते "
+"आणि क्युप्रस ऑक्साइड चे लाल अवक्षेपण निर्माण होते."
+
+#: simcontrols_main.js:27
+msgid "20 Minutes"
+msgstr "२० मिनिटे"
+
+#: simcontrols_main.js:28
+msgid "Tollen’s Reagent"
+msgstr "टोलेन अभिकारक"
+
+#: simcontrols_main.js:28
+msgid ""
+"Reducing sugars (glucose & lactose) reduce silver ions in the test reagent "
+"to<br>elemental silver.  Elemental silver, accumulated on the inner surface of<br>the "
+"reaction vessel, produces a silver mirror on the inner surface of the vessel."
+msgstr ""
+"क्षपणक शर्करामुळे (ग्लुकोस आणि लॅक्टोस) ह्या परिक्षा अभिकारकातल्या सिल्वर आयन यांचे क्षपणन होते आणि मूलद्रव "
+"सिल्वर निर्माण होते. अभिक्रिया पात्राच्या आतल्या पृष्ठभागावर मूलद्रव सिल्वर गोळा होते आणि अभिक्रिया "
+"पात्राच्या आतल्या पृष्ठभागावर चांदीचा आरसा निर्माण होतो."
+
+#: simcontrols_main.js:29
+msgid "Iodine Solution"
+msgstr "आयोडीन द्रावण"
+
+#: simcontrols_main.js:29
+msgid ""
+"Iodine reacts with starch to form a starch/iodine complex,<br>which gives a "
+"characteristic blue colour to the reaction mixture.<br>Glucose, lactose and sucrose do "
+"not give this reaction."
+msgstr ""
+"आयोडीन आणि स्टार्च यांची अभिक्रिया होते आणि एक स्टार्च/आयोडीन कॉम्प्लेक्स निर्माण होते ज्यामुळे द्रावणाला "
+"विशिष्ट निळा रंग येतो. ग्लुकोस, लॅक्टोस आणि सुक्रोस यांची अशी अभिक्रिया होत नाही."
+
+#: simcontrols_main.js:30
+msgid ""
+"Drag the dropper towards the test tubes<br>to drop water into test tubes A, B, C<br>and D "
+"respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये पाणी टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:30
+msgid "Drag the test tubes A, B, C and D respectively <br>to shake the test tubes well."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी नीट हलविण्यासाठी नळ्या ओढा."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the dropper towards the test tubes to drop<br>Molisch’s reagent into test tubes A, "
+"B, C<br>and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये मोलिश अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:31
+msgid "Drag test tube A towards the reagent bottles<br>to place it in slanting position."
+msgstr "परिक्षा नळी ए अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the dropper towards test tube A to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly "
+"along the side of the test tube."
+msgstr "परिक्षा नळी ए मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the test tube B towards the reagent bottles<br>to place it in slanting position."
+msgstr "परिक्षा नळी बी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the dropper towards test tube B to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly "
+"along the side of the test tube."
+msgstr "परिक्षा नळी बी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the test tube C towards the reagent bottles<br>to place it in slanting position."
+msgstr "परिक्षा नळी सी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the dropper towards test tube C to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly "
+"along the side of the test tube."
+msgstr "परिक्षा नळी सी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:31
+msgid "Drag test tube D towards the reagent bottles<br>to place it in slanting position."
+msgstr "परिक्षा नळी डी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#: simcontrols_main.js:31
+msgid ""
+"Drag the dropper towards test tube D to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly "
+"along the side of the test tube."
+msgstr "परिक्षा नळी डी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:32
+msgid ""
+"Drag the dropper towards the test tubes<br>to drop Fehling’s solution A into test tubes "
+"A, B, C<br>and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये फेहलिंग द्रावण ए टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:32
+msgid ""
+"Drag the dropper towards the tests tubes to drop Fehling’s<br>solution B into the test "
+"tubes A, B, C and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये फेहलिंग द्रावण बी टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:33
+msgid ""
+"Drag the dropper towards the tests tubes to drop Benedict’s<br>reagent into the test "
+"tubes A, B, C and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये बेनेडिक्ट अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:34
+msgid ""
+"Drag the dropper towards the tests tubes to drop<br>Tollen’s reagent into the test tubes "
+"A, B, C and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये टोलेन अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:35
+msgid ""
+"Drag the dropper towards the test tubes to drop iodine<br>solution into test tubes A, B, "
+"C and D respectively."
+msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये आयोडीन द्रावण टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#: simcontrols_main.js:36
+msgid ""
+"Drag the test tubes A, B, C and D respectively towards<br>the beaker to place them in the "
+"water bath."
+msgstr "परिक्षा नळया ए, बी, सी आणि डी पाण्याच्या कुंडात ठेवण्यासाठी त्यांना चंचुपात्राकडे ओढा."
+
+#: simcontrols_main.js:36
+msgid "Click on the switch of the hot plate to<br>heat the water bath."
+msgstr "पाण्याचे कुंड गरम करण्यासाठी हॉट प्लेटचे बटण क्लिक करा"
+
+#: simcontrols_main.js:38
+msgid "Reset"
+msgstr "पूर्ववत करा"
+
+#: simcontrols_main.js:42
+msgid "Select the test:"
+msgstr "परिक्षा निवडा"
+
+#: simcontrols_main.js:43
+msgid "Solubility test"
+msgstr "द्रावणीयता परिक्षा"
+
+#: simcontrols_main.js:43
+msgid "Molisch’s test"
+msgstr "मोलिश परिक्षा"
+
+#: simcontrols_main.js:43
+msgid "Fehling’s test"
+msgstr "फेहलिंग परिक्षा"
+
+#: simcontrols_main.js:43
+msgid "Benedict’s test"
+msgstr "बेनेडिक्ट परिक्षा"
+
+#: simcontrols_main.js:43
+msgid "Tollen’s test"
+msgstr "टोलेन परिक्षा"
+
+#: simcontrols_main.js:43
+msgid "Iodine test"
+msgstr "आयोडीन परिक्षा"
+
+#~ msgid ""
+#~ "Glucose, lactose and sucrose are soluble in water,whereas starch is insoluble in water."
+#~ msgstr "ग्लुकोस, लॅक्टोस आणि सुक्रोस पाण्यात विरघळतात, <br> स्टार्च पाण्यात अविद्राव्य असते."
+
+#~ msgid "Conc. H2SO4"
+#~ msgstr "संहत H2SO4"
+
+#~ msgid ""
+#~ "Carbohydrates undergo dehydration by Conc. H2SO4 to form furfural(furfuraldehyde) or "
+#~ "its derivative.  The furfurals further react with α-naphtholpresent in the Molisch’s "
+#~ "reagent to form a red-violet (purple) coloured product that appears as a purple ring "
+#~ "at the interface between the acid and the test layers."
+#~ msgstr ""
+#~ "संहत H2SO4 मुळे पिष्ठमय पदार्थांचे निर्जलीभवन होते आणि फरफरल किंवा त्यापासून निर्माण झालेले संयुग तयार "
+#~ "होते. ह्या फरफरल आणि मोलिश अभिकारकातल्या α-नाफ्थोल ची अभिक्रिया होते आणि एक लाल-जांभळे उत्पादन "
+#~ "निर्माण होते. हे आम्ल व परिक्षा थरांच्या मध्ये एक लाल-जांभळ्या वर्तुळाच्या रूपात दिसते. "
+
+#~ msgid ""
+#~ "Reducing sugars (glucose & lactose) reduce the deep blue solution of copper (II) in "
+#~ "the test reagent to red precipitate of insoluble cuprous oxide."
+#~ msgstr ""
+#~ "परिक्षा अभिकारकातल्या कॉपर (II) च्या गडद निळ्या रंगाचे क्षपणक शर्करांमुळे (ग्लुकोस आणि लॅक्टोस) क्षपणन "
+#~ "होते आणि क्युप्रस ऑक्साइड चे लाल अविद्राव्य अवक्षेपण निर्माण होते."
+
+#~ msgid ""
+#~ "Reducing sugars (glucose & lactose) reduce blue copper (II)ions in the Benedict’s "
+#~ "reagent to red precipitate of cuprous oxide."
+#~ msgstr ""
+#~ "बेनेडिक्ट अभिकारकातल्या कॉपर (II) च्या निळ्या आयनचे क्षपणक शर्करांमुळे (ग्लुकोस आणि लॅक्टोस) क्षपणन होते "
+#~ "आणि क्युप्रस ऑक्साइड चे लाल अवक्षेपण निर्माण होते."
+
+#~ msgid ""
+#~ "Reducing sugars (glucose & lactose) reduce silver ions in the test reagent to "
+#~ "elemental silver.  Elemental silver, accumulated on the inner surface of the reaction "
+#~ "vessel, produces a silver mirror on the inner surface of the vessel."
+#~ msgstr ""
+#~ "क्षपणक शर्करामुळे (ग्लुकोस आणि लॅक्टोस) ह्या परिक्षा अभिकारकातल्या सिल्वर आयन यांचे क्षपणन होते आणि "
+#~ "मूलद्रव सिल्वर निर्माण होते. अभिक्रिया पात्राच्या आतल्या पृष्ठभागावर मूलद्रव सिल्वर गोळा होते आणि "
+#~ "अभिक्रिया पात्राच्या आतल्या पृष्ठभागावर चांदीचा आरसा निर्माण होतो."
+
+#~ msgid ""
+#~ "Iodine reacts with starch to form a starch/iodine complex,which gives a characteristic "
+#~ "blue colour to the reaction mixture.Glucose, lactose and sucrose do not give this "
+#~ "reaction."
+#~ msgstr ""
+#~ "आयोडीन आणि स्टार्च यांची अभिक्रिया होते आणि एक स्टार्च/आयोडीन कॉम्प्लेक्स निर्माण होते ज्यामुळे "
+#~ "द्रावणाला विशिष्ट निळा रंग येतो. ग्लुकोस, लॅक्टोस आणि सुक्रोस यांची अशी अभिक्रिया होत नाही."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tubes to drop water into test tubes A, B, Cand D "
+#~ "respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये पाणी टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid "Drag the test tubes A, B, C and D respectively to shake the test tubes well."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी नीट हलविण्यासाठी नळ्या ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tubes to drop Molisch’s reagent into test tubes A, "
+#~ "B, C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये मोलिश अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid "Drag test tube A towards the reagent bottles to place it in slanting position."
+#~ msgstr "परिक्षा नळी ए अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#~ msgid ""
+#~ "Drag the dropper towards test tube A to drop Conc. H2SO4 slowly along the side of the "
+#~ "test tube."
+#~ msgstr "परिक्षा नळी ए मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the test tube B towards the reagent bottles to place it in slanting position."
+#~ msgstr "परिक्षा नळी बी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#~ msgid ""
+#~ "Drag the dropper towards test tube B to drop Conc. H2SO4 slowly along the side of the "
+#~ "test tube."
+#~ msgstr "परिक्षा नळी बी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the test tube C towards the reagent bottles to place it in slanting position."
+#~ msgstr "परिक्षा नळी सी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#~ msgid ""
+#~ "Drag the dropper towards test tube C to drop Conc. H2SO4 slowly along the side of the "
+#~ "test tube."
+#~ msgstr "परिक्षा नळी सी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#~ msgid "Drag test tube D towards the reagent bottles to place it in slanting position."
+#~ msgstr "परिक्षा नळी डी अभिकारक बाटल्यांकडे ओढा म्हणजे नळी वाकडी होईल."
+
+#~ msgid ""
+#~ "Drag the dropper towards test tube D to drop Conc. H2SO4slowly along the side of the "
+#~ "test tube."
+#~ msgstr "परिक्षा नळी डी मध्ये संहत H2SO4 कडेने हळू हळू टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tubes to drop Fehling’s solution A into test tubes "
+#~ "A, B, C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये फेहलिंग द्रावण ए टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the tests tubes to drop Fehling’s solution B into the test "
+#~ "tubes A, B, C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये फेहलिंग द्रावण बी टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the tests tubes to drop Benedict’s reagent into the test "
+#~ "tubes A, B, C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये बेनेडिक्ट अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the tests tubes to drop Tollen’s reagent into the test tubes "
+#~ "A, B, C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये टोलेन अभिकारक टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tubes to drop iodine solution into test tubes A, B, "
+#~ "C and D respectively."
+#~ msgstr "परिक्षा नळी ए, बी, सी आणि डी मध्ये आयोडीन द्रावण टाकण्यासाठी ड्रॉपर नळ्यांकडे ओढा."
+
+#~ msgid ""
+#~ "Drag the test tubes A, B, C and D respectively towards the beaker to place them in the "
+#~ "water bath."
+#~ msgstr "परिक्षा नळया ए, बी, सी आणि डी पाण्याच्या कुंडात ठेवण्यासाठी त्यांना चंचुपात्राकडे ओढा."
+
+#~ msgid "Click on the switch of the hot plate to heat the water bath."
+#~ msgstr "पाण्याचे कुंड गरम करण्यासाठी हॉट प्लेटचे बटण क्लिक करा"
+
+#~ msgid "Colour test"
+#~ msgstr "Colour test"
+
+#~ msgid "Smell test"
+#~ msgstr "Smell test"
+
+#~ msgid "Dry heating test"
+#~ msgstr "Dry heating test"
+
+#~ msgid "Charcoal cavity test"
+#~ msgstr "Charcoal cavity test"
+
+#~ msgid "Cobalt nitrate test"
+#~ msgstr "Cobalt nitrate test"
+
+#~ msgid "Flame test"
+#~ msgstr "Flame test"
+
+#~ msgid "Borax bead test"
+#~ msgstr "Borax bead test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Select preliminary test:"
+#~ msgstr "Select preliminary test:"
+
+#~ msgid "Select the group test:"
+#~ msgstr "Select the group test:"
+
+#~ msgid "Select the confirmation test:"
+#~ msgstr "Select the confirmation test:"
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Ammonium-NH4+"
+#~ msgstr "Ammonium-NH4+"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Magnesium-Mg2+"
+#~ msgstr "Magnesium-Mg2+"
+
+#~ msgid "Salt.png"
+#~ msgstr "Salt.png"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</"
+#~ "sup> are absent."
+#~ msgstr ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</"
+#~ "sup> are absent."
+
+#~ msgid "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+#~ msgstr "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "May be Mn<sup>2+</sup> is present"
+#~ msgstr "May be Mn<sup>2+</sup> is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Acetic acid"
+#~ msgstr "Acetic acid"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department "
+#~ "of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department "
+#~ "of IT"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+#~ msgstr "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+
+#~ msgid "Click on the test tube to shake it."
+#~ msgstr "Click on the test tube to shake it."
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the "
+#~ "solution over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the "
+#~ "solution over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid "
+#~ "into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid "
+#~ "into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that "
+#~ "turns lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that "
+#~ "turns lime water milky."
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in "
+#~ "the conical flask during the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in "
+#~ "the conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in "
+#~ "the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in "
+#~ "the conical flask during the respiration of the seeds."

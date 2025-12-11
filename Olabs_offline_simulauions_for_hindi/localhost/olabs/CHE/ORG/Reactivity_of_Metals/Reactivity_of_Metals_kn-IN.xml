@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+
+
+<SCENE ID="Reactivity_Met_Title">
+	<TEXT ID="Reactivity_Met_Title_one">
+	 	<TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Reactivity_Met_Title_string1">
+	 	<TEXTVALUE>ಲೋಹಗಳ ಕ್ರಿಯಾಪಟುತ್ವ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Reactivity_Met_Title_string_2">
+	 	<TEXTVALUE>ಪ್ರಾರಂಭಿಸು </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4_Buttons_Metals">
+	<TEXT ID="4_Buttons_Metals_one">
+	 	<TEXTVALUE>ಇವುಗಳಲ್ಲಿ ಒಂದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_3">
+	 	<TEXTVALUE>ಲೋಹಗಳ ಕ್ರಿಯಾಪಟುತ್ವ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_4">
+	 	<TEXTVALUE>ಸತು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_5">
+	 	<TEXTVALUE>ಅಲುಮಿನಿಯಂ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_6">
+	 	<TEXTVALUE>ತಾಮ್ರ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_7">
+	 	<TEXTVALUE>ಕಬ್ಬಿಣ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_8">
+	 	<TEXTVALUE>ಕ್ರಿಯಾಪಟುತ್ವದ ಕ್ರಮ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_9">
+	 	<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Zinc_S1">
+	<TEXT ID="Zinc_S1_one">
+	 	<TEXTVALUE>ಮೂರು ಬೀಕರ್ ಗಳಲ್ಲಿ 1M ಸಾಮರ್ಥ್ಯದ 20 ml   ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಸತುವಿನ ತುಣುಕುಗಳನ್ನು ಗಾಜಿನ ತಟ್ಟೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_two">
+	 	<TEXTVALUE>ಚಿಮುಟ ಬಳಸಿ ಕೆಲವು ಸತುವಿನ ತುಣುಕುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_three">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್, ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ಮತ್ತು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳಿಗೆ ಚಿಮುಟದ  ಸಹಾಯದಿಂದ ಎರಡೆರಡು ಸತುವಿನ ತುಣುಕುಗಳನ್ನು ಹಾಕಿ</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_four">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳನ್ನು ಅಲುಗಾಡಿಸದೆ ಒಂದು ಘಂಟೆ ಬಿಡಿ ಮತ್ತು ದ್ರಾವಣಗಳ ಬಣ್ಣದಲ್ಲಾಗುವ ಬದಲಾವಣೆ ಹಾಗು ಲೋಹದ ತುಣುಕುಗಳಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_five">
+	 	<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಪೇಟ್ (CuSO4)ನ ನೀಲಿಬಣ್ಣ ಅಗೋಚರವಾಗುತ್ತದೆ ಮತ್ತು ಕೆಂಪು - ಕಂದು ಬಣ್ಣದ ತಾಮ್ರದ ಕಣಗಳು ಬೀಕರಿನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Zinc_S1_five1">
+		<TEXTVALUE>ಇದರಿಂದ ತಾಮ್ರಕ್ಕಿಂತ ಸತು ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಅದು ತಾಮ್ರವನ್ನು  ತಾಮ್ರದ ಸಲ್ಪೇಟ್ (CuSO4) ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ಬಣ್ಣರಹಿತವಾದ ಸತುವಿನ ಸಲ್ಪೇಟ್ (ZnSO4) ದ್ರಾವಣವನ್ನು ನೀಡುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_six">
+	 	<TEXTVALUE>ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಕಂಡುಬರುವುದಿಲ್ಲ. ಅಲುಮಿನಿಯಂಗಿಂತ ಸತು ಕಡಿಮೆ ಕ್ರಿಯಾಪಟುವಾಗಿರುವುದರಿಂದ ಅದು Al[sub]2[/sub](SO[sub]4[/sub])[sub]3[/sub] ನ ದ್ರಾವಣದಿಂದ ಅಲುಮಿನಿಯಂ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುವುದಿಲ್ಲ.</TEXTVALUE>
+	</TEXT>
+	
+			<TEXT ID="Zinc_S1_seven">
+	 	<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಪೇಟ್ (FeSO4)ನ ದ್ರಾವಣದಲ್ಲಿ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ನ ಹಸಿರು ಬಣ್ಣ ಅಗೋಚರವಾಗುತ್ತದೆ ಮತ್ತು ಕಬ್ಬಿಣದ ಕಣಗಳು ಬೀಕರಿನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_seven1">
+	 	<TEXTVALUE>ಇದರಿಂದ  ಕಬ್ಬಿಣಕ್ಕಿಂತ ಸತು ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ ಹಾಗು ಕಬ್ಬೀಣದ ಸಲ್ಫೇಟ್ (FeSO4)ನ ದ್ರಾವಣದಿಂದ ಕಬ್ಬಿಣವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ವರ್ಣರಹಿತವಾದ  ಸತುವಿನ ಸಲ್ಪೇಟ್(ZnSO4) ನ ದ್ರಾವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_10">
+	 	<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಫೇಟ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_11">
+	 	<TEXTVALUE>ಅಲುಮಿನಿಯಂನ ಸಲ್ಫೇಟ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_12">
+	 	<TEXTVALUE>ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_13">
+	 	<TEXTVALUE>ಸತು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_14">
+	 	<TEXTVALUE>ಒಂದು ಘಂಟೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_15">
+	 	<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	
+	
+<SCENE ID="Copper_S2 ">
+	<TEXT ID="Copper_S2_one">
+	 	<TEXTVALUE>ಮೂರು ಬೀಕರ್ ಗಳಲ್ಲಿ  20 ml ಸತುವಿನ ಸಲ್ಫೇಟ್, ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ತಾಮ್ರದ ತುಣುಕುಗಳನ್ನು ಗಾಜಿನ ತಟ್ಟೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_two">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್, ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ಮತ್ತು ಸತುವಿನ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳಿಗೆ ಚಿಮುಟದ ಸಹಾಯದಿಂದ ಎರಡೆರಡು ತಾಮ್ರದ ತುಣುಕುಗಳನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+
+	
+	
+
+	<TEXT ID="Copper_S2_three">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳನ್ನು ಅಲುಗಾಡಿಸದೆ ಒಂದು ಘಂಟೆ ಬಿಡಿ ಮತ್ತು ದ್ರಾವಣಗಳ ಬಣ್ಣದಲ್ಲಾಗುವ ಬದಲಾವಣೆ ಹಾಗು ಲೋಹದ ತುಣುಕುಗಳಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿ.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_four">
+	 	<TEXTVALUE>ಮೂರೂ ಲವಣಗಳ ದ್ರಾವಣಗಳ ಬಣ್ಣಗಳಲ್ಲಾಗಲಿ ಅಥವಾ ಲೋಹದ ತುಣುಕುಗಳಲ್ಲಾಗಲಿ ಬದಲಾವಣೆ ಅಗುವುದಿಲ್ಲ.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Copper_S2_four1">
+	 	<TEXTVALUE>ಈ ಕ್ರಿಯೆಯು  ಅಲುಮಿನಿಯಂ, ಸತು ಮತ್ತು ಕಬ್ಬಿಣಕ್ಕಿಂತ ತಾಮ್ರವು ಕಡಿಮೆ ಕ್ರಿಯಾಪಟುವಾಗಿರುವುದರಿಂದ ಅವುಗಳನ್ನು ದ್ರಾವಣದಲ್ಲಿ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುವುದಿಲ್ಲ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_16">
+	 	<TEXTVALUE>ಸತುವಿನ ಸಲ್ಫೇಟ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_17">
+	 	<TEXTVALUE>ತಾಮ್ರ</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+<SCENE ID="Aluminium_S3">
+	<TEXT ID="Aluminium_S3_one">
+	 	<TEXTVALUE>ಮೂರು ಬೀಕರ್ ಗಳಲ್ಲಿ  20 ml  ನಷ್ಟು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ , ಸತುವಿನ ಸಲ್ಫೇಟ್ ಮತ್ತು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ ಗಳನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅಲುಮಿನಿಯಂ ಲೋಹದ ತುಣುಕುಗಳನ್ನು ಗಾಜಿನ ತಟ್ಟೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_two">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್, ಸತುವಿನ ಸಲ್ಫೇಟ್ ಮತ್ತು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳಿಗೆ ಚಿಮುಟದ ಸಹಾಯದಿಂದ ಎರಡೆರಡು ಅಲುಮಿನಿಯಂ ತುಣುಕುಗಳನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_three">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳನ್ನು ಅಲುಗಾಡಿಸದೆ ಒಂದು ಘಂಟೆ ಬಿಡಿ ಮತ್ತು ದ್ರಾವಣಗಳ ಬಣ್ಣದಲ್ಲಾಗುವ ಬದಲಾವಣೆ ಹಾಗು ಲೋಹದ ತುಣುಕುಗಳಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿ.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Aluminium_S3_four">
+	 	<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಪೇಟ್ (CuSO4)ನ ದ್ರಾವಣದ ನೀಲಿ ಬಣ್ಣ ಅಗೋಚರವಾಗುತ್ತದೆ ಮತ್ತು ಕೆಂಪು - ಕಂದು ಬಣ್ಣದ ತಾಮ್ರದ ಕಣಗಳು ಬೀಕರ್  ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_four1">
+	 	<TEXTVALUE>ಇದು ತಾಮ್ರಕ್ಕಿಂತ ಅಲುಮಿನಿಯಂ ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಅದು ತಾಮ್ರವನ್ನು  ತಾಮ್ರದ ಸಲ್ಪೇಟ್( CuSO4) ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ಬಣ್ಣರಹಿತವಾದ ಅಲುಮಿನಿಯಂ Al2(SO4)3 ದ್ರಾವಣವನ್ನು ನೀಡುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Aluminium_S3_five">
+	 	<TEXTVALUE>ಸತುವಿನ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವು ವರ್ಣರಹಿತವಾಗಿಯೇ ಉಳಿದು, ಸತುವಿನ ಕಣಗಳು ಬೀಕರಿನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_five1">
+	 	<TEXTVALUE>ಇದರಿಂದ ಸತುವಿಗಿಂತ ಅಲುಮಿನಿಯಂ ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿದ್ದು, ಸತುವನ್ನು ಸತುವಿನ ಸಲ್ಪೇಟ್ (ZnSO4) ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ವರ್ಣರಹಿತವಾದ Al2(SO4)3 ದ್ರಾವಣವನ್ನು ನೀಡುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="Aluminium_S3_six">
+	 	<TEXTVALUE>ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ಅದರ ಹಸಿರು ಬಣ್ಣ ಅಗೋಚರವಾಗುತ್ತದೆ ಮತ್ತು ಕಬ್ಬಿಣದ ಕಣಗಳು ಬೀಕರಿನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_six1">
+	 	<TEXTVALUE>ಇದರಿಂದ ಕಬ್ಬಿಣಕ್ಕಿಂತ ಅಲುಮಿನಿಯಂ ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿದ್ದು, ಕಬ್ಬಿಣವನ್ನು ಕಬ್ಬಿಣದ ಸಲ್ಪೇಟ್ (FeSO4) ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ವರ್ಣರಹಿತವಾದ Al2(SO)3  ದ್ರಾವಣವನ್ನು ನೀಡುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Aluminium_S3_string_18">
+	 	<TEXTVALUE>ಅಲುಮಿನಿಯಂ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Iron_S4">
+	<TEXT ID="Iron_S4_one">
+	 	<TEXTVALUE>ಮೂರು ಬೀಕರ್ ಗಳಲ್ಲಿ  20 ml ನಷ್ಟು ತಾಮ್ರದ ಸಲ್ಫೇಟ್,  ಸತುವಿನ ಸಲ್ಫೇಟ್ ಮತ್ತು ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕಬ್ಬಿಣದ ತುಣುಕುಗಳನ್ನು ಗಾಜಿನ ತಟ್ಟೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+<TEXT ID="Iron_S4_two">
+	 	<TEXTVALUE>ಬೀಕರ್ ಗಳಲ್ಲಿರುವ ಅಲುಮಿನಿಯಂ ಸಲ್ಫೇಟ್, ಸತುವಿನ ಸಲ್ಫೇಟ್ ಮತ್ತು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣಗಳಿಗೆ ಚಿಮುಟದ ಸಹಾಯದಿಂದ ಎರಡೆರಡು ಕಬ್ಬಿಣದ ತುಣುಕುಗಳನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Iron_S4_three">
+	 	<TEXTVALUE>ತಾಮ್ರದ ಸಲ್ಪೇಟ್(CuSO4) ದ್ರಾವಣದ ನೀಲಿ ಬಣ್ಣ ತಿಳಿ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಮತ್ತು ಕೆಂಪು - ಕಂದು ವರ್ಣದ ತಾಮ್ರದ ಕಣಗಳು ಬೀಕರಿನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹಗೊಳ್ಳುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_three1">
+	 	<TEXTVALUE>ಇದರಿಂದ  ಕಬ್ಬಿಣವು ತಾಮ್ರಕ್ಕಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟುವಾಗಿದ್ದು, ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO4) ದ್ರಾವಣದಿಂದ ತಾಮ್ರವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ತಿಳಿ ಹಸಿರು ವರ್ಣದ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (FeSO)4 ದ್ರಾವಣವನ್ನು ನೀಡುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_four">
+	 	<TEXTVALUE>ಉಳಿದೆರಡು ಸಂದರ್ಭಗಳಲ್ಲಿ, ಯಾವುದೇ ಬದಲಾವಣೆ ಇರುವುದಿಲ್ಲ. ಇದು ಕಬ್ಬಿಣವು  ಅಲುಮಿನಿಯಂ ಮತ್ತು ಸತುವಿಗಿಂತ ಕಡಿಮೆ ಕ್ರಿಯಾಪಟುವಾಗಿರುವುದರಿಂದ ಅವುಗಳನ್ನು ಲವಣಗಳ ದ್ರಾವಣಗಳಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುವುದಿಲ್ಲ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="Iron_S4_string_19">
+	 	<TEXTVALUE>ಕಬ್ಬಿಣ</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+	
+
+
+<SCENE ID="MetalFinal">
+	<TEXT ID="MetalFinal_one">
+	 	<TEXTVALUE>ಈ ಕ್ರಿಯಗಳಿಂದ ಲವಣದ ದ್ರಾವಣದಲ್ಲಿ  ಕಬ್ಬಿಣವು,  ತಾಮ್ರವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ,  ಸತುವು ತಾಮ್ರ ಮತ್ತು ಕಬ್ಬಿಣವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಅಲುಮಿನಿಯಂ  ಸತುವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ಆದ್ದರಿಂದ ಅಲುಮಿನಿಯಂ ಅತೀಹೆಚ್ಚು ಕ್ರಿಯಾಪಟು ಮತ್ತು ತಾಮ್ರ ಅತೀ ಕಡಿಮೆ ಕ್ರಿಯಾಪಟು ಲೋಹಗಳಾಗಿವೆ.  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MetalFinal_string_20">
+	 	<TEXTVALUE>ಕೊಟ್ಟಿರುವ ಲೋಹದ ಕ್ರಿಯಾಪಟುತ್ವದ ಕ್ರಮ</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_21">
+	 	<TEXTVALUE>ಹೆಚ್ಚು ಕ್ರಿಯಾಪಟು</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_22">
+	 	<TEXTVALUE>ಅತಿ ಕಡಿಮೆ ಕ್ರಿಯಾಪಟು</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_23">
+	 	<TEXTVALUE> ಇಳಿಕೆ ಕ್ರಮದಲ್ಲಿ ಕ್ರಿಯಾಪಟುತ್ವ</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+
+
+</DATA>
+
+
+
+
+
+

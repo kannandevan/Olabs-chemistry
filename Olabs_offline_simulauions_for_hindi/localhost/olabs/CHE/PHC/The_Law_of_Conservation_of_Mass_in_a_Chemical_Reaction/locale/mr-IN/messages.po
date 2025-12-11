@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: j\n"
+"POT-Creation-Date: 2015-09-21 10:38+0530\n"
+"PO-Revision-Date: 2016-04-28 10:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: j <j>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:20
+msgid ""
+"Click on the measuring cylinder containing sodium sulphate solution to pour "
+"it into the conical flask."
+msgstr "सोडियम सल्फेट द्रावण शंक्वाकृती चंबूत टाकण्यासाठी मापन नळकांड्यावर क्लिक करा."
+
+#: simcontrols.js:20
+msgid ""
+"Click on the measuring cylinder containing barium chloride solution to pour "
+"it into the 10 ml test tube."
+msgstr ""
+"बेरीयम क्लोराइड द्रावण १० मिलि परिक्षा नळीत टाकण्यासाठी मापन नळकांड्यावर क्लिक करा."
+
+#: simcontrols.js:20
+msgid "Click on the thread to tie the test tube with it."
+msgstr "परिक्षा नळीला धागा बांधण्यासाठी धाग्यावर क्लिक करा."
+
+#: simcontrols.js:20
+msgid "Click on the test tube to hang it in the conical flask."
+msgstr "शंक्वाकृती चंबूत परिक्षा नळी लटकविण्यासाठी नळीवर क्लिक करा"
+
+#: simcontrols.js:20
+msgid ""
+"Click on the conical flask to place it on the balance and weigh it with all "
+"the contents and note the reading."
+msgstr ""
+"शंक्वाकृती चंबू वजन काट्यावर ठेवून त्यातल्या द्रावणासहित त्याचे वजन करून त्याची नोंद "
+"करण्यासाठी चंबूवर क्लिक करा."
+
+#: simcontrols.js:20
+msgid "Click on the information icon to view the  inference."
+msgstr "निष्कर्ष बघण्यासाठी माहिती आयकॉन क्लिक करा."
+
+#: simcontrols.js:20
+msgid ""
+"Sodium sulphate solution reacts with barium chloride solution to form a "
+"white precipitate of barium sulphate and an aqueous solution of sodium "
+"chloride."
+msgstr ""
+"सोडियम सल्फेट द्रावण आणि बेरीयम क्लोराइड द्रावण ह्यांची अभिक्रिया होते आणि बेरीयम सल्फेटचे "
+"पांढरे अवक्षेपण आणि सोडियम क्लोराइड चे जलयुक्त द्रावण निर्माण होते."
+
+#: simcontrols.js:20
+msgid ""
+"Since the mass of the total apparatus remains the same before and after the "
+"reaction, the total mass of the reactants = the total mass of the products. "
+"Hence the law of conservation of mass is verified."
+msgstr ""
+"अभिक्रियेच्या आधी आणि नंतर संपूर्ण उपकरणाचे वस्तुमान सारखे असते, अभिक्रियाकारकांचे एकूण "
+"वस्तुमान = उत्पादनांचे एकूण वस्तुमान. म्हणून वस्तुमानाच्या अक्षय्यतेचा नियम सत्यापित झाला."
+
+#: simcontrols.js:20
+msgid "Click on the 'NEXT STEP' button to redirect the next step"
+msgstr "पुढच्या टप्प्याकडे जाण्यासाठी 'पुढचा टप्पा' बटण क्लिक करा."
+
+#: simcontrols.js:20
+msgid ""
+"Click on the conical flask to tilt and swirl it to mix both the solutions."
+msgstr "शंक्वाकृती चंबू वाकडे करून दोन्ही द्रावण मिसळण्यासाठी चंबू क्लिक करा."
+
+#: simcontrols.js:20
+msgid "Click on the conical flask to weigh it again an note the reading."
+msgstr "शंक्वाकृती चंबूचे परत वजन करण्यासाठी चंबूवर क्लिक करा.वाचनांक नोंदवा."
+
+#: simcontrols.js:20
+msgid "Wait for ten minutes to complete the reaction."
+msgstr "अभिक्रिया संपेपर्यन्त दहा मिनिटे थांबा."
+
+#: simcontrols.js:22
+msgid "Thread"
+msgstr "धागा"
+
+#: simcontrols.js:23
+msgid "Sodium Sulphate 5ml"
+msgstr "सोडियम सल्फेट 5ml"
+
+#: simcontrols.js:24
+msgid "Barium Chloride 5ml"
+msgstr "बेरीयम क्लोराइड  5ml"
+
+#: simcontrols.js:25
+msgid "NEXT STEP"
+msgstr "पुढचा टप्पा"
+
+#: simcontrols.js:26
+msgid "10 min"
+msgstr "10 मिनिटे"
+
+#: simcontrols.js:27
+msgid "The Law of Conservation of Mass in a Chemical Reaction"
+msgstr "रासायनिक अभिक्रियेत वस्तुमानाच्या अक्षय्यतेचा नियम"
+
+#: simcontrols.js:28
+msgid "Reset"
+msgstr "पूर्ववत करा"
+
+#: simcontrols.js:30
+msgid "Instructions"
+msgstr "सूचना"
+
+#~ msgid "Image is not formed."
+#~ msgstr "Image is not formed."
+
+#~ msgid "Distance between mirror and object, u: "
+#~ msgstr "Distance between mirror and object, u: "
+
+#~ msgid "Distance between mirror and screen, v: "
+#~ msgstr "Distance between mirror and screen, v: "
+
+#~ msgid "Show result"
+#~ msgstr "Show result"
+
+#~ msgid "Focal length of the mirror, <strong>f = "
+#~ msgstr "Focal length of the mirror, <strong>f = "
+
+#~ msgid ", f = "
+#~ msgstr ", f = "
+
+#~ msgid "Light OFF"
+#~ msgstr "Light OFF"
+
+#~ msgid "Light ON"
+#~ msgstr "Light ON"
+
+#~ msgid "Inverted reflection."
+#~ msgstr "Inverted reflection."
+
+#~ msgid "Out of viewable range."
+#~ msgstr "Out of viewable range."
+
+#~ msgid "Select sample:"
+#~ msgstr "Select sample:"
+
+#~ msgid "T.S. of"
+#~ msgstr "T.S. of"
+
+#~ msgid "Slide adjustment:"
+#~ msgstr "Slide adjustment:"
+
+#~ msgid "Select objective lens:"
+#~ msgstr "Select objective lens:"
+
+#~ msgid "sunflower stem"
+#~ msgstr "sunflower stem"
+
+#~ msgid "sunflower root"
+#~ msgstr "sunflower root"
+
+#~ msgid "maize stem"
+#~ msgstr "maize stem"
+
+#~ msgid "maize root"
+#~ msgstr "maize root"
+
+#~ msgid "Drag the slide towards<br/>  the stage of the microscope."
+#~ msgstr "Drag the slide towards<br/>  the stage of the microscope."
+
+#~ msgid "Click on the eye piece of the <br/> microscope to view the sample."
+#~ msgstr "Click on the eye piece of the <br/> microscope to view the sample."
+
+#~ msgid "Select power of the lens <br/> from the drop down list."
+#~ msgstr "Select power of the lens <br/> from the drop down list."
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "Characteristics of Dicot and Monocot Stem and Root"
+#~ msgstr "Characteristics of Dicot and Monocot Stem and Root"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "TS of"
+#~ msgstr "TS of"
+
+#~ msgid "Place the slide here."
+#~ msgstr "Place the slide here."
+
+#~ msgid "Click here to view the cell using microscope."
+#~ msgstr "Click here to view the cell using microscope."
+
+#~ msgid "Select the microscope zoom level."
+#~ msgstr "Select the microscope zoom level."
+
+#~ msgid "In petri dish: "
+#~ msgstr "In petri dish: "
+
+#~ msgid "Select the sugar concentration: "
+#~ msgstr "Select the sugar concentration: "
+
+#~ msgid "In potato: "
+#~ msgstr "In potato: "
+
+#~ msgid "Water concentration: "
+#~ msgstr "Water concentration: "
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "Cross sectional view"
+#~ msgstr "Cross sectional view"
+
+#~ msgid "2 Hours"
+#~ msgstr "2 Hours"
+
+#~ msgid ""
+#~ "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a "
+#~ "region of higher  concentration to a region of<br/> lower concentration "
+#~ "through  a semipermeable membrane."
+#~ msgstr ""
+#~ "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a "
+#~ "region of higher  concentration to a region of<br/> lower concentration "
+#~ "through  a semipermeable membrane."
+
+#~ msgid "There is no change in the water concentration."
+#~ msgstr "There is no change in the water concentration."
+
+#~ msgid "Osmosis"
+#~ msgstr "Osmosis"
+
+#~ msgid "Select the sugar concentration in the petri dish."
+#~ msgstr "Select the sugar concentration in the petri dish."
+
+#~ msgid "Select the sugar concentration in the potato."
+#~ msgstr "Select the sugar concentration in the potato."
+
+#~ msgid ""
+#~ "Drag the first pin and place it at the <br/>initial level of water in the "
+#~ "potato."
+#~ msgstr ""
+#~ "Drag the first pin and place it at the <br/>initial level of water in the "
+#~ "potato."
+
+#~ msgid ""
+#~ "Drag the second pin and <br/>place it at the final level of water in the "
+#~ "potato."
+#~ msgstr ""
+#~ "Drag the second pin and <br/>place it at the final level of water in the "
+#~ "potato."
+
+#~ msgid ""
+#~ "During the process of osmosis water will move <br>from high water "
+#~ "concentration to low water concentration."
+#~ msgstr ""
+#~ "During the process of osmosis water will move <br>from high water "
+#~ "concentration to low water concentration."
+
+#~ msgid ""
+#~ "During the process of osmosis water will move<br> from low water "
+#~ "concentration to high water concentration."
+#~ msgstr ""
+#~ "During the process of osmosis water will move<br> from low water "
+#~ "concentration to high water concentration."
+
+#, fuzzy
+#~ msgid "Monocot and Dicot Plants"
+#~ msgstr "Monocot and Dicot Plants"
+
+#~ msgid "Petals"
+#~ msgstr "Petals"
+
+#~ msgid "Pollens"
+#~ msgstr "Pollens"
+
+#, fuzzy
+#~ msgid "Seeds"
+#~ msgstr "Seeds"
+
+#, fuzzy
+#~ msgid "Roots"
+#~ msgstr "Roots"
+
+#, fuzzy
+#~ msgid "Leaves"
+#~ msgstr "Leaves"
+
+#~ msgid "Vascular bundles"
+#~ msgstr "Vascular bundles"
+
+#, fuzzy
+#~ msgid "Sepals"
+#~ msgstr "Sepals"
+
+#~ msgid "3 Sepals"
+#~ msgstr "3 Sepals"
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding  flower for  this plant from the left "
+#~ "side pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding  flower for  this plant from the left "
+#~ "side pane."
+
+#~ msgid ""
+#~ "Drag and place the corresponding pollen for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding pollen for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding seed for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding seed for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding root for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding root for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding leaf for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding leaf for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding stem vascular bundle for this plant from "
+#~ "the left side pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding stem vascular bundle for this plant from "
+#~ "the left side pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding sepal for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding sepal for this plant from the left side "
+#~ "pane."
+
+#~ msgid ""
+#~ "The petals in the flower of a dicot plant are in multiples of four or "
+#~ "five. <br> The above plant has a tap root system and the venation is "
+#~ "reticulate."
+#~ msgstr ""
+#~ "The petals in the flower of a dicot plant are in multiples of four or "
+#~ "five. <br> The above plant has a tap root system and the venation is "
+#~ "reticulate."
+
+#~ msgid ""
+#~ "Dicot plants have three pores in the pollen. The above plant has a tap "
+#~ "<br> root system and the venation is reticulate. The flowers have four "
+#~ "petals."
+#~ msgstr ""
+#~ "Dicot plants have three pores in the pollen. The above plant has a tap "
+#~ "<br> root system and the venation is reticulate. The flowers have four "
+#~ "petals."
+
+#~ msgid ""
+#~ "Dicot plants have two cotyledons in the seeds. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+#~ msgstr ""
+#~ "Dicot plants have two cotyledons in the seeds. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+
+#~ msgid ""
+#~ "Monocot plants have a fibrous root system. <br>The above plant has a "
+#~ "parallel venation."
+#~ msgstr ""
+#~ "Monocot plants have a fibrous root system. <br>The above plant has a "
+#~ "parallel venation."
+
+#~ msgid ""
+#~ "Monocot plants have a single cotyledon in the seeds. <br>The above plant "
+#~ "has a fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "Monocot plants have a single cotyledon in the seeds. <br>The above plant "
+#~ "has a fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "Monocot plants have parallel venation. The above plant has a <br>fibrous "
+#~ "root system and the flowers have three petals and three sepals."
+#~ msgstr ""
+#~ "Monocot plants have parallel venation. The above plant has a <br>fibrous "
+#~ "root system and the flowers have three petals and three sepals."
+
+#~ msgid ""
+#~ "Dicot plants have reticulate venation. <br>The above plant has a tap root "
+#~ "system and the flowers have four petals."
+#~ msgstr ""
+#~ "Dicot plants have reticulate venation. <br>The above plant has a tap root "
+#~ "system and the flowers have four petals."
+
+#~ msgid ""
+#~ "Dicot plants have a tap root system. <br>The above plant has a reticulate "
+#~ "venation and the flowers have five petals."
+#~ msgstr ""
+#~ "Dicot plants have a tap root system. <br>The above plant has a reticulate "
+#~ "venation and the flowers have five petals."
+
+#~ msgid ""
+#~ "Dicot plants have ring shaped vascular bundles. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+#~ msgstr ""
+#~ "Dicot plants have ring shaped vascular bundles. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+
+#~ msgid ""
+#~ "The sepals of a dicot plant are in multiples of four or five. <br>The "
+#~ "above plant has a tap root system and the flowers have five petals."
+#~ msgstr ""
+#~ "The sepals of a dicot plant are in multiples of four or five. <br>The "
+#~ "above plant has a tap root system and the flowers have five petals."
+
+#~ msgid ""
+#~ "The sepals of a monocot plant are in multiples of three. <br>The above "
+#~ "plant has a fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "The sepals of a monocot plant are in multiples of three. <br>The above "
+#~ "plant has a fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "The petals in the flower of a monocot plant are in multiples of three. "
+#~ "<br>The above plant has a fibrous root system and the venation is "
+#~ "parallel."
+#~ msgstr ""
+#~ "The petals in the flower of a monocot plant are in multiples of three. "
+#~ "<br>The above plant has a fibrous root system and the venation is "
+#~ "parallel."
+
+#~ msgid ""
+#~ "Monocot plants have scattered vascular bundles. <br>The above plant has a "
+#~ "fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "Monocot plants have scattered vascular bundles. <br>The above plant has a "
+#~ "fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "Monocot plants have a single pore in the pollen. <br>The above plant has "
+#~ "a fibrous root system and the venation is parallel. "
+#~ msgstr ""
+#~ "Monocot plants have a single pore in the pollen. <br>The above plant has "
+#~ "a fibrous root system and the venation is parallel. "

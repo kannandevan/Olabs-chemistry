@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-09 14:40+0530\n"
+"PO-Revision-Date: 2025-10-09 14:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "MAXIMIZE"
+ 
+msgid "MINIMIZE"
+msgstr "MINIMIZE"
+
+#: simcontrols.js:32
+msgid "Heating of Solution in a Beaker"
+msgstr "Heating of Solution in a Beaker"
+
+#: simcontrols.js:34
+msgid "Drag the tripod towards the burner"
+msgstr "Drag the tripod towards the burner"
+
+#: simcontrols.js:34
+msgid "Drag the wire gauze towards the top of the tripod"
+msgstr "Drag the wire gauze towards the top of the tripod"
+
+#: simcontrols.js:34
+msgid "Drag and drop the wash bottle near the beaker"
+msgstr "Drag and drop the wash bottle near the beaker"
+
+#: simcontrols.js:34
+msgid "Drag the beaker to the top of the wire gauze"
+msgstr "Drag the beaker to the top of the wire gauze"
+
+#: simcontrols.js:34
+msgid ""
+"Drag the watch glass containing porcelain chips to the top of the beaker"
+msgstr ""
+"Drag the watch glass containing porcelain chips to the top of the beaker"
+
+#: simcontrols.js:34
+msgid "Click on the burner switch to turn on flame"
+msgstr "Click on the burner switch to turn on flame"
+
+#: simcontrols.js:34
+msgid "Drag the thermometer to the beaker to measure the temperature"
+msgstr "Drag the thermometer to the beaker to measure the temperature"
+
+#: simcontrols.js:34
+msgid "Click on the burner switch to turn off flame"
+msgstr "Click on the burner switch to turn off flame"
+
+#: simcontrols.js:34
+msgid "Click on the Inference button"
+msgstr "Click on the Inference button"
+
+#: simcontrols.js:34
+msgid "Click on the Reset button to redo<br> the simulation"
+msgstr "Click on the Reset button to redo<br> the simulation"
+
+#: simcontrols.js:35
+msgid ""
+"Heating a solution, such as water in a beaker, results in an increase in  "
+"<br>temperature due to the absorption of energy. This energy input "
+"causes<br>the water molecules to gain kinetic energy, leading to faster "
+"molecular<br>motion and,consequently, a rise in temperature. The process is "
+"essential<br>for various applications, including dissolving solutes,chemical "
+"reactions, <br> and general laboratory procedures. Monitoring temperature "
+"changes during <br>heating provides valuable information about the thermal "
+"properties of the <br>solution and aids in experimental control and analysis."
+msgstr ""
+"Heating a solution, such as water in a beaker, results in an increase in  "
+"<br>temperature due to the absorption of energy. This energy input "
+"causes<br>the water molecules to gain kinetic energy, leading to faster "
+"molecular<br>motion and,consequently, a rise in temperature. The process is "
+"essential<br>for various applications, including dissolving solutes,chemical "
+"reactions, <br> and general laboratory procedures. Monitoring temperature "
+"changes during <br>heating provides valuable information about the thermal "
+"properties of the <br>solution and aids in experimental control and analysis."
+
+#: simcontrols.js:38
+msgid "WATER"
+msgstr "WATER"
+
+#: simcontrols.js:39
+msgid "PORCELAIN CHIPS"
+msgstr "PORCELAIN CHIPS"
+
+#: simcontrols.js:40
+msgid "THERMOMETER"
+msgstr "THERMOMETER"
+
+#: simcontrols.js:41
+msgid "TRIPOD STAND"
+msgstr "TRIPOD STAND"
+
+#: simcontrols.js:42
+msgid "BURNER"
+msgstr "BURNER"
+
+#: simcontrols.js:43
+msgid "BEAKER"
+msgstr "BEAKER"
+
+#: simcontrols.js:44
+msgid "WIRE GAUZE"
+msgstr "WIRE GAUZE"

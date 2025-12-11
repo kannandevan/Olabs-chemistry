@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sss\n"
+"POT-Creation-Date: 2015-12-08 15:15+0530\n"
+"PO-Revision-Date: 2016-06-02 16:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:4
+msgid "BaCl<sub>2</sub>"
+msgstr "BaCl<sub>2</sub>"
+
+#: simcontrols.js:4
+msgid "Na<sub>2</sub>SO<sub>4</sub>"
+msgstr "Na<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:4
+msgid "Dil.HCl"
+msgstr "Dil.HCl"
+
+#: simcontrols.js:4
+msgid "Back"
+msgstr "പുറകിൽ"
+
+#: simcontrols.js:5
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:42
+msgid "Double Displacement Reaction"
+msgstr "ഇരട്ട സ്ഥാനാന്തരണപ്രവർത്തനം"
+
+#: simcontrols.js:47
+msgid "Instructions"
+msgstr "നിർദ്ദേശങ്ങൾ"
+
+#: simcontrols.js:49
+msgid ""
+"<li>Drag the dropper to add BaCl<sub>2</sub> to the test tube.</li><br />"
+msgstr "<li> ബേരിയംക്ലോറൈഡ് ടെസ്ട്യുബിലേക്ക്  ചേർക്കുന്നതിന് ഡ്രോപ്പർ നീക്കുക,</li><br/>"
+
+#: simcontrols.js:49
+msgid ""
+"<li>Drag the dropper to add Na<sub>2</sub>SO<sub>4</sub> to the test tube.</"
+"li><br />"
+msgstr "<li> സോഡിയം ടെസ്ട്യുബിലേക്ക് ചേർക്കുന്നതിന് ഡ്രോപ്പർ നീക്കുക.</li><br/>"
+
+#: simcontrols.js:49
+msgid ""
+"<li>Drag the test tube to decant the upper solution to the beaker.</li><br />"
+msgstr "<li>മുകളിലത്തെ തെളിഞ്ഞലായനി ബീക്കറിലേക്ക് ഒഴിക്കുന്നതിന് ടെസ്ട്യുബ്  നീക്കുക</li><br/>"
+
+#: simcontrols.js:49
+msgid "<li>Drag the dropper to add HCl to the test tube.</li><br />"
+msgstr "<li>ഹൈഡ്രോക്ലോറിക് ആസിഡ് ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുന്നതിന് ഡ്രോപ്പർനീക്കുക.</li><br/>"
+
+#: simcontrols.js:49
+msgid "<li>Click on the test tube to zoom in.</li><br />"
+msgstr "<li>ഇത് വലുതാക്കുന്നതിന് ടെസ്ട്യുബിൽ  ക്ലിക്ക് ചെയ്യുക</li><br/>"
+
+#: simcontrols.js:50
+msgid "Drag the dropper to add BaCl<sub>2</sub><br/>to the test tube."
+msgstr "ബേരിയംക്ലോറൈഡ് ടെസ്ട്യുബിലേക്ക്ചേർക്കുന്നതിന്<br/> ഡ്രോപ്പർനീക്കുക"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to add Na<sub>2</sub>SO<sub>4</sub><br/>to the test tube."
+msgstr "സോഡിയം ടെസ്ട്യുബിലേക്ക് ചേർക്കുന്നതിന് <br/>ഡ്രോപ്പർനീക്കുക"
+
+#: simcontrols.js:50
+msgid "Drag the test tube to decant<br/>the upper solution to the beaker."
+msgstr "മുകളിലത്തെ തെളിഞ്ഞലായനി <br/>ബീക്കറിലേക്ക് ചേർക്കുന്നതിന് ടെസ്ട്യുബ് നീക്കുക."
+
+#: simcontrols.js:50
+msgid "Drag the dropper to add HCl<br/>to the test tube."
+msgstr "ഹൈഡ്രോക്ലോറിക് ആസിഡ് ടെസ്ട്യുബിലേക്ക് <br/>ചേർക്കുന്നതിന് ഡ്രോപ്പർനീക്കുക."
+
+#: simcontrols.js:50
+msgid "A white precipitate of barium sulphate is formed."
+msgstr "ബേരിയം സൾഫേറ്റിന്റെ  ഒരു വെള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:50
+msgid "The precipitate obtained is insoluble in dil.HCl."
+msgstr "ഉരുത്തിരിഞ്ഞ അവക്ഷിപ്തം നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡിൽ ലയിക്കാത്തതാണ്."
+
+#: simcontrols.js:51
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"

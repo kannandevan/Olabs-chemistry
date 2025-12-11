@@ -1,0 +1,733 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="TitleAcetanilide">
+	<TEXT ID="TitleAcetanilide_one">
+	 <TEXTVALUE>एसेटानिलाइड तयार करणे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAceS1">
+	<TEXT ID="IntroAceS1_one">
+	 <TEXTVALUE>आवश्यक सामग्री: असेटीक अॅन्हायड्राइड – १० मिली, ग्लेशियल असेटीक आम्ल – १० मिली, एनिलीन – १० मिली, आरबी चंबू, क्लांप असलेला स्टँड, बुक्नर नरसाळे, वाळूचे कुंड, पाणी शीतल धारणी, बर्फाचे कुंड, बर्फाचे पाणी इ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcidsMixingInRBS2">
+	<TEXT ID="AcidsMixingInRBS2_one">
+	 <TEXTVALUE>१० मिली असेटीक अॅन्हायड्राइड, ग्लेशियल असेटीक आम्ल आणि एनिलीन तीन मापन जार मध्ये घ्या. २५० मिली आरबी चंबूत असेटीक अॅन्हायड्राइड ओता आणि मग ग्लेशियल असेटीक आम्ल ओता.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcidsMixingInRBS2_two">
+	 <TEXTVALUE>द्रावण नीट हलवा. ह्या द्रावणात एनिलीन टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="RBheatWtrCndsrS3">
+	<TEXT ID="RBheatWtrCndsrS3_one">
+	 <TEXTVALUE>स्टँडला चंबू क्लांप करा आणि त्याच्या तोंडाला शीतल धारणी लावा. हे एका बर्नरवर ठेवलेल्या वाळूच्या कुंडात ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RBheatWtrCndsrS3_two">
+	 <TEXTVALUE>द्रावण १० मिनिटे गरम करा. आरबी चंबुतून शीतल धारणी काढा, आणि द्रावण थंड होऊ दे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CoolinRbInWtrS4">
+	<TEXT ID="CoolinRbInWtrS4_one">
+	 <TEXTVALUE>चंबू स्टँडला लावा आणि पाणी असलेल्या ताटलीत ठेवून थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolMixingIn200WtrS5S6">
+	<TEXT ID="SolMixingIn200WtrS5S6_one">
+	 <TEXTVALUE>आरबी चंबूतले द्रावण २०० मिली बर्फाचे पाणी असलेल्या चंचुपात्रात टाका. ओतताना चंचुपात्रातले द्रावण काचेच्या रॉडने ढवळत रहा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WhitePrecipitateS5S6">
+	<TEXT ID="WhitePrecipitateS5S6_one">
+	 <TEXTVALUE>एसेटानिलाइडचे पांढरे अवक्षेपण निर्माण होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PreciFilterInBuchnerS7">
+	<TEXT ID="PreciFilterInBuchnerS7_one">
+	 <TEXTVALUE>एक फिल्टर कागद घ्या आणि बुक्नर नरसाळ्यात टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="PreciFilterInBuchnerS7_two">
+	 <TEXTVALUE>अवक्षेपण नरसाळ्यातून गाळा. फिल्टर कागदावरून अवक्षेपण चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="PreciFilterInBuchnerS7_three">
+	 <TEXTVALUE>अवक्षेपण ऊर्ध्वपतित पाण्याने धुवा. परत गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AceticMixingInPreciS8">
+	<TEXT ID="AceticMixingInPreciS8_one">
+	 <TEXTVALUE>स्पाट्युला वापरून अशुद्ध एसेटानिलाइडचे चंचुपात्रात घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_two">
+	 <TEXTVALUE>दुसर्याु चंचुपात्रात १७ मिली असेटीक आम्ल आणि ३३ मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticMixingInPreciS8_twoone">
+	 <TEXTVALUE>आणि ३३ मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_three">
+	 <TEXTVALUE>एसेटानिलाइड असलेल्या चंचुपात्रात हे मिश्रण टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingPreciDissolveS9">
+	<TEXT ID="HeatingPreciDissolveS9_one">
+	 <TEXTVALUE>स्थायू पदार्थ विरघळण्यासाठी गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HotSolFilterS10S11">
+	<TEXT ID="HotSolFilterS10S11_one">
+	 <TEXTVALUE>गरम द्रावण एक शंक्वाकृती चंबूत गाळा आणि गळण बर्फात थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalSeparateS10S11">
+	<TEXT ID="CrystalSeparateS10S11_one">
+	 <TEXTVALUE>एसेटानिलाइडची स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalsFilterS12">
+	<TEXT ID="CrystalsFilterS12_one">
+	 <TEXTVALUE>स्फटिके बुक्नर नरसाळ्यातून गाळा.  स्पाट्युला वापरून स्फटिके नरसाळ्यातून घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetanilideS13">
+	<TEXT ID="AcetanilideS13_one">
+	 <TEXTVALUE>फिल्टर कागदावर ठेवा आणि फिल्टर कागदाच्या घडीत दाबून कोरडे करा</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcetanilideS13_two">
+	 <TEXTVALUE>स्फटिके वॉच ग्लास मध्ये टाका आणि त्यांना एसेटानिलाइड नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="firstdibenzalacetone">
+	<TEXT ID="firstdibenzalacetone_one">
+	 <TEXTVALUE>डायबेंझाल अॅसिटोन तयार करणे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addacetone">
+	<TEXT ID="addacetone_one">
+	 <TEXTVALUE>एका शंक्वाकृती चंबूत २.५ मिली बेंझालडिहाइड, १ मिली अॅसिटोन आणि २५ मिली परिशोधित स्पिरीट घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="addacetone_two">
+	 <TEXTVALUE>चंबूला बूच लावा आणि हलवा म्हणजे एक पारदर्शी द्रावण मिळेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Cleantesttbe">
+	<TEXT ID="Cleantesttbe_one">
+	 <TEXTVALUE>एका परीक्षा नळीत ५ मिली १०% NaOH द्रावण घ्या आणि त्यातून ड्रॉपर मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Cleantesttbe_two">
+	 <TEXTVALUE>ते शंक्वाकृती चंबूत थेंब थेंब टाका. प्रत्येक थेंबानंतर चंबू हलवत रहा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+	 <TEXTVALUE>अभिक्रिया मिश्रणाचे तापमान २०-२५०से. मध्ये ठेवण्यासाठी चंबू पाणी असलेल्या ताटलीत ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shakeand">
+	<TEXT ID="Shakeand_one">
+	 <TEXTVALUE>चंबूला परत बूच लावा आणि १० मिनिटे जोरात हलवत रहा. मधून मधून दाब मुक्त करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cooltemperature">
+	<TEXT ID="cooltemperature_one">
+	 <TEXTVALUE>खोलीच्या तापमानाला २० मिनिटे तसेच राहू द्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intowater">
+	<TEXT ID="intowater_one">
+	 <TEXTVALUE>चंबूतले द्रावण बर्फाचे पाणी असलेल्या ताटलीत काही मिनिटे थंड करा</TEXTVALUE>
+	</TEXT>
+<TEXT ID="intowater_two">
+	 <TEXTVALUE>डायबेंझाल अॅसिटोन चे पिवळे अवक्षेपण वेगळे होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="allowcool">
+	<TEXT ID="allowcool_one">
+	 <TEXTVALUE>अवक्षेपण बुक्नर नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="allowcool_two">
+	 <TEXTVALUE>स्पाट्युला वापरून अवक्षेपण परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="washtsttbe">
+	<TEXT ID="washtsttbe_one">
+	 <TEXTVALUE>अवक्षेपण धुण्यासाठी परिक्षा नळीत ऊर्ध्वपतित पाणी टाका आणि नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterprcipitate">
+	<TEXT ID="filterprcipitate_one">
+	 <TEXTVALUE>परिक्षा नळीतले द्रावण बुक्नर नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="filterprcipitate_two">
+	 <TEXTVALUE>स्पाट्युला वापरून डायबेंझाल अॅसिटोन अवक्षेपण परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heat">
+	<TEXT ID="Heat_one">
+	 <TEXTVALUE>परिशोधित स्पिरीट चंचुपात्रात घ्या आणि गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="spirittoprecipitate">
+	<TEXT ID="spirittoprecipitate_one">
+	 <TEXTVALUE>अवक्षेपण असलेल्या परिक्षा नळीत थोडेसे टाका. अवक्षेपण विरघळते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="backtostand">
+	<TEXT ID="backtostand_one">
+	 <TEXTVALUE>हळू हळू थंड करा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="backtostand_two">
+	 <TEXTVALUE>डायबेंझाल अॅसिटोनची फिकट पिवळी स्फटिके वेगळी होतील.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	 <TEXTVALUE>स्फटिके बुक्नर नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystels">
+	<TEXT ID="crystels_one">
+	 <TEXTVALUE>स्फटिके फिल्टर कागदावर ठेवा आणि फिल्टर कागदाच्या घडीत दाबून कोरडे करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastwatchglass">
+	<TEXT ID="lastwatchglass_one">
+	 <TEXTVALUE>स्फटिके वॉच ग्लास मध्ये टाका आणि त्यांना डायबेंझाल अॅसिटोनची नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Scene 66">
+	<TEXT ID="Scene 66_one">
+	 <TEXTVALUE>पी-नायट्रो एसेटानिलाइड तयार करणे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	 <TEXTVALUE>आवश्यक सामग्री: इलेक्ट्रॉनिक काटा, एसेटानिलाइड, बटर कागद, स्पाट्युला, काचेचा रॉड, ड्रॉपर, नरसाळे, शंक्वाकृती चंबू, धूर येत असलेले नायट्रिक आम्ल, संहत H2SO4, चंचुपात्र, ग्लेशियल असेटीक आम्ल, फिल्टर कागद.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_two">
+	 <TEXTVALUE>बुक्नर नरसाळे, तार गोझ, तिवई, बन्सेन बर्नर, अतिशीत मिश्रण.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2wb">
+	<TEXT ID="2wb_one">
+	 <TEXTVALUE>इलेक्ट्रॉनिक काट्यावर बटर कागद ठेवा. काटा शून्य करा. ५ ग्राम एसेटानिलाइड वजन करा. हे घ्यायला स्पाट्युला वापरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3con">
+	<TEXT ID="3con_one">
+	 <TEXTVALUE>वजन केलेले एसेटानिलाइड एका शंक्वाकृती चंबूत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4actic">
+	<TEXT ID="4actic_one">
+	 <TEXTVALUE>५ मिलि ग्लेशियल असेटीक आम्ल एका मापन जात मध्ये घ्या आणि शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5con">
+	<TEXT ID="5con_one">
+	 <TEXTVALUE>काचेच्या रॉडने शंक्वाकृती चंबूतले द्रावण हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumic">
+	<TEXT ID="6fumic_one">
+	 <TEXTVALUE>२ मिली धूर येत असलेले नायट्रिक आम्ल एका परीक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6zoom">
+	<TEXT ID="6zoom_one">
+	 <TEXTVALUE>२ मिली धूर येत असलेले नायट्रिक आम्ल एका परीक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumicgo">
+	<TEXT ID="6fumicgo_one">
+	 <TEXTVALUE>२ मिली धूर येत असलेले नायट्रिक आम्ल एका परीक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7ice">
+	<TEXT ID="7ice_one">
+	 <TEXTVALUE>अतिशीत मिश्रणात थंड करा. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8sulpuric">
+	<TEXT ID="8sulpuric_one">
+	 <TEXTVALUE> संहत सल्फ्युरिक आम्ल एका मापन जार मध्ये घ्या आणि त्यातून ड्रॉपर वापरून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9ice2">
+	<TEXT ID="9ice2_one">
+	 <TEXTVALUE>धूर येणारे नायट्रिक आम्ल असलेल्या परिक्षा नळीत हे काळजीपूर्वक टाका आणि सतत ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10gocon">
+	<TEXT ID="10gocon_one">
+	 <TEXTVALUE>Now take the conical flask containing mixture of acetanilide and acetic acid. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10water">
+	<TEXT ID="10water_one">
+	 <TEXTVALUE>पाण्याच्या कुंडात ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11sulpuric2">
+	<TEXT ID="11sulpuric2_one">
+	 <TEXTVALUE> ८ मिली संहत सल्फ्युरिक आम्ल एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11sulpuric2_two">
+	 <TEXTVALUE>मग ड्रॉपर वापरून ते एका शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12tog">
+	<TEXT ID="12tog_one">
+	 <TEXTVALUE> मग ड्रॉपर वापरून ते एका शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13sul">
+	<TEXT ID="13sul_one">
+	 <TEXTVALUE>उरलेले सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14tgo">
+	<TEXT ID="14tgo_one">
+	 <TEXTVALUE>शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15got1">
+	<TEXT ID="15got1_one">
+	 <TEXTVALUE>शंक्वाकृती चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16ice2">
+	<TEXT ID="16ice2_one">
+	 <TEXTVALUE>अतिशीत मिश्रणात ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17zoomi">
+	<TEXT ID="17zoomi_one">
+	 <TEXTVALUE>द्रावण हलवा आणि ५०से. पेक्षा कमी तापमान होई पर्यन्त थांबा. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_two">
+	 <TEXTVALUE>शंक्वाकृती चंबूतल्या थंड झालेल्या द्रावणात नायट्रिक आम्ल आणि संहत सल्फ्युरिक आम्लाचे मिश्रण (नायट्रेटिंग मिश्रण) थेंब थेंब टाका आणि पूर्ण वेळ ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_three">
+	 <TEXTVALUE>अतिशीत मिश्रणातून शंक्वाकृती चंबू बाहेर काढा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18goconbak">
+	
+		<TEXT ID="18goconbak_one">
+	 <TEXTVALUE>३० मिनिटे खोलीच्या तापमानात तसेच ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19bice">
+	<TEXT ID="19bice_one">
+	 <TEXTVALUE>चंबूतले द्रावण बर्फाचे तुकडे असलेल्या एका चंचुपात्रात टाका. नीट ढवळा. पांढरे अवक्षेपण निर्माण होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20motor">
+	<TEXT ID="20motor_one">
+	 <TEXTVALUE>शेष द्रावण बुक्नर नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21bak">
+	<TEXT ID="21bak_one">
+	 <TEXTVALUE>अवक्षेपण थंड पाण्याने धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22mo2">
+	<TEXT ID="22mo2_one">
+	 <TEXTVALUE>शेष द्रावण परत बुक्नर नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23bk">
+	<TEXT ID="23bk_one">
+	 <TEXTVALUE>परत एकदा करा आणि अवक्षेपण गाळून टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24mr">
+	<TEXT ID="24mr_one">
+	 <TEXTVALUE>परत एकदा करा आणि अवक्षेपण गाळून टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="26title2">
+	<TEXT ID="26title2_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27yelo">
+	<TEXT ID="27yelo_one">
+	 <TEXTVALUE>स्पाट्युला वापरून अवक्षेपण नरसाळ्यातून घ्या आणि चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28id">
+	<TEXT ID="28id_one">
+	 <TEXTVALUE>स्पाट्युला वापरून अवक्षेपण नरसाळ्यातून घ्या आणि चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29sprit">
+	<TEXT ID="29sprit_one">
+	 <TEXTVALUE>२० मिली मिथायलेटेड स्पिरीट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30beker3">
+	<TEXT ID="30beker3_one">
+	 <TEXTVALUE>अवक्षेपण असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="30beker3_two">
+	 <TEXTVALUE>नीट ढवळा आणि अवक्षेपण विरघळा. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31flame">
+	<TEXT ID="31flame_one">
+	 <TEXTVALUE>पारदर्शी द्रावण मिळवण्यासाठी गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32funl">
+	<TEXT ID="32funl_one">
+	 <TEXTVALUE>चंचुपात्र नरसाळ्याखाली ठेवा आणि नरसाळ्यात एक फिल्टर कागद बसवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33og1">
+	<TEXT ID="33og1_one">
+	 <TEXTVALUE>द्रावण असलेले चंचुपात्र घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34f3">
+	<TEXT ID="34f3_one">
+	 <TEXTVALUE>गरम द्रावण दुसर्याप चंचुपात्रात गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35ice">
+	<TEXT ID="35ice_one">
+	 <TEXTVALUE>चंचुपात्रातले द्रावण थंड करण्यासाठी बर्फात ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36iceh">
+	<TEXT ID="36iceh_one">
+	 <TEXTVALUE>पी-नायट्रो एसेटानिलाइडची रंगहीन स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37zoomi">
+	<TEXT ID="37zoomi_one">
+	 <TEXTVALUE>पी-नायट्रो एसेटानिलाइडची रंगहीन स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38funnal">
+	<TEXT ID="38funnal_one">
+	 <TEXTVALUE>द्रावण गाळण्यासाठी नरसाळ्यात एक फिल्टर कागद बसवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39bak">
+	<TEXT ID="39bak_one">
+	 <TEXTVALUE>अतिशीत मिश्रणातून चंचुपात्र घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40flo">
+	<TEXT ID="40flo_one">
+	 <TEXTVALUE>स्फटिके नरसाळ्यातून गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41top2">
+	<TEXT ID="41top2_one">
+	 <TEXTVALUE>पी-नायट्रो एसेटानिलाइडची रंगहीन स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42wash">
+	<TEXT ID="42wash_one">
+	 <TEXTVALUE>थंड पाण्याने धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43fpaper">
+	<TEXT ID="43fpaper_one">
+	 <TEXTVALUE>फिल्टर कागदावर स्फटिके ठेवा आणि फिल्टर कागदाच्या घडीत दाबून कोरडे करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="43fpaper_two">
+	 <TEXTVALUE>स्फटिके वॉच ग्लास मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="44zoom">
+	<TEXT ID="44zoom_one">
+	 <TEXTVALUE>त्यांना पी-नायट्रो एसेटानिलाइडची नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="first">
+	<TEXT ID="first_one">
+	 <TEXTVALUE>२-नाफ्थोल एनिलीन डाय तयार करणे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addaniline">
+	<TEXT ID="addaniline_one">
+	 <TEXTVALUE>४.५ ग्राम एनिलीन, १० मिली संहत HCl आणि २० मिली पाणी एका शंक्वाकृती चंबूत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewater">
+	<TEXT ID="icewater_one">
+	 <TEXTVALUE>बर्फाच्या पाण्यात चंबू ठेवून हे द्रावण ५०से. पर्यन्त थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Weighingbottle">
+	<TEXT ID="Weighingbottle_one">
+	 <TEXTVALUE>चंचुपात्रात ४ ग्राम सोडियम नायट्राइट घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_two">
+	 <TEXTVALUE>२० मिली ऊर्ध्वपतित पाणी त्यात टाका.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_three">
+	 <TEXTVALUE>स्थायू विरघळण्यासाठी काचेच्या रॉडने द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icebox">
+	<TEXT ID="icebox_one">
+	 <TEXTVALUE>बर्फाच्या पाण्यात चंबू ठेवून हे द्रावण ५०से. पर्यन्त थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewaterfor">
+	<TEXT ID="icewaterfor_one">
+	 <TEXTVALUE>सोडियम नायट्राइट द्रावण शंक्वाकृती चंबूत टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="naphthol">
+	<TEXT ID="naphthol_one">
+	 <TEXTVALUE>७ ग्राम २-नाफ्थोल घ्या आणि एका चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_two">
+	 <TEXTVALUE>६० मिली १०% NaOH द्रावण त्यात टाका.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_three">
+	 <TEXTVALUE>स्थायू विरघळण्यासाठी काचेच्या रॉडने द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seconds inbox">
+	<TEXT ID="seconds inbox_one">
+	 <TEXTVALUE>बर्फाच्या पाण्यात चंबू ठेवून हे द्रावण ५०से. पर्यन्त थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+	 <TEXTVALUE>शंक्वाकृती चंबू पाण्यातून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxx">
+	<TEXT ID="iceboxx_one">
+	 <TEXTVALUE>नाफ्थोल द्रावणात शंक्वाकृती चंबूतले द्रावण टाका. काचेच्या रॉडने द्रावण पूर्णवेळ ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	
+<TEXT ID="iceboxx_two">
+	 <TEXTVALUE>लगेच एक गडद लाल रंग दिसतो आणि  २-नाफ्थोल एनिलीन डाय वेगळा होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Redtoice">
+	<TEXT ID="Redtoice_one">
+	 <TEXTVALUE>अतिशीत मिश्रणात वरचे मिश्रण ३० मिनिटे राहू द्या, मधून मधून ढवळा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Redtoice_two">
+	 <TEXTVALUE>अतिशीत मिश्रणात वरचे मिश्रण ३० मिनिटे राहू द्या, मधून मधून ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelred">
+	<TEXT ID="funnelred_one">
+	 <TEXTVALUE>बुक्नर नरसाळे वापरून द्रावण गाळा.</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="funnelred_two">
+	 <TEXTVALUE>अवक्षेपण ऊर्ध्वपतित पाण्याने धुवा. हेच परत करा.</TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_three">
+	 <TEXTVALUE>अवक्षेपण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_four">
+	 <TEXTVALUE>२-नाफ्थोल एनिलीन डायचे  अवक्षेपण वेगळे होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelclean">
+	<TEXT ID="funnelclean_one">
+	 <TEXTVALUE>स्पाट्युला वापरून अवक्षेपण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilter">
+	<TEXT ID="dryfilter_one">
+	 <TEXTVALUE>फिल्टर कागदांच्यामध्ये दाबून कोरडे करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="glacial">
+	<TEXT ID="glacial_one">
+	 <TEXTVALUE>अवक्षेपण चंचुपात्रात टाका आणि त्यात ४० मिली ग्लेशियल असेटीक आम्ल टाका. </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_two">
+	 <TEXTVALUE>काचेच्या रॉडने चंचुपात्रातले द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_three">
+	 <TEXTVALUE>पारदर्शी द्रावण मिळविण्यासाठी गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaperstand">
+	<TEXT ID="filterpaperstand_one">
+	 <TEXTVALUE>दुसर्याी चंचुपात्रात गरम द्रावण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxagain">
+	<TEXT ID="iceboxagain_one">
+	 <TEXTVALUE>बर्फाच्या पाण्यात चंचुपात्र ठेवून हे द्रावण थंड करा. द्रावण जसे थंड होते, तसे २-नाफ्थोल एनिलीन डायची लाल स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filter">
+	<TEXT ID="filter_one">
+	 <TEXTVALUE>बुक्नर नरसाळे वापरून स्फटिके गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_two">
+	 <TEXTVALUE>इथनोल ने स्फटिके धुवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_three">
+	 <TEXTVALUE>२-नाफ्थोल एनिलीन डायची स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_four">
+	 <TEXTVALUE>स्पाट्युला वापरून स्फटिके दुसर्यान फिल्टर कागदावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilterpaper">
+	<TEXT ID="dryfilterpaper_one">
+	 <TEXTVALUE>फिल्टर कागदाच्या घडीत दाबून कोरडे करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="aniline">
+	<TEXT ID="aniline_one">
+	 <TEXTVALUE>कोरडी स्फटिके वॉच ग्लास मध्ये ठेवा आणि त्यांना २-नाफ्थोल एनिलीन डाय नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+

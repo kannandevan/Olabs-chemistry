@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ACETANILIDE">
+        <source>അസെറ്റാനിലൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ACETICACID">
+        <source>അസെറ്റിക് അമ്ലം</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ACETICANHYDRIDE">
+        <source>അസെറ്റിക് അൺഹൈഡ്രൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ACETONE">
+        <source>അസെറ്റോണ്‍</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ANILINE">
+        <source>അനിലീന്‍ </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BACK">
+        <source>തിരികെ</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BENZALDEHYDE">
+        <source>ബെൻസാൽഡിഹൈഡ്</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_COLDWATER">
+        <source>തണുത്ത ജലം</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRUSHED_ICE">
+        <source>പൊടിച്ച ഐസ് </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DIBENZALACETONE">
+        <source>ഡൈബെൻസാല്‍ അസെറ്റോണ്‍</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_ETHANOL">
+        <source>എഥനോൾ </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_FILTERPAPER">
+        <source>അരിപ്പു കടലാസുകൾ</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FUMINGNITRICACID">
+        <source>ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലം</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_GLACIALACETICACID">
+        <source>ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_HYDROCLORICACID">
+        <source>ഗാഢ HCl </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ICE">
+        <source>ഐസ് </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_ICEBOX">
+        <source>ഫ്രീസിംഗ് മിശ്രിതം</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_ICECOLDWATER">
+        <source>ഐസ് തണുപ്പുള്ള ജലം </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_METHYLATEDSPRIT">
+        <source>മെഥിലേറ്റഡ് സ്പിരിറ്റ്</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_MIN">
+        <source>മിനിട്ട്</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MINUTES">
+        <source>10 മിനിട്ട് </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_ML">
+        <source>മി.ലി.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MODE">
+        <source>മോഡ് </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_NAOH">
+        <source>10% NaOH</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAPHTHOL">
+        <source>2- നാഫ്തോള്‍ </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_NAPHTHOLANILINEDYE">
+        <source>2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ </source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_NITROACETANILIDE">
+        <source>p-നൈട്രോ അസെറ്റാനിലൈഡ് </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_ORGANICCOMPOUND">
+        <source>കാര്‍ബണിക സംയുക്തങ്ങള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_PREP_ACETANILIDE">
+        <source>അസെറ്റാനിലൈഡ് തയാറാക്കല്‍ </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_PREP_NITROACETAILIDE">
+        <source>p- നൈട്രോഅസെറ്റാനിലൈഡ് തയാറാക്കല്‍
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_PREPARATIONDIBENZAL">
+        <source>ഡൈബെൻസാല്‍ അസെറ്റോണ്‍ തയാറാകല്‍</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_PREPARATIONNAPHTHOL">
+        <source>2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_PREPARATIONORGANICCOMPOUND">
+        <source>കാര്‍ബണിക സംയുക്തങ്ങള്‍ തയാറാക്കല്‍</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_RECRYSTALLIZATION">
+        <source>p-നൈട്രോ അസെറ്റാനിലൈഡിന്‍റെ റീക്രിസ്‍റ്റലൈസേഷന്‍</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_RECTIFIEDSPRIT">
+        <source>റെക്റ്റിഫൈഡ് സ്പിരിറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_SODIUMNITRITE">
+        <source>സോഡിയം നൈട്രേറ്റ് </source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_START">
+        <source>ആരംഭിക്കുക</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SULPHURICACID">
+        <source>ഗാഢ H2SO4</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_TARE">
+        <source>ടെയര്‍</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>ജലം </source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_WATERCONDENSER">
+        <source>വാട്ടര്‍ കണ്ടെൻസര്‍</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

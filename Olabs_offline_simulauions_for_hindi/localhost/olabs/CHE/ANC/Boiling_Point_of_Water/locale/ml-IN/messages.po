@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: asa\n"
+"POT-Creation-Date: 2015-05-15 10:24+0530\n"
+"PO-Revision-Date: 2016-06-03 14:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:16
+msgid ""
+"Drag the spatula towards the test tube<br>to drop the pumice stones into it."
+msgstr "സ്പാറ്റുല ടെസ്റ്റൃൂബിന് നേരെ നീക്കി<br>അതിലേക്ക് പൃൂമൈസ് കല്ലുകൾ ഇടുക."
+
+#: ../js/simcontrols.js:16
+msgid "Drag the cork over the test tube to close it."
+msgstr "ടെസ്റ്റൃൂബിന് മുകളിലേക്ക് കോർക്ക്<br>നീക്കിയിട്ട് അടയ്ക്കുക."
+
+#: ../js/simcontrols.js:16
+msgid "Drag the thermometer towards the test tube<br>to place it in it."
+msgstr "തെർമോമീറ്ററിന് നേരെ ടെസ്റ്റൃൂബ് നീക്കി അവിടെ<br>വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:16
+msgid "Drag the delivery tube towards the test tube<br>to place it in it."
+msgstr "നിർഗമനകുഴൽ നീക്കി<br>ടെസ്റ്റൃൂബിന് നേരെ വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:16
+msgid "Click on the knob of the burner<br>to turn it ON or OFF."
+msgstr ""
+"ബർണറിൻ്റെ നോബിൽ ക്ലിക്ക് ചെയ്തിട്ട് തിരിക്കുക,<br>ശേഷം On അല്ലെങ്കിൽ Off ആക്കുകയോ ചെയ്യുക."
+
+#: ../js/simcontrols.js:17
+msgid "In presence of impurities "
+msgstr "മാലിനൃങ്ങളുടെ സാന്നിദ്ധൃത്തിൽ "
+
+#: ../js/simcontrols.js:17
+msgid "At different pressures"
+msgstr "വൃതൃസ്തമായ മർദ്ദങ്ങളിൽ "
+
+#: ../js/simcontrols.js:18
+msgid "Pure water"
+msgstr "ശുദ്ധജലം"
+
+#: ../js/simcontrols.js:18
+msgid "Water + 50g NaCl"
+msgstr "ജലം+50g NaCl"
+
+#: ../js/simcontrols.js:18
+msgid "Water + 200g sugar"
+msgstr "ജലം+200g പഞ്ചസാര"
+
+#: ../js/simcontrols.js:18
+msgid "Water + 90g KCl"
+msgstr "ജലം+90g KCl"
+
+#: ../js/simcontrols.js:19
+msgid "Select the impure sample:"
+msgstr "കലർപ്പുള്ള സാമ്പിൾ തിരഞ്ഞെടുക്കുക."
+
+#: ../js/simcontrols.js:19
+msgid "Select the pressure:"
+msgstr "മർദ്ദം തിരഞ്ഞെടുക്കുക."
+
+#: ../js/simcontrols.js:21
+msgid "Boiling point of water:"
+msgstr "ജലത്തിൻ്റെ  തിളനില."
+
+#: ../js/simcontrols.js:23
+msgid "Show zoom"
+msgstr "വലുതാക്കി പ്രദർശിപ്പിക്കുക."
+
+#: ../js/simcontrols.js:24
+msgid "Temperature:&nbsp;"
+msgstr "താപനില:&nbsp;"
+
+#: ../js/simcontrols.js:25
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: ../js/simcontrols.js:26
+msgid "Pumice Stones"
+msgstr "മിനുക്ക് കല്ല്"
+
+#: ../js/simcontrols.js:27
+msgid "Determination of Boiling Point of Water"
+msgstr "ജലത്തിൻ്റെ തിളനില നിർണയിക്കുക"
+
+#: ../js/simcontrols.js:28
+msgid "HELP"
+msgstr "സഹായം"
+
+#: ../js/simcontrols.js:29
+msgid "FULLSCREEN"
+msgstr "ഫുൾസ്ക്രീൻ"
+
+#: ../js/simcontrols.js:30
+msgid "EXIT"
+msgstr "പുറത്ത്"
+
+#: ../js/simcontrols.js:31
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"അമൃതാ സർവ്വകലാശാലയും CDAC മുംബെയും' സംയുക്തമായി വികസിപ്പിച്ചെടുത്തത്<br>IT വിഭാഗത്തിൻ്റെ "
+"സാമ്പത്തിക സഹായത്തിലുള്ളത്."

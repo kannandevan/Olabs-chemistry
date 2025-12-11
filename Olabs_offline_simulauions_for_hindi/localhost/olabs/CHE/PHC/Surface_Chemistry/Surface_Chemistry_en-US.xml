@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>Click on one of the sol to study its preparation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophilicsol">
+	<TEXT ID="Lyophilicsol_one">
+		<TEXTVALUE>Click one of the “Lyophilic Sol” to study its preparation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophobicsol">
+	<TEXT ID="Lyophobicsol_one">
+		<TEXTVALUE>Click on one of the colloidal solutions (or sols) to study its preparation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TitleName1">
+	<TEXT ID="TitleName1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>We require, an electronic balance, starch powder, butter paper, dropper, spatula, glass rod, pestle and mortar,  distilled water, beakers, wire gauze, tripod stand, Bunsen burner, funnel,  filter paper, conical flask, iron stand with clamp etc. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Takingstarch">
+	<TEXT ID="Takingstarch_one">
+		<TEXTVALUE>Weigh 1 gm of starch using a weighing balance.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Paperstarchinbeaker">
+	<TEXT ID="Paperstarchinbeaker_one">
+		<TEXTVALUE>Transfer the weighed starch into the mortar and using the dropper add a few drops of distilled water to it.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Paperstarchinbeaker_two">
+		<TEXTVALUE>Grind the starch with the pestle to make it into a thin paste.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Paperstarchinbeaker_three">
+		<TEXTVALUE>Transfer the paste to a 50 ml beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2">
+	<TEXT ID="Starchinbeaker2_one">
+		<TEXTVALUE>Transfer this paste to a 50 ml beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtng">
+<TEXT ID="Starchinbeakerandwtrhtng_one">
+		<TEXTVALUE>Transfer this paste to a 50 ml beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Starchinbeakerandwtrhtng_two">
+		<TEXTVALUE>Take about 100 ml of distilled water in a 250 ml beaker and heat the beaker so that the water starts boiling.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heatingbeakerwater">
+	<TEXT ID="Heatingbeakerwater_one">
+		<TEXTVALUE>Take about 100 ml of distilled water in a 250 ml beaker and heat the beaker so that the water starts boiling.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringstarchsolution">
+	<TEXT ID="Pouringstarchsolution_one">
+		<TEXTVALUE>Pour the paste slowly into the boiling water with stirring using a glass rod.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolution_two">
+		<TEXTVALUE>Continue boiling for about 10 minutes and then allow the beaker to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Funnelstandpaper">
+	<TEXT ID="Funnelstandpaper_one">
+		<TEXTVALUE>Fix a filter paper in a funnel which is fixed to a stand and place a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Funnelstandpaper_two">
+		<TEXTVALUE>Filter the contents of the beaker through the funnel and collect the filtrate in a conical flask.
+5.	
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpaper_three">
+		<TEXTVALUE>Label the filtrate as ‘Starch Sol’.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Starchsolution11">
+	<TEXT ID="Starchsolution11_one">
+	<!--	<TEXTVALUE>Label the filtrate “Starch Sol”. </TEXTVALUE>-->
+		<TEXTVALUE>Take the starch sol containing sodium chloride in a conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="membrane">
+	<TEXT ID="membrane_one">
+		<TEXTVALUE>Take a funnel and fix a parchment membrane to the stem of the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="membranetofunnel">
+	<TEXT ID="membranetofunnel_one">
+		<TEXTVALUE>Take a funnel and fix a parchment membrane to the stem of the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="membranetofunnel_two">
+		<TEXTVALUE>Tie the membrane to the stem of the funnel using the thread.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutionbkr">
+	<TEXT ID="Starchsolutionbkr_one">
+		<TEXTVALUE>Take starch sol .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchsolution2memb">
+	<TEXT ID="Starchsolution2memb_one">
+		<TEXTVALUE>Pour the starch sol containing sodium chloride into the funnel until two-thirds of the parchment bag is full.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="memb2wtr">
+	<TEXT ID="memb2wtr_one">
+		<TEXTVALUE>Dip the parchment bag into distilled water taken in a beaker and fix the funnel in position by means of the clamp.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_two">
+		<TEXTVALUE>Dip the parchment bag into distilled water taken in a beaker and fix the funnel in position by means of the clamp.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_three">
+		<TEXTVALUE>Allow this to stand for about half an hour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_four">
+		<TEXTVALUE>After half an hour, take small amount of water from the beaker using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+		<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="iodine">
+	<TEXT ID="iodine_one">
+		<TEXTVALUE>Take small quantity of iodine solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="iodine2tube">
+	<TEXT ID="iodine2tube_one">
+		<TEXTVALUE>Add few drops of iodine solution into the test tube containing water.  If the colour does not turn blue, it depicts the absence of starch in water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="close">
+	<TEXT ID="close_one">
+		<TEXTVALUE>Thus it follows that starch molecules do not diffuse through parchment membrane.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sol2dropper">
+	<TEXT ID="sol2dropper_one">
+		<TEXTVALUE>Withdraw another 1 ml of water from the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2tube">
+	<TEXT ID="sol2tube_one">
+		<TEXTVALUE>Transfer it into another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate">
+	<TEXT ID="silvernitrate_one">
+		<TEXTVALUE>Take few drops of silver nitrate solution using a dropper add it into the test tube containing water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="drops2testube">
+	<TEXT ID="drops2testube_one">
+	<TEXTVALUE>Take few drops of silver nitrate solution using a dropper add it into the test tube containing water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops2testube_two">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions and hence sodium chloride in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="closeup">
+	<TEXT ID="closeup_one">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions and hence sodium chloride in water.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="closeup_two">
+		<TEXTVALUE>It follows that sodium and chloride ions diffuse through the parchment membrane. As sodium ion and chloride ion diffuse out of the starch sol, it gets free from ions gradually.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="memb2secbkr">
+	<TEXT ID="memb2secbkr_one">
+		<TEXTVALUE>Replace the water in the beaker with fresh distilled water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2secbkr_two">
+		<TEXTVALUE>After about 10 minutes, test the presence of chloride ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2dropper2">
+	<TEXT ID="sol2dropper2_one">
+		<TEXTVALUE>Take a small amount of water from the beaker using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2testube2">
+	<TEXT ID="sol2testube2_one">
+		<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate2">
+	<TEXT ID="silvernitrate2_one">
+		<TEXTVALUE>Take a few drops of silver nitrate solution using a dropper and add it into the test tube containing water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitrate2tube">
+	<TEXT ID="nitrate2tube_one">
+		<TEXTVALUE>If no white precipitate is formed, chloride ions are absent.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result">
+	<TEXT ID="result_one">
+		<TEXTVALUE>This indicates that dialysis is complete, otherwise the sol still contains chloride ions and therefore the dialysis should be continued.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+		<TEXTVALUE>We require, 1 gm gum,  dropper,  spatula, glass rod, pestle and mortar,  distilled water, beakers, wire gauze, tripod stand, Bunsen burner, funnel, filter paper, conical flask, iron stand with clamp etc.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Paperstarchinbeakergum">
+	<TEXT ID="Paperstarchinbeakergum_one">
+		<TEXTVALUE>Take 1 gm of gum in a mortar.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_two">
+		<TEXTVALUE>Add few drops of distilled water using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_three">
+		<TEXTVALUE>Grind the gum using the pestle to make this into a paste.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_four">
+		<TEXTVALUE>Transfer the paste into a 50 ml beaker using the spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtnggum">
+	<TEXT ID="Starchinbeakerandwtrhtnggum_one">
+		<TEXTVALUE>Transfer the paste into a 50 ml beaker using the spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchinbeaker1">
+	<TEXT ID="Starchinbeaker1_one">
+		<TEXTVALUE>Transfer the paste into a 50 ml beaker using the spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2gum">
+	<TEXT ID="Starchinbeaker2gum_one">
+		<TEXTVALUE>Transfer the paste into a 50 ml beaker using the spatula.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Starchinbeaker2gum_two">
+		<TEXTVALUE>Take 100 ml of distilled water in a 250 ml beaker and heat the beaker (Do not boil the water. Warm water is to be used since gum is quite soluble in warm water).</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Heatingbeakerwatergum">
+	<TEXT ID="Heatingbeakerwatergum_one">
+		<TEXTVALUE>Take 100 ml of distilled water in a 250 ml beaker and heat the beaker (Do not boil the water. Warm water is to be used since gum is quite soluble in warm water).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pouringstarchsolutiongum">
+	<TEXT ID="Pouringstarchsolutiongum_one">
+		<TEXTVALUE>Pour the paste slowly into the warm water with stirring using a glass rod.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolutiongum_two">
+		<TEXTVALUE>Continue warming for about 10 minutes and then allow the beaker to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Funnelstandpapergum">
+	<TEXT ID="Funnelstandpapergum_one">
+		<TEXTVALUE>Fix a filter paper in a funnel which is fixed to a stand and place a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpapergum_two">
+		<TEXTVALUE>Filter the contents of the beaker through the funnel, using the glass rod, and collect the filtrate in the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutiongum">
+	<TEXT ID="Starchsolutiongum_one">
+		<TEXTVALUE>Label the filtrate as ‘Gum Sol’.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Title">
+	<TEXT ID="Title_01_one">
+		<TEXTVALUE>We require an egg, beakers, glass rod, 5% NaCl  solution, filter paper, funnel, conical flask, iron stand with clamp.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Takingegg">
+	<TEXT ID="Takingegg_one">
+		<TEXTVALUE>Take an egg. </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Takingegg_two">
+		<TEXTVALUE>Break the outer shell of the egg by striking it with a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Eggbrocken">
+	<TEXT ID="Eggbrocken_one">
+		<TEXTVALUE>Break the outer shell of the egg by striking it with a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringEggalbumin">
+	<TEXT ID="PouringEggalbumin_one">
+		<TEXTVALUE>Collect the colourless liquid (egg albumin) along with the yellow yolk in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringalbuminbeaker">
+	<TEXT ID="Pouringalbuminbeaker_one">
+		<TEXTVALUE>Decant the colourless liquid (egg albumin) into another beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PouringalbuminWater">
+	<TEXT ID="PouringalbuminWater_one">
+		<TEXTVALUE>Transfer the egg albumin into a beaker containing 5% NaCl solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringalbuminWaterzoom">
+	<TEXT ID="PouringalbuminWaterzoom_one">
+		<TEXTVALUE>Transfer the egg albumin into a beaker containing 5% NaCl solution.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="PouringalbuminWaterzoom_two">
+		<TEXTVALUE>Stir it constantly for about 15-20 minutes.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="FunnelstandpaperAlbumin">
+	<TEXT ID="FunnelstandpaperAlbumin_one">
+		<TEXTVALUE>Fix a filter paper in a funnel which is fixed to a stand and place a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunnelstandpaperAlbumin_two">
+		<TEXTVALUE>Filter the contents of the beaker through the funnel and collect the filtrate in a conical flask.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Albuminsolution1">
+	<TEXT ID="Albuminsolution1_one">
+		<TEXTVALUE>Label the filtrate as ‘Egg Albumin Sol’.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title1a">
+	<TEXT ID="title1a_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introd007">
+	<TEXT ID="introd007_one">
+	 	<TEXTVALUE>We require, 2% solution of aluminium chloride, silver nitrate solution, dropper, glass rod,  distilled water, beakers, wire gauze, tripod stand, Bunsen burner, funnel,  filter paper, conical flask, parchment membrane, iron stand with clamp etc. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamingOutProcess">
+	<TEXT ID="SteamingOutProcess_one">
+		<TEXTVALUE>Take a 250 ml conical flask and clean it by the steaming-out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamClose">
+	<TEXT ID="SteamClose_one">
+		<TEXTVALUE>Take a 250 ml conical flask and clean it by the steaming-out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MeasuringJar">
+	<TEXT ID="MeasuringJar_one">
+		<TEXTVALUE>To this cleaned conical flask, add 100 ml of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heating">
+	<TEXT ID="Heating_one">
+		<TEXTVALUE>Heat the conical flask containing water to boil by placing the flask over a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="UsingDropper">
+	<TEXT ID="UsingDropper_one">
+		<TEXTVALUE>Take 2% aluminium chloride solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Evaporate">
+	<TEXT ID="Evaporate_one">
+		<TEXTVALUE>Add ammonium chloride solution drop wise to the boiling water.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Evaporate_two">
+		<TEXTVALUE>Continue boiling until white gelatinous solution of aluminium hydroxide is formed.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Evaporate_three">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="ferrricsolution">
+	<TEXT ID="ferrricsolution_one">
+		<TEXTVALUE>Keep the contents of the conical flask undisturbed for some time at room temperature. Label the solution as "Aluminum Hydroxide sol".
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembrane">
+	<TEXT ID="Alumembrane_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembranetofunnel">
+	<TEXT ID="Alumembranetofunnel_one">
+		<TEXTVALUE>Take a funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Alumembranetofunnel_two">
+		<TEXTVALUE>Fix a parchment membrane to the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alhydroxidesolution">
+	<TEXT ID="alhydroxidesolution_one">
+		<TEXTVALUE>Add the Aluminum hydroxide sol into the parchment bag through the funnel until two-thirds of the bag is full.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutiontomembrane">
+	<TEXT ID="solutiontomembrane_one">
+		<TEXTVALUE>Add the Aluminum hydroxide sol into the parchment bag through the funnel until two-thirds of the bag is full.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipintowater">
+	<TEXT ID="dipintowater_one">
+		<TEXTVALUE>Fix the funnel with the membrane containing sol to a stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_two">
+		<TEXTVALUE>Dip the parchment bag into the distilled water and fix the funnel at that position by means of the clamp.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_three">
+		<TEXTVALUE>Dip the parchment bag into the distilled water and fix the funnel at that position and Allow to it stand for half an hour.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_four">
+		<TEXTVALUE>After half an hour, take small amount of water from the beaker using a dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="totesttubestand">
+	<TEXT ID="totesttubestand_one">
+		<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sivernitrate">
+	<TEXT ID="sivernitrate_one">
+		<TEXTVALUE>Take few drops of silver nitrate solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitate">
+	<TEXT ID="whiteprecipitate_one">
+		<TEXTVALUE>Add few drops of silver nitrate solution into the test tube containing water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whiteprecipitate_two">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alucloseup">
+	<TEXT ID="Alucloseup_one">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondbeaker">
+	<TEXT ID="secondbeaker_one">
+		<TEXTVALUE>Replace the water in the beaker with fresh distilled water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondbeaker_two">
+		<TEXTVALUE>Allow it to stand for 10 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Frombeaker">
+	<TEXT ID="Frombeaker_one">
+		<TEXTVALUE>Repeat the test for the presence of chloride ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttubetransfer">
+	<TEXT ID="totesttubetransfer_one">
+		<TEXTVALUE>Repeat the test for the presence of chloride ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromsivenitrate">
+	<TEXT ID="fromsivenitrate_one">
+		<TEXTVALUE>Repeat the test for the presence of chloride ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitatesolution">
+	<TEXT ID="whiteprecipitatesolution_one">
+		<TEXTVALUE>If white precipitate is formed, dialysis should be continued.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateclose">
+	<TEXT ID="whiteprecipitateclose_one">
+		<TEXTVALUE>If no white precipitate is formed, chloride ions are absent. This indicates that the dialysis is complete, otherwise the sol still contains chloride ions and therefore the dialysis should be continued.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>We require, 2% solution of ferric chloride, silver nitrate solution, dropper, glass rod,  distilled water, beakers, wire gauze, tripod stand, Bunsen burner, funnel,  filter paper, conical flask, parchment membrane, iron stand with clamp etc. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="FerricSteamingOutProcess">
+	<TEXT ID="FerricSteamingOutProcess_one">
+		<TEXTVALUE>Take a 250 ml conical flask and clean it by the steaming-out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricSteamClose">
+	<TEXT ID="FerricSteamClose_one">
+		<TEXTVALUE>Take a 250 ml conical flask and clean it by steaming – out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FerricMeasuringJar">
+	<TEXT ID="FerricMeasuringJar_one">
+		<TEXTVALUE>To this cleaned conical flask, add 100 ml of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricHeating">
+	<TEXT ID="FerricHeating_one">
+		<TEXTVALUE>Heat the conical flask containing water to boil by placing the flask over a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricUsingDropper">
+	<TEXT ID="FerricUsingDropper_one">
+		<TEXTVALUE>Take 2% ferric chloride solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricEvaporate">
+	<TEXT ID="FerricEvaporate_one">
+		<TEXTVALUE>Add ferric chloride solution drop wise to the boiling water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_two">
+		<TEXTVALUE>Continue boiling until deep red or brown solution of ferric hydroxide is obtained.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_three">
+		<TEXTVALUE>Continue boiling until deep red or brown solution of ferric hydroxide is obtained.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="ferrricsolution1">
+	<TEXT ID="ferrricsolution1_one">
+		<TEXTVALUE>Keep the contents of the conical flask undisturbed for sometime at room temperature.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ferrricsolution1_two">
+		<TEXTVALUE>Label the solution as ‘Ferric Hydroxide Sol’.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembrane">
+	<TEXT ID="Ferricmembrane_one">
+		<TEXTVALUE>Take a funnel. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembranetofunnel">
+	<TEXT ID="Ferricmembranetofunnel_one">
+		<TEXTVALUE>Fix a parchment membrane to the stem of the funnel.Using a thread, tie the membrane to the stem of the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrichydroxidesolution">
+	<TEXT ID="ferrrichydroxidesolution_one">
+		<TEXTVALUE>Take‘Ferric Hydroxide Sol’.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsolutiontomembrane">
+	<TEXT ID="Ferricsolutiontomembrane_one">
+		<TEXTVALUE>Pour the ferric hydroxide sol into the parchment bag through the funnel till two-thirds of the bag is full.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricdipintowater">
+	<TEXT ID="Ferricdipintowater_one">
+		<TEXTVALUE>Fix the funnel with the membrane containing sol to a stand. Dip the parchment bag into distilled water taken in a beaker and fix the funnel in position by means of the clamp.Allow it to stand for about half an hour.
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricdipintowater_two">
+		<TEXTVALUE>After half an hour, take small amount of water from the beaker using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsivernitrate">
+	<TEXT ID="Ferricsivernitrate_one">
+		<TEXTVALUE>Take few drops of silver nitrate solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricwhiteprecipitate">
+	<TEXT ID="Ferricwhiteprecipitate_one">
+		<TEXTVALUE>Add it into the test tube containing water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricwhiteprecipitate_two">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferriccloseup">
+	<TEXT ID="Ferriccloseup_one">
+		<TEXTVALUE>A white precipitate of AgCl produced immediately indicates the presence of chloride ions in water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondsolution">
+	<TEXT ID="secondsolution_one">
+		<TEXTVALUE>Replace the water in the beaker with fresh distilled water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondsolution_two">
+		<TEXTVALUE>Allow it to stand for 10 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+		<TEXTVALUE>Repeat the test for the presence of Chloride ions. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferrictotesttubetransfer">
+	<TEXT ID="Ferrictotesttubetransfer_one">
+		<TEXTVALUE>Repeat the test for the presence of Chloride ions.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="fromsivernitrate">
+	<TEXT ID="fromsivernitrate_one">
+		<TEXTVALUE>Repeat the test for the presence of Chloride ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whteprecipitatetube">
+	<TEXT ID="whteprecipitatetube_one">
+		<TEXTVALUE>If white precipitate is formed, dialysis should be continued.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateresult">
+	<TEXT ID="whiteprecipitateresult_one">
+		<TEXTVALUE>If no white precipitate is formed,chloride ions are absent. This indicates that dialysis is complete, otherwise the sol still contains chloride ions and therefore the dialysis should be continued.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1Arsetitle">
+	<TEXT ID="1Arsetitle_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2Arseintro">
+	<TEXT ID="2Arseintro_one">
+		<TEXTVALUE>We require, solid arseniuos oxide, hydrogen sulphide gas, Distilled water, conical flask, beakers, RB flask, glass rod, glass tube, flutted filter paper, wire gauze, tripod stand, Bunsen burner, kipp’s apparatus, iron stand with clamp etc. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Arsetakeconicalflask">
+	<TEXT ID="3Arsetakeconicalflask_one">
+		<TEXTVALUE>Take a 250 ml conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4Arsesteamingoutprocess">
+	<TEXT ID="4Arsesteamingoutprocess_one">
+		<TEXTVALUE>Clean it by the steaming-out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Arsesteamingzoom">
+	<TEXT ID="5Arsesteamingzoom_one">
+		<TEXTVALUE>Clean it by the steaming-out process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Arsesteamingback">
+	<TEXT ID="6Arsesteamingback_one">
+		<TEXTVALUE>Take the cleaned conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7Arsetakeconicalflaskback">
+	<TEXT ID="7Arsetakeconicalflaskback_one">
+		<TEXTVALUE>Take the cleaned conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8Arsetaktake">
+	<TEXT ID="8Arsetaktake_one">
+		<TEXTVALUE>To this cleaned flask, add 0.2 g of arsenious oxide.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+<SCENE ID="9Arsetakeconicalflask3">
+	<TEXT ID="9Arsetakeconicalflask3_one">
+		<TEXTVALUE>To this cleaned flask, add 0.2 g of arsenious oxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10Arsetakeconwater">
+	<TEXT ID="10Arsetakeconwater_one">
+		<TEXTVALUE>Take 100 ml of distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11Arsetakeconwater2">
+	<TEXT ID="11Arsetakeconwater2_one">
+		<TEXTVALUE>Pour it into the conical flask containing arsenious oxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12Arsetakeconwater3">
+	<TEXT ID="12Arsetakeconwater3_one">
+		<TEXTVALUE>Take solution. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13Arsesteamingflame">
+	<TEXT ID="13Arsesteamingflame_one">
+		<TEXTVALUE>Boil the solution with stirring for about 10 minutes by placing the flask over the Bunsen burner. Arsenious oxide undergoes hydrolysis with boiling distilled water to form arsenous acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14Arsesteamingflam6">
+	<TEXT ID="14Arsesteamingflam6_one">
+		<TEXTVALUE>Boil the solution with stirring for about 10 minutes by placing the flask over the Bunsen burner.Arsenious oxide undergoes hydrolysis with boiling distilled water to form arsenous acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15glassrod">
+	<TEXT ID="15glassrod_one">
+		<TEXTVALUE>Fix a flutted filter paper in a funnel and place a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15glassrod_two">
+		<TEXTVALUE>Fix a flutted filter paper in a funnel and place a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16glassrozoom">
+	<TEXT ID="16glassrozoom_one">
+		<TEXTVALUE>Filter the hot solution in the flask through the flutted filter paper and collect the filtrate in another beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17takebeaker">
+	<TEXT ID="17takebeaker_one">
+		<TEXTVALUE>Pass a slow current of hydrogen sulphide gas into the solution of arsenous acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takebeaker_two">
+		<TEXTVALUE>Arsenous acid reacts with hydrogen sulphide to form yellow coloured arsenious sulphide. Continue passing hydrogen sulphide gas till the intensity of colour does not change further.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17A">
+	<TEXT ID="17A_one">
+		<!--<TEXTVALUE>Pass a slow current of H[sub]2[/sub]S into As[sub]2[/sub]O[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>Expel excess of hydrogen sulphide gas from the sol by boiling the sol till the escaping gas does not turn lead acetate paper black.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_two">
+		<!--<TEXTVALUE>The solution develops a yellow color due to the formation of As[sub]2[/sub]S[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>Expel the excess of hydrogen sulphide gas from the sol by boiling the sol till the escaping gas does not turn lead acetate paper black.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_three">
+		<TEXTVALUE></TEXTVALUE>		
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18glassrozoom3">
+	<TEXT ID="18glassrozoom3_one">
+		<TEXTVALUE>Filter the solution through the fluted filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20glassrozoom4">
+	<TEXT ID="20glassrozoom4_one">
+		<TEXTVALUE>Collect the bright yellow filtrate in a dry conical flask and cork it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="20glassrozoom4_two">
+		<TEXTVALUE>Label the filtrate as ‘Arsenious Sulphide Sol’.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

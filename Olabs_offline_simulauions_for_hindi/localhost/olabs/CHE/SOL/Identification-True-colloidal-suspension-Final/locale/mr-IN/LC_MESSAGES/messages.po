@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H\n"
+"POT-Creation-Date: 2013-12-12 15:08+0530\n"
+"PO-Revision-Date: 2016-04-25 15:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Distinguish Between Solutions"
+msgstr "Distinguish Between Solutions"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:15
+msgid "Select the property"
+msgstr "गुणधर्म निवडा"
+
+#: simcontrols.js:15
+msgid "Select the solution to be tested"
+msgstr "जे द्रावण तपासायचे आहे ते निवडा"
+
+#: simcontrols.js:15
+msgid "Reset"
+msgstr "पूर्ववत करा"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "True solutions"
+msgstr "खरोखरीचे द्रावण"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Suspensions"
+msgstr "कणयुक्त द्रावण"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Colloids"
+msgstr "कलिल"
+
+#: simcontrols.js:16
+msgid ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for checking <br> the "
+"transparency of true solution."
+msgstr ""
+"खरोखरीच्या द्रावणाची पारदर्शकता तपासण्यासाठी सेलोफेन कागद द्रावण<br> असलेल्या परिक्षा नळीच्या मागे ओढा."
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test tubes for checking "
+"<br> the transparency of suspension."
+msgstr "कणयुक्त द्रवाची पारदर्शकता तपासण्यासाठी सेलोफेन कागद द्रव असलेल्या परिक्षा नळीच्या मागे ओढा."
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test tubes for checking "
+"<br> the transparency of colloid."
+msgstr "कलिलाची पारदर्शकता तपासण्यासाठी सेलोफेन कागद कलिल असलेल्या परिक्षा नळीच्या मागे ओढा."
+
+#: simcontrols.js:17
+msgid ""
+"Drag the test tube and pour the solution into the <br> test tube through the funnel and "
+"glass rod."
+msgstr "द्रावण गाळण्यासाठी नरसाळे व काचेचा रॉड असलेल्या परिक्षा नळीकडे द्रावण असलेली नळी ओढा."
+
+#: simcontrols.js:17
+msgid "Click on the funnel to see the <br> zoomed view of the filter paper content."
+msgstr "फिल्टर कागदाचे मोठे दृश्य बघण्यासाठी नरसाळ्यावर क्लिक करा."
+
+#: simcontrols.js:18
+msgid ""
+"Click on on the start button to wait<br>  for 20 minutes for the particles<br> in the "
+"solution to settle."
+msgstr "द्रावणातले कण खाली बसू देण्यासाठी सुरू बटण क्लिक करा आणि २० मिनिटे थांबा."
+
+#: simcontrols.js:19
+msgid "Drag the test tube to fit it in the stand."
+msgstr "स्टँडवर परिक्षा नळी लावण्यासाठी नळी स्टँडकडे ओढा."
+
+#: simcontrols.js:19
+msgid "Drag the light source to view tyndall effect clearly."
+msgstr "टिंडल प्रभाव बघण्यासाठी प्रकाश स्रोत ओढा."
+
+#: simcontrols.js:20
+msgid "A true solution is transparent."
+msgstr "खरोखरीचे द्रावण पारदर्शक असते."
+
+#: simcontrols.js:20
+msgid "A suspension is opaque."
+msgstr "कणयुक्त द्रव अपारदर्शक असते."
+
+#: simcontrols.js:20
+msgid "A colloid is a translucent."
+msgstr "कलिल अर्धवट पारदर्शक असते."
+
+#: simcontrols.js:21
+msgid "Solid particles cannot be separated from <br>true solution by filtration."
+msgstr "खरोखरीच्या द्रावणातून स्थायू कण गाळून वेगळे होत नाहीत. "
+
+#: simcontrols.js:21
+msgid "Suspended components of suspension <br> can be separated by filtration."
+msgstr "कणयुक्त द्रवाचे घटक गाळून वेगळे करता येतात."
+
+#: simcontrols.js:21
+msgid "Components causing colloid cannot be <br> separated by filtration."
+msgstr "कलिलाचे घटक गाळून वेगळे करता येत नाही."
+
+#: simcontrols.js:22
+msgid "The true solutions are stable and do not<br> show the depositions of components."
+msgstr "खरोखरीचे द्रावण स्थिर असतात आणि त्यातल्या घटकांचे अवक्षेपण दिसत नाही."
+
+#: simcontrols.js:22
+msgid "Suspension is unstable and show <br>settlement of heavier particles."
+msgstr "कणयुक्त द्रव अस्थिर असते, आणि त्यातले कण काही काळाने खाली बसतात."
+
+#: simcontrols.js:22
+msgid ""
+"Colloids are stable. Their solute particles <br>do not settle down when left undisturbed."
+msgstr "कलिल स्थिर असतात. जरी त्यांना हलविले नाही, तरी त्यांचे कण खाली बसत नाहीत."
+
+#: simcontrols.js:23
+msgid ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is present in its "
+"molecular size.  Because of <br>this small size,the solute particles do not scatter the "
+"<br>light passed through the solution. "
+msgstr ""
+"खरोखरीच्या द्रावणात, द्राव्य पूर्णपणे द्रावकात विरघळते, आणि त्याच्या रेणु च्या आकाराचे कण द्रावकात असते.,<br> "
+"इतके लहान कण असल्यामुळे ते प्रकाशाचे विकीकरण करीत नाहीत."
+
+#: simcontrols.js:23
+msgid ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</sup> cm or "
+"larger.Because of the large size of the <br>particles, suspensions do not show Tyndall "
+"effect."
+msgstr ""
+"कणयुक्त द्रवात कणांचे आकार १०-५ सेमी. किंवा अजून मोठे असतात. कणांच्या मोठ्या आकारामुळे कलिल टिंडल प्रभाव "
+"दाखवित नाहीत."
+
+#: simcontrols.js:23
+msgid ""
+"When a strong beam of light is passed through a colloidal solution <br>the light is "
+"scattered by the particles of the colloid. Thus the <br>path of light is clearly visible in "
+"the colloid."
+msgstr ""
+"जेव्हा कलिल द्रावणातून प्रकाशाची शलाका पार जाते तेव्हा कलिलातल्या कणांमुळे प्रकाशाचे विकीकरण होते. म्हणून "
+"कलिलातला प्रकाशाचा प्रवास नीट दिसतो"
+
+#: simcontrols.js:25
+msgid "Transparency"
+msgstr "पारदर्शकता"
+
+#: simcontrols.js:25
+msgid "Filtrations"
+msgstr "गळण"
+
+#: simcontrols.js:25
+msgid "Stability"
+msgstr "स्थिरता"
+
+#: simcontrols.js:25
+msgid "Tyndall effect"
+msgstr "टिंडल प्रभाव"
+
+#: simcontrols.js:44
+msgid "min"
+msgstr "मिनिट"
+
+#: simcontrols.js:44
+msgid "sec"
+msgstr "सेकंद"
+
+#: simcontrols.js:44
+msgid "ms"
+msgstr "मिलीसे."
+
+#: simcontrols.js:45
+msgid "START"
+msgstr "सुरू"
+
+#: simcontrols.js:45
+msgid "STOP"
+msgstr "थांबा"
+
+#: simcontrols.js:47
+msgid "Sugar"
+msgstr "साखर"
+
+#: simcontrols.js:47
+msgid "Salt"
+msgstr "मीठ"
+
+#: simcontrols.js:47
+msgid "Alum"
+msgstr "तुरटी"
+
+#: simcontrols.js:48
+msgid "Soil"
+msgstr "माती"
+
+#: simcontrols.js:48
+msgid "Chalk"
+msgstr "खडू"
+
+#: simcontrols.js:48
+msgid "Sand"
+msgstr "वाळू"
+
+#: simcontrols.js:49
+msgid "Starch"
+msgstr "स्टार्च"
+
+#: simcontrols.js:49
+msgid "Egg Albumin"
+msgstr "अंड्याचे पांढरे बलक"
+
+#~ msgid "True solutions do not show Tyndall effect."
+#~ msgstr "खरे उपाय Tyndall प्रभाव दाखवू शकत नाहीत."
+
+#~ msgid "Suspensions do not show Tyndall effect."
+#~ msgstr "Suspensions Tyndall प्रभाव दाखवू शकत नाहीत."
+
+#~ msgid "Light is scattered by the particles of the colloid."
+#~ msgstr "हलका सरबरीत द्रव च्या कण द्वारे विखुरलेल्या आहे."

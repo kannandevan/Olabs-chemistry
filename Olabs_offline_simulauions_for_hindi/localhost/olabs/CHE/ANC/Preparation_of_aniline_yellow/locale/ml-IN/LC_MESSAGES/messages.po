@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:49+0530\n"
+"PO-Revision-Date: 2025-10-07 12:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "സഹായം"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "വികസിപ്പിച്ചത് അമൃത സർവ്വകലാശാല <br> ധനസഹായം : ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം || <br> വിദ്യാഭ്യാസ മന്ത്രാലയം, ഇന്ത്യൻ ഗവൺമെന്റ്"
+
+msgid "Reset"
+msgstr "<empty class='px9'>പുനഃസജ്ജമാക്കുക</empty>"
+
+msgid "Drag and drop the dropper containing<br>10 mL HCl into the measuring cylinder"
+msgstr "10 മില്ലി HCl ഉള്ള ഡ്രോപ്പർ <br>അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the measuring cylinder<br> into beaker containing water"
+msgstr "അളക്കുന്ന സിലിണ്ടർ വെള്ളമുള്ള <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the dropper<br> containing 4.5 mL aniline<br> into the measuring cylinder"
+msgstr "4.5 മില്ലി അനിലിൻ ഉള്ള ഡ്രോപ്പർ <br>അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the measuring cylinder<br> into the beaker containing HCl and water"
+msgstr "അളക്കുന്ന സിലിണ്ടർ HCl-ഉം വെള്ളവുമുള്ള <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Click the glass rod<br> inside the beaker to stir<br> and get a clear solution"
+msgstr "കലർത്താനും വ്യക്തമായ ലായനി ലഭിക്കാനുമായി <br>ബീക്കറിനുള്ളിലെ ഗ്ലാസ് റോഡിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the beaker<br> into the ice bath"
+msgstr "ബീക്കർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) <br>വലിച്ചിടുക"
+
+msgid "Drag and drop <br>the thermometer<br> into ice bath"
+msgstr "തെർമോമീറ്റർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) <br>വലിച്ചിടുക"
+
+msgid "Click on the Inference button"
+msgstr "നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Click on the Next button"
+msgstr "അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the butter paper containing<br>4g sodium nitrite powder in the beaker"
+msgstr "4 ഗ്രാം സോഡിയം നൈട്രൈറ്റ് പൊടിയുള്ള <br>ബട്ടർ പേപ്പർ ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Click on the glass rod placed<br> in the beaker to stir constantly"
+msgstr "തുടർച്ചയായി ഇളക്കാൻ ബീക്കറിൽ വെച്ചിട്ടുള്ള <br>ഗ്ലാസ് റോഡിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the beaker into ice bath"
+msgstr "ബീക്കർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) വലിച്ചിടുക"
+
+msgid "Drag and drop the Mixture solution<br>(HCl and aniline with water) into the beaker<br> containing sodium nitrite solution"
+msgstr "മിശ്രിത ലായനി (HCl, അനിലിൻ എന്നിവ വെള്ളത്തോടെ) <br>സോഡിയം നൈട്രൈറ്റ് ലായനിയുള്ള ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop glass rod into<br> the solution beaker to stir"
+msgstr "ഇളക്കുന്നതിനായി ഗ്ലാസ് റോഡ് <br>ലായനി ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the dropper containing<br> 4 mL aniline into the measuring cylinder"
+msgstr "4 മില്ലി അനിലിൻ ഉള്ള ഡ്രോപ്പർ <br>അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the measuring<br> cylinder into empty beaker"
+msgstr "അളക്കുന്ന സിലിണ്ടർ ഒഴിഞ്ഞ <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the dropper containing<br> 4 mL HCl into the measuring cylinder"
+msgstr "4 മില്ലി HCl ഉള്ള ഡ്രോപ്പർ <br>അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the measuring<br> cylinder into the aniline beaker"
+msgstr "അളക്കുന്ന സിലിണ്ടർ അനിലിൻ <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag benzene diazonium chloride<br> solution from 5 <sup>o</sup>C ice bath and drop<br> it in the HCl and aniline beaker"
+msgstr "ബെൻസീൻ ഡയസോണിയം ക്ലോറൈഡ് ലായനി <br>5 °C ഐസ് ബാത്തിൽ നിന്ന് വലിച്ചെടുത്ത് <br>HCl-ഉം അനിലിനും ഉള്ള ബീക്കറിൽ ഇടുക"
+
+msgid "Drag and drop glass rod<br> into the solution beaker for<br> stirring to get a yellow color"
+msgstr "മഞ്ഞനിറം ലഭിക്കാൻ ഇളക്കുന്നതിനായി <br>ഗ്ലാസ് റോഡ് ലായനി ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the beaker<br> containing solution<br> into the ice bath"
+msgstr "ലായനി അടങ്ങിയ ബീക്കർ ഐസ് ബാത്തിലേക്ക് <br>(ഐസ് ബാത്ത്) വലിച്ചിടുക"
+
+msgid "Drag and drop folded paper into the funnel"
+msgstr "മടക്കിയ പേപ്പർ ഫണലിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the beaker containing<br> crude sample into the funnel to filter it"
+msgstr "ഫിൽട്ടർ ചെയ്യാൻ ക്രൂഡ് സാമ്പിൾ ഉള്ള <br>ബീക്കർ ഫണലിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the paper containing<br> the dry compound into the beaker"
+msgstr "ഉണങ്ങിയ സംയുക്തമുള്ള പേപ്പർ <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop CCl<sub>4</sub> dropper into the<br> beaker containing the crude sample"
+msgstr "CCl₄ ഡ്രോപ്പർ ക്രൂഡ് സാമ്പിൾ ഉള്ള <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the end-closed<br> capillary into the beaker"
+msgstr "അടഞ്ഞ അറ്റമുള്ള കാപ്പിലറി ട്യൂബ് <br>ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Switch ON the <br>melting point apparatus"
+msgstr "ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണം <br>(melting point apparatus) ഓൺ ചെയ്യുക"
+
+msgid "Switch ON the Rapid <br>heat to the melting<br> point apparatus"
+msgstr "ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിന് <br>വേഗത്തിലുള്ള ചൂട് (Rapid heat) നൽകുക"
+
+msgid "Drag and drop the capillary tube<br> into the melting point apparatus"
+msgstr "കാപ്പിലറി ട്യൂബ് ദ്രവണാങ്കം അളക്കുന്ന <br>ഉപകരണത്തിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the thermometer<br> into the melting point apparatus"
+msgstr "തെർമോമീറ്റർ ദ്രവണാങ്കം അളക്കുന്ന <br>ഉപകരണത്തിലേക്ക് വലിച്ചിടുക"
+
+msgid "Click variable heat into the<br> melting point apparatus"
+msgstr "ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലെ <br>വേരിയബിൾ ഹീറ്റിൽ (variable heat) ക്ലിക്കുചെയ്യുക"
+
+msgid "Click the yellow light glass view<br> into the melting point apparatus"
+msgstr "ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലെ <br>മഞ്ഞ വെളിച്ചമുള്ള ഗ്ലാസ് കാഴ്ചയിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും ചെയ്യാൻ റീസെറ്റ് ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "The HCl and aniline beaker in the ice bath is at 5 <sup>o</sup>C."
+msgstr "ഐസ് ബാത്തിലെ (ഐസ് ബാത്ത്) HCl-ഉം അനിലിനും ഉള്ള ബീക്കർ 5 °C-ലാണ്."
+
+msgid "Solution get yellow color<br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH<sub>2</sub>"
+msgstr "ലായനിക്ക് മഞ്ഞനിറം ലഭിക്കുന്നു <br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH₂"
+
+msgid "120<sup>o</sup>C to 130<sup>o</sup>C: Melting yellow liquid at<br> this temperature; see in zoom view."
+msgstr "120 °C മുതൽ 130 °C വരെ: ഈ താപനിലയിൽ മഞ്ഞ ദ്രാവകം ഉരുകുന്നു; സൂം കാഴ്ചയിൽ കാണുക."
+
+msgid "Next"
+msgstr "<empty class='px8'>അടുത്തത്</empty>"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും ചെയ്യാൻ റീസെറ്റ് ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Instructions:"
+msgstr "നിർദ്ദേശങ്ങൾ:"
+
+msgid "Leave the solution for sometime, until the yellow solid get recrystallized."
+msgstr "മഞ്ഞനിറമുള്ള ഖരവസ്തു വീണ്ടും ക്രിസ്റ്റലൈസ് (ക്രിസ്റ്റലൈസ് ചെയ്യുക) ചെയ്യുന്നതുവരെ ലായനി കുറച്ച് സമയത്തേക്ക് വെക്കുക."
+
+
+
+
+
+
+
+
+
+
+
+msgid "1. Show 20 mL of water in the &nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "<empty class='px10'>1. ബീക്കറിൽ 20 മില്ലി വെള്ളം കാണിക്കുക.</empty>"
+
+msgid "2. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;containing 10 mL HCl into  &nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "<empty class='px10'>2. 10 മില്ലി HCl ഉള്ള ഡ്രോപ്പർ അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "3. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into a &nbsp;&nbsp;&nbsp;&nbsp;beaker containing water."
+msgstr "<empty class='px10'>3. അളക്കുന്ന സിലിണ്ടർ വെള്ളമുള്ള ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "4. Drag and drop the dropper  &nbsp;&nbsp;&nbsp;&nbsp;containing 4.5 mL &nbsp;&nbsp;&nbsp;&nbsp;aniline&nbsp;into the measuring<br>&nbsp;&nbsp;&nbsp; cylinder."
+msgstr "<empty class='px10'>4. 4.5 മില്ലി അനിലിൻ ഉള്ള ഡ്രോപ്പർ അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "5. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into the &nbsp;&nbsp;&nbsp;&nbsp;beaker containing HCl and &nbsp;&nbsp;&nbsp;&nbsp;water."
+msgstr "<empty class='px10'>5. അളക്കുന്ന സിലിണ്ടർ HCl-ഉം വെള്ളവുമുള്ള ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "6. Click the glass rod inside the &nbsp;&nbsp;&nbsp;&nbsp;beaker to stir and get a &nbsp;&nbsp;&nbsp;&nbsp;clear solution."
+msgstr "<empty class='px10'>6. കലർത്താനും വ്യക്തമായ ലായനി ലഭിക്കാനുമായി ബീക്കറിനുള്ളിലെ ഗ്ലാസ് റോഡിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "7. Drag and drop the beaker  &nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "<empty class='px10'>7. ബീക്കർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) വലിച്ചിടുക.</empty>"
+
+msgid "8. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;thermometer into ice bath."
+msgstr "<empty class='px10'>8. തെർമോമീറ്റർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) വലിച്ചിടുക.</empty>"
+
+msgid "9. Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "<empty class='px10'>9. നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "10.Click on the Next button."
+msgstr "<empty class='px10'>10. അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "Instructions:"
+msgstr "നിർദ്ദേശങ്ങൾ:"
+
+msgid "&nbsp;&nbsp;1. Drag and drop the butter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paper containing 4 g sodium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrite powder in the beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;1. 4 ഗ്രാം സോഡിയം നൈട്രൈറ്റ് പൊടിയുള്ള ബട്ടർ പേപ്പർ ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;2. Click on the glass rod placed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the beaker to stir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;constantly."
+msgstr "<empty class='px10'>&nbsp;&nbsp;2. തുടർച്ചയായി ഇളക്കാൻ ബീക്കറിൽ വെച്ചിട്ടുള്ള ഗ്ലാസ് റോഡിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;3. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "<empty class='px10'>&nbsp;&nbsp;3. ബീക്കർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;4. Drag and drop the mixture  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution (HCl and aniline with  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water) into the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing sodium nitrite &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution."
+msgstr "<empty class='px10'>&nbsp;&nbsp;4. മിശ്രിത ലായനി (HCl, അനിലിൻ എന്നിവ വെള്ളത്തോടെ) സോഡിയം നൈട്രൈറ്റ് ലായനിയുള്ള ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;5. Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker to stir."
+msgstr "<empty class='px10'>&nbsp;&nbsp;5. ഇളക്കുന്നതിനായി ഗ്ലാസ് റോഡ് ലായനി ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;6. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL aniline into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "<empty class='px10'>&nbsp;&nbsp;6. 4 മില്ലി അനിലിൻ ഉള്ള ഡ്രോപ്പർ അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;7. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the empty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;7. അളക്കുന്ന സിലിണ്ടർ ഒഴിഞ്ഞ ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;8. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL HCl into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder."
+msgstr "<empty class='px10'>&nbsp;&nbsp;8. 4 മില്ലി HCl ഉള്ള ഡ്രോപ്പർ അളക്കുന്ന സിലിണ്ടറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;9. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the aniline &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;9. അളക്കുന്ന സിലിണ്ടർ അനിലിൻ ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;10.Drag benzene diazonium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chloride solution from &nbsp;5 <sup>o</sup>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath and drop it in the HCl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and aniline beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;10.ബെൻസീൻ ഡയസോണിയം ക്ലോറൈഡ് ലായനി 5 °C ഐസ് ബാത്തിൽ നിന്ന് വലിച്ചെടുത്ത് HCl-ഉം അനിലിനും ഉള്ള ബീക്കറിൽ ഇടുക.</empty>"
+
+msgid "&nbsp;&nbsp;11.Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stirring to get a yellow color."
+msgstr "<empty class='px10'>&nbsp;&nbsp;11.മഞ്ഞനിറം ലഭിക്കാൻ ഇളക്കുന്നതിനായി ഗ്ലാസ് റോഡ് ലായനി ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;12.Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing solution into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath."
+msgstr "<empty class='px10'>&nbsp;&nbsp;12.ലായനി അടങ്ങിയ ബീക്കർ ഐസ് ബാത്തിലേക്ക് (ഐസ് ബാത്ത്) വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;13.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "<empty class='px10'>&nbsp;&nbsp;13.നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;1. Drag and drop folded paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the funnel "
+msgstr "<empty class='px10'>&nbsp;&nbsp;1. മടക്കിയ പേപ്പർ ഫണലിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;2. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing crude sample into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the funnel to filter it."
+msgstr "<empty class='px10'>&nbsp;&nbsp;2. ഫിൽട്ടർ ചെയ്യാൻ ക്രൂഡ് സാമ്പിൾ ഉള്ള ബീക്കർ ഫണലിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;3. Drag and drop the paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing the dry compound &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;3. ഉണങ്ങിയ സംയുക്തമുള്ള പേപ്പർ ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;4. Drag and drop CCl<sub>4</sub> dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker containing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the crude sample."
+msgstr "<empty class='px10'>&nbsp;&nbsp;4. CCl₄ ഡ്രോപ്പർ ക്രൂഡ് സാമ്പിൾ ഉള്ള ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;5. Drag and drop the end-closed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capillary into the beaker."
+msgstr "<empty class='px10'>&nbsp;&nbsp;5. അടഞ്ഞ അറ്റമുള്ള കാപ്പിലറി ട്യൂബ് ബീക്കറിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;6. Switch ON the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;6. ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണം (melting point apparatus) ഓൺ ചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;7. Switch ON the Rapid heat to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the melting point apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;7. ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിന് വേഗത്തിലുള്ള ചൂട് (Rapid heat) നൽകുക.</empty>"
+
+msgid "&nbsp;&nbsp;8. Drag and drop the capillary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tube into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;8. കാപ്പിലറി ട്യൂബ് ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;9. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thermometer into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;9. തെർമോമീറ്റർ ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലേക്ക് വലിച്ചിടുക.</empty>"
+
+msgid "&nbsp;&nbsp;10.Click variable heat into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;10.ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലെ വേരിയബിൾ ഹീറ്റിൽ (variable heat) ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;11.Click the yellow light glass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "<empty class='px10'>&nbsp;&nbsp;11.ദ്രവണാങ്കം അളക്കുന്ന ഉപകരണത്തിലെ മഞ്ഞ വെളിച്ചമുള്ള ഗ്ലാസ് കാഴ്ചയിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;12.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "<empty class='px10'>&nbsp;&nbsp;12.നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+msgid "&nbsp;&nbsp;13.Click on the Reset button to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do the experiment again."
+msgstr "<empty class='px10'>&nbsp;&nbsp;13.പരീക്ഷണം വീണ്ടും ചെയ്യാൻ റീസെറ്റ് ബട്ടണിൽ ക്ലിക്കുചെയ്യുക.</empty>"
+
+
+msgid "&nbsp;&nbsp;14.Click on the Next button."
+msgstr "14. അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+ 
+
+msgid "Preparation of Aniline yellow"
+msgstr "അനിലിൻ യെല്ലോയുടെ നിർമ്മാണം"
+
+msgid "Developed by Amrita University Under research grant from<br>Ministry of Electronics and Information Technology"
+msgstr "<empty class='px10'>ഇലക്ട്രോണിക്‌സ്, ഇൻഫർമേഷൻ ടെക്‌നോളജി മന്ത്രാലയത്തിൽ നിന്നുള്ള ഗവേഷണ ഗ്രാന്റിന് കീഴിൽ അമൃത യൂണിവേഴ്‌സിറ്റി വികസിപ്പിച്ചത്</empty>"

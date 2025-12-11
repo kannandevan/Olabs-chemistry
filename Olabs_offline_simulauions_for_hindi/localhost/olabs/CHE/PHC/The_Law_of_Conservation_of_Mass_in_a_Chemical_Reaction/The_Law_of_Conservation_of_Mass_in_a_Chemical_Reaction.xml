@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>We require measuring cylinders, barium chloride solution, sodium sulphate solution, conical flask, cork, 10 ml test tube and electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>Measure 5 ml of sodium sulphate solution  in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>Measure 5 ml of sodium sulphate solution  in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>Pour it into a conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>Measure 5 ml of barium chloride solution in another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>Measure 5 ml of barium chloride solution in another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>Pour it into a 10 ml test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>Tie the test tube using a thread and hang the test tube in a conical flask carefully, so that the solutions do not mix with each other.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>Cork the conical flask so that the thread holding the test tube is held firmly in place.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>Take the conical flask and carefully weigh the flask on an electronic balance, with all the contents, ensuring that the solutions do not mix, and note the reading.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>Take the flask from the balance, tilt it and swirl the flask so that barium chloride solution in the test tube spills and mixes with sodium sulphate solution in the flask and</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Lab12_two">
+	<TEXTVALUE>forms a white coloured precipitate of barium sulphate (BaSO[sub]4[/sub]) and an aqueous solution of sodium chloride (NaCl).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>Wait for 10 min to complete the reaction. The precipitate of barium sulphate settles down to the bottom of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>Weigh the contents of the flask again and note down the reading.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab15">
+	<TEXT ID="lab15_one">
+	<TEXTVALUE>It will be observed that “The total mass of the reactants is equal to the total mass of the products”. Hence, the Law of Conservation of Mass is verified.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

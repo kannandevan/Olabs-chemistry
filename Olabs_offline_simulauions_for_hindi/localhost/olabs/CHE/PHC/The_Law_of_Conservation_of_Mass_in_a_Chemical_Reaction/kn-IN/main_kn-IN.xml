@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="kn-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_TITLE">
+        <source>ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ &quot;ದ್ರವ್ಯರಾಶಿ ಸಂರಕ್ಷಣ ನಿಯಮ&quot;.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONICAL_FLASK_POP">
+        <source>ಕಾನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ 250 ml</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LAB_BACK">
+        <source>ಹಿಂದೆ</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LAB_BARIUM">
+        <source>ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್
+ (BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LAB_BARIUM_POP">
+        <source>ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್
+ (BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LAB_CLOCK">
+        <source>10 ನಿಮಿಷ</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LAB_CORK">
+        <source>ಕಾರ್ಕ್</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_LAB_CYLINDERS">
+        <source>ಅಳತೆ
+ಸಿಲಿಂಡರ್ಗಳು</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_LAB_SODIUM">
+        <source>ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_LAB_SODIUMPOP">
+        <source>ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_LAB_TABLE_01">
+        <source>ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ
+ಉಪಕರಣ + ಮಾಸ್ ಆಫ್
+ಪ್ರತಿಕ್ರಿಯಾತ್ಮಕ, (M + m1) g</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_LAB_TABLE_03">
+        <source>ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ
+ಉಪಕರಣ + ಮಾಸ್
+ಉತ್ಪನ್ನದ (M + m2) g</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_LAB_TABLE_04">
+        <source>ಎಂ ಉಳಿದಿದೆ ರಿಂದ
+ಸ್ಥಿರ, M1 = M2
+ಹೌದು, ಒಟ್ಟು ಸಮೂಹ
+ಪ್ರತಿಕ್ರಿಯಾಕಾರರು = ಒಟ್ಟು ಸಮೂಹ
+ ಉತ್ಪನ್ನಗಳ.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LAB_TEST_TUBE">
+        <source>ಪ್ರನಾಳ</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LAB_WEIGHT_POP">
+        <source>ತೂಕ
+ಸಮತೋಲನ</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LAW_HEAD_01">
+        <source>ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ
+ &quot;ದ್ರವ್ಯರಾಶಿ ಸಂರಕ್ಷಣ ನಿಯಮ&quot;.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_START_01">
+        <source>ಪ್ರಾರಂಭಿಸಿ</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

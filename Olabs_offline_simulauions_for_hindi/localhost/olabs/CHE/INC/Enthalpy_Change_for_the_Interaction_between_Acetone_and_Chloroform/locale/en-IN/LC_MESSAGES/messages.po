@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\\n\n"
+"POT-Creation-Date: 2022-03-15 14:46+0530\n"
+"PO-Revision-Date: 2022-03-15 14:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: h<h>\\n\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:8
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:9
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:10
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:11
+msgid "Identify bleaching powder among given samples of chemicals"
+msgstr "Identify bleaching powder among given samples of chemicals"
+
+#: simcontrols.js:12
+msgid ""
+"Developed by Amrita University Under research grant from <br> Department of "
+"Electronics & Information Technology"
+msgstr ""
+"Developed by Amrita University Under research grant from <br> Department of "
+"Electronics & Information Technology"
+
+#: simcontrols.js:13
+msgid ""
+"Bleaching powder is calcium oxochloride(CaOCl2.<br>  On treatment with dil."
+"H2SO4,it liberates hypochlorous acid(HOCl)<br>  which is not stable and "
+"decomposes giving nascent oxygen<br> and thus acts as an oxidising and "
+"bleaching agent.<br> Thus the solution is bleaching powder"
+msgstr ""
+"Bleaching powder is calcium oxochloride(CaOCl2.<br>  On treatment with dil."
+"H2SO4,it liberates hypochlorous acid(HOCl)<br>  which is not stable and "
+"decomposes giving nascent oxygen<br> and thus acts as an oxidising and "
+"bleaching agent.<br> Thus the solution is bleaching powder"
+
+#: simcontrols.js:14
+msgid ""
+"No colour change in the cloth because the production <br> of nascent oxygen "
+"does not happen in the reaction"
+msgstr ""
+"No colour change in the cloth because the production <br> of nascent oxygen "
+"does not happen in the reaction"
+
+#: simcontrols.js:15
+msgid "Select the sample solution"
+msgstr "Select the sample solution"
+
+#: simcontrols.js:15
+msgid "Drag the cotton cloth towards <br> the beaker containing 50ml solution"
+msgstr "Drag the cotton cloth towards <br> the beaker containing 50ml solution"
+
+#: simcontrols.js:15
+msgid "Drag the tweezer towards the<br> same beaker to pick the cloth"
+msgstr "Drag the tweezer towards the<br> same beaker to pick the cloth"
+
+#: simcontrols.js:15
+msgid "Drag the glassrod towards the beaker <br> containing Sulphuric acid"
+msgstr "Drag the glassrod towards the beaker <br> containing Sulphuric acid"
+
+#: simcontrols.js:19
+msgid ""
+"Sample solution and sulphuric acid <br/> must not touch your skin. Handle "
+"carefully"
+msgstr ""
+"Sample solution and sulphuric acid <br/> must not touch your skin. Handle "
+"carefully"
+
+#: simcontrols.js:20
+msgid "Select the sample"
+msgstr "Select the sample"
+
+#: simcontrols.js:20
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:21
+msgid "Solution A"
+msgstr "Solution A"
+
+#: simcontrols.js:22
+msgid "Solution B"
+msgstr "Solution B"
+
+#: simcontrols.js:23
+msgid "Solution C"
+msgstr "Solution C"
+
+#: simcontrols.js:24
+msgid "Solution D"
+msgstr "Solution D"
+
+#: simcontrols.js:25
+msgid "50ml Solution"
+msgstr "50ml Solution"
+
+#: simcontrols.js:26
+msgid "20ml Dil.Sulphuric Acid"
+msgstr "20ml Dil.Sulphuric Acid"
+
+#: simcontrols.js:27
+msgid "Cotton Cloth"
+msgstr "Cotton Cloth"

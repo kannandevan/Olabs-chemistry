@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2014-05-15 12:26+0530\n"
+"PO-Revision-Date: 2016-04-26 10:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Purification of Impure Samples by Crystallization"
+msgstr "स्फटिकीकरण पद्धतीने अशुद्ध नमुन्याचे शुद्धीकरण"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:19
+msgid "Select the sample"
+msgstr "नमूना निवडा"
+
+#: simcontrols.js:19
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: simcontrols.js:20
+msgid "Crude copper sulphate"
+msgstr "अशुद्ध कॉपर सल्फेट"
+
+#: simcontrols.js:20
+msgid "Distilled Water"
+msgstr "ऊर्ध्वपतित पाणी "
+
+#: simcontrols.js:20
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "Dil. H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:20
+msgid "Crude potash alum"
+msgstr "अशुद्ध पोटाश तुरटी"
+
+#: simcontrols.js:20
+msgid "Crude benzoic acid"
+msgstr "अशुद्ध बेंझोइक आम्ल"
+
+#: simcontrols.js:20
+msgid "Next"
+msgstr "पुढे"
+
+#: simcontrols.js:20
+msgid "Hot Water"
+msgstr "गरम पाणी"
+
+#: simcontrols.js:20
+msgid "30 Min"
+msgstr "३० मिनिटे"
+
+#: simcontrols.js:20
+msgid "Ethyl alcohol with cold water"
+msgstr "इथाइल अल्कोहोल आणि थंड पाणी"
+
+#: simcontrols.js:20
+msgid "Mixture of alcohol  & water "
+msgstr "अल्कोहोल आणि पाण्याचे मिश्रण"
+
+#: simcontrols.js:20
+msgid "Cold water"
+msgstr "थंड पाणी"
+
+#: simcontrols.js:21
+msgid "Copper sulphate"
+msgstr "कॉपर सल्फेट"
+
+#: simcontrols.js:21
+msgid "Potash alum"
+msgstr "पोटाश तुरटी"
+
+#: simcontrols.js:21
+msgid "Benzoic acid"
+msgstr "बेंझोइक आम्ल"
+
+#: simcontrols.js:22
+msgid "The insoluble impurities are left on the filter paper."
+msgstr "अविद्राव्य अशुद्धता फिल्टर कागदावर मागे राहतात."
+
+#: simcontrols.js:22
+msgid ""
+"The appearance of a crust or tiny crystals on the side of the <br> china dish shows that the "
+"crystallisation point has reached."
+msgstr "चायना ताटलीत थर दिसले किंवा छोटी स्फटिके दिसली म्हणजे स्फटिकीकरण बिन्दु साध्य झाला आहे"
+
+#: simcontrols.js:22
+msgid "Crystals of the sample is formed."
+msgstr "नमुन्याची स्फटिके निर्माण होतात."
+
+#: simcontrols.js:22
+msgid "The watch glass contains dried crystals."
+msgstr "वॉच ग्लास मध्ये कोरडी स्फटिके आहेत."
+
+#: simcontrols.js:22
+msgid "The crystals of copper sulphate are <br> triclinic, transparent and blue."
+msgstr "कॉपर सल्फेटची स्फटिके पारदर्शी, निळी आणि त्रिअक्षी असतात."
+
+#: simcontrols.js:22
+msgid "The crystals of potash alum are <br> colourless, transparent and octahedral."
+msgstr "पोटाश तुरटीची स्फटिके रंगहीन, पारदर्शी आणि अष्टपृष्ठक असतात."
+
+#: simcontrols.js:22
+msgid "The crystals of benzoic acid are <br> opaque and white."
+msgstr "बेंझोइक आम्लाची स्फटिके पांढरी आणि अपारदर्शी असतात."
+
+#: simcontrols.js:22
+msgid "Crystals of benzoic acid is left <br> behind on the filter paper."
+msgstr "बेंझोइक आम्लाची स्फटिके फिल्टर कागदावर राहतात."
+
+#: simcontrols.js:23
+msgid "Click on the sample icon <br> to choose the sample."
+msgstr "नमूना निवडण्यासाठी नमूना आयकॉन क्लिक करा."
+
+#: simcontrols.js:23
+msgid "Drag the spatula and add <br> sample into the beaker."
+msgstr "स्पाट्युला ओढा आणि नमूना चंचुपात्रात टाका."
+
+#: simcontrols.js:23
+msgid "Click on the glass rod <br> to stir the solution."
+msgstr "द्रावण ढवळण्यासाठी काचेच्या रॉडवर क्लिक करा."
+
+#: simcontrols.js:23
+msgid "Drag the measuring cylinder and <br> add H<sub>2</sub>SO<sub>4</sub> into the beaker."
+msgstr "मापन नळकांडे ओढा आणि चंचुपात्रात H2SO4 टाका."
+
+#: simcontrols.js:23
+msgid ""
+"Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and "
+"glass rod."
+msgstr "चंचुपात्र ओढा आणि नरसाळे आणि काचेचा रॉड वापरून द्रावण चायना ताटलीत टाका."
+
+#: simcontrols.js:23
+msgid "Click on the burner knob <br>  to turn on the burner."
+msgstr "बर्नर सुरू करण्यासाठी बर्नरचे बटण क्लिक करा."
+
+#: simcontrols.js:23
+msgid ""
+"Drag the china dish to <br> transfer the hot saturated solution <br> into the crystallising "
+"dish."
+msgstr "चायना ताटली ओढा आणि गरम सम्पृक्त द्रावण स्फटिकीकरण ताटलीत टाका."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it into the  trough."
+msgstr "स्फटिकीकरण ताटली ओढा आणि कुंडात ठेवा."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it back."
+msgstr "स्फटिकीकरण ताटली ओढा आणि परत जागेवर ठेवा"
+
+#: simcontrols.js:23
+msgid "Drag the filter paper and put <br> the crystals into the test tube."
+msgstr "फिल्टर कागद ओढा आणि स्फटिके परिक्षा नळीत टाका."
+
+#: simcontrols.js:23
+msgid "Drag the cork and close the test tube."
+msgstr "बूच ओढा आणि परिक्षा नळी बंद करा."
+
+#: simcontrols.js:23
+msgid "Click on the test tube to see<br>  the zoomed view of the sample."
+msgstr "नमुन्याचे झूम्ड दृश्य बघण्यासाठी परिक्षा नळीवर क्लिक करा."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it into the trough."
+msgstr "चंचुपात्र ओढा आणि कुंडात ठेवा."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it back."
+msgstr "चंचुपात्र ओढा आणि परत जागेवर ठेवा"
+
+#: simcontrols.js:23
+msgid "Drag the bottle and add <br> solution into the crystallisation dish."
+msgstr "बाटली ओढा आणि द्रावण स्फटिकीकरण ताटलीत टाका."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish and decant <br> the upper solution to the trough."
+msgstr "स्फटिकीकरण ताटली ओढा आणि वरचे द्रावण कुंडात निवलून घ्या."
+
+#: simcontrols.js:23
+msgid ""
+"Drag the beaker and pour<br> the solution into the beaker <br> through the funnel and glass "
+"rod."
+msgstr "चंचुपात्र ओढा आणि नरसाळे आणि काचेचा रॉड वापरून द्रावण त्यात टाका."
+
+#~ msgid "Alum"
+#~ msgstr "Potash alum"
+
+#~ msgid "Drag the beaker and pour <br> the solution into the funnel <br> through a glass rod."
+#~ msgstr ""
+#~ "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and "
+#~ "glass rod."
+
+#~ msgid ""
+#~ "Click to drag the filter paper <br> containing crystals of the sample <br> and place it "
+#~ "into the testtube."
+#~ msgstr "Drag the filter paper and put <br> the crystals into the test tube."

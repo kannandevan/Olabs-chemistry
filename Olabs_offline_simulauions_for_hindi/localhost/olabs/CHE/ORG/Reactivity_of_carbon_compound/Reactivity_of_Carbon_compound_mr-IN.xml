@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_title_1">
+	<TEXTVALUE>असेटीक आम्लाची वैशिष्ट्ये</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_string_2">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="buttons">
+	<TEXT ID="buttons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l1">
+	<TEXTVALUE>कार्बन संयुगाची अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l2">
+	<TEXTVALUE>वास</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l3">
+	<TEXTVALUE>पाण्यात द्रवणशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l4">
+	<TEXTVALUE>लिटमसवर प्रभाव</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l5">
+	<TEXTVALUE>सोडियम बायकार्बोनेटशी 
+अभिक्रिया</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="odour">
+	<TEXT ID="odour_one">
+	<TEXTVALUE>एका परिक्षा नळीत थोडेसे असेटीक आम्ल घ्या आणि त्याचा वास घ्या. त्याचा त्रास देणारा तिखट वास असतो. परिक्षा नळीचे तोंड तुमच्या आणि तुमच्या सहविद्यार्थ्यांच्या चेहर्‍यापासून लांब ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_3">
+	<TEXTVALUE>असेटीक अॅसिड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_4">
+	<TEXTVALUE>त्रास देणारा तिखट वास</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_5">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="solubilityinwater">
+	<TEXT ID="solubilityinwater_one">
+	<TEXTVALUE>एका परिक्षा नळीत थोडेसे असेटीक आम्ल घ्या आणि एका परिक्षा नळीत थोडेसे ऊर्ध्वपतित पाणी घ्या</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_two">
+	<TEXTVALUE>असेटीक आम्ल पाण्यात मिसळा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_string_6">
+	<TEXTVALUE>पाणी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solubilityinwatersecond">
+	<TEXT ID="solubilityinwatersecond_one">
+	<TEXTVALUE>परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solubilityinwaterthird">
+	<TEXT ID="solubilityinwaterthird_one">
+	<TEXTVALUE>एकविध द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwaterthird_string_7">
+	<TEXTVALUE>एकविध द्रावण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Litmus">
+	<TEXT ID="Litmus_one">
+	<TEXTVALUE>निळ्या लिटमस कागदाची एक पट्टी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Litmus_string_8">
+	<TEXTVALUE>लिटमस कागद</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Litmussecond">
+	<TEXT ID="Litmussecond_one">
+	<TEXTVALUE>असेटीक आम्ल असलेल्या परिक्षा नळीत ती बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Litmusthird">
+	<TEXT ID="Litmusthird_one">
+	<TEXTVALUE>निळे लिटमस लाल होते, म्हणजे असेटीक आम्ल हे आम्लधर्मी आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumbicarbonate">
+	<TEXT ID="sodiumbicarbonate_one">
+	<TEXTVALUE>एका परिक्षा नळीत थोडेसे सोडियम बायकार्बोनेट घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_two">
+	<TEXTVALUE>ती नळी स्टँडला लावा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_three">
+	<TEXTVALUE>नळीचे तोंड दोन भोके असलेल्या बूचाने बंद करा,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_four">
+	<TEXTVALUE>बूचाच्या एका भोकातून लांब दांडीचे नरसाळे टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_five">
+	<TEXTVALUE>एका अजून परिक्षा नळीत चुन्याची निवळी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_six">
+	<TEXTVALUE>ही नळी दुसर्‍या स्टँडला लावा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_seven">
+	<TEXTVALUE>एक वितरण नळी घ्या आणि त्याचे एक टोक सोडियम बायकार्बोनेट (बूचातल्या भोकामधून) मध्ये आणि दुसरे चुन्याची निवळी असलेल्या नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_9">
+	<TEXTVALUE>सोडियम बायकार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_10">
+	<TEXTVALUE>लांब दांडीचे नरसाळे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_stri_ls1">
+	<TEXTVALUE>चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="takeaceticacid">
+	<TEXT ID="takeaceticacid_one">
+	<TEXTVALUE>असेटीक अॅसिड असलेली बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeaceticacid_string11">
+	<TEXTVALUE>असेटीक अॅसिड</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="last">
+	<TEXT ID="last_one">
+	<TEXTVALUE>ज्या नळीत सोडियम बायकार्बोनेट आहे त्यात लांब दांडीच्या नरसाळ्यातून असेटीक अॅसिड ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_two">
+	<TEXTVALUE>एक वायू निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_three">
+	<TEXTVALUE>नळीतली चुन्याची निवळी दुधासारखी होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_four">
+	<TEXTVALUE>निर्माण झालेली वायू CO2 असते ज्यामुळे चुन्याची निवळी दुधासारखी होते</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

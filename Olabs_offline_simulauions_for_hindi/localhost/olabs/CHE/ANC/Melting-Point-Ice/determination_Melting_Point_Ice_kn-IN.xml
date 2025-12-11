@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1duro">
+	<TEXT ID="1duro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2maarz">
+	<TEXT ID="2maarz_one">
+	 	<TEXTVALUE>ನಮಗೆ ಬೇಕಾಗಿರುವ ಸಾಮಗ್ರಿಗಳು - ಮಂಜುಗಡ್ಡೆಗಳು, ಬೀಕರ್, ತಾಪಮಾಪಕ, ಗಾಜಿನ ಕಡ್ಡಿ, ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ, ವೈರ್ ಗಾಜ್, ಮೂರು ಕಾಲಿನ ಸ್ತಂಭ ಮತ್ತು ಬುನ್ ಸೆನ್ ಬರ್ನರ್.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3icebox">
+	<TEXT ID="3icebox_one">
+	 	<TEXTVALUE>ಬೀಕರ್ ನಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂಜುಗಡ್ಡೆಯನ್ನು  ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4burner">
+	<TEXT ID="4burner_one">
+	 	<TEXTVALUE>ಮೂರು ಕಾಲಿನ ಸ್ತಂಭದ ಮೇಲೆ ವೈರ್ ಗಾಜ್ ಇಡಿ. ಮುಂಜುಗಡ್ಡೆ ಇರುವ ಬೀಕರ ಅನ್ನು ಅದರ ಮೇಲೆ ಇಟ್ಟು .ಕಲಕಲು ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿಯನ್ನು ಅದರೊಳಗೆ ಇಡಿ.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="4burner_two">
+	 	<TEXTVALUE>ತಾಪಮಾಪಕವನ್ನು ಹಿಡಿಕಟ್ಟಿನ ಸಹಾಯದಿಂದ ಭದ್ರವಾಗಿ ಇರಿಸಿ, ಮಂಜುಗಡ್ಡೆ ಇರುವ ಬೀಕರಿನಲ್ಲಿ ತಾಪಮಾನದ  ಬಲ್ಬ್ ಸ್ಥಿರವಾಗಿ ಮಂಜುಗಡ್ಡೆಯ ಮದ್ಯದಲ್ಲಿ  ನಿಲ್ಲಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="5burner">
+	<TEXT ID="5burner_one">
+	 	<TEXTVALUE>ಮಂಜುಗಡ್ಡೆಗಳನ್ನು ಮಿತಿಯಾದ ತಾಪದಲ್ಲಿ ಬುನ್ ಸೆನ್ ಬರ್ನರ್ ಸಹಾಯದಿಂದ ಕಾಯಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="5burner_two">
+	 	<TEXTVALUE>ಏಕರೂಪ ತಾಪ ಕಾಯ್ದುಕೊಳ್ಳಲು ಸತತವಾಗಿ ಕಲಕಿರಿ.ಮಂಜುಗಡ್ಡೆಗಳು ಕರಗಲು ಪ್ರಾರಂಭಿಸಿದ ಸಮಯದಲ್ಲಿ ತಾಪವನ್ನು ಗುರುತಿಸಿಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5burner_three">
+	 	<TEXTVALUE>ಮಂಜುಗಡ್ಡೆಗಳನ್ನು ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರೆಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="5burner_four">
+	 	<TEXTVALUE>ಮಂಜುಗಡ್ಡೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಾಗಿ ಕರಗುವ ಸಂದರ್ಭದಲ್ಲಿ ತಾಪವನ್ನು ಗುರುತಿಸಿಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="6result">
+	<TEXT ID="6result_one">
+	 	<TEXTVALUE>ಎರಡು ತಾಪಗಳ ಸರಾಸರಿಯು ನಮಗೆ ಮಂಜುಗಡ್ಡೆಯು ಕರಗುವ ಬಿಂದುವನ್ನು ನೀಡುತ್ತದೆ.ಮಂಜುಗಡ್ಡ ಕರಗುವ ಬಿಂದು 0oC.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+

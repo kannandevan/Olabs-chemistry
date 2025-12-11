@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>उष्मारसायनशास्त्र</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="water_text">
+	<TEXTVALUE>कॅलरीमापकाचे सममूल्य पाणी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="enthalpy_txt">
+	<TEXTVALUE>पृथक्करणाची पूर्ण उष्मा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>प्रयोग निवडण्यासाठी बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>आवश्यक सामग्री: झाकण असलेला लकडी डबा, कॅलरीमापक, थर्मामिटर, मापन जार, २५० मिली चंचुपात्र, ऊर्ध्वपतित पाणी आणि ढवळणी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="wooden_txt">
+	<TEXTVALUE>झाकण असलेला 
+लकडी डबा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calorimeter_txt">
+	<TEXTVALUE>कॅलरीमापक</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="thermometer_txt">
+	<TEXTVALUE>थर्मामिटर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="jar_txt">
+	<TEXTVALUE>मापन जार</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="baker_txt">
+	<TEXTVALUE>२५० मिली 
+चंचुपात्र</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="stirrer_txt">
+	<TEXTVALUE>ढवळणी   </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="hotplate_txt">
+	<TEXTVALUE>हॉट प्लेट</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>मापन जार मध्ये ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>मापन जार मध्ये ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>कॅलरीमापकात टाका. थर्मामिटर वापरून कॅलरीमापकातल्या पाण्याचे तापमान मोजा. ह्याला टी१०से. म्हणू. कॅलरीमापक काढून टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>कॅलरीमापक लाकडी डब्यात ठेवा (उष्मा हानी होऊ नये म्हणून कॅलरीमापक आणि डब्यातल्या जागेत कापूस भरला जातो) आणि कॅलरीमापकात एक ढवळणी टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>अजून ५० मिली ऊर्ध्वपतित पाणी मापन जार मध्ये घ्या आणि त्याला २५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>चंचुपात्रातल्या पाण्याचे तापमान हे खोलीच्या तापमानापेक्षा १०-२००से (~४७०से)अधिक होईपर्यंत तापवा. आणि पाण्याच्या तापमानाची नोंद करा. ह्याला टी२०से. म्हणू.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>वेळ वाया न घालवता गरम पाणी कॅलरीमापकात टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>लगेच लाकडी डबा बंद करा आणि पटकन कॅलरीमापकात थर्मामिटर टाका. ढवळणी ने ढवळा आणि तापमान स्थिर होईपर्यन्त ढवळा. तापमानाची नोंद करा. ह्याला टी३०से. म्हणू.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>निरीक्षणांची नोंद करा.</TEXTVALUE>
+	</TEXT>
+		
+	<TEXT ID="observation_txt">
+	<TEXTVALUE>निरीक्षणांची </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="volume_txt">
+	<TEXTVALUE>•कॅलरीमापकात घेतलेल्या पाण्याचे आकारमान = ५० मिली</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature_txt">
+	<TEXTVALUE>•पाण्याचे तापमान = टी१०से. = २७०से.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>•टाकलेल्या गरम पाण्याचे आकारमान = ५० मिली</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature47_txt">
+	<TEXTVALUE>गरम पाण्याचे तापमान = टी२०से. = ४७०से.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature36_txt">
+	<TEXTVALUE>•मिश्रण केल्यानंतर तापमान = टी३०से. = ३६०से.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>कॅलरीमापकाचे सममूल्य पाणी परिगणित करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calculations_txt">
+	<TEXTVALUE>गणना</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>गरम पाण्याने दिलेली उष्मा = कॅलरीमापक आणि थंड पाण्याने घेतलेली उष्मा</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>कॅलरीमापकाचे सममूल्य पाणी, W</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>कॅलरीमापकाचे सममूल्य पाणी, W </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn_txt">
+	<TEXTVALUE>&#60;&#60;मागे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>आवश्यक सामग्री: झाकण असलेला लकडी डबा, कॅलरीमापक, थर्मामिटर, मापन जार, ५ ग्राम अमोनियम क्लोराइड, ऊर्ध्वपतित पाणी आणि ढवळणी</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="ammonia_txt">
+	<TEXTVALUE>अमोनियम क्लोराइड(5g)  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>मापन जार मध्ये ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>मापन जार मध्ये ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>कॅलरीमापकात टाका. थर्मामिटर वापरून कॅलरीमापकातल्या पाण्याचे तापमान मोजा. ह्याला टी१०से. म्हणू. कॅलरीमापक काढून टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>कॅलरीमापक लाकडी डब्यात ठेवा (उष्मा हानी होऊ नये म्हणून कॅलरीमापक आणि डब्यातल्या जागेत कापूस भरला जातो) आणि कॅलरीमापकात एक ढवळणी टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>अमोनियम क्लोराइड कॅलरीमापकात टाका</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>अमोनियम क्लोराइड कॅलरीमापकात टाका</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>लगेच लाकडी डबा बंद करा आणि पटकन कॅलरीमापकात थर्मामिटर टाका. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Scene21_onesub">
+	<TEXTVALUE>ढवळणी ने ढवळा आणि तापमान स्थिर होईपर्यन्त ढवळा. तापमानाची नोंद करा. ह्याला टी३०से. म्हणू.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>निरीक्षणांची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum_txt">
+	<TEXTVALUE>•विरघळलेल्या अमोनियम क्लोराइडचे वजन , डब्ल्यू = ५ ग्राम</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="water50_txt">
+	<TEXTVALUE>•कॅलरीमापकात घेतलेल्या पाण्याचे आकारमान = ५० मिली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="mass_txt">
+	<TEXTVALUE>•म्हणून कॅलरीमापकात घेतलेल्या पाण्याचे वस्तुमान = ५० ग्राम (विशिष्ट घनता = १ असे समजू)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterTempe_txt">
+	<TEXTVALUE>•पाण्याचे तापमान = टी१०से. = २७०से.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="tempAfter_txt">
+	<TEXTVALUE>•अमोनियम क्लोराइड विरघळल्यानंतर तापमान = टी२०से. = २२०से.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterEqui_txt">
+	<TEXTVALUE>•कॅलरीमापकाचे सममूल्य पाणी, w = 11.11 g</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum01_txt">
+	<TEXTVALUE>•अमोनियम क्लोराइडचे रेणु वस्तुमान, एम = ५३.४९ ग्राम/मोल</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>अमोनियम क्लोराइडच्या पृथक्करणाची पूर्ण उष्मा परिगणित करा.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="equ_1_txt">
+	<TEXTVALUE>असे समजू की द्रावणाची घनता, आणि विशिष्ट उष्मा ही पाण्याएवढी आहे, मग, डब्ल्यू ग्राम द्राव्य विरघळण्यासाठी दिलेली किंवा घेतलेली उष्मा,</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>द्राव्याच्या डब्ल्यू मोल विरघळण्यासाठी उष्मात झालेला बदल.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="eque_3_txt">
+	<TEXTVALUE>द्राव्याच्या १ मोल विरघळण्यासाठी उष्मात झालेला बदल. (पृथक्करणाची पूर्ण उष्मा)
+</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>Q =(w + पाण्याचे वस्तुमान) X (t&#8321; -t&#8322; )कॅलरी </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_5_txt">
+	<TEXTVALUE>=(w + पाण्याचे वस्तुमान) X (t&#8321; -t&#8322; ) X 4.2 जूल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>=(w + पाण्याचे वस्तुमान) X (t&#8321; -t&#8322; ) X 4.2 जूल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>=(w + पाण्याचे वस्तुमान) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_8_txt">
+	<TEXTVALUE>जूल</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>अमोनियम क्लोराइडच्या पृथक्करणाची पूर्ण उष्मा परिगणित करा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>पृथक्करणाची पूर्ण उष्मा</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>=(W + पाण्याचे वस्तुमान) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>जूल/मोल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>अमोनियम क्लोराइडच्या पृथक्करणाची पूर्ण उष्मा </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>= 13728.85038 जूल/मोल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>= 13.73 जूल/मोल</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

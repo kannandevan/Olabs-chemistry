@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="251px" height="130px" viewBox="0 0 251 130" enable-background="new 0 0 251 130" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.52" y1="117.1348" x2="1.5325" y2="25.4348">
+		<stop  offset="0" style="stop-color:#FCFCFC"/>
+		<stop  offset="1" style="stop-color:#CFCFCF"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M1.55,82.35c-0.033-0.033-0.05-0.066-0.05-0.1V82.2
+		c0.001,0.033,0.018,0.05,0.05,0.05V82.35z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="63.9751" y1="104.1377" x2="63.9876" y2="46.4377">
+		<stop  offset="0" style="stop-color:#FCFCFC"/>
+		<stop  offset="1" style="stop-color:#CFCFCF"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M29.15,82c4.6,4.167,10.167,8.384,16.7,12.65
+		C63.383,106.316,83.9,115.767,107.4,123c-26.566-1.366-49.783-5.75-69.65-13.15C16.75,101.983,4.867,92.7,2.1,82H29.15z
+		 M125.75,117.875l0.1,8.125l-0.199,1.9c0-0.101,0-0.2,0-0.301L125.75,117.875z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="148.5752" y1="102.3672" x2="101.3252" y2="103.8175">
+		<stop  offset="0" style="stop-color:#FCFCFC"/>
+		<stop  offset="1" style="stop-color:#CFCFCF"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" d="M2.1,82c2.767,10.7,14.65,19.983,35.65,27.85
+		c19.867,7.4,43.083,11.784,69.65,13.15c4.7,1.467,9.55,2.833,14.55,4.1c0.5,0.101,1.017,0.2,1.55,0.301
+		c0.075,0.016,0.15,0.032,0.225,0.05c0.529,0.125,1.071,0.274,1.625,0.45c0.034,0,0.067,0,0.101,0c0.066,0,0.133,0.017,0.2,0.05
+		c-0.034,0-0.084,0-0.15,0c-2.133,0-4.25-0.017-6.35-0.05c-31.533-0.534-58.667-5.051-81.4-13.551
+		C14.383,105.616,2.3,95.134,1.5,82.9c0-0.067,0-0.117,0-0.15c0-0.066,0-0.116,0-0.15c0-0.066,0.017-0.133,0.05-0.199V82.35v-0.1
+		c-0.032,0-0.049-0.017-0.05-0.05v-0.05c0-0.034,0.017-0.051,0.05-0.051l0.05-0.05V82H2.1z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-1.8008" y1="66.2549" x2="124.2949" y2="112.2666">
+		<stop  offset="0" style="stop-color:#FCFCFC"/>
+		<stop  offset="0.8275" style="stop-color:#D4D4D4"/>
+		<stop  offset="1" style="stop-color:#C6C6C6"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" d="M123.725,127.45c-0.075-0.018-0.15-0.034-0.225-0.05
+		c-0.533-0.101-1.05-0.2-1.55-0.301c-5-1.267-9.85-2.633-14.55-4.1c-23.5-7.233-44.017-16.684-61.55-28.35
+		c-6.533-4.267-12.1-8.483-16.7-12.65c-10.467-9.333-16.033-18.283-16.7-26.85l0.1-0.05h-0.1V55c0-0.067,0-0.117,0-0.15
+		c0-0.1,0-0.184,0-0.25l1.1-0.05C25.417,63.85,37.917,73,51.05,82c21.633,14.866,44.983,29.35,70.05,43.45
+		c1.233,0.666,2.467,1.35,3.7,2.05c0.233,0.134,0.45,0.233,0.65,0.3L123.725,127.45z"/>
+	
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="109.5894" y1="54.0283" x2="185.7306" y2="54.0283" gradientTransform="matrix(0.9358 0.3526 -0.1154 1.0251 -1.599938e-004 3.354251e-004)">
+		<stop  offset="0" style="stop-color:#FCFCFC"/>
+		<stop  offset="0.8275" style="stop-color:#D4D4D4"/>
+		<stop  offset="1" style="stop-color:#C6C6C6"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" d="M125.75,117.875l-0.1,9.725c0,0.101,0,0.2,0,0.301v0.05
+		c-0.067-0.033-0.134-0.05-0.2-0.05c-0.033,0-0.066,0-0.101,0c-0.554-0.176-1.095-0.325-1.625-0.45l1.725,0.35
+		c-0.2-0.066-0.417-0.166-0.65-0.3c-1.233-0.7-2.466-1.384-3.7-2.05C96.033,111.35,72.683,96.866,51.05,82
+		c-13.133-9-25.633-18.15-37.5-27.45L125.65,82c0,0.167,0,0.3,0,0.4L125.75,117.875z M13.55,54.55l-1.1,0.05v-0.2
+		c0-0.033,0-0.066,0-0.1L13.55,54.55z M12.45,55.15V55.1h0.1L12.45,55.15z"/>
+</g>
+</svg>

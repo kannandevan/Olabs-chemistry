@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 12:08+0530\n"
+"PO-Revision-Date: 2015-11-23 15:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "To study the changes in the state of sublimate solids on heating"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+
+msgid "Click on the cap"
+msgstr "Click on the cap"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "Drag and drop the spatula<br> towards the bottle"
+
+msgid "Choose the correct answer."
+msgstr "Choose the correct answer."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "Drag and drop the funnel towards the china dish"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "Drag and drop <br> the cotton towards<br> the top of the funnel"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "Drag and drop the china dish towards tripod stand"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "Drag and drop the cotton<br> into the glass bowl"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+
+msgid "Drag and drop the wet cotton into the top of the china dish."
+msgstr "Drag and drop the wet cotton into the top of the china dish."
+
+msgid "Click on the knob of the burner"
+msgstr "Click on the knob of the burner"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "Click on the Reset button to do the experiment again"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Ammonium Chloride"
+msgstr "Ammonium Chloride"
+
+msgid "Ammonium Chloride"
+msgstr "Ammonium Chloride"
+
+msgid "Drag and drop the spatula towards the bottle."
+msgstr "Drag and drop the spatula towards the bottle."
+
+msgid "Drag and drop the funnel towards the china dish."
+msgstr "Drag and drop the funnel towards the china dish."
+
+msgid "Drag and drop the cotton towards the top of the funnel."
+msgstr "Drag and drop the cotton towards the top of the funnel."
+
+msgid "Drag and drop the china dish towards tripod stand."
+msgstr "Drag and drop the china dish towards tripod stand."
+
+msgid "Drag and drop the cotton into the glass bowl."
+msgstr "Drag and drop the cotton into the glass bowl."
+
+msgid "Click on the knob of the burner."
+msgstr "Click on the knob of the burner."
+
+msgid "<u><b>Instructions:</b></u>"
+msgstr "<u><b>Instructions:</b></u>"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "To study the changes in the state of sublimate solids on heating"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+
+msgid "Click on the cap"
+msgstr "Click on the cap"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "Drag and drop the spatula<br> towards the bottle"
+
+msgid "Choose the correct answer."
+msgstr "Choose the correct answer."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "Drag and drop the funnel towards the china dish"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "Drag and drop <br> the cotton towards<br> the top of the funnel"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "Drag and drop the china dish towards tripod stand"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "Drag and drop the cotton<br> into the glass bowl"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+
+msgid "Click on the knob of the burner"
+msgstr "Click on the knob of the burner"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "Click on the Reset button to do the experiment again"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Which of the following substances will undergo sublimation?"
+msgstr "Which of the following substances will undergo sublimation?"
+
+msgid "Dry ice"
+msgstr "Dry ice"
+
+msgid "Common salt"
+msgstr "Common salt"
+
+msgid "Sugar"
+msgstr "Sugar"
+
+msgid "Sand"
+msgstr "Sand"
+
+msgid "Dry ice"
+msgstr "Dry ice"
+
+msgid "What happens if naphthalene is used instead of ammonium chloride, Will it undergo the sublimation Process"
+msgstr "What happens if naphthalene is used instead of ammonium chloride, Will it undergo the sublimation Process"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+
+msgid "All of these"
+msgstr "All of these"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+
+msgid "Cottons helps in the elimination"
+msgstr "Cottons helps in the elimination"
+
+msgid "Cotton stops external air from entering the funnel"
+msgstr "Cotton stops external air from entering the funnel"
+
+msgid "In the procedure of sublimation, the inverted funnel is plugged with cotton because __________"
+msgstr "In the procedure of sublimation, the inverted funnel is plugged with cotton because __________"
+
+msgid "What happens when ammonium chloride is heated?"
+msgstr "What happens when ammonium chloride is heated?"
+
+msgid "Forms Ammonia and HCl"
+msgstr "Forms Ammonia and HCl"
+
+msgid "No changes"
+msgstr "No changes"
+
+msgid "Forms Ammonia and HCl"
+msgstr "Forms Ammonia and HCl"

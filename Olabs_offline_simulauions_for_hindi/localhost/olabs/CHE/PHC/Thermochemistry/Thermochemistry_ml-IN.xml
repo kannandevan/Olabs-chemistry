@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>തെർമോകെമിസ്ട്രി </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>ആരംഭിക്കുക </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="water_text">
+	<TEXTVALUE>കലോറീമീറ്ററിന് തുല്യമായ ജലം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="enthalpy_txt">
+	<TEXTVALUE>വിഘടനത്തിന്റെ ബന്ധനം </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>പരീക്ഷണം തിരഞ്ഞെടുക്കാൻ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>തടി കൊണ്ടുള്ള അടപ്പുള്ള ഒരു പെട്ടി, കലോറീമീറ്റര്‍, തെർമോമീറ്റർ, അളവ് ജാര്‍, 250 മി.ലി ബീക്കറുകള്‍, ശുദ്ധജലം, ഒരു സ്റ്റിറര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="wooden_txt">
+	<TEXTVALUE>ചൂടുള്ള പ്ലേറ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calorimeter_txt">
+	<TEXTVALUE>കലോറീമീറ്റർ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="thermometer_txt">
+	<TEXTVALUE>തെർമോമീറ്റർ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="jar_txt">
+	<TEXTVALUE>അളവ് ജാര്‍</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="baker_txt">
+	<TEXTVALUE>250 മി.ലി ബീക്കറുകൾ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>ശുദ്ധജലം</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="stirrer_txt">
+	<TEXTVALUE>സ്റ്റിറര്‍ </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="hotplate_txt">
+	<TEXTVALUE>ചൂടുള്ള പ്ലേറ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ ശുദ്ധജലം 50 മി.ലി അളക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ ശുദ്ധജലം 50 മി.ലി അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>അതിനെ കലോറീമീറ്ററിലേക്ക് മാറ്റുക. തെർമോമീറ്റർ ഉപയോഗിച്ച് കലോറീമീറ്ററില്‍ ജലത്തിന്റെ താപനില അളക്കുക. അത് t₁ °C ആകട്ടെ. തെർമോമീറ്റർ നീക്കം ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>കലോറീമീറ്റര്‍ തടിപ്പെട്ടിയില്‍ വയ്ക്കുക (താപനഷ്ടം ഒഴിവാക്കാൻ കലോറീമീറ്ററിനും തടിപ്പെട്ടിക്കും ഇടയ്ക്കുള്ള സ്ഥലത്ത് കോട്ടന്‍ നിറയ്ക്കുക). കലോറീമീറ്ററില്‍ ഒരു സ്റ്റിറര്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ മറ്റൊരു 50 മി.ലി ശുദ്ധജലം എടുത്ത് 250 മി.ലി ബീക്കറിലേക്ക് അത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>മുറിയിലെ താപനിലയേക്കാള്‍ ഉയര്‍ന്ന താപനിലയില്‍ 10-20 °C (~47 °C) ബീക്കറിലെ ജലം ചൂടാക്കുക. ഈ ചൂട് വെള്ളത്തിന്റെ താപനില ശ്രദ്ധിക്കുക. അതു t₂ °C ആകട്ടെ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>സമയം നഷ്ടം കൂടാതെ ചൂട് വെള്ളം കലോറീമീറ്ററിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>ഉടനെ തടിപ്പെട്ടി അടച്ച് വേഗം കലോറീമീറ്ററില്‍ തെർമോമീറ്റർ ഇടുക. സ്റ്റിറര്‍ ഉപയോഗിച്ച് ജലം ഇളക്കുക. താപനില സ്ഥിരമാകുന്നതുവരെ ഇളക്കുന്നത് തുടരുക. താപനില കുറിച്ചുവയ്ക്കുക. അതു t₃°C ആകട്ടെ.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+		
+	<TEXT ID="observation_txt">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="volume_txt">
+	<TEXTVALUE>•കലോറീമീറ്ററില്‍ എടുത്ത ജലത്തിന്റെ അളവ് = 50 മി.ലി</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature_txt">
+	<TEXTVALUE>•ജലത്തിന്റെ താപനില = t₁°C = 27 °C</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>•ചേര്‍ത്ത വെള്ളത്തിന്റെ അളവ് = 50 മി.ലി</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_mass">
+	<TEXTVALUE>•അതുകൊണ്ട്, വെള്ളത്തിന്റ പിണ്‌ഡം = 50 g 
+	(നിശ്ചിതമായ വെള്ളത്തിന്റ സാന്ദ്രത  = 1)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature47_txt">
+	<TEXTVALUE>•ചൂട് വെള്ളത്തിന്റെ താപനില = t₂°C = 47 °C</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature36_txt">
+	<TEXTVALUE>•മിശ്രിതപ്പെടുത്തിയതിനുശേഷമുള്ള താപനില = t₃°C = 36 °C</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>കലോറീമീറ്ററിന് തുല്യമായ ജലം കണക്കാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calculations_txt">
+	<TEXTVALUE>കണക്കുകൂട്ടലുകൾ</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>ചൂട് വെള്ളം നല്‍കുന്ന താപം = കലോറീമീറ്ററും തണുത്ത വെള്ളവും എടുത്ത താപം</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>കലോറീമീറ്ററിന് തുല്യമായ ജലം , W</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>കലോറീമീറ്ററിന് തുല്യമായ ജലം , W </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn_txt">
+	<TEXTVALUE>&#60;&#60;പിന്നോട്ട് </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>തടി കൊണ്ടുള്ള അടപ്പുള്ള ഒരു പെട്ടി, കലോറീമീറ്റര്‍, തെർമോമീറ്റർ, അളവ് ജാര്‍, 250 മി.ലി ബീക്കറുകള്‍, ശുദ്ധജലം, ഒരു സ്റ്റിറര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="ammonia_txt">
+	<TEXTVALUE>5 ഗ്രാം അമോണിയം ക്ലോറൈഡ്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ ശുദ്ധജലം 50 മി.ലി അളക്കുക.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ ശുദ്ധജലം 50 മി.ലി അളക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>കലോറീമീറ്ററിലേക്ക് അമോണിയം ക്ലോറൈഡ് മാറ്റുക. തെർമോമീറ്റർ ഉപയോഗിച്ച്, കലോറീമീറ്ററില്‍ ജലത്തിന്റെ താപനില അളക്കുക. അത്  t&#8321; °C ആകട്ടെ. തെർമോമീറ്റർ നീക്കം ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>കലോറീമീറ്റര്‍ തടിപ്പെട്ടിയില്‍ വയ്ക്കുക (താപനഷ്ടം ഒഴിവാക്കാൻ കലോറീമീറ്ററിനും തടിപ്പെട്ടിക്കും ഇടയ്ക്കുള്ള സ്ഥലത്ത് കോട്ടന്‍ നിറയ്ക്കുക). കലോറീമീറ്ററില്‍ ഒരു സ്റ്റിറര്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>കലോറീമീറ്ററിലേക്ക് അമോണിയം ക്ലോറൈഡ് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>കലോറീമീറ്ററിലേക്ക് അമോണിയം ക്ലോറൈഡ് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>ഉടനെ തടിപ്പെട്ടി അടച്ച് വേഗം കലോറീമീറ്ററില്‍ തെർമോമീറ്റർ ഇടുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Scene21_onesub">
+	<TEXTVALUE> തെർമോമീറ്റർ റീഡിംഗ് കുറിക്കുക. അതു t₂ °C ആകട്ടെ.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>നിരീക്ഷണങ്ങൾ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum_txt">
+	<TEXTVALUE>•ലയിച്ച അമോണിയം ക്ലോറൈഡിന്റെ ഭാരം: w = 5 ഗ്രാം.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="water50_txt">
+	<TEXTVALUE>•കലോറീമീറ്ററില്‍ എടുത്ത ജലത്തിന്റെ അളവ് = 50 മി.ലി</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="mass_txt">
+	<TEXTVALUE>•അതുകൊണ്ട്, കലോറീമീറ്ററില്‍ എടുത്ത ജലത്തിന്റെ പിണ്ഡം = 50 ഗ്രാം (സങ്കല്‍പ്പിക്കുന്ന നിശ്ചിത സാന്ദ്രത = 1 )</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterTempe_txt">
+	<TEXTVALUE>•ജലത്തിന്റെ താപനില  = t&#8321; °C = 27 °C</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="tempAfter_txt">
+	<TEXTVALUE>•അമോണിയം ക്ലോറൈഡ് ലയിച്ച ശേഷമുള്ള താപനില = t&#8322; °C =22 °C</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterEqui_txt">
+	<TEXTVALUE>•കലോറീമീറ്ററിന് തുല്യമായ ജലം, w = 11.11 g</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum01_txt">
+	<TEXTVALUE>•അമോണിയം ക്ലോറൈഡിന്റെ തന്മാത്രാ പിണ്ഡം, M  = 53.49 g/mol</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>അമോണിയം ക്ലോറൈഡ് ലയനത്തിന്റെ ബന്ധനം കണക്കാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="equ_1_txt">
+	<TEXTVALUE>ലായനിയുടെ സാന്ദ്രതയും നിര്‍ദ്ദിഷ്ട താപവും ജലത്തിന് സമാനമാണെന്ന് സങ്കല്‍പ്പിക്കുന്നു, അലിഞ്ഞ പദാര്‍ത്ഥത്തിന്റെ w g ന്റെ ലയനത്തിന് വേണ്ടി പുറം തള്ളിയ അല്ലെങ്കില്‍ ആഗിരണം ചെയ്ത താപം,</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>അലിഞ്ഞ പദാര്‍ത്ഥത്തിന്റെ താപ മാറ്റത്തിന്റെ w മോള്‍സിന് വേണ്ടി</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="eque_3_txt">
+	<TEXTVALUE>അലിഞ്ഞ പദാര്‍ത്ഥത്തിന്റെ താപ മാറ്റത്തിന്റെ 1 മോള്‍സിന് വേണ്ടി (ലയനത്തിന്റെ ബന്ധനം)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>Q =(w + ജലത്തിന്റെ പിണ്ഡം)  X (t&#8321; -t&#8322; )Cals </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_5_txt">
+	<TEXTVALUE>=(w + ജലത്തിന്റെ പിണ്ഡം)  X (t&#8321; -t&#8322; ) X 4.2 ജൂള്‍സ്</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>=(w + ജലത്തിന്റെ പിണ്ഡം)  X (t&#8321; -t&#8322; ) X 4.2 ജൂള്‍സ്</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>=(w + ജലത്തിന്റെ പിണ്ഡം) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_8_txt">
+	<TEXTVALUE>ജൂള്‍</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>അമോണിയം ക്ലോറൈഡ് ലയനത്തിന്റെ ബന്ധനം കണക്കാക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>ലയനത്തിന്റെ ബന്ധനം</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>=(W + ജലത്തിന്റെ പിണ്ഡം) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>ജൂള്‍സ്/ മോൾ </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>അമോണിയം ക്ലോറൈഡ് ലയനത്തിന്റെ ബന്ധനം </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>= 13728.85038 ജൂള്‍സ്/ മോൾ </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>= 13.73 kilojoules/mol </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

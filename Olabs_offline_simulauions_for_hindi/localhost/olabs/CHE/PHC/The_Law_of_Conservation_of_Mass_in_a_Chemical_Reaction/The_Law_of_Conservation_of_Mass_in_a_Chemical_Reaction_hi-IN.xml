@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>हमे एक मापने का बेलन, बेरियम क्लोराइड विलयन, सोडियम सल्फेट विलयन , शंक्वाकार कुप्पी, काग, 10 ml  परखनली और इलेक्ट्रॉनिक तुले की आवश्यकता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>मापने के बेलन में 5 ml सोडियम सल्फेट विलयन ले|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>मापने के बेलन में 5 ml सोडियम सल्फेट विलयन ले|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>एक शंक्वाकार कुप्पी में इसे डाले।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>एक दूसरे मापने के बेलन में 5 ml बेरियम क्लोराइड विलयन ले|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>एक दूसरे मापने के बेलन में 5 ml बेरियम क्लोराइड विलयन ले|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE> इसे एक 10 ml के परखनली में डाले|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>परखनली को एक धागे से बाँधे और उसे शंक्वाकार कुप्पी में ध्यान से लटकाए, ताकि दो विलयन आपस में घुल न जाए| </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>काग का उपयोग कर शंक्वाकार कुप्पी बंद करे ताकि परखनली पर लगा हुआ धागा अपने जगह दृढ़ता से रहे| </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>सभी घटकों के साथ शंक्वाकार फ्लास्क ले और ध्यान से उसे इलेक्ट्रॉनिक तुले पर रख के वज़न तौले, ताकि विलयन एक दुसरे से घुल न जाए और पाठ्यांक नोट करे|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>सभी घटकों के साथ शंक्वाकार फ्लास्क ले और ध्यान से उसे इलेक्ट्रॉनिक तुले पर रख के वज़न तौले, ताकि विलयन एक दुसरे से घुल न जाए और पाठ्यांक नोट करे|</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Lab12_two">
+	<TEXTVALUE>सभी घटकों के साथ शंक्वाकार फ्लास्क ले और ध्यान से उसे इलेक्ट्रॉनिक तुले पर रख के वज़न तौले, ताकि विलयन एक दुसरे से घुल न जाए और पाठ्यांक नोट करे|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>अभिक्रिया के खत्म होने के लिए 10 मिनट इंतज़ार करे| बेरियम सलफेट (BaSo4) का अवक्षिप्त कुप्पी में नीचे बस जाता है|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>अभिक्रिया के खत्म होने के लिए 10 मिनट इंतज़ार करे| बेरियम सलफेट (BaSo4) का अवक्षिप्त कुप्पी में नीचे बस जाता है|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab15">
+	<TEXT ID="lab15_one">
+	<TEXTVALUE>यह देखा जा सकता है  की " उत्पादों का कुल द्रव्यमान अभिकारकों के कुल द्रव्यमान के बराबर है " | द्रब्यमान संरक्षण का नियम को सत्यापित है|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

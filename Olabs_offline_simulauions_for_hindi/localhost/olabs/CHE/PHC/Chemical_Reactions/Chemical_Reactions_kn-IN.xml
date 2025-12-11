@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>ನಮಗೆ ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು- ಮೆಗ್ನೀಶಿಯಂ ರಿಬ್ಬನ್  ತುಂಡು, ಮರಳು ಕಾಗದ,ಇಕ್ಕಳ,ವಾಚ್ ಗ್ಲಾಸ್,ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದ,ಬುನ್ ಸೆನ್ ಬರ್ನರ್,ಇತ್ಯಾದಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>ಮೆಗ್ನೀಶಿಯಂ ರಿಬ್ಬನ್ ತೆಗೆದುಕೊಂಡು ಅದು ಬಿಳಿಯಾದ ಬೆಳ್ಳಿ ಬಣ್ಣಕ್ಕೆ ಬರುವವರೆಗೂ  ಮರಳು ಕಾಗದದಿಂದ ಉಜ್ಜಿರಿ </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>ಇಕ್ಕಳದ ಸಹಾಯದಿಂದ ಮೆಗ್ನೀಶಿಯಂ ರಿಬ್ಬನ್ ಹಿಡಿದುಕೊಂಡು ಉರಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>ಅದು ಪ್ರಕಾಶಮಾನವಾಗಿ ಬಿಳಿ ಬಣ್ಣದಿಂದ ಉರಿದು ಕಂದು ಬಣ್ಣದ ಬೂದಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>ಈ ಕಂದು ಬಣ್ಣದ ಬೂದಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ವಾಚ್ ಗ್ಲಾಸಿನಲ್ಲಿ ಇರಿಸಿ, ಮೆಗ್ನೀಶಿಯಂ ಆಕ್ಸೈಡ್ ಎಂದು ಹೆಸರಿಸಿ.ಮೆಗ್ನೀಶಿಯಂ ಗಾಳಿಯಲ್ಲಿ ಉರಿದು ಮೆಗ್ನೀಶಿಯಂ ಆಕ್ಸೈಡ್ (MgO) ಉಂಟುಮಾಡುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>ಸ್ಪಾಚುಲಾ ಸಹಾಯದಿಂದ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಮೆಗ್ನೀಶಿಯಂ ಆಕ್ಸೈಡ್ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>ಇದನ್ನು ಬಿಳಿಯ ಟೈಲ್ ಮೇಲಿರಿಸಿರುವ ಒದ್ದೆಯಾಗಿರುವ  ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದದ ಮೇಲೆ ಹಾಕಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಮೆಗ್ನೀಶಿಯಂ ಆಕ್ಸೈಡ್ ಪ್ರತ್ಯಾಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>ನಮಗೆ ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು - ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್ ,ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ , ದುರ್ಬಲ ಹೈಡ್ರೊಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಒಂದು ಬೀಕರ್, ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್, ಪ್ರನಾಳಗಳು ಇತ್ಯಾದಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>ಒಂದು ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಗೆ ಇದನ್ನು ವರ್ಗಾಯಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>ಮತ್ತೊಂದು ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>ಇದರಲ್ಲಿ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>ಇದನ್ನು  ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಇರುವ ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಗೆ ವರ್ಗಾಯಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>ತಕ್ಷಣ ಬಿಳಿಯ ಬಣ್ಣದ ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ಒತ್ತರ ಉಂಟಾಗುವುದು. ಸಲ್ಪೇಟ್ ಐಯಾನ್ (SO4)2- ಗಳಿರುವುದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ. </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವ ವಸ್ತುವನ್ನು ಕಲಕಿರಿ ಮತ್ತು ಸ್ವಲ್ಪ ಕಾಲ ಅದನ್ನು ಅಲುಗಾಡಿಸದಂತೆ ಹಾಗೆಯೇ ಬಿಡಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>ಬೇರಿಯಂ ಸಲ್ಪೇಟ್ ಒತ್ತರವು ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ತಳಭಾಗದಲ್ಲಿ ಶೇಖರಣೆಯಾಗುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE> ಮೇಲಿನ ದ್ರಾವಣವನ್ನು ಕೊನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಿಂದ ಬಿಕರಿಗೆ ವರ್ಗಾಯಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>ಆಮೇಲೆ ಬಿಳಿಯ ಒತ್ತರವಿರುವ ಕೋನಿಕ್ಲೆ ಪ್ಲಾಸ್ಕ್ ಗೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಹೈಡ್ರೊಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಹಾಕಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>ಆಮೇಲೆ ಬಿಳಿಯ ಒತ್ತರವಿರುವ ಕೋನಿಕ್ಲೆ ಪ್ಲಾಸ್ಕ್ ಗೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಹೈಡ್ರೊಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಹಾಕಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>ಪ್ಲಾಸ್ಕ್ ಅನ್ನು ಚೆನ್ನಾಗಿ ತಿರುಗಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>ಬಿಳಿಯ ಒತ್ತರವು ದುರ್ಬಲ ಹೈಡ್ರೊಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವಿಲೀನವಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>ಈ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ,ಕ್ಲೋರೈಡ್ ಅಯಾನ್ ಗಳು ಸಲ್ಪೇಟ್ ಐಯಾನ್ ಗಳನ್ನು ಸ್ಥಾನ ಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಸಲ್ಪೇಟ್ ಐಯಾನ್ ಗಳು,ಕ್ಲೋರೈಡ್ ಅಯಾನ್ ಗಳನ್ನು ಸ್ಥಾನ ಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>ನಮಗೆ ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು -ತಾಮ್ರದ ಸಲ್ಫೇಟ್ , ಕಬ್ಬಿಣದ ಮೊಳೆಗಳು, ಆಸವಿತ ನೀರು,ಒಂದು ಬೀಕರ್, ಅಳತೆ ಮಾಡುವ ಜಾಡಿ, ಪ್ರನಾಳಗಳು,ಎರಡು ಹಿಡಿಕಟ್ಟು ಇರುವ ಆಧಾರ ಸ್ತಂಭಗಳು, ದಾರದ ತುಂಡು ಮತ್ತು ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ ಅಗತ್ಯಕ್ಕೆ ತಕ್ಕಷ್ಟು ಪ್ರಮಾಣದ ಆಸವಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಶುದ್ಧವಾದ ಬೀಕರಿನಲ್ಲಿ ಸುರಿಯಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>ಇದಕ್ಕೆ ಅಗತ್ಯವಿರುವ  ಪ್ರಮಾಣದ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಸೇರಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE>ಬೀಕರಿನಲ್ಲಿರುವ  ತಾಮ್ರದ ಸಲ್ಪೇಟ್  ಕರಗುವವರೆಗೂ , ಗಾಜಿನ ಕಡ್ಡಿಯಿಂದ ಬೀಕರಿನಲ್ಲಿರುವ ವಸ್ತುಗಳನ್ನು ಚೆನ್ನಾಗಿ  ತಿರುಗಿಸಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>ಪ್ರನಾಳಕ್ಕೆ ಅಗತ್ಯವಿರುವಷ್ಟು ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಸುರಿಯಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಹಿಡಿಕೆಯಿಂದ ಆಧಾರ ಸ್ತಂಭದಲ್ಲಿರಿಸಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>ಅಗತ್ಯವಿರುವಷ್ಟು ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ದ್ರಾವಣವನ್ನು ಇನ್ನೊಂದು ಪ್ರನಾಳದಲ್ಲಿ ಸುರಿಯಿರಿ. </TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE>ಈ ಪ್ರನಾಳವನ್ನು ಹಿಡಿಕೆಯಿಂದ ಇನ್ನೊಂದು ಆಧಾರ ಸ್ತಂಭದಲ್ಲಿರಿಸಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>ಎರಡು ಕಬ್ಬಿಣದ ಮೊಳೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>ಈ ಮೊಳೆಗಳನ್ನು ಶುದ್ಧಗೊಳಿಸಲು ,ಬೂದು ಬಣ್ಣ ಪಡೆಯುವವರೆಗೂ ಮರಳು ಕಾಗದಿಂದ ಉಜ್ಜಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>ಒಂದು ಮೊಳೆಯನ್ನು ದಾರದಿಂದ ಕಟ್ಟಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>ದಾರದಿಂದ  ಕಟ್ಟಿರುವ ಈ ಮೊಳೆಯನ್ನು ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ದ್ರಾವಣ ಇರುವ ಪ್ರನಾಳದಲ್ಲಿ ಮುಳುಗಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>ಈ ಎರಡೂ ಪ್ರನಾಳಗಳನ್ನು 15 ನಿಮಿಷಗಳ ಕಾಲ ಮುಟ್ಟದಂತೆ ಬಿಡಿ</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>15 ನಿಮಿಷಗಳ  ನಂತರ ,ಕಬ್ಬಿಣದ ಮೊಳೆಗಳಿರುವ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ದ್ರಾವಣ ಕಂದು ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಮತ್ತು ಇನ್ನೊಂದು ಪ್ರನಾಳದಲ್ಲಿರುವ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಆಗುವುದಿಲ್ಲ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>ಕಬ್ಬಿಣದ ಅಯಾನ್ (Fe2+) ಗಳ ಇರುವಿಕೆಯಿಂದ ದ್ರಾವಣವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣವಾಗಿದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ದ್ರಾವಣದಿಂದ ಹೊರ ತೆಗೆಯಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>ಇನ್ನೊಂದು ಮೊಳೆಯೊಂದಿಗೆ ಹೋಲಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಹೊದಿಕೆಯಿಂದ, ತಾಮ್ರವು ಕಬ್ಬಿಣವನ್ನು ಸ್ಥಾನ ಪಲ್ಲಟಗೊಳಿಸಿದೆಯೆಂದು ತಿಳಿದು ಬರುತ್ತದೆ. </TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>ಇದು ರಾಸಾಯನಿಕ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾಗಿದ್ದು ,ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ತಾಮ್ರವು ಕಬ್ಬಿಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡು ಒಂದು ಹೊಸ ಸಂಯುಕ್ತವಾದ ಕಬ್ಬಿಣದ ಸಲ್ಪೇಟ್ ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.ಆದುದರಿಂದ ಈ  ಕ್ರಿಯೆಯು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಾಗಿದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>ನಮಗೆ ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು - ದುರ್ಬಲ ಸಲ್ಪ್ಯೂರಿಕ್ ಆಮ್ಲ , ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್(NaOH), ಪ್ರನಾಳಗಳು, ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್, ಕಿಪ್ಸ್ ಉಪಕರಣ, ಬಿರಡೆ, ಗಾಜಿನ ನಳಿಕೆ,ಇತ್ಯಾದಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>ಸ್ಪಾಚುಲಾ ಸಹಾಯದಿಂದ ಸ್ವಲ್ಪ ಸತುವಿನ ಅರಳು/ಕಣಗಳು ತೆಗೆದುಕೊಂಡು, ದುರ್ಬಲ ಸಲ್ಪ್ಯೂರಿಕ್ ಆಮ್ಲವಿರುವ ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಗೆ ವರ್ಗಾಯಿಸಿ. ಸತುವು , ಸಲ್ಪ್ಯೂರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ ಜಲಜನಕ ಅನಿಲವು ಗುಳ್ಳೆಗಳ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>ಸತುವಿನ ಅರಳು , ಸಲ್ಪ್ಯೂರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ ಜಲಜನಕ ಅನಿಲವು ಗುಳ್ಳೆಗಳ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನ ಬಾಯಿಯ ಹತ್ತಿರ ಒದ್ದೆಯಾದ ಕೆಂಪು  ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಇಟ್ಟಾಗ,ಕೆಂಪು  ಲಿಟ್ಮಸ್ ಕಾಗದದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಇರುವುದಿಲ್ಲ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನ ಬಾಯಿಯ ಹತ್ತಿರ ಒದ್ದೆಯಾದ ಕೆಂಪು  ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಇಟ್ಟಾಗ,ಕೆಂಪು  ಲಿಟ್ಮಸ್ ಕಾಗದದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಇರುವುದಿಲ್ಲ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>ಈಗ ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ಗೆ ಒಂದು ರಂದ್ರವಿರುವ ಬಿರಡೆಯಿಂದ ಮುಚ್ಚಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>ಈ ಒಂದು ರಂದ್ರದ ಬಿರಡೆಗೆ ಪೈನ್ ಜೆಟ್ ಟ್ಯೂಬ್ ಅನ್ನು ಸೇರಿಸಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>ಪೈನ್ ಜೆಟ್ ಟ್ಯೂಬ್ ಹತ್ತಿರ ಉರಿಯುತ್ತಿರುವ ಕ್ಯಾಂಡಲ್ ಇಡಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE>ಉರಿಯುತ್ತಿರುವ ಜ್ವಾಲೆಯನ್ನು ತಂದಾಗ ,ಪೈನ್ ಜೆಟ್ ಟ್ಯೂಬ್ ನಿಂದ ಹೊರಬರುತ್ತಿರುವ ಅನಿಲವು ಪಾಪ್ ಶಬ್ದದ ಸ್ಪೋಟದೊಂದಿಗೆ ಅತ್ತಿಕೊಂಡು ಉರಿಯಲಾರಂಬಿಸಿತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>ಈಗ 2ml ಸತುವಿನ ಸಲ್ಪೇಟ್ ದ್ರಾವಣವನ್ನು ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಿಂದ ಶುದ್ದವಾದ ಪ್ರನಾಳಕ್ಕೆ ವರ್ಗಾಯಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>Then add a few drops of NaOH solution to the test tube.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>ಬಿಳಿಯ ಜಿಲ್ಯಾಟಿನ್ ಒತ್ತರವು ಉಂಟಾಗುತ್ತದೆ. ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>ನಂತರ  ಮತ್ತಷ್ಟು  ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣವನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಸೇರಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>ಸತುವಿನ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Zn(OH)2) ಒತ್ತರವು ಉಂಟಾಗುತ್ತದೆ. ಸತುವಿನ  (Zn2+) ಐಯಾನ್ ಗಳು ಇರುವುದನ್ನು ಇದು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಪ್ರನಾಳದ  ಸ್ಟಾಂಡ್ ನಲ್ಲಿರಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಿಂದ ,2ml ಸತುವಿನ ಸಲ್ಪೇಟ್ ದ್ರಾವಣವನ್ನು ಇನ್ನೊಂದು ಪ್ರನಾಳದೊಳಗೆ ಹಾಕಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>ಕಿಪ್ಸ್ ಉಪಕರಣದ ಸಹಾಯದಿಂದ ಹೈಡ್ರೋಜನ್ ಸಲ್ಪೈಡ್ ಅನಿಲವನ್ನು ಪ್ರನಾಳದಲ್ಲಿರುವ ದ್ರಾವಣದೊಳಗೆ ಹಾಯಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿರಿ. ಬಿಳಿ ಒತ್ತರದ ಸತುವಿನ ಸಲ್ಪೈಡ್ ಉಂಟಾಗುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>ಈ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯಿಂದ  ನಿರ್ಣಯಿಸುವುದೇನೆಂದರೆ, ಸತುವು , ಹೈಡ್ರೋಜನ್ ಗಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿರುವುದರಿಂದ, ಅದು ದುರ್ಬಲ ಆಮ್ಲಗಳಲ್ಲಿನ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ ಸತುವಿನ ಅಯಾನ್ ಗಳಾಗಿ ದ್ರಾವಣದೊಳಗೆ ಸೇರುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>ನಮಗೆ ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು-ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಅರಳುಗಳು, ಆಸವಿತ ನೀರು, ಪ್ರನಾಳ ,ಸ್ಪಾಚುಲಾ, ಪ್ರನಾಳದ ಹಿಡಿಕೆ, ಕುದಿಯುವ ಪ್ರನಾಳ,ಬುನ್ ಸೆನ್ ಬರ್ನರ್,ಇತ್ಯಾದಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳವನ್ನು ಪ್ರನಾಳದ ಹಿಡಿಕೆಯ ಸಹಾಯದಿಂದ  ಹಿಡಿದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>ಸ್ಪಾಚುಲಾ  ಸಹಾಯದಿಂದ ,ವಾಚ್ ಗ್ಲಾಸ್ ನಿಂದ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಅರಳುಗಳನ್ನು  ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳವನ್ನು ಬುನ್ ಸೆನ್ ಬರ್ನರ್ ಜ್ವಾಲೆಯಲ್ಲಿ ಮೊದಲು ಕಾಯಿಸಿರಿ ನಂತರ ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿರಿ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿದಾಗ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಅರಳುಗಳು ನೀಲಿ ಬಣ್ಣದಿಂದ ಬಿಳಿ ಬಣ್ಣಕ್ಕೆ ಬದಲಾವಣೆಗೊಳ್ಳುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳದ ಒಳಭಾಗದ ಸುತ್ತಲೂ ನೀರಿನ ಹನಿಗಳು ಶೇಖರಣೆಗೊಂಡಿರುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಅರಳುಗಳು (CuSO45H2O), ನೀರಿನ ಅಂಶವನ್ನು ಹೊಂದಿದೆ.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>ನೀರಿನ ಅಂಶವಿರುವ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಅರಳುಗಳನ್ನು ಕಾಯಿಸಿದಾಗ ,ನೀರಿನ  ಅಂಶವನ್ನು ಕಳೆದುಕೊಂಡು ಬಿಳಿಯ ಒತ್ತರದ ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್(CuSO4)ಉಂಟಾಗುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳವನ್ನು  ಜ್ವಾಲೆಯಿಂದ  ತೆಗೆದು ಸ್ವಲ್ಪ ಕಾಲ ತಂಪಾಗಲು ಬಿಡಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ  ಆಸವಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>ಕಾಯಿಸಿದ ನಂತರ ಕುದಿಯುವ ಪ್ರನಾಳದಲ್ಲಿರುವ ನಿರ್ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಸ್ಯಾಂಪಲ್ ಗೆ 2-3 ಹನಿಗಳ ಆಸವಿತ ನೀರನ್ನು ಸೇರಿಸಿರಿ. </TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>ಬಿಳಿಯ  ತಾಮ್ರದ ಸಲ್ಫೇಟ್ , ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ , ನೀಲಿ ಬಣ್ಣದ ನಿರ್ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಪೇಟ್ ಉಂಟಾಗುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE> ದ್ವಿಮುಖ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ ಆಗಿದೆ ಎಂಬುದನ್ನು ಇದರಿಂದ ನಾವು ತಿಳಿಯಬಹುದು</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

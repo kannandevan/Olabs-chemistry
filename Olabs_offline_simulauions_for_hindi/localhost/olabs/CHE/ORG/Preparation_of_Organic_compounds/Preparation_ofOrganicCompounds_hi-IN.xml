@@ -1,0 +1,734 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="TitleAcetanilide">
+	<TEXT ID="TitleAcetanilide_one">
+	 <TEXTVALUE>एसीटैनिलाइड की तैयारी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAceS1">
+	<TEXT ID="IntroAceS1_one">
+	 <TEXTVALUE>हमें चाहिए एसिटिक एनहाइड्राइड (10मि.ली.), ग्लेसियल एसिटिक अम्ल (10मि.ली.), एनीलीन (10मि.ली.), RB फ्लास्क, क्लैम्प् सहित स्टै्ण्ड, बुचनर कीप, सैण्डबाथ, जल संघनित्र, आइस बाथ, बर्फ का पानी आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcidsMixingInRBS2">
+	<TEXT ID="AcidsMixingInRBS2_one">
+	 <TEXTVALUE>तीन मापक जारों में 10मि.ली. एसिटिक एनहाइड्राइड, ग्लेसियल एसिटिक और एनिलिन लें।  250मि.ली. के RB फ्लास्क में एसिटिक एनहाइड्राइड और इसके बाद ग्ले‍सियल एसिटिक अम्ल डालें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcidsMixingInRBS2_two">
+	 <TEXTVALUE>की सामग्री को अच्छी तरह से हिलाएँ और इस में एनिलिन मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="RBheatWtrCndsrS3">
+	<TEXT ID="RBheatWtrCndsrS3_one">
+	 <TEXTVALUE>स्टैंड से फ्लास्क क्लैम्प करें और उसके मुंह पर जल संघनित्र लगाएं। इसके बाद बर्नर के ऊपर सैण्ड बाथ पर इसे रखें। </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RBheatWtrCndsrS3_two">
+	 <TEXTVALUE>10 मिनट तक मिश्रण गर्म करें और RB फ्लास्क से संघनित्र अलग करें और मिश्रण को कुछ समय तक ठंडा होने दें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CoolinRbInWtrS4">
+	<TEXT ID="CoolinRbInWtrS4_one">
+	 <TEXTVALUE>स्टैंड से क्लै्म्प करके और पानी युक्त पात्र में रखकर फ्लास्क ठंडा होने दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolMixingIn200WtrS5S6">
+	<TEXT ID="SolMixingIn200WtrS5S6_one">
+	 <TEXTVALUE>कांच की छड़ का प्रयोग कर, जोर-जोर से चलाते हुए RB फ्लास्क् से तरल पदार्थ 200मि.ली. बर्फीले ठंडे पानी से युक्त बीकर में धीरे-धीरे डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WhitePrecipitateS5S6">
+	<TEXT ID="WhitePrecipitateS5S6_one">
+	 <TEXTVALUE>एसीटैनिलाइड का सफेद तलछट बनता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PreciFilterInBuchnerS7">
+	<TEXT ID="PreciFilterInBuchnerS7_one">
+	 <TEXTVALUE>फिल्टंर पेपर लें और बुचनर कीप पर उसे रखें। </TEXTVALUE>
+	</TEXT>
+<TEXT ID="PreciFilterInBuchnerS7_two">
+	 <TEXTVALUE>बुचनर कीप के माध्यम से तलछट छानें। फिल्टर पेपर से तलछट बीकर में डालें।
+</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="PreciFilterInBuchnerS7_three">
+	 <TEXTVALUE>बीकर में आसुत जल से तलछट धोएं। फिर से तलछट छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AceticMixingInPreciS8">
+	<TEXT ID="AceticMixingInPreciS8_one">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर बीकर में कच्चा एसीटैनिलाइड डालें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_two">
+	 <TEXTVALUE>एक और बीकर में 17 मि.ली. एसिटिक अम्ल लें </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticMixingInPreciS8_twoone">
+	 <TEXTVALUE>और 33 मि.ली. आसुत जल मिलाएं</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_three">
+	 <TEXTVALUE>एसीटैनिलाइड के तलछट से युक्त बीकर में इस मिश्रण को डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingPreciDissolveS9">
+	<TEXT ID="HeatingPreciDissolveS9_one">
+	 <TEXTVALUE>पदार्थ घोलने के लिए बीकर की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HotSolFilterS10S11">
+	<TEXT ID="HotSolFilterS10S11_one">
+	 <TEXTVALUE>शंक्वाकार फ्लास्क में गर्म विलयन छानें और बर्फ में छनी हुई सामग्री ठंडी करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalSeparateS10S11">
+	<TEXT ID="CrystalSeparateS10S11_one">
+	 <TEXTVALUE>एसीटैनिलाइड के क्रिस्ट्ल अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalsFilterS12">
+	<TEXT ID="CrystalsFilterS12_one">
+	 <TEXTVALUE>बुचनर कीप का प्रयोग कर क्रिस्टल छाने लें। स्पैचुला का प्रयोग कर कीप से क्रिस्टल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetanilideS13">
+	<TEXT ID="AcetanilideS13_one">
+	 <TEXTVALUE>इसे फिल्टर पेपर पर रखें और फिल्टर पेपर के बीच दबाकर क्रिस्टल सुखा लें। </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcetanilideS13_two">
+	 <TEXTVALUE>वाच ग्लास में क्रिस्टल डालें और एसीटैनिलाइड के रूप में इसे चिह्नित करें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="firstdibenzalacetone">
+	<TEXT ID="firstdibenzalacetone_one">
+	 <TEXTVALUE>डाईबेंजाल एसीटोन की तैयारी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addacetone">
+	<TEXT ID="addacetone_one">
+	 <TEXTVALUE>शंक्वाकार फ्लास्क में 2.5मि.ली.बेंजल्डी‍हाइड, 1मि.ली. एसीटोन और 25मि.ली. परिशोधित स्पिरिट लें। </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="addacetone_two">
+	 <TEXTVALUE>फ्लास्क पर कार्क लगाएं और स्पष्ट विलयन प्राप्त करने के लिए इसे चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Cleantesttbe">
+	<TEXT ID="Cleantesttbe_one">
+	 <TEXTVALUE>परखनली में 5मि.ली. 10% NaOH का विलयन लें और ड्रापर का प्रयोग कर परखनली से विलयन लें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Cleantesttbe_two">
+	 <TEXTVALUE>इसे बूंद-बूंद करके प्रत्येक बूंद के बीच में फ्लास्क चलाते हुए शंक्वाकार फ्लास्क में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+	 <TEXTVALUE>अभिक्रिया मिश्रण का तापमान 20-25oC बनाए रखने के लिए फ्लास्क  जल युक्त पात्र में रखें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shakeand">
+	<TEXT ID="Shakeand_one">
+	 <TEXTVALUE>फ्लास्क पर फिर से कॉर्क लगाएं और समय-समय पर दबाव मुक्त करते हुए लगभग 10 मिनट तक जोर-जोर से चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cooltemperature">
+	<TEXT ID="cooltemperature_one">
+	 <TEXTVALUE>कमरे के तापमान पर 20 मिनट तक इसे रहने दें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intowater">
+	<TEXT ID="intowater_one">
+	 <TEXTVALUE>इसके बाद कुछ मिनट तक बर्फीले पानी से युक्त पात्र में फ्लास्क रखकर फ्लास्क् की सामग्री ठंडा करें। </TEXTVALUE>
+	</TEXT>
+<TEXT ID="intowater_two">
+	 <TEXTVALUE>डाईबेंजाल एसीटोन का पीला रंग का तलछट अलग हो जाता है। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="allowcool">
+	<TEXT ID="allowcool_one">
+	 <TEXTVALUE>बुचनर कीप का प्रयोग कर तलछट छानें। </TEXTVALUE>
+	</TEXT>
+<TEXT ID="allowcool_two">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में तलछट डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="washtsttbe">
+	<TEXT ID="washtsttbe_one">
+	 <TEXTVALUE>तलछट धोने के लिए, परखनली में आसुत जल डालें और उसे अच्छी तरह से चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterprcipitate">
+	<TEXT ID="filterprcipitate_one">
+	 <TEXTVALUE>इसके बाद बुचनर कीप के माध्यम से परखनली की सामग्री छानें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="filterprcipitate_two">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर डाईबेंजाल एसीटोन का तलछट लें और उसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heat">
+	<TEXT ID="Heat_one">
+	 <TEXTVALUE>बीकर में कुछ परिशोधित स्पिरिट लें और उसे गर्म करें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="spirittoprecipitate">
+	<TEXT ID="spirittoprecipitate_one">
+	 <TEXTVALUE>इस का थोड़ा सा तलछट युक्त परखनली में मिलाएं। तलछट घुल जाती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="backtostand">
+	<TEXT ID="backtostand_one">
+	 <TEXTVALUE>उसके बाद इसे धीरे-धीरे ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="backtostand_two">
+	 <TEXTVALUE>डाईबेंजाल एसीटोन के हल्के पीले क्रिस्टल अलग हो जाते हैं। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	 <TEXTVALUE>बुचनर कीप का प्रयोग कर क्रिस्टल छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystels">
+	<TEXT ID="crystels_one">
+	 <TEXTVALUE>फिल्टर पेपर पर क्रिस्टल रखें और फिल्टेर पेपर के बीच दबाकर उन्हें सुखा लें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastwatchglass">
+	<TEXT ID="lastwatchglass_one">
+	 <TEXTVALUE>वॉच ग्लास में सूखे क्रिस्टल डालें और डाईबेंजाल एसीटोन के रूप में इसे चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Scene 66">
+	<TEXT ID="Scene 66_one">
+	 <TEXTVALUE>पी-नाइट्रोएसीटैनिलाइड की तैयारी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	 <TEXTVALUE>हमें चाहिए, इलेक्ट्रॉनिक तुला, एसीटैनिलाइड, बटर पेपर, स्पैचुला, कांच की छड़, ड्रॉपर, कीप, शंक्वाकार फ्लास्क, ठंडा पानी, मापक जार, परखनली, धूममय नाइट्रिक अम्ल,, सान्द्र H2SO4, बीकर, ग्लेसियल एसिटिक अम्ल‍, फिल्टर पेपर,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_two">
+	 <TEXTVALUE>बुचनर कीप, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, ठंडा मिश्रण आदि।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2wb">
+	<TEXT ID="2wb_one">
+	 <TEXTVALUE>इलेक्ट्रॉनिक तुला पर बटर पेपर रखें और तुला मरोड़ें। तुला पर 5 ग्राम एसीटैनिलाइड तौलें। इसे लेने के लिए स्पैचुला का प्रयोग करें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3con">
+	<TEXT ID="3con_one">
+	 <TEXTVALUE>एसीटैनिलाइड की तौली गई मात्रा शंक्वाकार फ्लास्क में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4actic">
+	<TEXT ID="4actic_one">
+	 <TEXTVALUE>मापक जार में 5मि.ली. ग्लेलसियल एसिटिक अम्ल लें और उसे शंक्वाकार फ्लास्क में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5con">
+	<TEXT ID="5con_one">
+	 <TEXTVALUE>कांच की छड़ का प्रयोग कर फ्लास्क् की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumic">
+	<TEXT ID="6fumic_one">
+	 <TEXTVALUE>परखनली में 2मि.ली. धूममय नाइट्रिक अम्ल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6zoom">
+	<TEXT ID="6zoom_one">
+	 <TEXTVALUE>परखनली में 2मि.ली. धूममय नाइट्रिक अम्ल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumicgo">
+	<TEXT ID="6fumicgo_one">
+	 <TEXTVALUE>परखनली में 2मि.ली. धूममय नाइट्रिक अम्ल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7ice">
+	<TEXT ID="7ice_one">
+	 <TEXTVALUE>ठंडे मिश्रण में इसे ठंडा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8sulpuric">
+	<TEXT ID="8sulpuric_one">
+	 <TEXTVALUE>बुचनर कीप, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, ठंडा मिश्रण आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9ice2">
+	<TEXT ID="9ice2_one">
+	 <TEXTVALUE>इसे लगातार चलाते हुए,  सावधानीपूर्वक परखनली युक्त धूममय नाइट्रिक अम्ल में इसे मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10gocon">
+	<TEXT ID="10gocon_one">
+	 <TEXTVALUE>अब ,एसीटैनिलाइड और ग्ले्सियल एसिटिक अम्ल युक्त शंक्वाकार फ्लास्क लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10water">
+	<TEXT ID="10water_one">
+	 <TEXTVALUE>इसे, जल बाथ में रखें l</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11sulpuric2">
+	<TEXT ID="11sulpuric2_one">
+	 <TEXTVALUE>एक  मापक जार में 8 मिलीलीटर सान्द्र H2SO4  डाल दो l</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11sulpuric2_two">
+	 <TEXTVALUE>एक ड्रॉपर  का उपयोग करके शंक्वाकार फ्लास्क में इसे  डाले l</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12tog">
+	<TEXT ID="12tog_one">
+	 <TEXTVALUE>एक ड्रॉपर  का उपयोग करके शंक्वाकार फ्लास्क में इसे  डाले l</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13sul">
+	<TEXT ID="13sul_one">
+	 <TEXTVALUE>शेष बचा सल्फ्यूरिक अम्ल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14tgo">
+	<TEXT ID="14tgo_one">
+	 <TEXTVALUE>इसे शंक्वाकार फ्लास्क में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15got1">
+	<TEXT ID="15got1_one">
+	 <TEXTVALUE>फ्लास्क  लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16ice2">
+	<TEXT ID="16ice2_one">
+	 <TEXTVALUE>उसे ठंडे मिश्रण में रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17zoomi">
+	<TEXT ID="17zoomi_one">
+	 <TEXTVALUE>सामग्री चलाएं और इंतजार करें जब तक तापमान 5oC से कम न हो जाए।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_two">
+	 <TEXTVALUE>लगातार चलाते हुए फ्लास्क में ठंडी सामग्री में, बूंद-बूंद करके धूममय नाइट्रिक अम्ल और सांद्रित सल्फ्युरिक अम्ल का मिश्रण (नाइट्रेटिंग मिश्रण) मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_three">
+	 <TEXTVALUE>ठंडे मिश्रण से फ्लास्क निकालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18goconbak">
+	
+		<TEXT ID="18goconbak_one">
+	 <TEXTVALUE>कमरे के तापमान पर 30 मिनट तक इसे खड़ा रहने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19bice">
+	<TEXT ID="19bice_one">
+	 <TEXTVALUE>बीकर में ली गई कुचली गई बर्फ पर फ्लास्क की सामग्री डालें और उसे अच्छी तरह से चलाएं।  तलछट बनता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20motor">
+	<TEXT ID="20motor_one">
+	 <TEXTVALUE>बुचनर कीप में मदर लिकर डालें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21bak">
+	<TEXT ID="21bak_one">
+	 <TEXTVALUE>इसके बाद ठंडे पानी से तलछट धोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22mo2">
+	<TEXT ID="22mo2_one">
+	 <TEXTVALUE>फिर से बुचनर कीप में मदर लिकर डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23bk">
+	<TEXT ID="23bk_one">
+	 <TEXTVALUE>इसे एक बार और दोहराएं और उसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24mr">
+	<TEXT ID="24mr_one">
+	 <TEXTVALUE>इसे एक बार और दोहराएं और उसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="26title2">
+	<TEXT ID="26title2_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27yelo">
+	<TEXT ID="27yelo_one">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर कीप से तलछट लें और उसे बीकर में डालें करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28id">
+	<TEXT ID="28id_one">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर कीप से तलछट लें और उसे बीकर में डालें करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29sprit">
+	<TEXT ID="29sprit_one">
+	 <TEXTVALUE>20 मिलीलीटर मिथाइलेटेड स्पिरिट लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30beker3">
+	<TEXT ID="30beker3_one">
+	 <TEXTVALUE>तलछट युक्त बीकर में इसे डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="30beker3_two">
+	 <TEXTVALUE>इसके बाद कांच की छड़ का प्रयोग कर तलछट घोलने के लिए इसे अच्छी तरह से चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31flame">
+	<TEXT ID="31flame_one">
+	 <TEXTVALUE>उसके बाद स्पष्ट विलयन प्राप्त करने के लिए तरल पदार्थ गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32funl">
+	<TEXT ID="32funl_one">
+	 <TEXTVALUE>कीप के नीचे बीकर रखें और कीप में फिल्टर पेपर लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33og1">
+	<TEXT ID="33og1_one">
+	 <TEXTVALUE>विलयन युक्त बीकर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34f3">
+	<TEXT ID="34f3_one">
+	 <TEXTVALUE>एक दूसरे बीकर में गर्म विलयन छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35ice">
+	<TEXT ID="35ice_one">
+	 <TEXTVALUE>बर्फ में बीकर रखकर विलयन ठंडा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36iceh">
+	<TEXT ID="36iceh_one">
+	 <TEXTVALUE>पी-नाइट्रोएसीटैनिलाइड की रंगहीन क्रिस्टल अलग हो जाते हैं। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37zoomi">
+	<TEXT ID="37zoomi_one">
+	 <TEXTVALUE>पी-नाइट्रोएसीटैनिलाइड की रंगहीन क्रिस्टल अलग हो जाते हैं। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38funnal">
+	<TEXT ID="38funnal_one">
+	 <TEXTVALUE>विलयन को छानने के लिए कीप में फिल्टर पेपर लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39bak">
+	<TEXT ID="39bak_one">
+	 <TEXTVALUE>ठंडे मिश्रण से बीकर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40flo">
+	<TEXT ID="40flo_one">
+	 <TEXTVALUE>कीप का प्रयोग कर क्रिस्टल छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41top2">
+	<TEXT ID="41top2_one">
+	 <TEXTVALUE>पी-नाइट्रोएसीटैनिलाइड के रंगहीन क्रिस्टल अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42wash">
+	<TEXT ID="42wash_one">
+	 <TEXTVALUE>ठंडे पानी से क्रिस्टल धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43fpaper">
+	<TEXT ID="43fpaper_one">
+	 <TEXTVALUE>. फिल्टर पेपर पर क्रिस्टल रखें और फिल्टर पेपर के बीच दबाकर उन्हें सुखा लें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="43fpaper_two">
+	 <TEXTVALUE>वॉच ग्लास में सूखे क्रिस्टल रखें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="44zoom">
+	<TEXT ID="44zoom_one">
+	 <TEXTVALUE>पी-नाइट्रोएसीटैनिलाइड के रूप में क्रिस्टल चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="first">
+	<TEXT ID="first_one">
+	 <TEXTVALUE>2-नैफ्थोल एनीलाइन के रंजक  की तैयारी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addaniline">
+	<TEXT ID="addaniline_one">
+	 <TEXTVALUE>शंक्वाकार फ्लास्क में 4.5 मि.ली. एनिलिन, 10मि.ली. सान्द्र HCl और 20 मिलीलीटर पानी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewater">
+	<TEXT ID="icewater_one">
+	 <TEXTVALUE>बर्फीले ठंडे पानी वाले खौल में शंक्वाकार फ्लास्क रखकर 5 [sup]o[/sup] C तक इस विलयन को ठंडा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Weighingbottle">
+	<TEXT ID="Weighingbottle_one">
+	 <TEXTVALUE>4 ग्राम सोडियम नाइट्राइट लें और उसे बीकर में डालें। </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_two">
+	 <TEXTVALUE>इसमें 20 मिलीलीटर आसुत जल मिलाएं।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_three">
+	 <TEXTVALUE>ठोस पदार्थ को घोलने के लिए कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icebox">
+	<TEXT ID="icebox_one">
+	 <TEXTVALUE>आइस बाथ में बीकर रखकर 5 [sup]o[/sup]C तक इस विलयन को ठंडा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewaterfor">
+	<TEXT ID="icewaterfor_one">
+	 <TEXTVALUE>अब शंक्वाकार फ्लास्क की सामग्री में सोडियम नाइट्राइट का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="naphthol">
+	<TEXT ID="naphthol_one">
+	 <TEXTVALUE>7 ग्राम 2-नैफ्थोल लें और उसे बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_two">
+	 <TEXTVALUE>इस में 60 मि.ली. 10% NaOH का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_three">
+	 <TEXTVALUE>ठोस पदार्थ घोलने के लिए कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seconds inbox">
+	<TEXT ID="seconds inbox_one">
+	 <TEXTVALUE>आइस बाथ में बीकर रखकर 5 [sup]o[/sup]C तक इस विलयन को ठंडा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+	 <TEXTVALUE>पानी से शंक्वाकार फ्लास्क लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxx">
+	<TEXT ID="iceboxx_one">
+	 <TEXTVALUE>इसके बाद कांच की छड़ का प्रयोग कर लगातार चलाते हुए शंक्वाकार फ्लास्क में नैफ्थोल के विलयन में विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+<TEXT ID="iceboxx_two">
+	 <TEXTVALUE>मिश्रित विलयन तुरंत गहरा लाल रंग विकसित करता है और 2-नैफ्थोल एनिलिन रंजक तेजी से अलग हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Redtoice">
+	<TEXT ID="Redtoice_one">
+	 <TEXTVALUE>कभी-कभी चलाते हुए 30 मिनट तक मिश्रण ठंडे मिश्रण में रहने दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Redtoice_two">
+	 <TEXTVALUE>कभी-कभी चलाते हुए 30 मिनट तक मिश्रण ठंडे मिश्रण में रहने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelred">
+	<TEXT ID="funnelred_one">
+	 <TEXTVALUE>बुचनर कीप में ऊपरी विलयन डालें।</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="funnelred_two">
+	 <TEXTVALUE>आसुत जल से तलछट धोएं और इसे दोहराएँ। </TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_three">
+	 <TEXTVALUE>इसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_four">
+	 <TEXTVALUE>2-नैफ्थोल एनिलिन रंजक का तलछट अलग हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelclean">
+	<TEXT ID="funnelclean_one">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर तलछट लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilter">
+	<TEXT ID="dryfilter_one">
+	 <TEXTVALUE>फिल्टर पेपर के बीच दबाकर तलछट सुखा लें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="glacial">
+	<TEXT ID="glacial_one">
+	 <TEXTVALUE>कर में तलछट डालें और इस में 40 मिलीलीटर ग्लेसियल एसिटिक अम्ल  मिलाएं। </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_two">
+	 <TEXTVALUE>इसके बाद कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_three">
+	 <TEXTVALUE>स्पष्ट विलयन प्राप्त करने के लिए तरल पदार्थ गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaperstand">
+	<TEXT ID="filterpaperstand_one">
+	 <TEXTVALUE>एक अन्य बीकर में गर्म विलयन छान लें।.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxagain">
+	<TEXT ID="iceboxagain_one">
+	 <TEXTVALUE>आइस बाथ में बीकर रखकर विलयन ठंडा करें। जब विलयन ठंडा हो जाता है, तो 2-नैफ्थोल एनिलिन रंजक के क्रिस्टल अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filter">
+	<TEXT ID="filter_one">
+	 <TEXTVALUE>बुचनर कीप का प्रयोग कर क्रिस्टल छान लें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_two">
+	 <TEXTVALUE>इसे इथेनॉल से धो लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_three">
+	 <TEXTVALUE>2-नैफ्थोल एनिलिन रंजक के क्रिस्टल अलग हो जाते हैं। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_four">
+	 <TEXTVALUE>स्पैचुला का प्रयोग कर एक अन्य फिल्टर पेपर पर क्रिस्टल रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilterpaper">
+	<TEXT ID="dryfilterpaper_one">
+	 <TEXTVALUE>एक अन्य फिल्टर पेपर से दबाकर फिल्टर पेपर में क्रिस्टल सुखा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="aniline">
+	<TEXT ID="aniline_one">
+	 <TEXTVALUE>वॉच ग्लास में सूखे क्रिस्टल डालें और 2-नैफ्थोल एनिलिन रंजक के रूप में इसे चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+

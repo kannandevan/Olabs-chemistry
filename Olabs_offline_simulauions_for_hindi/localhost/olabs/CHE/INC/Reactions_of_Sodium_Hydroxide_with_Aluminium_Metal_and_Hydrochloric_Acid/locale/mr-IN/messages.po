@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 12:08+0530\n"
+"PO-Revision-Date: 2016-03-18 15:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Combustion Test"
+msgstr "दहन चाचणी"
+
+msgid "Reactions of NaOH with Aluminium Metal and HCl"
+msgstr "NaOH चे अॅल्युमिनियम धातू आणि HCl सोबतचे अभिक्रिया"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान विभागाच्या <br> संशोधन अनुदानाखाली अमृता विद्यापीठाने विकसित केले"
+
+msgid "Select the compound"
+msgstr "संयुग निवडा"
+
+msgid "Drag the spatula towards<br> the test tube to drop <br>aluminium metal into test tube"
+msgstr "अॅल्युमिनियम धातू टेस्ट ट्यूबमध्ये टाकण्यासाठी<br> स्पॅटुला टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag the measuring cylinder towards<br> the test tube to drop 5ml NaOH"
+msgstr "5ml NaOH टाकण्यासाठी<br> मोजमाप सिलिंडर टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag moist red litmus towards the test tube"
+msgstr "ओला लाल लिटमस टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag moist blue litmus paper<br>towards the test tube"
+msgstr "ओला निळा लिटमस पेपर<br> टेस्ट ट्यूबकडे ओढा"
+
+msgid "Click on the button','Click on knob of the burner"
+msgstr "बटणावर क्लिक करा','बर्नरच्या नॉबवर क्लिक करा"
+
+msgid "Drag the test tube towards the burner"
+msgstr "टेस्ट ट्यूब बर्नरकडे ओढा"
+
+msgid "Drag the candle towards the test tube"
+msgstr "मेणबत्ती टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag the dropper towards the measuring <br> cylinder to drop 2ml dil.Hcl"
+msgstr "2ml dilute HCl टाकण्यासाठी<br> ड्रॉपर मोजमाप सिलिंडरकडे ओढा"
+
+msgid "Drag the measuring cylinder <br>towards the test tube"
+msgstr "मोजमाप सिलिंडर टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag the test tube towards the left"
+msgstr "टेस्ट ट्यूब डावीकडे ओढा"
+
+msgid "Drag the dropper towards the <br> measuring cylinder to drop 3ml dil.Hcl"
+msgstr "3ml dilute HCl टाकण्यासाठी<br> ड्रॉपर मोजमाप सिलिंडरकडे ओढा"
+
+msgid "Drag the measuring cylinder<br> towards the test tube to<br> drop the solution"
+msgstr "द्रावण टाकण्यासाठी<br> मोजमाप सिलिंडर टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag the red litmus <br>paper towards the test tube"
+msgstr "लाल लिटमस पेपर टेस्ट ट्यूबकडे ओढा"
+
+msgid "Drag the blue litmus paper<br> towards the test tube"
+msgstr "निळा लिटमस पेपर टेस्ट ट्यूबकडे ओढा"
+
+msgid "Click on the Reset button to redo the experiment"
+msgstr "प्रयोग पुन्हा करण्यासाठी रीसेट बटणावर क्लिक करा"
+
+msgid "Never smell chemical substance directly close to your nose"
+msgstr "रासायनिक पदार्थ कधीही नाकाजवळून थेट वास घेऊ नका"
+
+msgid "In the lab do the experiment again<br> because the Hydrogen gas get out quickly"
+msgstr "प्रयोगशाळेत प्रयोग पुन्हा करा<br> कारण हायड्रोजन वायू लवकर बाहेर पडतो"
+
+msgid "Colourless gas is coming out.No characteristic smell for H<sub>2</sub> gas"
+msgstr "निर्वर्ण वायू बाहेर पडत आहे. H<sub>2</sub> वायूला कोणतीही विशिष्ट वास नसते"
+
+msgid "No colour change in red litmus because of the neutral nature of H<sub>2</sub> Gas"
+msgstr "H<sub>2</sub> वायूच्या तटस्थ स्वरूपामुळे लाल लिटमसमध्ये रंगबदल होत नाही"
+
+msgid "No colour change in blue litmus because of the neutral nature of H<sub>2</sub> Gas."
+msgstr "H<sub>2</sub> वायूच्या तटस्थ स्वरूपामुळे निळ्या लिटमसमध्येही रंगबदल होत नाही."
+
+msgid "Hydrogen burns out at the mouth of test tube with pop sound"
+msgstr "हायड्रोजन टेस्ट ट्यूबच्या तोंडाशी 'पॉप' आवाजासह जळतो"
+
+msgid "The solution is neutral to litmus paper<br>(No colour change of litmus takes place PH=7)"
+msgstr "द्रावण लिटमस पेपरसाठी तटस्थ आहे<br>(लिटमसचा रंगबदल होत नाही, PH=7)"
+
+msgid "The test tube is warm after the addition of complete HCL"
+msgstr "संपूर्ण HCl घातल्यानंतर टेस्ट ट्यूब उबदार होते"
+
+msgid "Moist Litmus paper"
+msgstr "ओला लिटमस पेपर"
+
+msgid "Aluminium Metal"
+msgstr "अॅल्युमिनियम धातू"
+
+msgid "NaOH"
+msgstr "NaOH"
+
+msgid "Litmus paper"
+msgstr "लिटमस पेपर"
+
+msgid "5ml dil NaOH"
+msgstr "5ml dilute NaOH"
+
+msgid "Dil hcl"
+msgstr "dilute HCl"
+
+msgid "Select the compound:"
+msgstr "संयुग निवडा:"
+
+msgid "Reset"
+msgstr "रीसेट"
+
+msgid "Aluminium metal"
+msgstr "अॅल्युमिनियम धातू"
+
+msgid "Hydrochloric acid"
+msgstr "हायड्रोक्लोरिक आम्ल"

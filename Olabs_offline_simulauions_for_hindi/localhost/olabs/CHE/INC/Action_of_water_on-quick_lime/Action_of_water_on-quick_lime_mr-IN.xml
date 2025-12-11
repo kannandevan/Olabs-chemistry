@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_animatitle_01">
+	<TEXTVALUE>संयोग अभिक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_start">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2into">
+	<TEXT ID="2into_one">
+	 <TEXTVALUE>आपल्याला लागेल चुनकळी, ऊर्ध्वपतित पाणी, चंचुपात्रे, स्पाट्युला, काचेचा रॉड, परिक्षा नळी, ड्रॉपर आणि चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_02">
+	 <TEXTVALUE>पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_03">
+	 <TEXTVALUE>चुनकळी</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+
+
+
+
+<SCENE ID="3lime">
+	<TEXT ID="3lime_one">
+	 <TEXTVALUE>स्पाट्युला वापरून चुनकळीची (कॅल्शियम ऑक्साइड) थोडी मात्रा  चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="3lime_two">
+	 <TEXTVALUE>चंचुपात्रात हळू हळू पाणी टाका म्हणजे चुनकळी पाण्यात बुडलेली राहील.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="3lime_therm01">
+	 <TEXTVALUE>थर्मामीटर</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+<SCENE ID="4zoom">
+	<TEXT ID="4zoom_one">
+	 <TEXTVALUE>चुनकळी आणि पाण्याची अतिजलद अभिक्रिया होते आणि विरी गेलेला चुना असलेले एक कणयुक्त द्रव तयार होते आणि मोठ्या प्रमाणात ऊर्जा मुक्त होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4zoom_text_04">
+	 <TEXTVALUE>चुनखडी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5zom">
+	<TEXT ID="5zom_one">
+	 <TEXTVALUE>थोडा वेळ चंचुपात्राला तसेच राहू द्या. विरी गेलेल्या चुन्याचे कणयुक्त द्रव चंचुपात्राच्या बुडाशी एकत्र होते आणि वर चुन्याची निवळी दिसते.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5zom_two">
+	 <TEXTVALUE>विरी गेलेल्या चुन्याचे कणयुक्त द्रव चंचुपात्राच्या बुडाशी एकत्र होते आणि वर चुन्याची निवळी दिसते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_lime_tt01">
+	 <TEXTVALUE>चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_texttt_05">
+	 <TEXTVALUE>चुनखडी</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="6zom1">
+	<TEXT ID="6zom1_one">
+	 <TEXTVALUE>ड्रॉपरने चुन्याच्या निवळीची थोडी मात्रा घ्या आणि परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6zom1_two">
+	 <TEXTVALUE>परिक्षा नळीला बूच लावा आणि बुचाच्या भोकातून एक काचेची नलिका परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_lom_tt1">
+	 <TEXTVALUE>चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_glat_txt01">
+	 <TEXTVALUE>काचेचा रॉड</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+
+
+<SCENE ID="7face">
+	<TEXT ID="7face_one">
+	 <TEXTVALUE>काचेच्या नलिकेतून परिक्षा नळीत फुंकर मारा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8zoom3">
+	<TEXT ID="8zoom3_one">
+	 <TEXTVALUE>आपल्या फुंकरीत असलेल्या CO2 मुळे चुन्याची निवळी दुधासारखी होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+	 <TEXTVALUE>या अभिक्रियेमध्ये, चुनकळी आणि पाणी एकत्र होतात आणि एक उत्पादन मिळते: विरी गेलेला चुना (कॅल्शियम हायड्रोक्साइड). म्हणून ही संयोग अभिक्रिया आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_calsiumtxt_01">
+	 <TEXTVALUE>चुनखडी </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_bact_01">
+	 <TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+

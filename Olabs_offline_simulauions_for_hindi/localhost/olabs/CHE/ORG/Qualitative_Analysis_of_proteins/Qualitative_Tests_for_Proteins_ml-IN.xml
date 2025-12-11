@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>പ്രോട്ടീനുകളുടെ ക്വാണ്ടിറ്റേറ്റീവ് അനാലിസിസ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>പരീക്ഷണം തുടങ്ങാൻ സ്റ്റാർട്ട്‌ ബട്ടണിൽ ക്ലിക്ക് ചെയുക </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="TestforProteins_text">
+	<TEXTVALUE>പ്രോട്ടീനുകൾക്ക് വേണ്ടിയുള്ള പരിശോധനകൾ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="biuretTest_text">
+	<TEXTVALUE>ബയൂററ്റ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>മികച്ച തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="xanthoproteicTest_text">
+	<TEXTVALUE>സാന്തോപ്രോട്ടിക് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="millonsTest_text">
+	<TEXTVALUE>മില്ലന്‍ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ninhydrinTest_text">
+	<TEXTVALUE>നിന്‍ഹൈഡ്രിന്‍ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn">
+	<TEXTVALUE>&#60;&#60;പിന്നോട്ട് </TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="eggAlbumin_text">
+	<TEXTVALUE>എഗ്ഗ് ആല്‍ബുമിന്‍</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatin_text">
+	<TEXTVALUE>ജെലാറ്റിൻ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമായത്: ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷന്‍, NaOH ലായനി, 1% CuSO[sub]4[/sub] ലായനി, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="NaOH_text">
+	<TEXTVALUE>NaOH</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperSulphate_text">
+	<TEXTVALUE>1% Copper Sulphate </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ചെറിയ അളവില്‍ NaOH ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_two">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_two">
+	<TEXTVALUE>ആല്‍ക്കലിയുടെ സാന്നിധ്യത്തിൽ പ്രോട്ടീൻ, ചെമ്പ് (II) അയോണുകളുമായി പ്രതിപ്രവർത്തിച്ച് ബയൂററ്റ് എന്നുവിളിക്കുന്ന വയലറ്റ് നിറമുള്ള സംയുക്തം രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ജെലാറ്റിൻ ഡിസ്പേര്‍ഷന്‍, NaOH ലായനി, 1% CuSO[sub]4[/sub] ലായനി, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatinDispersion_text">
+	<TEXTVALUE>ജെലാറ്റിൻ ഡിസ്പെർശൻ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ചെറിയ അളവില്‍ NaOH ലായനി എടുക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത ജെലാറ്റിൻ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>മറ്റൊരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച്, ടെസ്റ്റ് ട്യൂബിലേക്ക് ഏതാനും തുള്ളി 1% കോപ്പർ സൾഫേറ്റ് ലായനി ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_two">
+	<TEXTVALUE>ആല്‍ക്കലിയുടെ സാന്നിധ്യത്തിൽ പ്രോട്ടീൻ, ചെമ്പ് (II) അയോണുകളുമായി പ്രതിപ്രവർത്തിച്ച് ബയൂററ്റ് എന്നുവിളിക്കുന്ന വയലറ്റ് നിറമുള്ള സംയുക്തം രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷന്‍, ഗാഢ HNO3, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcNitricacid_text">
+	<TEXTVALUE>ഗാഡ നൈട്രിക് ആസിഡ്</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് കുറച്ചുതുള്ളി ഗാഢ നൈട്രിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Scene12_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_two">
+	<TEXTVALUE>ഗാഢ നൈട്രിക് ആസിഡിന്റെ സാന്നിദ്ധ്യത്തിൽ, പ്രോട്ടീനില്‍ അടങ്ങിയിട്ടുള്ള ചില അമിനോ ആസിഡുകൾ നൈട്രെഷനു വിധേയമായി മഞ്ഞനിറമുള്ള സാന്തോപ്രോട്ടിക് ആസിഡ് ആയി രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ജെലാറ്റിൻ ഡിസ്പേര്‍ഷന്‍, ഗാഢ HNO3, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് കുറച്ചുതുള്ളി ഗാഢ നൈട്രിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene15_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത ജെലാറ്റിൻ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_two">
+	<TEXTVALUE>Iഗാഢ നൈട്രിക് ആസിഡിന്റെ സാന്നിദ്ധ്യത്തിൽ, പ്രോട്ടീനില്‍ അടങ്ങിയിട്ടുള്ള ചില അമിനോ ആസിഡുകൾ നൈട്രെഷനു വിധേയമായി മഞ്ഞനിറമുള്ള സാന്തോപ്രോട്ടിക് ആസിഡ് ആയി രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷന്‍, നിന്‍ഹൈഡ്രിന്‍ ലായനി, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ninhydrinsolution_text">
+	<TEXTVALUE>നിന്‍ഹൈഡ്രിന്‍ ലായനി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് കുറച്ചുതുള്ളി നിന്‍ഹൈഡ്രിന്‍ ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+
+    <TEXT ID="Scene19_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_two">
+	<TEXTVALUE>പ്രോട്ടീന്‍ നിന്‍ഹൈഡ്രിന്‍ റീജന്റുമായി പ്രതിപ്രവർത്തിച്ച് കടും നീല നിറമുള്ള ഒരു സംയുക്തം രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ജെലാറ്റിൻ ഡിസ്പേര്‍ഷന്‍, നിന്‍ഹൈഡ്രിന്‍ ലായനി, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് കുറച്ചുതുള്ളി നിന്‍ഹൈഡ്രിന്‍ ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene22_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_two">
+	<TEXTVALUE>പ്രോട്ടീന്‍ നിന്‍ഹൈഡ്രിന്‍ റീജന്റുമായി പ്രതിപ്രവർത്തിച്ച് കടും നീല നിറമുള്ള ഒരു സംയുക്തം രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>ടെസ്റ്റ് നടത്തുന്നതിനായി ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷന്‍, മില്ലന്‍സ് റീജന്റ്, ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍, റാക്ക്, ഡ്രോപ്പറുകള്‍, ഒരു ബുൻസൻ ബർണര്‍ എന്നിവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="million_txt">
+	<TEXTVALUE>മില്ലന്‍സ് റീജന്റ്</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത എഗ്ഗ് ആല്‍ബുമിന്‍ ഡിസ്പേര്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+	<TEXTVALUE>ഒരു വെളുത്ത ഊറല്‍ രൂപം കൊള്ളുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_one">
+	<TEXTVALUE>ബർണറില്‍ വച്ച് ടെസ്റ്റ്‌ ട്യൂബ് കുറച്ചുനേരം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_two">
+	<TEXTVALUE>തിളയ്ക്കുമ്പോള്‍ വെള്ള ഊറലിന്റെ നിറം ഇഷ്ടടികയുടെ ചുവപ്പ് ആയി മാറുന്നു, ഇത് പ്രോട്ടീനിന്റെ സാന്നിധ്യം ഉറപ്പിക്കുന്നു</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+
+
+</DATA>

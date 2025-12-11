@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_zero">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>Click the"Start" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="capillarytube">
+	<TEXT ID="capillarytube_one">
+		<TEXTVALUE>We require, powdered naphthalene, liquid paraffin, capillary tube, porous plate, spatula, thermometer, thread, beaker, stirrer, iron stamp with clamp, wire gauze, tripod stand, Bunsen burner etc..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Seal">
+	<TEXT ID="Seal_one">
+		<TEXTVALUE>Take the capillary tube and seal one end of it by heating it over the Bunsen burner.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="takesomepowderer">
+	<TEXT ID="takesomepowderer_one">
+		<TEXTVALUE>Using the spatula take some powdered naphthalene.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Addporous">
+	<TEXT ID="Addporous_one">
+		<TEXTVALUE>Put it on the porous plate to make a heap of powdered naphthalene on the porous plate.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube">
+	<TEXT ID="fillthetube_one">
+		<TEXTVALUE>Push the open end of the capillary tube into the heap.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="zoom1">
+	<TEXT ID="zoom1_one">
+		<TEXTVALUE>Some powdered sample will enter into the capillary.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube23">
+	<TEXT ID="fillthetube23_one">
+		<TEXTVALUE>Tap the sealed end of the capillary tube gently on the porous plate.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="zoom16">
+	<TEXT ID="zoom16_one">
+		<TEXTVALUE>Repeat the same process and fill the capillary tube up to 2 - 3 mm.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="fillthetube237">
+	<TEXT ID="fillthetube237_one">
+		<TEXTVALUE>Repeat the same process and fill the capillary tube up to 2 - 3 mm.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>Attach the capillary tube to the thermometer using the thread.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+		<TEXTVALUE>Take the beaker containing the paraffin liquid.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>Place it on the wire gauze placed over the Bunsen burner and insert a stirrer in it.</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE> Clamp the thermometer carrying capillary tube in the iron stand. Adjust the arranngement and immerse the capillary tube and thermometer in liquid paraffin bath.</TEXTVALUE>
+   </TEXT>
+   
+  <TEXT ID="parafinburner_three">
+		<TEXTVALUE> Make sure that the thread is outside the liquid paraffin bath.</TEXTVALUE>
+   </TEXT> 
+   
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>Heat the liquid paraffin bath slowly and stir the liquid with the stirrer. </TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburner2_two">
+		<TEXTVALUE> By moving it up and down so that the temperature remains uniform throughout.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+<SCENE ID="line">
+	<TEXT ID="line_one">
+		<TEXTVALUE>After sometime, the naphthalene in the capillary tube will start melting.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>Note the temperature  (t1) when naphthalene starts melting.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="line33">
+	<TEXT ID="line33_one">
+		<TEXTVALUE>After some time, the naphthalene in the test tube has completely melted.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom55">
+	<TEXT ID="parafinburnerzoom55_one">
+		<TEXTVALUE>Note the temperature (t2) when the naphthalene has melted completely.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_one">
+		<TEXTVALUE>Calculate the melting point of naphthalene using the formula (t1 + t2)/2.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+	
+</DATA>

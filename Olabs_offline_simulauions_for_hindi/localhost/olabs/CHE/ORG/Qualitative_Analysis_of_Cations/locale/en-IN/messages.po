@@ -1,0 +1,2284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2015-03-21 10:46+0530\n"
+"PO-Revision-Date: 2015-03-21 10:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:81
+msgid "Qualitative Analysis of Cations"
+msgstr "Qualitative Analysis of Cations"
+
+#: simcontrols_main.js:82
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols_main.js:83
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols_main.js:84
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols_main.js:85
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols_main.js:101
+msgid "Salt solution"
+msgstr "Salt solution"
+
+#: simcontrols_main.js:104
+msgid "Colour test"
+msgstr "Colour test"
+
+#: simcontrols_main.js:104
+msgid "Smell test"
+msgstr "Smell test"
+
+#: simcontrols_main.js:104
+msgid "Dry heating test"
+msgstr "Dry heating test"
+
+#: simcontrols_main.js:104
+msgid "Charcoal cavity test"
+msgstr "Charcoal cavity test"
+
+#: simcontrols_main.js:104
+msgid "Cobalt nitrate test"
+msgstr "Cobalt nitrate test"
+
+#: simcontrols_main.js:104 simcontrols_main.js:119 simcontrols_main.js:120
+#: simcontrols_main.js:121
+msgid "Flame test"
+msgstr "Flame test"
+
+#: simcontrols_main.js:104 simcontrols_main.js:118
+msgid "Borax bead test"
+msgstr "Borax bead test"
+
+#: simcontrols_main.js:106 simcontrols_main.js:110 simcontrols_main.js:111
+msgid "--Select--"
+msgstr "--Select--"
+
+#: simcontrols_main.js:106
+msgid "Group zero"
+msgstr "Group zero"
+
+#: simcontrols_main.js:106
+msgid "Group I"
+msgstr "Group I"
+
+#: simcontrols_main.js:106
+msgid "Group II"
+msgstr "Group II"
+
+#: simcontrols_main.js:106
+msgid "Group III"
+msgstr "Group III"
+
+#: simcontrols_main.js:106
+msgid "Group IV"
+msgstr "Group IV"
+
+#: simcontrols_main.js:106
+msgid "Group V"
+msgstr "Group V"
+
+#: simcontrols_main.js:106
+msgid "Group VI"
+msgstr "Group VI"
+
+#: simcontrols_main.js:108
+msgid "Select preliminary test:"
+msgstr "Select preliminary test:"
+
+#: simcontrols_main.js:108
+msgid "Select group analysis:"
+msgstr "Select group analysis:"
+
+#: simcontrols_main.js:108
+msgid "Select the cation:"
+msgstr "Select the cation:"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111 simcontrols_main.js:276
+#: simcontrols_main.js:282 simcontrols_main.js:296 simcontrols_main.js:306
+#: simcontrols_main.js:320
+msgid "Ammonium"
+msgstr "Ammonium"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Lead(II)"
+msgstr "Lead(II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Copper(II)"
+msgstr "Copper(II)"
+
+#: simcontrols_main.js:110
+msgid "Arsenic"
+msgstr "Arsenic"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Iron(III)"
+msgstr "Iron(III)"
+
+#: simcontrols_main.js:110
+msgid "Aluminum"
+msgstr "Aluminum"
+
+#: simcontrols_main.js:110
+msgid "Cobalt"
+msgstr "Cobalt"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Nickel(ll)"
+msgstr "Nickel(ll)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Manganese(II)"
+msgstr "Manganese(II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Zinc (II)"
+msgstr "Zinc (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Barium"
+msgstr "Barium"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Strontium"
+msgstr "Strontium"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Calcium"
+msgstr "Calcium"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Magnesium"
+msgstr "Magnesium"
+
+#: simcontrols_main.js:111
+msgid "Arsenic (III)"
+msgstr "Arsenic (III)"
+
+#: simcontrols_main.js:111
+msgid "Aluminum (III)"
+msgstr "Aluminum (III)"
+
+#: simcontrols_main.js:111
+msgid "Cobalt (II)"
+msgstr "Cobalt (II)"
+
+#: simcontrols_main.js:112
+msgid "Select the confirmatory test:"
+msgstr "Select the confirmatory test:"
+
+#: simcontrols_main.js:114
+msgid "Sodium Hydroxide test"
+msgstr "Sodium Hydroxide test"
+
+#: simcontrols_main.js:114
+msgid "Nessler's Reagent test"
+msgstr "Nessler's Reagent test"
+
+#: simcontrols_main.js:115
+msgid "Cool the solution"
+msgstr "Cool the solution"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:180
+msgid "Potassium iodide test"
+msgstr "Potassium iodide test"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:119
+#: simcontrols_main.js:183
+msgid "Potassium chromate test"
+msgstr "Potassium chromate test"
+
+#: simcontrols_main.js:116 simcontrols_main.js:117 simcontrols_main.js:118
+#: simcontrols_main.js:191
+msgid "Potassium ferrocyanide test"
+msgstr "Potassium ferrocyanide test"
+
+#: simcontrols_main.js:116
+msgid "Ammonium molybdate test"
+msgstr "Ammonium molybdate test"
+
+#: simcontrols_main.js:116
+msgid "Magnesia mixture test"
+msgstr "Magnesia mixture test"
+
+#: simcontrols_main.js:117
+msgid "Potassium sulphocyanide test"
+msgstr "Potassium sulphocyanide test"
+
+#: simcontrols_main.js:117
+msgid "Lake test"
+msgstr "Lake test"
+
+#: simcontrols_main.js:117
+msgid "Cobalt nitrate/Charcoal cavity test"
+msgstr "Cobalt nitrate/Charcoal cavity test"
+
+#: simcontrols_main.js:118
+msgid "Potassium nitrite test"
+msgstr "Potassium nitrite test"
+
+#: simcontrols_main.js:118
+msgid "Ammonium thiocyanate ether test"
+msgstr "Ammonium thiocyanate ether test"
+
+#: simcontrols_main.js:118
+msgid "Dimethyl glyoxime test"
+msgstr "Dimethyl glyoxime test"
+
+#: simcontrols_main.js:118
+msgid "Sodium hydroxide-Br"
+msgstr "Sodium hydroxide-Br"
+
+#: simcontrols_main.js:118
+msgid "test"
+msgstr "test"
+
+#: simcontrols_main.js:118
+msgid "Lead peroxide test"
+msgstr "Lead peroxide test"
+
+#: simcontrols_main.js:118 simcontrols_main.js:161
+msgid "Sodium hydroxide test"
+msgstr "Sodium hydroxide test"
+
+#: simcontrols_main.js:118
+msgid "Charcoal cavity /Cobalt nitrate test"
+msgstr "Charcoal cavity /Cobalt nitrate test"
+
+#: simcontrols_main.js:120
+msgid "Ammonium sulphate test"
+msgstr "Ammonium sulphate test"
+
+#: simcontrols_main.js:121
+msgid "Ammonium oxalate test"
+msgstr "Ammonium oxalate test"
+
+#: simcontrols_main.js:122
+msgid "Ammonium Phosphate test"
+msgstr "Ammonium Phosphate test"
+
+#: simcontrols_main.js:122
+msgid "Charcoal cavity/Cobalt nitrate test"
+msgstr "Charcoal cavity/Cobalt nitrate test"
+
+#: simcontrols_main.js:130
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols_main.js:140
+msgid "May be "
+msgstr "May be "
+
+#: simcontrols_main.js:141
+msgid " is present."
+msgstr " is present."
+
+#: simcontrols_main.js:142 simcontrols_main.js:146
+msgid "NH<sub>4</sub><sup>+</sup>"
+msgstr "NH<sub>4</sub><sup>+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151 simcontrols_main.js:156
+msgid "Pb<sup>2+</sup>"
+msgstr "Pb<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Cu<sup>2+</sup>"
+msgstr "Cu<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "As<sup>3+</sup>"
+msgstr "As<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Fe<sup>3+</sup>"
+msgstr "Fe<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Al<sup>3+</sup>"
+msgstr "Al<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Co<sup>2+</sup>"
+msgstr "Co<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Ni<sup>2+</sup>"
+msgstr "Ni<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mn<sup>2+</sup>"
+msgstr "Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151
+msgid "Zn<sup>2+</sup>"
+msgstr "Zn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ba<sup>2+</sup>"
+msgstr "Ba<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Sr<sup>2+</sup>"
+msgstr "Sr<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ca<sup>2+</sup>"
+msgstr "Ca<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mg<sup>2+</sup>"
+msgstr "Mg<sup>2+</sup>"
+
+#: simcontrols_main.js:144
+msgid "Note down the color of original salt."
+msgstr "Note down the color of original salt."
+
+#: simcontrols_main.js:146 simcontrols_main.js:151
+msgid "Ammonical smell"
+msgstr "Ammonical smell"
+
+#: simcontrols_main.js:146
+msgid "There is no smell."
+msgstr "There is no smell."
+
+#: simcontrols_main.js:147 simcontrols_main.js:150 simcontrols_main.js:162
+#: simcontrols_main.js:166
+msgid "Original salt"
+msgstr "Original salt"
+
+#: simcontrols_main.js:147 simcontrols_main.js:177 simcontrols_main.js:186
+#: simcontrols_main.js:201
+msgid "Water"
+msgstr "Water"
+
+#: simcontrols_main.js:147
+msgid "Hand"
+msgstr "Hand"
+
+#: simcontrols_main.js:148
+msgid ""
+"Drag the original salt towards the watch glass<br>to put it into the watch "
+"glass."
+msgstr ""
+"Drag the original salt towards the watch glass<br>to put it into the watch "
+"glass."
+
+#: simcontrols_main.js:148
+msgid ""
+"Drag the dropper towards the watch glass<br>to drop water into the sample."
+msgstr ""
+"Drag the dropper towards the watch glass<br>to drop water into the sample."
+
+#: simcontrols_main.js:148
+msgid ""
+"Drag the hand towards the watch glass<br>to rub the pre-wetted salt with the "
+"fingers."
+msgstr ""
+"Drag the hand towards the watch glass<br>to rub the pre-wetted salt with the "
+"fingers."
+
+#: simcontrols_main.js:150 simcontrols_main.js:156
+msgid "There is no characteristic changes."
+msgstr "There is no characteristic changes."
+
+#: simcontrols_main.js:150
+msgid "There is no characteristic changes and try another test."
+msgstr "There is no characteristic changes and try another test."
+
+#: simcontrols_main.js:151
+msgid ""
+"due to the presence of Co<sup>2+</sup> or Cu<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr ""
+"due to the presence of Co<sup>2+</sup> or Cu<sup>2+</sup> or Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:151
+msgid ""
+"due to the presence of Ba<sup>2+</sup> or Ca<sup>2+</sup> or Sr<sup>2+</sup> "
+"or Mg<sup>2+</sup> or Al<sup>2+</sup>"
+msgstr ""
+"due to the presence of Ba<sup>2+</sup> or Ca<sup>2+</sup> or Sr<sup>2+</sup> "
+"or Mg<sup>2+</sup> or Al<sup>2+</sup>"
+
+#: simcontrols_main.js:152
+msgid ""
+"Drag the original salt towards the test tube<br>to put it into the test tube."
+msgstr ""
+"Drag the original salt towards the test tube<br>to put it into the test tube."
+
+#: simcontrols_main.js:152
+msgid ""
+"Click on the knob of the burner to turn it on<br>and observe the "
+"characteristic changes."
+msgstr ""
+"Click on the knob of the burner to turn it on<br>and observe the "
+"characteristic changes."
+
+#: simcontrols_main.js:154
+msgid ""
+"Drag the original salt towards the watch glass<br> to put it into the watch "
+"glass."
+msgstr ""
+"Drag the original salt towards the watch glass<br> to put it into the watch "
+"glass."
+
+#: simcontrols_main.js:154
+msgid ""
+"Drag the dropper towards the watch glass to pour<br> concentrated "
+"Hydrochloric acid into the sample."
+msgstr ""
+"Drag the dropper towards the watch glass to pour<br> concentrated "
+"Hydrochloric acid into the sample."
+
+#: simcontrols_main.js:154
+msgid ""
+"Drag the glass rod towards the watch glass<br> and mix the contents well to "
+"make a paste."
+msgstr ""
+"Drag the glass rod towards the watch glass<br> and mix the contents well to "
+"make a paste."
+
+#: simcontrols_main.js:154 simcontrols_main.js:164 simcontrols_main.js:168
+#: simcontrols_main.js:178 simcontrols_main.js:187 simcontrols_main.js:202
+#: simcontrols_main.js:249 simcontrols_main.js:280 simcontrols_main.js:304
+#: simcontrols_main.js:309 simcontrols_main.js:313
+msgid "Click on the knob of the burner to turn it on."
+msgstr "Click on the knob of the burner to turn it on."
+
+#: simcontrols_main.js:154
+msgid ""
+"Drag the platinum wire towards watch glass and dip it into<br>the paste and "
+"drag it again towards the Bunsen burner<br>and introduce it into the non-"
+"luminous flame."
+msgstr ""
+"Drag the platinum wire towards watch glass and dip it into<br>the paste and "
+"drag it again towards the Bunsen burner<br>and introduce it into the non-"
+"luminous flame."
+
+#: simcontrols_main.js:155
+msgid "Sample salt"
+msgstr "Sample salt"
+
+#: simcontrols_main.js:155
+msgid "Conc. HCl"
+msgstr "Conc. HCl"
+
+#: simcontrols_main.js:155 simcontrols_main.js:166 simcontrols_main.js:201
+#: simcontrols_main.js:296
+msgid "Glass rod"
+msgstr "Glass rod"
+
+#: simcontrols_main.js:155 simcontrols_main.js:224
+msgid "Platinum wire"
+msgstr "Platinum wire"
+
+#: simcontrols_main.js:155
+msgid "Non luminous flame "
+msgstr "Non luminous flame "
+
+#: simcontrols_main.js:156
+msgid "Zn<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr "Zn<sup>2+</sup> or Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:161
+msgid "Nessler's reagent test"
+msgstr "Nessler's reagent test"
+
+#: simcontrols_main.js:162 simcontrols_main.js:166
+msgid "Con.NaOH"
+msgstr "Con.NaOH"
+
+#: simcontrols_main.js:163
+msgid "Characteristic ammoniacal smell."
+msgstr "Characteristic ammoniacal smell."
+
+#: simcontrols_main.js:163 simcontrols_main.js:167
+msgid "There is no characteristic ammoniacal smell."
+msgstr "There is no characteristic ammoniacal smell."
+
+#: simcontrols_main.js:163
+msgid "Presence of group zero cation."
+msgstr "Presence of group zero cation."
+
+#: simcontrols_main.js:163 simcontrols_main.js:167 simcontrols_main.js:171
+msgid "Absence of group zero cation."
+msgstr "Absence of group zero cation."
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid ""
+"Drag the original salt towards the test tube<br>to drop it into the test "
+"tube."
+msgstr ""
+"Drag the original salt towards the test tube<br>to drop it into the test "
+"tube."
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid ""
+"Drag the dropper towards the test tube<br>to drop NaOH into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube<br>to drop NaOH into the test tube."
+
+#: simcontrols_main.js:166 simcontrols_main.js:236 simcontrols_main.js:300
+msgid "Dil. HCl"
+msgstr "Dil. HCl"
+
+#: simcontrols_main.js:167
+msgid "NH<sub>3</sub> gas is evolved"
+msgstr "NH<sub>3</sub> gas is evolved"
+
+#: simcontrols_main.js:167
+msgid ""
+"The white fumes is due to the formation of NH<sub>4</sub>Cl.<br>Presence of "
+"NH<sub>4</sub><sup>+</sup> is confirmed."
+msgstr ""
+"The white fumes is due to the formation of NH<sub>4</sub>Cl.<br>Presence of "
+"NH<sub>4</sub><sup>+</sup> is confirmed."
+
+#: simcontrols_main.js:167
+msgid "The white fumes is due to the formation of NH<sub>4</sub>Cl."
+msgstr "The white fumes is due to the formation of NH<sub>4</sub>Cl."
+
+#: simcontrols_main.js:168
+msgid ""
+"Drag the glass rod towards the bottle to<br>dip it in dil. HCl and drag it "
+"towards the test tube<br>to shown it over the mouth of the test tube."
+msgstr ""
+"Drag the glass rod towards the bottle to<br>dip it in dil. HCl and drag it "
+"towards the test tube<br>to shown it over the mouth of the test tube."
+
+#: simcontrols_main.js:170
+msgid "Cork"
+msgstr "Cork"
+
+#: simcontrols_main.js:170
+msgid "Delivery tube"
+msgstr "Delivery tube"
+
+#: simcontrols_main.js:171
+msgid ""
+"The brown percipitate is due to the formation of<br> H<sub>2</sub>N.HgO.Hgl. "
+"Presence of NH<sub>4</sub><sup>+</sup> is confirmed."
+msgstr ""
+"The brown percipitate is due to the formation of<br> H<sub>2</sub>N.HgO.Hgl. "
+"Presence of NH<sub>4</sub><sup>+</sup> is confirmed."
+
+#: simcontrols_main.js:172
+msgid "Drag the cork towards the test tube<br>to close the test tube."
+msgstr "Drag the cork towards the test tube<br>to close the test tube."
+
+#: simcontrols_main.js:172
+msgid ""
+"Drag the delivery tube towards the test tube<br>to insert it in the test "
+"tube."
+msgstr ""
+"Drag the delivery tube towards the test tube<br>to insert it in the test "
+"tube."
+
+#: simcontrols_main.js:174
+msgid "Group one test"
+msgstr "Group one test"
+
+#: simcontrols_main.js:174
+msgid "Salt"
+msgstr "Salt"
+
+#: simcontrols_main.js:174 simcontrols_main.js:288 simcontrols_main.js:292
+msgid "solution"
+msgstr "solution"
+
+#: simcontrols_main.js:174 simcontrols_main.js:300 simcontrols_main.js:306
+msgid "Next"
+msgstr "Next"
+
+#: simcontrols_main.js:174
+msgid ""
+"The white precipitate may due to the fomationo of PbCl<sub>2</sub>."
+"<br>Presence of group I cation"
+msgstr ""
+"The white precipitate may due to the fomationo of PbCl<sub>2</sub>."
+"<br>Presence of group I cation"
+
+#: simcontrols_main.js:174
+msgid "White precipitate"
+msgstr "White precipitate"
+
+#: simcontrols_main.js:174
+msgid "Centrifuged and washed ppt."
+msgstr "Centrifuged and washed ppt."
+
+#: simcontrols_main.js:174
+msgid "There is no white precipitate.<br>Absence of group I cation."
+msgstr "There is no white precipitate.<br>Absence of group I cation."
+
+#: simcontrols_main.js:174
+msgid "There is no white  ppt."
+msgstr "There is no white  ppt."
+
+#: simcontrols_main.js:175
+msgid ""
+"Drag the dropper towards the test tube to<br>drop the salt solution into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop the salt solution into the "
+"test tube."
+
+#: simcontrols_main.js:175
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into the test "
+"tube and click on<br>the 'next' button to go to the next step."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into the test "
+"tube and click on<br>the 'next' button to go to the next step."
+
+#: simcontrols_main.js:177
+msgid "Cooling of solution"
+msgstr "Cooling of solution"
+
+#: simcontrols_main.js:177
+msgid "Centrifuged and washed ppt. obtained from group I analysis."
+msgstr "Centrifuged and washed ppt. obtained from group I analysis."
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved. Drag and drop test tube toward the beaker"
+msgstr "Precipitate dissolved. Drag and drop test tube toward the beaker"
+
+#: simcontrols_main.js:177 simcontrols_main.js:180
+msgid "There is no characteristic changes"
+msgstr "There is no characteristic changes"
+
+#: simcontrols_main.js:177
+msgid ""
+"On cooling precipitate settle down as PbCl<sub>2</sub>.<br>Presence of "
+"Pb<sup>2+</sup> ion is confirmed."
+msgstr ""
+"On cooling precipitate settle down as PbCl<sub>2</sub>.<br>Presence of "
+"Pb<sup>2+</sup> ion is confirmed."
+
+#: simcontrols_main.js:177
+msgid "Cold Water"
+msgstr "Cold Water"
+
+#: simcontrols_main.js:177
+msgid "White crystalline precipitate"
+msgstr "White crystalline precipitate"
+
+#: simcontrols_main.js:177
+msgid "Drag, then release test tube"
+msgstr "Drag, then release test tube"
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved."
+msgstr "Precipitate dissolved."
+
+#: simcontrols_main.js:178
+msgid ""
+"Drag the dropper towards the test tube<br>to drop water into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube<br>to drop water into the test tube."
+
+#: simcontrols_main.js:178
+msgid ""
+"To cool the contents of the test tube, drag<br>the test tube towards the "
+"beaker and place it in<br>the beaker containing cold water."
+msgstr ""
+"To cool the contents of the test tube, drag<br>the test tube towards the "
+"beaker and place it in<br>the beaker containing cold water."
+
+#: simcontrols_main.js:180
+msgid "KI"
+msgstr "KI"
+
+#: simcontrols_main.js:180
+msgid "Potassium Iodide"
+msgstr "Potassium Iodide"
+
+#: simcontrols_main.js:180
+msgid "Yellow precipitate"
+msgstr "Yellow precipitate"
+
+#: simcontrols_main.js:180
+msgid ""
+"Yellow precipitate is due to the formation of PbI<sub>2</sub>.<br>Presence "
+"of Pb<sup>2+</sup> ion."
+msgstr ""
+"Yellow precipitate is due to the formation of PbI<sub>2</sub>.<br>Presence "
+"of Pb<sup>2+</sup> ion."
+
+#: simcontrols_main.js:180
+msgid "There is no characteristic changes. Absence of Pb<sup>2+</sup> ion."
+msgstr "There is no characteristic changes. Absence of Pb<sup>2+</sup> ion."
+
+#: simcontrols_main.js:181
+msgid ""
+"Drag the dropper towards the test tube to drop<br>potassium iodide solution "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>potassium iodide solution "
+"into the test tube."
+
+#: simcontrols_main.js:183 simcontrols_main.js:189
+msgid "K<sub>2</sub>CrO<sub>4</sub>"
+msgstr "K<sub>2</sub>CrO<sub>4</sub>"
+
+#: simcontrols_main.js:183 simcontrols_main.js:189 simcontrols_main.js:288
+msgid "Potassium chromate"
+msgstr "Potassium chromate"
+
+#: simcontrols_main.js:183
+msgid ""
+"Yellow precipitate is due to the formation of PbCrO<sub>4</sup>.<br>Presence "
+"of Pb<sup>2+</sup> ion."
+msgstr ""
+"Yellow precipitate is due to the formation of PbCrO<sub>4</sup>.<br>Presence "
+"of Pb<sup>2+</sup> ion."
+
+#: simcontrols_main.js:184
+msgid ""
+"Drag the dropper towards the test tube to drop,br>potassium chromate "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop,br>potassium chromate "
+"solution into the test tube."
+
+#: simcontrols_main.js:186
+msgid "50%HNO<sub>3</sub>"
+msgstr "50%HNO<sub>3</sub>"
+
+#: simcontrols_main.js:186
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "Dil. H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>5</sub>OH"
+msgstr "C<sub>2</sub>H<sub>5</sub>OH"
+
+#: simcontrols_main.js:186
+msgid "Black precipitate formed during group II test"
+msgstr "Black precipitate formed during group II test"
+
+#: simcontrols_main.js:186
+msgid ""
+"Black precipitate dissolves in 50% HNO<sub>3</sub> either due to the "
+"<br>formation of Pb(NO<sub>3</sub>)<sub>2</sub> or due to the formation of "
+"Cu(NO<sub>3</sub>)<sub>2</sub>"
+msgstr ""
+"Black precipitate dissolves in 50% HNO<sub>3</sub> either due to the "
+"<br>formation of Pb(NO<sub>3</sub>)<sub>2</sub> or due to the formation of "
+"Cu(NO<sub>3</sub>)<sub>2</sub>"
+
+#: simcontrols_main.js:186
+msgid ""
+"On adding H<sub>2</sub>SO<sub>4</sub>, white precipitate of<br> lead "
+"sulphate, PbSO<sub>4</sub> is formed"
+msgstr ""
+"On adding H<sub>2</sub>SO<sub>4</sub>, white precipitate of<br> lead "
+"sulphate, PbSO<sub>4</sub> is formed"
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+msgstr "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+
+#: simcontrols_main.js:186
+msgid "Ammonium acetate"
+msgstr "Ammonium acetate"
+
+#: simcontrols_main.js:186
+msgid "Kl"
+msgstr "Kl"
+
+#: simcontrols_main.js:186
+msgid "Potassium iodide"
+msgstr "Potassium iodide"
+
+#: simcontrols_main.js:186
+msgid ""
+"Yellow precipitate is due to the formation of<br> Lead iodide, PbI<sub>2</"
+"sub>. Presence of Pb<sup>2+</sup> is confirmed"
+msgstr ""
+"Yellow precipitate is due to the formation of<br> Lead iodide, PbI<sub>2</"
+"sub>. Presence of Pb<sup>2+</sup> is confirmed"
+
+#: simcontrols_main.js:186
+msgid "On adding H<sub>2</sub>SO<sub>4</sub>, there is a white precipitate"
+msgstr "On adding H<sub>2</sub>SO<sub>4</sub>, there is a white precipitate"
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate formed during group II test"
+msgstr "Yellow precipitate formed during group II test"
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "Yellow precipitate dissolves in 50% HNO<sub>3</sub>"
+
+#: simcontrols_main.js:186
+msgid "Precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "Precipitate dissolves in 50% HNO<sub>3</sub>"
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube<br>to drop  50% HNO3 into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube<br>to drop  50% HNO3 into the test "
+"tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub></"
+"sub> into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub></"
+"sub> into the test tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to drop<br>C2H5OH (ethyl alcohol) "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>C2H5OH (ethyl alcohol) "
+"into the test tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop ammonium acetate into the "
+"test tube. "
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop ammonium acetate into the "
+"test tube. "
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop potassium iodide into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop potassium iodide into the "
+"test tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the test tube towards the beaker to<br>place it in the beaker "
+"containing water."
+msgstr ""
+"Drag the test tube towards the beaker to<br>place it in the beaker "
+"containing water."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop ammonium acetate into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop ammonium acetate into the "
+"test tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to drop<br>potassium chromate "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>potassium chromate "
+"solution into the test tube."
+
+#: simcontrols_main.js:187 simcontrols_main.js:249
+msgid ""
+"Drag the dropper towards the test tube to<br>drop NaOH into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop NaOH into the test tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop ammonium hydroxide into "
+"the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop ammonium hydroxide into "
+"the test tube."
+
+#: simcontrols_main.js:187 simcontrols_main.js:269
+msgid ""
+"Drag the dropper towards the test tube to<br>drop acetic acid into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop acetic acid into the test "
+"tube."
+
+#: simcontrols_main.js:187
+msgid ""
+"Drag the dropper towards the test tube to<br>drop potassium ferrocyanide "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop potassium ferrocyanide "
+"into the test tube."
+
+#: simcontrols_main.js:189
+msgid "Sodium hydroxide"
+msgstr "Sodium hydroxide"
+
+#: simcontrols_main.js:189 simcontrols_main.js:245
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols_main.js:189
+msgid ""
+"Yellow precipitate is due to the formation of lead chromate.<br>Presence of "
+"Pb<sup>2+</sup> is confirmed."
+msgstr ""
+"Yellow precipitate is due to the formation of lead chromate.<br>Presence of "
+"Pb<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:189
+msgid ""
+"White precipitate formed is Cu<sub>2</sub>I<sub>2</sub>. Brown colour of the "
+"solution is<br> due to the formation of iodine. Presence of Cu<sup>2+</sup> "
+"is confirmed."
+msgstr ""
+"White precipitate formed is Cu<sub>2</sub>I<sub>2</sub>. Brown colour of the "
+"solution is<br> due to the formation of iodine. Presence of Cu<sup>2+</sup> "
+"is confirmed."
+
+#: simcontrols_main.js:191 simcontrols_main.js:253 simcontrols_main.js:282
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "NH<sub>4</sub>OH"
+msgstr "NH<sub>4</sub>OH"
+
+#: simcontrols_main.js:191 simcontrols_main.js:264
+msgid "Ammonium hydroxide"
+msgstr "Ammonium hydroxide"
+
+#: simcontrols_main.js:191 simcontrols_main.js:265
+msgid "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+msgstr "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:266
+msgid "Acetic acid"
+msgstr "Acetic acid"
+
+#: simcontrols_main.js:191
+msgid "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+msgstr "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:237
+msgid "Potassium ferrocyanide"
+msgstr "Potassium ferrocyanide"
+
+#: simcontrols_main.js:191
+msgid ""
+"The blue coloured solution of [Cu(NH<sub>3</sub>)<sub>4</sub>][NO<sub>3</"
+"sub>]<sub>2</sub> is formed by<br>the reaction betweenCu(NO<sub>3</"
+"sub>)<sub>2</sub> and NH<sub>4</sub>OH."
+msgstr ""
+"The blue coloured solution of [Cu(NH<sub>3</sub>)<sub>4</sub>][NO<sub>3</"
+"sub>]<sub>2</sub> is formed by<br>the reaction betweenCu(NO<sub>3</"
+"sub>)<sub>2</sub> and NH<sub>4</sub>OH."
+
+#: simcontrols_main.js:191
+msgid ""
+"The chocolate brown precipitate is due to the formation of<br>Cu<sub>2</"
+"sub>[Fe(CN)<sub>6</sub>].Presence of Cu<sup>2+</sup> is confirmed."
+msgstr ""
+"The chocolate brown precipitate is due to the formation of<br>Cu<sub>2</"
+"sub>[Fe(CN)<sub>6</sub>].Presence of Cu<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:201
+msgid "Sodium carbonate"
+msgstr "Sodium carbonate"
+
+#: simcontrols_main.js:201
+msgid "Charcoal box "
+msgstr "Charcoal box "
+
+#: simcontrols_main.js:201
+msgid "Blow pipe"
+msgstr "Blow pipe"
+
+#: simcontrols_main.js:201
+msgid "Tongs"
+msgstr "Tongs"
+
+#: simcontrols_main.js:201
+msgid "NEXT STEP"
+msgstr "NEXT STEP"
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the spatula towards the watch glass to add <br>sodium carbonate into "
+"the original salt."
+msgstr ""
+"Drag the spatula towards the watch glass to add <br>sodium carbonate into "
+"the original salt."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the glass rod towards the watch glass to mix<br> the contents of the "
+"watch glass."
+msgstr ""
+"Drag the glass rod towards the watch glass to mix<br> the contents of the "
+"watch glass."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the charcoal box near the watch glass <br>to place it in the canvas "
+"area."
+msgstr ""
+"Drag the charcoal box near the watch glass <br>to place it in the canvas "
+"area."
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the watch glass to take the mixture."
+msgstr "Drag the spatula towards the watch glass to take the mixture."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the spatula towards the charcoal box <br>to put the mixture in the "
+"cavity."
+msgstr ""
+"Drag the spatula towards the charcoal box <br>to put the mixture in the "
+"cavity."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the bottle towards the charcoal box to <br>add water into the mixture."
+msgstr ""
+"Drag the bottle towards the charcoal box to <br>add water into the mixture."
+
+#: simcontrols_main.js:202
+msgid ""
+"Click on the air adjusting disc to close<br> the air hole to get the "
+"reducing flame."
+msgstr ""
+"Click on the air adjusting disc to close<br> the air hole to get the "
+"reducing flame."
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the charcoal box to hold the box."
+msgstr "Drag the tongs towards the charcoal box to hold the box."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the tongs towards the burner  to place <br>the charcoal box near the "
+"flame."
+msgstr ""
+"Drag the tongs towards the burner  to place <br>the charcoal box near the "
+"flame."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the blow pipe towards the burner to direct <br>the reducing flame and "
+"heat the mixture."
+msgstr ""
+"Drag the blow pipe towards the burner to direct <br>the reducing flame and "
+"heat the mixture."
+
+#: simcontrols_main.js:202
+msgid ""
+"Drag the tongs towards the watch glass to place back <br>the charcoal box to "
+"cool the residue."
+msgstr ""
+"Drag the tongs towards the watch glass to place back <br>the charcoal box to "
+"cool the residue."
+
+#: simcontrols_main.js:203
+msgid "Oxidising flame."
+msgstr "Oxidising flame."
+
+#: simcontrols_main.js:204
+msgid "Reducing flame."
+msgstr "Reducing flame."
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on heating."
+msgstr "Yellow residue formed on heating."
+
+#: simcontrols_main.js:205
+msgid "White residue formed on cooling."
+msgstr "White residue formed on cooling."
+
+#: simcontrols_main.js:205
+msgid "Brown residue formed on heating."
+msgstr "Brown residue formed on heating."
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on cooling."
+msgstr "Yellow residue formed on cooling."
+
+#: simcontrols_main.js:205
+msgid "White residue formed on heating."
+msgstr "White residue formed on heating."
+
+#: simcontrols_main.js:205
+msgid "Green residue formed on heating."
+msgstr "Green residue formed on heating."
+
+#: simcontrols_main.js:205
+msgid "Pink residue formed on heating."
+msgstr "Pink residue formed on heating."
+
+#: simcontrols_main.js:205
+msgid "Blue residue formed on heating."
+msgstr "Blue residue formed on heating."
+
+#: simcontrols_main.js:206
+msgid "Light blue residue formed on heating."
+msgstr "Light blue residue formed on heating."
+
+#: simcontrols_main.js:207
+msgid "May be Zn<sup>2+</sup> is present."
+msgstr "May be Zn<sup>2+</sup> is present."
+
+#: simcontrols_main.js:208
+msgid "May be Pb<sup>2+</sup> is present."
+msgstr "May be Pb<sup>2+</sup> is present."
+
+#: simcontrols_main.js:209
+msgid ""
+"May be due to the presence of Ba<sup>2+</sup> or <br> Ca<sup>2+</sup> or "
+"Mg<sup>2+</sup>."
+msgstr ""
+"May be due to the presence of Ba<sup>2+</sup> or <br> Ca<sup>2+</sup> or "
+"Mg<sup>2+</sup>."
+
+#: simcontrols_main.js:210
+msgid "White residue with the odour of garlic formed on heating."
+msgstr "White residue with the odour of garlic formed on heating."
+
+#: simcontrols_main.js:211
+msgid "Red residue formed on heating."
+msgstr "Red residue formed on heating."
+
+#: simcontrols_main.js:212
+msgid "White residue formed on cooling.May be As<sup>3+</sup> is present."
+msgstr "White residue formed on cooling.May be As<sup>3+</sup> is present."
+
+#: simcontrols_main.js:213
+msgid "Red residue formed on cooling.May be Cu<sup>2+</sup> is present."
+msgstr "Red residue formed on cooling.May be Cu<sup>2+</sup> is present."
+
+#: simcontrols_main.js:214
+msgid "No characteristic change."
+msgstr "No characteristic change."
+
+#: simcontrols_main.js:218
+msgid "The residue left after charcoal cavity test"
+msgstr "The residue left after charcoal cavity test"
+
+#: simcontrols_main.js:218
+msgid "Cobalt nitrate "
+msgstr "Cobalt nitrate "
+
+#: simcontrols_main.js:219
+msgid "May be Mg<sup>2+</sup> is present."
+msgstr "May be Mg<sup>2+</sup> is present."
+
+#: simcontrols_main.js:220
+msgid "May be due to the presence of Al<sup>3+</sup>."
+msgstr "May be due to the presence of Al<sup>3+</sup>."
+
+#: simcontrols_main.js:221
+msgid ""
+"Drag the dropper towards the charcoal box to<br>add cobalt nitrate solution "
+"into the residue left<br> in the charcoal box."
+msgstr ""
+"Drag the dropper towards the charcoal box to<br>add cobalt nitrate solution "
+"into the residue left<br> in the charcoal box."
+
+#: simcontrols_main.js:224
+msgid "Borax"
+msgstr "Borax"
+
+#: simcontrols_main.js:225
+msgid ""
+"Drag the watch glass containing borax towards <br>the original salt to place "
+"it in the canvas area."
+msgstr ""
+"Drag the watch glass containing borax towards <br>the original salt to place "
+"it in the canvas area."
+
+#: simcontrols_main.js:225
+msgid ""
+"Drag the platinum wire towards the watch glass <br>to dip it in the borax "
+"powder."
+msgstr ""
+"Drag the platinum wire towards the watch glass <br>to dip it in the borax "
+"powder."
+
+#: simcontrols_main.js:225
+msgid ""
+"Drag the platinum wire towards the burner to <br>heat the borax powder in "
+"the oxidizing flame."
+msgstr ""
+"Drag the platinum wire towards the burner to <br>heat the borax powder in "
+"the oxidizing flame."
+
+#: simcontrols_main.js:225
+msgid ""
+"Drag the platinum wire towards the watch glass<br> to dip it in the original "
+"salt."
+msgstr ""
+"Drag the platinum wire towards the watch glass<br> to dip it in the original "
+"salt."
+
+#: simcontrols_main.js:225
+msgid ""
+"Click on the knob of the burner to turn it on to get<br> the oxidizing "
+"flame/ Click on the air adjusting disc to <br>close the air hole to get the "
+"reducing flame."
+msgstr ""
+"Click on the knob of the burner to turn it on to get<br> the oxidizing "
+"flame/ Click on the air adjusting disc to <br>close the air hole to get the "
+"reducing flame."
+
+#: simcontrols_main.js:225
+msgid ""
+"Drag the platinum wire towards the burner to <br>heat the contents in the "
+"oxidizing/reducing flame."
+msgstr ""
+"Drag the platinum wire towards the burner to <br>heat the contents in the "
+"oxidizing/reducing flame."
+
+#: simcontrols_main.js:226
+msgid "Transparent colourless glassy bead formed."
+msgstr "Transparent colourless glassy bead formed."
+
+#: simcontrols_main.js:227
+msgid "May be Mn<sup>2+</sup> is present."
+msgstr "May be Mn<sup>2+</sup> is present."
+
+#: simcontrols_main.js:228
+msgid "May be Ni<sup>2+</sup> is present."
+msgstr "May be Ni<sup>2+</sup> is present."
+
+#: simcontrols_main.js:229
+msgid "May be Co<sup>2+</sup> or Mn<sup>2+</sup> is present."
+msgstr "May be Co<sup>2+</sup> or Mn<sup>2+</sup> is present."
+
+#: simcontrols_main.js:230
+msgid "Colourless bead formed on heating."
+msgstr "Colourless bead formed on heating."
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Green bead formed on heating."
+msgstr "Green bead formed on heating."
+
+#: simcontrols_main.js:230
+msgid "Grey bead formed on heating."
+msgstr "Grey bead formed on heating."
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Deep blue bead formed on heating."
+msgstr "Deep blue bead formed on heating."
+
+#: simcontrols_main.js:231
+msgid "Opaque red  bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr "Opaque red  bead formed on cooling. May be Cu<sup>2+</sup> is present."
+
+#: simcontrols_main.js:231
+msgid "Green bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "Green bead formed on cooling. May be Fe<sup>3+</sup> is present."
+
+#: simcontrols_main.js:231
+msgid "Colourless bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr "Colourless bead formed on cooling. May be Mn<sup>2+</sup> is present."
+
+#: simcontrols_main.js:231
+msgid "Opaque grey bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "Opaque grey bead formed on cooling. May be Ni<sup>2+</sup> is present."
+
+#: simcontrols_main.js:231 simcontrols_main.js:233
+msgid "Deep blue bead formed on cooling. May be Co<sup>2+</sup> is present."
+msgstr "Deep blue bead formed on cooling. May be Co<sup>2+</sup> is present."
+
+#: simcontrols_main.js:232
+msgid "Yellowish brown bead formed on heating."
+msgstr "Yellowish brown bead formed on heating."
+
+#: simcontrols_main.js:232
+msgid "Pinkish violet bead formed on heating."
+msgstr "Pinkish violet bead formed on heating."
+
+#: simcontrols_main.js:232
+msgid "Brown bead formed on heating."
+msgstr "Brown bead formed on heating."
+
+#: simcontrols_main.js:233
+msgid "Light blue bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr "Light blue bead formed on cooling. May be Cu<sup>2+</sup> is present."
+
+#: simcontrols_main.js:233
+msgid "Pale yellow bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "Pale yellow bead formed on cooling. May be Fe<sup>3+</sup> is present."
+
+#: simcontrols_main.js:233
+msgid ""
+"Pinkish violet bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr ""
+"Pinkish violet bead formed on cooling. May be Mn<sup>2+</sup> is present."
+
+#: simcontrols_main.js:233
+msgid "Pale brown bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "Pale brown bead formed on cooling. May be Ni<sup>2+</sup> is present."
+
+#: simcontrols_main.js:238
+msgid "The reddish brown precipitate is soluble in dil. HCl"
+msgstr "The reddish brown precipitate is soluble in dil. HCl"
+
+#: simcontrols_main.js:238
+msgid ""
+"Prussian blue colour is due to the formation of ferric ferrocyanide,<br> "
+"Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>. Presence of Fe<sup>3+</sup> "
+"is confirmed."
+msgstr ""
+"Prussian blue colour is due to the formation of ferric ferrocyanide,<br> "
+"Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>. Presence of Fe<sup>3+</sup> "
+"is confirmed."
+
+#: simcontrols_main.js:239 simcontrols_main.js:262
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into the test "
+"tube."
+
+#: simcontrols_main.js:239
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Potassium ferrocyanide "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Potassium ferrocyanide "
+"solution into the test tube."
+
+#: simcontrols_main.js:241
+msgid "Potassium sulphocyanide"
+msgstr "Potassium sulphocyanide"
+
+#: simcontrols_main.js:242
+msgid ""
+"Blood red colouration is due to the formation of Ferric sulphocyanide,<br> "
+"Fe(CNS)<sub>3</sub>. Presence of Fe<sup>3+</sup> is confirmed."
+msgstr ""
+"Blood red colouration is due to the formation of Ferric sulphocyanide,<br> "
+"Fe(CNS)<sub>3</sub>. Presence of Fe<sup>3+</sup> is confirmed."
+
+#: simcontrols_main.js:243
+msgid ""
+"Drag the dropper towards the test tube to drop<br>dil. HCl into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>dil. HCl into the test "
+"tube."
+
+#: simcontrols_main.js:243
+msgid ""
+"Drag the dropper towards the test tube to drop Potassium<br>sulphocyanide "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop Potassium<br>sulphocyanide "
+"solution into the test tube."
+
+#: simcontrols_main.js:246
+msgid "Bromine water"
+msgstr "Bromine water"
+
+#: simcontrols_main.js:247
+msgid ""
+"White precipitate is due to the formation of<br> manganese hydroxide, "
+"Mn(OH)<sub>2</sub>."
+msgstr ""
+"White precipitate is due to the formation of<br> manganese hydroxide, "
+"Mn(OH)<sub>2</sub>."
+
+#: simcontrols_main.js:247
+msgid ""
+"Mn(OH)<sub>2</sub> turns brown on adding Br<sub>2</sub> water due to <br>the "
+"oxidation of Mn(OH)<sub>2</sub> to MnO(OH)<sub>2</sub>.<br> Presence of "
+"Mn<sup>2+</sup> is confirmed."
+msgstr ""
+"Mn(OH)<sub>2</sub> turns brown on adding Br<sub>2</sub> water due to <br>the "
+"oxidation of Mn(OH)<sub>2</sub> to MnO(OH)<sub>2</sub>.<br> Presence of "
+"Mn<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:248
+msgid "The green precipitate is due to the formation of Ni(OH)<sub>2</sub>."
+msgstr "The green precipitate is due to the formation of Ni(OH)<sub>2</sub>."
+
+#: simcontrols_main.js:248
+msgid ""
+"The black precipitate is due to the formation of nickelic hydroxide, "
+"Ni(OH)<sub>3</sub>.<br> Presence of Ni<sup>2+</sup> is confirmed."
+msgstr ""
+"The black precipitate is due to the formation of nickelic hydroxide, "
+"Ni(OH)<sub>3</sub>.<br> Presence of Ni<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:249
+msgid ""
+"Drag the dropper towards the test tube to<br>drop bromine water into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop bromine water into the "
+"test tube."
+
+#: simcontrols_main.js:250
+msgid ""
+"The white precipitate of ZnS dissolves in dil. <br>HCl to form ZnCl<sub>2</"
+"sub> with the evolution of H<sub>2</sub>S gas."
+msgstr ""
+"The white precipitate of ZnS dissolves in dil. <br>HCl to form ZnCl<sub>2</"
+"sub> with the evolution of H<sub>2</sub>S gas."
+
+#: simcontrols_main.js:250
+msgid "The white precipitate is due to the formation of zinc hydroxide."
+msgstr "The white precipitate is due to the formation of zinc hydroxide."
+
+#: simcontrols_main.js:250
+msgid ""
+"Zn(OH)<sub>2</sub> is soluble in excess NaOH due to the formation of "
+"Na<sub>2</sub>ZnO<sub>2</sub>.<br> Presence of Zn<sup>2+</sup> is confirmed."
+msgstr ""
+"Zn(OH)<sub>2</sub> is soluble in excess NaOH due to the formation of "
+"Na<sub>2</sub>ZnO<sub>2</sub>.<br> Presence of Zn<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:251
+msgid ""
+"The white or bluish white precipitate is due to the formation of Zn<sub>2</"
+"sub>[Fe(CN)<sub>6</sub>].<br> Presence of Zn<sup>2+</sup> is confirmed."
+msgstr ""
+"The white or bluish white precipitate is due to the formation of Zn<sub>2</"
+"sub>[Fe(CN)<sub>6</sub>].<br> Presence of Zn<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:254
+msgid "Dimethyl glyoxime"
+msgstr "Dimethyl glyoxime"
+
+#: simcontrols_main.js:255
+msgid ""
+"The bright rose red colour is due to the formation of Ni dimethyl glyoxime "
+"complex. <br>Presence of Ni<sup>2+</sup> is confirmed."
+msgstr ""
+"The bright rose red colour is due to the formation of Ni - dimethyl glyoxime "
+"complex. <br>Presence of Ni<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:256
+msgid ""
+"Drag the dropper towards the test tube<br>to drop NH<sub>4</sub>OH into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube<br>to drop NH<sub>4</sub>OH into the "
+"test tube."
+
+#: simcontrols_main.js:256
+msgid ""
+"Drag the dropper towards the test tube to drop<br>dimethyl glyoxime into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>dimethyl glyoxime into the "
+"test tube."
+
+#: simcontrols_main.js:258
+msgid "Blue litmus solution"
+msgstr "Blue litmus solution"
+
+#: simcontrols_main.js:259
+msgid "Precipitate after centrifugation"
+msgstr "Precipitate after centrifugation"
+
+#: simcontrols_main.js:261
+msgid ""
+"The precipitate formed is aluminium hydroxide. Blue colour absorbs<br> on "
+"this precipitate. Presence of Al<sup>3+</sup> is confirmed."
+msgstr ""
+"The precipitate formed is aluminium hydroxide. Blue colour absorbs<br> on "
+"this precipitate. Presence of Al<sup>3+</sup> is confirmed."
+
+#: simcontrols_main.js:262
+msgid ""
+"Drag the dropper towards the test tube to drop<br>blue litmus solution into "
+"the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>blue litmus solution into "
+"the test tube."
+
+#: simcontrols_main.js:262 simcontrols_main.js:269 simcontrols_main.js:286
+msgid ""
+"Drag the dropper towards the test tube to<br>drop NH<sub>4</sub>OH into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop NH<sub>4</sub>OH into the "
+"test tube."
+
+#: simcontrols_main.js:267
+msgid "Potassium nitrite"
+msgstr "Potassium nitrite"
+
+#: simcontrols_main.js:268
+msgid ""
+"The yellow precipitate is due to the formation of potassium cobaltinitrite,"
+"<br> K<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]. Presence of Co<sup>2+</"
+"sup> is confirmed."
+msgstr ""
+"The yellow precipitate is due to the formation of potassium cobaltinitrite,"
+"<br> K<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]. Presence of Co<sup>2+</"
+"sup> is confirmed."
+
+#: simcontrols_main.js:269
+msgid ""
+"Drag the spatula towards the test tube to<br>put potassium nitrite into the "
+"test tube."
+msgstr ""
+"Drag the spatula towards the test tube to<br>put potassium nitrite into the "
+"test tube."
+
+#: simcontrols_main.js:271
+msgid "Ammonium thiocyanate"
+msgstr "Ammonium thiocyanate"
+
+#: simcontrols_main.js:272
+msgid ""
+"Blue colour is due to the formation of ammonium cobalti thiocyanate,<br> "
+"(NH<sub>4</sub>)<sub>2</sub>[Co(CNS)<sub>4</sub>]. Presence of Co<sup>2+</"
+"sup> is confirmed."
+msgstr ""
+"Blue colour is due to the formation of ammonium cobalti thiocyanate,<br> "
+"(NH<sub>4</sub>)<sub>2</sub>[Co(CNS)<sub>4</sub>]. Presence of Co<sup>2+</"
+"sup> is confirmed."
+
+#: simcontrols_main.js:273
+msgid ""
+"Drag the dropper towards the test tube to<br>drop ether into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop ether into the test tube."
+
+#: simcontrols_main.js:273
+msgid ""
+"Drag the spatula towards the test tube to<br>drop ammonium thiocyanate into "
+"the test tube."
+msgstr ""
+"Drag the spatula towards the test tube to<br>drop ammonium thiocyanate into "
+"the test tube."
+
+#: simcontrols_main.js:273
+msgid "Drag the test tube from the stand to shake it well."
+msgstr "Drag the test tube from the stand to shake it well."
+
+#: simcontrols_main.js:274
+msgid "Ether"
+msgstr "Ether"
+
+#: simcontrols_main.js:276
+msgid ""
+"The yellow precipitate may be<br/> due to the formation of As2S3.<br/"
+">Presence of Group II cation."
+msgstr ""
+"The yellow precipitate may be<br/> due to the formation of As2S3.<br/"
+">Presence of Group II cation."
+
+#: simcontrols_main.js:276
+msgid "Conc. HNO<sub>3</sub>"
+msgstr "Conc. HNO<sub>3</sub>"
+
+#: simcontrols_main.js:276
+msgid "Concentrated"
+msgstr "Concentrated"
+
+#: simcontrols_main.js:276
+msgid "nitric acid"
+msgstr "nitric acid"
+
+#: simcontrols_main.js:276
+msgid "molybdate solution"
+msgstr "molybdate solution"
+
+#: simcontrols_main.js:276
+msgid "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(aq)"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(aq)"
+
+#: simcontrols_main.js:278
+msgid ""
+"The yellow residue of As<sub>2</sub>S<sub>3</sub> is dissolved in Conc.<br/> "
+"HNO<sub>3 </sub>forming arsenic acid, H<sub>3</sub>AsO<sub>4</sub>."
+msgstr ""
+"The yellow residue of As<sub>2</sub>S<sub>3</sub> is dissolved in Conc.<br/> "
+"HNO<sub>3 </sub>forming arsenic acid, H<sub>3</sub>AsO<sub>4</sub>."
+
+#: simcontrols_main.js:278
+msgid ""
+"Yellow precipitate is due to the formation of ammonium arseno molybdate <br/"
+">{(NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</sub>.12MoO<sub>3</sub>}. Presence "
+"of As<sup>3+</sup> is confirmed."
+msgstr ""
+"Yellow precipitate is due to the formation of ammonium arseno molybdate <br/"
+">{(NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</sub>.12MoO<sub>3</sub>}. Presence "
+"of As<sup>3+</sup> is confirmed."
+
+#: simcontrols_main.js:280 simcontrols_main.js:286
+msgid ""
+"Drag the dropper towards the test tube to<br>drop Conc. HNO3 into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop Conc. HNO3 into the test "
+"tube."
+
+#: simcontrols_main.js:280
+msgid ""
+"Drag the dropper towards the test tube to drop<br>ammonium molybdate "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>ammonium molybdate "
+"solution into the test tube."
+
+#: simcontrols_main.js:282 simcontrols_main.js:296
+msgid "hydroxide solution"
+msgstr "hydroxide solution"
+
+#: simcontrols_main.js:282
+msgid "Magnesia mixture"
+msgstr "Magnesia mixture"
+
+#: simcontrols_main.js:282
+msgid "mixture"
+msgstr "mixture"
+
+#: simcontrols_main.js:282
+msgid "Magnesia"
+msgstr "Magnesia"
+
+#: simcontrols_main.js:284
+msgid ""
+"The white precipitate is due to the formation of Mg(NH<sub>4</sub>)<sub>2</"
+"sub>AsO<sub>4</sub>.</br> Presence of As<sup>3+</sup> is confirmed."
+msgstr ""
+"The white precipitate is due to the formation of Mg(NH<sub>4</sub>)<sub>2</"
+"sub>AsO<sub>4</sub>.</br> Presence of As<sup>3+</sup> is confirmed."
+
+#: simcontrols_main.js:286
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Magnesia mixture into the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Magnesia mixture into the "
+"test tube."
+
+#: simcontrols_main.js:288
+msgid "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+msgstr "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+
+#: simcontrols_main.js:288
+msgid ""
+"The yellow precipitate is due to the formation of barium<br/> chromate, "
+"BaCrO<sub>4</sub>. Presence of Ba<sup>2+</sup> is confirmed."
+msgstr ""
+"The yellow precipitate is due to the formation of barium<br/> chromate, "
+"BaCrO<sub>4</sub>. Presence of Ba<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:290
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Potassium chromate "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Potassium chromate "
+"solution into the test tube."
+
+#: simcontrols_main.js:292
+msgid "Ammonium sulphate"
+msgstr "Ammonium sulphate"
+
+#: simcontrols_main.js:292
+msgid "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> (aq)"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> (aq)"
+
+#: simcontrols_main.js:292
+msgid ""
+"The white precipitate is due to the formation of strontium sulphate,<br/> "
+"SrSO<sub>4</sub>. Presence of Sr<sup>2+</sup> is confirmed."
+msgstr ""
+"The white precipitate is due to the formation of strontium sulphate,<br/> "
+"SrSO<sub>4</sub>. Presence of Sr<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:294
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Ammonium sulphate solution "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Ammonium sulphate solution "
+"into the test tube."
+
+#: simcontrols_main.js:296
+msgid "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+
+#: simcontrols_main.js:296
+msgid "oxalate solution"
+msgstr "oxalate solution"
+
+#: simcontrols_main.js:296
+msgid "NH<sub>4</sub>OH(aq)"
+msgstr "NH<sub>4</sub>OH(aq)"
+
+#: simcontrols_main.js:296
+msgid ""
+"The white precipitate is due to the formation of <br/> calcium oxalate, "
+"CaC<sub>2</sub>O<sub>4</sub>. Presence of Ca<sup>2+</sup> is confirmed."
+msgstr ""
+"The white precipitate is due to the formation of <br/> calcium oxalate, "
+"CaC<sub>2</sub>O<sub>4</sub>. Presence of Ca<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:298
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Ammonium oxalate solution "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Ammonium oxalate solution "
+"into the test tube."
+
+#: simcontrols_main.js:298
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Ammonium hydroxide "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Ammonium hydroxide "
+"solution into the test tube."
+
+#: simcontrols_main.js:298
+msgid ""
+"Drag the glass rod towards the test tube to<br>rub the sides of the test "
+"tube with it."
+msgstr ""
+"Drag the glass rod towards the test tube to<br>rub the sides of the test "
+"tube with it."
+
+#: simcontrols_main.js:300
+msgid "Kipp's apparatus"
+msgstr "Kipp's apparatus"
+
+#: simcontrols_main.js:300
+msgid "Centrifuged and separated <br/>precipitate."
+msgstr "Centrifuged and separated <br/>precipitate."
+
+#: simcontrols_main.js:302
+msgid ""
+"The black precipitate may be due to the formation of PbS or CuS.<br/> "
+"Presence of Group II cation. "
+msgstr ""
+"The black precipitate may be due to the formation of PbS or CuS.<br/> "
+"Presence of Group II cation. "
+
+#: simcontrols_main.js:302
+msgid ""
+"The yellow precipitate may be due to the formation of As<sub>2</sub>S<sub>3</"
+"sub>.<br/>Presence of Group II cation."
+msgstr ""
+"The yellow precipitate may be due to the formation of As<sub>2</sub>S<sub>3</"
+"sub>.<br/>Presence of Group II cation."
+
+#: simcontrols_main.js:304
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into  the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into  the test "
+"tube."
+
+#: simcontrols_main.js:304
+msgid ""
+"Drag the test tube towards the Kipp apparatus to<br>pass H<sub>2</sub>S gas "
+"through the solution."
+msgstr ""
+"Drag the test tube towards the Kipp's apparatus to<br>pass H<sub>2</sub>S "
+"gas through the solution."
+
+#: simcontrols_main.js:304
+msgid "Click on the nozzle to open/close the Kipp apparatus."
+msgstr "Click on the nozzle to open/close the Kipp's apparatus."
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "hydroxide"
+msgstr "hydroxide"
+
+#: simcontrols_main.js:306
+msgid "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+
+#: simcontrols_main.js:306
+msgid "carbonate"
+msgstr "carbonate"
+
+#: simcontrols_main.js:306
+msgid "Hot dil. CH<sub>3</sub>COOH"
+msgstr "Hot dil. CH<sub>3</sub>COOH"
+
+#: simcontrols_main.js:306
+msgid "The precipitate is centrifuged<br/> and washed with water."
+msgstr "The precipitate is centrifuged<br/> and washed with water."
+
+#: simcontrols_main.js:306
+msgid "Sample one"
+msgstr "Sample one"
+
+#: simcontrols_main.js:306
+msgid "Sample two"
+msgstr "Sample two"
+
+#: simcontrols_main.js:306
+msgid "Sample three"
+msgstr "Sample three"
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "NH<sub>4</sub>Cl"
+msgstr "NH<sub>4</sub>Cl"
+
+#: simcontrols_main.js:306
+msgid "The solution is divided into three <br/>parts."
+msgstr "The solution is divided into three <br/>parts."
+
+#: simcontrols_main.js:307
+msgid ""
+"The white precipitate may due to the formation of<br/> carbonates of "
+"Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>."
+msgstr ""
+"The white precipitate may due to the formation of<br/> carbonates of "
+"Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>."
+
+#: simcontrols_main.js:307
+msgid ""
+"The insoluble carbonate dissolves in acetic acid due to the formation of<br/"
+"> soluble acetates of Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>. "
+"Presence of Group V cation."
+msgstr ""
+"The insoluble carbonate dissolves in acetic acid due to the formation of<br/"
+"> soluble acetates of Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>. "
+"Presence of Group V cation."
+
+#: simcontrols_main.js:309 simcontrols_main.js:316
+msgid ""
+"Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it "
+"in the test tube."
+msgstr ""
+"Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it "
+"in the test tube."
+
+#: simcontrols_main.js:309
+msgid ""
+"Drag the dropper towards the test tube to<br>drop ammonium hydroxide "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop ammonium hydroxide "
+"solution into the test tube."
+
+#: simcontrols_main.js:309
+msgid ""
+"Drag the dropper towards the test tube to drop<br>ammonium carbonate "
+"solution into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>ammonium carbonate "
+"solution into the test tube."
+
+#: simcontrols_main.js:309
+msgid ""
+"Drag the dropper towards the test tube to drop hot<br>dil. CH3COOH (acetic "
+"acid) into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop hot<br>dil. CH3COOH (acetic "
+"acid) into the test tube."
+
+#: simcontrols_main.js:311
+msgid ""
+"Reddish brown precipitate may be due to the formation of </br> ferric "
+"hydroxide,Fe(OH)<sub>3</sub>.  Presence of Group III cation."
+msgstr ""
+"Reddish brown precipitate may be due to the formation of </br> ferric "
+"hydroxide,Fe(OH)<sub>3</sub>.  Presence of Group III cation."
+
+#: simcontrols_main.js:311
+msgid ""
+"White precipitate may be due to the formation of</br> aluminium hydroxide,"
+"Al(OH)<sub>3</sub>.Presence of Group III cation"
+msgstr ""
+"White precipitate may be due to the formation of</br> aluminium hydroxide,"
+"Al(OH)<sub>3</sub>.Presence of Group III cation"
+
+#: simcontrols_main.js:311
+msgid ""
+"Black precipitate may be due to the formation of CoS or NiS.</br>Presence of "
+"Group IV cation."
+msgstr ""
+"Black precipitate may be due to the formation of CoS or NiS.</br>Presence of "
+"Group IV cation."
+
+#: simcontrols_main.js:311
+msgid ""
+"Buff coloured precipitate may be due to the formation of MnS.</br>Presence "
+"of Group IV cation."
+msgstr ""
+"Buff coloured precipitate may be due to the formation of MnS.</br>Presence "
+"of Group IV cation."
+
+#: simcontrols_main.js:311
+msgid ""
+"Dull white precipitate may be due to the formation of ZnS.</br>Presence of "
+"Group IV cation."
+msgstr ""
+"Dull white precipitate may be due to the formation of ZnS.</br>Presence of "
+"Group IV cation."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag the dropper towards the test tube to<br>drop Con.HNO3 into the test "
+"tube."
+msgstr ""
+"Drag the dropper towards the test tube to<br>drop Con.HNO3 into the test "
+"tube."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it "
+"in to the test tube."
+msgstr ""
+"Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it "
+"in to the test tube."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag the test tube holder towards<br> the test tube to hold the test "
+"tube<br> with it."
+msgstr ""
+"Drag the test tube holder towards<br> the test tube to hold the test "
+"tube<br> with it."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag the test tube holder towards<br> the beaker to place the test tube "
+"<br>in water to cool the solution."
+msgstr ""
+"Drag the test tube holder towards<br> the beaker to place the test tube "
+"<br>in water to cool the solution."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag the test tube holder to take<br> out the test tube from the beaker."
+msgstr ""
+"Drag the test tube holder to take<br> out the test tube from the beaker."
+
+#: simcontrols_main.js:313
+msgid ""
+"Drag the dropper towards the<br> test tube to drop  NH<sub>4</sub>OH in to "
+"the test tube."
+msgstr ""
+"Drag the dropper towards the<br> test tube to drop  NH<sub>4</sub>OH in to "
+"the test tube."
+
+#: simcontrols_main.js:313
+msgid "Click on the test tube to<br> shake it well."
+msgstr "Click on the test tube to<br> shake it well."
+
+#: simcontrols_main.js:313 simcontrols_main.js:316
+msgid "Click on the inference icon to see the inference."
+msgstr "Click on the inference icon to see the inference."
+
+#: simcontrols_main.js:314
+msgid ""
+"The white precipitate is due to the formation of magnesium</br> ammonium "
+"phosphate,  Mg(NH<sub>4</sub>)PO<sub>4</sub>. Presence of Mg<sup>2+</sup>is "
+"confirmed."
+msgstr ""
+"The white precipitate is due to the formation of magnesium</br> ammonium "
+"phosphate,  Mg(NH<sub>4</sub>)PO<sub>4</sub>. Presence of Mg<sup>2+</sup>is "
+"confirmed."
+
+#: simcontrols_main.js:316
+msgid ""
+"Drag the dropper towards the test tube to drop  NH<sub>4</sub>OH in to the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop  NH<sub>4</sub>OH in to the "
+"test tube."
+
+#: simcontrols_main.js:316
+msgid ""
+"Drag the dropper towards the test tube to drop ammonium "
+"phosphate<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>] solution in to the "
+"test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop ammonium "
+"phosphate<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>] solution in to the "
+"test tube."
+
+#: simcontrols_main.js:316
+msgid ""
+"Drag the glass rod towards the test tube to rub the sides<br>of the test-"
+"tube with it."
+msgstr ""
+"Drag the glass rod towards the test tube to rub the sides<br>of the test-"
+"tube with it."
+
+#: simcontrols_main.js:317
+msgid ""
+"The pink colour is due to the formation of </br>HMnO<sub>4</sub>.Presence of "
+"Mn<sup>2+</sup> is confirmed."
+msgstr ""
+"The pink colour is due to the formation of </br>HMnO<sub>4</sub>.Presence of "
+"Mn<sup>2+</sup> is confirmed."
+
+#: simcontrols_main.js:318
+msgid "Precipitate after <br>Sodium hydroxide-Br<sub>2</sub>test"
+msgstr "Precipitate after <br>Sodium hydroxide-Br<sub>2</sub>test"
+
+#: simcontrols_main.js:319
+msgid ""
+"Drag the dropper towards the test tube to drop<br>Conc. HNO<sub>3</sub> into "
+"the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>Conc. HNO<sub>3</sub> into "
+"the test tube."
+
+#: simcontrols_main.js:319
+msgid ""
+"Drag the dropper towards the test tube to drop<br>lead peroxide solution "
+"into the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to drop<br>lead peroxide solution "
+"into the test tube."
+
+#: simcontrols_main.js:320
+msgid "Conc.HNO<sub>3</sub>"
+msgstr "Conc.HNO<sub>3</sub>"
+
+#: simcontrols_main.js:320
+msgid "Conc.Nitric"
+msgstr "Conc.Nitric"
+
+#: simcontrols_main.js:320
+msgid "acid"
+msgstr "acid"
+
+#: simcontrols_main.js:320
+msgid "Glass Rod"
+msgstr "Glass Rod"
+
+#: simcontrols_main.js:320
+msgid "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+
+#: simcontrols_main.js:320
+msgid "Phosphate"
+msgstr "Phosphate"
+
+#: simcontrols_main.js:320
+msgid "Salt<br>solution"
+msgstr "Salt<br>solution"
+
+#: simcontrols_main.js:321
+msgid "Lead Peroxide"
+msgstr "Lead Peroxide"
+
+#: simcontrols_main.js:323
+msgid ""
+"The precipitate of MnS dissolves in dil. HCl <br>to form MnCl<sub>2</sub> "
+"with the evolution of H<sub>2</sub>S gas"
+msgstr ""
+"The precipitate of MnS dissolves in dil. HCl <br>to form MnCl<sub>2</sub> "
+"with the evolution of H<sub>2</sub>S gas"
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

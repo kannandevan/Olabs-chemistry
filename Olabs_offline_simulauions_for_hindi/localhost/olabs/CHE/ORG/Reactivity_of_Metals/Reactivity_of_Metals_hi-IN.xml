@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+
+
+<SCENE ID="Reactivity_Met_Title">
+	<TEXT ID="Reactivity_Met_Title_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Reactivity_Met_Title_string1">
+	 	<TEXTVALUE>धातु की अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Reactivity_Met_Title_string_2">
+	 	<TEXTVALUE>शुरू </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4_Buttons_Metals">
+	<TEXT ID="4_Buttons_Metals_one">
+	 	<TEXTVALUE>इनमें से एक पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_3">
+	 	<TEXTVALUE>धातु की अभिक्रियाशीलता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_4">
+	 	<TEXTVALUE>जिंक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_5">
+	 	<TEXTVALUE>एल्युमिनियम</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_6">
+	 	<TEXTVALUE>कॉपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_7">
+	 	<TEXTVALUE>आयरन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_8">
+	 	<TEXTVALUE>अभिक्रियात्मक का आदेश</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_9">
+	 	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Zinc_S1">
+	<TEXT ID="Zinc_S1_one">
+	 	<TEXTVALUE>तीन अलग अलग बीकरों में लगभग 20  मिलीलीटर कॉपर सल्फेट, एल्यूमीनियम सल्फेट और फेरस सल्फेट का 1M विलयन (साल्‍यूशन) लें और वाच ग्‍लास में Zn धातु के कुछ टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_two">
+	 	<TEXTVALUE>स्‍पैचुला की मदद से Zn धातु के कुछ टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_three">
+	 	<TEXTVALUE>स्‍पैचुला की मदद से फेरस सल्फेट, एल्यूमीनियम सल्फेट और कॉपर सल्फेट के विलयन (साल्‍यूशन) वाले बीकर में Zn के 2 टुकड़े डालें।</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_four">
+	 	<TEXTVALUE>1 घंटे तक बीकर को न छेडें और के विलयन (साल्‍यूशन) के रंग में और धातु के रंगरूप में होने वाले बदलाव पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_five">
+	 	<TEXTVALUE>CuSO4 का नीला रंग गायब हो जाता है और कॉपर के लाल-भूरे रंग के कण बीकर के पेंदें पर बैठ जाते हैं।</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Zinc_S1_five1">
+		<TEXTVALUE>इससे पता चलता है कि Cu की तुलना में Zn ज्‍यादा अभिक्रियाशील है और यह (ZnSO4) का रंगहीन विलयन (साल्‍यूशन) बनाने के लिए CuSO4 के विलयन (साल्‍यूशन) से Cu को विस्‍थापित कर सकता हैं ।</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_six">
+	 	<TEXTVALUE>ल्यूमीनियम सल्फेट के विलयन (साल्‍यूशन) के मामले में कोई बदलाव नहीं दिखाई देता है। चूंकि Al की तुलना में Zn कम अभिक्रियाशील होती है इसलिए यह Al2(SO4)3 के विलयन (साल्‍यूशन) से Al को नहीं विस्‍थापित कर सकती हैं </TEXTVALUE>
+	</TEXT>
+	
+			<TEXT ID="Zinc_S1_seven">
+	 	<TEXTVALUE>(FeSO4) के विलयन (साल्‍यूशन) के मामले में, फेरस सल्फेट का हरा रंग गायब हो जाता है और आयरन के कण बीकर के पेंदें पर बैठ जाते हैं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_seven1">
+	 	<TEXTVALUE>इस पता चलता है Fe की तुलना में Zn ज्‍यादा अभिक्रियाशील होती है और यह (FeSO4) के विलयन (साल्‍यूशन) से Fe को विस्‍थापित कर सकती है और (ZnSO4) का रंगहीन विलयन (साल्‍यूशन) बनाती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_10">
+	 	<TEXTVALUE>कॉपर सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_11">
+	 	<TEXTVALUE>एल्यूमीनियम सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_12">
+	 	<TEXTVALUE>फेरस सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_13">
+	 	<TEXTVALUE>जिंक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_14">
+	 	<TEXTVALUE>1 घंटा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_15">
+	 	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+		
+	
+	
+<SCENE ID="Copper_S2 ">
+	<TEXT ID="Copper_S2_one">
+	 	<TEXTVALUE>तीन अलग अलग बीकरों में लगभग 20 मिलीलीटर Zn सल्फेट, एल्यूमीनियम सल्फेट और फेरस सल्फेट का विलयन (साल्‍यूशन) और वाच ग्‍लास में कॉपर धातु के कुछ टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_two">
+	 	<TEXTVALUE>स्‍पैचुला की मदद से फेरस सल्फेट, एल्यूमीनियम सल्फेट और Zn सल्फेट के विलयन (साल्‍यूशन) वाले बीकर में कॉपर के 2 टुकड़े डालें।</TEXTVALUE>
+	</TEXT>
+
+	
+	
+
+	<TEXT ID="Copper_S2_three">
+	 	<TEXTVALUE>1 घंटे तक बीकर को न छेड़ें और विलयन (साल्‍यूशन) के रंग और धातु के रंगरूप में होने वाले बदलाव पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_four">
+	 	<TEXTVALUE>तीनों लवणों के विलयन (साल्‍यूशन) के रंग में और साथ ही धातु के टुकड़े के रंगरूप में कोई बदलाव नहीं होता है।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Copper_S2_four1">
+	 	<TEXTVALUE>इस अभिक्रिया से पता चलता है कि Cu तीन अन्य धातुओं Al, Zn और Fe की तुलना में कम अभिक्रियाशील होता है इसलिए यह इन धातुओं को उनके लवणों के विलयन (साल्‍यूशन) से नहीं विस्‍थापित कर सकता हैं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_16">
+	 	<TEXTVALUE>जिंक सल्फेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_17">
+	 	<TEXTVALUE>कॉपर </TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+<SCENE ID="Aluminium_S3">
+	<TEXT ID="Aluminium_S3_one">
+	 	<TEXTVALUE>तीन अलग अलग बीकरों में लगभग 20 मिलीलीटर कॉपर सल्फेट, Zn सल्‍फेट और फेरस सल्फेट का विलयन (साल्‍यूशन)  और वाच ग्‍लास में एल्यूमीनियम धातु के कुछ टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_two">
+	 	<TEXTVALUE>स्‍पैचुला की मदद से फेरस सल्फेट, Zn सल्फेट और कॉपर सल्फेट के विलयन (साल्‍यूशन) वाले बीकर में एल्यूमीनियम के 2 टुकड़े डालें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_three">
+	 	<TEXTVALUE>1 घंटे तक बीकर को न छेड़ें और विलयन (साल्‍यूशन) के रंग और धातु के रंगरूप में होने वाले बदलाव पर ध्यान दें </TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Aluminium_S3_four">
+	 	<TEXTVALUE>CuSO4  के विलयन (साल्‍यूशन) के मामले में, CuSO4 का नीला रंग गायब हो जाता है और Cu के लाल-भूरे रंग के कण बीकर के पेंदें में बैठ जाते हैं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_four1">
+	 	<TEXTVALUE>इससे पता चलता है कि Cu की तुलना में Al ज्‍यादा अभिक्रियाशील होता है और यह CuSO4  के विलयन (साल्‍यूशन) से Cu को विस्‍थापित कर सकता है और Al2(SO4)3 का रंगहीन विलयन (साल्‍यूशन) बनाता हैं।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Aluminium_S3_five">
+	 	<TEXTVALUE>Zn सल्फेट के विलयन (साल्‍यूशन) के मामले में विलयन (साल्‍यूशन) रंगहीन बना रहता है और Zn  के कण बीकर के पेंदें में बैठ जाते हैं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_five1">
+	 	<TEXTVALUE>इससे पता चलता है कि Zn की तुलना में Al ज्‍यादा अभिक्रियाशील होता है और यह ZnSO4  के विलयन (साल्‍यूशन) से Zn को विस्‍थापित कर सकता है और Al2(SO4)3 का रंगहीन विलयन (साल्‍यूशन) बनाता हैं</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="Aluminium_S3_six">
+	 	<TEXTVALUE>आयरन सल्फेट के विलयन (साल्‍यूशन) के मामले में, फेरस सल्फेट का हरा रंग गायब हो जाता है और आयरन के कण बीकर के पेंदें में बैठ जाते हैं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_six1">
+	 	<TEXTVALUE>इससे पता चलता है कि Fe की तुलना में Al ज्‍यादा अभिक्रियाशील हेाता है और यह FeSO4 के विलयन (साल्‍यूशन) से Fe को विस्‍थापित कर सकता है और Al2(SO4)[sub]3 का रंगहीन विलयन (साल्‍यूशन) बनाता हैं</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Aluminium_S3_string_18">
+	 	<TEXTVALUE>एल्युमिनियम</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Iron_S4">
+	<TEXT ID="Iron_S4_one">
+	 	<TEXTVALUE>तीन अलग अलग बीकर में लगभग 20 मिलीलीटर कॉपर सल्‍फेट, Zn सल्फेट और एल्यूमीनियम सल्‍फेट का विलयन (साल्‍यूशन) और वाच ग्‍लास में आयरन धातु के कुछ टुकड़ें लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+<TEXT ID="Iron_S4_two">
+	 	<TEXTVALUE> स्‍पैचुला की मदद से एल्यूमीनियम सल्फेट, Zn सल्फेट और कॉपर सल्फेट के विलयन (साल्‍यूशन) वाले बीकर में आयरन के दो टुकड़ों कों डालें।</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Iron_S4_three">
+	 	<TEXTVALUE>CuSO4 के विलयन (साल्‍यूशन) का नीला रंग हल्के हरे और लाल-भूरे रंग में बदल जाता है Cu के कण बीकर के पेंदें में बैठ जाते हैं।</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_three1">
+	 	<TEXTVALUE>इससे पता चलता है कि Cu की तुलना में Fe ज्‍यादा अभिक्रियाशील होता है और यह CuSO4 के विलयन (साल्‍यूशन) से Cu को विस्‍थापित कर सकता है और FeSO4 का हल्के हरे रंग का विलयन (साल्‍यूशन) बनाता हैं।</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_four">
+	 	<TEXTVALUE>अन्य दो मामलों में कोई बदलाव नहीं होता है। इससे पता चलता है कि यह अन्य दो धातुओं Al और Zn की तुलना में Fe कम अभिक्रियाशील होता है इसलिए यह उनके लवणों के विलयन (साल्‍यूशन) से इन धातुओं को विस्‍थापित कर नहीं विस्‍थापित कर सकता है।</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="Iron_S4_string_19">
+	 	<TEXTVALUE>आयरन</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+	
+
+
+<SCENE ID="MetalFinal">
+	<TEXT ID="MetalFinal_one">
+	 	<TEXTVALUE>न अभिक्रियाओं से हम अनुमान लगा सकते हैं कि  लवणों के विलयन (साल्‍यूशन) से Cu को Fe विस्‍थापित करता है,  Cu और Fe को Zn  विस्‍थापित करता है और Zn को Al विस्‍थापित करता है। अत: Al सबसे ज्‍यादा अभिक्रियाशील और Cu सबसे कम अभिक्रियाशील धातु है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MetalFinal_string_20">
+	 	<TEXTVALUE> दिये गये धातु में अभिक्रियात्मक का आदेश</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_21">
+	 	<TEXTVALUE>अधिक अभिक्रियात्मक</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_22">
+	 	<TEXTVALUE>कम से कम अभिक्रियात्मक</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_23">
+	 	<TEXTVALUE>अभिक्रियात्मक को कम करना में </TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

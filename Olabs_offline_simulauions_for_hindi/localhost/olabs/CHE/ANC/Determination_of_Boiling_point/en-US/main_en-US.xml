@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>Boiling Point of an Organic Compound</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BOILINGPOINTPHENOL">
+        <source>Boiling point of Phenol</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_CAPILLARYTUBE">
+        <source>Capillary tube</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_PHENOL">
+        <source>phenol</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_START">
+        <source>Start
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_STIRRER">
+        <source>Stirrer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_SULPHURICACID">
+        <source>Conc. Sulphuric acid</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_THERMOMETER">
+        <source>Thermometer</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_WARNINGTXT">
+        <source>Perform the reaction in a ventilated hood.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

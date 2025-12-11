@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>കാർബോഹൈഡ്രേറ്റിന്റെ ക്വാണ്ടിറ്റേറ്റീവ് അനാലിസിസ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="start">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>പരീക്ഷണം തുടങ്ങാൻ ആരംഭ ബട്ടൺ ക്ലിക്ക് ചെയുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>ടെസ്റ്റ് തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="btn_solubility">
+	<TEXTVALUE>ലേയത്വം ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_molischs">
+		<TEXTVALUE>മോളിഷ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_fehlings">
+	  <TEXTVALUE>ഫെയ്‌ലിംഗ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	  <TEXT ID="txt_benedicts">
+	<TEXTVALUE>ബനഡിക്ട് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+	  <TEXTVALUE>ടോളന്‍ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_iodine">
+	   <TEXTVALUE>അയോഡിൻ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_observations">
+	   <TEXTVALUE>നിരീക്ഷണങ്ങള്‍</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+	   <TEXTVALUE>കാർബോ ഹൈഡ്രേറ്റ് പരിശോധനകൾ</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_back">
+	   <TEXTVALUE>&lt;&lt; പിന്നോട്ട്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>ലേയത്വം ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ഗ്ലൂക്കോസ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>സുക്രോസ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>അന്നജം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+		<TEXTVALUE>ഒരു സ്പാറ്റുല ഉപയോഗിച്ച്, ചെറിയ അളവില്‍ ഗ്ലൂക്കോസ് എടുത്ത് ഒരു ടെസ്റ്റ്‌ ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പറില്‍ 3 മി.ലി ശുദ്ധജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ഒഴിച്ച് ടെസ്റ്റ് ട്യൂബ് നന്നായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_three">
+		<TEXTVALUE>ഗ്ലൂക്കോസ് പൂർണ്ണമായും വെള്ളത്തിൽ അലിയുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ഗ്ലൂക്കോസ്</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_water">
+		<TEXTVALUE>ശുദ്ധജലം</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_3ml">
+		<TEXTVALUE>3 മി.ലി </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+		<TEXTVALUE>ഒരു സ്പാറ്റുല ഉപയോഗിച്ച്, ചെറിയ അളവില്‍ സുക്രോസ് എടുത്ത് ഒരു ടെസ്റ്റ്‌ ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene5_sub_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പറില്‍ 3 മി.ലി ശുദ്ധജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ഒഴിച്ച് ടെസ്റ്റ് ട്യൂബ് നന്നായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_three">
+		<TEXTVALUE>സുക്രോസ് പൂർണ്ണമായും വെള്ളത്തിൽ അലിയുന്നു.</TEXTVALUE>
+	</TEXT>	
+		
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>സുക്രോസ് </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+		<TEXTVALUE>ഒരു സ്പാറ്റുല ഉപയോഗിച്ച്, ചെറിയ അളവില്‍ അന്നജം എടുത്ത് ഒരു ടെസ്റ്റ്‌ ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പറില്‍ 3 മി.ലി ശുദ്ധജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ ഒഴിച്ച് ടെസ്റ്റ് ട്യൂബ് നന്നായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_three">
+		<TEXTVALUE>അന്നജം വെള്ളത്തിൽ അലിയുകയില്ല.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>അന്നജം</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>മോളിഷ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് മോളിഷ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_one">
+		<TEXTVALUE>ഗ്ലൂക്കോസിന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് മോളിഷ് റീയേജന്റ് ഏകദേശം 6 തുള്ളി ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച്, ഏതാനും തുള്ളി ഗാഢ സള്‍ഫ്യൂറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+     </TEXT>
+	<TEXT ID="Scene8_sub_three">
+	<TEXTVALUE>മിശ്രിതപ്പെടുത്താതെ, ടെസ്റ്റ്‌ ട്യൂബിന്റെ വശങ്ങളിലൂടെ അത് സാവധാനം ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Scene8_sub_four">
+	<TEXTVALUE>രണ്ട് പാളികൾ കൂടി ചേരുന്ന ഭാഗത്ത് (ആസിഡ് പാളിയും ടെസ്റ്റ് പാളിയും) കാർബോ ഹൈഡ്രേറ്റിന്റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്ന ഒരു ചുവന്ന വയലറ്റ് വലയം രൂപപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ഗ്ലൂക്കോസ്(2 ml)</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>മോളിഷ് റീയേജന്റ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sulphuric">
+		<TEXTVALUE>ഗാഢ സള്‍ഫ്യൂറിക് ആസിഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_6drops">
+		<TEXTVALUE>6 തുള്ളി</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് മോളിഷ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_one">
+		<TEXTVALUE>സുക്രോസിന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് മോളിഷ് റീയേജന്റ് ഏകദേശം 6 തുള്ളി ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_two">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഏതാനും തുള്ളി ഗാഢ സള്‍ഫ്യൂറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_three">
+		<TEXTVALUE>മിശ്രിതപ്പെടുത്താതെ ടെസ്റ്റ്‌ ട്യൂബിന്റെ വശങ്ങളിലൂടെ അത് സാവധാനം ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_four">
+		<TEXTVALUE>രണ്ട് പാളികൾ കൂടി ചേരുന്ന ഭാഗത്ത് (ആസിഡ് പാളിയും ടെസ്റ്റ് പാളിയും) കാർബോ ഹൈഡ്രേറ്റിന്റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്ന ഒരു ചുവന്ന വയലറ്റ് വലയം രൂപപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+	<TEXTVALUE>അന്നജം (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് മോളിഷ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_one">
+		<TEXTVALUE>സുക്രോസിന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് മോളിഷ് റീയേജന്റ് ഏകദേശം 6 തുള്ളി ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_two">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഏതാനും തുള്ളി ഗാഢ സള്‍ഫ്യൂറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_three">
+		<TEXTVALUE>മിശ്രിതപ്പെടുത്താതെ ടെസ്റ്റ്‌ ട്യൂബിന്റെ വശങ്ങളിലൂടെ അത് സാവധാനം ചേര്‍ക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_four">
+		<TEXTVALUE>രണ്ട് പാളികൾ കൂടി ചേരുന്ന ഭാഗത്ത് (ആസിഡ് പാളിയും ടെസ്റ്റ് പാളിയും) കാർബോഹൈഡ്രേറ്റിന്റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്ന ഒരു ചുവന്ന വയലറ്റ് വലയം രൂപപ്പെടുന്നു.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>അന്നജം (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>ഫെയ്‌ലിംഗ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ഫെയ്‌ലിംഗ്സ് ലായനി A എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത 2 മി.ലി ഗ്ലൂക്കോസ് ദ്രാവക ലായനിയിൽ അത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_two">
+		<TEXTVALUE>അതിനുശേഷം ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 മി.ലി ഫെയ്‌ലിംഗ്സ് ലായനി B ചേർക്കുക. ലായനി കടുംനീല നിറമായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_three">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_four">
+		<TEXTVALUE>അതിനെ ബോയിലിംഗ് വാട്ടര്‍ ബാത്തില്‍ വച്ച് കുറച്ചുസമയം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_five">
+	<TEXTVALUE>അപചയം സംഭവിക്കുന്ന ഒരു പഞ്ചസാരയാണ് ഗ്ലൂക്കോസ്, അത് ടെസ്റ്റ് റീയേജന്റിലെ Cu(II) അയോണുകളെ ചുവന്ന കോപ്പര്‍ (I) ഓക്സൈഡ് ആയി അപചയിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>ഫെലിംഗ്സ് ലായനി A</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_fehlingsB">
+		<TEXTVALUE>ഫെലിംഗ്സ് ലായനി B</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ഫെലിംഗ്സ് ലായനി A എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_one">
+		<TEXTVALUE>സൂക്രോസിന്റെ 2 ml അക്വസ് ലായനി എടുത്ത ടെസ്റ്റ് ട്യൂബിലേക്ക് ഇത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_two">
+		<TEXTVALUE>ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 ml ഫെലിംഗ്സ് ലായനി B ചേർക്കുക, ലായനി കടുംനീല നിറമായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് ഏതാനും മിനിട്ടുകളോളം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_four">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് ഏതാനും മിനിട്ടുകളോളം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+	
+		<TEXT ID="Scene13_sub_five">
+		<TEXTVALUE>നിറം മാറ്റമില്ലാതെ തുടരുന്നു. ടെസ്റ്റ്‌ നെഗറ്റീവ് ആണ്, സുക്രോസ് ഒരു അപചയം സംഭവിക്കാത്ത പഞ്ചസാരയാണെന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ഫെലിംഗ്സ്  ലായനി A എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത 2 മി.ലി അന്നജത്തിന്റെ സസ്പെന്‍ഷനില്‍ അത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_two">
+		<TEXTVALUE>അതിനുശേഷം ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 മി.ലി ഫെയ്‌ലിംഗ്സ് ലായനി B ചേർക്കുക. ലായനി കടുംനീല നിറമായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene14_sub_three">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene14_sub_four">
+		<TEXTVALUE>അതിനെ ബോയിലിംഗ് വാട്ടര്‍ ബാത്തില്‍ വച്ച് കുറച്ചുസമയം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="Scene14_sub_five">
+		<TEXTVALUE>നിറം മാറ്റമില്ലാതെ തുടരുന്നു. ടെസ്റ്റ്‌ നെഗറ്റീവ് ആണ്, അപചയിക്കുന്ന പഞ്ചസാര അന്നജത്തില്‍ ഇല്ലെന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+
+	</TEXT>	
+	</SCENE>
+	
+	<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കാൻ ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>ബനഡിക്ട് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പറില്‍ ബനഡിക്ട് റീയേജന്റ് 2 മി.ലി എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_one">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത 2 മി.ലി ഗ്ലൂക്കോസ് ദ്രാവക ലായനിയിൽ അത് ചേർക്കുക. ലായനി കടും നീല നിറമായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് ഏതാനും മിനിട്ടുകളോളം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_four">
+		<TEXTVALUE>അപചയം സംഭവിക്കുന്ന ഒരു പഞ്ചസാരയാണ് ഗ്ലൂക്കോസ്, അത് ടെസ്റ്റ് റീയേജന്റിലെ Cu(II) അയോണുകളെ ചുവന്ന കോപ്പര്‍ (I) ഓക്സൈഡ് ആയി അപചയിക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>ബനഡിക്ട് റീയേജന്റ്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+		<TEXTVALUE>ഡ്രോപ്പറിൽ 2 ml ബനഡിക്ട് റീയേജന്റ് എടുക്കുക</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_one">
+		<TEXTVALUE>സൂക്രോസിന്റെ 2 ml അക്വസ് ലായനി എടുത്ത ടെസ്റ്റ് ട്യൂബിലേക്ക് ഇത് ചേർക്കുക, ലായനിയുടെ നിറം നീലയായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് ടെസ്റ്റ് ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് ഏതാനും മിനിട്ടുകളോളം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_four">
+		<TEXTVALUE>നിറം മാറ്റമില്ലാതെ തുടരുന്നു. ടെസ്റ്റ്‌ നെഗറ്റീവ് ആണ്, സുക്രോസ് ഒരു അപചയം സംഭവിക്കാത്ത പഞ്ചസാരയാണെന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+		<TEXTVALUE>ഡ്രോപ്പറിൽ 2 ml ബനഡിക്ട് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_one">
+		<TEXTVALUE>2 ml സ്റ്റാർച്ചിന്റെ സസ്പെൻഷൻ എടുത്ത  ടെസ്റ്റ് ട്യൂബിലേക്ക് ഇത് ചേർക്കുക. ലായനിയുടെ നിറം നീലയായി മാറുന്നു.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് ഏതാനും മിനിട്ടുകളോളം ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_four">
+		<TEXTVALUE>നിറം മാറ്റമില്ലാതെ തുടരുന്നു. ടെസ്റ്റ്‌ നെഗറ്റീവ് ആണ്, സുക്രോസ് ഒരു അപചയം സംഭവിക്കാത്ത പഞ്ചസാരയാണെന്ന് ഇത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കുന്നതിന് ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>ടോളന്‍ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ടോളന്‍സ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_one">
+		<TEXTVALUE>2 മി.ലി ഗ്ലൂക്കോസ് ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് അത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_two">
+		<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ ഉപയോഗിച്ച് റാക്കില്‍ നിന്നും ടെസ്റ്റ് ട്യൂബ് നീക്കം ചെയ്യുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_three">
+		<TEXTVALUE>ഒരു ബോയിലിംഗ് വാട്ടര്‍ ബാത്തില്‍ വച്ച് 10 മിനിറ്റ് നേരം ഇത് ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_four">
+		<TEXTVALUE>അപചയം സംഭവിക്കുന്ന ഒരു പഞ്ചസാരയാണ് ഗ്ലൂക്കോസ്. അത് ടെസ്റ്റ്‌ റീയേജന്റിലെ സില്‍വര്‍ അയോണുകളെ സില്‍വര്‍ ആക്കി അപചയിപ്പിക്കുന്നു. പ്രതിപ്രവര്‍ത്തന പാത്രത്തിന്റെ ഉള്‍വശത്ത് അത് ശേഖരിക്കപ്പെടുന്നു, പാത്രത്തിന്റെ അകത്തെ പ്രതലത്തില്‍ ഒരു വെള്ളി ദര്‍പ്പണം സൃഷ്ടിക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>ടോളന്‍സ് റീയേജന്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_minutes">
+		<TEXTVALUE>10 മിനിറ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ടോളന്‍സ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_one">
+		<TEXTVALUE>2 മി.ലി സുക്രോസ് ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് അത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="Scene21_sub_two">
+		<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോൾഡർ ഉപയോഗിച്ച് ഷെൽഫിൽ നിന്നും ടെസ്റ്റ് ട്യൂബിന്റെ സ്ഥാനം മാറ്റുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ജലബാത്തിൽ വെച്ചിട്ട് 10 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_four">
+		<TEXTVALUE>അപചയിക്കുന്ന കാർബോഹൈഡ്രേറ്റിന്റെ അഭാവം സ്വഭാവവിശേഷതകളില്‍ മാറ്റം വന്നിട്ടില്ലെന്നത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+		</TEXT>	
+		
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene22">
+	<TEXT ID="Scene22_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2 മി.ലി ടോളന്‍സ് റീയേജന്റ് എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_one">
+		<TEXTVALUE>2 മി.ലി അന്നജ സസ്പെൻഷൻ ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് അത് ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_two">
+		<TEXTVALUE>ടെസ്റ്റ് ട്യൂബ് ഹോൾഡർ ഉപയോഗിച്ച് ഷെൽഫിൽ നിന്നും ടെസ്റ്റ് ട്യൂബിന്റെ സ്ഥാനം മാറ്റുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_three">
+		<TEXTVALUE>ഇത് ഒരു ചൂടുള്ള ജലത്തൊട്ടിയിലേക്ക് വെച്ചിട്ട് 10 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_four">
+		<TEXTVALUE>അപചയിക്കുന്ന കാർബോഹൈഡ്രേറ്റിന്റെ അഭാവം  സ്വഭാവവിശേഷതകളില്‍ മാറ്റം വന്നിട്ടില്ലെന്നത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>	
+	    </TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene23">
+	<TEXT ID="Scene23_sub">
+		<TEXTVALUE>സാമ്പിൾ തിരഞ്ഞെടുക്കുന്നതിന് ടാബിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>അയോഡിൻ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene24">
+	<TEXT ID="Scene24_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഏതാനും തുള്ളി അയഡിൻ ലായനി എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_one">
+		<TEXTVALUE>ഗ്ലൂക്കോസിന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 തുള്ളി അയഡിൻ ലായനി ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_two">
+		<TEXTVALUE>അന്നജത്തിന്റെ അഭാവം സ്വഭാവവിശേഷതകളില്‍ മാറ്റം വന്നിട്ടില്ലെന്നത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+		</TEXT>	
+	
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>അയോഡിൻ ലായനി</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene25">
+	<TEXT ID="Scene25_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഏതാനും തുള്ളി അയഡിൻ ലായനി  എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_one">
+		<TEXTVALUE>സുക്രോസിന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 തുള്ളി അയഡിൻ ലായനി ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_two">
+		<TEXTVALUE>അന്നജത്തിന്റെ അഭാവം സ്വഭാവവിശേഷതകളില്‍ മാറ്റം വന്നിട്ടില്ലെന്നത് സൂചിപ്പിക്കുന്നു.</TEXTVALUE>	
+	</TEXT>	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="Scene26_sub">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഏതാനും തുള്ളി അയഡിൻ ലായനി  എടുക്കുക.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene26_sub_one">
+		<TEXTVALUE>അന്നജ സസ്പെന്‍ഷന്റെ 2 മി.ലി ദ്രാവക ലായനി ഉള്‍ക്കൊള്ളുന്ന ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് 2 തുള്ളി അയഡിൻ ലായനി ചേർക്കുക.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+		<TEXTVALUE>ലായനിയുടെ നിറം നീലയായി മാറുന്നു, ഇത് അന്നജത്തിന്റെ സാന്നിദ്ധ്യം സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_sub">
+		<TEXTVALUE>നിരീക്ഷണങ്ങൾ പട്ടികയില്‍ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_test">
+		<TEXTVALUE>ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_purple">
+		<TEXTVALUE>പർപ്പിൾ വലയം</TEXTVALUE>
+	</TEXT>		
+	<TEXT ID="txt_red">
+		<TEXTVALUE>ചുവപ്പ് ഊറല്‍</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_silver">
+		<TEXTVALUE>വെള്ളി ദര്‍പ്പണം</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_negative">
+		<TEXTVALUE>നെഗറ്റീവ്</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_blue">
+		<TEXTVALUE>നീല നിറം</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>ലേയത്വം ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>മോളിഷ് ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>ബനഡിക്ട് ടെസ്റ്റ് </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>ടോളന്‍ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>അയോഡിൻ ടെസ്റ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>

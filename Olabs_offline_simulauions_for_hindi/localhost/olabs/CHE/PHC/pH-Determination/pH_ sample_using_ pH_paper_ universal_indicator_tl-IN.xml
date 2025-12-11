@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>pH పేపర్ స్ట్రిప్, స్టాండర్డ్ pH చార్ట్, డ్రాపర్ మరియు వైట్ టైల్ మనకి కావాలి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>pH పేపర్ స్ట్రిప్ని తీసుకుని వైట్ టైల్ పై ఉంచండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>pH పేపర్ స్ట్రిప్ని తీసుకుని వైట్ టైల్ పై ఉంచండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>pH పేపర్ స్ట్రిప్ని తీసుకుని వైట్ టైల్ పై ఉంచండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>ఎసెటిక్ యాసిడ్ని డ్రాపరుని వాడి కొద్ది మోతాదుని తీసుకోండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>ఎసెటిక్ యాసిడ్ ఒక చుక్కని pH పేపర్పై వేయండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>pH పేపర్ రంగుని గమనింఛండి. pH పేపర్పై రంగు ఎరుపుగా మారుతుంది.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>pH పేపర్తో భిన్నమైన రంగుల షేడ్స్తో స్టాండర్డ్ కలర్  pH  చార్ట్తో పోల్చండి మరియు కలర్ చార్ట్ నుండి pH ని రాసుకోండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>ఎసెటిక్ యాసిడ్,. యూనివర్సల్ ఇండికేటర్, స్టాండర్డ్ కలర్ pH  చార్ట్ డ్రాపర్ మరియు టేస్ట్ ట్యూబ్  కావాలి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>ఎసెటిక్ యాసిడ్ని  డ్రాపరుని వాడి కొద్ది మోతాదుని తీసుకుని టెస్ట్ ట్యూబ్తో వేయండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>ఎసెటిక్ యాసిడ్ని  డ్రాపరుని వాడి కొద్ది మోతాదుని తీసుకుని టెస్ట్ ట్యూబ్తో వేయండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>యూనివర్సల్ ఇండికేటర్ మిశ్రమాన్ని కొద్ది మోతాదులో తీసుకోండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>యూనివర్సల్ ఇండికేటర్ కొద్ది చుక్కలని ఎసెటిక్  యాసిడ్ ఉన్న టెస్ట్ ట్యూబ్లో వేయండి.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>టెస్ట్ ట్యూబ్ని బాగా కుదపండి.  మిశ్రమం రంగు ఎరుపుగా మారుతుంది.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>టెస్ట్ ట్యూబ్ లో స్టాండర్డ్ కలర్  pH  చార్ట్ రంగులతో పోల్చండి మరియు కలర్ చార్ట్ నుండి pH ని రాసుకోండి.  ఎసెటిక్  యాసిడ్ pH 3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

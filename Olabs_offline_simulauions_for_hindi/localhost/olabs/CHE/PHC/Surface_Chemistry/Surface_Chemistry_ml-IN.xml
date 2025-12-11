@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>തയാറാക്കല്‍ പഠിക്കാന്‍ 'ലായിനി' ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophilicsol">
+	<TEXT ID="Lyophilicsol_one">
+		<TEXTVALUE>ലിയോഫിലിക് ലായിനി തയാറാക്കല്‍ പഠിക്കാന്‍ “ലിയോഫിലിക് സോൾ” ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophobicsol">
+	<TEXT ID="Lyophobicsol_one">
+		<TEXTVALUE>കൊളോയ്ഡല്‍ ലായിനികള്‍ തയാറാക്കാന്‍ കൊളോയ്ഡല്‍ ലായിനികള്‍ (അഥവാ സോൾസ്) ക്ലിക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TitleName1">
+	<TEXT ID="TitleName1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>ആവശ്യമായവ: ഇലക്ട്രോണിക് ബാലന്‍സ്, സ്‍റ്റാര്‍ച്ച് പൗഡര്‍, ബട്ടര്‍ പേപ്പര്‍, ഡ്രോപ്പര്‍, ലേപനകത്തി, ഗ്ലാസ് റോഡ്, പെസ്‍ലും മോര്‍ട്ടാറും, സ്വേദിത ജലം, ബീക്കറുകള്‍, വയര്‍ ഗോസ്, ട്രൈപോഡ് സ്റ്റാന്‍റ്, ബുന്‍സന്‍ ബര്‍ണര്‍, ഫണല്‍, ഫില്‍റ്റര്‍ പേപ്പര്‍, കോണിക്കല്‍ ഫ്ലാസ്‍ക്, ഇരുമ്പ് സ്‍റ്റാൻഡും ക്ലാംപും.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Takingstarch">
+	<TEXT ID="Takingstarch_one">
+		<TEXTVALUE>ഇലക്ട്രോണിക് ബാലന്‍സില്‍ 1 ഗ്രാം സ്റ്റാര്‍ച്ച് തൂക്കിയെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Paperstarchinbeaker">
+	<TEXT ID="Paperstarchinbeaker_one">
+		<TEXTVALUE>തൂക്കിയെടുത്ത സ്റ്റാര്‍ച്ച് ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് മോര്‍ട്ടാറിലേക്ക് മാറ്റി ഏതാനും തുള്ളി സ്വേദിത ജലം ചേര്‍ക്കുക. </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Paperstarchinbeaker_two">
+		<TEXTVALUE>സ്‍റ്റാര്‍ച്ച് ഒരു നേര്‍ത്ത പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Paperstarchinbeaker_three">
+		<TEXTVALUE>പേസ്‍റ്റ് ഒരു 50 ml ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2">
+	<TEXT ID="Starchinbeaker2_one">
+		<TEXTVALUE>പേസ്‍റ്റ് ഒരു 50 ml ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtng">
+<TEXT ID="Starchinbeakerandwtrhtng_one">
+		<TEXTVALUE>പേസ്‍റ്റ് ഒരു 50 ml ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Starchinbeakerandwtrhtng_two">
+		<TEXTVALUE>ഒരു 250 ml ബീക്കറില്‍ 100 ml സ്വേദിത ജലം എടുത്ത് ജലം തിളക്കുന്നതുവരെ ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heatingbeakerwater">
+	<TEXT ID="Heatingbeakerwater_one">
+		<TEXTVALUE>ഒരു 250 ml ബീക്കറില് ‍100 ml സ്വേദിത ജലം എടുത്ത് ജലം തിളക്കുന്നതുവരെ ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringstarchsolution">
+	<TEXT ID="Pouringstarchsolution_one">
+		<TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് കൊണ്ട് ഇളക്കിക്കൊണ്ട് പേസ്‍റ്റ് ക്രമേണ തിളയ്ക്കുന്ന ജലത്തിലേക്ക് ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolution_two">
+		<TEXTVALUE>തുടര്‍ന്ന് 10 മിനിറ്റ്‌ തിളപ്പിച്ചശേഷം ബീക്കര്‍ തണുക്കാന്‍ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Funnelstandpaper">
+	<TEXT ID="Funnelstandpaper_one">
+		<TEXTVALUE>ഒരു സ്റ്റാന്‍റിനോട് ഘടിപ്പിച്ച ഫണലില്‍ ഒരു ഫില്‍റ്റര്‍ പേപ്പര്‍ ഉറപ്പിച്ച് ഫണലിനുമുകളില്‍ ഒരു ഗ്ലാസ് റോഡ് വെയ്ക്കുക. </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Funnelstandpaper_two">
+		<TEXTVALUE>ബീക്കറിലെ സാധനം ഫണല്‍ ഉപയോഗിച്ച് അരിച്ച് ഒരു കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ ശേഖരിക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpaper_three">
+		<TEXTVALUE>അരിച്ചെടുത്തതിനെ 'സ്‍റ്റാര്‍ച്ച് ലായിനി' എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Starchsolution11">
+	<TEXT ID="Starchsolution11_one">
+	<!--	<TEXTVALUE>Label the filtrate “Starch Sol”. </TEXTVALUE>-->
+		<TEXTVALUE>സോഡിയം ക്ലോറൈഡ് അടങ്ങിയ സ്‍റ്റാര്‍ച്ച് ലായിനി ഒരു കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="membrane">
+	<TEXT ID="membrane_one">
+		<TEXTVALUE>ഫണല്‍ എടുത്ത് ഒരു ചര്‍മപത്രം ഫണലിന്‍റെ വാലിനടിയില്‍ ഉറപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="membranetofunnel">
+	<TEXT ID="membranetofunnel_one">
+		<TEXTVALUE>ഫണല്‍ എടുത്ത് ഒരു ചര്‍മപത്രം ഫണലിന്‍റെ വാലിനടിയില്‍ ഉറപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="membranetofunnel_two">
+		<TEXTVALUE>ഒരു നൂല്‍ ഉപയോഗിച്ച് ചര്‍മം ഫണലിന്‍റെ വാലില്‍ ബന്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutionbkr">
+	<TEXT ID="Starchsolutionbkr_one">
+		<TEXTVALUE>സ്റ്റാര്‍ച്ച് ലായിനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchsolution2memb">
+	<TEXT ID="Starchsolution2memb_one">
+		<TEXTVALUE>സോഡിയം ക്ലോറൈഡ് അടങ്ങിയ സ്‍റ്റാര്‍ച്ച് ലായിനി ചര്‍മപത്ര സഞ്ചിയുടെ മൂന്നില്‍ രണ്ട് ഭാഗം നിറയും വരെ ഫണലിലൂടെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="memb2wtr">
+	<TEXT ID="memb2wtr_one">
+		<TEXTVALUE>സോഡിയം ക്ലോറൈഡ് അടങ്ങിയ സ്‍റ്റാര്‍ച്ച് ലായിനി ചര്‍മപത്ര സഞ്ചിയുടെ മൂന്നില്‍ രണ്ട് ഭാഗം നിറയും വരെ ഫണലിലൂടെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_two">
+		<TEXTVALUE>ചര്‍മപത്ര സഞ്ചി ഒരു ബീക്കറിലെ സ്വേദിത ജലത്തില്‍ മുക്കുക. ക്ലാംപ് ഉപയോഗിച്ച് ഫണല്‍ സ്ഥാനത്ത് ഉറപ്പിക്കുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_three">
+		<TEXTVALUE>അരമണിക്കൂറോളം സ്‍റ്റാന്‍റ് അനക്കാതെ വെയ്ക്കുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_four">
+		<TEXTVALUE>അരമണിക്കൂറുനു ശേഷം ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ബീക്കറില്‍ നിന്ന് അല്‍പം ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="iodine">
+	<TEXT ID="iodine_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം അയഡിന്‍ ലായനി എടുക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="iodine2tube">
+	<TEXT ID="iodine2tube_one">
+		<TEXTVALUE>ഏതാനും തുള്ളി അയഡിന്‍ ലായനി ജലം അടങ്ങിയ ടെസ്‍റ്റ് ടെസ്റ്റ്ട്യൂബിൽ ചേര്‍ക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="close">
+	<TEXT ID="close_one">
+		<TEXTVALUE>ചര്‍മപത്രത്തിലൂടെ സ്‍റ്റാര്‍ച്ച് വിസരണം ചെയ്യുന്നില്ലെന്ന് ഉറപ്പാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sol2dropper">
+	<TEXT ID="sol2dropper_one">
+		<TEXTVALUE>ബീക്കറില്‍നിന്ന് മറ്റൊരു 1 ml ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2tube">
+	<TEXT ID="sol2tube_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate">
+	<TEXT ID="silvernitrate_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം സില്‍വര്‍ നൈട്രേറ്റ് ലായിനി എടുത്ത് ജലം അടങ്ങിയ ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="drops2testube">
+	<TEXT ID="drops2testube_one">
+	<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു. അതായത് ജലത്തില്‍ സോഡിയം ക്ലോറൈഡ് ഉണ്ട്.  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops2testube_two">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു. അതായത് ജലത്തിൽ സോഡിയം ക്ലോറൈഡ് ഉണ്ട്.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="closeup">
+	<TEXT ID="closeup_one">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു. അതായത് ജലത്തില്‍ സോഡിയം ക്ലോറൈഡ് ഉണ്ട്.  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="closeup_two">
+		<TEXTVALUE>അതായത് സോഡിയം ക്ലോറൈഡ് അയോണുകള്‍ ചര്‍മത്തിലൂടെ വിസരണം ചെയ്യുന്നു. സ്‍റ്റാര്‍ച്ച് ലായനിയില്‍ നിന്ന് സോഡിയം അയോണുകളും ക്ലോറൈഡ് അയോണുകളും വിസരണം ചെയ്യുന്നതിനാല്‍ ക്രമേണ ലായനി ഈ അയോണുകളില്‍ നിന്ന് മുക്തമാകുന്നു. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="memb2secbkr">
+	<TEXT ID="memb2secbkr_one">
+		<TEXTVALUE>ബീക്കറിലെ ജലം മാറ്റി പുതിയ സ്വേദിത ജലം.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2secbkr_two">
+		<TEXTVALUE>10 മിനിറ്റുകള്‍ക്കുശേഷം ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം പരിശോധിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2dropper2">
+	<TEXT ID="sol2dropper2_one">
+		<TEXTVALUE>ബീക്കറില്‍ നിന്ന് ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2testube2">
+	<TEXT ID="sol2testube2_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate2">
+	<TEXT ID="silvernitrate2_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം സില്‍വര്‍ നൈട്രേറ്റ് ലായിനി എടുത്ത് ജലം അടങ്ങിയ ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitrate2tube">
+	<TEXT ID="nitrate2tube_one">
+		<TEXTVALUE>അവക്ഷിപ്തം ഉണ്ടാകുന്നില്ലെങ്കില്‍ അത് ക്ലോറൈഡ് അയോണിന്‍റെ അസാന്നിധ്യം കാണിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result">
+	<TEXT ID="result_one">
+		<TEXTVALUE>ഇത് സൂചിപ്പിക്കുന്നത് ഡയാലിസിസ് പൂര്‍ത്തിയായി എന്നാണ്. അല്ലെങ്കില്‍ ലായിനിയില്‍ ക്ലോറൈഡ് അയോണുകള്‍ ഉണ്ടായിരിക്കുകയും തന്മൂലം ഡയാലിസിസ് തുടരുകയും ചെയ്യേണ്ടിവരും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+		<TEXTVALUE>ആവശ്യമായവ: 1ഗ്രാം ഗം, ഡ്രോപ്പര്‍, ലേപനകത്തി, ഗ്ലാസ് റോഡ്, പെസ്‍ലും മോര്‍ട്ടാറും, സ്വേദിത ജലം, ബീക്കറുകള്‍, വയര്‍ ഗോസ്, ട്രൈപോഡ് സ്റ്റാന്‍റ്, ബുന്‍സന്‍ ബര്‍ണര്‍, ഫണല്‍, ഫില്‍റ്റര്‍ പേപ്പര്‍, കോണിക്കല്‍ ഫ്ലാസ്‍ക്, ഇരുമ്പ് സ്‍റ്റാന്റും ക്ലാംപും.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Paperstarchinbeakergum">
+	<TEXT ID="Paperstarchinbeakergum_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം ജലം ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_two">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം ജലം ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_three">
+		<TEXTVALUE>ഗം ഒരു പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_four">
+		<TEXTVALUE>ഗം ഒരു പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtnggum">
+	<TEXT ID="Starchinbeakerandwtrhtnggum_one">
+		<TEXTVALUE>ഗം ഒരു പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchinbeaker1">
+	<TEXT ID="Starchinbeaker1_one">
+		<TEXTVALUE>ഗം ഒരു പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2gum">
+	<TEXT ID="Starchinbeaker2gum_one">
+		<TEXTVALUE>ഗം ഒരു പേസ്‍റ്റ് ആക്കാന്‍ പെസ്‍ല്‍ ഉപയോഗിച്ച് പൊടിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Starchinbeaker2gum_two">
+		<TEXTVALUE>ഒരു 250 ml ബീക്കറില്‍ 100 ml സ്വേദിത ജലം എടുത്ത് ചൂടാക്കുക.(വെള്ളം തിളപ്പിക്കരുത്. ഇളം ചൂടുമതി. കാരണം ഇളം ചൂടുവെള്ളത്തില്‍ ഗം വേഗം അലിയുന്നു.)</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Heatingbeakerwatergum">
+	<TEXT ID="Heatingbeakerwatergum_one">
+		<TEXTVALUE>ഒരു 250 ml ബീക്കറില്‍ 100 ml സ്വേദിത ജലം എടുത്ത് ചൂടാക്കുക.(വെള്ളം തിളപ്പിക്കരുത്. ഇളം ചൂടുമതി. കാരണം ഇളം ചൂടുവെള്ളത്തില്‍ ഗം വേഗം അലിയുന്നു.)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pouringstarchsolutiongum">
+	<TEXT ID="Pouringstarchsolutiongum_one">
+		<TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് കൊണ്ട് ഇളക്കിക്കൊണ്ട് പേസ്‍റ്റ് ക്രമേണ ഇളം ചൂടുള്ള ജലത്തിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolutiongum_two">
+		<TEXTVALUE> തുടർന്ന് 10 മിനിറ്റ് ചൂടാക്കിയശേഷം ബീക്കര്‍ തണുക്കാന്‍ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Funnelstandpapergum">
+	<TEXT ID="Funnelstandpapergum_one">
+		<TEXTVALUE>ഒരു സ്റ്റാന്‍റിനോട് ഘടിപ്പിച്ച ഫണലില്‍ ഒരു ഫില്‍റ്റര്‍ പേപ്പര്‍ ഉറപ്പിച്ച് ഫണലിനുമുകളില്‍ ഒരു ഗ്ലാസ് റോഡ് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpapergum_two">
+		<TEXTVALUE>ബീക്കറിലെ സാധനം ഫണലിലൂടെ ഗ്ലാസ് റോഡ് ഉപയോഗിച്ച് അരിച്ച് ഒരു കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ ശേഖരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutiongum">
+	<TEXT ID="Starchsolutiongum_one">
+		<TEXTVALUE>അരിച്ചുകിട്ടിയത് 'ഗം ലായിനി' എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Title">
+	<TEXT ID="Title_01_one">
+		<TEXTVALUE>ഒരു മുട്ട, ബീക്കറുകള്‍, ഗ്ലാസ് റോഡ്, 5% NaCl ലായിനി, ഫില്‍റ്റര്‍ പേപ്പര്‍, ഫണല്‍, കോണിക്കല്‍ ഫ്ലാസ്‍ക്, ഇരുമ്പ് സ്‍റ്റാന്‍റും ക്ലാംപും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Takingegg">
+	<TEXT ID="Takingegg_one">
+		<TEXTVALUE>മുട്ട എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Takingegg_two">
+		<TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് ഉപയോഗിച്ച് മുട്ട പൊട്ടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Eggbrocken">
+	<TEXT ID="Eggbrocken_one">
+		<TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് ഉപയോഗിച്ച് മുട്ട പൊട്ടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringEggalbumin">
+	<TEXT ID="PouringEggalbumin_one">
+		<TEXTVALUE>നിറമില്ലാത്ത ആല്‍ബുമിനും മഞ്ഞക്കരുവും ഒരു ബീക്കറില്‍ ശേഖരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringalbuminbeaker">
+	<TEXT ID="Pouringalbuminbeaker_one">
+		<TEXTVALUE>നിറമില്ലാത്ത ദ്രാവകം (മുട്ട ആല്‍ബുമിന്‍) ഒരു ബീക്കറിലേക്ക് ഊറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PouringalbuminWater">
+	<TEXT ID="PouringalbuminWater_one">
+		<TEXTVALUE>മുട്ട ആല്‍ബുമിന്‍ 5% NaCl ലായനി അടങ്ങിയ ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringalbuminWaterzoom">
+	<TEXT ID="PouringalbuminWaterzoom_one">
+		<TEXTVALUE>മുട്ട ആല്‍ബുമിന്‍ 5% NaCl ലായനി അടങ്ങിയ ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="PouringalbuminWaterzoom_two">
+		<TEXTVALUE>15-20 മിനിറ്റ് അത് തുടര്‍ച്ചയായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="FunnelstandpaperAlbumin">
+	<TEXT ID="FunnelstandpaperAlbumin_one">
+		<TEXTVALUE>ഒരു സ്റ്റാന്‍റിനോട് ഘടിപ്പിച്ച ഫണലില്‍ ഒരു ഫില്‍റ്റര്‍ പേപ്പര്‍ ഉറപ്പിച്ച് ഫണലിനുമുകളില്‍ ഒരു ഗ്ലാസ് റോഡ് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunnelstandpaperAlbumin_two">
+		<TEXTVALUE>ബീക്കറിലെ സാധനം ഫണലിലൂടെ ഗ്ലാസ് റോഡ് ഉപയോഗിച്ച് അരിച്ച് ഒരു കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ ശേഖരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Albuminsolution1">
+	<TEXT ID="Albuminsolution1_one">
+		<TEXTVALUE>അരിച്ചുകിട്ടിയത് 'മുട്ട ആല്‍ബുമിന്‍ ലായിനി' എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title1a">
+	<TEXT ID="title1a_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introd007">
+	<TEXT ID="introd007_one">
+	 	<TEXTVALUE>ആവശ്യമായവ: 2% അലൂമിനിയം ക്ലോറൈഡ് ലായിനി, സില്‍വര്‍ നൈട്രേറ്റ് ലായിനി, ഡ്രോപ്പര്‍, ഗ്ലാസ് റോഡ്, സ്വേദിത ജലം, ബീക്കറുകള്‍, വയര്‍ ഗോസ്, ട്രൈപോഡ് സ്റ്റാന്‍റ്, ബുന്‍സന്‍ ബര്‍ണര്‍, ഫണല്‍, ഫില്‍റ്റര്‍ പേപ്പര്‍, കോണിക്കല്‍ ഫ്ലാസ്‍ക്, ചര്‍മപത്രം, ഇരുമ്പ് സ്‍റ്റാന്‍റും ക്ലാംപും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamingOutProcess">
+	<TEXT ID="SteamingOutProcess_one">
+		<TEXTVALUE>250 ml കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുത്ത് സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamClose">
+	<TEXT ID="SteamClose_one">
+		<TEXTVALUE>250 ml കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുത്ത് സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MeasuringJar">
+	<TEXT ID="MeasuringJar_one">
+		<TEXTVALUE>ശുചിയായ ഫ്ലാസ്ക്കില്‍ 100 ml സ്വേദിത ജലം എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heating">
+	<TEXT ID="Heating_one">
+		<TEXTVALUE>ജലം ഉള്ള കോണിക്കല്‍ ഫ്ലാസ്‍ക് ബന്‍സന്‍ ബര്‍ണറില്‍ തിളയ്ക്കുന്നവരെ ചൂടാക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="UsingDropper">
+	<TEXT ID="UsingDropper_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 2% അലൂമിനിയം ക്ലോറൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Evaporate">
+	<TEXT ID="Evaporate_one">
+		<TEXTVALUE>അലൂമിനിയം ക്ലോറൈഡ് ലായനി തുള്ളി തുള്ളിയായി തിളച്ച ജലത്തില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Evaporate_two">
+		<TEXTVALUE>അലൂമിനിയം ഹൈഡ്രോക്സൈഡിന്‍റെ ജലാറ്റിന്‍ രൂപത്തിലുള്ള ലായനി രൂപപ്പെടുംവരെ തിളപ്പിക്കല്‍ തുടരുക.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Evaporate_three">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="ferrricsolution">
+	<TEXT ID="ferrricsolution_one">
+		<TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്‍ക്കിലെ സാധനം മുറിയുടെ താപനിലയില്‍ കുറച്ചുനേരം അനക്കാതെ വെയ്ക്കുക. ലായിനിയെ “അലൂമിനിയം ഹൈഡ്രോക്സൈഡ് ലായനി” എന്ന് ലേബല്‍ ചെയ്യുക.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembrane">
+	<TEXT ID="Alumembrane_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembranetofunnel">
+	<TEXT ID="Alumembranetofunnel_one">
+		<TEXTVALUE>ഒരു ഫണല്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Alumembranetofunnel_two">
+		<TEXTVALUE>ഒരു ചര്‍മപത്രം ഫണലില്‍ ഉറപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alhydroxidesolution">
+	<TEXT ID="alhydroxidesolution_one">
+		<TEXTVALUE>അലൂമിനിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചര്‍മപത്ര സഞ്ചിയുടെ മൂന്നില്‍ രണ്ട് ഭാഗം നിറയും വരെ ഫണലിലൂടെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutiontomembrane">
+	<TEXT ID="solutiontomembrane_one">
+		<TEXTVALUE>അലൂമിനിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചര്‍മപത്ര സഞ്ചിയുടെ മൂന്നില്‍ രണ്ട് ഭാഗം നിറയും വരെ ഫണലിലൂടെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipintowater">
+	<TEXT ID="dipintowater_one">
+		<TEXTVALUE>ലായനി അടങ്ങിയ ചര്‍മസഞ്ചിയോടു കൂടിയ ഫണല്‍ സ്റ്റാന്‍റില്‍ ഉറപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_two">
+		<TEXTVALUE>ചര്‍മപത്ര സഞ്ചി ഒരു ബീക്കറിലെ സ്വേദിത ജലത്തില്‍ മുക്കുക. ക്ലാംപ് ഉപയോഗിച്ച് ഫണല്‍ സ്ഥാനത്ത് ഉറപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_three">
+		<TEXTVALUE>ചര്‍മപത്ര സഞ്ചി ഒരു ബീക്കറിലെ സ്വേദിത ജലത്തില്‍ മുക്കുക. ക്ലാംപ് ഉപയോഗിച്ച് ഫണല്‍ സ്ഥാനത്ത് ഉറപ്പിക്കുക.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_four">
+		<TEXTVALUE>അരമണിക്കൂറുനു ശേഷം ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ബീക്കറില്‍ നിന്ന് അല്‍പം ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="totesttubestand">
+	<TEXT ID="totesttubestand_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sivernitrate">
+	<TEXT ID="sivernitrate_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം സില്‍വര്‍ നൈട്രേറ്റ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitate">
+	<TEXT ID="whiteprecipitate_one">
+		<TEXTVALUE>ഏതാനും തുള്ളി സില്‍വര്‍ നൈട്രേറ്റ് ലായനി ജലം അടങ്ങിയ ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whiteprecipitate_two">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു. അതായത് ജലത്തില്‍ സോഡിയം ക്ലോറൈഡ് ഉണ്ട്.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alucloseup">
+	<TEXT ID="Alucloseup_one">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു. അതായത് ജലത്തില്‍ സോഡിയം ക്ലോറൈഡ് ഉണ്ട്.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondbeaker">
+	<TEXT ID="secondbeaker_one">
+		<TEXTVALUE>ബീക്കറിലെ ജലം മാറ്റി പുതിയ സ്വേദിത ജലം നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondbeaker_two">
+		<TEXTVALUE>10 മിനിറ്റ് സ്‍റ്റാന്‍റ് അനങ്ങാതെ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Frombeaker">
+	<TEXT ID="Frombeaker_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttubetransfer">
+	<TEXT ID="totesttubetransfer_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromsivenitrate">
+	<TEXT ID="fromsivenitrate_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitatesolution">
+	<TEXT ID="whiteprecipitatesolution_one">
+		<TEXTVALUE>വെളുത്ത അവക്ഷിപ്തം രൂപപ്പെട്ടാല്‍ ഡയാലിസിസ് തുടരണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateclose">
+	<TEXT ID="whiteprecipitateclose_one">
+		<TEXTVALUE>അവക്ഷിപ്തം രൂപപ്പെടുന്നില്ലെങ്കില്‍ ക്ലോറൈഡ് അയോണ്‍ ഇല്ലെന്നര്‍ത്ഥം. അതായത് ഡയാലിസിസ് പൂര്‍ത്തിയായി. അല്ലെങ്കില്‍ ലായിനിയില്‍ ക്ലോറൈഡ് അയോണ്‍ ഉണ്ട്. അതിനാല്‍ ഡയാലിസിസ് തുടരണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>2% ഫെറിക് ക്ലോറൈഡ് ലായിനി ആവശ്യം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="FerricSteamingOutProcess">
+	<TEXT ID="FerricSteamingOutProcess_one">
+		<TEXTVALUE>250 ml കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുത്ത് സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricSteamClose">
+	<TEXT ID="FerricSteamClose_one">
+		<TEXTVALUE>250 ml കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുത്ത് സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FerricMeasuringJar">
+	<TEXT ID="FerricMeasuringJar_one">
+		<TEXTVALUE>ശുചിയാക്കിയ കോണികൽ ഫ്ലാസ്ക്കിലേക്ക് 100 ml സ്വേദിത ജലം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricHeating">
+	<TEXT ID="FerricHeating_one">
+		<TEXTVALUE>ജലം ഉള്ള കോണിക്കല്‍ ഫ്ലാസ്‍ക് ബന്‍സന്‍ ബര്‍ണറില്‍ തിളയ്ക്കുന്നവരെ ചൂടാക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricUsingDropper">
+	<TEXT ID="FerricUsingDropper_one">
+		<TEXTVALUE>ഒരു ഫണലിന്‍റെ വാലില്‍ ഒരു ചര്‍മപത്രം ഘടിപ്പിക്കുക.അത് ഒരു നൂലുകൊണ്ട് ബന്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricEvaporate">
+	<TEXT ID="FerricEvaporate_one">
+		<TEXTVALUE>ഫെറിക് ക്ലോറൈഡ് ലായനി തുള്ളി തുള്ളിയായി തിളച്ച ജലത്തില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_two">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_three">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="ferrricsolution1">
+	<TEXT ID="ferrricsolution1_one">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ferrricsolution1_two">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembrane">
+	<TEXT ID="Ferricmembrane_one">
+		<TEXTVALUE>ഒരു ഫണല്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembranetofunnel">
+	<TEXT ID="Ferricmembranetofunnel_one">
+		<TEXTVALUE>ഒരു ഫണലിന്‍റെ വാലില്‍ ഒരു ചര്‍മപത്രം ഘടിപ്പിക്കുക.അത് ഒരു നൂലുകൊണ്ട് ബന്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrichydroxidesolution">
+	<TEXT ID="ferrrichydroxidesolution_one">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsolutiontomembrane">
+	<TEXT ID="Ferricsolutiontomembrane_one">
+		<TEXTVALUE>ഫെറിക്ക് ഹൈഡ്രോക്സൈഡ് ലായനി ചര്‍മപത്ര സഞ്ചിയുടെ മൂന്നില്‍ രണ്ട് ഭാഗം നിറയും വരെ ഫണലിലൂടെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricdipintowater">
+	<TEXT ID="Ferricdipintowater_one">
+		<TEXTVALUE>ലായനി അടങ്ങിയ ചര്‍മസഞ്ചിയോടുകൂടിയ ഫണല്‍ സ്റ്റാന്‍റില്‍ ഉറപ്പിക്കുക. സഞ്ചി ഒരു ബീക്കറിലെ സ്വേദിത ജലത്തില്‍ മുക്കുക. ഒരു ക്ലാംപ് ഉപയോഗിച്ച് സ്റ്റാന്‍റ് സ്ഥാനത്ത് ഉറപ്പിക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricdipintowater_two">
+		<TEXTVALUE>അരമണിക്കൂറുനു ശേഷം ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ബീക്കറില്‍ നിന്ന് അല്‍പം ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsivernitrate">
+	<TEXT ID="Ferricsivernitrate_one">
+		<TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം സില്‍വര്‍ നൈട്രേറ്റ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricwhiteprecipitate">
+	<TEXT ID="Ferricwhiteprecipitate_one">
+		<TEXTVALUE>അത് ജലം അടങ്ങിയ ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricwhiteprecipitate_two">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferriccloseup">
+	<TEXT ID="Ferriccloseup_one">
+		<TEXTVALUE>ഉടന്‍ AgCl ന്‍റെ ഒരു വെളുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നത് ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondsolution">
+	<TEXT ID="secondsolution_one">
+		<TEXTVALUE>ബീക്കറിലെ ജലം മാറ്റി പുതിയ സ്വേദിത ജലം നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondsolution_two">
+		<TEXTVALUE>10 മിനിറ്റ് സ്‍റ്റാന്‍റ് അനങ്ങാതെ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferrictotesttubetransfer">
+	<TEXT ID="Ferrictotesttubetransfer_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="fromsivernitrate">
+	<TEXT ID="fromsivernitrate_one">
+		<TEXTVALUE>ക്ലോറൈഡ് അയോണിന്‍റെ സാന്നിധ്യം അറിയാന്‍ പരീക്ഷണം ആവര്‍ത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whteprecipitatetube">
+	<TEXT ID="whteprecipitatetube_one">
+		<TEXTVALUE>വെളുത്ത അവക്ഷിപ്തം രൂപപ്പെട്ടാല്‍ ഡയാലിസിസ് തുടരണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateresult">
+	<TEXT ID="whiteprecipitateresult_one">
+		<TEXTVALUE>വെളുത്ത അവക്ഷിപ്തം രൂപപ്പെട്ടാല്‍ ഡയാലിസിസ് തുടരണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1Arsetitle">
+	<TEXT ID="1Arsetitle_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2Arseintro">
+	<TEXT ID="2Arseintro_one">
+		<TEXTVALUE>ആവശ്യമായവ: സോഡിയം ആര്‍സെനസ് ഓക്സൈഡ്, ഹൈഡ്രജന്‍ സള്‍ഫൈഡ് വാതകം, ഡ്രോപ്പര്‍, സ്വേദിത ജലം, കോണിക്കല്‍ ഫ്ലാസ്‍ക്, ബീക്കറുകള്‍, ആര്‍ ബി ഫ്ലാസ്‍ക്, വയര്‍ ഗോസ്, ട്രൈപോഡ് സ്റ്റാന്‍റ്, ബുന്‍സന്‍ ബര്‍ണര്‍, കിപ്സ്‍ ഉപകരണം, ഇരുമ്പ് സ്‍റ്റാന്‍റും ക്ലാംപും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Arsetakeconicalflask">
+	<TEXT ID="3Arsetakeconicalflask_one">
+		<TEXTVALUE>ഒരു 250 ml കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4Arsesteamingoutprocess">
+	<TEXT ID="4Arsesteamingoutprocess_one">
+		<TEXTVALUE>സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Arsesteamingzoom">
+	<TEXT ID="5Arsesteamingzoom_one">
+		<TEXTVALUE>സ്റ്റീമിംഗ്- ഔട്ട് രീതിയിലൂടെ അത് ശുചിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Arsesteamingback">
+	<TEXT ID="6Arsesteamingback_one">
+		<TEXTVALUE>ശുചിയായ കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7Arsetakeconicalflaskback">
+	<TEXT ID="7Arsetakeconicalflaskback_one">
+		<TEXTVALUE>ശുചിയായ കോണിക്കല്‍ ഫ്ലാസ്‍ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8Arsetaktake">
+	<TEXT ID="8Arsetaktake_one">
+		<TEXTVALUE>ശുചിയായ കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ 0.2 ആര്‍സെനസ് ഓക്സൈഡ് ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+<SCENE ID="9Arsetakeconicalflask3">
+	<TEXT ID="9Arsetakeconicalflask3_one">
+		<TEXTVALUE>ശുചിയായ കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ 0.2 ആര്‍സെനസ് ഓക്സൈഡ് ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10Arsetakeconwater">
+	<TEXT ID="10Arsetakeconwater_one">
+		<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 100 ml സ്വേദിത ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11Arsetakeconwater2">
+	<TEXT ID="11Arsetakeconwater2_one">
+		<TEXTVALUE>ഇത് ആര്‍സെനസ് ഓക്സൈഡ് ഉള്ള കോണിക്കല്‍ ഫ്ലാസ്‍ക്കില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12Arsetakeconwater3">
+	<TEXT ID="12Arsetakeconwater3_one">
+		<TEXTVALUE>ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13Arsesteamingflame">
+	<TEXT ID="13Arsesteamingflame_one">
+		<TEXTVALUE>ഫ്ലാസ്‍ക് ബുന്‍സന്‍ ബര്‍ണറില്‍ ഇളക്കിക്കൊണ്ട് 10 മിനിറ്റ് തിളപ്പിക്കുക. ആര്‍സെനസ് ഓക്സൈഡ് തിളക്കുന്ന വെള്ളവുമായി ചേര്‍ന്ന് ഹൈഡ്രോളിസിസിന് വിധേയമാകുകയും ആര്‍സെനസ് അമ്ലം രൂപം കൊള്ളുകയും ചെയ്യുന്നു.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14Arsesteamingflam6">
+	<TEXT ID="14Arsesteamingflam6_one">
+		<TEXTVALUE>ഫ്ലാസ്‍ക് ബുന്‍സന്‍ ബര്‍ണറില്‍ ഇളക്കിക്കൊണ്ട് 10 മിനിറ്റ് തിളപ്പിക്കുക. ആര്‍സെനസ് ഓക്സൈഡ് തിളക്കുന്ന വെള്ളവുമായി ചേര്‍ന്ന് ഹൈഡ്രോളിസിസിന് വിധേയമാകുകയും ആര്‍സെനസ് അമ്ലം രൂപം കൊള്ളുകയും ചെയ്യുന്നു.   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15glassrod">
+	<TEXT ID="15glassrod_one">
+		<TEXTVALUE>ചുരുട്ടിയ ഫില്‍ട്ടര്‍ പേപ്പര്‍ ഫണലില്‍ ഉറപ്പിച്ച് ഫണലിനു മുകളില്‍ ഒരു ഗ്ലാസ് റോഡ് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15glassrod_two">
+		<TEXTVALUE>ചുരുട്ടിയ ഫില്‍ട്ടര്‍ പേപ്പര്‍ ഫണലില്‍ ഉറപ്പിച്ച് ഫണലിനു മുകളില്‍ ഒരു ഗ്ലാസ് റോഡ് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16glassrozoom">
+	<TEXT ID="16glassrozoom_one">
+		<TEXTVALUE>ഫ്ലാസ്‍ക്കിലെ ചൂടുള്ള ലായനി ഫില്‍ട്ടര്‍ പേപ്പറിലൂടെ അരിച്ചെടുത്ത് മറ്റൊരു ബീക്കറില്‍ ശേഖരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17takebeaker">
+	<TEXT ID="17takebeaker_one">
+		<TEXTVALUE>ആര്‍സെനസ് അമ്ല ലായനിയിലൂടെ ഹൈഡ്രജന്‍ സള്‍ഫൈഡ് വാതകം പതുക്കെ പ്രവഹിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takebeaker_two">
+		<TEXTVALUE>ആര്‍സനെസ് അമ്ലം ഹൈഡ്രജന്‍ സള്‍ഫൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് മഞ്ഞ നിറത്തിലുള്ള ആര്‍സെനസ് സള്‍ഫൈഡ് ഉണ്ടാകുന്നു. മഞ്ഞ നിറം തുടര്‍ന്ന് കൂടുതലാകാത്തതുവരെ ഹൈഡ്രജന്‍ സള്‍ഫൈഡ് പ്രവഹിപ്പിക്കുന്നത് തുടരുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17A">
+	<TEXT ID="17A_one">
+		<!--<TEXTVALUE>Pass a slow current of H[sub]2[/sub]S into As[sub]2[/sub]O[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>ലായനിയിലെ അധിക ഹൈഡ്രജന്‍ സള്‍ഫൈഡ് വാതകം പുറത്തുകളയാന്‍ ലായനി ചൂടാക്കുക. പുറത്തുപോകുന്ന വാതകം ലെഡ് അസറ്റേറ്റ് പേപ്പറിനെ കറുപ്പ് ആക്കി മാറ്റാത്തതു വരെ ചൂടാക്കല്‍ തുടരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_two">
+		<!--<TEXTVALUE>The solution develops a yellow color due to the formation of As[sub]2[/sub]S[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>ലായനിയിലെ അധിക ഹൈഡ്രജന്‍ സള്‍ഫൈഡ് വാതകം പുറത്തുകളയാന്‍ ലായനി ചൂടാക്കുക. പുറത്തുപോകുന്ന വാതകം ലെഡ് അസറ്റേറ്റ് പേപ്പറിനെ കറുപ്പ് ആക്കി മാറ്റാത്തതു വരെ ചൂടാക്കല്‍ തുടരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_three">
+		<TEXTVALUE></TEXTVALUE>		
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18glassrozoom3">
+	<TEXT ID="18glassrozoom3_one">
+		<TEXTVALUE>ഫില്‍റ്റര്‍ പേപ്പറിലൂടെ ലായനി അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20glassrozoom4">
+	<TEXT ID="20glassrozoom4_one">
+		<TEXTVALUE>അരിച്ചെടുത്ത കടുത്ത മഞ്ഞ നിറമുള്ള ദ്രാവകം ജലാംശമില്ലാത്ത കോണിക്കല്‍ ഫ്ലാസ്‍ക്കിലാക്കി കോര്‍ക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="20glassrozoom4_two">
+		<TEXTVALUE>അതിനെ 'ആര്‍സെനസ് സള്‍ഫൈഡ് ലായനി' എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

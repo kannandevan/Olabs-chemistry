@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="Scene 72">
+	<TEXT ID="Scene 72_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>Preparation of standard solution of sodium carbonate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>We require  250ml standard flask, 250ml conical flask, solid sodium carbonate, hydrochloric acid (HCl), methyl orange, weighing bottle, electronic balance, funnel, glass rod, burette, 20ml pipette etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+		<TEXTVALUE>Take a weighing bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+		<TEXTVALUE>Place it on an electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+		<TEXTVALUE>Tare the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5sodiam">
+	<TEXT ID="5sodiam_one">
+		<TEXTVALUE>Take a small amount of sodium carbonate using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+		<TEXTVALUE>Transfer the sodium carbonate into the weighing bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+		<TEXTVALUE>Weigh about 2.65g of sodium carbonate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+		<TEXTVALUE>Remove the weighing bottle from the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+		<TEXTVALUE>Carefully transfer theweighed quantity of sodium carbonate  into a 250ml beaker.Wash the weighing bottle with distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11pour">
+	<TEXT ID="11pour_one">
+		<TEXTVALUE>Pour the washings into the beaker (Repeat this process 2 0r 3 times.). Gently stir the contents in the beaker using a clean glass rod till the sodium carbonate gets dissolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12sta">
+	<TEXT ID="12sta_one">
+		<TEXTVALUE>Transfer the entire solution from the beaker into a 250ml standard flask using a funnel and a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13tk">
+	<TEXT ID="13tk_one">
+		<TEXTVALUE>Transfer the entire solution from the beaker into a 250ml standard flask using a funnel and a glass rod.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13tk_two">
+		<TEXTVALUE>Wash the beaker 2 to 3 times with distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="141">
+	<TEXT ID="141_one">
+		<TEXTVALUE>Transfer the washings into the standard flask and wash the glass rod as well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16botil">
+	<TEXT ID="16botil_one">
+		<TEXTVALUE>Finally wash the funnel and funnel tip thoroughly with distilled water to transfer the solution sticking in the funnel to the standard flask. Using the wash bottle, carefully add distilled water to the standard flask to just below its calibration mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17face">
+	<TEXT ID="17face_one">
+		<TEXTVALUE>Using a clean pipette,Pipette out a small volume of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="18zoom">
+	<TEXT ID="18zoom_one">
+		<TEXTVALUE>Take the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19finger">
+	<TEXT ID="19finger_one">
+		<TEXTVALUE>Take the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20tak1">
+	<TEXT ID="20tak1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22out">
+	<TEXT ID="22out_one">
+		<TEXTVALUE>Add last few drops of distilled water using the pipette until the lower level of the meniscus just touches the mark on the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23zoom">
+	<TEXT ID="23zoom_one">
+		<TEXTVALUE>Add last few drops of distilled water using the pipette until the lower level of the meniscus just touches the mark on the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="24corck">
+	<TEXT ID="24corck_one">
+		<TEXTVALUE>Stopper the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26rot2">
+	<TEXT ID="26rot2_one">
+		<TEXTVALUE>Shake gently to make the sodium carbonate solution uniform throughout.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla1">
+	<TEXT ID="38fla1_one">
+		<TEXTVALUE>The molarity of the prepared sodium carbonate solution is 0.1 M (0.1 molar).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2 intro">
+	<TEXT ID="Scene2 intro_one">
+		<TEXTVALUE>Determination of strength of given hydrochloric acid using standard sodium carbonate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="27stand">
+	<TEXT ID="27stand_one">
+		<TEXTVALUE>Fix a clean burette to a burette stand and place a funnel over the mouth of the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl">
+	<TEXT ID="28hcl_one">
+		<TEXTVALUE>Take the bottle containing hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="29stad2">
+	<TEXT ID="29stad2_one">
+		<TEXTVALUE>Pour a small amount of hydrochloric acid  into the burette through the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30bak">
+	<TEXT ID="30bak_one">
+		<TEXTVALUE>Remove the funnel and take the burette from the stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="31burot">
+	<TEXT ID="31burot_one">
+		<TEXTVALUE>Rinse the burette with hydrochloric acid to remove any moisture inside the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32zoom">
+	<TEXT ID="32zoom_one">
+		<TEXTVALUE>Rinse the burette with hydrochloric acid to remove any moisture inside the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="33wash">
+	<TEXT ID="33wash_one">
+		<TEXTVALUE>Take the burette to the sink and open the stop-cock to drain out the washings from the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34bak1">
+	<TEXT ID="34bak1_one">
+		<TEXTVALUE>Clamp the burette vertically in the burette stand and place the funnel over the mouth of the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl copy">
+	<TEXT ID="28hcl copy_one">
+		<TEXTVALUE>Then take hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29stad2 copy">
+	<TEXT ID="29stad2 copy_one">
+		<TEXTVALUE>Fill the burette with HCl just above the zero mark using the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37full">
+	<TEXT ID="37full_one">
+		<TEXTVALUE>Fill the burette with hydrochloric acid just above the zero mark using the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="371fl copy">
+	<TEXT ID="371fl copy_one">
+		<TEXTVALUE>Place a beaker below the burette and slowly open the stop cock so that hydrochloric acid is allowed to run out into the beaker and set the initial burette reading as zero.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36stad21 copy">
+	<TEXT ID="36stad21 copy_one">
+		<TEXTVALUE>Place a beaker below the burette and slowly open the stop cock so that hydrochloric acid is allowed to run out into the beaker and set the initial burette reading as zero.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl copy copy">
+	<TEXT ID="53fl copy copy_one">
+		<TEXTVALUE>Place a beaker below the burette and slowly open the stop cock so that hydrochloric acid is allowed to run out into the beaker and set the initial burette reading as zero.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla">
+	<TEXT ID="38fla_one">
+		<TEXTVALUE>Take a clean 20ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17face copy">
+	<TEXT ID="17face copy_one">
+		<TEXTVALUE>Pipette out a small volume of sodium carbonate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40faz">
+	<TEXT ID="40faz_one">
+		<TEXTVALUE>Pipette out a small volume of sodium carbonate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="410zoom5">
+	<TEXT ID="410zoom5_one">
+		<TEXTVALUE>Then rinse the pipette with sodium carbonate solution to remove any moisture inside the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42washpip">
+	<TEXT ID="42washpip_one">
+		<TEXTVALUE>notext.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla">
+	<TEXT ID="43fla_one">
+		<TEXTVALUE>Now pipette out the sodium carbonate solution from the standard flask until the solution level is just above the calibration mark on the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla copy">
+	<TEXT ID="43fla copy_one">
+		<TEXTVALUE>Now pipette out the sodium carbonate solution from the standard flask until the solution level is just above the calibration mark on the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="40faz copy">
+	<TEXT ID="40faz copy_one">
+		<TEXTVALUE>Now pipette out the sodium carbonate solution from the standard flask until the solution level is just above the calibration mark on the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23">
+	<TEXT ID="46faz23_one">
+		<TEXTVALUE>Close the open end of the pipette with index finger. Slowly release the finger so that the solution is allowed to run slowly until the lower edge of the meniscus just touches the calibration mark. The volume of the solution should become 20 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23 copy">
+	<TEXT ID="46faz23 copy_one">
+		<TEXTVALUE>Now transfer the 20ml sodium carbonate solution into a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="47faz23zo">
+	<TEXT ID="47faz23zo_one">
+		<TEXTVALUE>Touch the tip of the pipette with the bottom of the conical flask to transfer the remaining solution from the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49org">
+	<TEXT ID="49org_one">
+		<TEXTVALUE>Take a small quantity of methyl orange indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="49org1">
+	<TEXT ID="49org1_one">
+		<TEXTVALUE>Add two drops of methyl orange indicator into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50org1">
+	<TEXT ID="50org1_one">
+		<TEXTVALUE>The colour of the solution in the conical flask becomes yellow.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52full1">
+	<TEXT ID="52full_one">
+		<TEXTVALUE>Place the conical flask on a white tile under the burette to correctly view the colour change.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl">
+	<TEXT ID="53fl_one">
+		<TEXTVALUE>Run the solution drop wise from the burette into the conical flask with constant shaking of the solution in the conical flask till the colour of the solution changes from yellow to light red on addition of last single drop of HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54viu">
+	<TEXT ID="54viu_one">
+		<TEXTVALUE>Note down the final burette reading and repeat the same procedure until concordant values are obtained.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart">
+	<TEXT ID="chart_one">
+		<TEXTVALUE>Record the observations on a tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart1">
+	<TEXT ID="chart1_one">
+		<TEXTVALUE>Record  the volume of sodium carbonate solution, molarity of sodium carbonate solution and volume of hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart1_two">
+		<TEXTVALUE>The number of moles of the reactants used in the reaction can be obtained from the balanced chemical equation.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+</SCENE>
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_one">
+		<TEXTVALUE>Molarity of the given hydrochloric acid can be calculated using the Molarity Equation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_two">
+		<TEXTVALUE>The strength of the given hydrochloric can be determined by multiplying the molarity of hydrochloric acid with the molar mass of hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>

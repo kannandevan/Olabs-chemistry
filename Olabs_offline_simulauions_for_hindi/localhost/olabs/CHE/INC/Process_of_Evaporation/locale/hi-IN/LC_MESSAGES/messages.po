@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2014-05-15 12:21+0530\n"
+"PO-Revision-Date: 2016-01-21 11:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Drag and drop the<br>beaker containing<br>50mL  of water towards<br>the China dish"
+msgstr "50mL पानी वाला<br>बीकर खींचकर छोड़ें<br>चाइना डिश की ओर"
+
+msgid "Drag and drop the China dish<br>containing 50mL  of water<br>onto the tripod stand"
+msgstr "50mL पानी वाली<br>चाइना डिश खींचकर छोड़ें<br>ट्राइपॉड स्टैंड पर"
+
+msgid "Click the burner knob<br>to turn on the flame"
+msgstr "आग जलाने के लिए<br>बर्नर का नॉब क्लिक करें"
+
+msgid "Click on Inference<br>icon to see the inference<br>message"
+msgstr "निष्कर्ष संदेश देखने के लिए<br>निष्कर्ष आइकन पर क्लिक करें"
+
+msgid "Click on the<br>Next button"
+msgstr "नेक्स्ट बटन पर क्लिक करें"
+
+msgid "Click on the cap to<br>open the Spirit bottle"
+msgstr "स्पिरिट बोतल खोलने के लिए<br>ढक्कन पर क्लिक करें"
+
+msgid "Drag and drop the<br>bottle towards the<br>China dish"
+msgstr "बोतल को खींचकर छोड़ें<br>चाइना डिश की ओर"
+
+msgid "Drag and drop the China dish<br>onto the Tripod Stand"
+msgstr "चाइना डिश खींचकर छोड़ें<br>ट्राइपॉड स्टैंड पर"
+
+msgid " Click on Inference button<br>to see the inference message"
+msgstr "निष्कर्ष संदेश देखने के लिए<br>निष्कर्ष बटन पर क्लिक करें"
+
+msgid "Click on Reset button<br>to redo the experiment"
+msgstr "प्रयोग दोबारा करने के लिए<br>रीसेट बटन पर क्लिक करें"
+
+msgid "Click on the<br>Next button<br>to see the discussion"
+msgstr "चर्चा देखने के लिए<br>नेक्स्ट बटन पर क्लिक करें"
+
+msgid "Be careful while handling burner"
+msgstr "बर्नर का उपयोग करते समय सावधानी बरतें।"
+
+msgid "The liquid phase changes to gaseous phase, as water evaporates on heating. The molecules move and vibrate so quickly that they escape into the atmosphere as molecules of water vapour."
+msgstr "जब पानी को गर्म किया जाता है, तो तरल अवस्था गैसीय अवस्था में बदल जाती है। अणु इतनी तेजी से गति करते हैं और कंपन करते हैं कि वे जल वाष्प के रूप में वायुमंडल में उड़ जाते हैं।"
+
+msgid "At all temperatures, including room temperature, all liquids undergo evaporation. Nevertheless, the evaporation of liquids with higher boiling points occurs at a significantly slower pace and may not be readily observable. Conversely, liquids with lower boiling points experience rapid evaporation."
+msgstr "सभी तापमानों पर, जिसमें कक्ष तापमान भी शामिल है, सभी द्रव वाष्पीकरण से गुजरते हैं। फिर भी, उच्च क्वथनांक वाले द्रवों का वाष्पीकरण काफी धीमी गति से होता है और आसानी से देखा नहीं जा सकता। इसके विपरीत, निम्न क्वथनांक वाले द्रवों का वाष्पीकरण तेज़ी से होता है।"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "Spirit is a volatile liquid and has a lower boiling point when compared to water. Hence, spirit evaporates faster than water at room temperature."
+msgstr "स्पिरिट एक अस्थिर द्रव है और पानी की तुलना में इसका क्वथनांक कम होता है। इसलिए, स्पिरिट कमरे के तापमान पर पानी की अपेक्षा तेज़ी से वाष्पित होती है।"
+
+msgid "The liquid phase changes to gaseous phase, as water evaporates on heating. The molecules move and vibrate so quickly that they escape into the atmosphere as molecules of water vapour."
+msgstr "जब पानी को गरम किया जाता है तो द्रव अवस्था गैसीय अवस्था में बदल जाती है। अणु इतनी तेज़ी से गति और कंपन करते हैं कि वे वायुमंडल में जलवाष्प के अणुओं के रूप में निकल जाते हैं।"
+
+msgid "infe_1"
+msgstr "जब पानी को गरम किया जाता है तो द्रव अवस्था गैसीय अवस्था में बदल <br>जाती है। अणु इतनी तेज़ी से गति और कंपन करते हैं कि वे वायुमंडल <br>में जलवाष्प के अणुओं के रूप में निकल जाते हैं।"
+
+msgid "infe_2"
+msgstr "स्पिरिट एक अस्थिर द्रव है और पानी की तुलना में इसका क्वथनांक कम होता है। इसलिए, स्पिरिट कमरे के तापमान पर पानी की अपेक्षा तेज़ी से वाष्पित होती है।"
+
+msgid "Process of Evaporation"
+msgstr "वाष्पीकरण की प्रक्रिया"

@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2014-02-18 18:46+0530\n"
+"PO-Revision-Date: 2015-12-14 16:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:41
+msgid "Select the test"
+msgstr "परीक्षण का चयन करें"
+
+#: simcontrols.js:41
+#, fuzzy
+msgid "Solubility </br>&nbsp;in water"
+msgstr " &nbsp; &nbsp;जल में  </br> घुलनशीलता"
+
+#: simcontrols.js:41
+msgid "Odour"
+msgstr "&nbsp;&nbsp;गंध"
+
+#: simcontrols.js:41
+#, fuzzy
+msgid "Effect on </br> &nbsp;&nbsp;litmus"
+msgstr " लिटमस<br/> पर प्रभाव"
+
+#: simcontrols.js:41
+msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+msgstr "&nbsp; NaHCO<sub>3</sub> साथ <br /> &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbspरिएक्शन"
+
+#: simcontrols.js:41
+msgid "Acetic acid"
+msgstr "एसिटिक अम्ल"
+
+#: simcontrols.js:41
+msgid "Litmus paper"
+msgstr "लिट्मस पेपर"
+
+#: simcontrols.js:41
+msgid "Water"
+msgstr "पानी"
+
+#: simcontrols.js:41
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:41
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "आईटी विभाग से अनुसंधान अनुदान के तहत सीडैक <br> मुंबई और अमृता विश्वविद्यालय द्वारा विकसित"
+
+#: simcontrols.js:41
+msgid "Properties of Acetic Acid (Ethanoic Acid)"
+msgstr "एसिटिक एसिड (एथानोइक एसिड) के गुणधर्म "
+
+#: simcontrols.js:41
+msgid "NaHCO<sub>3</sub> solution"
+msgstr "NaHCO<sub>3</sub> समाधान"
+
+#: simcontrols.js:41
+msgid "Lime water"
+msgstr "चूने का पानी"
+
+#: simcontrols.js:43
+msgid "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+msgstr "पानी वाले टेस्ट ट्यूब <br/> में एसिटिक अम्‍ल (एसिड) डालने के लिए टेस्ट ट्यूब खींचें।"
+
+#: simcontrols.js:43
+msgid "Click on the test tube to shake it."
+msgstr "इसे हिलाने के लिए टेस्ट ट्यूब पर क्लिक करें।"
+
+#: simcontrols.js:43
+msgid ""
+"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution "
+"over<br/> the litmus paper."
+msgstr ""
+"ड्रॉपर खींचें और एसिटिक अम्ल (एसिड) में डुबोएं <br/>, तब विलयन (साल्यूशन) खींचें और <br/> लिटमस पेपर पर छोड़ दें  "
+"।"
+
+#: simcontrols.js:43
+msgid ""
+"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+msgstr "एसिटिक अम्ल (एसिड) डालने के लिए थीस्ल कीप<br/> के ऊपर शंक्वाकार फ्लास्क  खींचें।"
+
+#: simcontrols.js:45
+msgid "A homogeneous solution is formed."
+msgstr "एक समांग विलयन बन जाता है।"
+
+#: simcontrols.js:45
+msgid "A pungent smell is produced."
+msgstr "एक तीखी गंध निकलती है।"
+
+#: simcontrols.js:45
+msgid "Blue litmus turns red."
+msgstr "नीला लिटमस लाल हो जाता है।"
+
+#: simcontrols.js:45
+msgid ""
+"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime "
+"water milky."
+msgstr ""
+"एसिटिक अम्‍ल (एसिड) सोडियम बाइकार्बोनेट <br/> के साथ अभिक्रिया करता है जिससे CO<sub>2</sub> गैस बनती है। "
+"यह चूने के पानी को दूधिया बना देता है।"
+
+#: simcontrols.js:48
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:49
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:50
+msgid "EXIT"
+msgstr "EXIT"
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "थीस्ल कीप में एसिटिक एसिड डालना कुप्पी खींचें."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "आप एक चिड़चिड़ी तीखी गंध मिलता है."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "एसिटिक एसिड लेने के लिए ड्रॉपर खींचें."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "लिटमस पेपर पर ड्रॉप करने के लिए फिर से ड्रॉपर खींचें."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."

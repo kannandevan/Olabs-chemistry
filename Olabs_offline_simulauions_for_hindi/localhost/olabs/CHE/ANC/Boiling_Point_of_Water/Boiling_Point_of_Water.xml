@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1title">
+	<TEXT ID="1title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2intro">
+	<TEXT ID="2intro_one">
+		<TEXTVALUE>We require distilled water, boiling tube, beakers, thermometer, a spatula, pumice stone, a stand with clamp, and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3tube">
+	<TEXT ID="3tube_one">
+		<TEXTVALUE>Take about 25 ml of distilled water in a boiling tube and clamp it to the stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4sptulla">
+	<TEXT ID="4sptulla_one">
+		<TEXTVALUE>Take a few pumice stones using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5put">
+	<TEXT ID="5put_one">
+		<TEXTVALUE>Put them into the boiling tube containing distilled water to avoid bumping while boiling.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_two">
+		<TEXTVALUE>Cork the boiling tube with a double bored cork.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_three">
+		<TEXTVALUE>Insert a thermometer through one bore of the cork. Keep the bulb of the thermometer about 3-5 cm from the surface of the water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin">
+	<TEXT ID="6lin_one">
+		<TEXTVALUE>Take a delivery tube and insert one end of the delivery tube through the second bore of the cork and insert the other end of the delivery tube into a beaker.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6lin_two">
+		<TEXTVALUE>Take a Bunsen burner and heat the boiling tube gently by rotating the flame.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin2">
+	<TEXT ID="6lin2_one">
+		<TEXTVALUE>Note the temperature t1 when the boiling of water starts.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7zoom">
+	<TEXT ID="7zoom_one">
+		<TEXTVALUE>Note the temperature t1 when the boiling of water starts.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8drop">
+	<TEXT ID="8drop_one">
+		<TEXTVALUE>On boiling, water is converted into steam which passes through the delivery tube, is condensed and gets collected in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="9lin2">
+	<TEXT ID="9lin2_one">
+		<TEXTVALUE>Continue to heat the water till the temperature becomes constant.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10zoom2">
+	<TEXT ID="10zoom2_one">
+		<TEXTVALUE>The water continues to boil. Note the constant temperature (t2).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="11chart">
+	<TEXT ID="11chart_one">
+		<TEXTVALUE>The average of the two temperatures gives the boiling point of water. The boiling point of water is 100°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+	
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

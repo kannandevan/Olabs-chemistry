@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_head_1">
+		<TEXTVALUE>आम्ल आणि अल्क पदार्थांची वैशिष्ट्ये</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_strt1_1">
+		<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>आम्ल आणि अल्क पदार्थांची वैशिष्ट्ये</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_1">
+		<TEXTVALUE>आम्ल आणि अल्क पदार्थांची वैशिष्ट्ये</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_22">
+		<TEXTVALUE>लिटमस द्रावण(निळे/लाल)</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_zic_11">
+		<TEXTVALUE>झिंक धातू</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title2_sod1_2">
+		<TEXTVALUE>स्थायू सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="title3">
+	<TEXT ID="title3_one">
+		<TEXTVALUE>ह्यांच्यापैकी एक क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_titl_22">
+		<TEXTVALUE>लिटमस द्रावण(निळे/लाल)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_a11_1">
+		<TEXTVALUE>आम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_b11_1">
+		<TEXTVALUE>अल्क</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_bak11_1">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="title004">
+	<TEXT ID="title004_one">
+		<TEXTVALUE>ह्यांच्यापैकी एक क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_zinc_11">
+		<TEXTVALUE>झिंक धातू</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa_11">
+		<TEXTVALUE>आम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa__22">
+		<TEXTVALUE>अल्क</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_bak_12">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+   
+</SCENE>
+<SCENE ID="title005">
+	<TEXT ID="title005_one">
+		<TEXTVALUE>ह्यांच्यापैकी एक क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_11">
+		<TEXTVALUE>स्थायू सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_21">
+		<TEXTVALUE>आम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_12">
+		<TEXTVALUE>अल्क</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_bb_13">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळी धारकात ठेवलेल्या दोन परिक्षा नळ्या, लाल आणि निळे लिटमस द्रावण, हक्ल द्रावण, ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_11">
+		<TEXTVALUE>लाल लिटमस 
+	द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_22">
+		<TEXTVALUE>निळे लिटमस 
+	द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	<SCENE ID="2zoomsol">
+	<TEXT ID="2zoomsol_one">
+		<TEXTVALUE>Tआधी लाल लिटमस द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+		
+		<SCENE ID="3testtubil">
+	<TEXT ID="3testtubil_one">
+		<TEXTVALUE>लाल लिटमस द्रावण एका परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+			<SCENE ID="4redback">
+	<TEXT ID="4redback_one">
+		<TEXTVALUE>बाटली बंद करा.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+			<SCENE ID="5blue">
+	<TEXT ID="5blue_one">
+		<TEXTVALUE>निळे लिटमस द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+	<SCENE ID="6bluflo">
+	<TEXT ID="6bluflo_one">
+		<TEXTVALUE>निळे लिटमस द्रावण दुसर्‍या परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="7bluebak">
+	<TEXT ID="7bluebak_one">
+		<TEXTVALUE>बाटली बंद करा.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="8hcl">
+	<TEXT ID="8hcl_one">
+		<TEXTVALUE>ड्रॉपर वापरून HCl द्रावणाचे काही थेंब त्याच्या बाटलीतून घ्या.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		<SCENE ID="9addto1">
+	<TEXT ID="9addto1_one">
+		<TEXTVALUE>ह्याला लाल लिटमस द्रावणात टाका.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+<SCENE ID="9azoom">
+	<TEXT ID="9azoom_one">
+		<TEXTVALUE>द्रावणाचे रंग बदलत नाही.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	<SCENE ID="10hcl2">
+	<TEXT ID="10hcl2_one">
+		<TEXTVALUE>ड्रॉपर वापरून अजून HCl द्रावणाचे काही थेंब घ्या.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+<SCENE ID="11addto2">
+	<TEXT ID="11addto2_one">
+		<TEXTVALUE>ह्याला निळे लिटमस द्रावण असलेल्या परिक्षा नळीत टाका आणि बदलेल्या रंगाचे निरीक्षण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12change">
+	<TEXT ID="12change_one">
+		<TEXTVALUE>द्रावणाचे रंग निळ्याचे लाल होते. HCl एक आम्ल आहे आणि त्याचे पीएच मूल्य ७ पेक्षा कमी आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12change_ac_23">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="14intro">
+	<TEXT ID="14intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळी धारकात ठेवलेल्या दोन परिक्षा नळ्या, लाल आणि निळे लिटमस द्रावण, NaOH द्रावण, ड्रॉपर</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="15zoomso">
+	<TEXT ID="15zoomso_one">
+		<TEXTVALUE>आधी लाल लिटमस द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="16testtubil">
+	<TEXT ID="16testtubil_one">
+		<TEXTVALUE>लाल लिटमस द्रावण एका परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="17redback">
+	<TEXT ID="17redback_one">
+		<TEXTVALUE>बाटली बंद करा.</TEXTVALUE>
+	</TEXT>
+		 
+</SCENE>
+<SCENE ID="18blue">
+	<TEXT ID="18blue_one">
+		<TEXTVALUE>निळे लिटमस द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="19bluflo">
+	<TEXT ID="19bluflo_one">
+		<TEXTVALUE>निळे लिटमस द्रावण दुसर्‍या परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="20bluebak">
+	<TEXT ID="20bluebak_one">
+		<TEXTVALUE>बाटली बंद करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="21NAOH">
+	<TEXT ID="21NAOH_one">
+		<TEXTVALUE>ड्रॉपर वापरून NaOH  द्रावणाचे काही थेंब त्याच्या बाटलीतून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22addt0">
+	<TEXT ID="22addt0_one">
+		<TEXTVALUE>ह्याला लाल लिटमस द्रावण असलेल्या परिक्षा नळीत टाका आणि बदलेल्या रंगाचे निरीक्षण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change1">
+	<TEXT ID="25change1_one">
+		<TEXTVALUE>द्रावणाचे रंग लालचे निळे होते. NaOH एक अल्क आहे आणि त्याचे पीएच मूल्य ७ पेक्षा अधिक आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="23NAOH">
+	<TEXT ID="23NAOH_one">
+		<TEXTVALUE>ड्रॉपर वापरून NaOH  द्रावणाचे अजून काही थेंब त्याच्या बाटलीतून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="24addto2">
+	<TEXT ID="24addto2_one">
+		<TEXTVALUE>ह्याला निळे लिटमस द्रावण असलेल्या परिक्षा नळीत टाका </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change">
+	<TEXT ID="25change_one">
+		<TEXTVALUE>द्रावणाचा रंग बदलत नाही.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="25change_bah_11">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1intro2">
+	<TEXT ID="1intro2_one">
+		<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळी, काचेच्या ताटलीत थोडे झिंक धातू, स्पाट्युला, HCl द्रावण, ड्रॉपर, स्टँड आणि क्लांप, एक भोक असलेले बूच, जेट नळी, बन्सेन बर्नर, काडेपेटी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro2_zn_11">
+		<TEXTVALUE>झिंक धातू,</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3takezinc">
+	<TEXT ID="3takezinc_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे झिंक धातू परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4hcl1">
+	<TEXT ID="4hcl1_one">
+		<TEXTVALUE>ड्रॉपर वापरून HCl द्रावणाचे काही थेंब त्याच्या बाटलीतून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow">
+	<TEXT ID="5flow_one">
+		<TEXTVALUE>झिंक धातू असलेल्या परिक्षा नळीत ते टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand">
+	<TEXT ID="6stand_one">
+		<TEXTVALUE>परिक्षा नळी स्टँडला लावा आणि त्याला बूच लावा. जेट नळी बूचातून नळीत टाका. आता परिक्षा नळी बन्सेन बर्नरवर ठेवा आणि गरम करा. गरम केल्यानंतर हायड्रोजन वायू निर्माण होते.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_h2_2">
+		<TEXTVALUE>H2 वायू</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_fjt_11">
+		<TEXTVALUE>जेट नळी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="7teepati">
+	<TEXT ID="7teepati_one">
+		<TEXTVALUE>काडेपेटी घ्या आणि एक काडी पेटवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8zoomstand">
+	<TEXT ID="8zoomstand_one">
+		<TEXTVALUE>पेटलेली काडी जेट नळीच्या तोंडाशी आणा. परिक्षा नळीतून येणारी हायड्रोजन वायू पेट घेते. मग एक छोटासा स्फोट होतो आणि एक पॉप आवाज येतो आणि ज्योत विझते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bcd_01">
+		<TEXTVALUE>हायड्रोजन वायू</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bv_11">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="1intro02">
+	<TEXT ID="1intro02_one">
+		<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळी, काचेच्या ताटलीत थोडे झिंक धातू, स्पाट्युला, NaOH द्रावण, ड्रॉपर, स्टँड आणि क्लांप, एक भोक असलेले बूच, जेट नळी, बन्सेन बर्नर, काडेपेटी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takezinc1">
+	<TEXT ID="3takezinc1_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे झिंक धातू परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4naoh">
+	<TEXT ID="4naoh_one">
+		<TEXTVALUE>ड्रॉपर वापरून NaOH  द्रावणाचे अजून काही थेंब त्याच्या बाटलीतून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow1">
+	<TEXT ID="5flow1_one">
+		<TEXTVALUE>झिंक धातू असलेल्या परिक्षा नळीत ते टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand1">
+	<TEXT ID="6stand1_one">
+		<TEXTVALUE>परिक्षा नळी स्टँडला लावा आणि त्याला बूच लावा. जेट नळी बूचातून नळीत टाका. आता परिक्षा नळी बन्सेन बर्नरवर ठेवा आणि गरम करा. गरम केल्यानंतर हायड्रोजन वायू निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="7teepat1">
+	<TEXT ID="7teepat1_one">
+		<TEXTVALUE>काडेपेटी घ्या आणि एक काडी पेटवा.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="8zoomstand11">
+	<TEXT ID="8zoomstand11_one">
+		<TEXTVALUE>पेटलेली काडी जेट नळीच्या तोंडाशी आणा. परिक्षा नळीतून येणारी हायड्रोजन वायू पेट घेते. मग एक छोटासा स्फोट होतो आणि एक पॉप आवाज येतो आणि ज्योत विझते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand11_bb_44">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro03">
+	<TEXT ID="1intro03_one">
+		<TEXTVALUE>आवश्यक सामग्री: सपाट बूड असलेले चंबू, स्टँड, लांब दांडी असलेले नरसाळे, संबंधन काचेची नळी, चंचुपात्रात ऊर्ध्वपतित पाणी, ग्लास मध्ये सोडियम कार्बोनेट, दोन भोके असलेले बूच, स्पाट्युला, HCl द्रावण, ड्रॉपर, चंचुपात्रात चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="2placeit">
+	<TEXT ID="2placeit_one">
+		<TEXTVALUE>क्लांप स्टँड वर चंबू ठेवा आणि त्याची मान क्लांप करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium">
+	<TEXT ID="3takesodium_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम बायकार्बोनेट घ्या. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_soda_11">
+		<TEXTVALUE>सोडियम 
+	कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_limewat_1">
+		<TEXTVALUE>चुन्याची 
+	निवळी</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="3takesodium_dw_11">
+		<TEXTVALUE>चुन्याची 
+	निवळी</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="4putit">
+	<TEXT ID="4putit_one">
+		<TEXTVALUE>हे चंबूत टाका</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="5dist">
+	<TEXT ID="5dist_one">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी असलेले चंचुपात्र घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6flo">
+	<TEXT ID="6flo_one">
+		<TEXTVALUE>थोडेसे चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7corck">
+	<TEXT ID="7corck_one">
+		<TEXTVALUE>चंबुला बूच लावा आणि बूचाच्या एका भोकातून लांब दांडीचे नरसाळे टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7corck_tf_11">
+		<TEXTVALUE>लांब दांडीचे नरसाळे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="8lime">
+	<TEXT ID="8lime_one">
+		<TEXTVALUE>चुन्याची निवळी असलेले चंचुपात्र घ्या.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="8lime_lw_12">
+		<TEXTVALUE>चुन्याची निवळी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="9corck2">
+	<TEXT ID="9corck2_one">
+		<TEXTVALUE>काळजीपूर्वक संबंधन नळीचे एक टोक बूचाच्या भोकातून चंबूत टाका, आणि खात्री करा की नळी चंबूतल्या द्रावणाला स्पर्श करीत नाही. नळीचे दुसरे टोक चुन्याची निवळी असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9corck2_dt_1">
+		<TEXTVALUE>वितरण नळीचे </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="81HCL">
+	<TEXT ID="81HCL_one">
+		<TEXTVALUE>HCl द्रावण असलेले चंचुपात्र घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11zoom">
+	<TEXT ID="11zoom_one">
+		<TEXTVALUE>थोडेसे नरसाळ्यातून चंबूत टाका. एक वायू निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom2">
+	<TEXT ID="11zoom2_one">
+		<TEXTVALUE>तुम्हाला लक्षात येईल की चुन्याची निवळी दुधासारखी झाली आहे.  निर्माण झालेली CO2 वायू चुन्याच्या निवळीला दुधासारखी बनविते.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11zoom2_bbaa_11">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1intro04">
+	<TEXT ID="1intro04_one">
+		<TEXTVALUE>आवश्यक सामग्री: परिक्षा नळी धारक, परिक्षा नळी, काचेच्या ताटलीत थोडे सोडियम कार्बोनेट, स्पाट्युला, NaOH द्रावण आणि फिनोल्फथेलीन द्रावण.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro04_pleem_11">
+		<TEXTVALUE>फिनोल्फथेलीन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="tube">
+	<TEXT ID="tube_one">
+		<TEXTVALUE>परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium3">
+	<TEXT ID="3takesodium3_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम बायकार्बोनेट घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit2">
+	<TEXT ID="4putit2_one">
+		<TEXTVALUE>ते परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8naoch">
+	<TEXT ID="8naoch_one">
+		<TEXTVALUE>NaOH द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom6">
+	<TEXT ID="11zoom6_one">
+		<TEXTVALUE>थोडेसे परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+
+<SCENE ID="11zoom61">
+	<TEXT ID="11zoom61_one">
+		<TEXTVALUE>परिक्षा नळी नीट हलवा</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>ड्रॉपर वापरून फिनोल्फथेलीन द्रावणाचे काही थेंब त्याच्या बाटलीतून घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colour">
+	<TEXT ID="colour_one">
+		<TEXTVALUE>काही थेंब परिक्षा नळीत टाका आणि बदलेल्या रंगाचे निरीक्षण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colou2">
+	<TEXT ID="colou2_one">
+		<TEXTVALUE>द्रावणाचा रंग गुलाबी होतो. Na2CO3 आणि NaOH दोन्ही अल्कधर्मी आहेत, त्यामुळे त्यांची अभिक्रिया होत नाही, त्यांचे अल्कधर्मी द्रावण निर्माण होते. फिनोल्फथेलीन अल्कधर्मी माध्यमात गुलाबी रंग निर्माण करते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="colou2_last_b1">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE> 
+</DATA>

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>സോഡിയം തിയോസള്ഫേ‍റ്റ്, ഹൈഡ്രോക്ളോിറിക് ആസിഡ്
+		 എന്നിവ തമ്മിലുള്ള പ്രതിപ്രവര്ത്തഫനത്തിന്റെ കൈനെറ്റിക്സ് പഠനം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>തുടങ്ങുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1table">
+	<TEXT ID="sodium_10">
+	 	<TEXTVALUE>0.1M സോഡിയം തിയോസൽഫേറ്റു 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodium_20">
+	 	<TEXTVALUE>0.1M സോഡിയം തിയോസൽഫേറ്റു 20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodium_30">
+	 	<TEXTVALUE>0.1M സോഡിയം തിയോസൽഫേറ്റു 30ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodium_40">
+	 	<TEXTVALUE>0.1M സോഡിയം തിയോസൽഫേറ്റു 40ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodium_50">
+	 	<TEXTVALUE>0.1M സോഡിയം തിയോസൽഫേറ്റു 50ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="water">
+	 	<TEXTVALUE>സ്വേദിത ജലം
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="hcl">
+	 	<TEXTVALUE>1M HCl</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_one">
+	<TEXTVALUE>ആവശ്യമായവ: 0.1 M Na₂S₂O₃ ലായിനി, 1 M HCl, A, B, C, D, E എന്ന് ലേബല്‍ ചെയ്ത അഞ്ച് 250 മി.ലി. കോണിക്കല്‍ ഫ്ളാ₂സ്ക്കു കള്‍, അളവ് ജാര്‍, മധ്യത്തില്‍ ക്രോസ് അടയാളമുള്ള വെളുത്ത ടൈല്‍, സ്റ്റോപ് വാച്ച് </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1table2">
+	<TEXT ID="1table2_one">
+	<TEXTVALUE>A, B, C, D, E എന്ന് ലേബല്‍ ചെയ്ത അഞ്ച് കോണിക്കല്‍ ഫ്ളാകസ്ക്കു കളില്‍ 10, 20, 30, 40, 50 മി.ലി. വീതം0.1 M സോഡിയം തിയോസള്ഫേകറ്റ് ലായിനി എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2takecylinder">
+	<TEXT ID="2takecylinder_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 40മി.ലി. സ്വേദിത ജലം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3pourconical">
+	<TEXT ID="3pourconical_one">
+	<TEXTVALUE>അത് കോണിക്കല്‍ ഫ്ളാ4സ്ക്ോ A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="4chart">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>ഫ്ലാസ്ക്
+  നമ്പര്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE>0.1 M Na₂S₂O₃ 
+			ലായിനിയുടേ അളവ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>ജലത്തിന്റെ 
+			അളവ്(മി.ലി.)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h4">
+		<TEXTVALUE>ലായിനിയുടേ
+		 മൊത്തം അളവ്(മി.ലി.) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h5">
+		<TEXTVALUE>Na₂S₂O₃ ലായിനിയുടെ
+		 ഗാഢത0</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h6">
+		<TEXTVALUE>1M HCl ലായിനിയുടേ
+		 അളവ്(മി.ലി.)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h7">
+		<TEXTVALUE>ക്രോസ് അടയാളം
+		 കാണാതാകുന്നതിനെടുക്കുന്ന
+		   സമയം(t) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4chart_one">
+	<TEXTVALUE>ഇപ്പോള്‍ ലായിനിയുടേ മൊത്തം അളവ് 50മി.ലി. ഉം ലായിനിയുടെ ഗാഢത0.02M ഉം ആകുന്നു.  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5takecylinde2">
+	<TEXT ID="5takecylinde2_one">
+	<TEXTVALUE>ഇനി ഒരു അളവ് ജാറില്‍ 30മി.ലി. സ്വേദിത ജലം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="6pourconicab">
+	<TEXT ID="6pourconicab_one">
+	<TEXTVALUE>അത് കോണിക്കല്‍ ഫ്ളാ സ്ക് B യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="7chart2">
+	<TEXT ID="7chart2_one">
+	<TEXTVALUE>ലായിനിയുടേ മൊത്തം അളവ് 50മി.ലി. ഉം ലായിനിയുടെ ഗാഢത0. 04 M ഉം ആകുന്നു.  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="7chart2_two">
+	<TEXTVALUE>C, D ഫ്ളാാസ്ക്കു കളില്‍ യഥാക്രമം 20, 10 മി.ലി. വീതം സ്വേദിത ജലം ചേര്ക്കു ക. അപ്പോള്‍ ഓരോ ഫ്ളാ സ്ക്കി ലേയും ലായിനിയുടെ അളവ് 50മി.ലി. ആയിരിക്കും. C, D, E ഫ്ളാകസ്ക്കു കളിലെ ലായിനിയുടെ ഗാഢത യഥാക്രമം 0.06, 0.08, 0.1 M ആകുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="8showall">
+	<TEXT ID="8showall_one">
+	<TEXTVALUE>ഫ്ളാനസ്ക്ാ A മധ്യത്തില്‍ ക്രോസ് അടയാളമുള്ള ടൈലിനുമുകളില്‍ വെയ്ക്കുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="9placetile">
+	<TEXT ID="9placetile_one">
+	<TEXTVALUE>ഫ്ളാനസ്ക്ാ A മധ്യത്തില്‍ ക്രോസ് അടയാളമുള്ള ടൈലിനുമുകളില്‍ വെയ്ക്കുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10hclpour">
+	<TEXT ID="10hclpour_one">
+	<TEXTVALUE>അളവ് ജാറില്‍ 10ml 1M HCl അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11pourcon">
+	<TEXT ID="11pourcon_one">
+	<TEXTVALUE>പകുതി HCl ഫ്ളാ സ്ക്ട Aയില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_two">
+	<TEXTVALUE>ഫ്ളാിസ്ക്ാ നല്ലപോലെ കുലുക്കിയശേഷം ക്രോസ് അടയാളത്തിനുമേല്‍ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_three">
+	<TEXTVALUE>ഇനി ബാക്കിയുള്ള HCl ഫ്ളാോസ്ക്കി ല്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="12conrest">
+	<TEXT ID="12conrest_one">
+	<TEXTVALUE>ഉടന്‍ സ്റ്റോപ് വാച്ച് പ്രവര്ത്തിസപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="13top">
+	<TEXT ID="13top_one">
+	<TEXTVALUE>ഫ്ളാ്സ്ക്കി ലുള്ള ദ്രാവകത്തെ മുകളില്നിറന്ന് നിരീക്ഷിക്കുക. പ്രതിപ്രവര്ത്തനന വേളയില്‍ ലയിക്കാത്ത സള്ഫ്ര്‍ രൂപപ്പെടുന്നു. അതോടെ ലായിനിക്ക് മാല്‍ നിറം കൈവരുകയും അത് അതാര്യമായിത്തീരുകയും ചെയ്യുന്നു. ലായിനിക്കുള്ളിലൂടെ ടൈലിലെ ക്രോസ് അടയാളം കാണാതാകുന്ന  ഉടന്‍ സ്റ്റോകപ് വാച്ച് നിര്ത്തുരക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13top_two">
+	<TEXTVALUE>ക്രോസ് അടയാളം കാണാതാകുന്നതിനെടുക്കുന്ന  സമയം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="14sidenew">
+	<TEXT ID="14sidenew_one">
+	<TEXTVALUE>ക്രോസ് അടയാളം കാണാതാകുന്നതിനെടുക്കുന്ന  സമയം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14chart3">
+	<TEXT ID="14chart3_one">
+	<TEXTVALUE>B, C, D, E ഫ്ളാ്സ്ക്കു കളില്‍10മി.ലി. വീതം 1M HCl ചേര്ത്ത്  പരീക്ഷണം ആവര്ത്തി ക്കുക. ഓരോന്നിലും ക്രോസ് അടയാളം അപ്രത്യക്ഷമാകുന്നതിന് എടുക്കുന്ന സമയം രേഖപ്പെടുത്തുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="15graph">
+	<TEXT ID="x_axis">
+		<TEXTVALUE>Na₂S₂O₃  യുടെ ഗാഢത(M)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15graph_one">
+	<TEXTVALUE>1/t യും Na₂S₂O₃  യുടെ ഗാഢതയും തമ്മിലുള്ള ബന്ധം വിശദീകരിക്കുന്നവിധം1/Vol.  1/t അക്ഷത്തിലും Na₂S₂O₃  Y അക്ഷത്തിലുമായി ഒരു ഗ്രാഫ് വരയ്ക്കുക. പ്രസ്തുത ഗ്രാഫ് ഒരു ചരിവ് നേര്രേരഖയായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="16last">
+	<TEXT ID="result">
+		<TEXTVALUE>Na₂S₂O₃, HCl എന്നിവ തമ്മിലുള്ള
+		 പ്രതിപ്രവര്ത്ത ന തോത് Na₂S₂O₃ ന്റെ  ഗാഢതയുടെ
+		  നേര്അ്നുപാതത്തിലായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>തിരികെ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="16last_one">
+	<TEXTVALUE>ഗ്രാഫില്നിനന്ന് 1/t ഗാഢ Na₂S₂O₃ ലായിനിയുടെ നേര്‍ അനുപാതത്തിലായിരിക്കുമെന്ന് വ്യക്തമാകുന്നു. എന്നാല്‍ 1/t പ്രതിപ്രവര്ത്ത നത്തിന്റെട തോതിന്റെസ നേര്‍ അളവാണ്. അതിനാല്‍, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="16last_two">
+	<TEXTVALUE>Na₂S₂O₃, HCl എന്നിവ തമ്മിലുള്ള പ്രതിപ്രവര്ത്ത ന തോത് Na₂S₂O₃ ന്റെ  ഗാഢതയുടെ നേര്അതനുപാതത്തിലായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_last">
+		<TEXTVALUE>Na₂S₂O₃, HCl എന്നിവ തമ്മിലുള്ള പ്രതിപ്രവര്ത്ത ന തോത് Na₂S₂O₃ ന്റെ  ഗാഢതയുടെ നേര്അതനുപാതത്തിലായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>

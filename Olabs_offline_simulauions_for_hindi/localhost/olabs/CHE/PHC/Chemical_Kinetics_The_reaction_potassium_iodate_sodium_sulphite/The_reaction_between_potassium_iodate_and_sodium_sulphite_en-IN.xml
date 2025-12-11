@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Scene1">
+	<TEXT ID="title">
+	<TEXTVALUE>Kinetics Study on the Reaction between Potassium Iodate and Sodium Sulphite</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the 'Start' button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>We require, 0.01 M KIO&#8323; in four different conical flasks, distilled water, measuring jars, 1 M H&#8322;SO&#8324;, starch solution, 0.005 M Na&#8322;SO&#8323;, stop - watch etc.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="PotassiumLbl_text">
+	<TEXTVALUE> 0.01M  Potassium iodate[KIO&#8323;] Solution 2ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_text">
+	<TEXTVALUE> 0.01M Potassium iodate[KIO&#8323;] Solution 4ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textThree">
+	<TEXTVALUE> 0.01M Potassium iodate[KIO&#8323;] Solution 6ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textFour">
+	<TEXTVALUE> 0.01M Potassium iodate[KIO&#8323;]Solution 8ml</TEXTVALUE>
+	</TEXT>
+	
+	   <TEXT ID="Distilled_text">
+	<TEXTVALUE>Distilled Water</TEXTVALUE>
+	</TEXT>  
+	
+	
+	 <TEXT ID="hso_text">
+	<TEXTVALUE>1M H&#8322;SO&#8324;</TEXTVALUE>
+	</TEXT> 
+
+
+<TEXT ID="Starch_solutionText">
+	<TEXTVALUE>Starch solution</TEXTVALUE>
+	</TEXT> 
+	
+	<TEXT ID="Sodium_SulphiteText">
+	<TEXTVALUE>0.005 M [ Na&#8322;SO&#8323;]</TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>Take 2, 4, 6 and 8 ml of 0.01 M potassium iodate solution in four different conical flasks A, B, C and D respectively.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>Measure 10 ml 1 M H&#8322;SO&#8324; in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>And pour it into the flask A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Repeat the same procedure for the remaining three flasks.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flask_text">
+	<TEXTVALUE>Flask no</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table2_text">
+	<TEXTVALUE>Vol. of 0.01 M KIO&#8323; solution (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table3_text">
+	<TEXTVALUE>1/ Vol. of KIO&#8323; (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table4_text">
+	<TEXTVALUE>1M H&#8322;SO&#8324; (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table5_text">
+	<TEXTVALUE>Water (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table6_text">
+	<TEXTVALUE>Starch solution (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table7_text">
+	<TEXTVALUE>0.005M Na&#8322;SO&#8323; (ml)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Table8_text">
+	<TEXTVALUE>Time (t) for appearance of blue colour (s)</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>Measure 88 ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Pour it into flask A to make the volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Pour it into flask A to make the volume of the solution 100ml</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Then measure 86, 84 and 82ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>Pour it into the flasks B, C and D  to make the volume of the solution 100 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Pour it into the flasks B, C and D  to make the volume of the solution 100 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Measure 5ml starch solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>Pour it into flask A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Repeat the same procedure for the remaining three flasks.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Take 10ml 0.005M sodium sulphite solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Pour it into flask A.</TEXTVALUE>
+	</TEXT>
+
+
+             <TEXT ID="Scene17_subtwo">
+	<TEXTVALUE>Start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>Watch the solution for the blue colour to appear.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene18_subtwo">
+	<TEXTVALUE>Note the time when the blue colour just appears.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>Repeat the experiment by adding 10 ml 0.005 M sodium sulphite to flasks B, C and D and record the time taken in each case for the solution to turn blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>Plot a graph between 1/Vol. of KIO&#8323;  against the time (t) taken for the appearance of blue colour by taking 1/Vol. of KIO&#8323;  along ordinate and  and t along the abscissa.It should be a straight line.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="volText">
+	<TEXTVALUE>Vol. of KIO&#8323;(ml)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>From the graph it is clear that the rate of reaction between potassium iodate and sodium sulphite increases with increase in concentration of potassium iodate.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="resultText">
+	<TEXTVALUE>Rate of the reaction increases with increase in concentration of potassium iodate</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_text">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

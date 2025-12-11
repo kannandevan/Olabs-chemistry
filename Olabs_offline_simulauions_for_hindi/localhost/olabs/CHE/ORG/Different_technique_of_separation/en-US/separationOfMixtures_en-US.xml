@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="separationOfMixtures.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ACETONE">
+        <source>Acetone</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ALLCOM">
+        <source>The components, red and blue inks will be separated from the mixture.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BACK">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CENTRIFUGEMACHINE">
+        <source>Centrifuge machine</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICKANDDRAG">
+        <source>Click and drag each tube to insert it on the machine.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICKBEAK">
+        <source>Click on the beaker containing ink mixture to dip it with a capillary tube.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICKBEAKER2">
+        <source>Click on the large beaker to pour the solution in to the chromatographic chamber.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICKBTN1">
+        <source>Click on the button to open the machine.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICKBTNOP1">
+        <source>Click on the button to open.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICKBTNOPEN">
+        <source>Click on the button to open.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICKCLOSE">
+        <source>Click here to close.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICKDIP">
+        <source>Click here to dip it into the chromatographic chamber.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CLICKFILT">
+        <source>Click on the filter paper to dip it into the chromatographic chamber containing solvent.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CLICKGAS">
+        <source>Click on the chromatographic chamber to stir the solvent mixture with a glass rod.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_CLICKGREEN">
+        <source>Click on the green button to turn on.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_CLICKICON">
+        <source>Click on the information icon to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_CLICKINFO">
+        <source>Click here to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_CLICKLIDMAC">
+        <source>Click on the lid of the machine to close it.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_CLICKMILK">
+        <source>Click on the tube containing milk.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_CLICKOPEN1">
+        <source>Click here to open the machine.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_CLICKROUND">
+        <source>Click on the round bottom flask to collect the methanol</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_CLICKROUND1">
+        <source>Click on the round bottom flask to collect the ethanol.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_CLICKSTART">
+        <source>Click on the start button to boil the solution</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_CLICKSTART1">
+        <source>Click on the start button to start boiling the remaining solution.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_CLICKSTIR">
+        <source>Click here to stir the solution using glass rod.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_CLICKTURNON">
+        <source>Click on the button to turn on.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_CLOSEBTN">
+        <source>close_btn</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_CLOSELID">
+        <source>Click here to close the chromatographic chamber.</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_CLOSELID1">
+        <source>Click on the chromatographic chamber to close it with the lid.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_COLLECT">
+        <source>Click here to place the RB flask over the thermocol.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_COLLECTACETONE">
+        <source>At 56°C acetone boils and the vapours pass through the condenser and get collected in another RB flask in a liquid form. Water is left behind in the flask. </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_COLLECTETH">
+        <source>Ethanol</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_COLLECTETHENOL">
+        <source>Ethanol vaporizes at 78°C and passes out the fractionating column, condenses and gets collected in another RB flask.</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_COLLECTMETH">
+        <source>Click here to place the RB flask over the thermocol.</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_COLLECTMETHENOL">
+        <source>Methanol vaporizes at 65°C and passes through the fractionating column, condenses and gets collected in the RB flask.</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_CONCLU">
+        <source>The denser particles forced to the bottom and the lighter particles stay at the top when spun rapidly.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_CORRECTBLUE">
+        <source>Correct  blue Rf</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_CORRECTRED">
+        <source>Correct red Rf</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_DIPCAPILLARY">
+        <source>Click here to take the ink by using  capillary tube .</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_DIPCAPILLARY1">
+        <source>Click on the beaker containing mixture of red and blue ink to take it using a capillary tube.</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EMPTYBLUE">
+        <source>Empty blue Rf input</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EMPTYRED">
+        <source>Empty red Rf input</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_ETHBEAKER">
+        <source>Click here to place the flask for collecting ethanol.</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_FILTERFUNNEL">
+        <source>Filter funnel</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_FILTFLOOR">
+        <source>Place the filter paper on the floor.</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_FILTIMM">
+        <source>The filter paper will immerse in to the chromatographic chamber containing solvent.</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_FINALCON">
+        <source>Methanol will separate from the solution at 65°C and Ethanol separate at 78°C.</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_FRACDIST">
+        <source>Fractional distillation is used for the separation of two or more miscible liquids for which the difference in boiling points is less than 25 K.</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_FUNNEL_RES">
+        <source>The denser liquid at  the bottom forms the lower layer and the lighter liquid forms the top layer.This indicates water is denser than oil.</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_GASCHAMBER">
+        <source>Chromatographic chamber</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_INSTRUCTION1">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_MANDLESTART">
+        <source>Click here to restart the heating mandle. </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_MEASURE">
+        <source>The filter paper is taken out from the chromatographic chamber and measure the distance travelled by the solvent and the components of the mixture from the original line.</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_METHANOL">
+        <source>Methanol</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_METHETHNOL">
+        <source>Methanol+Ethanol</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_MILK">
+        <source>Milk</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_MILK1">
+        <source>milk</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_OPENBTN">
+        <source>open_btn</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_POURGASJAR">
+        <source>Click here to pour the solution into the chromatographic chamber.</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_PROPERTIES">
+        <source>Select technique</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_SEPARATINGFUNNEL">
+        <source>Separating funnel</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_SHOW">
+        <source>Show Scale</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_SIMPLDIST">
+        <source> Simple distillation is used for the separation of a mixture containing two miscible liquids that boil without decomposition and have sufficient difference (&gt; 25 K) in their boiling points.</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_STIRSOL">
+        <source>Stir the solution well.</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_SWITCHMANDLE">
+        <source>Click here to switch on the heating mantle.</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TAKFILOUT">
+        <source>Click here to take the filter paper out.</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TAKFILOUT1">
+        <source>Click on the chromatographic chamber to take the filter paper out.</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TIP1">
+        <source>Thermometer</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TIP2">
+        <source>Thermometer adapter</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TIP3">
+        <source>Distilling head</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TIP4">
+        <source>Stand with clamp</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TIP5">
+        <source>Heating mantle</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TIP6">
+        <source>Water outlet</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TIP7">
+        <source>Water condenser</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TIP8">
+        <source>Water inlet</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TIP9">
+        <source>250 ml RB flask</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TIP10">
+        <source>Vacuum adapter</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TIP11">
+        <source>100 ml RB flask</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TIP12">
+        <source>Ice bath</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TIP13">
+        <source>Fractionating column</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TUBE1">
+        <source>tube1</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TUBE2">
+        <source>tube2</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TUBE3">
+        <source>tube3</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TUBE4">
+        <source>tube4</source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_TUBE5">
+        <source>tube5</source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_TUBE6">
+        <source>tube13</source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_TUBE7">
+        <source>tube12</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_TUBE8">
+        <source>tube11</source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_WAIT1">
+        <source>Wait till it make ink spot in the filter paper.</source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_WAIT2">
+        <source>Wait till the solution is poured into the chromatographic chamber.</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_WAIT3">
+        <source>Wait till the solvent in the filter paper reach its maximum height.</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_WAITMSG">
+        <source>Wait till the temperature reach to the boiling point of acetone</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_WAITMSG1">
+        <source>Wait till the temperature reach to the boiling point of methanol.</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_WAITMSG2">
+        <source>Wait till the temperature reach to the boiling point of Ethanol.</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_WAITMSG5">
+        <source>Wait till the centifugation over.</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_WATER">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_WATERACETONE">
+        <source>Water + Acetone</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_WATERCAP">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_WATERSM">
+        <source>water</source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_WRONGBLUE">
+        <source>Wrong  blue Rf</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_WRONGRED">
+        <source>Wrong red Rf</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

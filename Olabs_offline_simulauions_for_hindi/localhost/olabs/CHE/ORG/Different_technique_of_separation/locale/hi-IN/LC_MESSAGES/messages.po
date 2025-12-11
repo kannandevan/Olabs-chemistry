@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2014-01-31 14:31+0530\n"
+"PO-Revision-Date: 2014-01-31 14:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:73
+msgid "Separation of Mixtures Using Different Techniques"
+msgstr "विभिन्न तकनीकों का उपयोग मिश्रण के पृथक्करण"
+
+#: simcontrols.js:74
+msgid "HELP"
+msgstr "मदद"
+
+#: simcontrols.js:75
+msgid "FULLSCREEN"
+msgstr "फुलस्क्रीन"
+
+#: simcontrols.js:76
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:77
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"आईटी विभाग से अनुसंधान अनुदान के तहत सीडैक मुंबई</br>और अमृता विश्वविद्यालय द्वारा विकसित"
+
+#: simcontrols.js:79
+msgid "Select the technique:"
+msgstr "तकनीक का चयन करें:"
+
+#: simcontrols.js:79
+msgid "Selected mixture:"
+msgstr "चयनित मिश्रण:"
+
+#: simcontrols.js:79
+msgid "Show scale"
+msgstr "दिखाएँ पैमाने"
+
+#: simcontrols.js:79
+msgid "Result"
+msgstr "परिणाम"
+
+#: simcontrols.js:80
+msgid "Distance travelled by the solvent"
+msgstr "विलायक द्वारा तय की गई दूरी"
+
+#: simcontrols.js:80
+msgid "Distance travelled by blue ink"
+msgstr "नीली स्याही से कूच दूरी"
+
+#: simcontrols.js:80
+msgid "Distance travelled by red ink "
+msgstr "लाल स्याही से कूच दूरी"
+
+#: simcontrols.js:81
+msgid "Rf value of blue ink"
+msgstr "नीली स्याही के आरएफ मूल्य"
+
+#: simcontrols.js:81
+msgid "Rf value of red ink"
+msgstr "लाल स्याही के आरएफ मूल्य"
+
+#: simcontrols.js:81
+msgid " Distance travelled by Chlorophyll b (dark green)  "
+msgstr "दूरी क्लोरोफिल बी (गहरे हरे रंग की) द्वारा कूच"
+
+#: simcontrols.js:82
+msgid "Distance travelled by Chlorophyll a (light green)  "
+msgstr "क्लोरोफिल एक (हल्का हरा) द्वारा तय की गई दूरी"
+
+#: simcontrols.js:82
+msgid "Distance travelled by Xanthophyll (yellow) "
+msgstr "क्षंतोफ़यल्ल द्वारा तय की गई दूरी (पीला)"
+
+#: simcontrols.js:83
+msgid "Distance travelled by Carotene (orange) "
+msgstr "कैरोटीन द्वारा तय की गई दूरी (नारंगी)"
+
+#: simcontrols.js:83
+msgid "Rf value of Chlorophyll b "
+msgstr "क्लोरोफिल बी के आरएफ मूल्य"
+
+#: simcontrols.js:83
+msgid "Rf value of Chlorophyll a"
+msgstr "क्लोरोफिल एक के आरएफ मूल्य"
+
+#: simcontrols.js:84
+msgid "Rf value of Xanthophyll "
+msgstr "क्षंतोफ़यल्ल के आरएफ मूल्य"
+
+#: simcontrols.js:84
+msgid "Rf value of Carotene"
+msgstr "कैरोटीन के आरएफ मूल्य"
+
+#: simcontrols.js:84
+msgid "Only opposite side is possible."
+msgstr "केवल विपरीत दिशा संभव है."
+
+#: simcontrols.js:85
+msgid "The procedure was wrong. Redo the experiment."
+msgstr "प्रक्रिया गलत थी. प्रयोग फिर से करें."
+
+#: simcontrols.js:85
+msgid "Centrifuge machine."
+msgstr "अपकेंद्रित्र मशीन."
+
+#: simcontrols.js:85
+msgid "Click here to stop."
+msgstr "रोकने के लिए यहां क्लिक करें."
+
+#: simcontrols.js:87
+msgid "Chromatography"
+msgstr "वर्णलेखन"
+
+#: simcontrols.js:87
+msgid "Centrifugation "
+msgstr "केन्द्रापसारण"
+
+#: simcontrols.js:87
+msgid "Simple Distillation"
+msgstr "साधारण आसवन"
+
+#: simcontrols.js:87
+msgid "Fractional Distillation"
+msgstr "आंशिक आसवन"
+
+#: simcontrols.js:88
+msgid "Separating Funnel"
+msgstr "अलग करने कीप"
+
+#: simcontrols.js:90 simcontrols.js:97
+msgid "Red ink + Blue ink"
+msgstr "लाल+नीली स्याही"
+
+#: simcontrols.js:90 simcontrols.js:97
+msgid "Spinach leaves"
+msgstr "पालक की पत्तियों"
+
+#: simcontrols.js:91 simcontrols.js:97
+msgid "Milk"
+msgstr "दूध"
+
+#: simcontrols.js:91
+msgid "Ferric hydroxide sol"
+msgstr "फेरिक हीड्राकसीड प"
+
+#: simcontrols.js:91
+msgid "Muddy water"
+msgstr "गंदा पानी"
+
+#: simcontrols.js:92
+msgid "Water + Acetone"
+msgstr "जल + एसीटोन"
+
+#: simcontrols.js:92
+msgid "Pentane + Heptane"
+msgstr "पेंटेन + हेपटैन"
+
+#: simcontrols.js:92
+msgid "Toluene + Hexane"
+msgstr "टोल्यूनि + हेक्सेन"
+
+#: simcontrols.js:93
+msgid "Methanol + Ethanol"
+msgstr "मेथनॉल + इथेनॉल"
+
+#: simcontrols.js:93
+msgid "Hexane + Acetone"
+msgstr "हेक्सेन + एसीटोन"
+
+#: simcontrols.js:93
+msgid "2-Propanol + 2-Butanol"
+msgstr "2-प्रोपनॉल+ 2-बुटनॉल"
+
+#: simcontrols.js:94
+msgid "Oil + Water"
+msgstr "तेल + जल"
+
+#: simcontrols.js:94
+msgid "Kerosene oil + water"
+msgstr "मिट्टी का तेल + पानी"
+
+#: simcontrols.js:97
+msgid "Isopropyl alcohol + Water"
+msgstr "इसोप्रोपयल शराब + जल"
+
+#: simcontrols.js:97
+msgid "Water"
+msgstr "Water"
+
+#: simcontrols.js:97
+msgid "Cream layer"
+msgstr "क्रीम परत"
+
+#: simcontrols.js:97
+msgid "Skim milk (Plasma phase)"
+msgstr "दूध स्किम (प्लाज्मा चरण)"
+
+#: simcontrols.js:97
+msgid "Supernatant liquid"
+msgstr "सतह पर तैरनेवाला तरल"
+
+#: simcontrols.js:97
+msgid "Ferric hydroxide precipitate"
+msgstr "फेरिक हीड्राकसीड वेग"
+
+#: simcontrols.js:97
+msgid "Mud"
+msgstr "कीचड़"
+
+#: simcontrols.js:99
+msgid ""
+"Chromatography is the technique used for the separation of<br>those solutes "
+"that dissolve in the same solvent."
+msgstr ""
+"क्रोमैटोग्राफी एक ही विलायक में भंग कि उन विलेय</br>के विभाजन के लिए तकनीक का इस्तेमाल "
+"किया है."
+
+#: simcontrols.js:100
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>Methanol boils at 65&deg;C and ethanol boils at 78&deg;C."
+msgstr ""
+"आंशिक आसवन उबलते अंक में अंतर कम से कम 25K है जिसके लिए दो या</br>दो से अधिक विलेयशील "
+"तरल पदार्थ की जुदाई के लिए प्रयोग किया जाता है. मेथनॉल 65 डिग्री</br>सेल्सियस पर फोड़े "
+"और इथेनॉल 78 डिग्री सेल्सियस पर फोड़े"
+
+#: simcontrols.js:101
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br/>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference(>25k) in their boiling points. At 56&deg;C acetone "
+"boils and the</br>vapours are collected in a RB flask and water is left "
+"behind in the flask."
+msgstr ""
+"साधारण आसवन अपघटन के बिना फोड़ा और उनके उबलते अंक में पर्याप्त अंतर (> 25k)</br>है कि "
+"दो विलेयशील तरल पदार्थ युक्त मिश्रण के विभाजन के लिए प्रयोग किया जाता है. 56 से कम "
+"डिग्री सेल्सियस</br>एसीटोन फोड़े और वाष्प एक आरबी फ्लास्क और पानी में एकत्र कर रहे हैं "
+"कुप्पी में पीछे छोड़ दिया है."
+
+#: simcontrols.js:102
+msgid ""
+"The denser particles forced to the bottom and the<br>lighter particles stay "
+"at the top when spin rapidly."
+msgstr "नीचे और हल्का कणों को मजबूर सघन कणों</br>स्पिन जब तेजी से शीर्ष पर रहते हैं."
+
+#: simcontrols.js:103
+msgid ""
+"The denser liquid at the bottom forms the lower layer and the "
+"lighter<br>liquid forms the top layer. This indicates water is denser than "
+"oil."
+msgstr ""
+"तल पर सघन तरल निचली परत और लाइटर तरल रूपों ऊपर</br>परत रूपों. इस पानी तेल से सघन है "
+"इंगित करता है."
+
+#: simcontrols.js:104
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference (>25k) in their boiling points. At 36&deg;C "
+"pentane boils and the<br/>vapours are collected in a RB flask and heptane "
+"(bp - 98&deg;C) is left</br>behind in the flask."
+msgstr ""
+"साधारण आसवन अपघटन के बिना फोड़ा और उनके उबलते अंक में पर्याप्त अंतर (> 25k)</br>है कि "
+"दो विलेयशील तरल पदार्थ युक्त मिश्रण के विभाजन के लिए प्रयोग किया जाता है. 36 से</br>कम "
+"डिग्री सेल्सियस पैंटेन फोड़े और वाष्प एक आरबी फ्लास्क और हेपटैन (बीपी - 98 डिग्री सेल्सियस)</"
+"br>में एकत्र कर रहे हैं कुप्पी में पीछे छोड़ दिया है."
+
+#: simcontrols.js:105
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br/>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference (>25k) in their boiling points. At 69&deg;C hexane "
+"boils and the<br/>vapours are collected in a RB flask and toluene (bp - "
+"111&deg;C) is left</br>behind in the flask."
+msgstr ""
+"साधारण आसवन अपघटन के बिना फोड़ा और उनके उबलते अंक में पर्याप्त अंतर (> 25k)</br>है कि "
+"दो विलेयशील तरल पदार्थ युक्त मिश्रण के विभाजन के लिए प्रयोग किया जाता है. 69 में डिग्री "
+"सेल्सियस हेक्सेन</br>फोड़े और वाष्प एक आरबी फ्लास्क और टोल्यूनि (बीपी - 111 डिग्री "
+"सेल्सियस)</br>में एकत्र कर रहे हैं कुप्पी में पीछे छोड़ दिया है."
+
+#: simcontrols.js:106
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>Acetone boils at 56&deg;C and hexane boils at 69&deg;C."
+msgstr ""
+"आंशिक आसवन उबलते अंक में अंतर कम से कम 25K है जिसके लिए दो या दो</br>से अधिक विलेयशील "
+"तरल पदार्थ की जुदाई के लिए प्रयोग किया जाता है. एसीटोन 56 डिग्री सेल्सियस</br>पर फोड़े "
+"और हेक्सेन 69 डिग्री सेल्सियस पर फोड़े"
+
+#: simcontrols.js:107
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>2-Propanol boils at 82.5&deg;C and 2-Butanol boils at 99.5&deg;C."
+msgstr ""
+"आंशिक आसवन उबलते अंक में अंतर कम से कम 25K है जिसके लिए दो या</br>दो से अधिक विलेयशील "
+"तरल पदार्थ की जुदाई के लिए प्रयोग किया जाता है. 2-प्रोपनॉल 82.5</br>डिग्री सेल्सियस "
+"पर फोड़े और 2-बुटनॉल 99.5 डिग्री सेल्सियस पर फोड़े"
+
+#: simcontrols.js:108
+msgid ""
+"The denser liquid at the bottom forms the lower layer and the "
+"lighter<br>liquid forms the top layer. This indicates water is denser than "
+"kerosene oil."
+msgstr ""
+"तल पर सघन तरल निचली परत और लाइटर तरल रूपों ऊपर परत</br>रूपों. इस पानी को केरोसिन "
+"तेल से सघन है इंगित करता है."
+
+#: simcontrols.js:110
+msgid ""
+"To take ink drag the capillary tube to the beaker<br/>and drag it back to "
+"drop it on the paper."
+msgstr ""
+"बीकर स्याही खींचें केशिका ट्यूब ले और इसे कागज</br>पर ड्रॉप करने के लिए इसे वापस खींचें."
+
+#: simcontrols.js:111
+msgid "Click on the lid of the<br/>chamber to open it."
+msgstr "इसे खोलने के लिए चैम्बर के</br>ढक्कन पर क्लिक करें."
+
+#: simcontrols.js:112
+msgid "Drag and place the paper in the chamber."
+msgstr "खींचें और चैम्बर में</br>कागज जगह है."
+
+#: simcontrols.js:113
+msgid "Click on the lid of<br/>the chamber to close it."
+msgstr "इसे बंद करने के लिए चैम्बर</br>के ढक्कन पर क्लिक करें."
+
+#: simcontrols.js:114
+msgid "Click on the chamber to<br/>take the filter paper out."
+msgstr "फिल्टर पेपर बाहर लेने के लिए</br>कक्ष पर क्लिक करें."
+
+#: simcontrols.js:115
+msgid "Click here to open the lid."
+msgstr "ढक्कन खोलने के लिए यहां क्लिक करें."
+
+#: simcontrols.js:116
+msgid "Drag each tube to place it<br/>in the holder of the machine."
+msgstr "मशीन के धारक में जगह के</br>लिए प्रत्येक ट्यूब खींचें."
+
+#: simcontrols.js:117
+msgid "Click here to close the lid."
+msgstr "ढक्कन बंद करने के लिए यहां क्लिक करें."
+
+#: simcontrols.js:118
+msgid "Click on the button to switch on the machine."
+msgstr "मशीन पर स्विच करने के लिए</br>बटन पर क्लिक करें."
+
+#: simcontrols.js:119
+msgid "Click here to open the machine."
+msgstr "मशीन खोलने के लिए</br>यहां क्लिक करें."
+
+#: simcontrols.js:120
+msgid "Click on the mixture test tube."
+msgstr "मिश्रण टेस्ट ट्यूब पर क्लिक करें."
+
+#: simcontrols.js:121 simcontrols.js:122
+msgid "Click here to<br/>start the experiment."
+msgstr "प्रयोग शुरू करने के लिए यहां क्लिक करें."
+
+#: simcontrols.js:123
+msgid "Drag the ice box downwards."
+msgstr "नीचे की तरफ बर्फ बॉक्स खींचें."
+
+#: simcontrols.js:124
+msgid ""
+"Drag the RB flask containing Methanol<br>and place it over the thermocol."
+msgstr "मेथनॉल युक्त आरबी कुप्पी खींचें</br>और थर्मोकोल पर यह जगह."
+
+#: simcontrols.js:125
+msgid "Drag the flask to place it against<br> the holder to collect ethanol."
+msgstr "इथेनॉल इकट्ठा करने के धारक के</br>खिलाफ यह जगह कुप्पी खींचें."
+
+#: simcontrols.js:126
+msgid "Drag the ice box upwards to<br>place it below the RB flask. "
+msgstr "आरबी कुप्पी नीचे यह जगह करने के लिए</br>ऊपर की तरफ बर्फ बॉक्स खींचें."
+
+#: simcontrols.js:127
+msgid "Click here to<br/>restart the heating mantle."
+msgstr "ताप मेंटल को पुनः आरंभ करने</br>के लिए यहां क्लिक करें."
+
+#: simcontrols.js:128
+msgid "To pour the mixture<br>into the separating funnel,<br>drag the beaker."
+msgstr "अलग करने कीप में मिश्रण</br>डालना, बीकर खींचें."
+
+#: simcontrols.js:129
+msgid "Click on the funnel<br/>to remove it."
+msgstr "इसे हटाने के लिए कीप</br>पर क्लिक करें."
+
+#: simcontrols.js:130
+msgid "Drag the separating funnel to<br>take it from the stand."
+msgstr "स्टैंड से इसे लेने के लिए</br>अलग करने कीप खींचें."
+
+#: simcontrols.js:131
+msgid "Click on the separating funnel<br>to shake it."
+msgstr "इसे हिला अलग करने कीप</br>पर क्लिक करें."
+
+#: simcontrols.js:132
+msgid "Click here to release<br/>the pressure inside the funnel."
+msgstr "कीप के अंदर दबाव जारी करने</br>के लिए यहां क्लिक करें."
+
+#: simcontrols.js:133
+msgid "Drag the funnel<br/>to place it back."
+msgstr "इसे वापस करने के लिए</br>जगह कीप खींचें."
+
+#: simcontrols.js:134
+msgid "To collect water<br>from the separating funnel,<br>drag the beaker. "
+msgstr "अलग करने कीप से पानी इकट्ठा</br>करने के लिए, बीकर खींचें."
+
+#: simcontrols.js:135 simcontrols.js:138
+msgid "Click here to open/close<br/>the stop cock."
+msgstr "बंद / बंद करो मुर्गा खोलने</br>के लिए यहां क्लिक करें."
+
+#: simcontrols.js:136
+msgid "Drag the beaker to<br/>place it back."
+msgstr "इसे वापस करने के लिए</br>जगह बीकर खींचें."
+
+#: simcontrols.js:137
+msgid "To collect the</br>oil from the separating</br>funnel, drag the beaker."
+msgstr "अलग करने कीप से तेल इकट्ठा</br>करने के लिए, बीकर खींचें."
+
+#: simcontrols.js:139
+msgid "Drag the beaker to <br/>place it back."
+msgstr "इसे वापस करने के लिए</br>जगह बीकर खींचें."
+
+#: simcontrols.js:140
+msgid ""
+"Drag the RB flask containing acetone<br>and place it over the thermocol."
+msgstr "एसीटोन युक्त आरबी कुप्पी खींचें</br>और थर्मोकोल पर यह जगह."
+
+#: simcontrols.js:141
+msgid "Drag the flask to place it against<br>the holder to collect hexane."
+msgstr "हेक्सेन इकट्ठा करने के धारक के</br>खिलाफ यह जगह कुप्पी खींचें."
+
+#: simcontrols.js:142
+msgid ""
+"Drag the RB flask containing 2-propanol<br>and place it over the thermocol."
+msgstr "2-प्रोपनॉल युक्त आरबी कुप्पी खींचें</br>और थर्मोकोल पर यह जगह."
+
+#: simcontrols.js:143
+msgid "Drag the flask to place it against<br> the holder to collect 2-butanol."
+msgstr "2-बुटनॉल इकट्ठा करने के धारक के</br>खिलाफ यह जगह कुप्पी खींचें."
+
+#: simcontrols.js:147
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:148
+msgid "Start"
+msgstr "प्रारंभ"
+
+#: simcontrols.js:149
+msgid "Whatman Filter Paper"
+msgstr "वाटमान फिल्टर पेपर"
+
+#~ msgid "Properties of Acids and Bases"
+#~ msgstr "कुर्सियां ​​और एसिड के गुण"
+
+#, fuzzy
+#~ msgid "Select the sample:"
+#~ msgstr "नमूना का चयन करें:"
+
+#~ msgid "Select the reactant:"
+#~ msgstr "अभिकारक का चयन करें:"
+
+#~ msgid "Litmus solution"
+#~ msgstr "लिटमस समाधान"
+
+#~ msgid "Zinc metal"
+#~ msgstr "जस्ता धातु"
+
+#~ msgid "Solid "
+#~ msgstr "ठोस"
+
+#~ msgid "Acid"
+#~ msgstr "एसिड"
+
+#~ msgid "Base"
+#~ msgstr "आधार"
+
+#~ msgid " & Distilled Water"
+#~ msgstr "और आसुत जल"
+
+#~ msgid "Phenolphthalein"
+#~ msgstr "फेनोल्फठलेन"
+
+#~ msgid "Lime water"
+#~ msgstr "नीबू का रास"
+
+#~ msgid "Sample 1"
+#~ msgstr "नमूना 1"
+
+#~ msgid "Sample 2"
+#~ msgstr "नमूना 2"
+
+#~ msgid "Sample 3"
+#~ msgstr "नमूना 3"
+
+#~ msgid "Sample 4"
+#~ msgstr "नमूना 4"
+
+#~ msgid "Sample 5"
+#~ msgstr "नमूना 5"
+
+#~ msgid "Sample 6"
+#~ msgstr "नमूना 6"
+
+#~ msgid "Sample 7"
+#~ msgstr "नमूना 7"
+
+#~ msgid ""
+#~ "The given sample is an acid that turns blue litmus solution to</br>red, "
+#~ "but does not affect the red litmus solution.  It</br>has a pH value less "
+#~ "than 7."
+#~ msgstr ""
+#~ "किसी नमूने लाल को नीले लिटमस समाधान निकलता</br>है कि एक एसिड होता है, लेकिन लाल "
+#~ "लिटमस समाधान को प्रभावित</br>नहीं करता. यह 7 से कम एक पीएच मान है."
+
+#~ msgid ""
+#~ "The given sample is a base that turns red litmus solution to</br>blue, "
+#~ "but does not affect the blue litmus solution.  It</br>has a pH value "
+#~ "greater than 7."
+#~ msgstr ""
+#~ "किसी नमूने नीले रंग के लिए लाल लिटमस समाधान</br>निकलता है कि एक आधार है, लेकिन "
+#~ "नीले लिटमस समाधान</br>को प्रभावित नहीं करता. यह 7 से अधिक पीएच मान है."
+
+#~ msgid ""
+#~ "The given sample is an acid that reacts with zinc metal to liberate</"
+#~ "br>colourless, odourless hydrogen that causes the flame to flare up.</"
+#~ "br>The flame then dips out with a mild explosion and a popping sound."
+#~ msgstr ""
+#~ "किसी नमूने लौ भड़क कारण बनता है कि रंगहीन, गंधहीन हाइड्रोजन</br>को आजाद कराने के "
+#~ "लिए जस्ता धातु के साथ प्रतिक्रिया करता है कि एक एसिड होता है.</br>लौ फिर एक हल्के "
+#~ "विस्फोट और एक पॉपिंग ध्वनि के साथ बाहर डुबकी."
+
+#~ msgid ""
+#~ "The given sample is a base that reacts with zinc metal to liberate</"
+#~ "br>colourless, odourless hydrogen that causes the flame to flare up.</"
+#~ "br>The flame then dips out with a mild explosion and a popping sound."
+#~ msgstr ""
+#~ "किसी नमूने लौ भड़क कारण बनता है कि रंगहीन,</br>गंधहीन हाइड्रोजन को आजाद कराने के "
+#~ "लिए जस्ता धातु के साथ प्रतिक्रिया</br>करता है कि एक आधार है. लौ फिर एक हल्के "
+#~ "विस्फोट और</br>एक पॉपिंग ध्वनि के साथ बाहर डुबकी."
+
+#~ msgid ""
+#~ "The given sample is an acid that reacts with sodium carbonate to</"
+#~ "br>liberate carbon dioxide gas that turns the lime water milky."
+#~ msgstr ""
+#~ "किसी नमूने नींबू पानी दूधिया हो जाता है कि</br>कार्बन डाइऑक्साइड गैस को आजाद कराने "
+#~ "के लिए सोडियम कार्बोनेट</br>के साथ प्रतिक्रिया करता है कि एक एसिड होता है."
+
+#~ msgid ""
+#~ "The given sample and sodium carbonate are bases, so they</br>don't react "
+#~ "but form an alkaline solution. Phenolphthalein</br>produces a pink colour "
+#~ "in alkaline medium."
+#~ msgstr ""
+#~ "किसी नमूने और सोडियम कार्बोनेट कुर्सियां ​​हैं, तो वे</br>प्रतिक्रिया लेकिन एक alkaline "
+#~ "समाधान फार्म नहीं है. फेनोल्फठलेन क्षारीय</br>माध्यम में एक गुलाबी रंग का उत्पादन."
+
+#~ msgid "Drag and dip the dropper into</br>the beaker to draw the solution."
+#~ msgstr "खींचें और समाधान आकर्षित</br>करने के लिए बीकर में ड्रॉपर डुबकी."
+
+#~ msgid "Drag the dropper to the first</br>test tube to pour the solution."
+#~ msgstr "समाधान डालना पहली टेस्ट</br>ट्यूब ड्रॉपर खींचें."
+
+#~ msgid ""
+#~ "Again drag and dip the dropper</br>into the beaker to draw the solution."
+#~ msgstr "फिर खींचें और समाधान आकर्षित</br>करने के लिए बीकर में ड्रॉपर डुबकी."
+
+#~ msgid "Drag the dropper to the second</br>test tube to pour the solution."
+#~ msgstr "समाधान डालना दूसरे</br>टेस्ट ट्यूब ड्रॉपर खींचें."
+
+#~ msgid "Click on the knob to</br>turn on/turn off the burner."
+#~ msgstr "बर्नर बंद कर देते हैं / चालू करने</br>की घुंडी पर क्लिक करें."
+
+#~ msgid "Drag the match stick</br>over the test tube."
+#~ msgstr "टेस्ट ट्यूब से अधिक</br>मैच छड़ी खींचें."
+
+#~ msgid ""
+#~ "Drag the beaker containing</br>the sample solution to the</br>thistle "
+#~ "funnel to pour it in."
+#~ msgstr "यह अंदर डालना थीस्ल कीप</br>नमूना समाधान युक्त बीकर खींचें"
+
+#~ msgid ""
+#~ "Drag the beaker containing</br>the sample solution to the</br>test tube "
+#~ "to pour it in."
+#~ msgstr "यह अंदर डालना टेस्ट ट्यूब</br>नमूना समाधान युक्त बीकर खींचें"
+
+#~ msgid ""
+#~ "Drag the dropper above</br>the sample solution beaker</br>to suck the "
+#~ "solution."
+#~ msgstr "समाधान चूसना नमूना समाधान</br>बीकर ऊपर ड्रॉपर खींचें."
+
+#~ msgid "Drag the dropper again</br>to the solution beaker."
+#~ msgstr "समाधान बीकर को फिर से ड्रॉपर खींचें."
+
+#~ msgid ""
+#~ "Drag the droppper to</br>the second tube for pour</br>it to the second "
+#~ "test tube."
+#~ msgstr "दूसरा टेस्ट ट्यूब को यह बहना के लिए दूसरा ट्यूब द्रोप्पर खींचें."
+
+#~ msgid "Drag the beaker contain indicator</br>solution to the test tube."
+#~ msgstr "बीकर टेस्ट ट्यूब करने के लिए</br>सूचक समाधान होते खींचें."
+
+#~ msgid "Decomposition Reaction"
+#~ msgstr "Decomposition Reaction"
+
+#~ msgid "Thermal Decomposition"
+#~ msgstr "Thermal Decomposition"
+
+#~ msgid "Electrolytic Decomposition"
+#~ msgstr "Electrolytic Decomposition"
+
+#~ msgid "Photo Decomposition"
+#~ msgstr "Photo Decomposition"
+
+#~ msgid "Copper Carbonate"
+#~ msgstr "Copper Carbonate"
+
+#~ msgid "Ferrous Sulphate"
+#~ msgstr "Ferrous Sulphate"
+
+#~ msgid "Sodium Chloride"
+#~ msgstr "Sodium Chloride"
+
+#~ msgid "Silver Chloride"
+#~ msgstr "Silver Chloride"
+
+#~ msgid "Silver Bromide"
+#~ msgstr "Silver Bromide"
+
+#~ msgid "To separate "
+#~ msgstr "To separate "
+
+#~ msgid " from the mixture"
+#~ msgstr " from the mixture"
+
+#~ msgid "Chemical reaction :"
+#~ msgstr "Chemical reaction :"
+
+#~ msgid "Select the power of the light from the source :"
+#~ msgstr "Select the power of the light from the source :"
+
+#~ msgid "Select the distance of the light from the sample :"
+#~ msgstr "Select the distance of the light from the sample :"
+
+#~ msgid "Rheostat Resistance :"
+#~ msgstr "Rheostat Resistance :"
+
+#~ msgid "Select the type of reaction :"
+#~ msgstr "Select the type of reaction :"
+
+#~ msgid " W"
+#~ msgstr " W"
+
+#~ msgid " ohm"
+#~ msgstr " ohm"
+
+#~ msgid "cm"
+#~ msgstr "cm"
+
+#~ msgid "Anode(+ve electrode) :"
+#~ msgstr "Anode (+ve electrode) :"
+
+#~ msgid "Cathode(-ve electrode) :"
+#~ msgstr "Cathode (-ve electrode) :"
+
+#~ msgid "Overall:"
+#~ msgstr "Overall:"
+
+#~ msgid "0 ohm"
+#~ msgstr "0 ohm"
+
+#~ msgid "40 W"
+#~ msgstr "40 W"
+
+#~ msgid "50cm"
+#~ msgstr "50cm"
+
+#~ msgid "Switch On"
+#~ msgstr "Switch On"
+
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#~ msgid "Switch Off"
+#~ msgstr "Switch Off"
+
+#~ msgid "Strong heat"
+#~ msgstr "Strong heat"
+
+#~ msgid "80&deg;C-100&deg;C"
+#~ msgstr "80&deg;C-100&deg;C"
+
+#~ msgid ""
+#~ "Copper carbonate decomposes at about 290&deg;C</br>giving off carbon "
+#~ "dioxide and leaving copper (II) oxide."
+#~ msgstr ""
+#~ "Copper carbonate decomposes at about 290&deg;C</br>giving off carbon "
+#~ "dioxide and leaving copper (II) oxide."
+
+#~ msgid ""
+#~ "When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+#~ "the water molecules to form</br>white coloured anhydrous FeSO<sub>4</"
+#~ "sub>. On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes "
+#~ "to form a reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and "
+#~ "SO<sub>2</sub> and</br>SO<sub>3</sub> gases."
+#~ msgstr ""
+#~ "When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+#~ "the water molecules to form</br>white coloured anhydrous FeSO<sub>4</"
+#~ "sub>. On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes "
+#~ "to form a reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and "
+#~ "SO<sub>2</sub> and</br>SO<sub>3</sub> gases."
+
+#~ msgid ""
+#~ "When an electric current is being passed through water, it decomposes</"
+#~ "br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas "
+#~ "(O<sub>2</sub>) at the</br>anode. The amount of hydrogen generated is "
+#~ "twice that of oxygen."
+#~ msgstr ""
+#~ "When an electric current is being passed through water, it decomposes</"
+#~ "br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas "
+#~ "(O<sub>2</sub>) at the</br>anode. The amount of hydrogen generated is "
+#~ "twice that of oxygen."
+
+#~ msgid ""
+#~ "When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+#~ "sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions "
+#~ "undergo oxidation to form chlorine gas. At the cathode,</br>water "
+#~ "molecules reduced to form hydrogen gas, leaving OH<sup>-</sup> ions. "
+#~ "Na<sup>+</sup> ions</br>and OH<sup>-</sup> ions react together to form "
+#~ "aqueous NaOH."
+#~ msgstr ""
+#~ "When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+#~ "sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions "
+#~ "undergo oxidation to form chlorine gas. At the cathode,</br>water "
+#~ "molecules reduced to form hydrogen gas, leaving OH<sup>-</sup> ions. "
+#~ "Na<sup>+</sup> ions</br>and OH<sup>-</sup> ions react together to form "
+#~ "aqueous NaOH."
+
+#~ msgid ""
+#~ "Silver chloride undergoes decomposition in the presence</br>of light "
+#~ "giving off chlorine gas and leaving metallic silver."
+#~ msgstr ""
+#~ "Silver chloride undergoes decomposition in the presence</br>of light "
+#~ "giving off chlorine gas and leaving metallic silver."
+
+#~ msgid ""
+#~ "Silver bromide undergoes decomposition in the presence</br>of light "
+#~ "giving off bromine gas and leaving metallic silver."
+#~ msgstr ""
+#~ "Silver bromide undergoes decomposition in the presence</br>of light "
+#~ "giving off bromine gas and leaving metallic silver."
+
+#~ msgid "Select the sample."
+#~ msgstr "Select the sample."
+
+#~ msgid "To start the experiment,</br>click on the Start button."
+#~ msgstr "To start the experiment,</br>click on the Start button."
+
+#~ msgid "Drag the test tube over the burner</br>to heat the compound."
+#~ msgstr "Drag the test tube over the burner</br>to heat the compound."
+
+#~ msgid "Move the slider to adjust</br>the rheostat resistance."
+#~ msgstr "Move the slider to adjust</br>the rheostat resistance."
+
+#~ msgid "Use the slider to adjust</br>the power of the light."
+#~ msgstr "Use the slider to adjust</br>the power of the light."
+
+#~ msgid "Use the slider to adjust the</br>distance of the light source."
+#~ msgstr "Use the slider to adjust the</br>distance of the light source."
+
+#~ msgid ""
+#~ "Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+#~ msgstr ""
+#~ "Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+
+#~ msgid "To start the experiment,</br>click on the Switch on button."
+#~ msgstr "To start the experiment,</br>click on the Switch on button."
+
+#~ msgid "Adjust the rheostat resistance</br>by using the slider control."
+#~ msgstr "Adjust the rheostat resistance</br>by using the slider control."
+
+#~ msgid "Adjust the power of the light</br>by using the slider control."
+#~ msgstr "Adjust the power of the light</br>by using the slider control."
+
+#~ msgid "Move the lamp from the</br>compound by using the slider</br>control."
+#~ msgstr ""
+#~ "Move the lamp from the</br>compound by using the slider</br>control."
+
+#~ msgid "Anode:"
+#~ msgstr "Anode:"
+
+#~ msgid "Cathode:"
+#~ msgstr "Cathode:"
+
+#~ msgid "50 cm"
+#~ msgstr "50 cm"

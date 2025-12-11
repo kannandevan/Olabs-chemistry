@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>സിലിണ്ടറുകൾ, ബേരിയം ക്ലോറൈഡ് ലായനി, സോഡിയം സൾഫേറ്റ് ലായനി, കോണിക്കൽ ഫ്ലാസ്ക്, കോർക്ക്, 10മി.ലി.ടെസ്റ്റൃൂബ്, വൈദൃുത ത്രാസ്സ് തുടങ്ങിയവ നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>5 മി.ലി. സോഡിയം സൾഫേറ്റ് ലായനി ഒരു അളവ് സിലിണ്ടറിൽ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>5 മി.ലി. സോഡിയം സൾഫേറ്റ് ലായനി ഒരു അളവ് സിലിണ്ടറിൽ അളക്കുക.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>ഇത് കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 5 ml ബേരിയം ക്ലോറൈഡ്  അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 5 ml ബേരിയം ക്ലോറൈഡ്  അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>ഇത് 10 മി.ലി. ടെസ്റ്റൃൂബിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് നൂല് ഉപയോഗിച്ച് കെട്ടുക, കോണിക്കൽ ഫ്ലാസ്കിൽ ടെസ്റ്റൃൂബ് ശ്രദ്ധാപൂർവ്വം തൂക്കിയിടുക, അതുകൊണ്ട് ലായനി  തമ്മിൽ കലരുകയില്ല.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്ക് കോർക്ക് വെച്ച് അടക്കുക, അതുകൊണ്ട് നൂല് കെട്ടിയ ടെസ്റ്റൃൂബ്  സ്ഥരമായി നിൽക്കുന്നു.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്ക് എടുക്കുക, ശ്രദ്ധാപൂർവ്വം  ഫ്ലാസ്ക് വൈദൃുത  ത്രാസ്സിൽ വെച്ച്  അളക്കുക, ലായനികൾ  തമ്മിൽ കലരുന്നില്ല എന്ന് ഉറപ്പ് വരുത്തിയിട്ട്  റീഡിംഗ് രേഖപ്പെടുത്തുക.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>ത്രാസ്സിൽ നിന്ന്  ഫ്ലാസ്ക്  എടുക്കുക, എന്നിട്ട്  ഫ്ലാസ്ക് ചരിച്ച് കറക്കുക അതുകൊണ്ട് ടെസ്റ്റൃൂബിലെ ബേരിയം ക്ലോറൈഡ്  ലായനി  നിറഞ്ഞ് കവിഞ്ഞ് ഫ്ലാസ്കിലെ സോഡിയം സൾഫേറ്റ് ലായനിയുമായി ചേർന്ന് യോജിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Lab12_two">
+	<TEXTVALUE>ബേരിയം സൾഫേറ്റിൻ്റെ വെള്ള നിറത്തിലുള്ള  അവക്ഷിപ്തവും സോഡിയം ക്ലോറൈഡിൻ്റെ ജലീയലായനിയും  രൂപപ്പെടുന്നു.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>ഈ പ്രവർത്തനം പൂർണ്ണമാകാൻ 10 മിനിട്ട് കാത്തിരിക്കുക, ബേരിയം സൾഫേറ്റിൻ്റെ വെള്ള  അവക്ഷിപ്തം ഫ്ലാസ്കിൻ്റെ  അടിയിൽ  അടിയുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>ഫ്ലാസ്കിലെ  മിശ്രിതം  വീണ്ടും അളക്കുക, വീണ്ടും റീഡിംഗ് രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab15">
+	<TEXT ID="lab15_one">
+	<TEXTVALUE>ഇതിൽ നിന്ന് നിരീക്ഷിക്കാൻ കഴിയുന്നത്  "പ്രവർത്തിക്കുന്ന വസ്തുക്കളുടെ ആകെ മാസ്സ് ഉൽപ്പന്നങ്ങളുടെ ആകെ മാസ്സിന് തുലൃമാണ്."  ആയതിനാൽ ദ്രവൃസംരക്ഷണ നിയമം തെളിയിക്കപ്പെട്ടിരിക്കുന്നു.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

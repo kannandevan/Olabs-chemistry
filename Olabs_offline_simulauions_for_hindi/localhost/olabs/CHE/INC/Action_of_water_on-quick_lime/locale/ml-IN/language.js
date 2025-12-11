@@ -1,0 +1,28 @@
+$.i18n.ml = {};
+ jQuery.i18n.ml.strings ={
+	"Drag the spatula </br>over the empty beaker to put</br> quick lime into it.": "സ്പാറ്റുല  ഒഴിഞ്ഞ  ബീക്കറിന് മീതെ നീക്കുക.</br>അതിലേക്ക് ചുണ്ണാമ്പ് ഇടുക.",
+	"Drag the distilled water beaker</br> to the beaker containing quick lime</br> to add water into it.": "ശുദ്ധീകരിച്ച ജലം </br>അടങ്ങിയ ബീക്കർ  ചുണ്ണാമ്പ് അടങ്ങിയ</br> ബീക്കറിന് അടുത്തേക്ക്  നീക്കുക ശേഷം ജലം </br>ഇതിലേക്ക് ഒഴിക്കുക.",
+	"Drag the dropper and dip it</br> in the beaker to suck lime water </br>into it, and then drag it to </br>the test tube to pour the solution</br> into the test tube.": "ഡ്രോപ്പർ നീക്കിയിട്ട് </br>ബീക്കറിൽ മുങ്ങിക്കിടക്കുന്ന നാരങ്ങാവെള്ളം വലിച്ചെടുക്കുക,</br>ടെസ്ട്യുബ്  നീക്കിയിട്ട് </br>ലായനി അതിലേക്ക് </br>ഒഴിക്കുക",
+	"Drop the solution </br>in the test tube": "ടെസ്ട്യുബിലേക്ക് ലായനി</br> ഇറ്റിക്കുക",
+	"Drag the cork to the</br> test tube to close it.</br>": "ടെസ്ട്യുബിനടുത്തേക്ക് കോർക്ക്</br> നീക്കിയിട്ട് </br> അടക്കുക.",
+	"Click here continuously </br>to blow exhaust air </br>into the tube.": "തുടർച്ചയായി ഇവിടെ ക്ലിക്ക് ചെയ്ത്</br> ട്യുബിലേക്ക് വായു</br>ഊതികയറ്റുക.",
+	"Quick lime reacts vigorously with water releasing a large</br>amount of heat and producing a single product-slaked lime.</br>This is a combination reaction.": "ചുണ്ണാമ്പ്  കൂടുതൽ കരുത്തായി ജലവുമായി  പ്രവർത്തിച്ച് ചൂടിനെ </br>മോചിപ്പിച്ചുകൊണ്ടുള്ള  ലഘു ഉൽപ്പന്നമായ  ചുണ്ണാമ്പിന്റെ<br> അവക്ഷിപ്തം ഉണ്ടാകുന്നു. അതുകൊണ്ട് ഇത് </br>ഒരു സംയോജന പ്രവർത്തനം ആണ്.",
+	"CO<sub>2</sub>(g) contained in exhaled air turns lime water milky. The milky</br> apperance of lime water is due to the formation of white precipitate of </br>calcium carbonate.": "Co<sub>2</sub>(g) ഇതിൽ ഊതി കയറ്റി വായു</br> ഉള്ളതുകൊണ്ട് നാരങ്ങാ വെള്ളം പാൽ നിറമാകുന്നു.",
+	"Quick lime": "നീറ്റ് ചുണ്ണാമ്പ്",
+	"Distilled water": "ശുദ്ധീകരിച്ച ജലം",
+	"Lime water": "നാരങ്ങാ വെള്ളം ",
+	"Blow": "ഊതുക",
+	"Next": "അടുത്തത്",
+	"Combination Reaction": "സംയോജന പ്രവർത്തനം",
+	"HELP": "HELP",
+	"Reset": "പുനഃക്രമീകരണം",
+	"Instructions": "നിർദ്ദേശങ്ങൾ",
+	"<li>Drag the spatula over the empty beaker to put quick lime into it.</li><br />": "<li>ഒഴിഞ്ഞ ബീക്കറിന് മേലെ സ്പാറ്റുല നീക്കുക, ചുണ്ണാമ്പ് അതിലേക്ക് ഇടുക.</li><br/>",
+	"<li>Drag the distilled water beaker to the beaker containing quick lime to add water into it.</li><br />": "<li>ചുണ്ണാമ്പ് അടങ്ങിയ ബീക്കറിനടുത്തേക്ക്  ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ നീക്കുക, ശേഷം ജലം അതിലേക്ക് ഒഴിക്കുക</li><br/>",
+	"<li>Wait for some time till the quick lime reacts with water to form slaked lime.</li><br />": "<li>ചുണ്ണാമ്പ് ജലവുമായി ലയിച്ച് ചുണ്ണാമ്പിന്റെ  തരികളുടെ അവക്ഷിപ്തം ആകുന്നതുവരെ  കുറച്ച് സമയം കാത്തിരിക്കുക</li><br/>",
+	"<li>Click on the inference icon to view the inference.</li><br />": "<li>അനുമാനത്തിന്റെ  ഐക്കൺ ക്ലിക്ക് ചെയ്ത് അനുമാനം കാണുക.</li><br/>",
+	"<li>Click on the 'Next' button.</li><br />": "<li>അടുത്ത ബട്ടൻ ക്ലിക്ക് ചെയ്യുക</li><br/>",
+	"<li value='6'>Clear solution of lime water is obtained as the suspension of slaked lime settle down at the bottom of the beaker.</li><br />": "<li value='6'>നാരങ്ങാ വെള്ളത്തിന്റെ   ലായനി വേർതിരിയുന്നു. അലിയാത്ത ചുണ്ണാമ്പിന്റെ  അവക്ഷിപ്തം ബീക്കറിന്റെ  അടിയിൽ അവശേഷിക്കുന്നു.</li> <br/>",
+	"<li>Drag the dropper and dip it in the beaker to suck lime water into it, and then drag it to the test tube to pour the solution into the test tube.</li><br />": "<li>ഡ്രോപ്പർ നീക്കിയിട്ട് ബീക്കറിലേക്ക് മുക്കുക. ശേഷം  നാരങ്ങാ വെള്ളം  വലിച്ചെടുക്കുക, ഇത് ടെസ്ട്യുബിലേക്ക് നീക്കി അതിലേക്ക് ലായനി ഒഴിക്കുക.</li><br/>",
+	"<li value='9'>Click on the 'Blow' button 3-4 times to blow the exhaled air into the tube.</li><br />": "<li value='9'>ഊതുന്ന ബട്ടനിൽ 3-4 പ്രാവശ്യം  ക്ലിക്ക് ചെയ്ത് വായു ട്യുബിലേക്ക് ഊതിക്കയറ്റുക</li><br/>"
+}

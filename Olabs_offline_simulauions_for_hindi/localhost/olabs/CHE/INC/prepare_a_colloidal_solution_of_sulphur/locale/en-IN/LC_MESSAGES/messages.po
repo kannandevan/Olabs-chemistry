@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-07 16:08+0530\n"
+"PO-Revision-Date: 2025-10-07 16:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: secondpage.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "MAXIMIZE"
+ 
+msgid "MINIMIZE"
+msgstr "MINIMIZE"
+
+msgid "Alert"
+msgstr "Alert"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "Do you want to reset the simulation"
+ 
+msgid "Yes"
+msgstr "Yes"
+ 
+msgid "No"
+msgstr "No"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+
+msgid "HELP"
+msgstr "HELP"
+
+msgid "RESET"
+msgstr "RESET"
+
+#: secondpage.js:32
+msgid "1. Drag and drop the funnel to empty test tube A."
+msgstr "1. Drag and drop the funnel to empty test tube A."
+
+#: secondpage.js:33
+msgid "2. Drag and drop the filter paper above the funnel."
+msgstr "2. Drag and drop the filter paper above the funnel."
+
+#: secondpage.js:34
+msgid "3. Drag the test tube and drop it in the empty test tube A."
+msgstr "3. Drag the test tube and drop it in the empty test tube A."
+
+#: secondpage.js:293
+msgid "Can filter paper be used to separate colloids?"
+msgstr "Can filter paper be used to separate colloids?"
+
+#: secondpage.js:293
+msgid "Yes, because the size of the colloidal particle is 100 micrometer"
+msgstr "Yes, because the size of the colloidal particle is 100 micrometer"
+
+#: secondpage.js:293
+msgid "No, the size of the colloidal particle is less than 100 nanometers"
+msgstr "No, the size of the colloidal particle is less than 100 nanometers"
+
+#: simcontrols.js:57
+msgid "Prepare a Colloidal Solution of Sulphur"
+msgstr "Prepare a Colloidal Solution of Sulphur"
+
+#: simcontrols.js:63
+msgid "Click and drag the distilled water and <br>  drop it in the test tube"
+msgstr "Click and drag the distilled water and <br>  drop it in the test tube"
+
+#: simcontrols.js:64
+msgid "Drop it in the test tube"
+msgstr "Drop it in the test tube"
+
+#: simcontrols.js:65
+msgid "Drag the test tube and drop it <br> towards the Kipp's apparatus"
+msgstr "Drag the test tube and drop it <br> towards the Kipp's apparatus"
+
+#: simcontrols.js:66
+msgid "Drag the test tube upwards to <br> shake"
+msgstr "Drag the test tube upwards to <br> shake"
+
+#: simcontrols.js:67
+msgid "Drag the test tube and <br>drop it in the empty test tube"
+msgstr "Drag the test tube and <br>drop it in the empty test tube"
+
+#: simcontrols.js:68
+msgid "Drop it into the Kipp's apparatus"
+msgstr "Drop it into the Kipp's apparatus"
+
+#: simcontrols.js:69
+msgid "Click the knob to open the valve"
+msgstr "Click the knob to open the valve"
+
+#: simcontrols.js:70
+msgid "Click the knob to close the valve"
+msgstr "Click the knob to close the valve"
+
+#: simcontrols.js:71
+msgid "Drag and drop the dropper towards the test tube"
+msgstr "Drag and drop the dropper towards the test tube"
+
+#: simcontrols.js:72
+msgid "Click on the Next button"
+msgstr "Click on the Next button"
+
+#: simcontrols.js:73
+msgid "Drag the spatula and drop <br> it in the watch glass"
+msgstr "Drag the spatula and drop <br> it in the watch glass"
+
+#: simcontrols.js:74
+msgid "Drag the spatula and drop <br> it in the test tube"
+msgstr "Drag the spatula and drop <br> it in the test tube"
+
+#: simcontrols.js:76
+msgid "Drag and drop the funnel to empty test tube A"
+msgstr "Drag and drop the funnel to empty test tube A"
+
+#: simcontrols.js:77
+msgid "Drag and drop the filter paper above the funnel"
+msgstr "Drag and drop the filter paper above the funnel"
+
+#: simcontrols.js:78
+msgid "Drag the test tube and <br>drop it in the empty test tube A"
+msgstr "Drag the test tube and <br>drop it in the empty test tube A"
+
+#: simcontrols.js:79
+msgid ""
+"Repeat the previous three steps for <br> the other two test tubes B and C"
+msgstr ""
+"Repeat the previous three steps for <br> the other two test tubes B and C"
+
+#: simcontrols.js:81
+msgid "Please wash and use the funnel"
+msgstr "Please wash and use the funnel"
+
+#: simcontrols.js:82 simcontrols.js:94
+msgid "The solution will smell like a rotten egg"
+msgstr "The solution will smell like a rotten egg"
+
+#: simcontrols.js:84
+msgid ""
+"A colloidal solution is heterogenous, it appears translucent.<br> It cannot  "
+"be filtered completely through filter paper.<br> Here solute particles do "
+"not easily settle down on standing."
+msgstr ""
+"A colloidal solution is heterogenous, it appears translucent.<br> It cannot  "
+"be filtered completely through filter paper.<br> Here solute particles do "
+"not easily settle down on standing."
+
+#: simcontrols.js:85
+msgid ""
+"A true solution is homogenous and transparent. <br>It can be completely "
+"filtered through filter paper.<br> It remains stable on standing."
+msgstr ""
+"A true solution is homogenous and transparent. <br>It can be completely "
+"filtered through filter paper.<br> It remains stable on standing."
+
+#: simcontrols.js:86
+msgid ""
+"A suspension is heterogeneous mixture. <br>The particles of a suspension are "
+"visible<br>to the naked eye. They settle down on <br>standing and can be "
+"separated by filtration."
+msgstr ""
+"A suspension is heterogeneous mixture. <br>The particles of a suspension are "
+"visible<br>to the naked eye. They settle down on <br>standing and can be "
+"separated by filtration."
+
+#: simcontrols.js:88
+msgid "Click on the Reset button <br>to repeat the experiment again"
+msgstr "Click on the Reset button <br>to repeat the experiment again"
+
+#: simcontrols.js:89
+msgid "Fog is a colloidal solution of:"
+msgstr "Fog is a colloidal solution of:"
+
+#: simcontrols.js:89
+msgid "Solid in gas"
+msgstr "Solid in gas"
+
+#: simcontrols.js:89
+msgid "Gas in liquid"
+msgstr "Gas in liquid"
+
+#: simcontrols.js:89
+msgid "Liquid in gas"
+msgstr "Liquid in gas"
+
+#: simcontrols.js:89
+msgid "Gas in gas"
+msgstr "Gas in gas"
+
+#: simcontrols.js:93
+msgid "Choose the correct answer"
+msgstr "Choose the correct answer"
+
+#: simcontrols.js:95
+msgid "Instructions:"
+msgstr "Instructions:"
+
+#: simcontrols.js:96
+msgid "1. Click and drag the distilled water and drop it in the test tube."
+msgstr "1. Click and drag the distilled water and drop it in the test tube."
+
+#: simcontrols.js:97
+msgid "2. Drag the test tube and drop it into the Kipp's apparatus."
+msgstr "2. Drag the test tube and drop it into the Kipp's apparatus."
+
+#: simcontrols.js:98
+msgid "3. Click the knob to open the valve."
+msgstr "3. Click the knob to open the valve."
+
+#: simcontrols.js:99
+msgid "4. Click the knob to close the valve."
+msgstr "4. Click the knob to close the valve."
+
+#: simcontrols.js:100
+msgid "5. Drag and drop the dropper towards the test tube."
+msgstr "5. Drag and drop the dropper towards the test tube."
+
+#: simcontrols.js:101
+msgid "6. Drag the test tube upwards to shake."
+msgstr "6. Drag the test tube upwards to shake."
+
+#: simcontrols.js:102
+msgid "7. Drag and drop the dropper towards the test tube."
+msgstr "7. Drag and drop the dropper towards the test tube."
+
+#: simcontrols.js:103
+msgid "8. Drag the test tube and drop it in the empty test tube."
+msgstr "8. Drag the test tube and drop it in the empty test tube."
+
+#: simcontrols.js:104
+msgid "Next"
+msgstr "Next"
+
+#: simcontrols.js:335
+msgid "2. Drag the spatula and drop it in the watch glass."
+msgstr "2. Drag the spatula and drop it in the watch glass."
+
+#: simcontrols.js:336
+msgid "3. Drag the spatula and drop it in the test tube."
+msgstr "3. Drag the spatula and drop it in the test tube."
+
+#: simcontrols.js:337
+msgid "4. Drag the test tube upwards to shake."
+msgstr "4. Drag the test tube upwards to shake."
+
+msgid "Level "
+msgstr "Level "
+
+msgid "Score "
+msgstr "Score "

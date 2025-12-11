@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ash\n"
+"POT-Creation-Date: 2015-01-19 10:15+0530\n"
+"PO-Revision-Date: 2016-06-04 14:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:46
+msgid "Chemical Reactions"
+msgstr "രാസപ്രവർത്തനങ്ങൾ"
+
+#: ../js/simcontrols.js:47
+msgid "HELP"
+msgstr "HELP"
+
+#: ../js/simcontrols.js:48
+msgid "FULL SCREEN"
+msgstr "വലുത്"
+
+#: ../js/simcontrols.js:49
+msgid "EXIT"
+msgstr "പുറത്ത് "
+
+#: ../js/simcontrols.js:50
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "അമൃതാ സർവ്വകലാശാലയും CDAC മുംബെയും സംയുക്തമായി വികസിപ്പിച്ചെടുത്തത്<br>IT വിഭാഗത്തിൻ്റെ സാമ്പത്തിക സഹായത്തിലുള്ളത്."
+
+#: ../js/simcontrols.js:52
+msgid "Reset"
+msgstr "പുനക്രമീകരണം"
+
+#: ../js/simcontrols.js:52
+msgid "Select the reaction"
+msgstr "പ്രവർത്തനം തിരഞ്ഞെടുക്കുക"
+
+#: ../js/simcontrols.js:52
+msgid "Burning of magnesium in air"
+msgstr "മഗ്നീഷൃത്തിൻ്റെ വായുവിലുള്ള കത്തൽ"
+
+#: ../js/simcontrols.js:52
+msgid "Sublimation of dry ice"
+msgstr "ഖര ഐസിൻ്റെ ഉദാത്തീകരണം"
+
+#: ../js/simcontrols.js:52
+msgid "Na<sub>2</sub>SO<sub>4</sub> (aq) with BaCl<sub>2</sub> (aq)"
+msgstr "Na<sub>2</sub>SO<sub>4</sub> (aq) with BaCl<sub>2</sub> (aq)"
+
+#: ../js/simcontrols.js:52
+msgid "Iron nail with CuSO<sub>4</sub>   (aq)"
+msgstr "ഇരമ്പാണി CuSO<sub>4</sub>    (aq)"
+
+#: ../js/simcontrols.js:52
+msgid "Heating of CuSO<sub>4</sub>"
+msgstr "CuSO<sub>4</sub>ൻ്റെ ചൂടാക്കൽ"
+
+#: ../js/simcontrols.js:52
+msgid "Melting of ice"
+msgstr "ഐസിൻ്റെ ഉരുകൽ"
+
+#: ../js/simcontrols.js:52
+msgid "Zinc with dil.H<sub>2</sub>SO<sub>4</sub>"
+msgstr "സിങ്കും നേർപ്പിച്ച H<sub>2</sub>so<sub>4</sub>"
+
+#: ../js/simcontrols.js:52
+msgid "Litmus test"
+msgstr "ലിറ്റ്മസ് ടെസ്റ്റ്"
+
+#: ../js/simcontrols.js:52
+msgid "Hydrogen pop test"
+msgstr "ഹൈഡ്രജൻ പോപ്പ് ടെസ്റ്റ്"
+
+#: ../js/simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with NaOH"
+msgstr "ZnSO<sub>4</sub> (aq) with NaOH"
+
+#: ../js/simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with H<sub>2</sub>S gas"
+msgstr "ZnSo<sub>4</sub(aq) +H<sub>2</sub>S വാതകം."
+
+#: ../js/simcontrols.js:52
+msgid "Select the Identification test"
+msgstr "തിരിച്ചറിയൽ ടെസ്റ്റ് തിരഞ്ഞെടുക്കുക."
+
+#: ../js/simcontrols.js:52
+msgid "Result"
+msgstr "ഫലം"
+
+#: ../js/simcontrols.js:53
+msgid "Moist red litmus paper"
+msgstr "ഈർപ്പമുള്ള ചുവന്ന ലിറ്റ്മസ് പേപ്പർ"
+
+#: ../js/simcontrols.js:53
+msgid "Magnesium oxide"
+msgstr "മഗ്നീഷൃം ഓക്സൈഡ്."
+
+#: ../js/simcontrols.js:53
+msgid "BaCl<sub>2</sub>"
+msgstr "BaCl<sub>2</sub>"
+
+#: ../js/simcontrols.js:53
+msgid "Na<sub>2</sub>SO<sub>4</sub>"
+msgstr "Na<sub>2</sub>SO<sub>4</sub>"
+
+#: ../js/simcontrols.js:53
+msgid "Dil.HCl"
+msgstr "Dil.HCl"
+
+#: ../js/simcontrols.js:53
+msgid "Dry red litmus paper"
+msgstr "ഉണങ്ങിയ ചുവന്ന ലിറ്റ്മസ് പേപ്പർ"
+
+#: ../js/simcontrols.js:53
+msgid "Blue litmus paper"
+msgstr "നീല ലിറ്റ്മസ് പേപ്പർ"
+
+#: ../js/simcontrols.js:53
+msgid "Distilled Water"
+msgstr "ശുദ്ധ ജലം"
+
+#: ../js/simcontrols.js:53
+msgid "Hydrated CuSO<sub>4</sub>"
+msgstr "ജലാംശമുള്ള CuSO<sub>4</sub>"
+
+#: ../js/simcontrols.js:54
+msgid "Turn on the burner by clicking the knob of the burner."
+msgstr "ബർണർ തിരിക്കുക, ബർണറിൻ്റെ  നോബിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:54
+msgid "Click on the tong to burn the magnesium ribbon."
+msgstr "ചവണയിൽ ക്ലിക്ക് ചെയ്ത്  മഗ്നീഷൃം നാട കത്തിക്കുക."
+
+#: ../js/simcontrols.js:54
+msgid "Drag the spatula to add <br>magnesium oxide to the litmus paper."
+msgstr "മഗനീഷൃം ഓക്സൈഡ് ലിറ്റ്മസ് പേപ്പറിലേക്ക് ചേർക്കാൻ  സ്പാറ്റുല നീക്കുക."
+
+#: ../js/simcontrols.js:55
+msgid "Red litmus turns blue, indicating MgO is basic in <br>nature."
+msgstr "ചുവന്ന ലിറ്റ്മസ് മാറി നീലയാകുന്നു,ഇത് സൂചിപ്പിക്കുന്നത് MgO ഒരു<br>ആൽക്കലി ആണ് എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid "Magnesium burns in air and utilize atmospheric <br>oxygen to form magnesium oxide."
+msgstr "മഗ്നീഷൃം വായുവിൽ കത്തുന്നു,അന്തരീക്ഷ ഓക്സിജനെ<br>ഉപയോഗപ്പെടുത്തി മഗ്നീഷൃം ഓക്സൈഡ് ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:55
+msgid "Dazzling flame"
+msgstr "മിന്നുന്ന തീജ്വാല"
+
+#: ../js/simcontrols.js:56
+msgid "Drag BaCl<sub>2</sub> bottle to pour<br> the solution into the conical flask."
+msgstr "BaCl<sub>2</sub><br>ലായനി കോണിക്കൽ ഫ്ലാസ്കിലേക്ക്  ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:56
+msgid "Drag Na<sub>2</sub>SO<sub>4</sub> bottle to pour <br>the solution into the conical flask."
+msgstr " Na<sub>2</sub>So<sub>4</sub>ലായനി<br>കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the conical flask and then click<br> on the stirrer to stir the solution."
+msgstr "കോണിക്കൽ ഫ്ലാസ്കിൽ ക്ലിക്ക് ചെയ്യുക<br>ലായനി ഇളക്കാനുള്ള ഉപകരണത്തിൽ ക്ലിക്ക് ചെയ്ത് ഇളക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Drag the conical flask to decant <br>the upper solution from the flask to a beaker."
+msgstr "തെളിയൂറ്റുന്നതിനുവേണ്ടി കോണിക്കൽ ഫ്ലാസ്ക് നീക്കുക<br>മുകളിലത്തെ ലായനി ഫ്ലാസ്കിൽ നിന്ന് ബീക്കറിലേക്ക്."
+
+#: ../js/simcontrols.js:57
+msgid "Drag Dil.HCl bottle to pour <br>the solution into the conical flask."
+msgstr "നേർപ്പിച്ച HCL അടങ്ങിയ ബോട്ടിൽ നീക്കുക<br>ലായനി കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the cork to open the bottle."
+msgstr "കോർക്കിൽ ക്ലിക്ക് ചെയ്ത് കുപ്പി തുറക്കുക."
+
+#: ../js/simcontrols.js:58
+msgid "Sodium sulphate chemically reacts with Barium chloride<br> to form a white precipitate of Barium sulphate."
+msgstr "സോഡിയം സൾഫേറ്റ് രാസപരമായി ബേരിയം ക്ലോറൈഡുമായി പ്രവർത്തിച്ച്<br>ബേരിയം സൾഫേറ്റിൻ്റെ വെള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:58
+msgid "The precipitate (Barium sulphate) obtained <br>is insoluble in dilute HCl."
+msgstr "വേർതിരിഞ്ഞുവന്ന (ബേരിയം സൾഫേറ്റിൻ്റെ)<br>അവക്ഷിപ്തം<br>നേർപ്പിച്ച HCl ൽ ലയിക്കുന്നില്ല."
+
+#: ../js/simcontrols.js:59
+msgid "Drag the iron nail to immerse it in one of the test tube."
+msgstr "ഇരുമ്പാണി നീക്കി ടെസ്റ്റൃൂബുകളിൽ ഒരെണ്ണത്തിൽ മുക്കുക."
+
+#: ../js/simcontrols.js:59
+msgid "Click on the thread to remove the iron nail from <br>the test tube and compare it with the other iron nail."
+msgstr "ടെസ്റ്റൃൂബിൽ നിന്ന് ഇരുമ്പാണി മാറ്റാനായി<br> നൂലിൽ ക്ലിക്ക് ചെയ്യുക ഇത് മറ്റേ ഇരുമ്പാണിയുമായി <br>താരതമൃം ചെയ്യുക."
+
+#: ../js/simcontrols.js:60
+msgid ""
+"Iron is more reactive than copper as Fe<sup>2+</sup> ions <br> have displaced Cu<sup>2+</sup> ions from CuSO<sub>4</sub> <br>and form light green "
+"coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"കോപ്പർ ഫെറസുമായി തട്ടിച്ചു നോക്കുമ്പോൾ<br> അതിനേക്കാൾ ക്രിയാശീലത ഉള്ളത് <br> അയണിനാണ് Fe<sup>2+</sup>ions<br> Cu<sup>2+</sup>ions cuSo<Sub><br>and മങ്ങിയപച്ചനിറം "
+"ഉണ്ടാകുന്നു .Feso<sub>4</sub>ലായനി."
+
+#: ../js/simcontrols.js:60
+msgid "The displaced copper is deposited as <br> a reddish -brown coating on the iron nail."
+msgstr "സ്ഥാനമാറ്റം വന്ന കോപ്പർ നിക്ഷേപം ആണ്<br>ഇരുമ്പാണിയുടെ പുറത്തുകാണുന്ന കടും ചുവപ്പ് കലർന്ന തവിട്ട് നിറത്തിലുള്ള ആവരണം."
+
+#: ../js/simcontrols.js:61 ../js/simcontrols.js:70
+msgid "Drag the spatula to add  Zinc granules <br> to dil.Sulphuric acid."
+msgstr "സ്പാറ്റുല നീക്കിയിട്ട് സിങ്ക് തരികൾ <br> ചേർക്കുക നേർപ്പിച്ച സൾഫൃൂറിക് ആസിഡ്."
+
+#: ../js/simcontrols.js:62
+msgid "Drag the litmus paper and bring it<br> over the mouth of the test tube."
+msgstr "ലിറ്റ്മസ് പേപ്പർ നീക്കിയിട്ട്<br>ടെസ്റ്റൃൂബിൻ്റെ വായ് ഭാഗത്തിന് മീതെ കൊണ്ടുവരുക."
+
+#: ../js/simcontrols.js:63
+msgid "Hydrogen gas is produced when zinc metal reacts with dil. H<sub>2</sub>SO<sub>4</sub>."
+msgstr "സിങ്ക് ലോഹം നേർപ്പിച്ച H മായി H<sub>2</sub>so<sub>4</sub> പ്രവർത്തിക്കുമ്പോൾ ഹൈഡ്രജൻ വാതകം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:63
+msgid "No change in the colour of the litmus paper <br>(Hydrogen gas is neither acidic nor basic)."
+msgstr "ലിറ്റ്മസ് പേപ്പറിൻ്റെ നിറത്തിന്<br> മാറ്റം വരുന്നില്ല( ഹൈഡ്രജൻ വാതകം  ആസിഡും<br>അല്ല  ആൽക്കലിയും അല്ല)."
+
+#: ../js/simcontrols.js:64
+msgid "Drag the spatula to add Zinc granules<br> to  dil.Sulphuric acid."
+msgstr "സ്പാറ്റുല നീക്കി  സിങ്ക് തരികൾ ചേർക്കുക<br>Dil. H2So4 ചേർക്കുക."
+
+#: ../js/simcontrols.js:65
+msgid "Drag the cork to close the test tube."
+msgstr "കോർക്ക് നീക്കി ടെസ്റ്റൃൂബിനോട് ചേർത്തുവെയ്ക്കുക."
+
+#: ../js/simcontrols.js:65
+msgid "Drag the candle to show it <br>over the mouth of the test tube."
+msgstr "ടെസ്റ്റൃൂബിൻ്റെ വായ് ഭാഗത്തിന് മീതെ<br>മെഴുകുതിരി നീക്കി ഇത് കാണിക്കുക."
+
+#: ../js/simcontrols.js:66
+msgid "Zn reacts with dil.Sulphuric acid to produce hydrogen gas<br>which dips out the flame with mild explosion."
+msgstr "സിങ്ക് നേർപ്പിച്ച സൾഫൃൂറിക് ആസിഡുമായി പ്രവർത്തിച്ച് ഹൈഡ്രജൻ ഉണ്ടാകുന്നു<br> തീജ്വാലയിലൂടെയുള്ള ഒരു ചെറിയ സ്ഫോടനത്തിലൂടെ അത് താഴുന്നു."
+
+#: ../js/simcontrols.js:67
+msgid "Drag the spatula to add Zinc granules<br> to dil.Sulphuric acid."
+msgstr "ഡ്രോപ്പർ നീക്കി<br>സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി<br> ടെസ്റ്റൃൂബിലേക്ക് ചേർക്കുക."
+
+#: ../js/simcontrols.js:68
+msgid "Drag the dropper to add<br> NaOH solution into the test tube."
+msgstr "ഡ്രോപ്പർ നീക്കി <br>NaOH ലായനി ടെസ്റ്റൃൂബിലേക്ക് ചേർക്കുക."
+
+#: ../js/simcontrols.js:68
+msgid "Click on the test tube to shake it."
+msgstr "ടെസ്റ്റൃൂബിലേക്ക് ക്ലിക്ക് ചെയ്ത് അത് നന്നായി കുലുക്കുക."
+
+#: ../js/simcontrols.js:69
+msgid "Zinc reacts with dil. H<sub>2</sub>SO<sub>4</sub> to form<br>  zinc sulphate and hydrogen gas."
+msgstr "സിങ്ക് നേർപ്പിച്ച H<sub>2</sub>so<sub>4</sub>പ്രവർത്തിച്ച് <br>സിങ്ക് സൾഫേറ്റും ഹൈഡ്രജൻ വാതകവും  ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:69
+msgid "Zinc sulphate  reacts with NaOH to form<br> a white gelatinous precipitate of Zinc hydroxide ."
+msgstr "സിങ്ക് സൾഫേറ്റ് സോഡിയം ഹൈഡ്രോക്സൈഡുമായി<br>ചേർന്ന്സിങ്ക് ഹൈഡ്രോക്സൈഡിൻ്റെ<br>പശപോലെയുള്ള  ഒരു വെള്ള  അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:69
+msgid "The white precipitate dissolves<br> when Sodium hydroxide is added in excess."
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈഡ്  കൂടുതലായി<br>ചേർക്കുമ്പോൾ വെള്ള  അവക്ഷിപ്തം വെള്ള<br>അവക്ഷിപ്തം ലയിക്കുന്നു."
+
+#: ../js/simcontrols.js:70
+msgid "Drag the test tube to fit  <br>it in the Kipps apparatus."
+msgstr "ടെസ്റ്റൃൂബ് നീക്കി <br> കിപ്പ്സ് ഉപകരണത്തിനോട് ഘടിപ്പിക്കുക."
+
+#: ../js/simcontrols.js:70
+msgid "Click on the knob of Kipps apparatus to pass  <br>hydrogen sulphide gas to the solution."
+msgstr "കിപ്പ്സ് ഉപകരണത്തിൻ്റെ നോബിൽ ക്ലിക്ക് ചെയ്തിട്ട്<br>H2S ലായനി കടത്തുക."
+
+#: ../js/simcontrols.js:70
+msgid "Click on the knob of Kipps apparatus<br> to turn off."
+msgstr "കിപ്പ്സ് ഉപകരണത്തിൻ്റെ നോബിൽ ക്ലിക്ക് ചെയ്തിട്ട്<br>തിരിക്കുക."
+
+#: ../js/simcontrols.js:70
+msgid "Click on the test tube<br> to shake it."
+msgstr "ടെസ്റ്റൃൂബിൽ ക്ലിക്ക് ചെയ്ത്<br>അത് കുലുക്കുക."
+
+#: ../js/simcontrols.js:70
+msgid "Drag the test tube <br>to place it in the stand."
+msgstr "ടെസ്റ്റൃൂബ് നീക്കി സ്റ്റാൻഡിൽ<br>തന്നെ ഉറപ്പിക്കുക."
+
+#: ../js/simcontrols.js:71
+msgid "Zinc sulphate reacts with Hydrogen sulphide gas<br> to form a white precipitate of Zinc sulphide."
+msgstr "Znso4  , H 2s വാതകവുമായി<br> പ്രവർത്തിച്ച്സിങ്ക് സൾഫൈഡിൻ്റെ<br> വെള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:72
+msgid "Turn on the burner by clicking the knob of the  burner."
+msgstr "ബർനറിൻ്റെ നോബിൽ ക്ലിക്ക് ചെയ്ത് ബർനർ തിരിക്കുക."
+
+#: ../js/simcontrols.js:72
+msgid "Drag the holder to heat the boiling tube<br> containing hydrated copper sulphate."
+msgstr "കൈപ്പിടികൊണ്ട് ജ്വലനടൃൂബ് ചൂടാക്കുക<br>അതിൽ ഹൈഡ്രേറ്റഡ് കോപ്പർസൾഫേറ്റ് ഉണ്ട്."
+
+#: ../js/simcontrols.js:72
+msgid "Drag the dropper to add 2-3 drops of water to the<br> boiling tube containing anhydrous copper sulphate."
+msgstr "ഡ്രോപ്പർ നീക്കിയിട്ട് രണ്ട് 2 3 ജലം<br>ജ്വലനടൂബിൽ അൺഹൈഡ്രസ് കോപ്പർസൾഫേറ്റ് ആണ്."
+
+#: ../js/simcontrols.js:73
+msgid "Hydrated copper sulphate crystals turn from blue to white <br>on losing water of crystallization."
+msgstr "ഹൈഡ്രേറ്റഡ് കോപ്പർസൾഫേറ്റ് തരികൾ<br> നിറം മാറി നീലയിൽ നിന്ന് വെള്ളയാകുന്നു<br>ജലത്തിൻ്റെ ക്രിസ്റ്റലീകരണം<br>നഷ്ടമാകുന്നു. "
+
+#: ../js/simcontrols.js:73
+msgid "On adding water, anhydrous copper sulphate rehydrated to <br>form blue coloured hydrated copper sulphate."
+msgstr "ജലം ചേർക്കുമ്പോൾ അൺഹൈഡ്രസ് കോപ്പർസൾഫേറ്റ്<br> വീണ്ടും ജലാംശീകരിക്കുന്നു,നീലനിറത്തിലുള്ള<br> കോപ്പർസൾഫേറ്റ്(ജലാംശം ഉള്ളത്)<br> ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:74
+msgid "Keep a piece of dry ice (solid carbon dioxide) in a dish"
+msgstr "ഒരു ഡിഷിലേക്ക് ഖര ഐസ് കഷണം<br> ഇടുക(ഖര കാർബൺഡയോക്സൈഡ്)."
+
+#: ../js/simcontrols.js:75
+msgid "It is observed that the  solid carbon dioxide<br> directly converted to gaseous carbon dioxide."
+msgstr "ഖരകാർബൺഡയോക്സൈഡ്<br>നേരിട്ട് വാതക കാർബൺഡയോക്സൈഡ്<br>ആയി മാറ്റപ്പെടുന്നതായിട്ടാണ് നിരീക്ഷിക്കുവാൻ <br>സാധിക്കുന്നത്. "
+
+#: ../js/simcontrols.js:76
+msgid "Keep an ice cube (or ice cubes) in a bowl for a short period of time"
+msgstr "കോപ്പയിൽ കുറച്ച് ഐസ് കഷണങ്ങൾ കുറച്ച് സമയം സൂക്ഷിക്കുക."
+
+#: ../js/simcontrols.js:77
+msgid "It is observed that ice cubes slowly melts into water."
+msgstr "ഐസ് കഷണങ്ങൾ സാവധാനം<br> ഉരുകി ജലമായി മാറുന്നതായാണ്<br>നാം കാണുന്നത്."
+
+#: ../js/simcontrols.js:78
+msgid "Dil.Sulphuric acid"
+msgstr "Dil.H<sub>2</sub>SO<sub>4</sub>"
+
+#: ../js/simcontrols.js:78
+msgid "Zinc granules"
+msgstr "സിങ്ക് തരികൾ"
+
+#: ../js/simcontrols.js:78
+msgid "Kipps Apparatus"
+msgstr "കിപ്പ്സ് ഉപകരണം"
+
+#: ../js/simcontrols.js:79
+msgid "NaOH"
+msgstr "NaOH"
+
+#: ../js/simcontrols.js:79
+msgid "Zinc Sulphate"
+msgstr "സിങ്ക് സൾഫേറ്റ്"
+
+#: ../js/simcontrols.js:79
+msgid "Zinc Hydroxide"
+msgstr "സിങ്ക് ഹൈഡ്രോക്സൈഡ്"
+
+#: ../js/simcontrols.js:80
+msgid "Physical change"
+msgstr "ഭൗതികമാറ്റം"
+
+#: ../js/simcontrols.js:80
+msgid "Chemical change"
+msgstr "രാസമാറ്റം"
+
+#: ../js/simcontrols.js:81
+msgid " Correct. "
+msgstr "ശരി."
+
+#: ../js/simcontrols.js:82
+msgid " Wrong.Try agian! "
+msgstr "തെറ്റ്. വീണ്ടും ശ്രമിക്കുക"
+
+#: ../js/simcontrols.js:83
+msgid "15 Mins"
+msgstr "15 Mins"

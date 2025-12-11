@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>आपल्याला असेटीक आम्ल, पीएच कागद, पीएच रंगाचा मानक तक्ता, ड्रॉपर आणि पांढर्‍या टाईल ची आवश्यकता आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>एक पीएच कागद घ्या आणि पांढर्‍या टाईल वर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>एक पीएच कागद घ्या आणि पांढर्‍या टाईल वर ठेवा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>एक पीएच कागद घ्या आणि पांढर्‍या टाईल वर ठेवा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे असेटीक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>पीएच कागदावर एक थेंब टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>पीएच कागदाचा रंग बघा. पीएच कागदाचा रंग लाल होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>पीएच रंगाच्या मानक तक्त्याशी ह्या रंगाची तुलना करा आणि रंग तक्त्यातून पीएच ची नोंद करा. असेटीक आम्लाचे पीएच ३ असते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>आपल्याला असेटीक आम्ल, वैश्विक दर्शक, पीएच रंगाचा मानक तक्ता, ड्रॉपर आणि पांढर्‍या टाईल ची आवश्यकता आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे असेटीक आम्ल घ्या आणि ते परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे असेटीक आम्ल घ्या आणि ते परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>वैश्विक दर्शक द्रावणाचे काही थेंब घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>असेटीक आम्ल असणार्‍या परिक्षा नळीत वैश्विक दर्शकाचे काही थेंब टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>परिक्षा नळी नीट हलवा. द्रावणाचा रंग बदलून लाल होतो</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>निर्माण झालेला रंग आणि मानक रंग पीएच तक्ता यांची तुलना करा, आणि तक्त्यातून पीएच ची नोंद करा. असेटीक आम्लाचे पीएच ३ असते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

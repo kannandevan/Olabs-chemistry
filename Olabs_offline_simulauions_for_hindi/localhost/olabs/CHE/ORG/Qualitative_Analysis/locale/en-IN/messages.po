@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-04-23 13:56+0530\n"
+"PO-Revision-Date: 2014-04-23 13:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:46
+msgid "Chemical Reactions"
+msgstr "Chemical Reactions"
+
+#: simcontrols.js:47
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:48
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:49
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:50
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:52
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:52
+msgid "Select the reaction"
+msgstr "Select the reaction"
+
+#: simcontrols.js:52
+msgid "Burning of magnesium in air"
+msgstr "Burning of magnesium in air"
+
+#: simcontrols.js:52
+msgid "Sublimation of dry ice"
+msgstr "Sublimation of dry ice"
+
+#: simcontrols.js:52
+msgid "Na<sub>2</sub>SO<sub>4</sub> (aq) with BaCl<sub>2</sub> (aq)"
+msgstr "Na<sub>2</sub>SO<sub>4</sub> (aq) with BaCl<sub>2</sub> (aq)"
+
+#: simcontrols.js:52
+msgid "Iron nail with CuSO<sub>4</sub>   (aq)"
+msgstr "Iron nail with CuSO<sub>4</sub>   (aq)"
+
+#: simcontrols.js:52
+msgid "Heating of CuSO<sub>4</sub>"
+msgstr "Heating of CuSO<sub>4</sub>"
+
+#: simcontrols.js:52
+msgid "Melting of ice"
+msgstr "Melting of ice"
+
+#: simcontrols.js:52
+msgid "Zinc with dil.H<sub>2</sub>SO<sub>4</sub>"
+msgstr "Zinc with dil.H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:52
+msgid "Litmus test"
+msgstr "Litmus test"
+
+#: simcontrols.js:52
+msgid "Hydrogen pop test"
+msgstr "Hydrogen pop test"
+
+#: simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with NaOH"
+msgstr "ZnSO<sub>4</sub> (aq) with NaOH"
+
+#: simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with H<sub>2</sub>S gas"
+msgstr "ZnSO<sub>4</sub> (aq) with H<sub>2</sub>S gas"
+
+#: simcontrols.js:52
+msgid "Select the Identification test"
+msgstr "Select the Identification test"
+
+#: simcontrols.js:52
+#, fuzzy
+msgid "Result"
+msgstr "Result"
+
+#: simcontrols.js:53
+msgid "Moist red litmus paper"
+msgstr "Moist red litmus paper"
+
+#: simcontrols.js:53
+msgid "Magnesium oxide"
+msgstr "Magnesium oxide"
+
+#: simcontrols.js:53
+msgid "BaCl<sub>2</sub>"
+msgstr "BaCl<sub>2</sub>"
+
+#: simcontrols.js:53
+msgid "Na<sub>2</sub>SO<sub>4</sub>"
+msgstr "Na<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:53
+msgid "Dil.HCl"
+msgstr "Dil.HCl"
+
+#: simcontrols.js:53
+msgid "Dry red litmus paper"
+msgstr "Dry red litmus paper"
+
+#: simcontrols.js:53
+msgid "Blue litmus paper"
+msgstr "Blue litmus paper"
+
+#: simcontrols.js:53
+#, fuzzy
+msgid "Distilled Water"
+msgstr "Distilled Water"
+
+#: simcontrols.js:53
+msgid "Hydrated CuSO<sub>4</sub>"
+msgstr "Hydrated CuSO<sub>4</sub>"
+
+#: simcontrols.js:54
+msgid "Turn on the burner by clicking the knob of the burner."
+msgstr "Turn on the burner by clicking the knob of the burner."
+
+#: simcontrols.js:54
+msgid "Click on the tong to burn the magnesium ribbon."
+msgstr "Click on the tong to burn the magnesium ribbon."
+
+#: simcontrols.js:54
+msgid "Drag the spatula to add <br>magnesium oxide to the litmus paper."
+msgstr "Drag the spatula to add <br>magnesium oxide to the litmus paper."
+
+#: simcontrols.js:55
+msgid "Red litmus turns blue, indicating MgO is basic in <br>nature."
+msgstr "Red litmus turns blue, indicating MgO is basic in <br>nature."
+
+#: simcontrols.js:55
+msgid ""
+"Magnesium burns in air and utilize atmospheric <br>oxygen to form magnesium "
+"oxide."
+msgstr ""
+"Magnesium burns in air and utilize atmospheric <br>oxygen to form magnesium "
+"oxide."
+
+#: simcontrols.js:55
+msgid "Dazzling flame"
+msgstr "Dazzling flame"
+
+#: simcontrols.js:56
+msgid ""
+"Drag BaCl<sub>2</sub> bottle to pour<br> the solution into the conical flask."
+msgstr ""
+"Drag BaCl<sub>2</sub> bottle to pour<br> the solution into the conical flask."
+
+#: simcontrols.js:56
+msgid ""
+"Drag Na<sub>2</sub>SO<sub>4</sub> bottle to pour <br>the solution into the "
+"conical flask."
+msgstr ""
+"Drag Na<sub>2</sub>SO<sub>4</sub> bottle to pour <br>the solution into the "
+"conical flask."
+
+#: simcontrols.js:57
+msgid ""
+"Click on the conical flask and then click<br> on the stirrer to stir the "
+"solution."
+msgstr ""
+"Click on the conical flask and then click<br> on the stirrer to stir the "
+"solution."
+
+#: simcontrols.js:57
+msgid ""
+"Drag the conical flask to decant <br>the upper solution from the flask to a "
+"beaker."
+msgstr ""
+"Drag the conical flask to decant <br>the upper solution from the flask to a "
+"beaker."
+
+#: simcontrols.js:57
+msgid "Drag Dil.HCl bottle to pour <br>the solution into the conical flask."
+msgstr "Drag Dil.HCl bottle to pour <br>the solution into the conical flask."
+
+#: simcontrols.js:57
+msgid "Click on the cork to open the bottle."
+msgstr "Click on the cork to open the bottle."
+
+#: simcontrols.js:58
+msgid ""
+"Sodium sulphate chemically reacts with Barium chloride<br> to form a white "
+"precipitate of Barium sulphate."
+msgstr ""
+"Sodium sulphate chemically reacts with Barium chloride<br> to form a white "
+"precipitate of Barium sulphate."
+
+#: simcontrols.js:58
+msgid ""
+"The precipitate (Barium sulphate) obtained <br>is insoluble in dilute HCl."
+msgstr ""
+"The precipitate (Barium sulphate) obtained <br>is insoluble in dilute HCl."
+
+#: simcontrols.js:59
+msgid "Drag the iron nail to immerse it in one of the test tube."
+msgstr "Drag the iron nail to immerse it in one of the test tube."
+
+#: simcontrols.js:59
+msgid ""
+"Click on the thread to remove the iron nail from <br>the test tube and "
+"compare it with the other iron nail."
+msgstr ""
+"Click on the thread to remove the iron nail from <br>the test tube and "
+"compare it with the other iron nail."
+
+#: simcontrols.js:60
+msgid ""
+"Iron is more reactive than copper as Fe<sup>2+</sup> ions <br> have "
+"displaced Cu<sup>2+</sup> ions from CuSO<sub>4</sub> <br>and form light "
+"green coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"Iron is more reactive than copper as Fe<sup>2+</sup> ions <br> have "
+"displaced Cu<sup>2+</sup> ions from CuSO<sub>4</sub> <br>and form light "
+"green coloured FeSO<sub>4</sub> solution."
+
+#: simcontrols.js:60
+msgid ""
+"The displaced copper is deposited as <br> a reddish -brown coating on the "
+"iron nail."
+msgstr ""
+"The displaced copper is deposited as <br> a reddish -brown coating on the "
+"iron nail."
+
+#: simcontrols.js:61 simcontrols.js:70
+msgid "Drag the spatula to add  Zinc granules <br> to dil.Sulphuric acid."
+msgstr "Drag the spatula to add  Zinc granules <br> to dil.Sulphuric acid."
+
+#: simcontrols.js:62
+msgid "Drag the litmus paper and bring it<br> over the mouth of the test tube."
+msgstr ""
+"Drag the litmus paper and bring it<br> over the mouth of the test tube."
+
+#: simcontrols.js:63
+msgid ""
+"Hydrogen gas is produced when zinc metal reacts with dil. H<sub>2</"
+"sub>SO<sub>4</sub>."
+msgstr ""
+"Hydrogen gas is produced when zinc metal reacts with dil. H<sub>2</"
+"sub>SO<sub>4</sub>."
+
+#: simcontrols.js:63
+msgid ""
+"No change in the colour of the litmus paper <br>(Hydrogen gas is neither "
+"acidic nor basic)."
+msgstr ""
+"No change in the colour of the litmus paper <br>(Hydrogen gas is neither "
+"acidic nor basic)."
+
+#: simcontrols.js:64
+msgid "Drag the spatula to add Zinc granules<br> to  dil.Sulphuric acid."
+msgstr "Drag the spatula to add Zinc granules<br> to  dil.Sulphuric acid."
+
+#: simcontrols.js:65
+msgid "Drag the cork to close the test tube."
+msgstr "Drag the cork to close the test tube."
+
+#: simcontrols.js:65
+msgid "Drag the candle to show it <br>over the mouth of the test tube."
+msgstr "Drag the candle to show it <br>over the mouth of the test tube."
+
+#: simcontrols.js:66
+msgid ""
+"Zn reacts with dil.Sulphuric acid to produce hydrogen gas<br>which dips out "
+"the flame with mild explosion."
+msgstr ""
+"Zn reacts with dil.Sulphuric acid to produce hydrogen gas<br>which dips out "
+"the flame with mild explosion."
+
+#: simcontrols.js:67
+msgid "Drag the spatula to add Zinc granules<br> to dil.Sulphuric acid."
+msgstr "Drag the spatula to add Zinc granules<br> to dil.Sulphuric acid."
+
+#: simcontrols.js:68
+msgid "Drag the dropper to add<br> NaOH solution into the test tube."
+msgstr "Drag the dropper to add<br> NaOH solution into the test tube."
+
+#: simcontrols.js:68
+msgid "Click on the test tube to shake it."
+msgstr "Click on the test tube to shake it."
+
+#: simcontrols.js:69
+msgid ""
+"Zinc reacts with dil. H<sub>2</sub>SO<sub>4</sub> to form<br>  zinc sulphate "
+"and hydrogen gas."
+msgstr ""
+"Zinc reacts with dil. H<sub>2</sub>SO<sub>4</sub> to form<br>  zinc sulphate "
+"and hydrogen gas."
+
+#: simcontrols.js:69
+msgid ""
+"Zinc sulphate  reacts with NaOH to form<br> a white gelatinous precipitate "
+"of Zinc hydroxide ."
+msgstr ""
+"Zinc sulphate  reacts with NaOH to form<br> a white gelatinous precipitate "
+"of Zinc hydroxide."
+
+#: simcontrols.js:69
+msgid ""
+"The white precipitate dissolves<br> when Sodium hydroxide is added in excess."
+msgstr ""
+"The white precipitate dissolves<br> when Sodium hydroxide is added in excess."
+
+#: simcontrols.js:70
+msgid "Drag the test tube to fit  <br>it in the Kipps apparatus."
+msgstr "Drag the test tube to fit  <br>it in the Kipp's apparatus."
+
+#: simcontrols.js:70
+msgid ""
+"Click on the knob of Kipps apparatus to pass  <br>hydrogen sulphide gas to "
+"the solution."
+msgstr ""
+"Click on the knob of Kipp's apparatus to pass  <br>hydrogen sulphide gas to "
+"the solution."
+
+#: simcontrols.js:70
+msgid "Click on the knob of Kipps apparatus<br> to turn off."
+msgstr "Click on the knob of Kipp's apparatus<br> to turn off."
+
+#: simcontrols.js:70
+msgid "Click on the test tube<br> to shake it."
+msgstr "Click on the test tube<br> to shake it."
+
+#: simcontrols.js:70
+msgid "Drag the test tube <br>to place it in the stand."
+msgstr "Drag the test tube <br>to place it in the stand."
+
+#: simcontrols.js:71
+msgid ""
+"Zinc sulphate reacts with Hydrogen sulphide gas<br> to form a white "
+"precipitate of Zinc sulphide."
+msgstr ""
+"Zinc sulphate reacts with Hydrogen sulphide gas<br> to form a white "
+"precipitate of Zinc sulphide."
+
+#: simcontrols.js:72
+msgid "Turn on the burner by clicking the knob of the  burner."
+msgstr "Turn on the burner by clicking the knob of the  burner."
+
+#: simcontrols.js:72
+msgid ""
+"Drag the holder to heat the boiling tube<br> containing hydrated copper "
+"sulphate."
+msgstr ""
+"Drag the holder to heat the boiling tube<br> containing hydrated copper "
+"sulphate."
+
+#: simcontrols.js:72
+msgid ""
+"Drag the dropper to add 2-3 drops of water to the<br> boiling tube "
+"containing anhydrous copper sulphate."
+msgstr ""
+"Drag the dropper to add 2-3 drops of water to the<br> boiling tube "
+"containing anhydrous copper sulphate."
+
+#: simcontrols.js:73
+msgid ""
+"Hydrated copper sulphate crystals turn from blue to white <br>on losing "
+"water of crystallization."
+msgstr ""
+"Hydrated copper sulphate crystals turn from blue to white <br>on losing "
+"water of crystallization."
+
+#: simcontrols.js:73
+msgid ""
+"On adding water, anhydrous copper sulphate rehydrated to <br>form blue "
+"coloured hydrated copper sulphate."
+msgstr ""
+"On adding water, anhydrous copper sulphate rehydrated to <br>form blue "
+"coloured hydrated copper sulphate."
+
+#: simcontrols.js:74
+msgid "Keep a piece of dry ice (solid carbon dioxide) in a dish"
+msgstr "Keep a piece of dry ice (solid carbon dioxide) in a dish"
+
+#: simcontrols.js:75
+msgid ""
+"It is observed that the  solid carbon dioxide<br> directly converted to "
+"gaseous carbon dioxide."
+msgstr ""
+"It is observed that the  solid carbon dioxide<br> directly converted to "
+"gaseous carbon dioxide."
+
+#: simcontrols.js:76
+msgid "Keep an ice cube (or ice cubes) in a bowl for a short period of time"
+msgstr "Keep an ice cube (or ice cubes) in a bowl for a short period of time"
+
+#: simcontrols.js:77
+msgid "It is observed that ice cubes slowly melts into water."
+msgstr "It is observed that ice cubes slowly melts into water."
+
+#: simcontrols.js:78
+msgid "Dil.Sulphuric acid"
+msgstr "Dil.Sulphuric acid"
+
+#: simcontrols.js:78
+msgid "Zinc granules"
+msgstr "Zinc granules"
+
+#: simcontrols.js:78
+msgid "Kipps Apparatus"
+msgstr "Kipp's Apparatus"
+
+#: simcontrols.js:79
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols.js:79
+msgid "Zinc Sulphate"
+msgstr "Zinc Sulphate"
+
+#: simcontrols.js:79
+msgid "Zinc Hydroxide"
+msgstr "Zinc Hydroxide"
+
+#: simcontrols.js:80
+msgid "Physical change"
+msgstr "Physical change"
+
+#: simcontrols.js:80
+msgid "Chemical change"
+msgstr "Chemical change"
+
+#: simcontrols.js:81
+msgid " Correct. "
+msgstr " Correct. "
+
+#: simcontrols.js:82
+msgid " Wrong.Try agian! "
+msgstr " Wrong.Try agian! "
+
+#: simcontrols.js:83
+msgid "15 Mins"
+msgstr "15 Mins"

@@ -1,0 +1,25 @@
+$.i18n.ml = {};
+ jQuery.i18n.ml.strings ={
+	"Select the test": "പരീക്ഷണം  തിരഞ്ഞെടുക്കുക:",
+	"Solubility </br>&nbsp;in water": "ലേയത്വം</br>&nbsp; ജലത്തിൽ",
+	"Odour": "ഗന്ധം",
+	"Effect on </br> &nbsp;&nbsp;litmus": "ലിറ്റ്മസിൻ മേലുള്ള പ്രഭാവം",
+	"&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>": "NaHCO<sub>3</sub> ന്റെ പ്രവർത്തനം",
+	"Acetic acid": "അസറ്റിക് ആസിഡ്",
+	"Litmus paper": "ലിറ്റ്മസ് പേപ്പർ",
+	"Water": "ജലം",
+	"Reset": "പുനഃക്രമീകരണം",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT",
+	"Properties of Acetic Acid (Ethanoic Acid)": "അസറ്റിക് ആസിഡിന്റെ  ഗുണങ്ങൾ(എത്തനോയിക് ആസിഡ്)",
+	"NaHCO<sub>3</sub> solution": "NaHCO<sub>3</sub>ലായനി",
+	"Lime water": "നാരങ്ങാവെള്ളം",
+	"Drag the test tube to pour acetic acid into<br/> the test tube containing water.": "ടെസ്റ്റൃൂബ് നീക്കിയിട്ട് അസറ്റിക് ആസിഡ് ജലം <br/>അടങ്ങിയ ടെസ്റ്റൃൂബിലേക്ക് ഒഴിക്കുക.",
+	"Click on the test tube to shake it.": "ടെസ്റ്റൃൂബിൽ ക്ലിക്ക് ചെയ്ത്  ഇത് നന്നായി കുലുക്കുക.",
+	"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.": "ഡ്രോപ്പർ നീക്കി അസറ്റിക് ആസിഡിലേക്ക് <br/>മുക്കുക, ലായനി നീക്കി <br/>ലിറ്റ്മസ് പേപ്പറിൽ <br/>ഇറ്റിക്കുക",
+	"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.": "തിസിൽ ഫണലിന് മുകളിലേക്ക്<br/> കോണിക്കൽ ഫ്ലാസ്ക്  നീക്കിയിട്ട് അസറ്റിക് ആസിഡ്<br/> അതിലേക്ക് ഒഴിക്കുക.",
+	"A homogeneous solution is formed.": "ഒരു ഹോമോജീനിയസ് ലായനി ഉണ്ടാകുന്നു.",
+	"A pungent smell is produced.": "ഒരു തീഷ്ണമായ ഗന്ധം ഉണ്ടാകുന്നു.",
+	"Blue litmus turns red.": "നീല ലിറ്റ്മസ് നിറം മാറി ചുവപ്പാകുന്നു.",
+	"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.": "അസറ്റിക് ആസിഡ്  സോഡിയം ബൈകാർബണേറ്റുമായി പ്രവർത്തിച്ച് <br/> Co<sub>2</sub>വാതകം ഉണ്ടാകുന്നു.ഇത് തിരിഞ്ഞ് നാരങ്ങാവെള്ളം പാൽ നിറമാകുന്നു.",
+	"HELP": "HELP"
+}

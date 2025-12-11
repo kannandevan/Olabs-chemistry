@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ALUM">
+        <source>Alum</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>Purification of Impure Samples by Crystallization</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BENZOICACID">
+        <source>Benzoic acid</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_COLDWATER">
+        <source>Cold water </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_COPPERSULPHATE">
+        <source>Copper sulphate</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_CRUDEALUM">
+        <source>Crude Alum</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_CRUDECOPPERSULPHATE">
+        <source>Crude Copper sulphate</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRYSTALLISATION">
+        <source>Crystallisation of Impure Samples</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>Dilute Sulphuric Acid</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_DISTILLEDWATER">
+        <source>Distilled water</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_ETHYLALCOHOLCOLDWATER">
+        <source>Ethyl alcohol
++
+cold water</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FILTERPAPER">
+        <source>Filter paper</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_FLUTTEREDPAPER">
+        <source>Fluttered filter paper</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_PREPARATIONCRYSTAL_COPPERSULPAHTE">
+        <source>Preparation of the crystals of pure copper sulphate from an impure sample</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_PREPARATIONOFCRUDESAMPLE">
+        <source>Preparation of crystals of pure alum from the crude sample</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_PURIFICATIONOFBENZOICACID">
+        <source>Purification of impure sample of benzoic acid by the process of crystallisation</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_SANDBATH">
+        <source>Sand bath</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_WATER">
+        <source>Water </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

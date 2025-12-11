@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_BACK">
+        <source>പിന്നിൽ
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ANIMATION_EQN">
+        <source>(t1 + t2) 2
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_ICE">
+        <source>ഐസ് കഷണങ്ങൾ 
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANIMATION_MELT">
+        <source>ഐസിൻ്റെ ദ്രവണാങ്കം 
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANIMATION_MT1">
+        <source>ഉരുകൽ ആരംഭിക്കുന്നു. t1
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ANIMATION_MT2">
+        <source>മൊത്തം ഉരുകിയത് t2
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ANIMATION_START">
+        <source>ആരംഭിക്കുക
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ANIMATION_T1">
+        <source>t1=0°c
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ANIMATION_T2">
+        <source>t2=0°c
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ANIMATION_TEMP">
+        <source>ഐസ് ആകുമ്പോൾ ഉള്ള  താപനില
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ANIMATION_THERMO">
+        <source>തെർമോമീറ്റർ 
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ANIMATION_TITLE">
+        <source>ഐസിൻ്റെ ദ്രവണാങ്കം നിർണ്ണയിക്കൽ 
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ANIMATION_WIRE">
+        <source>കമ്പി വല
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ANIMATION_ZERO">
+        <source>0°C</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

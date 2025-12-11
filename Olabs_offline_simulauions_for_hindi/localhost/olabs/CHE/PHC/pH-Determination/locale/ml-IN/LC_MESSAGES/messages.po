@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ama\n"
+"POT-Creation-Date: 2015-10-30 09:49+0530\n"
+"PO-Revision-Date: 2016-06-18 11:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:10
+msgid "Determination of pH"
+msgstr "pH നിർണയിക്കൽ"
+
+#: simcontrols.js:16
+msgid "ACIDIC"
+msgstr "അസിഡിക്"
+
+#: simcontrols.js:16
+msgid "NEUTRAL"
+msgstr "ന്യൂട്രൽ"
+
+#: simcontrols.js:16
+msgid "BASIC"
+msgstr "ബേസിക്"
+
+#: simcontrols.js:16
+msgid "Universal Indicator"
+msgstr "സാർവ്വത്രിക സൂചകം"
+
+#: simcontrols.js:17
+msgid "Lemon juice"
+msgstr "നാരങ്ങാ നീര്"
+
+#: simcontrols.js:17
+msgid "Tomato juice"
+msgstr "തക്കാളി നീര്"
+
+#: simcontrols.js:17
+msgid "Orange juice"
+msgstr "ഓറഞ്ച് നീര്"
+
+#: simcontrols.js:17
+msgid "Pineapple juice"
+msgstr "കൈതച്ചക്ക നീര്"
+
+#: simcontrols.js:17
+msgid "Amla juice"
+msgstr "നെല്ലിക്ക നീര്"
+
+#: simcontrols.js:17
+msgid " Mango juice"
+msgstr "മാമ്പഴച്ചാർ"
+
+#: simcontrols.js:17
+msgid "Common salt"
+msgstr "കറിയുപ്പ്"
+
+#: simcontrols.js:17
+msgid "Sugar"
+msgstr "പഞ്ചസാര"
+
+#: simcontrols.js:17
+msgid " Baking soda"
+msgstr "അപ്പക്കാരം"
+
+#: simcontrols.js:17
+msgid " Milk"
+msgstr "പാല്"
+
+#: simcontrols.js:17
+msgid "Vinegar"
+msgstr "വിനാഗിരി"
+
+#: simcontrols.js:17
+msgid "Butter milk"
+msgstr "മോര്"
+
+#: simcontrols.js:17
+msgid "Bleaching powder"
+msgstr "ബ്ലീച്ചിംഗ് പൗഡർ"
+
+#: simcontrols.js:17
+msgid "Washing soda"
+msgstr "അലക്ക് കാരം"
+
+#: simcontrols.js:17
+msgid "Milk of magnesia"
+msgstr "MgO സത്ത്"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the solution to suck it and drop it over the "
+"strip to pour the solution."
+msgstr ""
+"ഡ്രോപ്പർ നീക്കി ലായനിയിലേക്ക് ആഴ്ത്തിയിട്ട് ഡ്രോപ്പറിലേക്ക് വലിച്ചെടുക്കുക, ശേഷം അതിനിടയിലുള്ള "
+"ഭാഗത്തുള്ള ലായനിയിലേക്ക് ഇത് ഒഴിക്കുക."
+
+#: simcontrols.js:21
+msgid "Drag the dropper to the sample solution to add universal indicator."
+msgstr "ഡ്രോപ്പർ സാമ്പിൾ ലായനിയിലേക്ക് നീക്കിയിട്ട് സാർവ്വത്രിക സൂചകം ചേർക്കുക."
+
+#: simcontrols.js:21
+msgid ""
+"This dropper cannot be used now, as the universal indicator has already been "
+"poured."
+msgstr ""
+"സാർവ്വത്രിക സൂചകം ഇതിനോടകം ഒഴിച്ചതുകൊണ്ട് ഈ ഡ്രോപ്പർ ഇപ്പോൾ ഉപയോഗിക്കാൻ സാധിക്കില്ല."
+
+#: simcontrols.js:21
+msgid "Click any one of the beaker to start the experiment."
+msgstr "ബീക്കറിൽ ഏതെങ്കിലും ഒന്നിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തുടങ്ങുക."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the "
+"universal indicator dropper to drop it into the sample solution."
+msgstr ""
+"ഡ്രോപ്പർ നീക്കിയിട്ട് സാമ്പിൾ ലായനിയിലേക്ക് താഴ്ത്തി അത് വലിച്ചെടുക്കുകയോ സാർവ്വത്രിക സൂചക "
+"ഡ്രോപ്പർ നീക്കി സാമ്പിൾ ലായനിയിലേക്ക് വീഴ്ത്തുകയോ ചെയ്യുക."
+
+#: simcontrols.js:21
+msgid "Click on the strips to select."
+msgstr "സ്ട്രിപ്പുകളിൽ ക്ലിക്ക് ചെയ്ത് തിരഞ്ഞെടുക്കുക."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the colour strip to the sample solution or indicator strip to identify "
+"the pH."
+msgstr ""
+"നിറങ്ങളുള്ള സ്ട്രിപ്പ്  സാമ്പിൾ ലായനിയിലേക്കോ സൂചക സ്ട്രിപ്പിലേക്കോ നീക്കി 'PH' തിരിച്ചറിയുക."
+
+#: simcontrols.js:21
+msgid "Click on the information icon to see the inference."
+msgstr "അനുമാനത്തിൻ്റെ ഐക്കൺ ക്ലിക്ക് ചെയ്ത് വിവരങ്ങൾ കാണുക"
+
+#: simcontrols.js:21
+msgid "Litmus paper"
+msgstr "ലിറ്റ്മസ് പേപ്പർ"
+
+#: simcontrols.js:24
+msgid "Vegetable & fruit juice"
+msgstr "പച്ചക്കറികളും പഴച്ചാറും"
+
+#: simcontrols.js:25
+msgid "House hold items"
+msgstr "ഗാർഹിക വസ്തുക്കൾ"
+
+#: simcontrols.js:26
+msgid "Acids & bases in the lab"
+msgstr "പരീക്ഷണശാലയിലെ ആസിഡുകളും ആൽക്കലികളും"
+
+#: simcontrols.js:27
+msgid "Salts in water"
+msgstr "ജലത്തിലുള്ള ഉപ്പുകൾ"
+
+#: simcontrols.js:28
+msgid "Select the aqueous solution:"
+msgstr "ജലീയലായനി തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:29
+msgid "Click on any one of the sample solution to start the experiment "
+msgstr "സാമ്പിൾ ലായനിയിൽ  ഏതെങ്കിലും ഒന്നിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തുടങ്ങുക."
+
+#: simcontrols.js:34
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം."

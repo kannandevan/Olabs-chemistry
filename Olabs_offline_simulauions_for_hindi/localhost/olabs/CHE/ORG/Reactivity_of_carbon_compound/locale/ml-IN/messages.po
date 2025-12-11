@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gg\n"
+"POT-Creation-Date: 2015-12-14 14:50+0530\n"
+"PO-Revision-Date: 2016-06-03 13:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:41
+msgid "Select the test"
+msgstr "പരീക്ഷണം  തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:41
+msgid "Solubility </br>&nbsp;in water"
+msgstr "ലേയത്വം</br>&nbsp; ജലത്തിൽ"
+
+#: simcontrols.js:41
+msgid "Odour"
+msgstr "ഗന്ധം"
+
+#: simcontrols.js:41
+msgid "Effect on </br> &nbsp;&nbsp;litmus"
+msgstr "ലിറ്റ്മസിൻ മേലുള്ള പ്രഭാവം"
+
+#: simcontrols.js:41
+msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+msgstr "NaHCO<sub>3</sub> ന്റെ പ്രവർത്തനം"
+
+#: simcontrols.js:41
+msgid "Acetic acid"
+msgstr "അസറ്റിക് ആസിഡ്"
+
+#: simcontrols.js:41
+msgid "Litmus paper"
+msgstr "ലിറ്റ്മസ് പേപ്പർ"
+
+#: simcontrols.js:41
+msgid "Water"
+msgstr "ജലം"
+
+#: simcontrols.js:41
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols.js:41
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:41
+msgid "Properties of Acetic Acid (Ethanoic Acid)"
+msgstr "അസറ്റിക് ആസിഡിന്റെ  ഗുണങ്ങൾ(എത്തനോയിക് ആസിഡ്)"
+
+#: simcontrols.js:41
+msgid "NaHCO<sub>3</sub> solution"
+msgstr "NaHCO<sub>3</sub>ലായനി"
+
+#: simcontrols.js:41
+msgid "Lime water"
+msgstr "നാരങ്ങാവെള്ളം"
+
+#: simcontrols.js:43
+msgid ""
+"Drag the test tube to pour acetic acid into<br/> the test tube containing "
+"water."
+msgstr "ടെസ്റ്റൃൂബ് നീക്കിയിട്ട് അസറ്റിക് ആസിഡ് ജലം <br/>അടങ്ങിയ ടെസ്റ്റൃൂബിലേക്ക് ഒഴിക്കുക."
+
+#: simcontrols.js:43
+msgid "Click on the test tube to shake it."
+msgstr "ടെസ്റ്റൃൂബിൽ ക്ലിക്ക് ചെയ്ത്  ഇത് നന്നായി കുലുക്കുക."
+
+#: simcontrols.js:43
+msgid ""
+"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop "
+"the solution over<br/> the litmus paper."
+msgstr ""
+"ഡ്രോപ്പർ നീക്കി അസറ്റിക് ആസിഡിലേക്ക് <br/>മുക്കുക, ലായനി നീക്കി <br/>ലിറ്റ്മസ് പേപ്പറിൽ <br/"
+">ഇറ്റിക്കുക"
+
+#: simcontrols.js:43
+msgid ""
+"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+"acetic acid into it."
+msgstr ""
+"തിസിൽ ഫണലിന് മുകളിലേക്ക്<br/> കോണിക്കൽ ഫ്ലാസ്ക്  നീക്കിയിട്ട് അസറ്റിക് ആസിഡ്<br/> അതിലേക്ക് "
+"ഒഴിക്കുക."
+
+#: simcontrols.js:45
+msgid "A homogeneous solution is formed."
+msgstr "ഒരു ഹോമോജീനിയസ് ലായനി ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:45
+msgid "A pungent smell is produced."
+msgstr "ഒരു തീഷ്ണമായ ഗന്ധം ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:45
+msgid "Blue litmus turns red."
+msgstr "നീല ലിറ്റ്മസ് നിറം മാറി ചുവപ്പാകുന്നു."
+
+#: simcontrols.js:45
+msgid ""
+"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> "
+"gas that turns lime water milky."
+msgstr ""
+"അസറ്റിക് ആസിഡ്  സോഡിയം ബൈകാർബണേറ്റുമായി പ്രവർത്തിച്ച് <br/> Co<sub>2</sub>വാതകം "
+"ഉണ്ടാകുന്നു.ഇത് തിരിഞ്ഞ് നാരങ്ങാവെള്ളം പാൽ നിറമാകുന്നു."
+
+#: simcontrols.js:48
+msgid "HELP"
+msgstr "HELP"

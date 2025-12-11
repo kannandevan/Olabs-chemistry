@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_10MINTEXT">
+        <source>10Min</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_25NAOHTEXT">
+        <source>25% NaOH</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ACETYLCHOLORIDE">
+        <source>एसिटाइल क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_AGNO3SOLN">
+        <source>AgNO3 विलयन </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ALCOHOLICGROUP">
+        <source>एसीटाइल क्लोराइड परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_ALCOHOLICGROUP1">
+        <source>अल्कोoहलिक समूह की</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ALCOHOLICGROUPACECHTEST">
+        <source>एसीटाइल क्लोराइड परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_ALCOHOLICGROUPESTERTEST">
+        <source>एस्टर परीक्षण	</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_ALDEHYDES">
+        <source>एल्डीहाइड </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_ALDEHYDESKETONIIC">
+        <source>एल्डी हाईडिक और किटोनिक समूह</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_ALDEHYDICKETONIC">
+        <source>एल्डी हाईडिक और किटोनिक समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_AMMONIUMHYDROXIDE">
+        <source>अमोनियम हाइड्रॉक्साइड </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_AMMONIUMSOLN">
+        <source>अमोनिया का विलयन</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_ANHYDROUSCALCIUMSULPHATE">
+        <source>निर्जल कैल्शियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>कार्य समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_AZODYETEST">
+        <source>एजो - डाई परीक्षण।	</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_AZODYETEST ">
+        <source>एजो - डाई परीक्षण।	</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_BACK">
+        <source>वापस</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_BAEYERTEST">
+        <source>बायर परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_BENZENESULPHONYLTEXT">
+        <source>बेंजीन सल्फो निल क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_BROMINETEST">
+        <source>ब्रोमीन जल परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_BROMINEWATER">
+        <source>ब्रोमीन जल </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_CARBOXYLICGROUP">
+        <source>कार्बोक्जिलिक समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_CARBYLAMINESTEST">
+        <source>कार्बीलैमाइन परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_CERICAMMONIUMNITRATE">
+        <source>सेरिक अमोनियम नाइट्रेट</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_CERICAMMONIUMNITRATETEST">
+        <source>सेरिक अमोनियम नाइट्रेट परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_CHOLOROFORM">
+        <source>क्लोरोफॉर्म</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_COLDWATER">
+        <source>ठंडे जल </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_CONCHCLTEST">
+        <source>सान्द्रै  HCl</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_CONCHTWO">
+        <source>सान्द्रै H2SO4</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_CONSULPHURICACID">
+        <source>सान्द्रै H2SO4</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_DILHCL">
+        <source>तनु HCl</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_DILHCLTEXT">
+        <source>तनु HCl</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_DILNAOHSOLN">
+        <source>तनु NaOH </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_DILNAOHTEXT">
+        <source>तनु NaOH</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_DILSODIUMHYDROXIDESOLN">
+        <source>तनु NaOH</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_DINITROBENZENE">
+        <source>एम-डाईनाइट्रोबेंजीन </source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_DINITROBENZENETEST">
+        <source>एम-डाईनाइट्रोबेंजीन परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_DINITROPHENYLHYDRATEST">
+        <source>2,4-डिनाइट्रोफिनाइल हाइड्राजीन परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_DINITROPHENYLHYDRAZINE">
+        <source>2,4-डिनाइट्रोफिनाइल हाइड्राजीन</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_DISTILLEDWATER">
+        <source>आसुत जल</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EXP_DISTILLEDWATERTEXT">
+        <source>आसुत जल</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_EXP_DROPS">
+        <source>बूँदें</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_EXP_ESTERTEST">
+        <source>एस्टर परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_EXP_ETHANOL">
+        <source>इथेनॉल</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_EXP_ETHYLALCOHOL">
+        <source>एथिल अल्कोहल</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_EXP_FEHLINGSOLNA">
+        <source>फेलिंग का विलयन A</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_EXP_FEHLINGSOLNB">
+        <source>फेलिंग का विलयन B</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_EXP_FEHLINGTEST">
+        <source>फेलिंग परीक्षण	</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_EXP_FERRICCHLORIDE">
+        <source>उदासीन फेरिक क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_EXP_FERRICCHLORIDETEST">
+        <source>फेरिक क्लोराइड परीक्षण	</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_EXP_GLACIALACETICACID">
+        <source>ग्लेiसियल एसिटिक अम्लt </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_HCLTEXTTWO">
+        <source>सान्द्रै HCl</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_EXP_HINSBERGTEST">
+        <source>हिंसबर्ग परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_EXP_IODINESOLN">
+        <source>आयोडीन का विलयन</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_EXP_KETONIC">
+        <source>कीटोन</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_EXP_KMNO4SOLUTION">
+        <source>KMnO विलयन</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_EXP_LIEBERMANNTEST">
+        <source>लीबरमैन परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_EXP_LIMTUSPAPER">
+        <source>गीले नीले लिटमस पेपर</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_EXP_LIMTUSPAPER00">
+        <source>गीले लाल लिटमस पेपर </source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_EXP_LIMTUSTEST">
+        <source>लिट्मस परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_EXP_LUCASREAGENT">
+        <source>ल्युsकस अभिकर्मक</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_EXP_LUCASTEST">
+        <source>ल्युsकस परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_EXP_MINUTE">
+        <source>मिनट</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_EXP_NAPHTHOLTEXT">
+        <source>नैफथोल</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_EXP_NITROUSACIDTEST">
+        <source>नाइट्रस अम्ल  परीक्षण।</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_EXP_ONEMINUTE">
+        <source>1 मिनट</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_EXP_ORGANICCOMPOUNDTEXT">
+        <source>कार्बनिक यौगिक </source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_EXP_PHENOL">
+        <source>फिनोल</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_EXP_PHENOLICGROUP">
+        <source>फिनोलिक समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_EXP_PHTHALEINDYETEST">
+        <source>थैलीन रंजक परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_EXP_PHTHALICANHYDRIDE">
+        <source>थैलीक एनहाइड्राइड</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_EXP_POTASIUMHYDROXIDE">
+        <source>पोटेशियम हाइड्रॉक्साइड</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_EXP_PRIMARYALCOHOLT">
+        <source>प्राथमिक 
+अल्कोहल
+1°</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_EXP_PRIMARYAMINETEXT">
+        <source>प्राथमिक 
+एमाइन </source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_EXP_RECTIFIEDSPRIT">
+        <source>परिशोधित स्पिरिट</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_EXP_SATURATION">
+        <source>संतृप्ति</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_EXP_SCHIFFREAGENT">
+        <source>स्किफ अभिकर्मक</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_EXP_SCHIFFSTEST">
+        <source>स्किफ परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_EXP_SECONDARYALCOHOL">
+        <source>द्वितियक
+अल्कोhहल
+2°</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_EXP_SECONDARYAMINETEXT">
+        <source>द्वितियक
+एमाइन</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_EXP_SODIUMBICARBONATE">
+        <source>सोडियम बाइकार्बोनेट</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_EXP_SODIUMBICARBONATETEST">
+        <source>सोडियम बाइकार्बोनेट परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_EXP_SODIUMBISULPHITE">
+        <source>सोडियम बाईसल्फाtइट परीक्षण।</source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_EXP_SODIUMBISUPHIT">
+        <source>सोडियम बाईसल्फाtइट</source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_EXP_SODIUMHYDROXIDE">
+        <source>सोडियम हाइड्रॉक्साइड</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_EXP_SODIUMHYDROXIDESLTN">
+        <source>सोडियम हाइड्रॉक्साइड
+विलयन </source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_EXP_SODIUMHYDROXIDESOLN">
+        <source>सोडियम हाइड्रॉक्साइड विलयन </source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_EXP_SODIUMMETAL">
+        <source>सोडियम धातु</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_EXP_SODIUMMETALKEROCINE">
+        <source>Sodium metal in Kerosene</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_EXP_SODIUMMETALTEST">
+        <source>सोडियम धातु परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_EXP_SODIUMNITRATE">
+        <source>सोडियम नाइट्राइट</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_EXP_SODIUMNITRITETEXT">
+        <source>सोडियम नाइट्राइट</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_EXP_SODIUMNITROPRUSIDETEST">
+        <source>सोडियम नाइट्रोप्रुस्सा3इड परीक्षण	</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_EXP_SODIUMNITROPRUSSIDE">
+        <source>सोडियम नाइट्रोप्रुस्सा3इड	</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_EXP_SOLN">
+        <source>विलयन </source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_EXP_SOLUBILITYTEST">
+        <source>विलेयता परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_EXP_TERTIARYALCOHOL">
+        <source>तृतीयक 
+अल्कोहल
+3° </source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_EXP_TERTIARYAMINETEXT">
+        <source>तृतीयक एमाइन</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_EXP_TESTALCOHOLICGROUPIODO">
+        <source>आयडोफार्म परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_EXP_TESTALDEHYDICKETONIC">
+        <source>एल्डी हाईडिक और किटोनिक समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_EXP_TESTAMINO">
+        <source>अमीनो समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_EXP_TESTFORALDEHYDES">
+        <source>एल्डीहाइड का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_EXP_TESTFORAMINOGROUP">
+        <source>अमीनो समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_EXP_TESTFORAMINOGROUPT">
+        <source>अमीनो समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_EXP_TESTFORUNSATURATION">
+        <source>असंतृप्ति का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_EXP_TESTFUNCTIONALGROUP">
+        <source>कार्य समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_EXP_TESTPHENOLICGROUP">
+        <source>फिनोलिक समूह का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_EXP_TESTUNSATURATION">
+        <source>असंतृप्ति का परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_EXP_TOLLENTEST">
+        <source>टॉलेन परीक्षण</source>
+      </trans-unit>
+      <trans-unit id="113" resname="IDS_EXP_UNKNOWNCOMPOUND">
+        <source>अज्ञात यौगिक</source>
+      </trans-unit>
+      <trans-unit id="114" resname="IDS_EXP_UNKNOWNLIQUID">
+        <source>अज्ञात तरल</source>
+      </trans-unit>
+      <trans-unit id="115" resname="IDS_EXP_UNKNOWNSOLN">
+        <source>अज्ञात यौगिक</source>
+      </trans-unit>
+      <trans-unit id="116" resname="IDS_EXP_UNPLEASANTODOUR">
+        <source>Unpleasant odour</source>
+      </trans-unit>
+      <trans-unit id="117" resname="IDS_EXP_UNSATURATION">
+        <source>असंतृप्ति</source>
+      </trans-unit>
+      <trans-unit id="118" resname="IDS_EXP_WATER">
+        <source>पानी</source>
+      </trans-unit>
+      <trans-unit id="119" resname="IDS_TESTFORKETONES">
+        <source>कीटोन्स का परीक्षण</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

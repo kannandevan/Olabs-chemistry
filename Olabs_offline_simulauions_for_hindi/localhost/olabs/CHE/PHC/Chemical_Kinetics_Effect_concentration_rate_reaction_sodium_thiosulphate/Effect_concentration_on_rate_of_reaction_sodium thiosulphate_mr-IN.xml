@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>सोडियम थायोसल्फेट आणि हायड्रोक्लोरिक आम्ल यांच्या अभिक्रियेचा गती-अभ्यास</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1table">
+	<TEXT ID="sodium_10">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेट 
+        10ml
+</TEXTVALUE>
+</TEXT>
+	<TEXT ID="sodium_20">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेट 
+        10ml
+</TEXTVALUE>
+</TEXT>
+	<TEXT ID="sodium_30">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेट 
+        10ml
+</TEXTVALUE>
+</TEXT>
+	<TEXT ID="sodium_40">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेट 
+        10ml
+</TEXTVALUE>
+</TEXT>
+	<TEXT ID="sodium_50">
+	 	<TEXTVALUE>       0.1M 
+सोडियम थायोसल्फेट 
+        10ml
+</TEXTVALUE>
+</TEXT>
+	<TEXT ID="water">
+	 	<TEXTVALUE>ऊर्ध्वपतित पाणी 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="hcl">
+	 	<TEXTVALUE>1M HCl</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_one">
+	<TEXTVALUE>आवश्यक सामग्री: ०.१ M Na2S2O3 द्रावण, १ M HCl, पाच २५० मिली शंक्वाकृती चंबू ज्यांना ए, बी, सी, डी आणि इ अशी नावे दिली आहे, मापन जार, मध्ये x चिन्ह असलेली पांढरी टाईल, स्टॉप वॉच इत्यादी.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1table2">
+	<TEXT ID="1table2_one">
+	<TEXTVALUE>पाच शंक्वाकृती चंबू ए, बी, सी, डी आणि इ मध्ये अनुक्रमे १०, २०, ३०, ४० आणि ५० मिली ०.१ M सोडियम थायोसल्फेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2takecylinder">
+	<TEXT ID="2takecylinder_one">
+	<TEXTVALUE>४० मिली मिली ऊर्ध्वपतित पाणी एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3pourconical">
+	<TEXT ID="3pourconical_one">
+	<TEXTVALUE>ते शंक्वाकृती चंबू ए मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="4chart">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>चंबू
+  अंक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE>0.1 M  Na2S2O3 चे आकारमान(ml)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>पाण्याचे आकारमान(ml) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h4">
+		<TEXTVALUE>द्रावणाचे एकूण आकारमान, मिली मध्ये</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h5">
+		<TEXTVALUE>Na2S2O3 द्रावणा ची संहत तीव्रता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h6">
+		<TEXTVALUE> १M HCl चे आकारमान, मिली मध्ये</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h7">
+		<TEXTVALUE> क्रॉस दिसेनासा होण्यासाठी 
+लागणारा वेळ (टी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4chart_one">
+	<TEXTVALUE>चंबूतल्या द्रावणाचे एकूण आकारमान ५० मिली होईल आणि द्रावणाची संहत तीव्रता ०.०२ M असेल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5takecylinde2">
+	<TEXT ID="5takecylinde2_one">
+	<TEXTVALUE>३० मिली मिली ऊर्ध्वपतित पाणी एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="6pourconicab">
+	<TEXT ID="6pourconicab_one">
+	<TEXTVALUE>ते शंक्वाकृती चंबू B मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="7chart2">
+	<TEXT ID="7chart2_one">
+	<TEXTVALUE>चंबूतल्या द्रावणाचे एकूण आकारमान ५० मिली होईल आणि द्रावणाची संहत तीव्रता ०.०४ M असेल.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="7chart2_two">
+	<TEXTVALUE>२० मिली आणि १० मिली ऊर्ध्वपतित पाणी चंबू सी आणि डी मध्ये टाका म्हणजे चंबूतल्या द्रावणाचे एकूण आकारमान ५० मिली होईल. चंबू सी, डी आणि इ मधल्या द्रावणाची संहत तीव्रता अनुक्रमे ०.०६, ०.०८ आणि ०.१ M असेल.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="8showall">
+	<TEXT ID="8showall_one">
+	<TEXTVALUE>मध्ये x चिन्ह असलेल्या पांढर्याआ टाईलवर शंक्वाकृती चंबू ए ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="9placetile">
+	<TEXT ID="9placetile_one">
+	<TEXTVALUE>मध्ये x चिन्ह असलेल्या पांढर्याआ टाईलवर शंक्वाकृती चंबू ए ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10hclpour">
+	<TEXT ID="10hclpour_one">
+	<TEXTVALUE>मापन जार मध्ये १० मिली १ M HCl मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11pourcon">
+	<TEXT ID="11pourcon_one">
+	<TEXTVALUE>अर्धे HCl शंक्वाकृती चंबू ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_two">
+	<TEXTVALUE>शंक्वाकृती चंबू हलवा आणि x चिन्हावर ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_three">
+	<TEXTVALUE>आता उरलेले HCl शंक्वाकृती चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="12conrest">
+	<TEXT ID="12conrest_one">
+	<TEXTVALUE>लगेच स्टॉप वॉच सुरू करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="13top">
+	<TEXT ID="13top_one">
+	<TEXTVALUE>चंबूतल्या द्रावणाचे वरून निरीक्षण करीत रहा. अभिक्रियेत निर्माण झालेल्या अविद्राव्य सल्फर मुळे द्रावण दुधासारखे दिसते आणि द्रावण अपारदर्शी होते. जेव्हा टाईल वरचे चिन्ह दिसेनासे होईल, तेव्हा स्टॉप वॉच बंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13top_two">
+	<TEXTVALUE>चिन्ह दिसेनासे व्हायला किती वेळ लागला ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="14sidenew">
+	<TEXT ID="14sidenew_one">
+	<TEXTVALUE>चिन्ह दिसेनासे व्हायला किती वेळ लागला ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14chart3">
+	<TEXT ID="14chart3_one">
+	<TEXTVALUE>१० मिली १ M HCl चंबू बी, सी, डी आणि इ मध्ये टाकून प्रयोग परत करा आणि प्रत्येक वेळेला चिन्ह दिसेनासे व्हायला किती वेळ लागतो ह्याची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="15graph">
+	<TEXT ID="x_axis">
+		<TEXTVALUE>संहत  Na2S2O3 (M) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15graph_one">
+	<TEXTVALUE>१/टी आणि Na2S2O3 ची संहत तीव्रता ह्यांचा आलेख काढा. वेळ (१/टी) वाय-अक्षावर आणि Na2S2O3 ची संहत तीव्रता एक्स- अक्षावर घ्या. ही एक उतार असलेली सरळ रेष असेल.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="16last">
+	<TEXT ID="result">
+		<TEXTVALUE> Na2S2O3 आणि HCl मधील अभिक्रियेचा दर आणि Na2S2O3 ची संहत तीव्रता समानुपाती आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="16last_one">
+	<TEXTVALUE> आलेखावरून असे दिसेल की १/टी आणि Na2S2O3 ची संहत तीव्रता समानुपाती असते. पण १/टी हे अभिक्रिया दराचे मापक आहे, म्हणून,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="16last_two">
+	<TEXTVALUE>Na2S2O3 आणि HCl मधील अभिक्रियेचा दर आणि Na2S2O3 ची संहत तीव्रता समानुपाती आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_last">
+		<TEXTVALUE>Na2S2O3 आणि HCl मधील अभिक्रियेचा दर आणि Na2S2O3 ची संहत तीव्रता समानुपाती आहे.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>

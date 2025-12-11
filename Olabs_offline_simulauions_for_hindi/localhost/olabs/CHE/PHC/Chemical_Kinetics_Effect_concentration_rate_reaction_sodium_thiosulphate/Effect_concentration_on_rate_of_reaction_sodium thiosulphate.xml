@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>We require 0.1 M Na&#8322;S&#8322;O&#8323; solution, 1 M HCl, five 250 ml conical flasks labeled as A, B, C, D and E, measuring jars, white tile with cross mark at the centre, stop-watch etc.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1table2">
+	<TEXT ID="1table2_one">
+	<TEXTVALUE>Take 10, 20, 30, 40 and 50 ml of 0.1 M sodium thiosulphate solution in five conical flasks labeled A, B, C, D and E respectively.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2takecylinder">
+	<TEXT ID="2takecylinder_one">
+	<TEXTVALUE>Measure 40ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3pourconical">
+	<TEXT ID="3pourconical_one">
+	<TEXTVALUE>Pour it into the conical flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="4chart">
+	<TEXT ID="4chart_one">
+	<TEXTVALUE>Now the total volume of the solution is 50ml and the concentration of the solution is 0.02M.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5takecylinde2">
+	<TEXT ID="5takecylinde2_one">
+	<TEXTVALUE>Then measure 30ml distilled water in the measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="6pourconicab">
+	<TEXT ID="6pourconicab_one">
+	<TEXTVALUE>Pour it into the conical flask B.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="7chart2">
+	<TEXT ID="7chart2_one">
+	<TEXTVALUE>The total volume of the solution is 50ml and the concentration of the solution is 0.04 M.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="7chart2_two">
+	<TEXTVALUE>Then add 20 and 10 ml of distilled water into the flasks C and D respectively, so that the volume of solutions in each flask is 50ml. The concentration of the solutions in flasks C, D and E are 0.06, 0.08 and 0.1 M respectively.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="8showall">
+	<TEXT ID="8showall_one">
+	<TEXTVALUE>Place the conical flask A on the white tile that has a cross mark at its centre.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="9placetile">
+	<TEXT ID="9placetile_one">
+	<TEXTVALUE>Place the conical flask A on the white tile that has a cross mark at its centre.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10hclpour">
+	<TEXT ID="10hclpour_one">
+	<TEXTVALUE>Measure 10ml 1M HCl in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11pourcon">
+	<TEXT ID="11pourcon_one">
+	<TEXTVALUE>Pour half of the HCl into the conical flask A.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_two">
+	<TEXTVALUE>Shake the conical flask and place it over the cross mark.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11pourcon_three">
+	<TEXTVALUE>Then add the remaining HCl to the conical flask.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="12conrest">
+	<TEXT ID="12conrest_one">
+	<TEXTVALUE>Start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="13top">
+	<TEXT ID="13top_one">
+	<TEXTVALUE>Go on observing the liquid in the flask from above. The insoluble sulphur formed during the reaction, gives a milky appearance and makes the solution opaque. Stop the stop-watch when the cross mark on the tile becomes just invisible. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13top_two">
+	<TEXTVALUE>Note down the time taken for the cross mark to become invisible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="14sidenew">
+	<TEXT ID="14sidenew_one">
+	<TEXTVALUE>Note down the time taken for the cross mark to become invisible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14chart3">
+	<TEXT ID="14chart3_one">
+	<TEXTVALUE>Repeat the experiment by adding 10ml of 1M HCl to the flasks B, C, D and E and record the time taken in each case, for the cross mark to become just invisible.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="15graph">
+	<TEXT ID="15graph_one">
+	<TEXTVALUE>Plot a graph between 1/t and the conc. of Na&#8322;S&#8322;O&#8323; by taking 1/t along the ordinate and conc. of Na&#8322;S&#8322;O&#8323; along abscissa. A straight sloping line is obtained.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="16last">
+	<TEXT ID="16last_one">
+	<TEXTVALUE> Form the graph, it is clear that 1/t is directly proportional to the conc. Na&#8322;S&#8322;O&#8323; solution. solution. But 1/t is a direct measure of rate of the reaction, therefore,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="16last_two">
+	<TEXTVALUE>the rate of reaction between Na&#8322;S&#8322;O&#8323; and HCl is directly proportional to the concentration of Na&#8322;S&#8322;O&#8323;.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+</DATA>

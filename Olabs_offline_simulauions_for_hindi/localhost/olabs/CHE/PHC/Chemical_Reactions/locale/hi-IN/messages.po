@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-04-23 13:57+0530\n"
+"PO-Revision-Date: 2015-09-26 10:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:46
+msgid "Chemical Reactions"
+msgstr "रासायनिक प्रतिक्रिया"
+
+#: simcontrols.js:47
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:48
+msgid "FULL SCREEN"
+msgstr "पूर्ण स्क्रीन"
+
+#: simcontrols.js:49
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:50
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "आईटी विभाग से अनुसंधान अनुदान के तहत सीडैक<br> मुंबई और अमृता विश्वविद्यालय द्वारा विकसित"
+
+#: simcontrols.js:52
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:52
+msgid "Select the reaction"
+msgstr "प्रतिक्रिया का चयन करें"
+
+#: simcontrols.js:52
+msgid "Burning of magnesium in air"
+msgstr "हवा में मैग्नीशियम की जलना "
+
+#: simcontrols.js:52
+msgid "Sublimation of dry ice"
+msgstr "सूखी बर्फ की उदात्तीकरण बनाने की क्रिया"
+
+#: simcontrols.js:52
+msgid "Na<sub>2</sub>SO<sub>4</sub> (aq) with BaCl<sub>2</sub> (aq)"
+msgstr "Na<sub>2</sub>SO<sub>4</sub> (aq) साथ BaCl<sub>2</sub> (aq)"
+
+#: simcontrols.js:52
+msgid "Iron nail with CuSO<sub>4</sub>   (aq)"
+msgstr "लोहे की कील के साथ CuSO<sub>4</sub>   (aq)"
+
+#: simcontrols.js:52
+msgid "Heating of CuSO<sub>4</sub>"
+msgstr "के ताप CuSO<sub>4</sub>"
+
+#: simcontrols.js:52
+msgid "Melting of ice"
+msgstr "बर्फ का पिघलना"
+
+#: simcontrols.js:52
+msgid "Zinc with dil.H<sub>2</sub>SO<sub>4</sub>"
+msgstr "जिंक के साथ dil.H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:52
+msgid "Litmus test"
+msgstr "लिट्मस परीक्षण"
+
+#: simcontrols.js:52
+msgid "Hydrogen pop test"
+msgstr "हाइड्रोजन पॉप परीक्षण"
+
+#: simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with NaOH"
+msgstr "ZnSO<sub>4</sub> (aq) साथ NaOH"
+
+#: simcontrols.js:52
+msgid "ZnSO<sub>4</sub> (aq) with H<sub>2</sub>S gas"
+msgstr "ZnSO<sub>4</sub> (aq) साथ H<sub>2</sub>S गैस"
+
+#: simcontrols.js:52
+msgid "Select the Identification test"
+msgstr "पहचान परीक्षण का चयन करें"
+
+#: simcontrols.js:52
+msgid "Result"
+msgstr "परिणाम"
+
+#: simcontrols.js:53
+msgid "Moist red litmus paper"
+msgstr "नम लाल लिटमस पेपर"
+
+#: simcontrols.js:53
+msgid "Magnesium oxide"
+msgstr "मैग्नीशियम ऑक्साइड"
+
+#: simcontrols.js:53
+msgid "BaCl<sub>2</sub>"
+msgstr "BaCl<sub>2</sub>"
+
+#: simcontrols.js:53
+msgid "Na<sub>2</sub>SO<sub>4</sub>"
+msgstr "Na<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:53
+msgid "Dil.HCl"
+msgstr "Dil.HCl"
+
+#: simcontrols.js:53
+msgid "Dry red litmus paper"
+msgstr "सूखी लाल लिटमस पेपर"
+
+#: simcontrols.js:53
+msgid "Blue litmus paper"
+msgstr "ब्लू लिटमस पेपर"
+
+#: simcontrols.js:53
+msgid "Distilled Water"
+msgstr "आसुत जल"
+
+#: simcontrols.js:53
+msgid "Hydrated CuSO<sub>4</sub>"
+msgstr "हाइड्रेटेड CuSO<sub>4</sub>"
+
+#: simcontrols.js:54
+msgid "Turn on the burner by clicking the knob of the burner."
+msgstr "बर्नर की बटन पर दबाकर बर्नर चालू करें।"
+
+#: simcontrols.js:54
+msgid "Click on the tong to burn the magnesium ribbon."
+msgstr "मैग्नीशियम रिबन को जलाने के लिए टोंग दबाए "
+
+#: simcontrols.js:54
+msgid "Drag the spatula to add <br>magnesium oxide to the litmus paper."
+msgstr "लिटमस पेपर के लिए मैग्नीशियम आक्साइड <br> जोड़ने के लिए स्पैचुल खींचें।"
+
+#: simcontrols.js:55
+msgid "Red litmus turns blue, indicating MgO is basic in <br>nature."
+msgstr " MgO <br> प्रकृति में आधारभूत है, यह दर्शाता,जब लाल लिटमस नीला पड़ जाता है"
+
+#: simcontrols.js:55
+msgid "Magnesium burns in air and utilize atmospheric <br>oxygen to form magnesium oxide."
+msgstr "मैग्नीशियम हवा में जलता है और वायुमंडलीय ऑक्सीजन का उपयोग के रूप में  <br> मैग्नीशियम ऑक्साइड को  बनाता हैं ।"
+
+#: simcontrols.js:55
+msgid "Dazzling flame"
+msgstr "चमकदार लौ"
+
+#: simcontrols.js:56
+msgid "Drag BaCl<sub>2</sub> bottle to pour<br> the solution into the conical flask."
+msgstr "शंक्वाकार फ्लास्क में विलयन को डालने के लिए BaCl को खींचें। "
+
+#: simcontrols.js:56
+msgid "Drag Na<sub>2</sub>SO<sub>4</sub> bottle to pour <br>the solution into the conical flask."
+msgstr "शंक्वाकार फ्लास्क में विलयन को डालने के लिए Na को खींचें। "
+
+#: simcontrols.js:57
+msgid "Click on the conical flask and then click<br> on the stirrer to stir the solution."
+msgstr "एक बीकर फ्लास्क से ऊपरी विलयन को<br>छानके शंक्वाकार फ्लास्क की ओर खींचें।"
+
+#: simcontrols.js:57
+msgid "Drag the conical flask to decant <br>the upper solution from the flask to a beaker."
+msgstr "एक बीकर फ्लास्क से ऊपरी विलयन को छानके शंक्वाकार फ्लास्क की ओर खींचें।"
+
+#: simcontrols.js:57
+msgid "Drag Dil.HCl bottle to pour <br>the solution into the conical flask."
+msgstr "शंक्वाकार फ्लास्क में विलयन Dil.HCl को बोतल में डालकर खींचें।"
+
+#: simcontrols.js:57
+msgid "Click on the cork to open the bottle."
+msgstr "बोतल को खोलने के लिए काग पर दबाए करें।"
+
+#: simcontrols.js:58
+msgid ""
+"Sodium sulphate chemically reacts with Barium chloride<br> to form a white precipitate of Barium "
+"sulphate."
+msgstr ""
+"बेरियम सल्फेट की सफ़ेद अवक्षिप्त को बनाने के लिए  बेरियम क्लोराइड के साथ सोडियम सल्फेट का रासायनिक प्रतिक्रिया "
+
+#: simcontrols.js:58
+msgid "The precipitate (Barium sulphate) obtained <br>is insoluble in dilute HCl."
+msgstr " फीका अघुलनशील में HCl की प्राप्ति अवक्षिप्त (बेरियम सल्फेट) हैं। "
+
+#: simcontrols.js:59
+msgid "Drag the iron nail to immerse it in one of the test tube."
+msgstr "टेस्ट ट्यूब में से एक में विसर्जित करने के लिए लोहे की कील खींचें।"
+
+#: simcontrols.js:59
+msgid ""
+"Click on the thread to remove the iron nail from <br>the test tube and compare it with the other "
+"iron nail."
+msgstr "टेस्ट ट्यूब से लोहे की कील को हटाने और अन्य लोहे की कील के साथ तुलना करने के लिए धागे पर क्लिक करें।"
+
+#: simcontrols.js:60
+msgid ""
+"Iron is more reactive than copper as Fe<sup>2+</sup> ions <br> have displaced Cu<sup>2+</sup> ions "
+"from CuSO<sub>4</sub> <br>and form light green coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"Fe<sup>2+</sup> आयनों CuSO से CuSO<sub>4</sub> आयनों <br> विस्थापित और हल्के हरे रंग का FeSO<sub>4</sub> "
+"<br> समाधान फार्म है के रूप में आयरन तांबे से अधिक <br>प्रतिक्रियाशील है."
+
+#: simcontrols.js:60
+msgid "The displaced copper is deposited as <br> a reddish -brown coating on the iron nail."
+msgstr "लोहे की कील पर एक लाल भूरा कोटिंग <br>के रूप में विस्थापित तांबा जमा किया जाता है।"
+
+#: simcontrols.js:61 simcontrols.js:70
+msgid "Drag the spatula to add  Zinc granules <br> to dil.Sulphuric acid."
+msgstr "फीका सल्फ्यूरिक एसिड को जिंक कणिका में स्पाटुला से मिलाइए "
+
+#: simcontrols.js:62
+msgid "Drag the litmus paper and bring it<br> over the mouth of the test tube."
+msgstr "लिटमस पेपर को खींचें और टेस्ट ट्यूब के मुंह पर लाए ।"
+
+#: simcontrols.js:63
+msgid "Hydrogen gas is produced when zinc metal reacts with dil. H<sub>2</sub>SO<sub>4</sub>."
+msgstr "जिंक धातु फीके H<sub>2</sub>SO<sub>4</sub> के साथ प्रतिक्रिया करता हैं तब हाइड्रोजन गैस उत्पादित होता हैं।"
+
+#: simcontrols.js:63
+msgid "No change in the colour of the litmus paper <br>(Hydrogen gas is neither acidic nor basic)."
+msgstr "लिटमस पेपर के रंग में कोई परिवर्तन नहीं है<br>(हाइड्रोजन गैस अम्लीय और न ही आधार माना जाता है)।"
+
+#: simcontrols.js:64
+msgid "Drag the spatula to add Zinc granules<br> to  dil.Sulphuric acid."
+msgstr "जिंक फीके सल्फ्यूरिक एसिड को कणिको को जोड़ने के लिए रंग खींचें।"
+
+#: simcontrols.js:65
+msgid "Drag the cork to close the test tube."
+msgstr "टेस्ट ट्यूब बंद करने के लिए काग खींचें।"
+
+#: simcontrols.js:65
+msgid "Drag the candle to show it <br>over the mouth of the test tube."
+msgstr "टेस्ट ट्यूब के मुंह की ओर दिखाने के लिए मोमबत्ती को खींचें।"
+
+#: simcontrols.js:66
+msgid ""
+"Zn reacts with dil.Sulphuric acid to produce hydrogen gas<br>which dips out the flame with mild "
+"explosion."
+msgstr ""
+"Zn के हल्के विस्फोट के साथ लौ डुबोया जो हाइड्रोजन गैस का निर्माण<br>करने के फीका .सल्फ्यूरिक एसिड के साथ प्रतिक्रिया "
+"करते हैं।"
+
+#: simcontrols.js:67
+msgid "Drag the spatula to add Zinc granules<br> to dil.Sulphuric acid."
+msgstr "सल्फ्यूरिक एसिड को कमजोर करने के लिए जिंक <br>कणिकाओं जोड़ने के लिए रंग खींचें."
+
+#: simcontrols.js:68
+msgid "Drag the dropper to add<br> NaOH solution into the test tube."
+msgstr "जिंक फीका  सल्फ्यूरिक एसिड को कणिको को जोड़ने के लिए रंग खींचें।"
+
+#: simcontrols.js:68
+msgid "Click on the test tube to shake it."
+msgstr "टेस्ट ट्यूब में NaOH विलयन  में जोड़ने के लिए ड्रॉपर खींचें।"
+
+#: simcontrols.js:69
+msgid "Zinc reacts with dil. H<sub>2</sub>SO<sub>4</sub> to form<br>  zinc sulphate and hydrogen gas."
+msgstr ""
+"जिंक फीका H<sub>2</sub>SO<sub>4</sub> के साथ प्रतिक्रिया करते हैं। एच <उप> 2 </ उप> तो <उप> 4 </ उप> जिंक "
+"सल्फेट और हाइड्रोजन गैस को <br> बनाने के लिए।"
+
+#: simcontrols.js:69
+msgid "Zinc sulphate  reacts with NaOH to form<br> a white gelatinous precipitate of Zinc hydroxide ."
+msgstr "एक सफेद अवक्षिप्त वेग से जिंक हाइड्रॉक्साइड उत्पादित करता हैं जब जिंक सल्फेट NaOH  प्रतिक्रिया करता हैं। "
+
+#: simcontrols.js:69
+msgid "The white precipitate dissolves<br> when Sodium hydroxide is added in excess."
+msgstr "सोडियम हाइड्रॉक्साइड ज़रूरत से ज्यादा  तब सफेद वेग  उसमें घुल जाता हैं "
+
+#: simcontrols.js:70
+msgid "Drag the test tube to fit  <br>it in the Kipps apparatus."
+msgstr "Kipp के उपकरण में यह <br> टेस्ट ट्यूब  ठीक से खींचें।"
+
+#: simcontrols.js:70
+msgid "Click on the knob of Kipps apparatus to pass  <br>hydrogen sulphide gas to the solution."
+msgstr "हाइड्रोजन सल्फाइड गैस के  विलयन के लिए <br>   गांठ करने के लिए Kipp के उपकरण परक्लिक करें।"
+
+#: simcontrols.js:70
+msgid "Click on the knob of Kipps apparatus<br> to turn off."
+msgstr "बंद करने के लिए <br> Kipp के उपकरण की घुंडी पर क्लिक करें।"
+
+#: simcontrols.js:70
+msgid "Click on the test tube<br> to shake it."
+msgstr "इसे हिलाने के लिए  टेस्ट ट्यूब <br> पर क्लिक करें।"
+
+#: simcontrols.js:70
+msgid "Drag the test tube <br>to place it in the stand."
+msgstr "स्टैंड में रखने के लिए टेस्ट ट्यूब को <br> खींचें।"
+
+#: simcontrols.js:71
+msgid ""
+"Zinc sulphate reacts with Hydrogen sulphide gas<br> to form a white precipitate of Zinc sulphide."
+msgstr ""
+"सफ़ेद अवक्षिप्त जिंक सल्फाइड को उत्पतित होता हैं जब जिंक सल्फेट हाइड्रोजन सल्फाइड गैस के साथ प्रतिक्रिया करता है।"
+
+#: simcontrols.js:72
+msgid "Turn on the burner by clicking the knob of the  burner."
+msgstr "बर्नर की बटन पर क्लिक करके बर्नर चालू करें।"
+
+#: simcontrols.js:72
+msgid "Drag the holder to heat the boiling tube<br> containing hydrated copper sulphate."
+msgstr "हाइड्रेटेड कॉपर सल्फेट से युक्त उबलते ट्यूब को <br> गर्म करने के लिए होल्डर को खींचें।"
+
+#: simcontrols.js:72
+msgid ""
+"Drag the dropper to add 2-3 drops of water to the<br> boiling tube containing anhydrous copper "
+"sulphate."
+msgstr "निर्जल कॉपर सल्फेट से युक्त <br> उबलते ट्यूब में 2-3 बूँदें पानी में जोड़ने के लिए ड्रॉपर को खींचें।"
+
+#: simcontrols.js:73
+msgid ""
+"Hydrated copper sulphate crystals turn from blue to white <br>on losing water of crystallization."
+msgstr "क्रिस्टलीकरण को पानी में खोने पर हाइड्रेटेड कॉपर सल्फेट<br>क्रिस्टल नीले रंग से सफ़ेद रंग  बदल जाता हैं।"
+
+#: simcontrols.js:73
+msgid ""
+"On adding water, anhydrous copper sulphate rehydrated to <br>form blue coloured hydrated copper "
+"sulphate."
+msgstr "नीले रंग का हाइड्रेटेड कॉपर सल्फेट को बनाने के  लिए निर्जल कॉपर सल्फेट को पानी जोड़ने से बनता हैं।"
+
+#: simcontrols.js:74
+msgid "Keep a piece of dry ice (solid carbon dioxide) in a dish"
+msgstr "एक थाली में सूखी बर्फ का एक टुकड़ा (ठोस कार्बन डाइऑक्साइड) रखें"
+
+#: simcontrols.js:75
+msgid ""
+"It is observed that the  solid carbon dioxide<br> directly converted to gaseous carbon dioxide."
+msgstr "यह ठोस कार्बन डाइऑक्साइड सीधे गैसीय कार्बन डाइऑक्साइड में सीधा परिवर्तित <br> हो  जाता है।"
+
+#: simcontrols.js:76
+msgid "Keep an ice cube (or ice cubes) in a bowl for a short period of time"
+msgstr "समय की छोटी अवधि में  एक कटोरी में एक बर्फ का घनाकार टुकड़ा(या आइस क्यूब्स) रखें"
+
+#: simcontrols.js:77
+msgid "It is observed that ice cubes slowly melts into water."
+msgstr "यह बर्फ का  घनाकार टुकड़ा धीरे धीरे पानी में पिघल जाता है।"
+
+#: simcontrols.js:78
+msgid "Dil.Sulphuric acid"
+msgstr "फीका सल्फ्यूरिक एसिड"
+
+#: simcontrols.js:78
+msgid "Zinc granules"
+msgstr "जिंक कणिकाओं"
+
+#: simcontrols.js:78
+msgid "Kipps Apparatus"
+msgstr "kipp 's  के उपकरण"
+
+#: simcontrols.js:79
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols.js:79
+msgid "Zinc Sulphate"
+msgstr "जिंक सल्फेट"
+
+#: simcontrols.js:79
+msgid "Zinc Hydroxide"
+msgstr "जिंक हाइड्रॉक्साइड"
+
+#: simcontrols.js:80
+msgid "Physical change"
+msgstr "भौतिक परिवर्तन"
+
+#: simcontrols.js:80
+msgid "Chemical change"
+msgstr "रासायनिक  परिवर्तन "
+
+#: simcontrols.js:81
+msgid " Correct. "
+msgstr "सही"
+
+#: simcontrols.js:82
+msgid " Wrong.Try agian! "
+msgstr "गलत।  जाँच करें फिर से!"
+
+#: simcontrols.js:83
+msgid "15 Mins"
+msgstr "15 मिनट"

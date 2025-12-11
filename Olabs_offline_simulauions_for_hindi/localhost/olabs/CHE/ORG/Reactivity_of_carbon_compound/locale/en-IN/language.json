@@ -1,0 +1,27 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"Select the test": "Select the test",
+	"Solubility </br>&nbsp;in water": "Solubility </br>&nbsp;in water",
+	"Odour": "Odour",
+	"Effect on </br> &nbsp;&nbsp;litmus": "Effect on </br> &nbsp;&nbsp;litmus",
+	"&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>": "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>",
+	"Acetic acid": "Acetic acid",
+	"Litmus paper": "Litmus paper",
+	"Water": "Water",
+	"Reset": "Reset",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT",
+	"Properties of Acetic Acid (Ethanoic Acid)": "Properties of Acetic Acid (Ethanoic Acid)",
+	"NaHCO<sub>3</sub> solution": "NaHCO<sub>3</sub> solution",
+	"Lime water": "Lime water",
+	"Drag the test tube to pour acetic acid into<br/> the test tube containing water.": "Drag the test tube to pour acetic acid into<br/> the test tube containing water.",
+	"Click on the test tube to shake it.": "Click on the test tube to shake it.",
+	"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.": "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.",
+	"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.": "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.",
+	"A homogeneous solution is formed.": "A homogeneous solution is formed.",
+	"A pungent smell is produced.": "A pungent smell is produced.",
+	"Blue litmus turns red.": "Blue litmus turns red.",
+	"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.": "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.",
+	"HELP": "HELP",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT"
+}

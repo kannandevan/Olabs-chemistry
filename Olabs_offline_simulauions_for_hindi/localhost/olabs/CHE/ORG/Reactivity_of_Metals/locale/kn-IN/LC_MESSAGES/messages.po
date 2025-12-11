@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2013-09-30 15:41+0530\n"
+"PO-Revision-Date: 2013-09-30 15:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:90
+msgid "Reactivity of Metals"
+msgstr "Reactivity of Metals"
+
+#: simcontrols.js:91 simcontrols.js:122
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:92
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:93
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:94
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:97
+msgid "Select the metal:"
+msgstr "Select the metal:"
+
+#: simcontrols.js:97
+msgid "Beaker A:"
+msgstr "Beaker A:"
+
+#: simcontrols.js:97
+msgid "Beaker B:"
+msgstr "Beaker B:"
+
+#: simcontrols.js:97
+msgid "Beaker C:"
+msgstr "Beaker C:"
+
+#: simcontrols.js:97
+msgid "Most reactive metal:"
+msgstr "Most reactive metal:"
+
+#: simcontrols.js:97
+msgid "Least reactive metal:"
+msgstr "Least reactive metal:"
+
+#: simcontrols.js:97
+msgid "Increasing order of reactivity:"
+msgstr "Increasing order of reactivity:"
+
+#: simcontrols.js:97
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:97
+msgid "1 hour"
+msgstr "1 hour"
+
+#: simcontrols.js:97
+msgid "CHEMISTRY LAB"
+msgstr "CHEMISTRY LAB"
+
+#: simcontrols.js:97
+msgid "Result"
+msgstr "Result"
+
+#: simcontrols.js:100 simcontrols.js:117
+msgid "Aluminium"
+msgstr "Aluminium"
+
+#: simcontrols.js:100 simcontrols.js:117
+msgid "Zinc"
+msgstr "Zinc"
+
+#: simcontrols.js:100 simcontrols.js:117
+msgid "Iron"
+msgstr "Iron"
+
+#: simcontrols.js:100 simcontrols.js:117
+msgid "Copper"
+msgstr "Copper"
+
+#: simcontrols.js:103
+msgid ""
+"Al is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+msgstr ""
+"Al is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+
+#: simcontrols.js:103
+msgid ""
+"Al is more reactive than Zn and it can displace Zn from </br>ZnSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+msgstr ""
+"Al is more reactive than Zn and it can displace Zn from </br>ZnSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+
+#: simcontrols.js:103
+msgid ""
+"Al is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+msgstr ""
+"Al is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)"
+"<sub>3</sub>."
+
+#: simcontrols.js:106
+msgid ""
+"Zn is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"Zn is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+
+#: simcontrols.js:106
+msgid ""
+"No change is observed. Because Zn is less reactive than Al </br>so it cannot "
+"displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+msgstr ""
+"No change is observed. Because Zn is less reactive than Al </br>so it cannot "
+"displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+
+#: simcontrols.js:106
+msgid ""
+"Zn is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"Zn is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4</"
+"sub> solution and forms colourless solution of ZnSO<sub>4</sub>."
+
+#: simcontrols.js:109
+msgid ""
+"Fe is is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms light green coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"Fe is is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</"
+"sub> solution and forms light green coloured FeSO<sub>4</sub> solution."
+
+#: simcontrols.js:109
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"No change is observed. This indicates that Fe is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+
+#: simcontrols.js:109
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Al "
+"so it cannot displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> "
+"solution."
+msgstr ""
+"No change is observed. This indicates that Fe is less reactive </br>than Al "
+"so it cannot displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> "
+"solution."
+
+#: simcontrols.js:112
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"No change is observed. This indicates that Cu is less reactive </br>than Zn "
+"so it cannot displace Zn from ZnSO<sub>4</sub> solution."
+
+#: simcontrols.js:112
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Al "
+"so it cannot displace Al from from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub> solution."
+msgstr ""
+"No change is observed. This indicates that Cu is less reactive </br>than Al "
+"so it cannot displace Al from from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub> solution."
+
+#: simcontrols.js:112
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Fe "
+"so it cannot displace Fe from FeSO<sub>4</sub> solution."
+msgstr ""
+"No change is observed. This indicates that Cu is less reactive </br>than Fe "
+"so it cannot displace Fe from FeSO<sub>4</sub> solution."
+
+#: simcontrols.js:115
+msgid "Select the metal."
+msgstr "Select the metal."
+
+#: simcontrols.js:115
+msgid "Select the solution in beaker A."
+msgstr "Select the solution in beaker A."
+
+#: simcontrols.js:115
+msgid "Select the solution in beaker B."
+msgstr "Select the solution in beaker B."
+
+#: simcontrols.js:115
+msgid "Select the solution in beaker C."
+msgstr "Select the solution in beaker C."
+
+#: simcontrols.js:115
+msgid ""
+"Click and drag the forceps to add </br>two pieces of metal to the beaker."
+msgstr ""
+"Click and drag the forceps to add </br>two pieces of metal to the beaker."
+
+#: simcontrols.js:117 simcontrols.js:118 simcontrols.js:121
+msgid "-Select-"
+msgstr "-Select-"
+
+#: simcontrols.js:118 simcontrols.js:121
+msgid "Al<Cu<Fe<Zn"
+msgstr "Al<Cu<Fe<Zn"
+
+#: simcontrols.js:118 simcontrols.js:121
+msgid "Cu<Fe<Zn<Al"
+msgstr "Cu<Fe<Zn<Al"
+
+#: simcontrols.js:118 simcontrols.js:121
+msgid "Cu<Zn<Al<Fe"
+msgstr "Cu<Zn<Al<Fe"
+
+#: simcontrols.js:118 simcontrols.js:121
+msgid "Fe<Zn<Cu<Al"
+msgstr "Fe<Zn<Cu<Al"
+
+#: simcontrols.js:124 simcontrols.js:125 simcontrols.js:126
+msgid "Copper sulphate"
+msgstr "Copper sulphate"
+
+#: simcontrols.js:124 simcontrols.js:126 simcontrols.js:127
+msgid "Zinc sulphate"
+msgstr "Zinc sulphate"
+
+#: simcontrols.js:124 simcontrols.js:125 simcontrols.js:127
+msgid "Ferrous sulphate"
+msgstr "Ferrous sulphate"
+
+#: simcontrols.js:125 simcontrols.js:126 simcontrols.js:127
+msgid "Aluminium sulphate"
+msgstr "Aluminium sulphate"

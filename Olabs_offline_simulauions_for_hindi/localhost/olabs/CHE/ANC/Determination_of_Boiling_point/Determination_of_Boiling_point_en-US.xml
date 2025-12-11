@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>We require, phenol, conc. Sulphuric acid (or liquid paraffin), capillary tube, thermometer, thread, iron stand with clamp,test tube, beaker, stirrer,  wire gauze, tripod stand, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+		<TEXTVALUE>Take the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takephenol">
+	<TEXT ID="takephenol_one">
+		<TEXTVALUE>Using a dropper take a small quantity of phenol.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>Fill up to two-third of the test tube with phenol.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE> Fix the test tube to the thermometer with the thread.The thread should be fixed near the mouth of the test tube.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="taksulph">
+	<TEXT ID="taksulph_one">
+		<TEXTVALUE>Take conc. sulphuric acid.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+     <TEXTVALUE>Fill the beaker with conc. sulphuric acid using a funnel.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>Place the beaker on the wire gauze placed over the Bunsen burner and insert a stirrer in it. 
+
+</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>Clamp the thermometer carrying the test tube in the iron stand. Lower the thermometer along with the test tube into conc. sulphuric acid bath. 
+</TEXTVALUE>
+   </TEXT>
+    <TEXT ID="parafinburner_three">
+		<TEXTVALUE> Adjust the thermometer so that its bulb is well under the acid and open end of the tube with the thread is sufficiently outside the acid bath.
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="Scene28">
+	<TEXT ID="Scene28_one">
+		<TEXTVALUE>Take a capillary tube 5-6 cm in length and seal one end of the tube by heating it in the flame and giving a slight twist.
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner233">
+	<TEXT ID="parafinburner233_one">
+		<TEXTVALUE>Place the capillary in the test tube with closed end upward.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>Heat the the sulphuric acid bath slowly and stir the liquid with the stirrer by moving it up and down.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom222">
+	<TEXT ID="parafinburnerzoom222_one">
+		<TEXTVALUE>After some time bubbles will start coming from the end of the capillary tube dipping in the liquid, but soon a rapid and continupus stream of air bubbles escapes from it.</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburnerzoom222_two">
+		<TEXTVALUE> This is the stage when vapour pressure of the liquid in th sealed capillary just exceeds the atmospheric pressure.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>Note the temperature (t1)when continuous stream of air bubbles starts coming out.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner_off">
+	<TEXT ID="parafinburner_off_one">
+		<TEXTVALUE>Turn off the burner.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom22">
+	<TEXT ID="parafinburnerzoom22_one">
+		<TEXTVALUE>Bubbles from the end of te capillary tube goes on decreasing.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom33">
+	<TEXT ID="parafinburnerzoom33_one">
+		<TEXTVALUE>Note the temperature (t2)  when evolution of bubbles from the end of the capillary just stops.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_one">
+		<TEXTVALUE>Calculate the boiling point of phenol using the formula ,( t1 ° + t2 °)/2</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+	
+</DATA>

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:50+0530\n"
+"PO-Revision-Date: 2025-10-07 12:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Preparation of Aniline yellow"
+msgstr "ऐनिलीन येलो का निर्माण"
+
+
+msgid "HELP"
+msgstr "सहायता"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "विकसित किया गया अमृता विश्वविद्यालय द्वारा <br> वित्त पोषण: इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय || <br> शिक्षा मंत्रालय, भारत सरकार"
+
+
+msgid "Reset"
+msgstr "रीसेट करें"
+
+msgid "Drag and drop the dropper containing<br>10 mL HCl into the measuring cylinder"
+msgstr "ड्रॉपर को 10 मिली HCl के साथ मापक सिलेंडर में खींचें और छोड़ें"
+
+msgid "Drag and drop the measuring cylinder<br> into beaker containing water"
+msgstr "मापक सिलेंडर को पानी वाले बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop the dropper<br> containing 4.5 mL aniline<br> into the measuring cylinder"
+msgstr "ड्रॉपर को 4.5 मिली ऐनिलीन के साथ <br>मापक सिलेंडर में खींचें और छोड़ें"
+
+msgid "Drag and drop the measuring cylinder<br> into the beaker containing HCl and water"
+msgstr "मापक सिलेंडर को HCl और पानी वाले <br>बीकर में खींचें और छोड़ें"
+
+msgid "Click the glass rod<br> inside the beaker to stir<br> and get a clear solution"
+msgstr "घुमाने और स्पष्ट घोल पाने के लिए <br>बीकर के अंदर कांच की छड़ पर क्लिक करें"
+
+msgid "Drag and drop the beaker<br> into the ice bath"
+msgstr "बीकर को बर्फ के स्नान (बर्फ का स्नान) में <br>खींचें और छोड़ें"
+
+msgid "Drag and drop <br>the thermometer<br> into ice bath"
+msgstr "थर्मामीटर को बर्फ के स्नान (बर्फ का स्नान) में <br>खींचें और छोड़ें"
+
+msgid "Click on the Inference button"
+msgstr "निष्कर्ष बटन पर क्लिक करें"
+
+msgid "Click on the Next button"
+msgstr "अगला बटन पर क्लिक करें"
+
+msgid "Drag and drop the butter paper containing<br>4g sodium nitrite powder in the beaker"
+msgstr "4 ग्राम सोडियम नाइट्राइट पाउडर वाले <br>बटर पेपर को बीकर में खींचें और छोड़ें"
+
+msgid "Click on the glass rod placed<br> in the beaker to stir constantly"
+msgstr "लगातार हिलाने के लिए बीकर में रखी <br>कांच की छड़ पर क्लिक करें"
+
+msgid "Drag and drop the beaker into ice bath"
+msgstr "बीकर को बर्फ के स्नान (बर्फ का स्नान) में खींचें और छोड़ें"
+
+msgid "Drag and drop the Mixture solution<br>(HCl and aniline with water) into the beaker<br> containing sodium nitrite solution"
+msgstr "मिश्रण घोल (HCl और ऐनिलीन पानी के साथ) <br>को सोडियम नाइट्राइट घोल वाले बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop glass rod into<br> the solution beaker to stir"
+msgstr "हिलाने के लिए कांच की छड़ को <br>घोल वाले बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop the dropper containing<br> 4 mL aniline into the measuring cylinder"
+msgstr "ड्रॉपर को 4 मिली ऐनिलीन के साथ <br>मापक सिलेंडर में खींचें और छोड़ें"
+
+msgid "Drag and drop the measuring<br> cylinder into empty beaker"
+msgstr "मापक सिलेंडर को खाली बीकर में <br>खींचें और छोड़ें"
+
+msgid "Drag and drop the dropper containing<br> 4 mL HCl into the measuring cylinder"
+msgstr "ड्रॉपर को 4 मिली HCl के साथ <br>मापक सिलेंडर में खींचें और छोड़ें"
+
+msgid "Drag and drop the measuring<br> cylinder into the aniline beaker"
+msgstr "मापक सिलेंडर को ऐनिलीन बीकर में <br>खींचें और छोड़ें"
+
+msgid "Drag benzene diazonium chloride<br> solution from 5 <sup>o</sup>C ice bath and drop<br> it in the HCl and aniline beaker"
+msgstr "बेंजीन डाइएजोनियम क्लोराइड घोल को 5 °C <br>बर्फ के स्नान (बर्फ का स्नान) से खींचें और <br>HCl तथा ऐनिलीन वाले बीकर में छोड़ें"
+
+msgid "Drag and drop glass rod<br> into the solution beaker for<br> stirring to get a yellow color"
+msgstr "पीला रंग पाने के लिए हिलाने हेतु <br>कांच की छड़ को घोल वाले बीकर में <br>खींचें और छोड़ें"
+
+msgid "Drag and drop the beaker<br> containing solution<br> into the ice bath"
+msgstr "घोल वाले बीकर को बर्फ के स्नान (बर्फ का स्नान) <br>में खींचें और छोड़ें"
+
+msgid "Drag and drop folded paper into the funnel"
+msgstr "फोल्ड किए गए पेपर को फनल में खींचें और छोड़ें"
+
+msgid "Drag and drop the beaker containing<br> crude sample into the funnel to filter it"
+msgstr "फिल्टर करने के लिए कच्चे नमूने (crude sample) <br>वाले बीकर को फनल में खींचें और छोड़ें"
+
+msgid "Drag and drop the paper containing<br> the dry compound into the beaker"
+msgstr "सूखे यौगिक (dry compound) वाले पेपर <br>को बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop CCl<sub>4</sub> dropper into the<br> beaker containing the crude sample"
+msgstr "CCl₄ ड्रॉपर को कच्चे नमूने वाले <br>बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop the end-closed<br> capillary into the beaker"
+msgstr "बंद सिरे वाली केशिका नली (capillary) <br>को बीकर में खींचें और छोड़ें"
+
+msgid "Switch ON the <br>melting point apparatus"
+msgstr "गलनांक उपकरण (melting point apparatus) <br>चालू करें"
+
+msgid "Switch ON the Rapid <br>heat to the melting<br> point apparatus"
+msgstr "गलनांक उपकरण को तीव्र ताप (Rapid heat) दें"
+
+msgid "Drag and drop the capillary tube<br> into the melting point apparatus"
+msgstr "केशिका नली को गलनांक उपकरण <br>में खींचें और छोड़ें"
+
+msgid "Drag and drop the thermometer<br> into the melting point apparatus"
+msgstr "थर्मामीटर को गलनांक उपकरण <br>में खींचें और छोड़ें"
+
+msgid "Click variable heat into the<br> melting point apparatus"
+msgstr "गलनांक उपकरण में परिवर्तनशील ताप <br>(variable heat) पर क्लिक करें"
+
+msgid "Click the yellow light glass view<br> into the melting point apparatus"
+msgstr "गलनांक उपकरण में पीली रोशनी वाली <br>कांच की दृश्यता पर क्लिक करें"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "प्रयोग फिर से करने के लिए रीसेट बटन पर क्लिक करें"
+
+msgid "The HCl and aniline beaker in the ice bath is at 5 <sup>o</sup>C."
+msgstr "HCl और ऐनिलीन वाला बीकर बर्फ के स्नान (बर्फ का स्नान) में 5 °C पर है।"
+
+msgid "Solution get yellow color<br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH<sub>2</sub>"
+msgstr "घोल का रंग पीला होता है <br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH₂"
+
+msgid "120<sup>o</sup>C to 130<sup>o</sup>C: Melting yellow liquid at<br> this temperature; see in zoom view."
+msgstr "120 °C से 130 °C: इस तापमान पर पीला द्रव पिघलता है; ज़ूम दृश्य में देखें।"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "Instructions:"
+msgstr "निर्देश:"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "प्रयोग फिर से करने के लिए रीसेट बटन पर क्लिक करें"
+
+msgid "Reset"
+msgstr "रीसेट"
+
+msgid "Leave the solution for sometime, until the yellow solid get recrystallized."
+msgstr "घोल को कुछ देर के लिए तब तक छोड़ दें जब तक कि पीला ठोस पुन: क्रिस्टलीकृत (पुन: क्रिस्टलीकृत) न हो जाए।"
+
+
+
+
+
+
+
+
+
+
+
+
+
+msgid "1. Show 20 mL of water in the &nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "1. बीकर में 20 मिली पानी दिखाएं।"
+
+msgid "2. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;containing 10 mL HCl into  &nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "2. ड्रॉपर को 10 मिली HCl के साथ मापक सिलेंडर में खींचें और छोड़ें।"
+
+msgid "3. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into a &nbsp;&nbsp;&nbsp;&nbsp;beaker containing water."
+msgstr "3. मापक सिलेंडर को पानी वाले बीकर में खींचें और छोड़ें।"
+
+msgid "4. Drag and drop the dropper  &nbsp;&nbsp;&nbsp;&nbsp;containing 4.5 mL &nbsp;&nbsp;&nbsp;&nbsp;aniline&nbsp;into the measuring<br>&nbsp;&nbsp;&nbsp; cylinder."
+msgstr "4. ड्रॉपर को 4.5 मिली ऐनिलीन के साथ मापक सिलेंडर में खींचें और छोड़ें।"
+
+msgid "5. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into the &nbsp;&nbsp;&nbsp;&nbsp;beaker containing HCl and &nbsp;&nbsp;&nbsp;&nbsp;water."
+msgstr "5. मापक सिलेंडर को HCl और पानी वाले बीकर में खींचें और छोड़ें।"
+
+msgid "6. Click the glass rod inside the &nbsp;&nbsp;&nbsp;&nbsp;beaker to stir and get a &nbsp;&nbsp;&nbsp;&nbsp;clear solution."
+msgstr "6. घुमाने और स्पष्ट घोल पाने के लिए बीकर के अंदर कांच की छड़ पर क्लिक करें।"
+
+msgid "7. Drag and drop the beaker  &nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "7. बीकर को बर्फ के स्नान (बर्फ का स्नान) में खींचें और छोड़ें।"
+
+msgid "8. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;thermometer into ice bath."
+msgstr "8. थर्मामीटर को बर्फ के स्नान (बर्फ का स्नान) में खींचें और छोड़ें।"
+
+msgid "9. Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "9. निष्कर्ष बटन पर क्लिक करें।"
+
+msgid "10.Click on the Next button."
+msgstr "10. अगला बटन पर क्लिक करें।"
+
+msgid "Instructions:"
+msgstr "निर्देश:"
+
+msgid "&nbsp;&nbsp;1. Drag and drop the butter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paper containing 4 g sodium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrite powder in the beaker."
+msgstr "&nbsp;&nbsp;1. 4 ग्राम सोडियम नाइट्राइट पाउडर वाले बटर पेपर को बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;2. Click on the glass rod placed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the beaker to stir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;constantly."
+msgstr "&nbsp;&nbsp;2. लगातार हिलाने के लिए बीकर में रखी कांच की छड़ पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;3. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "&nbsp;&nbsp;3. बीकर को बर्फ के स्नान (बर्फ का स्नान) में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;4. Drag and drop the mixture  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution (HCl and aniline with  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water) into the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing sodium nitrite &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution."
+msgstr "&nbsp;&nbsp;4. मिश्रण घोल (HCl और ऐनिलीन पानी के साथ) को सोडियम नाइट्राइट घोल वाले बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;5. Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker to stir."
+msgstr "&nbsp;&nbsp;5. हिलाने के लिए कांच की छड़ को घोल वाले बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;6. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL aniline into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "&nbsp;&nbsp;6. ड्रॉपर को 4 मिली ऐनिलीन के साथ मापक सिलेंडर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;7. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the empty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "&nbsp;&nbsp;7. मापक सिलेंडर को खाली बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;8. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL HCl into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder."
+msgstr "&nbsp;&nbsp;8. ड्रॉपर को 4 मिली HCl के साथ मापक सिलेंडर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;9. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the aniline &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "&nbsp;&nbsp;9. मापक सिलेंडर को ऐनिलीन बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;10.Drag benzene diazonium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chloride solution from &nbsp;5 <sup>o</sup>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath and drop it in the HCl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and aniline beaker."
+msgstr "&nbsp;&nbsp;10.बेंजीन डाइएजोनियम क्लोराइड घोल को 5 °C बर्फ के स्नान (बर्फ का स्नान) से खींचें और HCl तथा ऐनिलीन वाले बीकर में छोड़ें।"
+
+msgid "&nbsp;&nbsp;11.Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stirring to get a yellow color."
+msgstr "&nbsp;&nbsp;11.पीला रंग पाने के लिए हिलाने हेतु कांच की छड़ को घोल वाले बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;12.Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing solution into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath."
+msgstr "&nbsp;&nbsp;12.घोल वाले बीकर को बर्फ के स्नान (बर्फ का स्नान) में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;13.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "&nbsp;&nbsp;13.निष्कर्ष बटन पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;1. Drag and drop folded paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the funnel"
+msgstr "&nbsp;&nbsp;1. फोल्ड किए गए पेपर को फनल में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;2. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing crude sample into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the funnel to filter it."
+msgstr "&nbsp;&nbsp;2. फिल्टर करने के लिए कच्चे नमूने (crude sample) वाले बीकर को फनल में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;3. Drag and drop the paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing the dry compound &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker."
+msgstr "&nbsp;&nbsp;3. सूखे यौगिक (dry compound) वाले पेपर को बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;4. Drag and drop CCl<sub>4</sub> dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker containing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the crude sample."
+msgstr "&nbsp;&nbsp;4. CCl₄ ड्रॉपर को कच्चे नमूने वाले बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;5. Drag and drop the end-closed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capillary into the beaker."
+msgstr "&nbsp;&nbsp;5. बंद सिरे वाली केशिका नली (capillary) को बीकर में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;6. Switch ON the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;6. गलनांक उपकरण (melting point apparatus) चालू करें।"
+
+msgid "&nbsp;&nbsp;7. Switch ON the Rapid heat to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the melting point apparatus."
+msgstr "&nbsp;&nbsp;7. गलनांक उपकरण को तीव्र ताप (Rapid heat) दें।"
+
+msgid "&nbsp;&nbsp;8. Drag and drop the capillary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tube into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;8. केशिका नली को गलनांक उपकरण में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;9. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thermometer into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "&nbsp;&nbsp;9. थर्मामीटर को गलनांक उपकरण में खींचें और छोड़ें।"
+
+msgid "&nbsp;&nbsp;10.Click variable heat into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "&nbsp;&nbsp;10.गलनांक उपकरण में परिवर्तनशील ताप (variable heat) पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;11.Click the yellow light glass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;11.गलनांक उपकरण में पीली रोशनी वाली कांच की दृश्यता पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;12.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "&nbsp;&nbsp;12.निष्कर्ष बटन पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;13.Click on the Reset button to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do the experiment again."
+msgstr "&nbsp;&nbsp;13.प्रयोग फिर से करने के लिए रीसेट बटन पर क्लिक करें।"
+
+msgid "Developed by Amrita University Under research grant from<br>Ministry of Electronics and Information Technology"
+msgstr "अमृता विश्वविद्यालय द्वारा इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय से शोध अनुदान के तहत विकसित"

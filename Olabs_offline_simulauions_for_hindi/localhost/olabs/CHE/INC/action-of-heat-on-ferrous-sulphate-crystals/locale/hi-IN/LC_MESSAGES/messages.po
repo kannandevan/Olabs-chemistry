@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mi\n"
+"POT-Creation-Date: 2015-11-23 17:04+0530\n"
+"PO-Revision-Date: 2015-11-24 15:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:66
+msgid "Decomposition Reaction"
+msgstr "अपघटन अभिक्रिया"
+
+#: simcontrols.js:71
+msgid "Thermal Decomposition"
+msgstr "थर्मल अपघटन"
+
+#: simcontrols.js:71
+msgid "Electrolytic Decomposition"
+msgstr "विद्युत् अपघटन"
+
+#: simcontrols.js:71
+msgid "Photo Decomposition"
+msgstr "प्रकाश  अपघटन"
+
+#: simcontrols.js:71
+msgid "Copper Carbonate"
+msgstr "कॉपर कार्बोनेट"
+
+#: simcontrols.js:71
+msgid "Ferrous Sulphate"
+msgstr "फेरस सल्फेट"
+
+#: simcontrols.js:71
+msgid "Water"
+msgstr "पानी"
+
+#: simcontrols.js:71
+msgid "Sodium Chloride"
+msgstr "सोडियम क्लोराइड"
+
+#: simcontrols.js:71
+msgid "Silver Chloride"
+msgstr "सिल्वर क्लोराइड"
+
+#: simcontrols.js:71
+msgid "Silver Bromide"
+msgstr "सिल्वर ब्रोमाइड"
+
+#: simcontrols.js:71
+msgid "To separate "
+msgstr "मिश्रण से "
+
+#: simcontrols.js:71
+msgid " from the mixture"
+msgstr "अलग करने के लिए"
+
+#: simcontrols.js:71
+msgid "Select the mixture:"
+msgstr "मिश्रण का चयन करें:"
+
+#: simcontrols.js:71
+msgid "Chemical reaction :"
+msgstr "रासायनिक अभिक्रिया :"
+
+#: simcontrols.js:71
+msgid "Select the power of the light from the source :"
+msgstr "स्रोत से प्रकाश शक्ति का चयन करें:"
+
+#: simcontrols.js:71
+msgid "Select the distance of the light from the sample :"
+msgstr "नमूने से प्रकाश की दूरी का चयन करें:"
+
+#: simcontrols.js:71
+msgid "Rheostat Resistance :"
+msgstr "रिओसटेट प्रतिरोध:"
+
+#: simcontrols.js:71
+msgid "Select the sample :"
+msgstr "नमूने का चयन करें:"
+
+#: simcontrols.js:71
+msgid "Select the type of reaction :"
+msgstr "अभिक्रिया के प्रकार का चयन करें:"
+
+#: simcontrols.js:71
+msgid " W"
+msgstr " W"
+
+#: simcontrols.js:71
+msgid " ohm"
+msgstr " ohm"
+
+#: simcontrols.js:71
+msgid "cm"
+msgstr "cm"
+
+#: simcontrols.js:71
+msgid "Anode(+ve electrode) :"
+msgstr "एनोड (+ve इलेक्ट्रोड):"
+
+#: simcontrols.js:71
+msgid "Cathode(-ve electrode) :"
+msgstr "कैथोड (-ve इलेक्ट्रोड):"
+
+#: simcontrols.js:71
+msgid "Overall:"
+msgstr "कुल मिलाकर:"
+
+#: simcontrols.js:71
+msgid "0 ohm"
+msgstr "0 ohm"
+
+#: simcontrols.js:71
+msgid "40 W"
+msgstr "40 W"
+
+#: simcontrols.js:71
+msgid "50cm"
+msgstr "50cm"
+
+#: simcontrols.js:71
+msgid "Switch On"
+msgstr "स्विच ऑन करें"
+
+#: simcontrols.js:71
+msgid "Start"
+msgstr "शुरू करें"
+
+#: simcontrols.js:71
+msgid "Stop"
+msgstr "रुकें"
+
+#: simcontrols.js:71
+msgid "Switch Off"
+msgstr "स्विच ऑफ करें"
+
+#: simcontrols.js:71
+msgid "Strong heat"
+msgstr "तेज गर्मी"
+
+#: simcontrols.js:71
+msgid "80&deg;C-100&deg;C"
+msgstr "80&deg;C-100&deg;C"
+
+#: simcontrols.js:71
+msgid "Reset"
+msgstr "रीसेट "
+
+#: simcontrols.js:73
+msgid ""
+"Copper carbonate decomposes at about 290&deg;C</br>giving off carbon dioxide and leaving "
+"copper (II) oxide."
+msgstr ""
+"कॉपर कार्बोनेट लगभग 290 डिग्री सेल्सियस पर अपघटित (डिकंपोज)</br>हो जाता है और कार्बन डाइऑक्साइड देने "
+"के साथ कॉपर (II) ऑक्साइड छोड़ता है।"
+
+#: simcontrols.js:73
+msgid ""
+"When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose the water "
+"molecules to form</br>white coloured anhydrous FeSO<sub>4</sub>. On strongly heating, the "
+"anhydrous FeSO<sub>4</sub></br>decomposes to form a reddish-brown residue of Fe<sub>2</"
+"sub>O<sub>3</sub> and SO<sub>2</sub> and</br>SO<sub>3</sub> gases."
+msgstr ""
+"जब 80डिग्री सेल्सियस -100 डिग्री सेल्सियस तक गर्म किया जाता है FeSO सफेद स्‍पैचुला का निर्जल FeSO बनाने "
+"के लिए पानी के अणुओं का</br> त्‍याग करता हैं। बहुत ज्‍यादा गर्म करने पर निर्जल FeSO FeO और SO,गैसों का "
+"लाल-भूरे स्‍पैचुला के अवशेष बनाने के</br>लिए अपघटित हो जाता है।"
+
+#: simcontrols.js:73
+msgid ""
+"When an electric current is being passed through water, it decomposes</br>into hydrogen "
+"gas (H<sub>2</sub>) at the cathode and oxygen gas (O<sub>2</sub>) at the</br>anode. The "
+"amount of hydrogen generated is twice that of oxygen."
+msgstr ""
+"जब पानी से बिजली गुजारी जाती है, तो यहर कैथोड पर हाइड्रोजन गैस और एनोड पर</br> ऑक्सीजन गैस  में "
+"विघटित हो जाता है । उत्पन्न होने वाली हाइड्रोजन की मात्रा ऑक्सीजन की मात्रा की दो</br>गुनी होती है।"
+
+#: simcontrols.js:73
+msgid ""
+"When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</sup> ions and "
+"Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions undergo oxidation to form chlorine "
+"gas. At the cathode,</br>water molecules reduced to form hydrogen gas, leaving OH<sup>-</"
+"sup> ions. Na<sup>+</sup> ions</br>and OH<sup>-</sup> ions react together to form aqueous "
+"NaOH."
+msgstr ""
+"जब सोडियम क्लोराइड पानी में घोल दिया जाता है, यह एनोड पर  Na आयन बनाने के लिए आयनीकृत होता है तो "
+"Cl आयन क्लोरीन</br> गैस बनाने के लिए ऑक्सीकरण से गुजरता हैं। कैथोड पर पानी के अणु हाइड्रोजन गैस बनने के "
+"लिए</br> अपचयित हो जाते हैं औरOH आयन छोड़ते हैं। Na और OH आयन जलीय NaOH बनाने के लिए एक साथ</"
+"br>अभिक्रिया करते हैं।"
+
+#: simcontrols.js:73
+msgid ""
+"Silver chloride undergoes decomposition in the presence</br>of light giving off chlorine "
+"gas and leaving metallic silver."
+msgstr ""
+"सिल्वर क्लोराइड प्रकाश की उपस्थिति में अपघटन से गुजरता</br> है और क्लोरीन गैस देता है तथा धात्विक चांदी "
+"छोड़ता है ।"
+
+#: simcontrols.js:73
+msgid ""
+"Silver bromide undergoes decomposition in the presence</br>of light giving off bromine "
+"gas and leaving metallic silver."
+msgstr ""
+"सिल्वर ब्रोमाइड प्रकाश की उपस्थिति में अपघटन से</br>गुजरता है और ब्रोमाइन गैस देता है तथा धात्विक चांदी "
+"छोड़ता है ।"
+
+#: simcontrols.js:100
+msgid "Select the reaction."
+msgstr "अभिक्रिया का चयन करें।"
+
+#: simcontrols.js:100
+msgid "Select the sample."
+msgstr "नमूने का चयन करें।"
+
+#: simcontrols.js:100
+msgid "To start the experiment,</br>click on the Start button."
+msgstr "प्रयोग शुरू करने के लिए,</br> स्‍टार्ट बटन पर क्लिक करें।"
+
+#: simcontrols.js:100
+msgid "Drag the spatula over the</br>test tube to put CaCO<sub>3</sub> into it."
+msgstr "टेस्ट ट्यूब में CaCO3 डालने</br> के लिए इसके ऊपर स्‍पैचुला खींचें।"
+
+#: simcontrols.js:100
+msgid "Click on the knob</br>to switch on the</br>burner."
+msgstr "बर्नर चालू करने के</br> लिए नॉब पर क्लिक करें।"
+
+#: simcontrols.js:100
+msgid "Drag the test tube over the burner</br>to heat the compound."
+msgstr "यौगिक (कंपाउंड) गर्म करने के लिए बर्नर</br> के ऊपर टेस्ट ट्यूब खींचें।"
+
+#: simcontrols.js:100
+msgid "Move the slider to adjust</br>the rheostat resistance."
+msgstr "रिओस्‍टेट प्रतिरोध का समायोजन </br>करने के लिए स्लाइडर खिसकाएँ।"
+
+#: simcontrols.js:100
+msgid "Click on the switch on button."
+msgstr "स्विच ऑन बटन पर क्लिक करें।"
+
+#: simcontrols.js:100
+msgid "Use the slider to adjust</br>the power of the light."
+msgstr "प्रकाश की शक्ति का समायोजन</br> करने के लिए स्लाइडर का इस्‍तेमाल करें।"
+
+#: simcontrols.js:100
+msgid "Use the slider to adjust the</br>distance of the light source."
+msgstr "काश स्रोत की दूरी का समायोजन </br>करने के लिए स्लाइडर का इस्‍तेमाल करें।"
+
+#: simcontrols.js:100
+msgid "Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+msgstr "टेस्ट ट्यूब में FeSO डालने के</br> लिए इसके ऊपर स्‍पैचुला को खींचें।"
+
+#: simcontrols.js:100
+msgid "To start the experiment,</br>click on the Switch on button."
+msgstr "प्रयोग शुरू करने के लिए, स्विच </br>ऑन बटन पर क्लिक करें।"
+
+#: simcontrols.js:100
+msgid "Click on the reset button</br>to redo the experiment."
+msgstr "प्रयोग फिर से करने के लिए रीसेट बटन पर क्लिक करें।"
+
+#: simcontrols.js:103
+msgid "HELP"
+msgstr "HELP"

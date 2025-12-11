@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>Thermochemistry</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="water_text">
+	<TEXTVALUE>Water equivalent of calorimeter</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="enthalpy_txt">
+	<TEXTVALUE>Enthalpy of dissolution of </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>Click on the button to choose the experiment.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>We require a wooden box with lid, calorimeter, thermometer, measuring jar, 250 ml beakers, distilled water and a stirrer.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="wooden_txt">
+	<TEXTVALUE>Wooden box with lid </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calorimeter_txt">
+	<TEXTVALUE>Calorimeter</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="thermometer_txt">
+	<TEXTVALUE>Thermometer</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="jar_txt">
+	<TEXTVALUE>Measuring jar</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="baker_txt">
+	<TEXTVALUE>250 ml beakers </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>Distilled water </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="stirrer_txt">
+	<TEXTVALUE>Stirrer   </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="hotplate_txt">
+	<TEXTVALUE>Hot plate</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>Measure 50 ml of distilled water in the measuring jar.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>Measure 50 ml of distilled water in the measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Transfer it into the calorimeter.  Using the thermometer, measure the temperature of water in the calorimeter.  Let it be t&#8321;  °C.  Remove the thermometer.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>Place the calorimeter in the wooden box (the space between the calorimeter and the wooden box is filled with cotton to avoid heat loss) and insert a stirrer in the calorimeter.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Take another 50 ml of distilled water in the measuring jar and transfer it into a 250 ml beaker.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Heat water in the beaker to a temperature 10-20 °C (~47 °C) higher than that of room temperature and note the temperature of this warm water. Let it be t&#8322; °C.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Add the warm water into the calorimeter without any loss of time.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>Immediately close the wooden box and quickly insert the thermometer into the calorimeter. Stir the water using the stirrer and continue stirring until the temperature becomes constant. Note down the temperature. Let it be  t&#8323;°C. </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Record the observations.</TEXTVALUE>
+	</TEXT>
+		
+	<TEXT ID="observation_txt">
+	<TEXTVALUE>Observations </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="volume_txt">
+	<TEXTVALUE>•Volume of water taken in the calorimeter = 50 ml</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature_txt">
+	<TEXTVALUE>•Temperature of water = t&#8321;°C = 27 °C</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>•Volume of warm water added = 50 ml</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_mass">
+	<TEXTVALUE>•Therefore, mass of water = 50 g 
+ (assuming specific density of water = 1)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="temperature47_txt">
+	<TEXTVALUE>•Temperature of warm water = t&#8322;°C = 47 °C</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature36_txt">
+	<TEXTVALUE>•Temperature after mixing = t&#8323;°C =36 °C</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Calculate the water equivalent of calorimeter.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calculations_txt">
+	<TEXTVALUE>Calculations</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>Heat given out by hot water = Heat taken by calorimeter and cold water</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>Water equivalent of calorimeter, W</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>Water equivalent of calorimeter, W </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn_txt">
+	<TEXTVALUE>&#60;&#60;Back</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>We require a wooden box with lid, calorimeter, thermometer, measuring jar, 5 g ammonium chloride, distilled water and a stirrer.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="ammonia_txt">
+	<TEXTVALUE>Ammonium chloride(5g)  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Measure 50 ml of distilled water in the measuring jar.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Measure 50 ml of distilled water in the measuring jar.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Transfer it into the calorimeter.Using the thermometer, measure the temperature of water in the calorimeter. Let it be t&#8321; °C.Remove the thermometer.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>Place the calorimeter in the wooden box (the space between the calorimeter and the wooden box is filled with cotton to avoid heat loss) and insert a stirrer in the calorimeter.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>Transfer ammonium chloride into the calorimeter.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>Transfer ammonium chloride into the calorimeter.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>Immediately close the wooden box and quickly insert the thermometer into the calorimeter. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Scene21_onesub">
+	<TEXTVALUE> Stir the water using the stirrer and continue stirring until the temperature becomes constant. Note down the thermometer reading. Let it be t&#8322; °C. </TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>Record the observations.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum_txt">
+	<TEXTVALUE>•Weight of ammonium chloride dissolved, w = 5 g.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="water50_txt">
+	<TEXTVALUE>•Volume of water taken in the calorimeter = 50 ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="mass_txt">
+	<TEXTVALUE>•Therefore, mass of water taken in the
+ calorimeter = 50 g (assuming specific density = 1)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterTempe_txt">
+	<TEXTVALUE>•Temperature of water = t&#8321; °C = 27 °C</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="tempAfter_txt">
+	<TEXTVALUE>•Temperature after dissolving ammonium chloride = t&#8322; °C =22 °C</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterEqui_txt">
+	<TEXTVALUE>•Water equivalent of calorimeter, w = 11.11 g</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum01_txt">
+	<TEXTVALUE>•Molecular mass of ammonium chloride, M = 53.49 g/mol</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>Calculate the enthalpy of dissolution of ammonium chloride.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="equ_1_txt">
+	<TEXTVALUE>Assuming density and specific heat of the solution to be same as that 
+of water,heat evolved or absorbed for dissolution of w g of the solute, </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>For  w  moles of the solute dissolved heat change</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="eque_3_txt">
+	<TEXTVALUE>For 1 mole of the solute dissolved heat change(Enthalapy of dissolution)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>Q =(w + mass of water) X (t&#8321; -t&#8322; )Cals </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_5_txt">
+	<TEXTVALUE>=(w + mass of water) X (t&#8321; -t&#8322; ) X 4.2 joules</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>=(w + mass of water) X (t&#8321; -t&#8322; ) X 4.2 joules</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>=(w + mass of water) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_8_txt">
+	<TEXTVALUE>joules</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>Calculate the enthalpy of dissolution of ammonium chloride.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>Enthalapy of dissolution</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>=(W + mass of water) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>joules/mol</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>Enthalapy of dissolution of ammonium chloride</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>= 13728.85038 joules/mol</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>= 13.73 kilojoules/mol</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

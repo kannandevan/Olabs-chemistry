@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="truesolution">
+	<TEXT ID="truesolution_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sugar">
+	<TEXT ID="sugar_one">
+		<TEXTVALUE>पाण्यात साखरेचे खरोखरीचे द्रावण तयार करणे.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_two">
+		<TEXTVALUE>९५ मिली ऊर्ध्वपतित पाणी असलेल्या २५० मिली चंचुपात्रात १० ग्राम बारीक साखर टाका.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_three">
+		<TEXTVALUE>काचेचा रॉड वापरून साखर विरघळेपर्यंत द्रावण ढवळा.</TEXTVALUE>
+		</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solution">
+	<TEXT ID="solution_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="cellophanepaper">
+	<TEXT ID="cellophanepaper_one">
+		<TEXTVALUE>थोडे साखरेचे द्रावण एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="cellophanepaper_two">
+		<TEXTVALUE>दुसर्याक बाजूने बघा. परिक्षा नळीच्या दुसर्याळ बाजूने सेलोफेन कागद नीट दिसतो. हे सूचित करते की खरोखरीचे द्रावण पारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Sugarfiltration">
+	<TEXT ID="Sugarfiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून साखरेचे द्रावण ओता. एक स्पष्ट गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Sugarfiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर काही अवशेष मागे उरत नाही. हे सूचित करते की खरोखरीच्या द्रावणातून स्थायू कण वेगळे करता येत नाहीत.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="Stability">
+	<TEXT ID="Stability_one">
+		<TEXTVALUE>थोडे साखरेचे द्रावण एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. द्रावण तसेच राहते, कुठलाही गाळ खाली बसत नाही. हे सूचित करते की खरोखरीचे द्रावण स्थिर असतात आणि त्यांच्यातल्या घटकांचे अवक्षेपण दिसत नाही.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SaltWater">
+	
+   <TEXT ID="SaltWater_one">
+		<TEXTVALUE>पाण्यात मिठाचे खरोखरीचे द्रावण तयार करणे.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltWater_two">
+		<TEXTVALUE>९५ मिली ऊर्ध्वपतित पाणी असलेल्या २५० मिली चंचुपात्रात १० ग्राम बारीक मीठ टाका.</TEXTVALUE>
+ </TEXT>
+    <TEXT ID="SaltWater_three">
+		<TEXTVALUE>काचेचा रॉड वापरून मीठ विरघळेपर्यंत द्रावण ढवळा.</TEXTVALUE>
+ </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="solutionsalt">
+	<TEXT ID="solutionsalt_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Salttranspirancy">
+	<TEXT ID="Salttranspirancy_one">
+		<TEXTVALUE>थोडे मीठ द्रावण एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Salttranspirancy_two">
+		<TEXTVALUE>दुसर्याक बाजूने बघा. परिक्षा नळीच्या दुसर्याळ बाजूने सेलोफेन कागद नीट दिसतो. हे सूचित करते की खरोखरीचे द्रावण पारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="SaltFiltration">
+	<TEXT ID="SaltFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून मीठ द्रावण ओता. एक स्पष्ट गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर काही अवशेष मागे उरत नाही. हे सूचित करते की खरोखरीच्या द्रावणातून स्थायू कण वेगळे करता येत नाहीत.</TEXTVALUE>
+   </TEXT>
+    
+</SCENE>
+
+
+
+<SCENE ID="SaltStability">
+	<TEXT ID="SaltStability_one">
+		<TEXTVALUE>थोडे मीठ द्रावण एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. द्रावण तसेच राहते, कुठलाही गाळ खाली बसत नाही. हे सूचित करते की खरोखरीचे द्रावण स्थिर असतात आणि त्यांच्यातल्या घटकांचे अवक्षेपण दिसत नाही.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AlumWater">
+	<TEXT ID="AlumWater_one">
+		<TEXTVALUE>९५ मिली ऊर्ध्वपतित पाणी असलेल्या २५० मिली चंचुपात्रात १० ग्राम तुरटी टाका.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumWater_two">
+		<TEXTVALUE>काचेचा रॉड वापरून तुरटी विरघळेपर्यंत द्रावण ढवळा.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="solutionAlum">
+	<TEXT ID="psolutionAlum_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumTranspirncy">
+	<TEXT ID="AlumTranspirncy_one">
+		<TEXTVALUE>थोडे तुरटीचे द्रावण एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="AlumTranspirncy_two">
+		
+		<TEXTVALUE>दुसर्याक बाजूने बघा. परिक्षा नळीच्या दुसर्याय बाजूने सेलोफेन कागद नीट दिसतो. हे सूचित करते की खरोखरीचे द्रावण पारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumFiltration">
+	<TEXT ID="AlumFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून तुरटीचे द्रावण ओता. एक स्पष्ट गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर काही अवशेष मागे उरत नाही. हे सूचित करते की खरोखरीच्या द्रावणातून स्थायू कण वेगळे करता येत नाहीत.</TEXTVALUE>
+   </TEXT>
+       
+</SCENE>
+
+<SCENE ID="AlumStability">
+	<TEXT ID="AlumStability_one">
+		<TEXTVALUE>थोडे तुरटीचे द्रावण एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. द्रावण तसेच राहते, कुठलाही गाळ खाली बसत नाही. हे सूचित करते की खरोखरीचे द्रावण स्थिर असतात आणि त्यांच्यातल्या घटकांचे अवक्षेपण दिसत नाही.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilWater">
+	<TEXT ID="SoilWater_one">
+		<TEXTVALUE>९५ मिली ऊर्ध्वपतित पाणी असलेल्या २५० मिली चंचुपात्रात १० ग्राम बारीक माती टाका.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilWater_two">
+		<TEXTVALUE>काचेचा रॉड वापरून द्रावण ढवळा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilTransparency">
+	<TEXT ID="SoilTransparency_one">
+		<TEXTVALUE>थोडे मातीचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="SoilTransparency_two">
+		<TEXTVALUE>दुसर्याश बाजूने बघा. परिक्षा नळीच्या दुसर्याए बाजूने सेलोफेन कागद दिसत नाही. हे सूचित करते की कणयुक्त द्रावण अपारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="SoilFiltration">
+	<TEXT ID="SoilFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून मातीचे कणयुक्त द्रव ओता. एक स्पष्ट गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+  <TEXT ID="SoilFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर मातीचे कण दिसतील. हे सूचित करते की कणयुक्त द्रवातले कण गाळून वेगळे करता येतात.</TEXTVALUE>
+   </TEXT>
+   </SCENE>
+
+
+<SCENE ID="SoilStability">
+	<TEXT ID="SoilStability_one">
+		<TEXTVALUE>थोडे मातीचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. हळू हळू परिक्षा नळीच्या बुडाशी मातीचे कण खाली बसतील.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilStability_two">
+		<TEXTVALUE>हे सूचित करते की कणयुक्त द्रव अस्थिर असते आणि जड कण खाली बसतात.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Chalkwater">
+	<TEXT ID="Chalkwater_one">
+		<TEXTVALUE>९५मिली ऊर्ध्वपतित पाणी असलेल्या २५०मिली चंचुपात्रात १० ग्राम खडूची बारीक पावडर टाका.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Chalkwater_two">
+		<TEXTVALUE>काचेचा रॉड वापरून द्रावण ढवळा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionchalk">
+	<TEXT ID="solutionchalk_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Chalktranspirancy">
+	<TEXT ID="Chalktranspirancy_one">
+		<TEXTVALUE>थोडे खडूचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Chalktranspirancy_two">
+		<TEXTVALUE>दुसर्याश बाजूने बघा. परिक्षा नळीच्या दुसर्याळ बाजूने सेलोफेन कागद दिसत नाही. हे सूचित करते की कणयुक्त द्रावण अपारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="ChalkFiltration">
+	<TEXT ID="ChalkFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून खडूचे कणयुक्त द्रव ओता. एक स्पष्ट गळण मिळेल. </TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर खडूचे कण दिसतील. हे सूचित करते की कणयुक्त द्रवातले कण गाळून वेगळे करता येतात.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="ChalkStability">
+	<TEXT ID="ChalkStability_one">
+		<TEXTVALUE>थोडे खडूचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. हळू हळू परिक्षा नळीच्या बुडाशी खडूचे कण खाली बसतील.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkStability_two">
+		<TEXTVALUE>हे सूचित करते की कणयुक्त द्रव अस्थिर असते आणि जड कण खाली बसतात.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandWater">
+	<TEXT ID="FindsandWater_one">
+		<TEXTVALUE>1. ९५मिली ऊर्ध्वपतित पाणी असलेल्या २५०मिली चंचुपात्रात १० ग्राम बारीक वाळू टाका.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandWater_two">
+		<TEXTVALUE>2.काचेचा रॉड वापरून द्रावण ढवळा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="solutionsoisand">
+	<TEXT ID="solutionsoisand_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandTranspirancy">
+	<TEXT ID="FindsandTranspirancy_one">
+		<TEXTVALUE>थोडे वाळूचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		 </TEXT>
+		<TEXT ID="FindsandTranspirancy_two">
+		<TEXTVALUE>दुसर्याश बाजूने बघा. परिक्षा नळीच्या दुसर्याए बाजूने सेलोफेन कागद दिसत नाही. हे सूचित करते की कणयुक्त द्रावण अपारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="FindsandFiltration">
+	<TEXT ID="FindsandFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून वाळूचे कणयुक्त द्रव ओता. एक स्पष्ट गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर वाळूचे कण दिसतील. हे सूचित करते की कणयुक्त द्रवातले कण गाळून वेगळे करता येतात.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+<SCENE ID="Findsandstability">
+	<TEXT ID="Findsandstability_one">
+		<TEXTVALUE>थोडे वाळूचे कणयुक्त द्रव एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. हळू हळू परिक्षा नळीच्या बुडाशी वाळूचे कण खाली बसतील.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Findsandstability_two">
+		<TEXTVALUE>हे सूचित करते की कणयुक्त द्रव अस्थिर असते आणि जड कण खाली बसतात.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchwater">
+	<TEXT ID="Starchwater_one">
+		<TEXTVALUE>२५० मिली चंचुपात्रात १ ग्राम स्टार्च पावडर घ्या.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_two">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या दुसर्याॉ चंचुपात्रातून ३ मिली पाणी एका मापन जार मध्ये घ्या आणि स्टार्च असलेल्या चंचुपात्रात टाका. काचेचा रॉड वापरून द्रावण नीट ढवळा.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_three">
+		<TEXTVALUE>उरलेले ९७ मिली ऊर्ध्वपतित पाणी असलेले चंचुपात्र बन्सेन बर्नर वर गरम करा.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_four">
+		<TEXTVALUE>उकळते पाणी स्टार्च असलेल्या चंचुपात्रात ओता. काचेचा रॉड वापरून नीट ढवळा आणि थंड होऊ द्या.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilstarch">
+	<TEXT ID="solutionsoilstarch_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchtranspirancy">
+	<TEXT ID="Starchtranspirancy_one">
+		<TEXTVALUE>परिक्षा नळीत थोडेसे स्टार्चचे कलिल घ्या. नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Starchtranspirancy_two">
+		<TEXTVALUE>दुसर्याक बाजूने बघा. परिक्षा नळीच्या दुसर्याच बाजूने सेलोफेन कागद थोडेसे दिसते. हे सूचित करते की कलिल अर्धवट पारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="StarchFiltration">
+	<TEXT ID="StarchFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून स्टार्चचे कलिल ओता. एक अर्धवट पारदर्शक गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="StarchFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर काही अवशेष मागे उरत नाही. हे सूचित करते की कलिलातले घटक गाळून वेगळे करता येत नाहीत.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="StarchStability">
+	<TEXT ID="StarchStability_one">
+		<TEXTVALUE>थोडे स्टार्चचे कलिल एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. कुठलाही बदल दिसत नाही. हे सूचित करते की कलिल स्थिर असतात आणि त्यांच्यात विरघळलेले द्राव्य बर्याेच वेळानंतर सुद्धा खाली बसत नाहीत.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Eggwater">
+	<TEXT ID="Eggwater_one">
+		<TEXTVALUE>२५० मिली चंचुपात्रात १ ग्राम अंड्याचे पांढरे बलक घ्या.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_two">
+		<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी असलेल्या दुसर्याड चंचुपात्रातून ५ मिली पाणी एका मापन जार मध्ये ओता आणि ते अंड्याचे पांढरे बलक असलेल्या चंचुपात्रात टाका. काचेचा रॉड वापरून द्रावण नीट ढवळा.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_three">
+		<TEXTVALUE>उरलेले ९५ मिली ऊर्ध्वपतित पाणी असलेले चंचुपात्र घ्या आणि अंड्याचे पांढरे बलक असलेल्या चंचुपात्रात हळू हळू टाका.स्पष्ट द्रावण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_four">
+		<TEXTVALUE>या स्पष्ट द्रावणात काही थेंब विरल HCl टाका आणि नीट ढवळा. अंड्याचे पांढरे बलक आणि पाण्याचे स्पष्ट द्रावण गढूळ होईल.
+
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilegg">
+	<TEXT ID="solutionsoilegg_one">
+		<TEXTVALUE>कुठलीही एक परिक्षा निवडण्यासाठी क्लिक करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="eggtranspirancy">
+	<TEXT ID="eggtranspirancy_one">
+		<TEXTVALUE>अंड्याच्या पांढर्यान बलकाचे कलिल एका परिक्षा नळीत घ्या. नळीच्या एका बाजूला सेलोफेन कागद लावा.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="eggtranspirancy_two">
+		<TEXTVALUE>दुसर्याक बाजूने बघा. परिक्षा नळीच्या दुसर्या् बाजूने सेलोफेन कागद थोडेसे दिसते. हे सूचित करते की कलिल अर्धवट पारदर्शक असते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="EggFiltration">
+	<TEXT ID="EggFiltration_one">
+		<TEXTVALUE>क्लांप स्टँड वापरून नरसाळे परिक्षा नळीत टाका. मग नरसाळ्यात फिल्टर कागद टाका. आता नरसाळ्यातून अंड्याच्या पांढर्या  बलकाचे कलिल ओता. एक अर्धवट पारदर्शक गळण मिळेल.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="EggFiltration_two">
+		<TEXTVALUE>फिल्टर कागदावर काही अवशेष मागे उरत नाही. हे सूचित करते की कलिलातले घटक गाळून वेगळे करता येत नाहीत.</TEXTVALUE>
+   </TEXT>
+   
+   
+</SCENE>
+
+<SCENE ID="Eggstability">
+	<TEXT ID="Eggstability_one">
+		<TEXTVALUE>थोडे अंड्याच्या पांढर्याल बलकाचे कलिल एका परिक्षा नळीत घ्या आणि परिक्षा नळी २० मिनिटे रॅक वर राहू दे. कुठलाही बदल दिसत नाही. हे सूचित करते की कलिल स्थिर असतात आणि त्यांच्यात विरघळलेले द्राव्य बर्याॅच वेळानंतर सुद्धा खाली बसत नाहीत.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+
+
+	
+</DATA>

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: snam\n"
+"POT-Creation-Date: 2015-09-21 10:51+0530\n"
+"PO-Revision-Date: 2016-06-08 15:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:20
+msgid "Click on the measuring cylinder containing sodium sulphate solution to pour it into the conical flask."
+msgstr "സോഡിയം സൾഫേറ്റ് ലായനി അടങ്ങിയ അളവ് സിലിണ്ടറിൽ ക്ലിക്ക് ചെയ്ത് ലായനി കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the measuring cylinder containing barium chloride solution to pour it into the 10 ml test tube."
+msgstr "ബേരിയം ക്ലോറൈഡ്  ലായനി അടങ്ങിയ അളവ് സിലിണ്ടറിൽ ക്ലിക്ക് ചെയ്ത് ലായനി 10 മി.ലി.കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the thread to tie the test tube with it."
+msgstr "നൂലിൽ ക്ലിക്ക് ചെയ്ത് ഇത് ടെസ്റ്റൃൂബുമായി കെട്ടുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the test tube to hang it in the conical flask."
+msgstr "ടെസ്റ്റൃൂബിൽ ക്ലിക്ക് ചെയ്ത് കോണിക്കൽ ഫ്ലാസ്കിൽ തൂക്കിയിടുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the conical flask to place it on the balance and weigh it with all the contents and note the reading."
+msgstr "കോണിക്കൽ ഫ്ലാസ്കിൽ ക്ലിക്ക് ചെയ്ത് ഇത് ത്രാസ്സിലേക്ക് വെയ്ക്കുക, ഇതിലുള്ള എല്ലാ പദാർത്ഥളുടേയും ഭാരം അളക്കുക, റീഡിംഗ് രേഖപ്പെടുത്തുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the information icon to view the  inference."
+msgstr "അനുമാനം കാണുന്നതിന് വിവരങ്ങൾ നൽകുന്ന ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:20
+msgid ""
+"Sodium sulphate solution reacts with barium chloride solution to form a white precipitate of barium sulphate and an aqueous solution of sodium "
+"chloride."
+msgstr "സോഡിയം സൾഫേറ്റ്ലായനി ബേരിയം ക്ലോറൈഡ് ലായനിയുമായി ചേർന്ന്<br> ബേരിയം സൾഫേറ്റിൻ്റെ വെള്ള അവക്ഷിപ്തവും<br>സോഡിയംക്ലോറൈഡിൻ്റെ ജലീയലായനിയും ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:20
+msgid ""
+"Since the mass of the total apparatus remains the same before and after the reaction, the total mass of the reactants = the total mass of the "
+"products. Hence the law of conservation of mass is verified."
+msgstr ""
+"പ്രവർത്തനത്തിന് മുൻപും പിൻപുമൊത്ത ഉപകരണത്തിൻ്റെ മാസ്സ് ഒരു പോലെയായതിനാൽ പ്രവർത്തക വസ്തുക്കളുടെ മൊത്തം മാസ്സ്=ഉൽപ്പന്നങ്ങളുടെ മൊത്തം മാസ്സ് അങ്ങനെ ദ്രവൃസംരക്ഷണനിയമം "
+"തെളിയിക്കപ്പെട്ടു."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the 'NEXT STEP' button to redirect the next step"
+msgstr "അടുത്ത സ്റ്റെപ്പിലേക്ക് പുനഃസംപ്രഷണം ചെയ്യുന്നതിന് ''അടുത്ത ഘട്ടം'' ബട്ടനിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the conical flask to tilt and swirl it to mix both the solutions."
+msgstr "രണ്ട് ലായനികളും ഒരുമിച്ച് യോജിക്കുന്നതിന് കോണിക്കൽ ഫ്ലാസ്ക് ചരിച്ച് കറക്കുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the conical flask to weigh it again an note the reading."
+msgstr "ശേഷം കോണിക്കൽ ഫ്ലാസ്കിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: ../js/simcontrols.js:20
+msgid "Wait for ten minutes to complete the reaction."
+msgstr "പ്രവർത്തനം പൂർണ്ണമാകുന്നതുവരെ 10 മിനിട്ട് കാത്തിരിക്കുക"
+
+#: ../js/simcontrols.js:22
+msgid "Thread"
+msgstr "നൂല്"
+
+#: ../js/simcontrols.js:23
+msgid "Sodium Sulphate 5ml"
+msgstr "5ml സോഡിയം സൾഫേറ്റ്"
+
+#: ../js/simcontrols.js:24
+msgid "Barium Chloride 5ml"
+msgstr "5ml ബേരിയം ക്ലോറൈഡ്"
+
+#: ../js/simcontrols.js:25
+msgid "NEXT STEP"
+msgstr "അടുത്തത് "
+
+#: ../js/simcontrols.js:26
+msgid "10 min"
+msgstr "10 min"
+
+#: ../js/simcontrols.js:27
+msgid "The Law of Conservation of Mass in a Chemical Reaction"
+msgstr "രാസപ്രവർത്തനത്തിലെ ദ്രവൃസംരക്ഷണനിയമം"
+
+#: ../js/simcontrols.js:28
+msgid "Reset"
+msgstr "മിനിട്ട്"
+
+#: ../js/simcontrols.js:30
+msgid "Instructions"
+msgstr "നിർദേശങ്ങൾ"

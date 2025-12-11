@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-09 14:58+0530\n"
+"PO-Revision-Date: 2025-10-09 14:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "मोठं करा"
+ 
+msgid "MINIMIZE"
+msgstr "लहान करा"
+
+#: simcontrols.js:32
+msgid "Heating of Solution in a Beaker"
+msgstr "बिकरमधील द्रावण गरम करणे"
+
+#: simcontrols.js:34
+msgid "Drag the tripod towards the burner"
+msgstr "ट्रायपॉड बर्नरकडे खेचा"
+
+#: simcontrols.js:34
+msgid "Drag the wire gauze towards the top of the tripod"
+msgstr "ट्रायपॉडच्या वरच्या भागाकडे वायर गॉझ खेचा"
+
+#: simcontrols.js:34
+msgid "Drag and drop the wash bottle near the beaker"
+msgstr "वॉश बॉटल बिकरजवळ ठेवा"
+
+#: simcontrols.js:34
+msgid "Drag the beaker to the top of the wire gauze"
+msgstr "बिकर वायर गॉझच्या वरच्या भागावर खेचा"
+
+#: simcontrols.js:34
+msgid "Drag the watch glass containing porcelain chips to the top of the beaker"
+msgstr "पोरसिलेन चिप्स असलेले वॉच ग्लास बिकरच्या वरच्या भागावर खेचा"
+
+#: simcontrols.js:34
+msgid "Click on the burner switch to turn on flame"
+msgstr "ज्वाला सुरू करण्यासाठी बर्नर स्विच क्लिक करा"
+
+#: simcontrols.js:34
+msgid "Drag the thermometer to the beaker to measure the temperature"
+msgstr "तापमान मोजण्यासाठी थर्मामीटर बिकरकडे खेचा"
+
+#: simcontrols.js:34
+msgid "Click on the burner switch to turn off flame"
+msgstr "ज्वाला बंद करण्यासाठी बर्नर स्विच क्लिक करा"
+
+#: simcontrols.js:34
+msgid "Click on the Inference button"
+msgstr "इन्फरन्स बटण क्लिक करा"
+
+#: simcontrols.js:34
+msgid "Click on the Reset button to redo<br> the simulation"
+msgstr "सिम्युलेशन पुन्हा सुरू करण्यासाठी रीसेट बटण क्लिक करा"
+
+#: simcontrols.js:35
+msgid ""
+"Heating a solution, such as water in a beaker, results in an increase in  <br>temperature "
+"due to the absorption of energy. This energy input causes<br>the water molecules to gain "
+"kinetic energy, leading to faster molecular<br>motion and,consequently, a rise in "
+"temperature. The process is essential<br>for various applications, including dissolving "
+"solutes,chemical reactions, <br> and general laboratory procedures. Monitoring temperature "
+"changes during <br>heating provides valuable information about the thermal properties of "
+"the <br>solution and aids in experimental control and analysis."
+msgstr ""
+"बिकरमधील पाणी सारख्या द्रावणाचे गरम करणे म्हणजे ऊर्जा शोषणामुळे तापमान वाढणे. <br>ही ऊर्जा पाण्याच्या "
+"रेणूंना गतीशील ऊर्जा देते, ज्यामुळे रेणूंचा गती वाढतो आणि तापमान वाढते.<br> हा प्रक्रियेशी अनेक वापरांसाठी आवश्यक "
+"आहे, जसे की द्रावक विरघळवणे, रासायनिक प्रतिक्रिया, <br>सामान्य प्रयोगशाळेतील प्रक्रिया. गरम करताना "
+"तापमानातील बदलांचे निरीक्षण केल्याने द्रावणाच्या तापीय <br>गुणधर्मांविषयी महत्त्वपूर्ण माहिती मिळते आणि "
+"प्रयोगाच्या नियंत्रणात मदत होते."
+
+#: simcontrols.js:38
+msgid "WATER"
+msgstr "पाणी"
+
+#: simcontrols.js:39
+msgid "PORCELAIN CHIPS"
+msgstr "पोर्सिलेन चिप्स"
+
+#: simcontrols.js:40
+msgid "THERMOMETER"
+msgstr "थर्मामीटर"
+
+#: simcontrols.js:41
+msgid "TRIPOD STAND"
+msgstr "ट्रायपॉड स्टँड"
+
+#: simcontrols.js:42
+msgid "BURNER"
+msgstr "बर्नर"
+
+#: simcontrols.js:43
+msgid "BEAKER"
+msgstr "बिकर"
+
+#: simcontrols.js:44
+msgid "WIRE GAUZE"
+msgstr "वायर गॉझ"

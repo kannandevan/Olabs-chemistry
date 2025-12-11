@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="IdentificationOfSolution.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_DEMO1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_DEMO2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_DEMO3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_FILTERCOLLOID">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_FILTERSUSPEND">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_INFERENCE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INFERENCE1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INFERENCE2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_INFERENCE3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_INFERENCE4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_INSTUCTION1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_INSTUCTION2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_INSTUCTION3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_INTRO1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_INTRODUCTIONS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_PASTECELLOPHANE1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_PASTECELLOPHANE2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_PASTECELLOPHANE3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_PREVIOUS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_PROPERTIES">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_SOIL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STABLECOLLOID">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STABLESOLUTION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STABLESUSPENSION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STARCHCOLLOID">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_SUGAR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_VARIABLES">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

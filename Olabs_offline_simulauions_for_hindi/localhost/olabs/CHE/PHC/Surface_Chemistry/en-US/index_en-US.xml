@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_1GMGUM">
+        <source>1 gm  Gum</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ALUMINIUMCHLORIDESOLN">
+        <source>Aluminium Chloride</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ALUMINIUMHYDROXIDE">
+        <source>Aluminium Hydroxide</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ALUMINIUMHYDROXIDESOL">
+        <source>Aluminium hydroxide sol</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ARSENIOUSSULPHIDE">
+        <source>Arsenious Sulphide</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_ARSENIOUSSULPHIDESOLN">
+        <source>Arsenious Sulphide Sol</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_COLLOIDALSOLNSTARCH">
+        <source>To prepare colloidal solution (sol) of starch</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_DIALYSISSTARCHSOLN">
+        <source>Dialysis of starch sol containing sodium chloride</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DISTILLEDWATER">
+        <source> Distilled water</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_EGGALBUMIN">
+        <source>Egg Albumin </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_EGGALBUMINSOLN">
+        <source> Egg-albumin Sol</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FERRICCHOLORIDESOLN">
+        <source>Ferric chloride solution</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_FERRICHYDROXIDE">
+        <source>Ferric Hydroxide</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERRICHYDROXIDESOLN">
+        <source>Ferric Hydroxide sol</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_FLUTTEREDFILTER">
+        <source>Flutted filter paper</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GUM">
+        <source>Gum</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_GUMSOL">
+        <source> Gum Sol</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IODINESOLN">
+        <source>Iodine Solution</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>Kipps apparatus</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_LEADACETATEPAPER">
+        <source>Lead acetate paper</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_LYOPHILICSOL">
+        <source>Lyophilic sol</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_LYOPHOBICSOL">
+        <source>Lyophobic sol</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MINUTE">
+        <source>minute</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_NACLSOLN">
+        <source> 5% NaCl solution</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_PARCHMENTMEMBRANE">
+        <source>Parchment Membrane</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_PREPARATIONOFLYOPHILICANDLYOPHOBICSOLS">
+        <source>Preparation of Lyophilic and Lyophobic Sols</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_PREPARECOLLOIDALSOLNALUMINIUMHY">
+        <source>To Prepare a colloidal solution of Aluminium hydroxide</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_PREPARECOLLOIDALSOLNARSENIOUS">
+        <source>To Prepare colloidal solution of Arsenious Sulphide</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_PREPARECOLLOIDALSOLNEGGALBUMIN">
+        <source> To prepare colloidal solution (sol) of Egg Albumin</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_PREPARECOLLOIDALSOLNFERRIC">
+        <source>To Prepare a Colloidal solution of Ferric hydroxide</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_PREPARECOLLOIDALSOLNGUM">
+        <source> To prepare colloidal solution (sol) of gum</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_PREPLYOPHILICSOL">
+        <source>Preparation of Lyophilic sol</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_PREPLYOPHOBICSOL">
+        <source>Preparation of Lyophobic sol</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_PUREGAS">
+        <source>Pure     gas</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_SILVERNITRATE">
+        <source>Silver nitrate</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_STARCH">
+        <source>Starch</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_STARCH_1">
+        <source>Starch</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_STARCHSODIUMCL">
+        <source>Starch Sol + Sodium chloride</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_STARCHSOL">
+        <source>Starch Sol</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_EXP_SURFACECHEMISTRY">
+        <source>Preparation of lyophilic and lyophobic sols</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_EXP_WATER">
+        <source>Water</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

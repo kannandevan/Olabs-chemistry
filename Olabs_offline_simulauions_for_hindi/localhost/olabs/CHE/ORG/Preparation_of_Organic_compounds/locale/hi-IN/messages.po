@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2015-06-12 10:38+0530\n"
+"PO-Revision-Date: 2016-05-23 15:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:14
+msgid "Preparation of Organic Compounds"
+msgstr "कार्बनिक यौगिकों की तैयारी"
+
+#: simcontrols.js:15
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:17
+msgid "Acetanilide"
+msgstr "एसीटैनिलाइड"
+
+#: simcontrols.js:18
+msgid "Dibenzal acetone"
+msgstr "डाईबेंजाल एसीटोन "
+
+#: simcontrols.js:19
+msgid "p-Nitroacetanilide"
+msgstr "पी-नाइट्रोएसीटैनिलाइड"
+
+#: simcontrols.js:20
+msgid "2-Naphthol aniline dye"
+msgstr "2-नैफ्थोल एनिलिन रंजक "
+
+#: simcontrols.js:21
+msgid "Glacial acetic acid"
+msgstr "ग्लेसियल एसिटिक अम्ल"
+
+#: simcontrols.js:22
+msgid "Aniline"
+msgstr "एनिलिन"
+
+#: simcontrols.js:23
+msgid "Acetic anhydride"
+msgstr "एसिटिक एनहाइड्राइड "
+
+#: simcontrols.js:24
+msgid "Water"
+msgstr "पानी"
+
+#: simcontrols.js:25
+msgid "Mixture"
+msgstr "मिश्रण"
+
+#: simcontrols.js:26
+msgid "Ice cold water"
+msgstr "ठंडा पानी"
+
+#: simcontrols.js:27
+msgid "Buchner funnel"
+msgstr "बुचनर कीप"
+
+#: simcontrols.js:28
+msgid "Acetic acid + Water"
+msgstr "एसिटिक अम्ल + पानी"
+
+#: simcontrols.js:29
+msgid "Filter paper"
+msgstr "फिल्टंर पेपर "
+
+#: simcontrols.js:30
+msgid "Ice bath"
+msgstr "इस विलयन "
+
+#: simcontrols.js:31
+msgid "Rectified spirit"
+msgstr "परिशोधित स्पिरिट "
+
+#: simcontrols.js:32
+msgid "Acetanilide (Precipitate)"
+msgstr "एसीटैनिलाइड (तलछट )"
+
+#: simcontrols.js:33
+msgid "Acetone(1ml) + Be- nzaldehyde"
+msgstr "एसीटोन(1ml) + बेंजल्डी‍हाइड"
+
+#: simcontrols.js:34
+msgid "Place the conical flask to  dish containing cold water"
+msgstr "ठंडे पानी से युक्त पात्र में शंक्वाकार फ्लास्क रखें"
+
+#: simcontrols.js:35
+msgid "10% NaOH"
+msgstr "10% NaOH"
+
+#: simcontrols.js:36
+msgid "Cold water"
+msgstr "ठंडा पानी"
+
+#: simcontrols.js:37
+msgid "Cork"
+msgstr "कॉर्क"
+
+#: simcontrols.js:38
+msgid "Water bottle"
+msgstr "पानी की बोतल"
+
+#: simcontrols.js:39
+msgid "Hot rectified spirit"
+msgstr "गर्म सुधारा भावना"
+
+#: simcontrols.js:40
+msgid "Conc.H<sub>2</sub>SO<sub>4</sub>"
+msgstr "सांद्र H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:41
+msgid "Recrystallization of acetanilide"
+msgstr "Recrystallization of acetanilide"
+
+#: simcontrols.js:42
+msgid "Recrystallization of dibenzal acetone"
+msgstr "Recrystallization of dibenzal acetone"
+
+#: simcontrols.js:43
+msgid "Recrystallization of p-Nitroacetanilide"
+msgstr "Recrystallization of p-Nitroacetanilide"
+
+#: simcontrols.js:44
+msgid "Recrystallization of 2-Naphthol aniline dye"
+msgstr "Recrystallization of 2-Naphthol aniline dye"
+
+#: simcontrols.js:45
+msgid "Ice cubes"
+msgstr "बर्फ के टुकड़े"
+
+#: simcontrols.js:46
+msgid "Methylated spirit"
+msgstr "मिथाइलेटेड स्प्रिट"
+
+#: simcontrols.js:47
+msgid "Min"
+msgstr "Min"
+
+#: simcontrols.js:48
+msgid "Conc. HCl"
+msgstr "Conc. HCl"
+
+#: simcontrols.js:49
+msgid "Distilled water"
+msgstr "आसुत जल"
+
+#: simcontrols.js:50
+msgid "Sodium nitrite"
+msgstr "सोडियम नाइट्राइट"
+
+#: simcontrols.js:51
+msgid "2-naphthol"
+msgstr "2-नैफ्थोल "
+
+#: simcontrols.js:52
+#, python-format
+msgid "10% sodium hydroxide"
+msgstr "10%sodium hydroxide"
+
+#: simcontrols.js:53
+msgid "Freezing Mixture"
+msgstr "बर्फ़ीली मिश्रण"
+
+#: simcontrols.js:54
+msgid "Next"
+msgstr "अगला"
+
+#: simcontrols.js:55
+msgid "Hot solution of Acetanilide"
+msgstr "एसीटैनिलाइड का गर्म विलयन"
+
+#: simcontrols.js:56
+msgid "Acetanilide crystals"
+msgstr "एसीटैनिलाइड के क्रिस्टल"
+
+#: simcontrols.js:57
+msgid "Precipitate of Dibenzal acetone"
+msgstr "डाईबेंजाल एसीटोन तलछट "
+
+#: simcontrols.js:58
+msgid "Crushed Ice"
+msgstr "कुचला बर्फ"
+
+#: simcontrols.js:59
+msgid "Precipitate of pNitroacetanilide"
+msgstr "Precipitate of p-Nitroacetanilide"
+
+#: simcontrols.js:60
+msgid "Hot solution of pNitroacetanilide"
+msgstr "Hot solution of p-Nitroacetanilide"
+
+#: simcontrols.js:61
+msgid "Crystals of pNitroacetanilide"
+msgstr "Crystals of p-Nitroacetanilide"
+
+#: simcontrols.js:62
+msgid "Sodium nitrite solution"
+msgstr "सोडियम नाइट्राइट मिश्रण"
+
+#: simcontrols.js:63
+msgid "Aniline + HCl + Water"
+msgstr "एनिलिन + HCl + पानी"
+
+#: simcontrols.js:64
+msgid "Aniline + HCl + Sodium nitrite"
+msgstr "एनिलिन  + HCl + सोडियम नाइट्राइट"
+
+#: simcontrols.js:65
+msgid "Alkaline 2Naphthol"
+msgstr "क्षारीय 2-नैफ्थोल "
+
+#: simcontrols.js:66
+msgid "Hot solution of 2Naphthol aniline Dye"
+msgstr "Hot solution of 2-Naphthol aniline Dye"
+
+#: simcontrols.js:67
+msgid "Crystals of 2Naphthol aniline Dye"
+msgstr "Crystals of 2-Naphthol aniline Dye"
+
+#: simcontrols.js:69
+msgid "Drag the measuring jar to the RB flask to pour glacial acetic acid into acetic anhydride."
+msgstr "एसिटिक एनहाइड्राइड में ग्लेसियल एसिटिक अम्ल डालने के लिए RB फ्लास्क की ओर मापक जार खींचें।"
+
+#: simcontrols.js:69
+msgid "Drag the measuring jar to the RB flask to pour aniline into it."
+msgstr "एनिलिन डालने के लिए RB फ्लास्क <br>की ओर मापक जार खींचें ।"
+
+#: simcontrols.js:69
+msgid "Drag the RB flask to the trough to place it in water."
+msgstr "पानी में रखने के लिए<br> खौल की ओर RB फ्लास्क खींचें।"
+
+#: simcontrols.js:69
+msgid "Drag the RB flask to the beaker to pour the contents into ice cold water."
+msgstr "बर्फीले ठंडे पानी में सामग्री डालने के<br>लिए बीकर की ओर RB फ्लास्क खींचें ।"
+
+#: simcontrols.js:69
+msgid "Drag the beaker to the Buchner funnel to filter the precipitate of acetanilide."
+msgstr "एसीटैनिलाइड का तलछट छानने के लिए बुचनर कीप की ओर बीकर खींचें ।"
+
+#: simcontrols.js:69
+msgid "Drag the bottle to the Buchner funnel to wash the precipitate with water."
+msgstr "पानी से तलछट धोने के लिए <br>बुचनर कीप की ओर बोतल खींचें।"
+
+#: simcontrols.js:69
+msgid ""
+"Drag the beaker to the beaker containing precipitate of acetanilide to pour acetic acid water mixture into it."
+msgstr "एसिटिक अम्ल के पानी का मिश्रण डालने के लिए<br> एसीटैनिलाइड के तलछट से युक्त बीकर की ओर बीकर खींचें।"
+
+#: simcontrols.js:69
+msgid "Drag the beaker to the burner to heat the contents."
+msgstr "सामग्री गर्म करने के लिए <br>बर्नर की ओर बीकर खींचें ।"
+
+#: simcontrols.js:69
+msgid "Drag the beaker to the funnel to filter the hot solution into the conical flask."
+msgstr "शंक्वाकार फ्लास्क में गर्म विलयन <br>छानने के लिए कीप की ओर बीकर खींचें ।"
+
+#: simcontrols.js:69
+msgid "Drag the conical flask to the ice bath to cool its contents."
+msgstr "सामग्री ठंडी करने के लिए आइस बाथ की ओर शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:69
+msgid "Drag the conical flask to the Buchner funnel to filter the crystals of acetanilide."
+msgstr "एसीटैनिलाइड के क्रिस्टल छानने के लिए<br>बुचनर कीप की ओर शंक्वाकार फ्लास्क खींचें "
+
+#: simcontrols.js:69
+msgid "Click and drag the spatula to the Buchner funnel to transfer the crystals to the filter paper."
+msgstr "क्लिक करें और फिल्टर पेपर पर क्रिस्टल<br> स्थाननांतरित करने के लिए बुचनर कीप की ओर स्पैचुला खींचें।"
+
+#: simcontrols.js:70
+msgid "Drag the RB flask to shake it."
+msgstr " हिलाने के लिए RB फ्लास्क खींचें।"
+
+#: simcontrols.js:71
+msgid "Click on the knob of the burner to turn it on."
+msgstr "चालू करने के लिए बर्नर की घुंडी पर क्लिक करें।"
+
+#: simcontrols.js:72
+msgid "Drag the conical flask to shake it."
+msgstr "हिलाने के लिए शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:73
+msgid "White shining flakes of acetanilide are obtained."
+msgstr "एसीटैनिलाइड की सफेद <br>चमकदार पपडि़यां प्राप्त होती हैं।"
+
+#: simcontrols.js:74
+msgid ""
+"Drag the measuring jar to the conical flask to pour rectified spirit into the mixture of acetone and "
+"benzaldehyde."
+msgstr "एसीटोन और बेंजल्डीहाइड के मिश्रण में<br> परिशोधित स्पिरिट डालने के लिए शंक्वाकार <br>फ्लास्क की ओर मापक जार खींचें।"
+
+#: simcontrols.js:74
+msgid "Drag the dropper to the conical flask to add 5ml 10% NaOH solution into it."
+msgstr "फ्लास्क में 10% NaOH  का विलयन मिलाने<br> के लिए शंक्वाकार फ्लास्क की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols.js:74
+msgid "Drag the cork to close the conical flask."
+msgstr "फ्लास्क बंद करने के लिए <br>शंक्वाकार फ्लास्क की ओर कार्क खींचें ।"
+
+#: simcontrols.js:74
+msgid "Drag the conical flask to the trough to place it in cold water."
+msgstr "ठंडे पानी में शंक्वाकार <br>फ्लास्क रखने के लिए खौल की ओर <br>शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:74
+msgid "Drag the conical flask to the Buchner funnel to filter the precipitate of dibenzal acetone."
+msgstr "डाईबेंजाल एसीटोन का तलछट छानने के<br> लिए बुचनर कीप की ओर शंक्वाकार फ्लास्क खींचें"
+
+#: simcontrols.js:74
+msgid ""
+"Drag the beaker to the beaker containing precipitate of dibenzal acetone to pour hot rectified spirit into it."
+msgstr "डाईबेंजाल एसीटोन के तलछट <br>से युक्त बीकर में गर्म परिशोधित<br> स्पिरिट डालने के लिए उक्त बीकर की <br>ओर बीकर खींचें।"
+
+#: simcontrols.js:74
+msgid "Drag the beaker to the Buchner funnel to filter the crystals of dibenzal acetone."
+msgstr "डाईबेंजाल एसीटोन के क्रिस्टल <br>छानने के लिए बुचनर कीप की ओर बीकर खींचें ।"
+
+#: simcontrols.js:75
+msgid "Pale yellow crystals of dibenzal acetone are obtained."
+msgstr "डाईबेंजाल एसीटोन के हल्के <br>पीले क्रिस्टल प्राप्त होते हैं।"
+
+#: simcontrols.js:76
+msgid "Drag the measuring jar to the conical flask to pour glacial acetic acid into acetanilide."
+msgstr "एसीटैनिलाइड में ग्लेरसियल एसिटिक अम्ल् <br>डालने के लिए शंक्वाकार फ्लास्क की<br> ओर मापक जार खींचें ।"
+
+#: simcontrols.js:76
+msgid "Drag the conical flask to the trough to place it in water."
+msgstr "पानी में शंक्वाकार फ्लास्क रखने<br> के लिए खौल की ओर शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:76
+msgid "Drag the dropper to the conical flask to add conc. H2SO4 to it."
+msgstr "Dragशंक्वाकार फ्लास्क में सान्द्र H2SO4<br> मिलाने के लिए शंक्वाकार फ्लास्क<br> की ओर ड्रापर खींचें ।"
+
+#: simcontrols.js:76
+msgid "Click on the glass rod to stir the contents of the conical flask."
+msgstr "शंक्वाकार फ्लास्क की सामग्री <br>चलाने के लिए कांच की<br> छड़ पर क्लिक करें।"
+
+#: simcontrols.js:76
+msgid ""
+"Drag the dropper to the freezing mixture to take the mixture of fuming nitric acid and conc. H2SO4 from the "
+"test tube."
+msgstr "परखनली से धूममय नाइट्रिक अम्ल<br> और सान्द्र H2SO4 का मिश्रण लेने के लिए ठंडे <br>मिश्रण की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols.js:76
+msgid "Drag the dropper to the conical flask to add the mixture of fuming nitric acid and conc. H2SO4 to it."
+msgstr ""
+"शंक्वाकार फ्लास्क में धूममय नाइट्रिक अम्ल<br> और सान्द्र H2SO4 का मिश्रण मिलाने के लिए शंक्वाकार<br> फ्लास्क की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols.js:76
+msgid "Drag the conical flask to leave it undisturbed for 30 minutes."
+msgstr "30 मिनट तक अछूता छोड़ने<br> के लिए शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:76
+msgid "Drag the conical flask to the beaker to pour the solution into crushed ice."
+msgstr "कुचली हुई बर्फ में विलयन डालने के<br> लिए बीकर की ओर शंक्वाकार फ्लास्क खींचें ।"
+
+#: simcontrols.js:76
+msgid "Drag the beaker to the Buchner funnel to filter the precipitate of pnitroacetanilide."
+msgstr "पीनाइट्रोएसीटैनिलाइड का <br>तलछट छानने के लिए बुचनर<br> कीप को बीकर खींचें।"
+
+#: simcontrols.js:76
+msgid ""
+"Drag the beaker to the beaker containing precipitate of pnitroacetanilide to pour methylated spirit into it."
+msgstr "पी-नाइट्रोएसीटैनिलाइड के तलछट से युक्त<br> बीकर में मिथाइलेटेड स्पिरिट डालने के लिए <br>उक्त  बीकर की ओर बीकर खींचें।"
+
+#: simcontrols.js:76
+msgid "Drag the conical flask to the Buchner funnel to filter the crystals of pnitroacetanilide."
+msgstr "पी-नाइट्रोएसीटैनिलाइड के <br>क्रिस्टिल छानने के लिए बुचनर कीप की <br>ओर शंक्वाकार फ्लास्क खींचें"
+
+#: simcontrols.js:77
+msgid "Colourless crystals of pnitroacetanilide are obtained."
+msgstr "पी-नाइट्रोएसीटैनिलाइड के <br>रंगहीन क्रिस्टल प्राप्त होते हैं"
+
+#: simcontrols.js:78
+msgid "Drag the measuring jar to the conical flask to add conc.HCl into aniline."
+msgstr "एनिलिन में सांद्र HCl मिलाने के लिए<br> शंक्वाकार फ्लास्क की ओर मापक जार खींचें ।"
+
+#: simcontrols.js:78
+msgid "Drag the measuring jar to the conical flask to pour water into it."
+msgstr "पानी डालने के लिए शंक्वाकार<br> फ्लास्क की ओर मापक जार खींचें ।"
+
+#: simcontrols.js:78
+msgid "Drag the conical flask to the ice bath to cool the contents."
+msgstr "सामग्री ठंडी करने के लिए आइस बाथ की<br> ओर शंक्वाकार फ्लास्क खींचें।"
+
+#: simcontrols.js:78
+msgid "Drag the beaker to the beaker containing sodium nitrite to add water into it."
+msgstr "सोडियम नाइट्राइट युक्त बीकर में पानी मिलाने<br> के लिए उक्त बीकर की ओर बीकर खींचें।"
+
+#: simcontrols.js:78
+msgid "Drag the beaker to the ice bath to cool the contents."
+msgstr "सामग्री ठंडी करने के लिए<br> आइस बाथ की ओर बीकर खींचें।"
+
+#: simcontrols.js:78
+msgid "Drag the beaker to the conical flask to add sodium nitrite solution to it."
+msgstr "सोडियम नाइट्राइट का विलयन <br>मिलाने के लिए शंक्वाकार फ्लास्क की<br> ओर बीकर खींचें ।"
+
+#: simcontrols.js:78
+msgid "Drag the beaker to the beaker containing 2- naphthol to add 10% NaOH into it."
+msgstr "2- नैफ्थोल युक्त बीकर में 10% NaOH मिलाने <br>के लिए उक्त बीकर की ओर बीकर खींचें।."
+
+#: simcontrols.js:78
+msgid ""
+"Drag the conical flask to the beaker to add the mixture of aniline and sodium nitrite solution into the beaker "
+"containing 2 naphthol solution."
+msgstr ""
+"2-नैफ्थोल के विलयन युक्त बीकर<br> में एनिलिन और सोडियम नाइट्राइट के विलयन का<br> मिश्रण मिलाने के लिए उक्त बीकर की ओर<br> "
+"शंक्वाकार फ्लास्क खींचें ।"
+
+#: simcontrols.js:78
+msgid "Click on the glass rod to stir the contents of the beaker."
+msgstr "बीकर की सामग्री चलाने के<br> लिए कांच की छड़ पर क्लिक करें ।"
+
+#: simcontrols.js:78
+msgid "Drag the beaker to the Buchner funnel to filter the precipitate of 2naphthol aniline dye."
+msgstr "2-नैफ्थोल एनिलिन <br>रंजक का तलछट छानने के लिए बुचनर कीप <br>की ओर बीकर खींचें ।"
+
+#: simcontrols.js:78
+msgid ""
+"Drag the beaker to the beaker containing precipitate of 2-naphthol aniline dye to add glacial acetic acid to it."
+msgstr " 2-नैफ्थोल एनिलिन रंजक के<br> तलछट युक्त बीकर में ग्लेसियल एसिटिक<br> अम्ल मिलाने के लिए उक्त बीकर की<br> ओर बीकर खींचें ।"
+
+#: simcontrols.js:78
+msgid "Drag the conical flask to the Buchner funnel to filter the crystals of 2naphthol aniline dye."
+msgstr "2-नैफ्थोल एनिलिन रंजक<br> के क्रिस्टंल छानने के लिए बुचनर कीप<br> की ओर बीकर खींचें।"
+
+#: simcontrols.js:79
+msgid "Deep red crystals of 2-naphthol aniline dye are obtained."
+msgstr "2-नैफ्थोल एनिलिन<br> रंजक के गहरे लाल रंग के क्रिस्टल<br> प्राप्त होते हैं।"
+
+#: simcontrols.js:80
+msgid "8ml of conc. H2SO4 is added into the conical flask"
+msgstr "शंक्वाकार फ्लास्क<br> में 8 मि.ली. सान्द्र H2SO4 मिलाया<br> जाता है"
+
+#: simcontrols.js:81
+msgid "Acetanilide + Glacial acetic acid + Conc. H2SO4"
+msgstr "एसीटैनिलाइड + ग्लेससियल एसिटिक अम्ल् + सान्द्र H2SO4"
+
+#: simcontrols.js:82
+msgid "Fuming HNO3 (2 ml) + Conc. H2SO4 (2 ml)"
+msgstr "धूममय HNO3 (2 मिलीलीटर) + सान्द्र H2SO4 (2 मिलीलीटर)"
+
+#: simcontrols.js:85
+msgid "Select organic compound to be prepared:"
+msgstr "तैयार किए जाने वाले <br>कार्बनिक यौगिक का चयन करें:"
+
+#: simcontrols.js:90
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#~ msgid "Purification of Impure Samples by Crystallization"
+#~ msgstr "Purification of Impure Samples by Crystallization"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Select the sample"
+#~ msgstr "Select the sample"
+
+#~ msgid "Crude copper sulphate"
+#~ msgstr "Crude copper sulphate"
+
+#~ msgid "Crude potash alum"
+#~ msgstr "Crude potash alum"
+
+#~ msgid "Crude benzoic acid"
+#~ msgstr "Crude benzoic acid"
+
+#~ msgid "Ethyl alcohol with cold water"
+#~ msgstr "Ethyl alcohol with cold water"
+
+#~ msgid "Mixture of alcohol  & water "
+#~ msgstr "Mixture of alcohol  & water "
+
+#~ msgid "Copper sulphate"
+#~ msgstr "Copper sulphate"
+
+#~ msgid "Potash alum"
+#~ msgstr "Potash alum"
+
+#~ msgid "Benzoic acid"
+#~ msgstr "Benzoic acid"
+
+#~ msgid "The insoluble impurities are left on the filter paper."
+#~ msgstr "The insoluble impurities are left on the filter paper."
+
+#, fuzzy
+#~ msgid ""
+#~ "The appearance of a crust or tiny crystals on the side of the <br> china dish shows that the crystallisation "
+#~ "point has reached."
+#~ msgstr ""
+#~ "The appearance of a crust or tiny crystals on the side of the <br> china dish shows that the crystallisation "
+#~ "point has reached."
+
+#~ msgid "The watch glass contains dried crystals."
+#~ msgstr "The watch glass contains dried crystals."
+
+#~ msgid "The crystals of copper sulphate are <br> triclinic, transparent and blue."
+#~ msgstr "The crystals of copper sulphate are <br> triclinic, transparent and blue."
+
+#~ msgid "The crystals of potash alum are <br> colourless, transparent and octahedral."
+#~ msgstr "The crystals of potash alum are <br> colourless, transparent and octahedral."
+
+#~ msgid "The crystals of benzoic acid are <br> opaque and white."
+#~ msgstr "The crystals of benzoic acid are <br> opaque and white."
+
+#~ msgid "Crystals of benzoic acid is left <br> behind on the filter paper."
+#~ msgstr "Crystals of benzoic acid is left <br> behind on the filter paper."
+
+#~ msgid "Click on the sample icon <br> to choose the sample."
+#~ msgstr "Click on the sample icon <br> to choose the sample."
+
+#~ msgid "Drag the spatula and add <br> sample into the beaker."
+#~ msgstr "Drag the spatula and add <br> sample into the beaker."
+
+#, fuzzy
+#~ msgid "Drag the measuring cylinder and <br> add H<sub>2</sub>SO<sub>4</sub> into the beaker."
+#~ msgstr "Drag the measuring cylinder and <br> add H<sub>2</sub>SO<sub>4</sub> into the beaker."
+
+#~ msgid "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass rod."
+#~ msgstr "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass rod."
+
+#, fuzzy
+#~ msgid "Drag the china dish to <br> transfer the hot saturated solution <br> into the crystallising dish."
+#~ msgstr "Drag the china dish to <br> transfer the hot saturated solution <br> into the crystallising dish."
+
+#, fuzzy
+#~ msgid "Drag the crystallisation dish <br> and place it back."
+#~ msgstr "Drag the crystallisation dish <br> and place it back."
+
+#, fuzzy
+#~ msgid "Click on the test tube to see<br>  the zoomed view of the sample."
+#~ msgstr "Click on the test tube to see<br>  the zoomed view of the sample."
+
+#~ msgid "Drag the beaker and <br> place it back."
+#~ msgstr "Drag the beaker and <br> place it back."
+
+#~ msgid "Drag the bottle and add <br> solution into the crystallisation dish."
+#~ msgstr "Drag the bottle and add <br> solution into the crystallisation dish."
+
+#~ msgid "Drag the crystallisation dish and decant <br> the upper solution to the trough."
+#~ msgstr "Drag the crystallisation dish and decant <br> the upper solution to the trough."
+
+#~ msgid "Drag the beaker and pour<br> the solution into the beaker <br> through the funnel and glass rod."
+#~ msgstr "Drag the beaker and pour<br> the solution into the beaker <br> through the funnel and glass rod."
+
+#~ msgid "Alum"
+#~ msgstr "Potash alum"
+
+#~ msgid ""
+#~ "Click to drag the filter paper <br> containing crystals of the sample <br> and place it into the testtube."
+#~ msgstr "Drag the filter paper and put <br> the crystals into the test tube."

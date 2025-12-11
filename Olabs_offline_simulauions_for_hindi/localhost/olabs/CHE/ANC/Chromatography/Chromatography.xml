@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+
+ 
+
+<SCENE ID="Titleintractive">
+	<TEXT ID="Titleintractive_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2buttons">
+	<TEXT ID="2buttons_one">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+ 
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>Separate the coloured components present in the mixture of red and blue inks by paper chromatography.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>We require, a mixture of red and blue inks, distilled water, isopropyl alcohol, Whatman filter paper strip (20 x 2 cm), pencil, scale, capillary tube, chromatographic chamber etc.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper">
+	<TEXT ID="takefilterpaper_one">
+	<TEXTVALUE>Take a Whatman filter paper strip (20x2 cm).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing">
+	<TEXT ID="drawing_one">
+	<TEXTVALUE>Draw a line with a pencil above 4 cm from one end.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing_two">
+	<TEXTVALUE>Draw another line lengthwise from the centre of the paper and name the point at which the two lines intersect as P.    </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary">
+	<TEXT ID="cappillary_one">
+	<TEXTVALUE>Take a capillary tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="color">
+	<TEXT ID="color_one">
+	<TEXTVALUE>Dip it into the beaker containing the mixture of Red and Blue inks and take the mixture using the capillary tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop2">
+	<TEXT ID="waterdrop2_one">
+	<TEXTVALUE>Put a drop of the mixture of Red and Blue inks at the point P.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop2_two">
+	<TEXTVALUE>Allow it to dry in open air. </TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy">
+	<TEXT ID="colorcopy_one">
+	<TEXTVALUE>Again take the mixture of red and blue inks using the capillary tube.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdrop2copy">
+	<TEXT ID="waterdrop2copy_one">
+	<TEXTVALUE>Put another drop on the same spot and dry it again so that the spot is rich in mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater">
+	<TEXT ID="addingwater_one">
+	<TEXTVALUE>Measure 5 ml of distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar">
+	<TEXT ID="Togasjar_one">
+	<TEXTVALUE>Pour it into the chromatographic chamber.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol">
+	<TEXT ID="takingalcohol_one">
+	<TEXTVALUE>Measure 5 ml of alcohol in another measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar">
+	<TEXT ID="alcoholtogasjar_one">
+	<TEXTVALUE>Pour it into the chromatographic chamber containing distilled water.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="alcoholtogasjar_two">
+	<TEXTVALUE>Mix the contents of the chromatographic chamber using a glass rod. This mixture is used as the solvent.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+	<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution">
+	<TEXT ID="papertosolution_one">
+	<TEXTVALUE>Suspend the filter paper vertically in the chromatographic chamber containing solvent in such a way that the pencil line remains about 2 cm above the solvent level.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution_two">
+	<TEXTVALUE>Close the chamber with its lid and keep it undisturbed for some time.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution_three">
+	<TEXTVALUE>Notice the rise in solvent along with the red and blue inks. When the solvent has risen to about 15 cm, you will notice two different spots of red and blue inks on the filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry">
+	<TEXT ID="paperdry_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil">
+	<TEXT ID="takingpencil_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="marking">
+	<TEXT ID="marking_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="marking_two">
+	<TEXTVALUE>Dry the filter paper in open air.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="marking_three">
+	<TEXTVALUE>Put pencil marks in the centre of blue and red spots. Measure the distance of the solvent front from the original line and the distance of the two spots from the original line. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="value">
+	<TEXT ID="value_one">
+	<TEXTVALUE>Calculate the Rf values of blue and red inks by using the formula. 
+	</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Result">
+	<TEXT ID="Result_one">
+	<TEXTVALUE>Calculate the Rf values of blue and red inks by using the formula.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+
+
+
+ 
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>We require, extract of spinach leaves, distilled water, isopropyl alcohol, Whatman filter paper strip (20 x 2 cm), pencil, scale, capillary tube, chromatographic chamber etc.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper2">
+	<TEXT ID="ttakefilterpaper2_one">
+	<TEXTVALUE>Take a Whatman filter paper strip (20x2 cm).</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ttakefilterpaper2_two">
+	<TEXTVALUE>Using a pencil draw a line that is above 4 cm from one end.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing2">
+	<TEXT ID="drawing2_one">
+	<TEXTVALUE>Draw another line lengthwise from the centre of the paper and name the point at which the two lines intersect as P.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing2_two">
+	<TEXTVALUE>Draw another line lengthwise from the centre of the paper and name the point at which the two lines intersect as P.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary2">
+	<TEXT ID="cappillary2_one">
+	<TEXTVALUE>Take a capillary tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="color2">
+	<TEXT ID="color2_one">
+	<TEXTVALUE>Dip it into the beaker containing the extract of spinach leaves and take the mixture using the capillary tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop21">
+	<TEXT ID="waterdrop21_one">
+	<TEXTVALUE>Put a drop of the spinach leaf extract at the point P and allow it to dry in open air.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop21_two">
+	<TEXTVALUE>Allow it dry in open air.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy2">
+	<TEXT ID="colorcopy2_one">
+	<TEXTVALUE>Again take the extract of spinach leaves using the capillary tube.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdropcopy21">
+	<TEXT ID="waterdropcopy21_one">
+	<TEXTVALUE>Put another drop on the same spot and dry it again so that the spot is rich in mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater2">
+	<TEXT ID="addingwater2_one">
+	<TEXTVALUE>Measure 5 ml of distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar2">
+	<TEXT ID="Togasjar2_one">
+	<TEXTVALUE>Pour it into the chromatographic chamber.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol2">
+	<TEXT ID="takingalcohol2_one">
+	<TEXTVALUE>Measure 5 ml of alcohol in another measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar2">
+	<TEXT ID="alcoholtogasjar2_one">
+	<TEXTVALUE>Pour it into the chromatographic chamber containing distilled water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcoholtogasjar2_two">
+	<TEXTVALUE>Mix the contents of the chromatographic chamber using a glass rod. This mixture is used as the solvent.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube2">
+	<TEXT ID="drops2tube2_one">
+	<TEXTVALUE>Transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution2">
+	<TEXT ID="papertosolution2_one">
+	<TEXTVALUE>Suspend the filter paper vertically in the chromatographic chamber containing solvent in such a way that the pencil line remains about 2 cm above the solvent level.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution2_two">
+	<TEXTVALUE>Close the chamber with its lid and keep it undisturbed for some time.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_three">
+	<TEXTVALUE>Notice the rise in solvent along with the leaf extract.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_four">
+	<TEXTVALUE>When the solvent has risen to about 15 cm, you will notice different spots of the components of spinach leaf extract on the filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry2">
+	<TEXT ID="paperdry2_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil2">
+	<TEXT ID="takingpencil2_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_one">
+	<TEXTVALUE>Take the filter paper out of the chamber and mark the distance that the solvent has risen on the paper with a pencil. This is called the solvent front.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_two">
+	<TEXTVALUE>Dry the filter paper in open air.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene392_three">
+	<TEXTVALUE>Put pencil marks in the centre of each spots. Measure the distance of the solvent front from the original line and the distance of the spots from the original line.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="rfvalue">
+	<TEXT ID="rfvalue_one">
+	<TEXTVALUE>Calculate the Rf values of blue and red inks by using the formula. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result2">
+	<TEXT ID="Result2_one">
+	<TEXTVALUE>Calculate the Rf values of blue and red inks by using the formula.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

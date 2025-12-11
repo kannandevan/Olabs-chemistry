@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>प्रयोग करने के लिए "शुरू करें" बटन पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>हमें चाहिए, 0.1 मोलर फेरिक क्लोराइड (0.1 M FeCl₃)का  विलयन, 0.1 मोलर पोटेशियम थायोसाइनेट (0.1 M KCNS) का विलयन, 0.1 मोलर पोटेशियम क्लोराइड (0.1 M KCl) का विलयन, डिस्टिल वाटर, ए, बी, सी, और डी, लेबल लगी हुई चार टेस्ट ट्यूब, टेस्ट ट्यूब रैक</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="intro_two">
+		<TEXTVALUE>स्वच्छ  250 मिलीलीटर का बीकर, और मापने वाला सिलेंडर।</TEXTVALUE>	
+	</TEXT>
+	<TEXT ID="intro_three">
+		<TEXTVALUE>मापने वाला सिलेंडर में 10 मिलीलीटर 0.1 M FeCl₃ का विलयन लें।</TEXTVALUE>	
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutionsaddedclsup">
+	<TEXT ID="solutionsaddedclsup_one">
+		<TEXTVALUE>इसे 250 मिलीलीटर के बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsadded2">
+	<TEXT ID="solutionsadded2_one">
+		<TEXTVALUE>एक दूसरे मापने वाले सिलेंडर में 10 मिलीलीटर 0.1 M KCNS का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsaddedclsup2">
+	<TEXT ID="solutionsaddedclsup2_one">
+		<TEXTVALUE>इसे FeCl₃ विलयन वाले बीकर में डालें। फेरिक थायोसाइनेट कांप्लेाक्सि [Fe(SCN)(H₂O) ₅] ²⁺ -  के निर्माण के कारण गहरा लाल रंग प्राप्त होता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50mlwateradded">
+	<TEXT ID="50mlwateradded_one">
+		<TEXTVALUE>मापने वाले सिलेंडर में 50 मिलीलीटर डिस्टिल वाटर लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="wateraddedclsup">
+	<TEXT ID="wateraddedclsup_one">
+		<TEXTVALUE>विलयन पतला बनाने के लिए, फेरिक-थायोसाइनेट कांप्लेक्स वाले बीकर में इसे डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixtureadded1">
+	<TEXT ID="mixtureadded1_one">
+		<TEXTVALUE>मापने वाले सिलेंडर में 10 मिलीलीटर ऊपरोक्त  विलयन लें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="mixtureadded1_two">
+		<TEXTVALUE>'ए' के रूप में चिह्नित टेस्ट ट्यूब लें।</TEXTVALUE>
+	</TEXT>	 
+</SCENE>	
+
+
+<SCENE ID="mixtureadded1clsup">
+	<TEXT ID="mixtureadded1clsup_one">
+		<TEXTVALUE>टेस्ट ट्यूब में विलयन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+
+<SCENE ID="mixtureadded2">
+	<TEXT ID="mixtureadded2_one">
+		<TEXTVALUE>मापने वाले सिलेंडर में 10 मिलीलीटर विलयन और लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="mixtureadded2clsup">
+	<TEXT ID="mixtureadded2clsup_one">
+		<TEXTVALUE>'बी' के रूप में चिह्नित टेस्ट ट्यूब लें और इसमें विलयन डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="testtubeclsp">
+	<TEXT ID="testtubeclsp_one">
+		<TEXTVALUE>अन्य दो टेस्ट ट्यूब के लिए भी यही प्रक्रिया दोहराएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateradded">
+	<TEXT ID="5mlwateradded_one">
+		<TEXTVALUE>मापने वाले सिलेंडर में 5 मिलीलीटर डिस्टिल वाटर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateraddedclsup">
+	<TEXT ID="5mlwateraddedclsup_one">
+		<TEXTVALUE>इसे टेस्ट ट्यूब 'ए' में मिलाएं और अच्छी तरह से टेस्ट ट्यूब हिलाएं। इस परीक्षण में विलयन का रंग संदर्भ रंग के रूप में लिया जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1">
+	<TEXT ID="5mladded1_one">
+		<TEXTVALUE>मापने वाले सिलेंडर में 5 मिलीलीटर 0.1 M FeCl₃ का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1clsup">
+	<TEXT ID="5mladded1clsup_one">
+		<TEXTVALUE>इसे टेस्ट ट्यूब "बी" में मिलाएं और अच्छी तरह से टेस्ट ट्यूब हिलाएं। विलयन का रंग गहरा हो जाता है क्यों कि Fe³⁺ आयनों की सांद्रता में वृद्धि का परिणाम और अधिक फेरिक थायोसाइनेट कांप्लेsक्सि में होता और संतुलन फारवर्ड दिशा में स्थानांतरित हो जाता है ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded2">
+	<TEXT ID="5mladded2_one">
+		<TEXTVALUE>इसी तरह, एक और मापने वाला सिलेंडर में 5 मिलीलीटर 0.1 M KCl का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladded2clsup">
+	<TEXT ID="5mladded2clsup_one">
+		<TEXTVALUE>इसे टेस्ट ट्यूब, 'डी' में मिलाएं और अच्छी तरह से टेस्ट ट्यूब हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded3">
+	<TEXT ID="5mladded3_one">
+		<TEXTVALUE>इसी तरह, एक और मापने वाला सिलेंडर में 5 मिलीलीटर 0.1 M KCl का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="5mladdede3clsup">
+	<TEXT ID="5mladdede3clsup_one">
+		<TEXTVALUE>इसे टेस्ट ट्यूब "बी" में मिलाएं और अच्छी तरह से टेस्ट ट्यूब हिलाएं। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5mladdede3clsup_two">
+		<TEXTVALUE>विलयन का रंग हल्का हो जाता है क्योंकि K⁺ आयनों की सांद्रता में वृद्धि से SCN⁻ आयनों की सांद्रता कम हो जाती है और इस प्रकार कांप्लेक्स की सांद्रता कम हो जाती है । इस प्रकार संतुलन बैकवार्ड दिशा में स्था‍नांतरित हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abcd">
+	<TEXT ID="abcd_one">
+		<TEXTVALUE>अब संदर्भ रंग के रूप में लिए गए टेस्ट ट्यूब ए के लाल रंग के साथ टेस्ट ट्यूब बी, सी, डी के रंग की तीव्रता की तुलना करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="abcd_two">
+		<TEXTVALUE>अब संदर्भ रंग के रूप में लिए गए टेस्ट ट्यूब ए के लाल रंग के साथ टेस्ट ट्यूब बी, सी, डी के रंग की तीव्रता की तुलना करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abacad">
+	<TEXT ID="abacad_one">
+		<TEXTVALUE>अब संदर्भ रंग के रूप में लिए गए टेस्ट ट्यूब ए के लाल रंग के साथ टेस्ट ट्यूब बी, सी, डी के रंग की तीव्रता की तुलना करें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="chart">	
+<TEXT ID="chart_one">
+		<TEXTVALUE>सारणीबद्ध कॉलम में टिप्पणियां रिकॉर्ड करें। Fe³⁺ आयनों और SCN⁻ आयनों के बीच संतुलन अभिकारकों की सांद्रता से सीधे समानुपातिक है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+</DATA>

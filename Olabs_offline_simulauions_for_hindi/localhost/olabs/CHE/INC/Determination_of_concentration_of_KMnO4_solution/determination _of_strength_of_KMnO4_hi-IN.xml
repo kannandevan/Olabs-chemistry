@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+
+<SCENE ID="title">
+
+	<TEXT ID="string_01">
+	<TEXTVALUE> KMnO4 की सांद्रता का निर्धारण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strng_111">
+	<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="buttons">
+	<TEXT ID="string_2">
+	<TEXTVALUE> KMnO4 की सांद्रता का निर्धारण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strnig_3">
+	<TEXTVALUE>ऑक्सालिक एसिड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>लौह अमोनियम सल्फेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="0title">
+	<TEXT ID="title_one">
+	<TEXTVALUE>मोर लवण के मानक विलयन (फेरस अमोनियम सल्फेट) की तैयारी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_5">
+	<TEXTVALUE> KMnO4 की सांद्रता का निर्धारण</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>हमें 250 मिलीलीटर की शंक्वाकार कुप्पी, 250 मिलीलीटर की मानक कुप्पी, मोर लवण के क्रिस्टल, 250 मिलीलीटर का बीकर, आसुत जल, कीप, वजन तौलने वाली बोतल, इलेक्ट्रॉनिक तुला, तनु H2SO4,</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="1intro_two">
+	<TEXTVALUE>20 मिलीलीटर वाली पतली नली, परखनली, मापने वाला जार, स्पैचुला, कांच की छड़, सफेद टाइल, तिपाया स्टैंड, तार की जाली, बुन्सेरन बर्नर आदि चाहिए |</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>मुहर के नमक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+	<TEXTVALUE>वजन तौलने वाली एक बोतल लें और उसे इलेक्ट्रॉनिक तुला पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+	<TEXTVALUE>वजन तौलने वाली एक बोतल लें और उसे इलेक्ट्रॉनिक तुला पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+	<TEXTVALUE>तुला खाली करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Mohrssalt">
+	<TEXT ID="mohrssalt_txt">
+	<TEXTVALUE>मोर के नमक</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5Mohrssalt_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर मोर लवण लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+	<TEXTVALUE>इसे वजन तौलने वाली बोतल में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+	<TEXTVALUE>मोर लवण के लगभग 4.9 ग्राम क्रिस्टल तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+	<TEXTVALUE>तुला से वजन तौलने वाली बोतल हटाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+	<TEXTVALUE>मोर लवण की तौली गई मात्रा सावधानी पूर्वक 250 मिलीलीटर वाले बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11h2so4">
+	<TEXT ID="11h2so4_one">
+	<TEXTVALUE>मापने वाले जार में 5 मिलीलीटर सान्द्र H[sub]2[/sub]SO[sub]4[/sub]लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="121JAR">
+	<TEXT ID="121JAR_one">
+	<TEXTVALUE>मापने वाले जार में 5 मिलीलीटर सान्द्र H[sub]2[/sub]SO[sub]4[/sub]लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13gzoo">
+	<TEXT ID="13gzoo_one">
+	<TEXTVALUE>इसे मोर लवण के क्रिस्टल युक्त बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14pour">
+	<TEXT ID="14pour_one">
+	<TEXTVALUE>वजन तौलने वाली बोतल से चिपके हुए कण बीकर में स्था नांतरित करने के लिए आसुत जल से वजन तौलने वाली बोतल धोएं। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15sta">
+	<TEXT ID="15sta_one">
+	<TEXTVALUE>धावन बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15sta_two">
+	<TEXTVALUE>साफ कांच की छड़ से धीरे-धीरे चलाते हुए बीकर में मोर लवण के क्रिस्टल घोलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16tk">
+	<TEXT ID="16tk_one">
+	<TEXTVALUE>इसके बाद कीप का प्रयोग कर बीकर से संपूर्ण विलयन 250 मिलीलीटर की मानक कुप्पी में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16ro">
+	<TEXT ID="16ro_one">
+	<TEXTVALUE>बीकर से चिपके हुए कण मानक कुप्पी में स्था)नांतरित करने के लिए आसुत जल से बीकर धोएं। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17fl">
+	<TEXT ID="17fl_one">
+	<TEXTVALUE>मानक कुप्पी में धावन डालें।
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18rod">
+	<TEXT ID="18rod_one">
+	<TEXTVALUE>अंत में अच्छी तरह से आसुत जल से कांच की छड़, कीप और कीप की नोंक धोएं और मानक कुप्पी में आसुत जल डालें ताकि पानी का स्तर इस पर उकेरे हुए निशान से बिल्कु ल नीचे रहे।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="19wash">
+	<TEXT ID="19wash_one">
+	<TEXTVALUE>अंत में अच्छी तरह से आसुत जल से कांच की छड़, कीप और कीप की नोंक धोएं और मानक कुप्पी में आसुत जल डालें ताकि पानी का स्तर इस पर उकेरे हुए निशान से बिल्कु ल नीचे रहे।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20p1">
+	<TEXT ID="20p1_one">
+	<TEXTVALUE>इसके बाद आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="21fi">
+	<TEXT ID="21fi_one">
+	<TEXTVALUE>इसके बाद आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="22p1">
+	<TEXT ID="22p1_one">
+	<TEXTVALUE>इसके बाद आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="23h">
+	<TEXT ID="23h_one">
+	<TEXTVALUE>पतली नली से आसुत जल की कुछ अंतिम बूँदें तब तक मिलाएं जब तक कि नवचंद्रक (मनिस्कलस) का निचला स्तर मानक कुप्पी पर बने निशान को छू भर न ले।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24p2">
+	<TEXT ID="24p2_one">
+	<TEXTVALUE>पतली नली से आसुत जल की कुछ अंतिम बूँदें तब तक मिलाएं जब तक कि नवचंद्रक (मनिस्कलस) का निचला स्तर मानक कुप्पी पर बने निशान को छू भर न ले।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24pzoom">
+	<TEXT ID="24pzoom_one">
+	<TEXTVALUE>पतली नली से आसुत जल की कुछ अंतिम बूँदें तब तक मिलाएं जब तक कि नवचंद्रक (मनिस्कलस) का निचला स्तर मानक कुप्पी पर बने निशान को छू भर न ले।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25cork">
+	<TEXT ID="25cork_one">
+	<TEXTVALUE>मानक कुप्पी पर डाट लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="26mix">
+	<TEXT ID="26mix_one">
+	<TEXTVALUE>मोर लवण का विलयन पूरी तरह से एकसमान बनाने के लिए धीरे-धीरे हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27rest">
+	<TEXT ID="27rest_one">
+	<TEXTVALUE>तैयार मोर लवण के विलयन की मोलरिटी 0.05 है।|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="titration">
+	<TEXT ID="titration_one">
+	<TEXTVALUE>मोर लवण का प्रयोग कर KMnO[sub]4[/sub] की सांद्रता का निर्धारण।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE> KMnO4 की सांद्रता का निर्धारण</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28brret">
+	<TEXT ID="28brret_one">
+	<TEXTVALUE>मापन नलिका स्टैंड पर एक साफ मापन नलिका लगाएं और मापन नलिका के मुँह पर एक कीप रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="29km">
+	<TEXT ID="29km_one">
+	<TEXTVALUE>पोटेशियम परमैंगनेट KMnO[sub]4[/sub] के विलयन वाली बोतल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30but">
+	<TEXT ID="30but_one">
+	<TEXTVALUE>कीप के माध्यम से मापन नलिका में KMnO[sub]4[/sub] के विलयन की थोड़ी सी मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31tub">
+	<TEXT ID="31tub_one">
+	<TEXTVALUE>कीप हटा दें और स्टैंड से मापन नलिका लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32r1">
+	<TEXT ID="32r1_one">
+	<TEXTVALUE>कीप हटा दें और स्टैंड से मापन नलिका लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33rot">
+	<TEXT ID="33rot_one">
+	<TEXTVALUE>मापन नलिका के अंदर नमी को दूर करने के लिए KMnO[sub]4[/sub के विलयन वाली मापन नलिका को खंगालें। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="34out">
+	<TEXT ID="34out_one">
+	<TEXTVALUE>सिंक के पास मापन नलिका ले जाएं और मापन नलिका से धावन निकालने के लिए डाट खोलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="35back">
+	<TEXT ID="35back_one">
+	<TEXTVALUE>इसके बाद स्टैंड पर मापन नलिका लगाएं और मापन नलिका के मुंह पर कीप रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36km2">
+	<TEXT ID="36km2_one">
+	<TEXTVALUE>KMnO [sub]4[/ sub] वाली बोतल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37bt">
+	<TEXT ID="37bt_one">
+	<TEXTVALUE>कीप का प्रयोग कर मापन नलिका शून्य के निशान से बिल्कु[ल ऊपर KMnO [sub]4[/ sub] के विलयन से भरें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38fi">
+	<TEXT ID="38fi_one">
+	<TEXTVALUE>मापन नलिका के नीचे बीकर रखें और धीरे धीरे डाट खोलें ताकि पोटेशियम परमैंगनेट बीकर में बहकर चला जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39lo">
+	<TEXT ID="39lo_one">
+	<TEXTVALUE>मापन नलिका की प्रारंभिक रीडिंग शून्य के रूप में सेट करें। (KMnO[sub]4[/ sub] के विलयन से मापन नलिका की रीडिंग लेते समय ऊपरी नवचंद्रक (मेनिस्क्स) पढ़ें)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40bak">
+	<TEXT ID="40bak_one">
+	<TEXTVALUE>मापन नलिका की प्रारंभिक रीडिंग शून्य के रूप में सेट करें। (KMnO[sub]4[/ sub] के विलयन से मापन नलिका की रीडिंग लेते समय ऊपरी नवचंद्रक (मेनिस्क्स) पढ़ें)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="41fla">
+	<TEXT ID="41fla_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42face">
+	<TEXT ID="42face_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43f2">
+	<TEXT ID="43f2_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="44rot">
+	<TEXT ID="44rot_one">
+	<TEXTVALUE> खंगालें। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45fo">
+	<TEXT ID="45fo_one">
+	<TEXTVALUE>सिंक के पास मापन नलिका ले जाएं और विलयन बहा दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46nj">
+	<TEXT ID="46nj_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बल्किुल ऊपर, मानक कुप्पी से मोर लवण का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47f4">
+	<TEXT ID="47f4_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बल्किुल ऊपर, मानक कुप्पी से मोर लवण का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="48vali">
+	<TEXT ID="48vali_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बल्किुल ऊपर, मानक कुप्पी से मोर लवण का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="492k">
+	<TEXT ID="492k_one">
+	<TEXTVALUE>धीरे धीरे उंगली छोड़ते हुए मात्रा 20 मिलीलीटर तक लाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="49lk">
+	<TEXT ID="49lk_one">
+	<TEXTVALUE>शंक्वाकार कुप्पी में 20 मिलीलीटर मोर लवण का विलयन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="49zoom">
+	<TEXT ID="49zoom_one">
+	<TEXTVALUE>पतली नली से शेष विलयन स्थालनांतरित करने के लिए शंक्वाकार कुप्पी के तल पर पतली नली की नोक स्पर्श करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="50dil">
+	<TEXT ID="50dil_one">
+	<TEXTVALUE>H[sub]2[/sub]SO[sub]4[/sub])से भरी(लगभग 20 मिलीलीटर की) एक परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51tub">
+	<TEXT ID="51tub_one">
+	<TEXTVALUE>H[sub]2[/sub]SO[sub]4[/sub])से भरी(लगभग 20 मिलीलीटर की) एक परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="52fl">
+	<TEXT ID="52fl_one">
+	<TEXTVALUE>शंक्वाकार कुप्पी में मोर लवण के विलयन में इसे मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53t1">
+	<TEXT ID="53t1_one">
+	<TEXTVALUE>शंक्वाकार कुप्पी लें और मापन नलिका के नीचे इसे सफेद टाइल पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="54Scene71">
+	<TEXT ID="54Scene71_one">
+	<TEXTVALUE>इसके बाद KMnO[sub]4[/ sub] के विलयन के विरूद्ध इसका तब तक अनुमापन करें जब तक कि KMnO[sub]4[/ sub] के विलयन की आखिरी बूंद मिलाने पर शंक्वाकार कुप्पी में विलयन में हल्का गुलाबी स्थायी रंग नहीं आ जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="55Scene72">
+	<TEXT ID="55Scene72_one">
+	<TEXTVALUE>मापन नलिका की अंतिम रीडिंग दर्ज करें और रसायनिक विश्लेचषण तब तक दोहराएँ जब तक कि सहमत मान प्राप्त नहीं हो जाते हैं ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="112chart">
+	<TEXT ID="112chart_one">
+	<TEXTVALUE>सारणीबद्ध स्तंभ में अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>टिप्पणियों</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>प्रारंभिक ब्युरेट  पढ़ना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>अंतिम ब्युरेट  पढ़ना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE> KMnO4 की मात्रा 
+प्रयुक्त (मि.ली.)
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="113Calculations">
+	<TEXT ID="113Calculations_one">
+	<TEXTVALUE> मोर लवण के विलयन की मात्रा, मोर लवण के विलयन की मोलरटी और पोटेशियम परमैंगनेट विलयन की मात्रा दर्ज करें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_two">
+	<TEXTVALUE>आक्जेणलिक अम्लक और पोटेशियम परमैंगनेट के बीच रासायनिक अभिक्रिया के आणविक समीकरण से, यह स्पष्ट है कि 2 मोल पोटेशियम परमैंगनेट 10 मोल मोर लवण से अभिक्रिया करता है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_three">
+	<TEXTVALUE>दिए गए पोटेशियम परमैंगनेट के विलयन की मोलरिटी की गणना मोलरिटी समीकरण का प्रयोग करके की जा सकती है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_four">
+	<TEXTVALUE>पोटेशियम परमैंगनेट के मोलर द्रव्य्मान से पोटेशियम परमैंगनेट की मोलरिटी गुणा करके दिए गए पोटेशियम परमैंगनेट विलयन की क्षमता निर्धारित की जा सकती है।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="string_13">
+	<TEXTVALUE>गणना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>मोर के नमक की मात्रा = 20 മി.ലി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE>मोर के नमक की मोलरिटी = 0.05 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>KMnO4 समाधान की मात्रा = 21.2 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>KMnO4 और मोर के नमक के बीच अभिक्रिया है, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>इसलिए दिए गए KMnO4 की मोलरिटी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>मोलरिटी समीकरण
+
+ (KMnO4 की मात्रा × KMnO4 की मोलरिटी)  
+ (मोर के नमक की मात्रा × मोर के नमक की मोलरिटी) 
+ (KMnO4 के मोलों की संख्याक) 
+  (मोर के नमक के मोलों की संख्या)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_18">
+	<TEXTVALUE> KMnO4 का मोलर द्रव्य्मान = 158 ग्राम/मोल 
+इसलिए, दिए गए KMnO4 की क्षमता = KMnO4 की मोलरिटी × 
+KMnO4 का मोलर द्रव्यमान = 0.0094 × 158 = 1.4852 ग्राम / लीटर
+
+</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="string_b1">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+
+
+
+<SCENE ID="56title">
+	<TEXT ID="56title_one">
+	<TEXTVALUE>आक्जेिलिक अम्लप के मानक विलयन की तैयारी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_19">
+	<TEXTVALUE>आक्जेिलिक अम्लप के मानक विलयन की तैयारी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="57intro">
+	<TEXT ID="57intro_one">
+	<TEXTVALUE>हमें 250 मिलीलीटर की शंक्वाकार कुप्पी, 250 मिलीलीटर की मानक कुप्पी, मोर लवण के क्रिस्टल, 250 मिलीलीटर का बीकर, आसुत जल, कीप, वजन तौलने वाली बोतल, इलेक्ट्रॉनिक तुला, तनु H2SO4,आक्जे्लिक अम्ल,KMnO4 का विलयन,</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="57intro_two">
+	<TEXTVALUE>मापन नलिका, मापन नलिका स्टैंड, 20 मिलीलीटर की पतली नली, परखनली, स्पैचुला, कांच की छड़, सफेद टाइल, तिपाया स्टैंड, तार की जाली, बुन्सेलन बर्नर आदि
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_20">
+	<TEXTVALUE>आक्जेलिक  एसिड क्रिस्टल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_21">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58botil">
+	<TEXT ID="58botil_one">
+	<TEXTVALUE>वजन तौलने वाली एक बोतल लें और उसे इलेक्ट्रॉनिक तुला पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59weing">
+	<TEXT ID="59weing_one">
+	<TEXTVALUE>वजन तौलने वाली एक बोतल लें और उसे इलेक्ट्रॉनिक तुला पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60tare">
+	<TEXT ID="60tare_one">
+	<TEXTVALUE>तुला खाली करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61Mohrssalt">
+	<TEXT ID="61Mohrssalt_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर आक्जेोलिक अम्ल  के कुछ क्रिस्टल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62open">
+	<TEXT ID="62open_one">
+	<TEXTVALUE>इसे वजन तौलने वाली बोतल में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63view">
+	<TEXT ID="63view_one">
+	<TEXTVALUE>मोर लवण के लगभग 4.9 ग्राम आक्जेcलिक अम्ल तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64go">
+	<TEXT ID="64go_one">
+	<TEXTVALUE>तुला से वजन तौलने वाली बोतल हटाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65Scene75">
+	<TEXT ID="65Scene75_one">
+	<TEXTVALUE>सावधानीपूर्वक 250 मिलीलीटर के बीकर में सामग्री डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="65Scene75_two">
+	<TEXTVALUE>वजन तौलने वाली बोतल से चिपके हुए कण बीकर में स्था नांतरित करने के लिए आसुत जल से वजन तौलने वाली बोतल धोएं। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="665sta">
+	<TEXT ID="665sta_one">
+	<TEXTVALUE>धावन बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="665sta_two">
+	<TEXTVALUE>साफ कांच की छड़ का प्रयोग कर सामग्री धीरे-धीरे चलाते हुए बीकर में आक्जेटलिक अम्लह के क्रिस्टल घोलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6716tk">
+	<TEXT ID="6716tk_one">
+	<TEXTVALUE>कीप का प्रयोग कर बीकर से संपूर्ण विलयन 250 मिलीलीटर की मानक कुप्पी में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6816ro">
+	<TEXT ID="6816ro_one">
+	<TEXTVALUE>बीकर से चिपके हुए कण मानक कुप्पी में स्था)नांतरित करने के लिए आसुत जल से बीकर धोएं। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6917fl">
+	<TEXT ID="6917fl_one">
+	<TEXTVALUE>मानक कुप्पी में धावन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7018rod">
+	<TEXT ID="7018rod_one">
+	<TEXTVALUE>अंत में मानक कुप्पी में चिपका विलयन स्था्नांतरित करने के लिए अच्छी तरह से कांच की छड़, कीप और कीप की नोक आसुत जल से धोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7119wash">
+	<TEXT ID="7119wash_one">
+	<TEXTVALUE>अंत में मानक कुप्पी में चिपका विलयन स्था्नांतरित करने के लिए अच्छी तरह से कांच की छड़, कीप और कीप की नोक आसुत जल से धोएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7119wash_two">
+	<TEXTVALUE>मानक कुप्पी में पर्याप्त  आसुत जल डालें, ताकि जल स्तर इस पर उकेरे हुए निशान से बिल्कुरल नीचे भर रहे ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7220p1">
+	<TEXT ID="7220p1_one">
+	<TEXTVALUE>आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7321fi">
+	<TEXT ID="7321fi_one">
+	<TEXTVALUE>आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7422p1">
+	<TEXT ID="7422p1_one">
+	<TEXTVALUE>आसुत जल की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7523h">
+	<TEXT ID="7523h_one">
+	<TEXTVALUE>मापन नलिका के नीचे बीकर रखें और धीरे धीरे डाट खोलें ताकि पोटेशियम परमैंगनेट बीकर में बहकर चला जाए।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7624p2">
+	<TEXT ID="7624p2_one">
+	<TEXTVALUE>मापन नलिका के नीचे बीकर रखें और धीरे धीरे डाट खोलें ताकि पोटेशियम परमैंगनेट बीकर में बहकर चला जाए।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7724pzoom">
+	<TEXT ID="7724pzoom_one">
+	<TEXTVALUE>मापन नलिका के नीचे बीकर रखें और धीरे धीरे डाट खोलें ताकि पोटेशियम परमैंगनेट बीकर में बहकर चला जाए।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7825cork">
+	<TEXT ID="7825cork_one">
+	<TEXTVALUE>मानक कुप्पी पर डाट लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7926mix">
+	<TEXT ID="7926mix_one">
+	<TEXTVALUE>मोर लवण का विलयन पूरी तरह से एकसमान बनाने के लिए धीरे-धीरे हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8027rest">
+	<TEXT ID="8027rest_one">
+	<TEXTVALUE>तैयार आक्जेीलिक अम्ली के विलयन की मोलरिटी 0.1मोल है</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81titration">
+	<TEXT ID="81titration_one">
+	<TEXTVALUE>KMnO4 की सांद्रता का निर्धारण।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_22">
+	<TEXTVALUE>KMnO4 की सांद्रता का निर्धारण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8228brret">
+	<TEXT ID="8228brret_one">
+	<TEXTVALUE>मापन नलिका स्टैंड पर एक साफ मापन नलिका लगाएं और मापन नलिका के मुँह पर एक कीप रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8329km">
+	<TEXT ID="8329km_one">
+	<TEXTVALUE>पोटेशियम परमैंगनेट KMnO4 के विलयन वाली बोतल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8430but">
+	<TEXT ID="8430but_one">
+	<TEXTVALUE>कीप के माध्यम से मापन नलिका में KMnO4 के विलयन की थोड़ी सी मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8531tub">
+	<TEXT ID="8531tub_one">
+	<TEXTVALUE>कीप हटा दें और स्टैंड से मापन नलिका लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8632r1">
+	<TEXT ID="8632r1_one">
+	<TEXTVALUE>मापन नलिका के अंदर नमी को दूर करने के लिए KMnO4 के विलयन वाली मापन नलिका को खंगालें। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8733rot">
+	<TEXT ID="8733rot_one">
+	<TEXTVALUE>मापन नलिका के अंदर नमी को दूर करने के लिए KMnO के विलयन वाली मापन नलिका को खंगालें। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8834out">
+	<TEXT ID="8834out_one">
+	<TEXTVALUE>सिंक के पास मापन नलिका ले जाएं और मापन नलिका से धावन निकालने के लिए डाट खोलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8935back">
+	<TEXT ID="8935back_one">
+	<TEXTVALUE>इसके बाद स्टैंड पर मापन नलिका लगाएं और मापन नलिका के मुंह पर कीप रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9036km2">
+	<TEXT ID="9036km2_one">
+	<TEXTVALUE>KMnO4 वाली बोतल लें। कीप का प्रयोग कर मापन नलिका शून्य के निशान से बिल्कु[ल ऊपर KMnO4 के विलयन से भरें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9137bt">
+	<TEXT ID="9137bt_one">
+	<TEXTVALUE>KMnO4 वाली बोतल लें। कीप का प्रयोग कर मापन नलिका शून्य के निशान से बिल्कु[ल ऊपर KMnO4 के विलयन से भरें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9238fi">
+	<TEXT ID="9238fi_one">
+	<TEXTVALUE>मापन नलिका के नीचे बीकर रखें और धीरे धीरे डाट खोलें ताकि पोटेशियम परमैंगनेट बीकर में बहकर चला जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9339lo">
+	<TEXT ID="9339lo_one">
+	<TEXTVALUE>मापन नलिका की प्रारंभिक रीडिंग शून्य के रूप में सेट करें। (KMnO[sub]4[/ sub] के विलयन से मापन नलिका की रीडिंग लेते समय ऊपरी नवचंद्रक (मेनिस्क स) पढ़ें)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9440bak">
+	<TEXT ID="9440bak_one">
+	<TEXTVALUE>मापन नलिका की प्रारंभिक रीडिंग शून्य के रूप में सेट करें। (KMnO[sub]4[/ sub] के विलयन से मापन नलिका की रीडिंग लेते समय ऊपरी नवचंद्रक (मेनिस्क स) पढ़ें)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9541fla">
+	<TEXT ID="9541fla_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9642face">
+	<TEXT ID="9642face_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9743f2">
+	<TEXT ID="9743f2_one">
+	<TEXTVALUE>20 मिलीलीटर की पतली नली लें और मोर लवण के विलयन की थोड़ी सी मात्रा नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9844rot">
+	<TEXT ID="9844rot_one">
+	<TEXTVALUE>मापन नलिका के अंदर नमी को दूर करने के लिए मोर लवण के विलयन से मापन नलिका को खंगालें। (इस प्रक्रिया को दो या तीन बार दोहराएँ)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9945fo">
+	<TEXT ID="9945fo_one">
+	<TEXTVALUE>सिंक के पास मापन नलिका ले जाएं और विलयन बहा दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10046nj">
+	<TEXT ID="10046nj_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बिल्कु/ल ऊपर मानक कुप्पी से आक्जेंलिक अम्ला का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10147f4">
+	<TEXT ID="10147f4_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बिल्कु/ल ऊपर मानक कुप्पी से आक्जेंलिक अम्ला का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10248vali">
+	<TEXT ID="10248vali_one">
+	<TEXTVALUE>इसके बाद पतली नली पर निशान से बिल्कु/ल ऊपर मानक कुप्पी से आक्जेंलिक अम्ला का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="103492k">
+	<TEXT ID="103492k_one">
+	<TEXTVALUE>तर्जनी से पतली नली का ऊपरी सिरा बंद कर दें और धीरे-धीरे उंगली छोड़ते हुए मात्रा 20 मिलीलीटर तक लाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10449lk">
+	<TEXT ID="10449lk_one">
+	<TEXTVALUE>अब शंक्वाकार कुप्पी में 20 मिलीलीटर आक्जेंलिक अम्लए का विलयन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="1040k">
+	<TEXT ID="1040k_one">
+	<TEXTVALUE>पतली नली से शेष विलयन स्थालनांतरित करने के लिए शंक्वाकार कुप्पी के तल पर पतली नली की नोक स्पर्श करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10550dil">
+	<TEXT ID="10550dil_one">
+	<TEXTVALUE>H[sub]2[/sub]SO[sub]4[/sub])से भरी(लगभग 20 मिलीलीटर की) एक परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10651tub">
+	<TEXT ID="10651tub_one">
+	<TEXTVALUE>H[sub]2[/sub]SO[sub]4[/sub])से भरी(लगभग 20 मिलीलीटर की) एक परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10752fl">
+	<TEXT ID="10752fl_one">
+	<TEXTVALUE>इसे शंक्वाकार कुप्पी में आक्जेbलिक अम्लक के विलयन में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10852flcopy">
+	<TEXT ID="10852flcopy_one">
+	<TEXTVALUE>शंक्वाकार कुप्पी बर्नर के ऊपर तार की जाली पर रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="10852flcopy_two">
+	<TEXTVALUE>60-70 डिग्री सेल्सियस तक कुप्पी की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10953t1">
+	<TEXT ID="10953t1_one">
+	<TEXTVALUE>मापन नलिका के नीचे सफेद टाइल पर शंक्वाकार कुप्पी रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110Scene711">
+	<TEXT ID="110Scene711_one">
+	<TEXTVALUE>इसके बाद KMnO[sub]4[/ sub] के विलयन के विरूद्ध इसका तब तक अनुमापन करें जब तक कि KMnO[sub]4[/ sub] के विलयन की आखिरी बूंद मिलाने पर शंक्वाकार कुप्पी में विलयन में हल्का गुलाबी स्थायी रंग नहीं आ जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111Scene72">
+	<TEXT ID="111Scene72_one">
+	<TEXTVALUE> मापन नलिका की अंतिम रीडिंग दर्ज करें और रसायनिक विश्लेलषण तब तक दोहराएँ जब तक कि सहमत मान प्राप्त नहीं हो जाते हैं ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="112ch">
+	<TEXT ID="112ch_one">
+	<TEXTVALUE>सारणीबद्ध स्तंभ में अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_23">
+	<TEXTVALUE>टिप्पणियों</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_24">
+	<TEXTVALUE>प्रारंभिक ब्युरेट 
+पढ़ना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_25">
+	<TEXTVALUE>अंतिम ब्युरेट 
+पढ़ना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_26">
+	<TEXTVALUE> KMnO4 की मात्रा 
+प्रयुक्त (मि.ली.)
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="113Ca">
+	<TEXT ID="113Ca_one">
+	<TEXTVALUE> मोर लवण के विलयन की मात्रा, मोर लवण के विलयन की मोलरटी और पोटेशियम परमैंगनेट विलयन की मात्रा दर्ज करें।</TEXTVALUE>
+	</TEXT>
+
+
+	<TEXT ID="113Ca_two">
+	<TEXTVALUE>आक्जेणलिक अम्ल  और पोटेशियम परमैंगनेट के बीच रासायनिक अभिक्रिया के आणविक समीकरण से, यह स्पष्ट है कि 2 मोल पोटेशियम परमैंगनेट 10 मोल मोर लवण से अभिक्रिया करता है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_three">
+	<TEXTVALUE>दिए गए पोटेशियम परमैंगनेट के विलयन की मोलरिटी की गणना मोलरिटी समीकरण का प्रयोग करके की जा सकती है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_four">
+	<TEXTVALUE>पोटेशियम परमैंगनेट के मोलर द्रव्यoमान से पोटेशियम परमैंगनेट की मोलरिटी गुणा करके दिए गए पोटेशियम परमैंगनेट विलयन की क्षमता निर्धारित की जा सकती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_27">
+	<TEXTVALUE>गणना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_28">
+	<TEXTVALUE>आक्जेलिक अम्ल  की मात्रा  = 20 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_29">
+	<TEXTVALUE>आक्जेलिक अम्ल  की मोलरिटी = 0.1 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_30">
+	<TEXTVALUE>KMnO4 की मात्रा  = 16 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_31">
+	<TEXTVALUE> आक्जेालिक अम्ल और KMnO4 के बीच अभिक्रिया है, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_32">
+	<TEXTVALUE>मोलरिटी समीकरण के अनुसार </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_33">
+	<TEXTVALUE> (KMnO4 की मात्रा × KMnO4 की मोलरिटी)  
+आक्जेलिक अम्ल  की मात्रा × आक्जेलिक अम्ल  की मोलरिटी)
+ (KMnO4 के मोलों की संख्याक) 
+(आक्जे लिक अम्ल् के मोलों की संख्या)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_34">
+	<TEXTVALUE>16xKMnO4 की मोलरिटी </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_35">
+	<TEXTVALUE>इसलिए दिए गए KMnO4 की मोलरिटी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_36">
+	<TEXTVALUE> KMnO4 का मोलर द्रव्य्मान  = 158 g/ mol </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_37">
+	<TEXTVALUE>इसलिए, दिए गए KMnO4 की क्षमता 
+ =KMnO4 की मोलरिटी × KMnO4 का मोलर द्रव्यमान 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_b2">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mm\n"
+"POT-Creation-Date: 2015-11-28 09:32+0530\n"
+"PO-Revision-Date: 2016-06-02 15:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: help.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+#: simcontrols.js:40
+msgid "Properties of Acids and Bases"
+msgstr "ആസിഡുകളുടേയും ആൽക്കലികളുടേയും ഗുണങ്ങൾ "
+
+#: simcontrols.js:41
+msgid "Select the sample:"
+msgstr "സാമ്പിൾ തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:41
+msgid "Select the reactant:"
+msgstr "പ്രവർത്തക വസ്തു തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:41
+msgid "Result"
+msgstr "ഫലം"
+
+#: simcontrols.js:41
+msgid "Litmus solution"
+msgstr "ലിറ്റ്മസ് ലായനി"
+
+#: simcontrols.js:41
+msgid "Zinc metal"
+msgstr "സിങ്ക്  ലോഹം"
+
+#: simcontrols.js:41
+msgid "Solid "
+msgstr "ഖര "
+
+#: simcontrols.js:41 simcontrols.js:496
+msgid "Acid"
+msgstr "ആസിഡ്"
+
+#: simcontrols.js:41
+msgid "Base"
+msgstr "ആൽക്കലി"
+
+#: simcontrols.js:41
+msgid " & Distilled Water"
+msgstr "&ശുദ്ധീകരിച്ച ജലം"
+
+#: simcontrols.js:41
+msgid "Phenolphthalein"
+msgstr "ഫിനോഫ്</br>തലൈൻ"
+
+#: simcontrols.js:41
+msgid "Lime water"
+msgstr "നാരങ്ങാവെള്ളം"
+
+#: simcontrols.js:45
+msgid "Sample 1"
+msgstr "സാമ്പിൾ 1"
+
+#: simcontrols.js:45
+msgid "Sample 2"
+msgstr "സാമ്പിൾ 2"
+
+#: simcontrols.js:45
+msgid "Sample 3"
+msgstr "സാമ്പിൾ 3"
+
+#: simcontrols.js:45
+msgid "Sample 4"
+msgstr "സാമ്പിൾ 4"
+
+#: simcontrols.js:45
+msgid "Sample 5"
+msgstr "സാമ്പിൾ 5"
+
+#: simcontrols.js:45
+msgid "Sample 6"
+msgstr "സാമ്പിൾ 6"
+
+#: simcontrols.js:45
+msgid "Sample 7"
+msgstr "സാമ്പിൾ 7"
+
+#: simcontrols.js:47
+msgid ""
+"The given sample is an acid that turns blue litmus solution to</br>red, but "
+"does not affect the red litmus solution.  It</br>has a pH value less than 7."
+msgstr ""
+"തന്നിരിക്കുന്ന സാമ്പിൾ  ആസിഡ് ആണ്.അത് നീല ലിറ്റ്മസ് </br> ലായനിയിൽ നിന്ന് ചുവപ്പ് </br>  "
+"ആകുന്നു.എന്നാൽ ചുവന്ന ലിറ്റ്മസ് ലായനിയെ ബാധിക്കുന്നില്ല.ഇതിന് </br>PH മൂല്യം  7 നേക്കാൾ കുറവാണ്."
+
+#: simcontrols.js:47
+msgid ""
+"The given sample is a base that turns red litmus solution to</br>blue, but "
+"does not affect the blue litmus solution.  It</br>has a pH value greater "
+"than 7."
+msgstr ""
+"തന്നിരിക്കുന്ന  സാമ്പിൾ  ആൽക്കലി ആണ്.അത് ചുവപ്പ്  ലിറ്റ്മസ് </br> ലായനിയിൽ നിന്ന് നീല</br> "
+"ആകുന്നു.എന്നാൽ നീല ലിറ്റ്മസ് ലായനിയെ ബാധിക്കുന്നില്ല.ഇതിന് </br>PH മൂല്യം 7 നേക്കാൾ കൂടുതലാണ്."
+
+#: simcontrols.js:47
+msgid ""
+"The given sample is an acid that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+msgstr ""
+"തന്നിരിക്കുന്ന  സാമ്പിൾ  ആസിഡ്  ആണ്.അത് സിങ്ക് ലോഹവുമായി  പ്രവർത്തിച്ച്  നിറമോ മണമോ ഇല്ലാത്ത "
+"ഹൈഡ്രജനെ</br> സ്വതന്ത്രമാക്കുന്നു. ജ്വാല ആളി കത്തിയതാണ് അതിന് കാരണം.</br>ഒരു സ്ഫോടന "
+"ശബ്ദത്തോടെയുള്ള  പൊട്ടിത്തെറിയിലൂടെ ജ്വാല മങ്ങുന്നു."
+
+#: simcontrols.js:47
+msgid ""
+"The given sample is a base that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+msgstr ""
+"തന്നിരിക്കുന്ന  സാമ്പിൾ ആൽക്കലി  ആണ്.അത് സിങ്ക് ലോഹവുമായി  പ്രവർത്തിച്ച്  നിറമോ മണമോ ഇല്ലാത്ത "
+"ഹൈഡ്രജനെ</br> സ്വതന്ത്രമാക്കുന്നു. ജ്വാല ആളി കത്തിയതാണ് അതിന് കാരണം.</br>ഒരു സ്ഫോടന "
+"ശബ്ദത്തോടെയുള്ള  പൊട്ടിത്തെറിയിലൂടെ ജ്വാല മങ്ങുന്നു."
+
+#: simcontrols.js:47
+msgid ""
+"The given sample is an acid that reacts with sodium carbonate to</"
+"br>liberate carbon dioxide gas that turns the lime water milky."
+msgstr ""
+"തന്നിരിക്കുന്ന സാമ്പിൾ ആസിഡ്   ആണ്.അത് സോഡിയം കാർബണേറ്റുമായി  പ്രവർത്തിച്ച് കാർബൺഡയോക്സൈഡ് "
+"വാതകത്തെ  </br> സ്വതന്ത്രമാക്കുന്നു.  അങ്ങനെ നാരങ്ങാവെള്ളം പാൽ നിറമാകുന്നു."
+
+#: simcontrols.js:47
+msgid ""
+"The given sample and sodium carbonate are bases, so they</br>don't react but "
+"form an alkaline solution. Phenolphthalein</br>produces a pink colour in "
+"alkaline medium."
+msgstr ""
+"തന്നിരിക്കുന്ന സാമ്പിളും സോഡിയം കാർബണേറ്റും ആൽക്കലികളാണ്.അതുകൊണ്ട് അവ</br>പ്രവർത്തിക്കുന്നില്ല."
+"എന്നാൽ ആൽക്ക ലൈൻ  ഉണ്ടാകുന്നു.ഫിനോഫ്തലീൻ  </br> പിങ്ക് നിറം ഉൽപ്പാദിപ്പിക്കുന്നു.അത് ആൽക്കലൈൻ "
+"മാധ്യമം  ആണ്."
+
+#: simcontrols.js:47
+msgid "Drag and dip the dropper into</br>the beaker to draw the solution."
+msgstr "ഡ്രോപ്പർ നീക്കി ബീക്കറിലേക്ക് </br>താഴ്ത്തുക,ലായനി വലിച്ചെടുക്കുക."
+
+#: simcontrols.js:47
+msgid "Drag the dropper to the first</br>test tube to pour the solution."
+msgstr "ഡ്രോപ്പർ ആദ്യം  ബീക്കറിലേക്ക് </br> നീക്കുക, ലായനി അതിലേക്ക്  ഒഴിക്കുക."
+
+#: simcontrols.js:47
+msgid ""
+"Again drag and dip the dropper</br>into the beaker to draw the solution."
+msgstr "ഡ്രോപ്പർ  വീണ്ടും  ബീക്കറിലേക്ക് </br> നീക്കുക, ലായനി അതിലേക്ക്  ഒഴിക്കുക."
+
+#: simcontrols.js:47
+msgid "Drag the dropper to the second</br>test tube to pour the solution."
+msgstr "ഡ്രോപ്പർ രണ്ടാമത്തെ</br> ടെസ്ട്യുബിലേക്ക്  നീക്കുക,അതിലേക്ക് ലായനി ഒഴിക്കുക."
+
+#: simcontrols.js:47
+msgid ""
+"Drag the beaker containing the</br>sample solution to the test tube</br>to "
+"pour it in."
+msgstr ""
+"ബീക്കറിൽ അടങ്ങിയിരിക്കുന്ന</br> സാമ്പിൾ ലായനി നീക്കി ടെസ്ട്യുബിലേക്ക് </br> ഒഴിക്കുക."
+
+#: simcontrols.js:47
+msgid "Drag the cork to the</br>test tube to close it."
+msgstr "കോർക്ക് ടെസ്ട്യുബിലേക്ക് </br> നീക്കി അടയ്ക്കുക"
+
+#: simcontrols.js:47
+msgid "Click on the knob to</br>turn on/turn off the burner."
+msgstr "നോബിൽ ക്ലിക്ക് ചെയ്ത് </br>ബർണർ 'On or off ആക്കുകയോ ചെയ്യുക."
+
+#: simcontrols.js:47
+msgid "Drag the match stick</br>over the test tube."
+msgstr "ടെസ്ട്യുബിനു മീതെ ഒരു തീപ്പെട്ടിക്കൊള്ളി </br> നീക്കുക"
+
+#: simcontrols.js:47
+msgid ""
+"Drag the beaker containing</br>the sample solution to the</br>thistle funnel "
+"to pour it in."
+msgstr ""
+"ബീക്കർ നീക്കുക, അതിലടങ്ങിയിരിക്കുന്ന</br> സാമ്പിൾ ലായനി തിസിൽ ഫണലിലൂടെ</br> ഒഴിക്കുക."
+
+#: simcontrols.js:47
+msgid ""
+"Drag the beaker containing</br>the sample solution to the</br>test tube to "
+"pour it in."
+msgstr ""
+"ബീക്കർ നീക്കുക അതിലടങ്ങിയിരിക്കുന്ന</br> സാമ്പിൾ ലായനി ടെസ്ട്യുബിലൂടെ </br> ഒഴിക്കുക."
+
+#: simcontrols.js:54
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols.js:70
+msgid "HELP"
+msgstr "HELP"

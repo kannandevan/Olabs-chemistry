@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pname\n"
+"POT-Creation-Date: 2015-09-06 10:01+0530\n"
+"PO-Revision-Date: 2015-09-06 10:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:77
+msgid "Separation of Mixtures Using Different Techniques"
+msgstr "വൃതൃസ്തമായ സാങ്കേതികത്വം ഉപയോഗിച്ചുള്ള മിശ്രിതങ്ങളുടെ വേർതിരിക്കൽ "
+
+#: ../js/simcontrols.js:78
+msgid "HELP"
+msgstr "സഹായം"
+
+#: ../js/simcontrols.js:79
+msgid "FULLSCREEN"
+msgstr ""
+
+#: ../js/simcontrols.js:80
+msgid "EXIT"
+msgstr ""
+
+#: ../js/simcontrols.js:81
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+
+#: ../js/simcontrols.js:83
+msgid "Select the technique:"
+msgstr "സാങ്കേതികത്വം തിരഞ്ഞെടുക്കുക:"
+
+#: ../js/simcontrols.js:83
+msgid "Selected mixture:"
+msgstr "മിശ്രിതം തിരഞ്ഞെടുക്കുക:"
+
+#: ../js/simcontrols.js:83
+msgid "Show scale"
+msgstr "സ്കെയിൽ ദൃശൃമാക്കുക"
+
+#: ../js/simcontrols.js:83
+msgid "Result"
+msgstr "ഫലം"
+
+#: ../js/simcontrols.js:84
+msgid "Distance travelled by the solvent"
+msgstr "ലായകം സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:84
+msgid "Distance travelled by blue ink"
+msgstr "നീല മഷി  സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:84
+msgid "Distance travelled by red ink "
+msgstr "ചുവന്ന മഷി സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:85
+msgid "Rf value of blue ink"
+msgstr "നീല മഷിയുടെ Rf മൂലൃം"
+
+#: ../js/simcontrols.js:85
+msgid "Rf value of red ink"
+msgstr "ചുവന്ന മഷിയുടെ Rf മൂലൃം"
+
+#: ../js/simcontrols.js:85
+msgid " Distance travelled by Chlorophyll b (dark green)  "
+msgstr "(ഇരുണ്ട പച്ച)ക്ലോറോഫിൽ b സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:86
+msgid "Distance travelled by Chlorophyll a (light green)  "
+msgstr "(നേരിയ പച്ച) ക്ലോറോഫിൽ a സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:86
+msgid "Distance travelled by Xanthophyll (yellow) "
+msgstr "സാന്തോഫിൽ(മഞ്ഞ) സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:87
+msgid "Distance travelled by Carotene (orange) "
+msgstr "കരോട്ടിൻ(ഓറഞ്ച്) സഞ്ചരിച്ച ദൂരം"
+
+#: ../js/simcontrols.js:87
+msgid "Rf value of Chlorophyll b "
+msgstr "ക്ലോറോഫിൽ b യുടെ Rf മൂലൃം."
+
+#: ../js/simcontrols.js:87
+msgid "Rf value of Chlorophyll a"
+msgstr "ക്ലോറോഫിൽ a യുടെ Rf മൂലൃം."
+
+#: ../js/simcontrols.js:88
+msgid "Rf value of Xanthophyll "
+msgstr "സാന്തോഫില്ലിലെ Rf  മൂലൃം"
+
+#: ../js/simcontrols.js:88
+msgid "Rf value of Carotene"
+msgstr "കരോട്ടിൻ്റെ Rf മൂലൃം"
+
+#: ../js/simcontrols.js:88
+msgid "Only opposite side is possible."
+msgstr "വിപരീത വശം മാത്രം സാദ്ധൃമാകുന്നു."
+
+#: ../js/simcontrols.js:89
+msgid "The procedure was wrong. Redo the experiment."
+msgstr "നടപടിക്രമം തെറ്റായിരുന്നു.പരീക്ഷണം ആവർത്തിക്കുക."
+
+#: ../js/simcontrols.js:89
+msgid "Centrifuge machine."
+msgstr "സെൻട്രിഫൃൂഗ് യന്ത്രം."
+
+#: ../js/simcontrols.js:89
+msgid "Click here to stop."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് നിർത്തുക."
+
+#: ../js/simcontrols.js:91
+msgid "Chromatography"
+msgstr "ക്രൊമാറ്റോഗ്രാഫി."
+
+#: ../js/simcontrols.js:91
+msgid "Centrifugation "
+msgstr "സെൻട്രിഫൃൂഗേഷൻ."
+
+#: ../js/simcontrols.js:91
+msgid "Simple Distillation"
+msgstr "ലഘുശുദ്ധീകരണം"
+
+#: ../js/simcontrols.js:91
+msgid "Fractional Distillation"
+msgstr "ഭാഗീകമായ ശുദ്ധീകരണം"
+
+#: ../js/simcontrols.js:92
+msgid "Separating Funnel"
+msgstr "വേർതിരിക്കുന്ന ഫണൽ"
+
+#: ../js/simcontrols.js:94 ../js/simcontrols.js:101
+msgid "Red ink + Blue ink"
+msgstr "ചുവന്ന മഷി + നീല മഷി"
+
+#: ../js/simcontrols.js:94 ../js/simcontrols.js:101
+msgid "Spinach leaves"
+msgstr "ചീര ഇലകൾ"
+
+#: ../js/simcontrols.js:95 ../js/simcontrols.js:101
+msgid "Milk"
+msgstr "പാല്"
+
+#: ../js/simcontrols.js:95
+msgid "Ferric hydroxide sol"
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ് സോൾ"
+
+#: ../js/simcontrols.js:95
+msgid "Muddy water"
+msgstr "ചെളി വെള്ളം"
+
+#: ../js/simcontrols.js:96
+msgid "Water + Acetone"
+msgstr "ജലം+ അസറ്റോൺ"
+
+#: ../js/simcontrols.js:96
+msgid "Pentane + Heptane"
+msgstr "പെൻ്റൈൻ+ഹെപ്റ്റൈൻ"
+
+#: ../js/simcontrols.js:96
+msgid "Toluene + Hexane"
+msgstr "ടൊളുവിൻ +ഹെക്സൈൻ"
+
+#: ../js/simcontrols.js:97
+msgid "Methanol + Ethanol"
+msgstr "മെത്തനോൾ +എത്തനോൾ"
+
+#: ../js/simcontrols.js:97
+msgid "Hexane + Acetone"
+msgstr "ഹെക്സൈൻ + അസറ്റോൺ"
+
+#: ../js/simcontrols.js:97
+msgid "2-Propanol + 2-Butanol"
+msgstr "2 പ്രൊപ്പനോൾ+2 ബൃൂട്ടനോൾ"
+
+#: ../js/simcontrols.js:98
+msgid "Oil + Water"
+msgstr "എണ്ണ + ജലം."
+
+#: ../js/simcontrols.js:98
+msgid "Kerosene oil + water"
+msgstr "മണ്ണെണ്ണ + ജലം"
+
+#: ../js/simcontrols.js:101
+msgid "Isopropyl alcohol + Water"
+msgstr "ഐസോപ്രൊപ്പൈൽ ആൽക്കഹോൾ+ജലം"
+
+#: ../js/simcontrols.js:101
+msgid "Water"
+msgstr "ജലം"
+
+#: ../js/simcontrols.js:101
+msgid "Cream layer"
+msgstr "ക്രീം ആവരണം"
+
+#: ../js/simcontrols.js:101
+msgid "Skim milk (Plasma phase)"
+msgstr "പാട കളഞ്ഞ പാല്(പ്ലാസ്മാ ഘട്ടം)"
+
+#: ../js/simcontrols.js:101
+msgid "Supernatant liquid"
+msgstr "സ്വതന്ത്രമായി ഒഴുകുന്ന തെളിഞ്ഞ ദ്രാവകം."
+
+#: ../js/simcontrols.js:101
+msgid "Ferric hydroxide precipitate"
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം"
+
+#: ../js/simcontrols.js:101
+msgid "Mud"
+msgstr "ചെളി"
+
+#: ../js/simcontrols.js:103
+msgid ""
+"Chromatography is the technique used for the separation of<br>those solutes "
+"that dissolve in the same solvent."
+msgstr ""
+"ക്രൊമാറ്റോഗ്രാഫി എന്നത് ഒരേ ലായകത്തിൽ ലയിക്കുന്ന പദാർത്ഥങ്ങളെ<br>വേർതിരിക്കാൻ ഉപയോഗിക്കുന്ന "
+"ഒരു സാങ്കേതിക വിദൃയാണ്."
+
+#: ../js/simcontrols.js:104
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>Methanol boils at 65&deg;C and ethanol boils at 78&deg;C."
+msgstr ""
+"ഫ്രാക്ഷണൽ ഡിസ്റ്റിലേഷൻ  ഉപയോഗിക്കുന്നത് രണ്ടോ അതിലധികമോ<br>സമ്മിശ്ര ദ്രാവകങ്ങളെ അതായത് 25 "
+"കെൽവിനേക്കാൾ<br>കുറഞ്ഞ  തിളനിലയിൽ വൃതൃാസമുള്ള ദ്രാവകങ്ങളെ വേർതിരിക്കാനാണ്.<br>മെത്തനോൾ "
+"തിളക്കുന്നത് 65& ഡിഗ്രി സെൽഷൃസ്,എത്തനോൾ 78 &ഡിഗ്രി സെൽഷൃസ്ആണ്."
+
+#: ../js/simcontrols.js:105
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br/>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference(>25k) in their boiling points. At 56&deg;C acetone "
+"boils and the</br>vapours are collected in a RB flask and water is left "
+"behind in the flask."
+msgstr ""
+"ലഘു ശുദ്ധീകരണം ഉപയോഗിക്കുന്നത് മിശ്രിതത്തിലടങ്ങിയിരിക്കുന്ന രണ്ടോ അതിലധികമോ<br/>സമ്മിശ്ര "
+"ദ്രാവകങ്ങളുടെ വിഘടനം കൂടാതെയുള്ള  തിളനിലയും(>25)കെൽവിനിൽ മതിയായ<br/>വൃതൃാസമുള്ള "
+"മിശ്രിതങ്ങളുടെ വേർതിരിക്കലിനാണ്.അസറ്റോണിൻ്റെ തിളനില 56& ഡിഗ്രി സെൽഷൃസ്</br>R.B ഫ്ലാസ്കിൽ "
+"ബാഷ്പം ശേഖരിക്കുന്നു."
+
+#: ../js/simcontrols.js:106
+msgid ""
+"The denser particles forced to the bottom and the<br>lighter particles stay "
+"at the top when spin rapidly."
+msgstr ""
+"ഭാരം കൂടിയ കണങ്ങൾ അധിക ബലത്താൽ താഴേക്ക്<br>പോകുന്നു.ഭാരം കുറഞ്ഞ വസ്തുക്കൾ പെട്ടെന്ന് ഒരു വലയം "
+"രൂപപ്പെടുമ്പോൾ മുകളിൽ  തങ്ങുന്നു."
+
+#: ../js/simcontrols.js:107
+msgid ""
+"The denser liquid at the bottom forms the lower layer and the "
+"lighter<br>liquid forms the top layer. This indicates water is denser than "
+"oil."
+msgstr ""
+"ഭാരം കൂടിയ കണങ്ങൾ  അധിക ബലത്താൽ താഴേക്ക് പോകുന്നു.ഭാരം കുറഞ്ഞ വസ്തുക്കൾ പെട്ടെന്ന് ഒരു "
+"വലയം<br>രൂപപ്പെടുമ്പോൾ മുകളിൽ  തങ്ങുന്നു.ഇത് സൂചിപ്പിക്കുന്നത് എണ്ണയേക്കാൾ സാന്ദ്രത ജലത്തിന് ഉണ്ട് "
+"എന്നാണ്."
+
+#: ../js/simcontrols.js:108
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference (>25k) in their boiling points. At 36&deg;C "
+"pentane boils and the<br/>vapours are collected in a RB flask and heptane "
+"(bp - 98&deg;C) is left</br>behind in the flask."
+msgstr ""
+"ലഘു ശുദ്ധീകരണം ഉപയോഗിക്കുന്നത് മിശ്രിതത്തിലടങ്ങിയിരിക്കുന്ന രണ്ടോ അതിലധികമോ<br/>സമ്മിശ്ര "
+"ദ്രാവകങ്ങളുടെ വിഘടനം കൂടാതെയുള്ള  തിളനിലയും (>25) കെൽവിനിൽ മതിയായ<br/>വൃതൃാസമുള്ള "
+"മിശ്രിതങ്ങളുടെ വേർതിരിക്കലിനാണ്.പെൻ്റോണിൻ്റെ തിളനില 36& ഡിഗ്രി സെൽഷൃസ്</br>R.B ഫ്ലാസ്കിൽ "
+"ബാഷ്പം ശേഖരിക്കുന്നു.ഹെപ്റ്റൈൻ 98&ഡിഗ്രി സെൽഷൃസ്</br>R.B ഫ്ലാസ്കിൽ രൂപം കൊള്ളുന്നു."
+
+#: ../js/simcontrols.js:109
+msgid ""
+"Simple distillation is used for the separation of a mixture containing "
+"two<br/>miscible liquids that boil without decomposition and have "
+"sufficient<br/>difference (>25k) in their boiling points. At 69&deg;C hexane "
+"boils and the<br/>vapours are collected in a RB flask and toluene (bp - "
+"111&deg;C) is left</br>behind in the flask."
+msgstr ""
+"ലഘു ശുദ്ധീകരണം ഉപയോഗിക്കുന്നത്  മിശ്രിതത്തിലടങ്ങിയിരിക്കുന്ന രണ്ടോ അതിലധികമോ<br/>സമ്മിശ്ര "
+"ദ്രാവകങ്ങളുടെ വിഘടനം കൂടാതെയുള്ള  തിളനിലയും(>25)കെൽവിനിൽ മതിയായ<br/>വൃതൃാസമുള്ള "
+"മിശ്രിതങ്ങളുടെ വേർതിരിക്കലിനാണ്.ഹെക്സോണിൻ്റെ തിളനില 69& ഡിഗ്രി സെൽഷൃസ് </br>R.B "
+"ഫ്ലാസ്കിൽ ബാഷ്പം ശേഖരിക്കുന്നു.ടൊളുവിൻ 111&ഡിഗ്രി സെൽഷൃസ്</br>R.B ഫ്ലാസ്കിൽ രൂപം കൊള്ളുന്നു."
+
+#: ../js/simcontrols.js:110
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>Acetone boils at 56&deg;C and hexane boils at 69&deg;C."
+msgstr ""
+"ഫ്രാക്ഷണൽ ഡിസ്റ്റിലേഷൻ ഉപയോഗിക്കുന്നത് രണ്ടോ അതിലധികമോ സമ്മിശ്ര ദ്രാവകങ്ങളെ<br>അതായത് 25 "
+"കെൽവിനേക്കാൾ കുറഞ്ഞ തിളനിലയിൽ വൃതൃാസമുള്ള ദ്രാവകങ്ങളെ  വേർതിരിക്കാനാണ്.<br>അസറ്റോൺ "
+"തിളക്കുന്നത് 56& ഡിഗ്രി സെൽഷൃസ്,ഹെക്സൈൻ തിളക്കുന്നത് 69 &ഡിഗ്രി സെൽഷൃസ്ആണ്.."
+
+#: ../js/simcontrols.js:111
+msgid ""
+"Fractional distillation is used for the separation of two or more "
+"miscible<br>liquids for which the difference in boiling points is less than "
+"25K.<br>2-Propanol boils at 82.5&deg;C and 2-Butanol boils at 99.5&deg;C."
+msgstr ""
+"ഫ്രാക്ഷണൽ ഡിസ്റ്റിലേഷൻ ഉപയോഗിക്കുന്നത് രണ്ടോ അതിലധികമോ സമ്മിശ്ര ദ്രാവകങ്ങളെ<br>അതായത് 25 "
+"കെൽവിനേക്കാൾ കുറഞ്ഞ തിളനിലയിൽ വൃതൃാസമുള്ള ദ്രാവകങ്ങളെ വേർതിരിക്കാനാണ്.2-പ്രൊപ്പനോൾ "
+"തിളക്കുന്നത് 82.5& ഡിഗ്രി സെൽഷൃസ്,2-ബൃൂട്ടനോൾ തിളക്കുന്നത് 99.5&ഡിഗ്രി സെൽഷൃസ്ആണ്."
+
+#: ../js/simcontrols.js:112
+msgid ""
+"The denser liquid at the bottom forms the lower layer and the "
+"lighter<br>liquid forms the top layer. This indicates water is denser than "
+"kerosene oil."
+msgstr ""
+"ഭാരം കൂടിയ കണങ്ങൾ അധിക ബലത്താൽ താഴേക്ക്<br>പോകുന്നു.ഭാരം കുറഞ്ഞ വസ്തുക്കൾ പെട്ടെന്ന് ഒരു വലയം "
+"രൂപപ്പെടുമ്പോൾ മുകളിൽ  തങ്ങുന്നു.ഇത് സൂചിപ്പിക്കുന്നത് മണ്ണെണ്ണയേക്കാൾ സാന്ദ്രത ജലത്തിന് ഉണ്ട് എന്നാണ്."
+
+#: ../js/simcontrols.js:114
+msgid ""
+"To take ink drag the capillary tube to the beaker<br/>and drag it back to "
+"drop it on the paper."
+msgstr "കടലാസ്സിലേക്ക് തിരിച്ച് തുള്ളി ഇറ്റിക്കുക."
+
+#: ../js/simcontrols.js:115
+msgid "Click on the lid of the<br/>chamber to open it."
+msgstr "ചേംബറിൻ്റെ അടപ്പിൽ</br>ക്ലിക്ക് ചെയ്ത് തുറക്കുക."
+
+#: ../js/simcontrols.js:116
+msgid "Drag and place the paper in the chamber."
+msgstr "ചേംബറിൽ പേപ്പർ നീക്കി വെക്കുക."
+
+#: ../js/simcontrols.js:117
+msgid "Click on the lid of<br/>the chamber to close it."
+msgstr "ചേംബറിൻ്റെ അടപ്പിൽ<br/>ക്ലിക്ക് ചെയ്ത് ചേംബർ അടക്കുക."
+
+#: ../js/simcontrols.js:118
+msgid "Click on the chamber to<br/>take the filter paper out."
+msgstr "ചേംബറിൽ ക്ലിക്ക് ചെയ്ത്<br/>ഫിൽട്ടർ പേപ്പർ പുറത്തേക്ക് എടുക്കുക."
+
+#: ../js/simcontrols.js:119
+msgid "Click here to open the lid."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് അടപ്പ് തുറക്കുക."
+
+#: ../js/simcontrols.js:120
+msgid "Drag each tube to place it<br/>in the holder of the machine."
+msgstr "ഓരോ ടൃൂബും നീക്കി<br/>മെഷീൻ്റെ കൈപ്പിടിയിൽ വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:121
+msgid "Click here to close the lid."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് അടപ്പ് അടയ്ക്കുക."
+
+#: ../js/simcontrols.js:122
+msgid "Click on the button to switch on the machine."
+msgstr "ബട്ടനിൽ ക്ലിക്ക് ചെയ്ത് യന്ത്രം പ്രവർത്തിപ്പിക്കാൻ ആരംഭിക്കുക"
+
+#: ../js/simcontrols.js:123
+msgid "Click here to open the machine."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് യന്ത്രം തുറക്കുക."
+
+#: ../js/simcontrols.js:124
+msgid "Click on the mixture test tube."
+msgstr "ടെസ്റ്റൃൂബ് മിശ്രിതത്തിലേക്ക് ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:125 ../js/simcontrols.js:126
+msgid "Click here to<br/>start the experiment."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത്<br/>പരീക്ഷണം തുടങ്ങുക."
+
+#: ../js/simcontrols.js:127
+msgid "Drag the ice box downwards."
+msgstr "ഐസ് പെട്ടി താഴേക്ക് നീക്കുക."
+
+#: ../js/simcontrols.js:128
+msgid ""
+"Drag the RB flask containing Methanol<br>and place it over the thermocol."
+msgstr "മെത്തനോൾ അടങ്ങിയ R.B.ഫ്ലാസ്ക് നീക്കിയിട്ട് <br> തെർമോകോളിന് മീതെ വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:129
+msgid "Drag the flask to place it against<br> the holder to collect ethanol."
+msgstr "എത്തനോൾ ശേഖരിക്കുന്നതിന് കൈപ്പിടിക്ക് വിരുദ്ധമായി<br>ഫ്ലാസ്ക് നീക്കി വെക്കുക."
+
+#: ../js/simcontrols.js:130
+msgid "Drag the ice box upwards to<br>place it below the RB flask. "
+msgstr "താഴെയിരിക്കുന്ന R.B. ഫ്ലാസ്കിന് ഉപരിഭാഗത്തായി<br>ഐസ്പെട്ടി നീക്കി വെയ്ക്കുക"
+
+#: ../js/simcontrols.js:131
+msgid "Click here to<br/>restart the heating mantle."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത്<br/>ചൂടാക്കുന്ന മാൻ്റിൽ പുനഃരാരംഭിക്കുക."
+
+#: ../js/simcontrols.js:132
+msgid "To pour the mixture<br>into the separating funnel,<br>drag the beaker."
+msgstr "ബീക്കർ നീക്കി വെച്ചിട്ട് വേർതിരിക്കുന്ന ഫണലിലേക്ക് മിശ്രിതം<br> ഒഴിക്കുക"
+
+#: ../js/simcontrols.js:133
+msgid "Click on the funnel<br/>to remove it."
+msgstr "ഫണലിൽ ക്ലിക്ക് ചെയ്ത്<br/>അത് മാറ്റുക"
+
+#: ../js/simcontrols.js:134
+msgid "Drag the separating funnel to<br>take it from the stand."
+msgstr "വേർതിരിക്കുന്ന ഫണൽ<br>സ്റ്റാൻഡിൽ നിന്ന് നീക്കി എടുക്കുക."
+
+#: ../js/simcontrols.js:135
+msgid "Click on the separating funnel<br>to shake it."
+msgstr "വേർതിരിക്കുന്ന ഫണലിൽ  ക്ലിക്ക് ചെയ്ത്<br>അത് കുലക്കുക."
+
+#: ../js/simcontrols.js:136
+msgid "Click here to release<br/>the pressure inside the funnel."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത്<br/>ഫണലിലെ മർദ്ദം സ്വതന്ത്രമാക്കുക."
+
+#: ../js/simcontrols.js:137
+msgid "Drag the funnel<br/>to place it back."
+msgstr "ഫണൽ പുറകോട്ട് നീക്കി<br/>മാറ്റുക."
+
+#: ../js/simcontrols.js:138
+msgid "To collect water<br>from the separating funnel,<br>drag the beaker. "
+msgstr "ബീക്കർ നീക്കിയിട്ട്<br>വേർതിരിക്കുന്ന ഫണലിൽ നിന്ന് ജലം<br>ശേഖരിക്കുക"
+
+#: ../js/simcontrols.js:139 ../js/simcontrols.js:142
+msgid "Click here to open/close<br/>the stop cock."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് സ്റ്റോപ്പ്കോക്ക് അടയ്ക്കുകയോ<br/>തുറക്കുകയോ ചെയ്യുക."
+
+#: ../js/simcontrols.js:140
+msgid "Drag the beaker to<br/>place it back."
+msgstr "ബീക്കർ നീക്കി<br/>പുറകോട്ട് വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:141
+msgid "To collect the</br>oil from the separating</br>funnel, drag the beaker."
+msgstr "വേർതിരിക്കുന്ന</br>ഫണലിൽ നിന്ന് എണ്ണ ശേഖരിക്കുന്നതിന്</br>ബീക്കർ നീക്കുക."
+
+#: ../js/simcontrols.js:143
+msgid "Drag the beaker to <br/>place it back."
+msgstr "ബീക്കർ നീക്കി<br/>പുറകോട്ട് വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:144
+msgid ""
+"Drag the RB flask containing acetone<br>and place it over the thermocol."
+msgstr "അസറ്റോൺ അടങ്ങിയ R.B ഫ്ലാസ്ക് നീക്കി<br>തെർമോക്കോളിന് മീതെ വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:145
+msgid "Drag the flask to place it against<br>the holder to collect hexane."
+msgstr "ഫ്ലാസ്ക് നീക്കി കൈപ്പിടിക്ക് വിരുദ്ധമായി<br>വെച്ചിട്ട് ഹെക്സൈൻ ശേഖരിക്കുക."
+
+#: ../js/simcontrols.js:146
+msgid ""
+"Drag the RB flask containing 2-propanol<br>and place it over the thermocol."
+msgstr "2- പ്രൊപ്പനോൾ അടങ്ങിയ R.B.ഫ്ലാസ്ക് നീക്കി <br>തെർമോക്കോളിന് മീതെ വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:147
+msgid "Drag the flask to place it against<br> the holder to collect 2-butanol."
+msgstr "ഫ്ലാസ്ക് നീക്കി കൈപ്പിടിക്ക് വിരുദ്ധമായി<br>വെച്ചിട്ട് ബൃൂട്ടനോൾ ശേഖരിക്കുക."
+
+#: ../js/simcontrols.js:151
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: ../js/simcontrols.js:152
+msgid "Start"
+msgstr "ആരംഭിക്കുക"
+
+#: ../js/simcontrols.js:153
+msgid "Whatman Filter Paper"
+msgstr "വാട്ട്മാൻ ഫിൽട്ടർ പേപ്പർ."

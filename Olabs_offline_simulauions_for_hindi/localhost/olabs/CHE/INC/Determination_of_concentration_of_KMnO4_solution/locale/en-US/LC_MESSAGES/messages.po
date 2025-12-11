@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: g\n"
+"POT-Creation-Date: 2013-10-01 09:47+0530\n"
+"PO-Revision-Date: 2013-10-01 09:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: g <g>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:4
+#, fuzzy
+msgid "Determination of Concentration/Molarity of KMnO<sub>4</sub> solution"
+msgstr "Determination of Concentration/Molarity of KMnO<sub>4</sub> solution"
+
+#: simcontrols.js:5
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:6
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:7
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:8
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Drops rate:"
+msgstr "Drops rate:"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Titrate:"
+msgstr "Titrate:"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Molarity of titrate, M1: "
+msgstr "Molarity of titrate, M1: "
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Volume of titrate, V1:"
+msgstr "Volume of titrate, V1:"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Result"
+msgstr "Result"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Molarity of titrant, a "
+msgstr "Molarity of titrant, a "
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "No of moles of titrant, n2"
+msgstr "No of moles of titrant, n2"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "No of moles of titrate, n1"
+msgstr "No of moles of titrate, n1"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Molar mass of titrant, b"
+msgstr "Molar mass of titrant, b"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Strength of given titrant, [a xb]"
+msgstr "Strength of given titrant, [a xb]"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Show volume of titrant, V2"
+msgstr "Show volume of titrant, V2"
+
+#: simcontrols.js:9
+#, fuzzy
+msgid "Temperature: "
+msgstr "Temperature: "
+
+#: simcontrols.js:10
+msgid "Mohr<sup>&#39;</sup>s salt"
+msgstr "Mohr<sup>&#39;</sup>s salt"
+
+#: simcontrols.js:10
+#, fuzzy
+msgid "Oxalic acid"
+msgstr "Oxalic acid"
+
+#: simcontrols.js:11
+msgid "Start"
+msgstr "Start"
+
+#: simcontrols.js:11
+msgid "Stop"
+msgstr "Stop"
+
+#: simcontrols.js:12
+#, fuzzy
+msgid "Correct."
+msgstr "Correct."
+
+#: simcontrols.js:12
+#, fuzzy
+msgid "Wrong! Try Again"
+msgstr "Wrong! Try Again"
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Burette"
+msgstr "Burette"
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Titration flask"
+msgstr "Titration flask"
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Clamp stand"
+msgstr "Clamp stand"
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Click on the nozzle or start button to start the titration."
+msgstr "Click on the nozzle or start button to start the titration."
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Click on the nozzle or stop button to stop the titration."
+msgstr "Click on the nozzle or stop button to stop the titration."
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Click on the reset button to reset the titration."
+msgstr "Click on the reset button to reset the titration."
+
+#: simcontrols.js:13
+#, fuzzy
+msgid "Burner"
+msgstr "Burner"
+
+#: simcontrols.js:14
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:15
+msgid "Select the titrate."
+msgstr "Select the titrate."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Increase/decrease the drops rate."
+msgstr "Increase/decrease the drops rate."
+
+#: simcontrols.js:15
+msgid "Change the molarity of the titrate."
+msgstr "Change the molarity of the titrate."
+
+#: simcontrols.js:15
+msgid "Change the volume of the titrate."
+msgstr "Change the volume of the titrate."
+
+#: simcontrols.js:15
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical "
+"flask containing </br> Mohr<sup>&#39;</sup>s salt."
+msgstr ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical "
+"flask containing </br> Mohr<sup>&#39;</sup>s salt."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Drag the conical flask and <br> place it below the burette."
+msgstr "Drag the conical flask and <br> place it below the burette."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Click on the nozzle or  </br> start button to start the titration."
+msgstr "Click on the nozzle or  </br> start button to start the titration."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Click on the checkbox to show volume of titrant."
+msgstr "Click on the checkbox to show volume of titrant."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Drag the conical flask and <br> place it above the burner."
+msgstr "Drag the conical flask and <br> place it above the burner."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid "Click on the burner <br> knob to start heating."
+msgstr "Click on the burner <br> knob to start heating."
+
+#: simcontrols.js:15
+#, fuzzy
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical "
+"flask containing </br> Oxalic acid."
+msgstr ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical "
+"flask containing </br> Oxalic acid."

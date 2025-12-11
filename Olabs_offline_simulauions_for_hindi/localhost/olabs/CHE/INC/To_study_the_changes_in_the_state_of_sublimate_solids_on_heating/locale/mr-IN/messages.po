@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 12:08+0530\n"
+"PO-Revision-Date: 2016-03-18 15:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "तापविल्यावर उर्ध्वपातनशील घनांच्या अवस्थेमध्ये होणारे बदल अभ्यासणे"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान विभागाच्या <br> संशोधन अनुदानाखाली अमृता विद्यापीठाने विकसित केले"
+
+msgid "Click on the cap"
+msgstr "टोपीवर क्लिक करा"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "स्पॅटुला बाटलीकडे ओढून सोडा"
+
+msgid "Choose the correct answer."
+msgstr "योग्य उत्तर निवडा."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "फनेल चायना डिशकडे ओढून सोडा"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "कापूस फनेलच्या वरच्या भागाकडे ओढून<br>सोडा"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "चायना डिश ट्रायपॉड स्टँडकडे ओढून सोडा"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "कापूस काचेच्या वाडग्यात ओढून सोडा"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "ओला कापूस चायना डिशच्या वरच्या भागावर ओढून सोडा"
+
+msgid "Click on the knob of the burner"
+msgstr "बर्नरच्या नॉबवर क्लिक करा"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "प्रयोग पुन्हा करण्यासाठी रीसेट बटणावर क्लिक करा"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "अमोनियम क्लोराइड NH<sub>4</sub>Cl आहे, जे तापवल्यावर<br>तापीय अपघटनाद्वारे अमोनिया आणि हायड्रोक्लोरिक आम्लात<br>विभाजित होते.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Ammonium Chloride"
+msgstr "अमोनियम क्लोराइड"
+
+msgid "Ammonium Chloride"
+msgstr "अमोनियम क्लोराइड"
+
+msgid "Drag and drop the spatula towards the bottle."
+msgstr "स्पॅटुला बाटलीकडे ओढून सोडा."
+
+msgid "Drag and drop the funnel towards the china dish."
+msgstr "फनेल चायना डिशकडे ओढून सोडा."
+
+msgid "Drag and drop the cotton towards the top of the funnel."
+msgstr "कापूस फनेलच्या वरच्या भागाकडे ओढून सोडा."
+
+msgid "Drag and drop the china dish towards tripod stand."
+msgstr "चायना डिश ट्रायपॉड स्टँडकडे ओढून सोडा."
+
+msgid "Drag and drop the cotton into the glass bowl."
+msgstr "कापूस काचेच्या वाडग्यात ओढून सोडा."
+
+msgid "Click on the knob of the burner."
+msgstr "बर्नरच्या नॉबवर क्लिक करा."
+
+msgid "<u><b>Instructions:</b></u>"
+msgstr "<u><b>सूचना:</b></u>"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "तापविल्यावर उर्ध्वपातनशील घनांच्या अवस्थेमध्ये होणारे बदल अभ्यासणे"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान विभागाच्या <br> संशोधन अनुदानाखाली अमृता विद्यापीठाने विकसित केले"
+
+msgid "Click on the cap"
+msgstr "टोपीवर क्लिक करा"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "स्पॅटुला बाटलीकडे ओढून सोडा"
+
+msgid "Choose the correct answer."
+msgstr "योग्य उत्तर निवडा."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "फनेल चायना डिशकडे ओढून सोडा"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "कापूस फनेलच्या वरच्या भागाकडे ओढून<br>सोडा"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "चायना डिश ट्रायपॉड स्टँडकडे ओढून सोडा"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "कापूस काचेच्या वाडग्यात ओढून सोडा"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "ओला कापूस चायना डिशच्या वरच्या भागावर ओढून सोडा"
+
+msgid "Drag and drop the wet cotton into the top of the china dish."
+msgstr "ओला कापूस चायना डिशच्या वरच्या भागावर ओढून सोडा."
+
+msgid "Click on the knob of the burner"
+msgstr "बर्नरच्या नॉबवर क्लिक करा"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "प्रयोग पुन्हा करण्यासाठी रीसेट बटणावर क्लिक करा"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "अमोनियम क्लोराइड NH<sub>4</sub>Cl आहे, जे तापवल्यावर<br>तापीय अपघटनाद्वारे अमोनिया आणि हायड्रोक्लोरिक आम्लात<br>विभाजित होते.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Which of the following substances will undergo sublimation?"
+msgstr "खालीलपैकी कोणता पदार्थ उर्ध्वपातन प्रक्रियेतून जाईल?"
+
+msgid "Dry ice"
+msgstr "सुकलेला बर्फ"
+
+msgid "Common salt"
+msgstr "साधा मीठ"
+
+msgid "Sugar"
+msgstr "साखर"
+
+msgid "Sand"
+msgstr "वाळू"
+
+msgid "Dry ice"
+msgstr "सुकलेला बर्फ"
+
+msgid "What happens if naphthalene is used instead of ammonium chloride, Will it undergo the sublimation Process"
+msgstr "जर अमोनियम क्लोराइडऐवजी नेफथलीन वापरले, तर ते उर्ध्वपातन प्रक्रियेतून जाईल का?"
+
+msgid "No"
+msgstr "नाही"
+
+msgid "Yes"
+msgstr "होय"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "अमोनियम क्लोराइड हा एक उडणारा पदार्थ आहे, जो तापवल्यावर द्रव अवस्थेत न जाता थेट वायू अवस्थेत बदलतो."
+
+msgid "All of these"
+msgstr "वरील सर्व"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "अमोनियम क्लोराइड हा एक उडणारा पदार्थ आहे, जो तापवल्यावर द्रव अवस्थेत न जाता थेट वायू अवस्थेत बदलतो."
+
+msgid "Cottons helps in the elimination"
+msgstr "कापूस वाफ बाहेर जाण्यास मदत करतो"
+
+msgid "Cotton stops external air from entering the funnel"
+msgstr "कापूस फनेलमध्ये बाहेरील हवा जाण्यापासून प्रतिबंधित करतो"
+
+msgid "In the procedure of sublimation, the inverted funnel is plugged with cotton because __________"
+msgstr "उर्ध्वपातन प्रक्रियेमध्ये उलट फनेल कापसाने बंद केले जाते कारण __________"
+
+msgid "What happens when ammonium chloride is heated?"
+msgstr "जेव्हा अमोनियम क्लोराइड तापवले जाते तेव्हा काय होते?"
+
+msgid "Forms Ammonia and HCl"
+msgstr "अमोनिया आणि हायड्रोक्लोरिक आम्ल तयार होते"
+
+msgid "No changes"
+msgstr "काही बदल होत नाही"
+
+msgid "Forms Ammonia and HCl"
+msgstr "अमोनिया आणि हायड्रोक्लोरिक आम्ल तयार होते"
+
+msgid "HELP"
+msgstr "साहाय्य"
+ 
+msgid "Reset"
+msgstr "रीसेट"

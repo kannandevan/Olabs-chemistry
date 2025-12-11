@@ -1,0 +1,1045 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+
+
+<SCENE ID="title">
+
+	<TEXT ID="string_01">
+	<TEXTVALUE>KMnO4 द्रावणाची संहत तीव्रता रेणुकता निर्धारित करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strng_111">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="buttons">
+	<TEXT ID="string_2">
+	<TEXTVALUE>वापरून KMnO4 द्रावणाची संहत तीव्रता शोधणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="strnig_3">
+	<TEXTVALUE>ऑकसेलिक आम्ल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>फेरस अमोनियम सल्फेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="0title">
+	<TEXT ID="title_one">
+	<TEXTVALUE>मोहर क्षार ( फेरस अमोनियम सल्फेट) चे मानक द्रावण तयार करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_5">
+	<TEXTVALUE>KMnO4 द्रावणाची संहत तीव्रता रेणुकता निर्धारित करणे</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>आवश्यक सामग्री: २५० मिली शंक्वाकृती चंबू, २५० मिली मानक चंबू, मोहर क्षार स्फटिके, २५० मिली चंचुपात्र, ऊर्ध्वपतित पाणी, नरसाळे, वजन करण्याची बाटली, इलेक्ट्रॉनिक काटा, विरल H2SO4, </TEXTVALUE>
+	</TEXT>
+    <TEXT ID="1intro_two">
+	<TEXTVALUE>२० मिली शोषनलिका, परिक्षा नळी, मापन जार, स्पाट्युला, काचेचा रॉड, पांढरी टाईल, तिवई, तार गोझ, बन्सेन बर्नर इत्यादि.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>मोहर क्षार </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+	<TEXTVALUE>वजन करण्याची बाटली इलेक्ट्रॉनिक काट्यावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+	<TEXTVALUE>वजन करण्याची बाटली इलेक्ट्रॉनिक काट्यावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+	<TEXTVALUE>काटा शून्यावर आणा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Mohrssalt">
+	<TEXT ID="mohrssalt_txt">
+	<TEXTVALUE>मोहर क्षार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5Mohrssalt_one">
+	<TEXTVALUE>स्पाट्युला वापरून मोहर क्षार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+	<TEXTVALUE>वजन करण्याच्या बाटलीत टाका </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+	<TEXTVALUE>सुमारे ४.९ ग्राम मोहर क्षार वजन करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+	<TEXTVALUE>काट्यावरून वजन करण्याची बाटली काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+	<TEXTVALUE>वजन केलेली मोहर क्षाराची मात्रा काळजीपूर्वक २५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11h2so4">
+	<TEXT ID="11h2so4_one">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली संहत H2SO4 घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="121JAR">
+	<TEXT ID="121JAR_one">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली संहत H2SO4 घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13gzoo">
+	<TEXT ID="13gzoo_one">
+	<TEXTVALUE>मोहर क्षार असलेल्या चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14pour">
+	<TEXT ID="14pour_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाण्याने वजन करण्याची बाटली धुवा म्हणजे त्याला चिकटलेले कण चंचुपात्रात जातील. (ही प्रक्रिया २ किंवा ३ वेळा करा).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15sta">
+	<TEXT ID="15sta_one">
+	<TEXTVALUE>धुण्यासाठी वापरलेले पाणी चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15sta_two">
+	<TEXTVALUE>चंचुपात्रातली मोहर क्षाराची स्फटिके काचेचा रॉडने ढवळा म्हणजे ती विरघळतील.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16tk">
+	<TEXT ID="16tk_one">
+	<TEXTVALUE>संपूर्ण द्रावण नरसाळे आणि काचेचा रॉड वापरून चंचुपात्रातून २५० मिली मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16ro">
+	<TEXT ID="16ro_one">
+	<TEXTVALUE>चंचुपात्र ऊर्ध्वपतित पाण्याने धुवा म्हणजे चंचुपात्रात कुठलेही कण उरणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17fl">
+	<TEXT ID="17fl_one">
+	<TEXTVALUE>धुण्यासाठी वापरलेले पाणी मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18rod">
+	<TEXT ID="18rod_one">
+	<TEXTVALUE>काचेचा रॉड पण धुवा. आता नरसाळे आणि त्याचे टोक ऊर्ध्वपतित पाण्याने नीट धुवा आणि नरसाळ्यात अडकलेले द्रावण मानक चंबूत ओता. धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूत कोरलेल्या चिन्हापर्यन्त ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="19wash">
+	<TEXT ID="19wash_one">
+	<TEXTVALUE>काचेचा रॉड पण धुवा. आता नरसाळे आणि त्याचे टोक ऊर्ध्वपतित पाण्याने नीट धुवा आणि नरसाळ्यात अडकलेले द्रावण मानक चंबूत ओता. धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूत कोरलेल्या चिन्हापर्यन्त ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20p1">
+	<TEXT ID="20p1_one">
+	<TEXTVALUE>शोषनलिका वापरून, थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="21fi">
+	<TEXT ID="21fi_one">
+	<TEXTVALUE>शोषनलिका वापरून, थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="22p1">
+	<TEXT ID="22p1_one">
+	<TEXTVALUE>शोषनलिका वापरून, थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="23h">
+	<TEXT ID="23h_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24p2">
+	<TEXT ID="24p2_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24pzoom">
+	<TEXT ID="24pzoom_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25cork">
+	<TEXT ID="25cork_one">
+	<TEXTVALUE>चंबुला बूच लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="26mix">
+	<TEXT ID="26mix_one">
+	<TEXTVALUE>हळू हलवा म्हणजे मोहर क्षाराचे द्रावण एकसारखे होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27rest">
+	<TEXT ID="27rest_one">
+	<TEXTVALUE>तयार केलेल्या मोहर क्षार द्रावणाची ग्राम रेणुकता ०.०५ M आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="titration">
+	<TEXT ID="titration_one">
+	<TEXTVALUE>मोहर क्षार वापरून KMnO4 ची संहत तीव्रता निर्धारित करणे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>KMnO4 द्रावणाची संहत तीव्रता रेणुकता निर्धारित करणे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="28brret">
+	<TEXT ID="28brret_one">
+	<TEXTVALUE>एक स्वच्छ मोजनळी स्टँडला लावा आणि मोजनळीच्या तोंडाशी एक नरसाळे ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="29km">
+	<TEXT ID="29km_one">
+	<TEXTVALUE>पोटाशियम परमॅंगनेट KMnO4 असलेली बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30but">
+	<TEXT ID="30but_one">
+	<TEXTVALUE>नरसाळे वापरून मोजनळीत थोडेसे KMnO4 द्रावण ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31tub">
+	<TEXT ID="31tub_one">
+	<TEXTVALUE>नरसाळे काढून टाका आणि मोजनळी स्टँड वरून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32r1">
+	<TEXT ID="32r1_one">
+	<TEXTVALUE>नरसाळे काढून टाका आणि मोजनळी स्टँड वरून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33rot">
+	<TEXT ID="33rot_one">
+	<TEXTVALUE>KMnO4 द्रावण वापरून मोजनळी धुवा म्हणजे मोजनळीत ओलावा राहणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="34out">
+	<TEXT ID="34out_one">
+	<TEXTVALUE>मोजनळी बेसिन मध्ये धरा आणि स्टॉप-कॉक उघडा म्हणजे मोजनळीतले उरलेले द्रावण पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="35back">
+	<TEXT ID="35back_one">
+	<TEXTVALUE>मोजनळी स्टँडवर उभी लावा आणि मोजनळीच्या तोंडाशी नरसाळे लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36km2">
+	<TEXT ID="36km2_one">
+	<TEXTVALUE>KMnO4 असलेली बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37bt">
+	<TEXT ID="37bt_one">
+	<TEXTVALUE>नरसाळे वापरून मोजनळीत त्याच्या शून्य चिन्हापर्यन्त KMnO4 ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38fi">
+	<TEXT ID="38fi_one">
+	<TEXTVALUE>मोजनळीच्या खाली एक चंचुपात्र ठेवा आणि स्टॉप-कॉक उघडा म्हणजे पोटाशियम परमॅंगनेट चंचुपात्रात पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39lo">
+	<TEXT ID="39lo_one">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक शून्य करा. (KMnO4 साठी मोजनळीचे वाचनांक सीमा पृष्ठाच्या वरच्या पातळीचे घ्या)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40bak">
+	<TEXT ID="40bak_one">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक शून्य करा. (KMnO4 साठी मोजनळीचे वाचनांक सीमा पृष्ठाच्या वरच्या पातळीचे घ्या)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="41fla">
+	<TEXT ID="41fla_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून थोडेसे मोहर क्षार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42face">
+	<TEXT ID="42face_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून थोडेसे मोहर क्षार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43f2">
+	<TEXT ID="43f2_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून थोडेसे मोहर क्षार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="44rot">
+	<TEXT ID="44rot_one">
+	<TEXTVALUE>मग मोहर क्षार वापरून शोषनलिका धुवा म्हणजे शोषनलिकेत ओलावा राहणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45fo">
+	<TEXT ID="45fo_one">
+	<TEXTVALUE>शोषनलिका बेसिन मध्ये न्या आणि उरलेले द्रावण ओतून द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46nj">
+	<TEXT ID="46nj_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके मोहर क्षार मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47f4">
+	<TEXT ID="47f4_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके मोहर क्षार मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="48vali">
+	<TEXT ID="48vali_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके मोहर क्षार मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="492k">
+	<TEXT ID="492k_one">
+	<TEXTVALUE>हळू हळू बोट सरकवून, आकारमान २० मिली पर्यन्त आणा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="49lk">
+	<TEXT ID="49lk_one">
+	<TEXTVALUE>२० मिली मोहर क्षार द्रावण शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="49zoom">
+	<TEXT ID="49zoom_one">
+	<TEXTVALUE>शोषनलिकेच्या टोकाने शंक्वाकृती चंबूच्या बुडाला स्पर्श करा म्हणजे शोषनलिकेतले उरलेले द्रावण चंबूत पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="50dil">
+	<TEXT ID="50dil_one">
+	<TEXTVALUE>एक परिक्षा नळी भरून विरल H2SO4 घ्या. ( सुमारे २० मिली) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51tub">
+	<TEXT ID="51tub_one">
+	<TEXTVALUE>एक परिक्षा नळी भरून विरल H2SO4 घ्या. ( सुमारे २० मिली) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="52fl">
+	<TEXT ID="52fl_one">
+	<TEXTVALUE>मोहर क्षार द्रावण असलेल्या शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53t1">
+	<TEXT ID="53t1_one">
+	<TEXTVALUE>शंक्वाकृती चंबू एका पांढर्याभ टाईल वर मोजनळीच्या खाली ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="54Scene71">
+	<TEXT ID="54Scene71_one">
+	<TEXTVALUE>आता त्याचे आणि KMnO4 द्रावणाचे उदासीनीकरण करा. KMnO4 द्रावणाच्या शेवटच्या थेंबाने  शंक्वाकृती चंबूतले द्रावण फिकट गुलाबी रंगाचे होत नाही तोपर्यंत उदासीनीकरण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="55Scene72">
+	<TEXT ID="55Scene72_one">
+	<TEXTVALUE>शेवटचा मोजनळी वाचनांक बघा आणि सुसंवादी मूल्ये मिळत नाही तोपर्यंत तीच प्रक्रिया परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="112chart">
+	<TEXT ID="112chart_one">
+	<TEXTVALUE>निरीक्षणे तक्त्यात लिहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>निरीक्षणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>मोजनळीचे अंतिम 
+वाचनांक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE>वापरलेल्या KMNo4 चे 
+आकारमान (मिली)</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="113Calculations">
+	<TEXT ID="113Calculations_one">
+	<TEXTVALUE>मोहर क्षार द्रावणाच्या आकरमानाची, मोहर क्षार द्रावणाच्या ग्राम रेणुकतेची आणि पोटाशियम परमॅंगनेटच्या आकारमानाची नोंद करा. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_two">
+	<TEXTVALUE>ऑकसेलिक आम्ल आणि पोटाशियम परमॅंगनेट मधील अभिक्रियेच्या रेणु समीकरणावरून असे दिसते की  पोटाशियम परमॅंगनेटचे २ मोल आणि मोहर क्षारचे १० मोल ह्यांची अभिक्रिया होते.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_three">
+	<TEXTVALUE>ग्राम रेणुकता समीकरण वापरून दिलेल्या पोटाशियम परमॅंगनेट द्रावणाची ग्राम रेणुकता परिगणित करता येते.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Calculations_four">
+	<TEXTVALUE>पोटाशियम परमॅंगनेटची ग्राम रेणुकता आणि पोटाशियम परमॅंगनेटचे मोलर वस्तुमान यांचा गुणाकार म्हणजे दिलेल्या पोटाशियम परमॅंगनेट द्रावणाची शक्ती. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>परिगणन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>Volume of Mohr’s salt = 20 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_12">
+	<TEXTVALUE>Molarity of Mohr’s salt= 0.05 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>KMNo4 द्रावणाचे आकारमान = 21.2 मिली</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>KMnO4 आणि मोहर क्षार मधील अभीक्रिया आहे,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>म्हणून दिलेल्या KMnO4 ची ग्राम रेणुकता आहे,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>ग्राम रेणुकता समीकरण
+
+(KMnO4 चे आकारमान x KMnO4 ची ग्राम रेणुकता)
+(मोहर क्षाराचे आकारमान x मोहर क्षाराची ग्राम रेणुकता)
+(KMnO4 च्या मोलची संख्या)
+(मोहर क्षाराच्या मोलची संख्या)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_18">
+	<TEXTVALUE>KMnO4 चे मोलर वस्तुमान = 158 ग्राम/मोल
+म्हणून, दिलेल्या KMnO4 ची शक्ती
+=KMnO4 ची ग्राम रेणुकता x KMnO4 चे मोलर वस्तुमान
+=०.००९४x१५८=१.४८५२ ग्राम/लिटर
+</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="string_b1">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="56title">
+	<TEXT ID="56title_one">
+	<TEXTVALUE>ऑक्सेलिक आम्लाचे मानक द्रावण तयार करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_19">
+	<TEXTVALUE>ऑक्सेलिक आम्लाचे मानक द्रावण तयार करणे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="57intro">
+	<TEXT ID="57intro_one">
+	<TEXTVALUE>आवश्यक सामग्री: २५० मिली शंक्वाकृती चंबू, २५० मिली मानक चंबू, मोहर क्षार स्फटिके, २५० मिली चंचुपात्र, ऊर्ध्वपतित पाणी, नरसाळे, वजन करण्याची बाटली, इलेक्ट्रॉनिक काटा, विरल H2SO4, </TEXTVALUE>
+	
+	</TEXT>
+
+	<TEXT ID="57intro_two">
+	<TEXTVALUE>ऑक्सेलिक आम्ल, KMnO4 द्रावण, मोजनळी, स्टँड, २० मिली शोषनलिका, परिक्षा नळी, स्पाट्युला, काचेचा रॉड, पांढरी टाईल, तिवई, तार गोझ, बन्सेन बर्नर इत्यादि.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_20">
+	<TEXTVALUE>ऑक्सेलिक आम्लाची स्फटिके </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_21">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="58botil">
+	<TEXT ID="58botil_one">
+	<TEXTVALUE>वजन करण्याची बाटली इलेक्ट्रॉनिक काट्यावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59weing">
+	<TEXT ID="59weing_one">
+	<TEXTVALUE>Tवजन करण्याची बाटली इलेक्ट्रॉनिक काट्यावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60tare">
+	<TEXT ID="60tare_one">
+	<TEXTVALUE>काटा शून्यावर आणा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61Mohrssalt">
+	<TEXT ID="61Mohrssalt_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडीशी ऑक्सेलिक आम्लाची स्फटिके घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62open">
+	<TEXT ID="62open_one">
+	<TEXTVALUE>वजन करण्याच्या बाटलीत टाका </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63view">
+	<TEXT ID="63view_one">
+	<TEXTVALUE>सुमारे 3.15 ऑक्सेलिक आम्लाची वजन करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64go">
+	<TEXT ID="64go_one">
+	<TEXTVALUE>काट्यावरून वजन करण्याची बाटली काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65Scene75">
+	<TEXT ID="65Scene75_one">
+	<TEXTVALUE>सामग्री २५० मिली चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="65Scene75_two">
+	<TEXTVALUE>ऊर्ध्वपतित पाण्याने वजन करण्याची बाटली धुवा म्हणजे त्याला चिकटलेले कण चंचुपात्रात जातील. (ही प्रक्रिया २ किंवा ३ वेळा करा).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="665sta">
+	<TEXT ID="665sta_one">
+	<TEXTVALUE>धुण्यासाठी वापरलेले पाणी चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="665sta_two">
+	<TEXTVALUE>चंचुपात्रातली ऑक्सेलिक आम्लाची स्फटिके काचेचा रॉडने ढवळा म्हणजे ती विरघळतील.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6716tk">
+	<TEXT ID="6716tk_one">
+	<TEXTVALUE>संपूर्ण द्रावण नरसाळे आणि काचेचा रॉड वापरून चंचुपात्रातून २५० मिली मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6816ro">
+	<TEXT ID="6816ro_one">
+	<TEXTVALUE>चंचुपात्र ऊर्ध्वपतित पाण्याने धुवा म्हणजे चंचुपात्रात कुठलेही कण उरणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6917fl">
+	<TEXT ID="6917fl_one">
+	<TEXTVALUE>धुण्यासाठी वापरलेले पाणी मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7018rod">
+	<TEXT ID="7018rod_one">
+	<TEXTVALUE>काचेचा रॉड पण धुवा. आता नरसाळे आणि त्याचे टोक ऊर्ध्वपतित पाण्याने नीट धुवा आणि नरसाळ्यात अडकलेले द्रावण मानक चंबूत ओता. धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूत कोरलेल्या चिन्हापर्यन्त ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7119wash">
+	<TEXT ID="7119wash_one">
+	<TEXTVALUE>काचेचा रॉड पण धुवा. आता नरसाळे आणि त्याचे टोक ऊर्ध्वपतित पाण्याने नीट धुवा आणि नरसाळ्यात अडकलेले द्रावण मानक चंबूत ओता. धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूत कोरलेल्या चिन्हापर्यन्त ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7119wash_two">
+	<TEXTVALUE>धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूत कोरलेल्या चिन्हापर्यन्त ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7220p1">
+	<TEXT ID="7220p1_one">
+	<TEXTVALUE>शोषनलिका वापरून थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7321fi">
+	<TEXT ID="7321fi_one">
+	<TEXTVALUE>शोषनलिका वापरून थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7422p1">
+	<TEXT ID="7422p1_one">
+	<TEXTVALUE>शोषनलिका वापरून थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7523h">
+	<TEXT ID="7523h_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7624p2">
+	<TEXT ID="7624p2_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7724pzoom">
+	<TEXT ID="7724pzoom_one">
+	<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7825cork">
+	<TEXT ID="7825cork_one">
+	<TEXTVALUE>चंबुला बूच लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7926mix">
+	<TEXT ID="7926mix_one">
+	<TEXTVALUE>हळू हलवा म्हणजे ऑक्सेलिक आम्लाची द्रावण एकसारखे होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8027rest">
+	<TEXT ID="8027rest_one">
+	<TEXTVALUE>तयार केलेल्या ऑक्सेलिक आम्लाची द्रावणाची ग्राम रेणुकता 0.01 M आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81titration">
+	<TEXT ID="81titration_one">
+	<TEXTVALUE>KMnO4 द्रावणाची संहत तीव्रतारेणुकता निर्धारित करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_22">
+	<TEXTVALUE>KMnO4 द्रावणाची संहत तीव्रता रेणुकता निर्धारित करणे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="8228brret">
+	<TEXT ID="8228brret_one">
+	<TEXTVALUE>एक स्वच्छ मोजनळी स्टँडला लावा आणि मोजनळीच्या तोंडाशी एक नरसाळे ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8329km">
+	<TEXT ID="8329km_one">
+	<TEXTVALUE>पोटाशियम परमॅंगनेट KMnO4 असलेली बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8430but">
+	<TEXT ID="8430but_one">
+	<TEXTVALUE>नरसाळे वापरून मोजनळीत थोडेसे KMnO4 द्रावण ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8531tub">
+	<TEXT ID="8531tub_one">
+	<TEXTVALUE>नरसाळे काढून टाका आणि मोजनळी स्टँड वरून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8632r1">
+	<TEXT ID="8632r1_one">
+	<TEXTVALUE>KMnO4 द्रावण वापरून मोजनळी धुवा म्हणजे मोजनळीत ओलावा राहणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8733rot">
+	<TEXT ID="8733rot_one">
+	<TEXTVALUE>KMnO4 द्रावण वापरून मोजनळी धुवा म्हणजे मोजनळीत ओलावा राहणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8834out">
+	<TEXT ID="8834out_one">
+	<TEXTVALUE>मोजनळी बेसिन मध्ये धरा आणि स्टॉप-कॉक उघडा म्हणजे मोजनळीतले उरलेले द्रावण पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8935back">
+	<TEXT ID="8935back_one">
+	<TEXTVALUE>मोजनळी स्टँडवर उभी लावा आणि मोजनळीच्या तोंडाशी नरसाळे लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9036km2">
+	<TEXT ID="9036km2_one">
+	<TEXTVALUE>KMnO4 असलेली बाटली घ्या. नरसाळे वापरून मोजनळीत त्याच्या शून्य चिन्हापर्यन्त KMnO4 ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9137bt">
+	<TEXT ID="9137bt_one">
+	<TEXTVALUE>KMnO4 असलेली बाटली घ्या. नरसाळे वापरून मोजनळीत त्याच्या शून्य चिन्हापर्यन्त KMnO4 ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9238fi">
+	<TEXT ID="9238fi_one">
+	<TEXTVALUE>मोजनळीच्या खाली एक चंचुपात्र ठेवा आणि स्टॉप-कॉक उघडा म्हणजे पोटाशियम परमॅंगनेट चंचुपात्रात पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9339lo">
+	<TEXT ID="9339lo_one">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक शून्य करा. (KMnO4 साठी मोजनळीचे वाचनांक सीमा पृष्ठाच्या वरच्या पातळीचे घ्या)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9440bak">
+	<TEXT ID="9440bak_one">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक शून्य करा. (KMnO4 साठी मोजनळीचे वाचनांक सीमा पृष्ठाच्या वरच्या पातळीचे घ्या)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9541fla">
+	<TEXT ID="9541fla_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून ऑक्सेलिक आम्लाची घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9642face">
+	<TEXT ID="9642face_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून ऑक्सेलिक आम्लाची घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9743f2">
+	<TEXT ID="9743f2_one">
+	<TEXTVALUE>२० मिली शोषनलिका वापरून ऑक्सेलिक आम्लाची घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9844rot">
+	<TEXT ID="9844rot_one">
+	<TEXTVALUE>मग ऑक्सेलिक आम्लाचीवापरून शोषनलिका धुवा म्हणजे शोषनलिकेत ओलावा राहणार नाही. (ही प्रक्रिया २ किंवा ३ वेळा करा)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9945fo">
+	<TEXT ID="9945fo_one">
+	<TEXTVALUE>शोषनलिका बेसिन मध्ये न्या आणि उरलेले द्रावण ओतून द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10046nj">
+	<TEXT ID="10046nj_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके ऑक्सेलिक आम्लाची मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10147f4">
+	<TEXT ID="10147f4_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके ऑक्सेलिक आम्लाची मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10248vali">
+	<TEXT ID="10248vali_one">
+	<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या चिन्हापर्यन्त जाईल इतके ऑक्सेलिक आम्लाची मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="103492k">
+	<TEXT ID="103492k_one">
+	<TEXTVALUE>हळू हळू बोट सरकवून, आकारमान २० मिली पर्यन्त आणा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10449lk">
+	<TEXT ID="10449lk_one">
+	<TEXTVALUE>२० मिली ऑक्सेलिक आम्ल द्रावण शंक्वाकृती चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="1040k">
+	<TEXT ID="1040k_one">
+	<TEXTVALUE>२० मिली ऑक्सेलिक आम्ल द्रावण शंक्वाकृती चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10550dil">
+	<TEXT ID="10550dil_one">
+	<TEXTVALUE>एक परिक्षा नळी भरून विरल H2SO4 घ्या. ( सुमारे २० मिली) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10651tub">
+	<TEXT ID="10651tub_one">
+	<TEXTVALUE>एक परिक्षा नळी भरून विरल H2SO4 घ्या. ( सुमारे २० मिली) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10752fl">
+	<TEXT ID="10752fl_one">
+	<TEXTVALUE>ऑक्सेलिक आम्ल द्रावण असलेल्या शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10852flcopy">
+	<TEXT ID="10852flcopy_one">
+	<TEXTVALUE>शंक्वाकृती चंबू बर्नर वर ठेवलेल्या तार गोझ वर ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="10852flcopy_two">
+	<TEXTVALUE>६०-७० डिग्री सेल्सियस पर्यन्त चंबू गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10953t1">
+	<TEXT ID="10953t1_one">
+	<TEXTVALUE>शंक्वाकृती चंबू मोजनळी खाली एका पांढरी टाईलवर ठेवा. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110Scene711">
+	<TEXT ID="110Scene711_one">
+	<TEXTVALUE>आता त्याचे आणि KMnO4 द्रावणाचे उदासीनीकरण करा. KMnO4 द्रावणाच्या शेवटच्या थेंबाने  शंक्वाकृती चंबूतले द्रावण फिकट गुलाबी रंगाचे होत नाही तोपर्यंत उदासीनीकरण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111Scene72">
+	<TEXT ID="111Scene72_one">
+	<TEXTVALUE>शेवटचा मोजनळी वाचनांक बघा आणि सुसंवादी मूल्ये मिळत नाही तोपर्यंत तीच प्रक्रिया परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="112ch">
+	<TEXT ID="112ch_one">
+	<TEXTVALUE>निरीक्षणे तक्त्यात लिहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_23">
+	<TEXTVALUE>निरीक्षणे </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_24">
+	<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_25">
+	<TEXTVALUE>शेवटचा मोजनळी वाचनांक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_26">
+	<TEXTVALUE>वापरलेल्या KMNo4 चे 
+आकारमान (मिली)
+</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="113Ca">
+	<TEXT ID="113Ca_one">
+	<TEXTVALUE>ऑक्सेलिक आम्ल द्रावणाच्या आकरमानाची, ऑक्सेलिक आम्ल द्रावणाच्या ग्राम रेणुकतेची आणि पोटाशियम परमॅंगनेटच्या आकारमानाची नोंद करा. </TEXTVALUE>
+	</TEXT>
+
+
+	<TEXT ID="113Ca_two">
+	<TEXTVALUE>ऑकसेलिक आम्ल आणि पोटाशियम परमॅंगनेट मधील अभिक्रियेच्या रेणु समीकरणावरून असे दिसते की  पोटाशियम परमॅंगनेटचे २ मोल आणि मऑक्सेलिक आम्ल १० मोल ह्यांची अभिक्रिया होते.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_three">
+	<TEXTVALUE>ग्राम रेणुकता समीकरण वापरून दिलेल्या पोटाशियम परमॅंगनेट द्रावणाची ग्राम रेणुकता परिगणित करता येते.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="113Ca_four">
+	<TEXTVALUE>पोटाशियम परमॅंगनेटची ग्राम रेणुकता आणि पोटाशियम परमॅंगनेटचे मोलर वस्तुमान यांचा गुणाकार म्हणजे दिलेल्या पोटाशियम परमॅंगनेट द्रावणाची शक्ती.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_27">
+	<TEXTVALUE>गणना</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_28">
+	<TEXTVALUE>विश्लेष्यचे ऑक्सेलिक आम्ल = 20 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_29">
+	<TEXTVALUE>ओक्सालिक आम्लाची ग्राम रेणुकता = ०.१ M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_30">
+	<TEXTVALUE>KMNo4 द्रावणाचे आकारमान  = 16 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_31">
+	<TEXTVALUE>KMnO4 आणि ओक्सालिक आम्ल या मधील अभिक्रिया आहे,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_32">
+	<TEXTVALUE>ग्राम रेणुकता समीकरणानुसार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_33">
+	<TEXTVALUE>(KMnO4 चे आकारमान x KMnO4 ची ग्राम रेणुकता)
+(ओक्सालिक आम्लाची आकारमान ×ओक्सालिक आम्लाची ग्राम रेणुकता )
+(KMnO4 च्या मोलची संख्या)
+(ओक्सालिक आम्ल  मोलची संख्या)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_34">
+	<TEXTVALUE>16x KMnO4 ची ग्राम रेणुकता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_35">
+	<TEXTVALUE>म्हणून दिलेल्या KMnO4 ची ग्राम रेणुकता आहे,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_36">
+	<TEXTVALUE>KMnO4 चे मोलर वस्तुमान  = 158 ग्राम/मोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_37">
+	<TEXTVALUE>म्हणून, दिलेल्या KMnO4 ची शक्ती
+ =KMnO4 ची ग्राम रेणुकता x KMnO4 चे मोलर वस्तुमान
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_b2">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

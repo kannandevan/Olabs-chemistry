@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H\n"
+"POT-Creation-Date: 2013-12-12 15:06+0530\n"
+"PO-Revision-Date: 2015-09-11 10:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Distinguish Between Solutions"
+msgstr "विलयनों के बीच भेद|"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "मदद"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "पूर्ण स्क्रीन"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"आईटी विभाग से अनुसंधान अनुदान के तहत सीडैक<br> मुंबई और अमृता विश्वविद्यालय द्वारा विकसित"
+
+#: simcontrols.js:15
+msgid "Select the property"
+msgstr "गुण का चयन करें"
+
+#: simcontrols.js:15
+msgid "Select the solution to be tested"
+msgstr "परीक्षण किए जाने वाले विलयन का चयन करे|"
+
+#: simcontrols.js:15
+msgid "Reset"
+msgstr "रीसेट"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "True solutions"
+msgstr "वास्तविक विलयन"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Suspensions"
+msgstr "निलंबन"
+
+#: simcontrols.js:15 simcontrols.js:24
+msgid "Colloids"
+msgstr "कोलाइड"
+
+#: simcontrols.js:16
+msgid ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for "
+"checking <br> the transparency of true solution."
+msgstr ""
+"वास्तविक विलयन की पारदर्शिता <br>जांचने के लिए सिलोफ़न कागज को परखनली में<br>रखे "
+"विलयनों के पीछे खींचे| "
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of suspension."
+msgstr ""
+"निलंबन की पारदर्शिता जांचने के लिए<br>सिलोफ़न कागज पर क्लिक करे और परखनली<br>में रखे "
+"विलयनों के पीछे खींचे| "
+
+#: simcontrols.js:16
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test "
+"tubes for checking <br> the transparency of colloid."
+msgstr ""
+"कोलाइड की पारदर्शिता जांचने<br>के लिए सिलोफ़न कागज पर क्लिक करे और परखनली<br>में रखे "
+"विलयनों के पीछे खींचे| "
+
+#: simcontrols.js:17
+msgid ""
+"Drag the test tube and pour the solution into the <br> test tube through the "
+"funnel and glass rod."
+msgstr "परखनली को खींचे और विलयन को कीप<br>और गिलास छड़ से होते हुए  परखनली में डाले | "
+
+#: simcontrols.js:17
+msgid ""
+"Click on the funnel to see the <br> zoomed view of the filter paper content."
+msgstr "फिलटर कागज़ के नज़दीक दृश्य<br>देखने के लिए कीप पर क्लिक करे| "
+
+#: simcontrols.js:18
+msgid ""
+"Click on on the start button to wait<br>  for 20 minutes for the "
+"particles<br> in the solution to settle."
+msgstr "कणों  के बसाव के लिए  मिनट की<br>प्रतीक्षा करने के लिए शुरू बटन पर क्लिक करे|"
+
+#: simcontrols.js:19
+msgid "Drag the test tube to fit it in the stand."
+msgstr "स्टैंड में रखने के लिए टेस्ट ट्यूब खींचें।"
+
+#: simcontrols.js:19
+msgid "Drag the light source to view tyndall effect clearly."
+msgstr "स्पष्ट रूप से टिंडाल  प्रभाव देखने के लिए प्रकाश स्रोत खींचें।"
+
+#: simcontrols.js:20
+msgid "A true solution is transparent."
+msgstr "एक वास्तविक विलयन पारदर्शी है।"
+
+#: simcontrols.js:20
+msgid "A suspension is opaque."
+msgstr "एक निलंबन अपारदर्शी है।"
+
+#: simcontrols.js:20
+msgid "A colloid is a translucent."
+msgstr "एक कोलॉइड एक पारभासी है।"
+
+#: simcontrols.js:21
+msgid ""
+"Solid particles cannot be separated from <br>true solution by filtration."
+msgstr "ठोस कणों को निस्पंदन द्वारा वास्तविक<br>विलयन से अलग नहीं किया जा सकता है।"
+
+#: simcontrols.js:21
+msgid "Suspended components of suspension <br> can be separated by filtration."
+msgstr "निलंबन के निलंबित घटकों को निस्पंदन<br>द्वारा अलग किया जा सकता है।"
+
+#: simcontrols.js:21
+msgid "Components causing colloid cannot be <br> separated by filtration."
+msgstr "कोलाइड के कारणकारी घटक निस्पंदन <br>द्वारा अलग नहीं किया जा सकता है।"
+
+#: simcontrols.js:22
+msgid ""
+"The true solutions are stable and do not<br> show the depositions of "
+"components."
+msgstr "वास्तविक विलयन  स्थिर रहते हैं और<br>उनमे घटकों का निक्षेपण नहीं दिखता।"
+
+#: simcontrols.js:22
+msgid "Suspension is unstable and show <br>settlement of heavier particles."
+msgstr "सस्पेंशन अस्थिर भारी रहते हैं और<br>उनमे भारी कणों का निक्षेपण दिखता है| "
+
+#: simcontrols.js:22
+msgid ""
+"Colloids are stable. Their solute particles <br>do not settle down when left "
+"undisturbed."
+msgstr "कोलाइड स्थिर रहे हैं। अबाधित छोड़<br>देने पर  विलेय के कण बसते नहीं है।"
+
+#: simcontrols.js:23
+msgid ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is "
+"present in its molecular size.  Because of <br>this small size,the solute "
+"particles do not scatter the <br>light passed through the solution. "
+msgstr ""
+"वास्तविक विलयन में विलेय पूरी तरह से विलायक में घुल<br>जाता है और अपनी आणविक आकार में "
+"मौजूद है। इस वजह से<br>छोटे आकार के, विलेय के कण विलयन के माध्यम से <br>पारित प्रकाश को "
+"नहीं बिखराते है।"
+
+#: simcontrols.js:23
+msgid ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</"
+"sup> cm or larger.Because of the large size of the <br>particles, "
+"suspensions do not show Tyndall effect."
+msgstr ""
+"एक निलंबन में कणों का आकार  <br>of 10<sup>-5</sup> cm या उससे बड़े है| कणों के बड़े आकार "
+"की वजह से,<br>निलंबन टिंडाल प्रभाव नहीं दिखाते है।"
+
+#: simcontrols.js:23
+msgid ""
+"When a strong beam of light is passed through a colloidal solution <br>the "
+"light is scattered by the particles of the colloid. Thus the <br>path of "
+"light is clearly visible in the colloid."
+msgstr ""
+"जब प्रकाश की एक मजबूत किरण को एक कोलाइडयन विलयन के माध्यम<br>से पारित किया जाता "
+"है,  प्रकाश कोलाइड के कणों से बिखर जाते है।इस प्रकार<br>प्रकाश का मार्ग कोलाइड में स्पष्ट "
+"रूप से दिखता है | "
+
+#: simcontrols.js:25
+msgid "Transparency"
+msgstr "पारदर्शीता"
+
+#: simcontrols.js:25
+msgid "Filtrations"
+msgstr "निस्पंदन"
+
+#: simcontrols.js:25
+msgid "Stability"
+msgstr "स्थिरता"
+
+#: simcontrols.js:25
+msgid "Tyndall effect"
+msgstr "टिंडाल प्रभाव"
+
+#: simcontrols.js:44
+msgid "min"
+msgstr "min"
+
+#: simcontrols.js:44
+msgid "sec"
+msgstr "sec"
+
+#: simcontrols.js:44
+msgid "ms"
+msgstr "ms"
+
+#: simcontrols.js:45
+msgid "START"
+msgstr "शुरू"
+
+#: simcontrols.js:45
+msgid "STOP"
+msgstr "रोकिए"
+
+#: simcontrols.js:47
+msgid "Sugar"
+msgstr "चीनी"
+
+#: simcontrols.js:47
+msgid "Salt"
+msgstr "नमक"
+
+#: simcontrols.js:47
+msgid "Alum"
+msgstr "फिटकिरी"
+
+#: simcontrols.js:48
+msgid "Soil"
+msgstr "मिट्टी"
+
+#: simcontrols.js:48
+msgid "Chalk"
+msgstr "चाक"
+
+#: simcontrols.js:48
+msgid "Sand"
+msgstr "रेत"
+
+#: simcontrols.js:49
+msgid "Starch"
+msgstr "स्टार्च"
+
+#: simcontrols.js:49
+msgid "Egg Albumin"
+msgstr "अंडे अन्नसार"
+
+#~ msgid "True solutions do not show Tyndall effect."
+#~ msgstr "यह सच है समाधान टिंडाल प्रभाव नहीं दिखा है."
+
+#~ msgid "Suspensions do not show Tyndall effect."
+#~ msgstr "निलंबन टिंडाल प्रभाव नहीं दिखा है."
+
+#~ msgid "Light is scattered by the particles of the colloid."
+#~ msgstr "लाइट कोलाइड के कणों से बिखरे हुए है."

@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+
+
+<SCENE ID="Reactivity_Met_Title">
+	<TEXT ID="Reactivity_Met_Title_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Reactivity_Met_Title_string1">
+	 	<TEXTVALUE>Reactivity of Metals</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Reactivity_Met_Title_string_2">
+	 	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4_Buttons_Metals">
+	<TEXT ID="4_Buttons_Metals_one">
+	 	<TEXTVALUE>Click one of them.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_3">
+	 	<TEXTVALUE>Reactivity of Metals</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_4">
+	 	<TEXTVALUE>Zinc</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_5">
+	 	<TEXTVALUE>Aluminum</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_6">
+	 	<TEXTVALUE>Copper</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_7">
+	 	<TEXTVALUE>Iron</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_8">
+	 	<TEXTVALUE>Order of Reactivity</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4_Buttons_Metals_string_9">
+	 	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Zinc_S1">
+	<TEXT ID="Zinc_S1_one">
+	 	<TEXTVALUE>Take about 20 ml of 1M solution of copper sulphate, aluminium sulphate and ferrous sulphate in three different beakers, and some zinc metal pieces in a watch glass.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_two">
+	 	<TEXTVALUE>Take some zinc metal pieces using a forceps.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_three">
+	 	<TEXTVALUE>Using a forceps add 2 pieces of zinc into the beakers containing ferrous sulphate, aluminium sulphate and copper sulphate solutions.</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_four">
+	 	<TEXTVALUE>Leave the beakers undisturbed for 1 hour and note the changes in colour of the solutions and the appearance of the metal.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Zinc_S1_five">
+	 	<TEXTVALUE>The blue colour of CuSO4 disappears and red-brown particles of copper settles down at the bottom of the beaker. </TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Zinc_S1_five1">
+		<TEXTVALUE>This indicates that Zn is more reactive than Cu and it can displace Cu from CuSO4 solution to form a colourless solution of (ZnSO4).</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="Zinc_S1_six">
+	 	<TEXTVALUE>In the case of aluminium sulphate solution, no change is observed. Because Zn is less reactive than Al so it cannot displace Al from Al2(SO4)3 solution.</TEXTVALUE>
+	</TEXT>
+	
+			<TEXT ID="Zinc_S1_seven">
+	 	<TEXTVALUE>In the case of (FeSO4) solution, the green colour of ferrous sulphate disappears and iron particles settle down at the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Zinc_S1_seven1">
+	 	<TEXTVALUE>This indicates that Zn is more reactive than Fe and it can displace Fe from (FeSO4) solution and form a colourless solution of (ZnSO4).</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_10">
+	 	<TEXTVALUE>Copper Sulphate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_11">
+	 	<TEXTVALUE>Aluminium Sulphate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_12">
+	 	<TEXTVALUE>Ferrous Sulphate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_13">
+	 	<TEXTVALUE>Zinc</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_14">
+	 	<TEXTVALUE>1 hour</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zinc_S1_string_15">
+	 	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<SCENE ID="Copper_S2 ">
+	<TEXT ID="Copper_S2_one">
+	 	<TEXTVALUE>Take about 20ml of zinc sulphate, aluminium sulphate and ferrous sulphate solutions in three different beakers, and some copper metal pieces in a watch glass.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_two">
+	 	<TEXTVALUE>Using a forceps add 2 pieces of copper into the beaker containing ferrous sulphate, aluminium sulphate and zinc sulphate solutions.</TEXTVALUE>
+	</TEXT>
+
+	
+	
+
+	<TEXT ID="Copper_S2_three">
+	 	<TEXTVALUE>Leave the beakers undisturbed for 1 hour and note the changes in colour of the solutions and the appearance of the metal.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+	<TEXT ID="Copper_S2_four">
+	 	<TEXTVALUE>There is no change in the colour of the three salt solutions as well as the appearance of the metal pieces.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Copper_S2_four1">
+	 	<TEXTVALUE>This reaction indicates that Cu is less reactive than the other three metals Al, Zn and Fe so it cannot displace these metals from their salt solutions.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_16">
+	 	<TEXTVALUE>Zinc Sulphate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Copper_S2_string_17">
+	 	<TEXTVALUE>Copper</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+<SCENE ID="Aluminium_S3">
+	<TEXT ID="Aluminium_S3_one">
+	 	<TEXTVALUE>Take about 20ml of copper sulphate, zinc sulpahte and ferrous sulphate solutions in three different beakers, and some aluminium metal pieces in a watch glass.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_two">
+	 	<TEXTVALUE>Using a forceps add 2 pieces of aluminium into the beaker containing ferrous sulphate, zinc sulphate and copper sulphate solutions.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="Aluminium_S3_three">
+	 	<TEXTVALUE>Leave the beakers undisturbed for 1 hour and note the changes in colour of the solutions and the appearance of the metal.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Aluminium_S3_four">
+	 	<TEXTVALUE>In the case of CuSO[sub]4[/sub] solution, the blue colour of CuSO[sub]4[/sub] disappears and red-brown particles of Cu settle down at the bottom of the beaker. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_four1">
+	 	<TEXTVALUE>This indicates that Al is more reactive than Cu and it can displace Cu from CuSO[sub]4[/sub] solution and form a colourless solution of Al[sub]2[/sub](SO[sub]4[/sub])[sub]3[/sub]. </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Aluminium_S3_five">
+	 	<TEXTVALUE>In the case of zinc sulphate solution, the solution remains colourless and Zn particles settle down at the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_five1">
+	 	<TEXTVALUE>This indicates that Al is more reactive than Zn and it can displace Zn from ZnSO[sub]4[/sub] solution and form a colourless solution of Al[sub]2[/sub](SO[sub]4[/sub])[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="Aluminium_S3_six">
+	 	<TEXTVALUE>In the case of ferrous sulphate solution, the green colour of ferrous sulphate disappears and iron particles settle down at the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Aluminium_S3_six1">
+	 	<TEXTVALUE>This indicates that Al is more reactive than Fe and it can displace Fe from FeSO[sub]4[/sub] solution and form a colourless solution of Al[sub]2[/sub](SO[sub]4[/sub])[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Aluminium_S3_string_18">
+	 	<TEXTVALUE>Aluminium</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Iron_S4">
+	<TEXT ID="Iron_S4_one">
+	 	<TEXTVALUE>Take about 20ml of copper sulpahte, zinc sulphate and aluminium sulpahte solutions in three different beakers, and some iron metal pieces in a watch glass.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+<TEXT ID="Iron_S4_two">
+	 	<TEXTVALUE>Using a forceps add 2 pieces of iron into the beakers containing aluminium sulphate, zinc sulphate and copper sulphate solutions.</TEXTVALUE>
+	</TEXT>	
+	
+	
+	<TEXT ID="Iron_S4_three">
+	 	<TEXTVALUE>The blue colour of CuSO[sub]4[/sub] solution changes to light green and red-brown particles of Cu settle at the bottom of the beaker.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_three1">
+	 	<TEXTVALUE>This indicates that Fe is more reactive than Cu and it can displace Cu from CuSO[sub]4[/sub] solution and form a light green coloured FeSO[sub]4[/sub] solution.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Iron_S4_four">
+	 	<TEXTVALUE>In the other two cases, there is no change. This indicates that Fe is less reactive than the other two metals Al and Zn so it cannot displace these metals from their salt solutions.</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="Iron_S4_string_19">
+	 	<TEXTVALUE>Iron</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+	
+
+
+<SCENE ID="MetalFinal">
+	<TEXT ID="MetalFinal_one">
+	 	<TEXTVALUE>From these reactions we can infer that Fe displaces Cu, Zn displaces Cu and Fe, and Al displaces Zn, from the salt solutions. So Al is the most reactive and Cu the least reactive metal. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MetalFinal_string_20">
+	 	<TEXTVALUE>The order of reactivity of the given metals</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_21">
+	 	<TEXTVALUE>More Reactive</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_22">
+	 	<TEXTVALUE>Least Reactive</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="MetalFinal_string_23">
+	 	<TEXTVALUE>Ractivity in decreasing order</TEXTVALUE>
+	</TEXT>	
+	
+	</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

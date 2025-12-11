@@ -1,0 +1,443 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-13 15:26+0530\n"
+"PO-Revision-Date: 2016-05-03 09:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:37
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols_main.js:41
+msgid "Preparation of Inorganic Compounds"
+msgstr "അകാര്‍ബണിക സംയുക്തങ്ങള്‍ തയാറാക്കല്‍"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate(7g)"
+msgstr "ഫെറസ്  സൾഫേറ്റ് (7g)"
+
+#: simcontrols_main.js:43
+msgid "Ammonium Sulphate(3.5g)"
+msgstr "അമോണിയം സൾഫേറ്റ് (3.5g)"
+
+#: simcontrols_main.js:43
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>(3ml)"
+msgstr "നേർപ്പിച്ച H<sub>2</sub>SO<sub>4</sub>(3ml)"
+
+#: simcontrols_main.js:43
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: simcontrols_main.js:43
+msgid "Hot water(20ml)"
+msgstr "ചൂടുവെള്ളം(20ml)"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate+ Ammonium Sulphate"
+msgstr "ഫെറസ്  സൾഫേറ്റ്+അമോണിയം സൾഫേറ്റ്"
+
+#: simcontrols_main.js:43
+msgid "Crystallising dish"
+msgstr "ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രം "
+
+#: simcontrols_main.js:43
+msgid "Cold water"
+msgstr "തണുത്ത വെള്ളം "
+
+#: simcontrols_main.js:43
+msgid "Ferrous Ammonium Sulphate Crystals"
+msgstr "ഫെറസ് അമോണിയം സൾഫേറ്റ് ക്രിസ്റ്റലുകൾ"
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol"
+msgstr "ഈഥൈൽ ആൽക്കഹോൾ "
+
+#: simcontrols_main.js:43
+msgid "Filter papers"
+msgstr "ഫിൽട്ടർ പേപ്പർ"
+
+#: simcontrols_main.js:43
+msgid "30 minutes"
+msgstr "30 മിനിട്ട് "
+
+#: simcontrols_main.js:43
+msgid "Crystals of Potash Alum"
+msgstr "പൊട്ടാഷ് ആലത്തിന്റെ ക്രിസ്റ്റലുകൾ "
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol+ Cold Water"
+msgstr "ഈഥൈൽ ആൽക്കഹോൾ + തണുത്ത വെള്ളം "
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate (2.5g)"
+msgstr "പൊട്ടാസ്യം സൾഫേറ്റ്  (2.5g)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate(10g)"
+msgstr "അമോണിയം സൾഫേറ്റ് (10g)"
+
+#: simcontrols_main.js:44
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>(1ml)"
+msgstr "നേർപ്പിച്ച H<sub>2</sub>SO<sub>4</sub>(1ml)"
+
+#: simcontrols_main.js:44
+msgid "Water(20ml)"
+msgstr "വെള്ളം (20ml)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate Solution"
+msgstr "അലുമിനിയം സൾഫേറ്റ് ലായനി "
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate Solution"
+msgstr "പൊട്ടാസ്യം സൾഫേറ്റ് ലായനി "
+
+#: simcontrols_main.js:44
+msgid "China Dish & Glass Rod"
+msgstr "കളിമൺപാത്രം & ഗ്ലാസ് ദണ്ഡ് "
+
+#: simcontrols_main.js:44
+msgid "Thin Crust"
+msgstr "നേർത്ത പുറംതോട്"
+
+#: simcontrols_main.js:45
+msgid "Ferric Chloride(3.5g)"
+msgstr "ഫെറിക് ക്ലോറൈഡ് (3.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(50ml)"
+msgstr "ജലം (50ml)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Hydroxide(4g)"
+msgstr "പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ്(4g)"
+
+#: simcontrols_main.js:45
+msgid "Glass Rod"
+msgstr "ഗ്ലാസ് ദണ്ഡ് "
+
+#: simcontrols_main.js:45
+msgid "Ferric hydroxide precipitate"
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം "
+
+#: simcontrols_main.js:45
+msgid "Filter paper"
+msgstr "ഫിൽട്ടർ പേപ്പർ"
+
+#: simcontrols_main.js:45
+msgid "Buchner Funnel"
+msgstr "ബുക്നെർ ഫണൽ"
+
+#: simcontrols_main.js:45
+msgid "Oxalic Acid(4g)"
+msgstr "ഓക്സാലിക് ആസിഡ് (4g)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Oxalate(5.5g)"
+msgstr "പൊട്ടാസ്യം ഓക്സലേറ്റ് (5.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(100ml)"
+msgstr "ജലം (100ml)"
+
+#: simcontrols_main.js:45
+msgid "Precipitate of Ferric Hydroxide"
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം "
+
+#: simcontrols_main.js:45
+msgid "Black Paper"
+msgstr "കറുത്ത പേപ്പർ "
+
+#: simcontrols_main.js:45
+msgid "Cold Water"
+msgstr "തണുത്ത വെള്ളം "
+
+#: simcontrols_main.js:45
+msgid "Potassium Trioxalatoferrate(III)"
+msgstr "പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് (III)"
+
+#: simcontrols_main.js:47
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols_main.js:51
+msgid "Select the compound: "
+msgstr "സംയുക്തം തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:52
+msgid "Ferrous Ammonium Sulphate"
+msgstr "ഫെറസ് അമോണിയം സൾഫേറ്റ് "
+
+#: simcontrols_main.js:52
+msgid "Potash Alum"
+msgstr "പൊട്ടാഷ് ആലം "
+
+#: simcontrols_main.js:52
+msgid "Potassium trioxalatoferrate(III)"
+msgstr "പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് (III)"
+
+#: simcontrols_main.js:53
+msgid "Drag the watch glass to the beaker<br>to put ferrous sulphate into it."
+msgstr "പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് "
+
+#: simcontrols_main.js:53
+msgid "Drag the watch glass to the beaker<br>to add ammonium sulphate to it."
+msgstr "അമോണിയം സൾഫേറ്റ് ബീക്കറിലേക്ക് ചേർക്കാൻ വാച്ച് ഗ്ലാസ് അതിന്റെം അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:53
+msgid "Drag the measuring jar to the beaker<br>to pour 3 ml dil. H<sub>2</sub>SO<sub>4</sub> into it."
+msgstr "നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ് ബീക്കറിലേക്ക് ചേർക്കാൻ വാച്ച് ഗ്ലാസ് അതിന്റെച അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:54
+msgid "Drag the beaker to pour hot water into<br>the beaker containing ferrous sulphate<br>and ammonium sulphate."
+msgstr "ചൂടുവെള്ളം ഫെറസ് സൾഫേറ്റും അമോണിയം സൾഫേറ്റും അടങ്ങിയ ബീക്കറിലേക്ക് ഒഴിക്കാൻ ബീക്കർ അതിന്റെഫ അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:54
+msgid "Drag the glass rod to the beaker<br>to stir the contents."
+msgstr "ലായനി ഇളക്കാനായി ഗ്ലാസ് ദണ്ഡ് ബീക്കറിന്റെഅ അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:54 simcontrols_main.js:61
+msgid "Drag the beaker to the funnel to<br>filter the solution."
+msgstr "ലായനി അരിക്കാനായി ബീക്കർ ഫണലിന്റെന അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:55 simcontrols_main.js:58 simcontrols_main.js:62
+msgid "Click on the knob of the burner<br>to turn it on."
+msgstr "ബർണർ ഓണാക്കാനായി അതിന്റെ  നോബിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols_main.js:55
+msgid "Drag the glass rod to the china dish<br>to stir the solution."
+msgstr "ലായനി ഇളക്കാനായി ഗ്ലാസ് ദണ്ഡ് കളിമൺപാത്രത്തിലേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:55
+msgid "Drag the china dish to the crystallising dish<br>to transfer the solution into it."
+msgstr "ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രത്തിലേക്ക് ലായനി മാറ്റുന്നതിനായി കളിമൺപാത്രം അതിലേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:55
+msgid "Drag the watch glass to the crystallising dish<br>to cover the dish with it."
+msgstr "ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രത്തിലേക്ക് ലായനി മാറ്റുന്നതിനായി കളിമൺപാത്രം അതിലേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:55
+msgid "Drag the crystallising dish to the cold water<br>trough to place the dish in it."
+msgstr "ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രം തൊട്ടിയിൽ വെക്കുന്നതിനായി അതു തണുത്ത വെള്ളത്തിലേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:56
+msgid "Drag the crystallising dish to the beaker<br>to decant the mother liquor into it."
+msgstr "ബീക്കറിലേക്ക് മാതൃ ലിക്കർ ഒഴിക്കുന്നതിനായി അതിന്റെത അടുത്തേക്ക് ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രം കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:56
+msgid "Drag the bottle to the crystallising dish<br>to wash the crystals with ethyl alcohol."
+msgstr "ഈഥൈൽ ആൽക്കഹോൾ ഉപയോഗിച്ച് ക്രിസ്റ്റലുകൾ കഴികുന്നതിനായി ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രത്തിലേക്ക് കുപ്പി കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:56
+msgid "Drag the crystallising dish to<br>the filter paper to transfer<br>the crystals into it."
+msgstr "ഫിൽട്ടർ പേപ്പറിലേക്ക് ക്രിസ്റ്റലുകൾ മാറ്റുന്നതിനായി ക്രിസ്റ്റലൈസ് ചെയ്യുന്ന പാത്രം അതിലേക്കു കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:56 simcontrols_main.js:63
+msgid "Drag the filter paper to the filter paper<br>containing crystals to dry the crystals."
+msgstr "ക്രിസ്റ്റലുകൾ ഉണങ്ങുന്നതിനായി ക്രിസ്റ്റലുകൾ അടങ്ങിയ ഫിൽട്ടർ പേപ്പറിലേക്ക് ഫിൽട്ടർ പേപ്പർ കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:56
+msgid "Drag the filter paper to the watch glass<br>to transfer the crystals."
+msgstr "ക്രിസ്റ്റലുകൾ മാറ്റുന്നതിനായി വാച്ച് ഗ്ലാസ്സിലേക്ക് ഫിൽട്ടർ പേപ്പർ കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:57
+msgid "Drag the watch glass to the beaker to add<br>potassium sulphate into the distilled water."
+msgstr "പൊട്ടാസ്യം സൾഫേറ്റ് ശുദ്ധീകരിച്ച വെള്ളത്തിലേക്ക് ചേർക്കുന്നതിനായി വാച്ച് ഗ്ലാസ് ബീക്കറിലേക്കു കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:57
+msgid "Drag the watch glass to the beaker to add<br>aluminium sulphate to the distilled water."
+msgstr "അലുമിനിയം സൾഫേറ്റ് ശുദ്ധീകരിച്ച വെള്ളത്തിലേക്ക് ചേർക്കുന്നതിനായി വാച്ച് ഗ്ലാസ്സ് ബീക്കറിലേക്കു കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:57
+msgid "Drag the measuring jar to the beaker to<br>pour 1 ml dil. dil. H<sub>2</sub>SO<sub>4</sub> into it."
+msgstr "1 മി.ലി. നേർപ്പിച്ച സൾഫ്യൂരിക് ആസിഡ് ബീക്കറിലേക്ക് ഒഴിക്കുന്നതിനായി അളവു ജാർ ബീക്കറിലേക്കു കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:58
+msgid "Drag the beaker to the burner to heat<br>aluminium sulphate solution."
+msgstr "അലുമിനിയം സൾഫേറ്റ് ലായനി ചൂടാക്കാനായി ബീക്കർ ബർണറിലേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:58
+msgid "Drag the beaker to the china dish to transfer<br>aluminium sulphate solution into it."
+msgstr "അലുമിനിയം സൾഫേറ്റ് ലായനി കളിമൺപാത്രത്തിലേക്കു മാറ്റുന്നതിനായി ബീക്കർ അതിനടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:58
+msgid "Drag the beaker to the china dish to transfer<br>potassium sulphate solution to it."
+msgstr "പൊട്ടാസ്യം സൾഫേറ്റ് ലായനി കളിമൺപാത്രത്തിലേക്ക് മാറ്റുന്നതിനായി ബീക്കർ അതിനടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:59
+msgid "Drag the watch glass to the beaker to add<br>ferric chloride into the distilled water."
+msgstr "ഫെറിക്ക് ക്ലോറൈഡ് ശുദ്ധീകരിച്ച വെള്ളത്തിലേക്ക് ചേർക്കുന്നതിന് വാച്ച് ഗ്ലാസ് ബീക്കറിനടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:59
+msgid "Drag the watch glass to the beaker to add<br>potassium hydroxide to the distilled water."
+msgstr "പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് ശുദ്ധീകരിച്ച വെള്ളത്തിലേക്ക് ചേർക്കാൻ വാച്ച് ഗ്ലാസ് ബീക്കറിനടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:59
+msgid "Drag the glass rod to the beaker<br>to stir the contents"
+msgstr "ബീക്കറിലെ ലായനി ഇളക്കുന്നതിന് ഗ്ലാസ് ദണ്ഡ് അതിന്റെി അടുത്തേക്കു കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:59
+msgid "Drag the beaker to add potassium hydroxide<br>solution to the beaker containing ferric<br>chloride solution."
+msgstr "ഫെറിക്ക് ക്ലോറൈഡ് ലായനി അടങ്ങിയ ബീക്കറിലേക്ക് പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡ് ലായനി ചേർക്കുന്നതിനായി ബീക്കർ കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:60
+msgid "Drag the filter paper to the Buchner funnel<br>to place it in the funnel"
+msgstr "ഫിൽട്ടർ പേപ്പർ ബുക്നർ ഫണലിൽ വെക്കുന്നതിന് പേപ്പർ അതിന്റെു അടുത്തേക്ക് കൊണ്ടുവരിക"
+
+#: simcontrols_main.js:60
+msgid "Drag the beaker to the Buchner funnel<br>to filter the contents of the beaker."
+msgstr "ബീക്കറിലെ ലായനി അരിച്ചെടുക്കുന്നതിനായി ബീക്കർ ബുക്നർ ഫണലിന്റെെ അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:61
+msgid "Drag the watch glass to the beaker to add<br>hydrated oxalic acid into the distilled water."
+msgstr "ഹൈഡ്രേറ്റ് ചെയ്ത് ഓക്സാലിക് ആസിഡ് ശുദ്ധീകരിച്ച വെള്ളത്തിൽ ചേർക്കുന്നതിന് വാച്ച് ഗ്ലാസ് ബീക്കറിന്റെക അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:61
+msgid "Drag the watch glass to the beaker to add<br>hydrated potassium oxalate to the beaker."
+msgstr "ഹൈഡ്രേറ്റ് ചെയ്ത പൊട്ടാസ്യം ഓക്സലേറ്റ് ബീക്കറിലേക്ക് ചേർക്കാൻ വാച്ച് ഗ്ലാസ് ബീക്കറിന്റെ് അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:61
+msgid "Drag the watch glass to the beaker to add<br>ferric hydroxide precipitate."
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം ചേർക്കാനായി വാച്ച് ഗ്ലാസ് ബീക്കറിന്റെര അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:62
+msgid "Drag the glass rod to the china dish to<br>stir the solution."
+msgstr "ലായനി ഇളക്കാനായി കളിമൺപാത്രത്തിലേക്ക് ഗ്ലാസ് ദണ്ഡ് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:62
+msgid "Drag the china dish to the cold water trough<br> to place the dish in it."
+msgstr "ജലത്തൊട്ടിയിൽ കളിമൺപാത്രം വെക്കുന്നതിനായി അതു തൊട്ടിയുടെ അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:62
+msgid "Drag the black paper to the cold water trough<br>to cover the china dish with it."
+msgstr "കളിമൺപാത്രം മൂടുന്നതിനായി തണുത്ത വെള്ളമുള്ള തൊട്ടിയിലേക്ക് കറുത്ത പേപ്പർ കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:63
+msgid "Drag the bottle to the china dish to<br>wash the crystals with ethyl alcohol."
+msgstr "ഈഥൈൽ ആൽക്കഹോൾ ഉപയോഗിച്ച് ക്രിസ്റ്റലുകൾ കഴുകാനായി കുപ്പി കളിമൺപാത്രത്തിന്റെത അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:63
+msgid "Drag the china dish to the filter paper<br>to transfer the crystals."
+msgstr "ക്രിസ്റ്റലുകൾ ഫിൽട്ടർ പേപ്പറിലേക്കു മാറ്റുന്നതിനായി കളിമൺപാത്രം പേപ്പറിന്റെക അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:63
+msgid "Drag the filter paper to the watch glass<br>to transfer the crystals into it."
+msgstr "വാച്ച് ഗ്ലാസ്സിലേക്ക് ക്രിസ്റ്റലുകൾ മാറ്റുന്നതിനായി ഫിൽട്ടർ പേപ്പർ ഗ്ലാസ്സിന്റെ് അടുത്തേക്ക് കൊണ്ടുവരിക."
+
+#: simcontrols_main.js:64
+msgid "The crystals of ferrous ammonium sulphate are<br>light green in colour and are monoclinic in shape."
+msgstr "ഫെറസ് അമോണിയം സൾഫേറ്റ് ക്രിസ്റ്റലുകൾക്ക് ഇളം പച്ചനിറവും മോണോക്ലിനിക് രൂപവും ആണുള്ളത്."
+
+#: simcontrols_main.js:64
+msgid "The crystals of potash alum are colourless, transparent<br>crystals and are octahedral in shape."
+msgstr "പൊട്ടാഷ് ആലത്തിന്റെയ ക്രിസ്റ്റലുകൾ നിറമില്ലാത്തവയും സുതാര്യവും അഷ്ടവശങ്ങളോടു കൂടിയവയും ആണ്."
+
+#: simcontrols_main.js:64
+msgid "Potassium trioxalatoferrate (III) are green in<br>colour and are octahedral in shape."
+msgstr "പൊട്ടാസ്യം ട്രയോക്സലേറ്റോഫെറേറ്റ് (III) പച്ച നിറമുള്ളവുയം അഷ്ടവശങ്ങളോടു കൂടിയവും ആണ്."
+
+#: simcontrols_main.js:64
+msgid "Precipitate of ferric hydroxide filtered<br>through the Buchner funnel."
+msgstr "ബുക്നെർ ഫണൽവഴി അരിച്ചെടുത്ത ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:64
+msgid "Ferric chloride reacts with potassium hydroxide<br> to form brown precipitate of ferric hydroxide."
+msgstr "ഫെറിക് ക്ലോറൈഡ് പൊട്ടാസ്യം ഹൈഡ്രോക്സൈഡുമായി പ്രതിപ്രവർത്തിച്ച് ബ്രൗൺനിറത്തിലുള്ള ഫെറിക് ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(3ml)"
+#~ msgstr "നേർപ്പിച്ച H<sub>2</sub>SO<sub>4</sub>(3ml)"
+
+#~ msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(1ml)"
+#~ msgstr "നേർപ്പിച്ച  H<sub>2</sub>SO<sub>4</sub>(1ml)"
+
+#~ msgid "Complex Potassium Ferric Oxalate"
+#~ msgstr "Complex Potassium Ferric Oxalate"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Detection of Starch in Food Samples"
+#~ msgstr "Detection of Starch in Food Samples"
+
+#~ msgid "Carrot extract"
+#~ msgstr "Carrot extract"
+
+#~ msgid "Wheat"
+#~ msgstr "Wheat"
+
+#~ msgid "Apple extract"
+#~ msgstr "Apple extract"
+
+#~ msgid "Egg white"
+#~ msgstr "Egg white"
+
+#~ msgid "Tomato extract "
+#~ msgstr "Tomato extract "
+
+#~ msgid "Oats"
+#~ msgstr "Oats"
+
+#~ msgid "Potato extract"
+#~ msgstr "Potato extract"
+
+#~ msgid "Bread piece"
+#~ msgstr "Bread piece"
+
+#~ msgid "Drag the dropper to the bottle to replace it."
+#~ msgstr "Drag the dropper to the bottle to replace it."
+
+#~ msgid "Select type of the test:"
+#~ msgstr "Select type of the test:"
+
+#~ msgid "Iodine test"
+#~ msgstr "Iodine test"
+
+#~ msgid "Result:  Presence of Starch"
+#~ msgstr "Result:  Presence of Starch"
+
+#~ msgid "Carrot"
+#~ msgstr "Carrot"
+
+#~ msgid "Apple"
+#~ msgstr "Apple"
+
+#~ msgid "Egg"
+#~ msgstr "Egg"
+
+#~ msgid "Tomato"
+#~ msgstr "Tomato"
+
+#~ msgid "Potato"
+#~ msgstr "Potato"
+
+#~ msgid "Bread"
+#~ msgstr "Bread"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Iodine Solution"
+#~ msgstr "Iodine Solution"

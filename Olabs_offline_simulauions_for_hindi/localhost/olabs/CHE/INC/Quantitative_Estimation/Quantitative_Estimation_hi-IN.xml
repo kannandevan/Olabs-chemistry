@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="Scene 72">
+	<TEXT ID="Scene 72_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_1">
+		<TEXTVALUE>मात्रात्मक अनुमान</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_2">
+		<TEXTVALUE>स्टार्ट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>सोडियम कार्बोनेट के मानक घोल को तैयार करना ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_3">
+		<TEXTVALUE>सोडियम कार्बोनेट के मानक घोल
+को तैयार करना ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>हमें 25 मिलीलीटर का स्टैन्डर्ड फ्लास्क, 250 मिलीलीटर का कोनिकल फ्लॉस्क, ठोस सोडियम कार्बोनेट, हाइड्रोक्लोरिक अम्ल (HCl), मिथाईल ओरेंज, वेईंग बॉटल, इलेक्ट्रानिक तराजू, फनल, ग्लॉस रॉड, ब्यूरेट, 20 मिलीलीटर का पिपेट इत्यादि का आवश्यकता होती है ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_4">
+		<TEXTVALUE>आसवित जल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lebel_5">
+		<TEXTVALUE>मिथाईल ओंरेज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_6">
+		<TEXTVALUE>सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+		<TEXTVALUE>सर्वप्रथम एक वेइंग बॉटल लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+		<TEXTVALUE>इसका एक इलेक्ट्रिक तराजू पर भार लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+		<TEXTVALUE>संतुलन करें। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5sodiam">
+	<TEXT ID="5sodiam_one">
+		<TEXTVALUE>एक स्पूचलाकी मदद से सोडियम कार्बोनेट की थोडी मात्रा लें। 	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+		<TEXTVALUE>सोडियम कार्बोनेट की थोडी मात्रा लेकर उसे वेइंग बॉटल में डालें ।  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+		<TEXTVALUE>2.65 ग्राम सोडियम कार्बोनेट को तोलें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+		<TEXTVALUE>इसके बाद तराजू से वेइंग बॉटल को हटा लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+		<TEXTVALUE>भार की गयी सोडियम कार्बोनेट की मात्रा को सावाधानीपूर्वक 250 मिलीलीटर के बीकर में डालें । आसवित जल से वेइंग बॉटल को धोवें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11pour">
+	<TEXT ID="11pour_one">
+		<TEXTVALUE>इस वाशिंग अर्थात पानी से धोने की प्रक्रिया 2 से 3 बार करें । एक साफ ग्लास रॉड से सोडियम कार्बोनेट को बीकर में घुलने तक लगातार हिलाते रहें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12sta">
+	<TEXT ID="12sta_one">
+		<TEXTVALUE>बीकर से तरल पदार्थ को 200 मिलीलीटर के स्टैन्डर्ड फ्लॉस्क में एक फनल और ग्लॉस रॉड की सहायता से निकालें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13tk">
+	<TEXT ID="13tk_one">
+		<TEXTVALUE>बीकर से तरल पदार्थ को 200 मिलीलीटर के स्टैन्डर्ड फ्लॉस्क में एक फनल और ग्लॉस रॉड की सहायता से निकालें ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13tk_two">
+		<TEXTVALUE>बीकर  को 2 से 3 बार आसवित जल से धोऐं </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="141">
+	<TEXT ID="141_one">
+		<TEXTVALUE>ग्लॉस रॉड को भी जल से धोते हुए बीकर को धोने पर मिले आसवित जल को मानक फ्लॉस्क में पलटें  ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16botil">
+	<TEXT ID="16botil_one">
+		<TEXTVALUE>अंत में फनल को धोऐं तथा उसके टिप को आसवित जल से अच्छी तरह धोते हुए पानी को मानक फ्लॉस्क में निकाल लें । अब वॉश बॉटल की मदद से सावधानीपूर्वक मानक फ्लॉस्क में आसवित जल को  अंशाकन चिन्ह से नीचे तक भर दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17face">
+	<TEXT ID="17face_one">
+		<TEXTVALUE>एक साफ पीपेट की मदद से आसवित जल की थोडी मात्रा को पीपेट करें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="18zoom">
+	<TEXT ID="18zoom_one">
+		<TEXTVALUE>एक मानक फ्लॉस्क लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19finger">
+	<TEXT ID="19finger_one">
+		<TEXTVALUE>एक मानक फ्लॉस्क लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20tak1">
+	<TEXT ID="20tak1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22out">
+	<TEXT ID="22out_one">
+		<TEXTVALUE>पीपेट की सहायता से आसवित जल की कुछ बूंदे तक तक मिलायें जब तक मेनीकस का निम्न स्तर मानक चिन्ह तक न पहुंच जाये ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23zoom">
+	<TEXT ID="23zoom_one">
+		<TEXTVALUE>पीपेट की सहायता से आसवित जल की कुछ बूंदे तक तक मिलायें जब तक मेनीकस का निम्न स्तर मानक चिन्ह तक न पहुंच जाये ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="24corck">
+	<TEXT ID="24corck_one">
+		<TEXTVALUE>मानक फ्लॉस्क पर स्टॉपर कार्क लगायें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26rot2">
+	<TEXT ID="26rot2_one">
+		<TEXTVALUE>सोडियम कार्बोनेट घोल को एक सार करने के लिए अच्छी तरह से हिलायें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla1">
+	<TEXT ID="38fla1_one">
+		<TEXTVALUE>इस प्रकार तैयार सोडियम कार्बोनेट घोल की अणुकता 0.1 एम (0.1 मोलर या अणुक) हो जाएगी ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_7">
+		<TEXTVALUE>0.1 M सोडियम
+कार्बोनेट घोल </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2 intro">
+	<TEXT ID="Scene2 intro_one">
+		<TEXTVALUE>एक मानक सोडियम कार्बोनेट घोल के उपयोग से दिए गए हाइड्रोक्लोरिक अम्ल की सांद्रता की ज्ञात करना ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_8">
+		<TEXTVALUE>एक मानक सोडियम कार्बोनेट घोल के उपयोग से दिए गए हाइड्रोक्लोरिक अम्ल की सांद्रता की ज्ञात करना ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="27stand">
+	<TEXT ID="27stand_one">
+		<TEXTVALUE>एक ब्यूरेट स्टैंड पर एक साफ ब्यूरेट को कसें तथा एक फनल को ब्यूरेट के मुंह पर रखें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl">
+	<TEXT ID="28hcl_one">
+		<TEXTVALUE>हाइड्रोक्लोरिक अम्ल वाली बॉटल से फनल के द्वारा ब्यूरेट में अम्ल को उडेलें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="29stad2">
+	<TEXT ID="29stad2_one">
+		<TEXTVALUE>अब फनल को हटा लें तथा स्टैंड से ब्यूरेट को उठा लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30bak">
+	<TEXT ID="30bak_one">
+		<TEXTVALUE>ब्यूरेट में किसी भी प्रकार की नमी को हटा |</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="31burot">
+	<TEXT ID="31burot_one">
+		<TEXTVALUE>ब्यूरेट को हाइड्रोक्लोरिक अम्ल से अच्छी तरह से धोऐ ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32zoom">
+	<TEXT ID="32zoom_one">
+		<TEXTVALUE>ब्यूरेट को हाइड्रोक्लोरिक अम्ल से अच्छी तरह से धोऐ ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="33wash">
+	<TEXT ID="33wash_one">
+		<TEXTVALUE>ब्यूरेट के स्टाप कार्क को हटाकर सिंक में ब्यूरेट से सभी तरल पदार्थ को निकाल दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34bak1">
+	<TEXT ID="34bak1_one">
+		<TEXTVALUE>ब्यूरेट स्टैंड पर ब्यूरेट को लम्बवत फिट कर फनल को ब्यूरेट के मुंह पर रखें । ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl copy">
+	<TEXT ID="28hcl copy_one">
+		<TEXTVALUE>अब हाइड्रोक्लोरिक अम्ल को ब्यूरेट में शून्य चिन्ह | उपर तक फनल की सहायता से भर दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29stad2 copy">
+	<TEXT ID="29stad2 copy_one">
+		<TEXTVALUE>अब हाइड्रोक्लोरिक अम्ल को ब्यूरेट में शून्य चिन्ह | उपर तक फनल की सहायता से भर दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37full">
+	<TEXT ID="37full_one">
+		<TEXTVALUE>अब हाइड्रोक्लोरिक अम्ल को ब्यूरेट में शून्य चिन्ह | उपर तक फनल की सहायता से भर दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="371fl copy">
+	<TEXT ID="371fl copy_one">
+		<TEXTVALUE>एक बीकर को ब्यूरेट के नीचे रख कर धीरे धीरे स्टॉप कार्क को हटायें ताकि हाइड्रोक्लोरिक अम्ल बीकर से बाहर निकल सके तब ब्यूरेट की प्रारंभिक रीडिंग शून्यपर करें । </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36stad21 copy">
+	<TEXT ID="36stad21 copy_one">
+		<TEXTVALUE>एक बीकर को ब्यूरेट के नीचे रख कर धीरे धीरे स्टॉप कार्क को हटायें ताकि हाइड्रोक्लोरिक अम्ल बीकर से बाहर निकल सके तब ब्यूरेट की प्रारंभिक रीडिंग शून्यपर करें । </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl copy copy">
+	<TEXT ID="53fl copy copy_one">
+		<TEXTVALUE>एक बीकर को ब्यूरेट के नीचे रख कर धीरे धीरे स्टॉप कार्क को हटायें ताकि हाइड्रोक्लोरिक अम्ल बीकर से बाहर निकल सके तब ब्यूरेट की प्रारंभिक रीडिंग शून्यपर करें । </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla">
+	<TEXT ID="38fla_one">
+		<TEXTVALUE>एक 20 मिलीलीटर का पीपेट लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17face copy">
+	<TEXT ID="17face copy_one">
+		<TEXTVALUE>सोडियम कार्बोनेट की थोडी सी मात्रा को पीपेट करें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40faz">
+	<TEXT ID="40faz_one">
+		<TEXTVALUE>सोडियम कार्बोनेट की थोडी सी मात्रा को पीपेट करें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="410zoom5">
+	<TEXT ID="410zoom5_one">
+		<TEXTVALUE>पीपेट में मौजूद नमी को सोडियम कार्बोनेट तरल की सहायता से हटा दें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42washpip">
+	<TEXT ID="42washpip_one">
+		<TEXTVALUE>notext.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla">
+	<TEXT ID="43fla_one">
+		<TEXTVALUE>अब स्टैन्डर्ड फ्लॉस्क से सोडियम कार्बोनेट तरल को तब तक पीपेट करें जब तक कि तरल का स्तर पीपेट में अंशाकनचिन्ह के ठीक उपर न आ जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla copy">
+	<TEXT ID="43fla copy_one">
+		<TEXTVALUE> अब स्टैन्डर्ड फ्लॉस्क से सोडियम कार्बोनेट तरल को तब तक पीपेट करें जब तक कि तरल का स्तर पीपेट में अंशाकनचिन्ह के ठीक उपर न आ जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="40faz copy">
+	<TEXT ID="40faz copy_one">
+		<TEXTVALUE>अब स्टैन्डर्ड फ्लॉस्क से सोडियम कार्बोनेट तरल को तब तक पीपेट करें जब तक कि तरल का स्तर पीपेट में अंशाकनचिन्ह के ठीक उपर न आ जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23">
+	<TEXT ID="46faz23_one">
+		<TEXTVALUE>पीपेट के खुले सिरे को माध्यिका उंगली की सहायता से बंद करें । धीरे धीरे उंगली खोले ताकि तरल पदार्थ बाहर निकल सके यह तब तक करें जब तक कि मेनीसक्स का निचला सिरा अंशाकनचिन्ह तक न आ जाए । इस प्रकार तरल पदार्थ का आयतन 20 मिलीलीटर होना चाहिए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23 copy">
+	<TEXT ID="46faz23 copy_one">
+		<TEXTVALUE>अब 20 मिलीलीटर सोडियम कार्बोनेट विलेय को एक साफ कोनिकल फ्लॉस्क में निकालें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="47faz23zo">
+	<TEXT ID="47faz23zo_one">
+		<TEXTVALUE>कोनिकल फ्लॉस्क के पेंदे के साथ पीपेट के टिप को लगायें ताकि पीपेट से बचा हुआ तरल पदार्थ भी फ्लॉस्क में चला जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49org">
+	<TEXT ID="49org_one">
+		<TEXTVALUE>मिथाईल ओरेंज संकेतक की थोड़ी सी मात्रा लें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="49org1">
+	<TEXT ID="49org1_one">
+		<TEXTVALUE>कोनिकल फ्लॉस्क में मिथाईल ओरेंज संकेतक की कुछ बूंदें मिलायें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50org1">
+	<TEXT ID="50org1_one">
+		<TEXTVALUE>कोनिकल फ्लॉस्क में रखे घोल का रंग पीला हो जाएगा ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52full1">
+	<TEXT ID="52full_one">
+		<TEXTVALUE>इस कोनिकल फ्लॉस्क को एक सफेद टाइल पर ब्यूरेट के नीचे रखें जिससे रंग में परिवर्तन स्पष्ट दिखाई दे ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl">
+	<TEXT ID="53fl_one">
+		<TEXTVALUE>ब्यूरेट से कोनिकल फ्लॉस्क में तरल पदार्थ को बूंद बूंद डालें तथा फ्लॉस्क को लगातार हिलायें ताकि हाइड्रोक्लोरिक अम्ल की एक बूंद मिलाने पर तरल का रंग पीले से लाल रंग का हो जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54viu">
+	<TEXT ID="54viu_one">
+		<TEXTVALUE>अंतिम ब्यूरेट रीडिंग को नोट करें और तब तक यह प्रक्रिया दोहराते रहे जब तक कि इच्छित मान प्राप्त न हो जाए ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart">
+	<TEXT ID="chart_one">
+		<TEXTVALUE>एक तालिका कॉलम में अवलोकन को रिकॉर्ड करें ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_9">
+		<TEXTVALUE>अवलोकन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_10">
+		<TEXTVALUE>एक तालिका कॉलम में अवलोकन को रिकॉर्ड करें ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_11">
+		<TEXTVALUE>ब्यूरेट की प्रारंभिक
+रीडिंग </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_12">
+		<TEXTVALUE>अंतिम ब्यूरेट
+रीडिंग </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_13">
+		<TEXTVALUE>इस्तेमाल किया HCL
+के आयतन </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart1">
+	<TEXT ID="chart1_one">
+		<TEXTVALUE>सोडियम कार्बोनेट घोल के आयतन, सोडियम कार्बोनेट की अणुकता व हाइड्रोक्लोरिक अम्ल के आयतन को रिकार्ड करें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart1_two">
+		<TEXTVALUE>इस प्रतिक्रिया में प्रयुक्त प्रतिक्रियाकारक के अणुक की संख्या को संतुलित रासायनिक समीकरण से प्राप्त किए जा सकते हैं ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_14">
+		<TEXTVALUE>गणना:</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_15">
+		<TEXTVALUE>हाइड्रोक्लोरिक एसिड के बीच रासायनिक प्रतिक्रिया
+ और सोडियम कार्बोनेट , के रूप में प्रतिनिधित्व किया जा सकता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_01">
+		<TEXTVALUE>सोडियम कार्बोनेट घोल के आयतन = 20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_02">
+		<TEXTVALUE>सोडियम कार्बोनेट की अणुकता = 0.1 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_03">
+		<TEXTVALUE>व हाइड्रोक्लोरिक अम्ल के आयतन = 38 ml</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_one">
+		<TEXTVALUE>दिए गए हाइड्रोक्लोरिक अम्ल की अणुकता को अणुकता समीकरण से ज्ञात किया जा सकेगा ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_two">
+		<TEXTVALUE>दिए गए हाइड्रोक्लोरिक अम्ल की सांद्रता का निर्धारण दिए गए हाइड्रोक्लोरिक अम्ल की आणविकता के साथ  हाइड्रोक्लोरिक अम्ल के अणुओं के द्रव्यमान को गुणन कर प्राप्त किया जा सकेगा ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_16">
+		<TEXTVALUE>अणुकता समीकरण के अनुसार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_17">
+		<TEXTVALUE>इसलिये,,
+ दिए गए हाइड्रोक्लोरिक अम्ल की अणुकता =  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_18">
+		<TEXTVALUE>अणु भार HCl = 36.5 g/ mol</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_19">
+		<TEXTVALUE>इसलिये,दिए गए हाइड्रोक्लोरिक अम्ल की सांद्रता = हाइड्रोक्लोरिक अम्ल की अणुकता * हाइड्रोक्लोरिक अम्ल के अणुओं के द्रव्यमान </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_2">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_12">
+		<TEXTVALUE>मोल्स की संख्या HCl</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_13">
+		<TEXTVALUE>मोल्स की संख्या Na2CO3</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

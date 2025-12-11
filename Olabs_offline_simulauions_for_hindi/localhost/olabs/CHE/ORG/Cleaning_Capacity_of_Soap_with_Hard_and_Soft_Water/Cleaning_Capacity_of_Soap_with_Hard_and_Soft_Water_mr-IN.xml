@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_1">
+	<TEXTVALUE>हलक्या आणि जड पाण्यात साबणाची स्वच्छ करण्याची क्षमता
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_2">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab0">
+	<TEXT ID="Lab0_one">
+	<TEXTVALUE>आपल्याला चंचुपात्र, साबणाचे तुकडे, कापडाचे तुकडे, ऊर्ध्वपतित पाणी, विहीरीचे पाणी, 50 मिली मापन नळकांडे, 10 मिली मापन नळकांडे, मोजपट्टी, परिक्षा नलिका, काचेचे रॉड, शाई, कॅल्शियम क्लोराइड, आणि बन्सेन बर्नर.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_3">
+	<TEXTVALUE>साबणाचे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_4">
+	<TEXTVALUE>कापडाचे तुकडे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_5">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_6">
+	<TEXTVALUE>विहीरीचे पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_string_7">
+	<TEXTVALUE>शाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_8">
+	<TEXTVALUE>कॅल्शियम क्लोराइड[2g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_9">
+	<TEXTVALUE>चंचुपात्र</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_10">
+	<TEXTVALUE>साबणाचे तुकडे[1g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_11">
+	<TEXTVALUE>कापडाचे तुकडे 
+(5 cm x 5 cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_12">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_13">
+	<TEXTVALUE>विहीरीचे पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_14">
+	<TEXTVALUE>मापन नळकांडे
+ 50ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_15">
+	<TEXTVALUE>मापन नळकांडे
+ 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_16">
+	<TEXTVALUE> परिक्षा नलिका</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_17">
+	<TEXTVALUE>मोजपट्टी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_18">
+	<TEXTVALUE>शाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_19">
+	<TEXTVALUE>कॅल्शियम क्लोराइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_20">
+	<TEXTVALUE>बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_21">
+	<TEXTVALUE>काचेचे रॉड</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+
+
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेले चंचुपात्र घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>20 मिली ऊर्ध्वपतित पाणी मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>चंचुपात्र ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>विहीरीचे पाणी असलेले चंचुपात्र घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>दुसर्‍या मापन नळकांड्यात 20 मिली विहीरीचे पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_str_b1">
+	<TEXTVALUE>विहीरीचे पाणी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>चंचुपात्र बी मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>परत, 20 मिली ऊर्ध्वपतित पाणी मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>परत, 20 मिली ऊर्ध्वपतित पाणी मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>चंचुपात्र सी मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>2 ग्राम कॅल्शियम क्लोराइड घ्या</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या चंचुपात्र सी मध्ये ते टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>जो पर्यन्त कॅल्शियम क्लोराइड विरघळत नाही, तो पर्यन्त काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_str_b2">
+	<TEXTVALUE>काचेचे रॉड</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>1 ग्राम वजनाचे तीन साबणाचे तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>चंचुपात्र ए, बी आणि सी मध्ये एक एक साबणाचा तुकडा टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_two">
+	<TEXTVALUE>तीन काचेचे रॉड घ्या आणि प्रत्येक चंचुपात्रात एक टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>साबण विरघळेपर्यन्त काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>जर साबण विरघळला नाही, तर चंचुपात्र बन्सेन बर्नर वर ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_two">
+	<TEXTVALUE>चंचुपात्र हलके गरम करा, काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर दोन चंचुपात्रांसाठी पण करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर दोन चंचुपात्रांसाठी पण करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>तीन परिक्षा नलिका ए, बी, आणि सी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>साबणाचे द्रावण असलेले चंचुपात्र ए घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>मापन नळकांड्यात 10 मिली साबणाचे द्रावण ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>
+त्याला परिक्षा नळी ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>त्याला परिक्षा नळी ए मध्ये ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>तसेच 10 मिली साबणाचे द्रावण वेगवेगळे मापन नळकांडे वापरून चंचुपात्र बी मधून परिक्षा नळी बी मध्ये ओता, आणि चंचुपात्र सी मधून परिक्षा नळी सी मध्ये ओता</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab25_two">
+	<TEXTVALUE>मोजपट्टीने प्रत्येक परिक्षा नळीतली साबणाच्या द्रावणाची ऊंची मोजा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_str_b3">
+	<TEXTVALUE>मोजपट्टी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="lab26chart">
+	<TEXT ID="lab26chart_one">
+	<TEXTVALUE>त्यांची नोंद करा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_1">
+	<TEXTVALUE>साबणाचे द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_2">
+	<TEXTVALUE>साबणाच्या द्रावणाची मूळ 
+ऊंची (सेमी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_3">
+	<TEXTVALUE>निर्माण झालेल्या फेसाची 
+ऊंची (सेमी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_4">
+	<TEXTVALUE>साबणाच्या द्रावणाची अंतिम 
+ऊंची (सेमी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_5">
+	<TEXTVALUE>ऊर्ध्वपतित पाण्याबरोबर 
+(परिक्षा नळी ए मध्ये मृदुजल)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_6">
+	<TEXTVALUE>विहरीच्या पाण्याबरोबर 
+(परिक्षा नळी बी मध्ये कठीण पाणी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_7">
+	<TEXTVALUE>विहरीच्या पाण्याबरोबर (
+परिक्षा नळी बी मध्ये कठीण पाणी)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab27">
+	<TEXT ID="Lab27_one">
+	<TEXTVALUE>आता परिक्षा नळी ए घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab28">
+	<TEXT ID="Lab28_one">
+	<TEXTVALUE>परिक्षा नळी हातात धरा, आणि अंगठ्याने त्याचे तोंड बंद करा. 10 वेळा वर खाली हलवा.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab29">
+	<TEXT ID="Lab29_one">
+	<TEXTVALUE>तुम्हाला परिक्षा नळीत फेस निर्माण झालेला दिसेल.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab292">
+	<TEXT ID="Lab292_one">
+	<TEXTVALUE>हीच प्रक्रिया इतर दोन परिक्षा नळ्यांसाठी करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab292_two">
+	<TEXTVALUE>प्रत्येक परिक्षा नळीतील फेसाची ऊंची आणि साबणाच्या द्रावणाची अंतिम ऊंची मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="lab30chart2">
+	<TEXT ID="lab30chart2_one">
+	<TEXTVALUE>परिक्षा नळी ए मधील साबणाचे द्रावण सगळ्यात अधिक फेस निर्माण करते, त्या पेक्षा कमी परिक्षा नळी बी मधले द्रावण आणि परिक्षा नळी सी मधले द्रावण सगळ्यात कमी फेस निर्माण करते.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab31">
+	<TEXT ID="Lab31_one">
+	<TEXTVALUE>एक टाईल घ्या आणि त्यावर तीन पांढरे कापडाचे तुकडे ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab31_ab_1">
+	<TEXTVALUE>टाईल</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab32">
+	<TEXT ID="Lab32_one">
+	<TEXTVALUE>प्रत्येक तुकड्यावर एक थेंब शाई घाला आणि त्याला वाळू द्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Lab32_clc_1">
+	<TEXTVALUE>10 min</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab33">
+	<TEXT ID="Lab33_one">
+	<TEXTVALUE>टाईल वरून ते कापडी तुकडे उचला.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab34">
+	<TEXT ID="Lab34_one">
+	<TEXTVALUE>चंचुपात्र ए मध्ये उरलेल्या साबणाच्या द्रावणात एक कापडी तुकडा टाका, दूसरा चंचुपात्र बी मध्ये आणि तीसरा चंचुपात्र सी मध्ये.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab34_two">
+	<TEXTVALUE>10 मिनिटे ती चंचुपात्रे तशीच राहू द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab35">
+	<TEXT ID="Lab35_one">
+	<TEXTVALUE>आता चंचुपात्रातून ते तुकडे काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab361">
+	<TEXT ID="Lab361_one">
+	<TEXTVALUE>प्रत्येक तुकडा थोडासा घासा.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab36">
+	<TEXT ID="Lab36_one">
+	<TEXTVALUE>ए साबणाच्या द्रावणातल्या तुकड्यावरचा डाग जवळजवळ निघाला आहे, आणि बी साबणाच्या द्रावणातल्या तुकड्यावरचा डाग थोडासा निघाला आहे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab36_two">
+	<TEXTVALUE>सी साबणाच्या द्रावणातल्या तुकड्यावरचा डाग अजिबात निघालेला नाही, आणि कापडी तुकड्याच्या पृष्ठभागावर काही मळी जमली आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab38chart3">
+	<TEXT ID="lab38chart3_one">
+	<TEXTVALUE>असे दिसून येते की ऊर्ध्वपतित पाणी ( हलके पाणी) असलेल्या साबणाच्या द्रावणात सर्वाधिक स्वच्छ करण्याची क्षमता आहे. विहीरीतले पाणी ( जड पाणी) असलेल्या साबणाच्या द्रावणात हलक्या पाण्यापेक्षा कमी स्वच्छ करण्याची क्षमता आहे. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_two">
+	<TEXTVALUE>कॅल्शियम क्लोराइड विरघळलेले पाणी ( खूप जड पाणी) असलेल्या साबणाच्या द्रावणात सगळ्यात कमी स्वच्छ करण्याची क्षमता आहे. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_1">
+	<TEXTVALUE>कमाल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_2">
+	<TEXTVALUE> सर्वाधिक स्वच्छ करण्याची क्षमता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_3">
+	<TEXTVALUE>कमी ऊंची</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_4">
+	<TEXTVALUE>मृदु पाण्यापेक्षा कमी स्वच्छ 
+करण्याची क्षमता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_5">
+	<TEXTVALUE>किमान ऊंची</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_6">
+	<TEXTVALUE>कमी स्वच्छ करण्याची क्षमता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_las_1">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_fin_1">
+	<TEXTVALUE>स्वच्छ करण्याची क्षमता</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

@@ -1,0 +1,159 @@
+﻿<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>सेलच्या ईएमएफचे निर्धारण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene1">
+	<TEXT ID="zinc">
+	 <TEXTVALUE>झिंक पट्टी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper">
+	 <TEXTVALUE>कॉपर पट्टी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zinc_sulph">
+	 <TEXTVALUE>ZnSO4 द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="voltmeter">
+	 <TEXTVALUE>व्होल्टमापी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_sulph">
+	 <TEXTVALUE>CuSO4 द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="bridge">
+	 <TEXTVALUE>क्षार सेतु</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zink_solu">
+	 <TEXTVALUE>१ M ZnSO4 द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_solu">
+	 <TEXTVALUE>१ M CuSO4 द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene1_one">
+	 <TEXTVALUE>आवश्यक सामग्री: झिंक पट्टी, कॉपर पट्टी, १ M ZnSO4 द्रावण, व्होल्टमापी, १ M CuSO4 द्रावण, क्षार सेतु, संबंधन तारा, सॅंड पेपर.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takecopper2">
+	<TEXT ID="takecopper2_one">
+	 <TEXTVALUE>कॉपर पट्टी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean3">
+	<TEXT ID="sand_aper">
+	 <TEXTVALUE>सॅंड पेपर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clean3_one">
+	 <TEXTVALUE>सॅंड पेपर वापरून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution4">
+	<TEXT ID="dipethesolution4_one">
+	 <TEXTVALUE>1M कॉपर सल्फेट द्रावण असलेल्या चंचुपात्रात कॉपर पट्टी बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean5">
+	<TEXT ID="clean5_one">
+	 <TEXTVALUE>तसेच झिंक पट्टी घ्या आणि सॅंड पेपर वापरून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution6">
+	<TEXT ID="dipethesolution6_one">
+	 <TEXTVALUE>1M झिंक सल्फेट द्रावण असलेल्या चंचुपात्रात झिंक पट्टी बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takesaltbridge7">
+	<TEXT ID="takesaltbridge7_one">
+	 <TEXTVALUE>क्षार सेतू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipsaltbridge8">
+	<TEXT ID="dipsaltbridge8_one">
+	 <TEXTVALUE>क्षार सेतू वापरून दोन द्रावणे जोडा. [क्षार सेतू एक उलट्या यू आकाराची नळी असते ज्यात निष्क्रिय विद्युत विघटक जसे K2SO4, KCl, KNO3 भरलेले असतात.]</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="dipsaltbridge8_two">
+	 <TEXTVALUE>आता व्होल्टमापीचे धनअग्र संबंधन तारेने कॉपर पट्टीला जोडा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge8_three">
+	 <TEXTVALUE>व्होल्टमापीच्या दर्शकाचे स्थान बघा.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="dipsaltbridge11">
+	<TEXT ID="dipsaltbridge11_one">
+	 <TEXTVALUE>आता व्होल्टमापीचे ऋणअग्र दुसर्यान संबंधन तारेने झिंक पट्टीला जोडा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge11_two">
+	 <TEXTVALUE>व्होल्टमापीच्या दर्शकाचे स्थान बघा आणि वाचनांक नोंदवा.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="chart9">
+	<TEXT ID="table_h1">
+	 <TEXTVALUE>झिंक सल्फेटच्या तीव्रता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+	 <TEXTVALUE> कॉपर सल्फेट तीव्रता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+	 <TEXTVALUE>सेल चे ईएमएफ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart9_one">
+	 <TEXTVALUE>हे मूल्य म्हणजे सेल चे ईएमएफ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart10">
+	<TEXT ID="line_1">
+	 <TEXTVALUE>झिंक सल्फेट आणि कॉपर सल्फेट च्या विविध संहत तीव्रता वापरून प्रयोग परत करून बघा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart10_one">
+	 <TEXTVALUE>झिंक सल्फेट आणि कॉपर सल्फेट च्या विविध संहत तीव्रता वापरून प्रयोग परत करून बघा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart12">
+	<TEXT ID="chart12_one">
+	 <TEXTVALUE>निरीक्षणावरून दिसेल की धनअग्राची (झिंक अग्र) संहत तीव्रता कमी झाली आणि ऋणअग्राची (कॉपर अग्र) संहत तीव्रता अधिक झाली की सेलचे ईएमएफ वाढते. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+	 <TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+</DATA>
+

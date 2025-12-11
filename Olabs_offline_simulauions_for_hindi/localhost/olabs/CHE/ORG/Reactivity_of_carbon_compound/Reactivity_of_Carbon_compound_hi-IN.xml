@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_title_1">
+	<TEXTVALUE>एसिटिक एसिड (एथानोइक एसिड) के गुणधर्म </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_string_2">
+	<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="buttons">
+	<TEXT ID="buttons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l1">
+	<TEXTVALUE>कार्बन यौगिक की प्रतिक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l2">
+	<TEXTVALUE>गंध</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l3">
+	<TEXTVALUE>पानी में घुलनशीलता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l4">
+	<TEXTVALUE>लिटमस पर प्रभाव</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l5">
+	<TEXTVALUE>सोडियम बाइकार्बोनेट के
+साथ प्रतिक्रिया</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="odour">
+	<TEXT ID="odour_one">
+	<TEXTVALUE>टेस्ट ट्यूब में एसिटिक अम्‍ल (एसिड) की थोड़ी सी मात्रा लें और इसे सूंघें। इससे उत्‍तेजक तीखी गंध निकलती है। टेस्ट ट्यूब का मुंह अपने और अपने सहपाठियों के चेहरों से दूर रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_3">
+	<TEXTVALUE>एसिटिक अम्‍ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_4">
+	<TEXTVALUE>चिड़चिड़ा तीखे
+गंध </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_5">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="solubilityinwater">
+	<TEXT ID="solubilityinwater_one">
+	<TEXTVALUE>एक टेस्ट ट्यूब में एसिटिक अम्‍ल (एसिड) की थोड़ी सी मात्रा डालें और एक दूसरी टेस्ट ट्यूब में डिस्टिल्‍ड पानी की थोड़ी सी मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_two">
+	<TEXTVALUE>एसिटिक अम्‍ल (एसिड) पानी से मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_string_6">
+	<TEXTVALUE>पानी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solubilityinwatersecond">
+	<TEXT ID="solubilityinwatersecond_one">
+	<TEXTVALUE>टेस्ट ट्यूब अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solubilityinwaterthird">
+	<TEXT ID="solubilityinwaterthird_one">
+	<TEXTVALUE>एक समांग (होमोजीनस) विलयन (साल्‍यूशन) बनता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwaterthird_string_7">
+	<TEXTVALUE>सजातीय 
+विलयन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Litmus">
+	<TEXT ID="Litmus_one">
+	<TEXTVALUE>नीले लिटमस पेपर की पट्टी (स्ट्रिप) लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Litmus_string_8">
+	<TEXTVALUE>लिट्मस पेपर</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Litmussecond">
+	<TEXT ID="Litmussecond_one">
+	<TEXTVALUE>एसिटिक अम्‍ल (एसिड) की थोड़ी सी मात्रा वाले टेस्ट ट्यूब में इसे डुबोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Litmusthird">
+	<TEXT ID="Litmusthird_one">
+	<TEXTVALUE>नीला लिटमस लाल हो जाता है इससे पता चलता है कि एसिटिक अम्‍ल (एसिड) प्रकृति में अम्‍लीय (एसिडिक) होता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumbicarbonate">
+	<TEXT ID="sodiumbicarbonate_one">
+	<TEXTVALUE>बॉयलिंग ट्यूब में सोडियम बाइकार्बोनेट के विलयन (साल्‍यूशन) की थोड़ी सी मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_two">
+	<TEXTVALUE>बॉयलिंग ट्यूब स्टैंड में फंसाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_three">
+	<TEXTVALUE>दोहरे बोर के कार्क से बॉयलिंग ट्यूब का मुंह बंद कर दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_four">
+	<TEXTVALUE>कॉर्क के एक छेद से ट्यूब में थीस्ल कीप डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_five">
+	<TEXTVALUE>चूने के पानी वाला एक दूसरा बॉयलिंग ट्यूब लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_six">
+	<TEXTVALUE>इस बॉयलिंग ट्यूब को एक दूसरे स्‍टैण्‍ड में फंसाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_seven">
+	<TEXTVALUE>एक डिलीवरी ट्यूब लें और सोडियम बाईकार्बोनेट वाले ट्यूब में (कॉर्क के छेद के जरिए) एक सिरा डालें और दूसरा सिरा चूने के पानी वाले ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_9">
+	<TEXTVALUE>सोडियम बाइकार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_10">
+	<TEXTVALUE>थीस्ल कीप</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_stri_ls1">
+	<TEXTVALUE>नींबू पानी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="takeaceticacid">
+	<TEXT ID="takeaceticacid_one">
+	<TEXTVALUE>एसिटिक अम्‍ल (एसिड) वाली एक बोतल लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeaceticacid_string11">
+	<TEXTVALUE>एसिटिक अम्‍ल</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="last">
+	<TEXT ID="last_one">
+	<TEXTVALUE>सोडियम बाइकार्बोनेट वाली बॉयलिंग ट्यूब में थीस्ल कीप के जरिए एसिटिक अम्‍ल (एसिड) डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_two">
+	<TEXTVALUE>एक गैस बनती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_three">
+	<TEXTVALUE>बॉयलिंग ट्यूब में चूने का पानी दूधिया हो जाता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_four">
+	<TEXTVALUE>बनने वाली गैस CO2 है। यह चूने के पानी को दूधिया बना देती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

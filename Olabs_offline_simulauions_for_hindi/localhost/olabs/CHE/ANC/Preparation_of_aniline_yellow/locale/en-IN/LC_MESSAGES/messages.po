@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:43+0530\n"
+"PO-Revision-Date: 2025-10-06 15:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "Preparation of Aniline yellow"
+msgstr "Preparation of Aniline yellow"
+
+msgid "HELP"
+msgstr "HELP"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Drag and drop the dropper containing<br>10 mL HCl into the measuring cylinder"
+msgstr "Drag and drop the dropper containing<br>10 mL HCl into the measuring cylinder"
+
+msgid "Drag and drop the measuring cylinder<br> into beaker containing water"
+msgstr "Drag and drop the measuring cylinder<br> into beaker containing water"
+
+msgid "Drag and drop the dropper<br> containing 4.5 mL aniline<br> into the measuring cylinder"
+msgstr "Drag and drop the dropper<br> containing 4.5 mL aniline<br> into the measuring cylinder"
+
+msgid "Drag and drop the measuring cylinder<br> into the beaker containing HCl and water"
+msgstr "Drag and drop the measuring cylinder<br> into the beaker containing HCl and water"
+
+msgid "Click the glass rod<br> inside the beaker to stir<br> and get a clear solution"
+msgstr "Click the glass rod<br> inside the beaker to stir<br> and get a clear solution"
+
+msgid "Drag and drop the beaker<br> into the ice bath"
+msgstr "Drag and drop the beaker<br> into the ice bath"
+
+msgid "Drag and drop <br>the thermometer<br> into ice bath"
+msgstr "Drag and drop <br>the thermometer<br> into ice bath"
+
+msgid "Click on the Inference button"
+msgstr "Click on the Inference button"
+
+msgid "Click on the Next button"
+msgstr "Click on the Next button"
+
+msgid "Drag and drop the butter paper containing<br>4g sodium nitrite powder in the beaker"
+msgstr "Drag and drop the butter paper containing<br>4g sodium nitrite powder in the beaker"
+
+msgid "Click on the glass rod placed<br> in the beaker to stir constantly"
+msgstr "Click on the glass rod placed<br> in the beaker to stir constantly"
+
+msgid "Drag and drop the beaker into ice bath"
+msgstr "Drag and drop the beaker into ice bath"
+
+msgid "Drag and drop the Mixture solution<br>(HCl and aniline with water) into the beaker<br> containing sodium nitrite solution"
+msgstr "Drag and drop the Mixture solution<br>(HCl and aniline with water) into the beaker<br> containing sodium nitrite solution"
+
+msgid "Drag and drop glass rod into<br> the solution beaker to stir"
+msgstr "Drag and drop glass rod into<br> the solution beaker to stir"
+
+msgid "Drag and drop the dropper containing<br> 4 mL aniline into the measuring cylinder"
+msgstr "Drag and drop the dropper containing<br> 4 mL aniline into the measuring cylinder"
+
+msgid "Drag and drop the measuring<br> cylinder into empty beaker"
+msgstr "Drag and drop the measuring<br> cylinder into empty beaker"
+
+msgid "Drag and drop the dropper containing<br> 4 mL HCl into the measuring cylinder"
+msgstr "Drag and drop the dropper containing<br> 4 mL HCl into the measuring cylinder"
+
+msgid "Drag and drop the measuring<br> cylinder into the aniline beaker"
+msgstr "Drag and drop the measuring<br> cylinder into the aniline beaker"
+
+msgid "Drag benzene diazonium chloride<br> solution from 5 <sup>o</sup>C ice bath and drop<br> it in the HCl and aniline beaker"
+msgstr "Drag benzene diazonium chloride<br> solution from 5 <sup>o</sup>C ice bath and drop<br> it in the HCl and aniline beaker"
+
+msgid "Drag and drop glass rod<br> into the solution beaker for<br> stirring to get a yellow color"
+msgstr "Drag and drop glass rod<br> into the solution beaker for<br> stirring to get a yellow color"
+
+msgid "Drag and drop the beaker<br> containing solution<br> into the ice bath"
+msgstr "Drag and drop the beaker<br> containing solution<br> into the ice bath"
+
+msgid "Drag and drop folded paper into the funnel"
+msgstr "Drag and drop folded paper into the funnel"
+
+msgid "Drag and drop the beaker containing<br> crude sample into the funnel to filter it"
+msgstr "Drag and drop the beaker containing<br> crude sample into the funnel to filter it"
+
+msgid "Drag and drop the paper containing<br> the dry compound into the beaker"
+msgstr "Drag and drop the paper containing<br> the dry compound into the beaker"
+
+msgid "Drag and drop CCl<sub>4</sub> dropper into the<br> beaker containing the crude sample"
+msgstr "Drag and drop CCl<sub>4</sub> dropper into the<br> beaker containing the crude sample"
+
+msgid "Drag and drop the end-closed<br> capillary into the beaker"
+msgstr "Drag and drop the end-closed<br> capillary into the beaker"
+
+msgid "Switch ON the <br>melting point apparatus"
+msgstr "Switch ON the <br>melting point apparatus"
+
+msgid "Switch ON the Rapid <br>heat to the melting<br> point apparatus"
+msgstr "Switch ON the Rapid <br>heat to the melting<br> point apparatus"
+
+msgid "Drag and drop the capillary tube<br> into the melting point apparatus"
+msgstr "Drag and drop the capillary tube<br> into the melting point apparatus"
+
+msgid "Drag and drop the thermometer<br> into the melting point apparatus"
+msgstr "Drag and drop the thermometer<br> into the melting point apparatus"
+
+msgid "Click variable heat into the<br> melting point apparatus"
+msgstr "Click variable heat into the<br> melting point apparatus"
+
+msgid "Click the yellow light glass view<br> into the melting point apparatus"
+msgstr "Click the yellow light glass view<br> into the melting point apparatus"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "Click on the Reset button to do the experiment again"
+
+msgid "The HCl and aniline beaker in the ice bath is at 5 <sup>o</sup>C."
+msgstr "The HCl and aniline beaker in the ice bath is at 5 <sup>o</sup>C."
+
+msgid "Solution get yellow color<br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH<sub>2</sub>"
+msgstr "Solution get yellow color<br> Ar-N=N-NH-Ar → Ar-N=N-Ar-NH<sub>2</sub>"
+
+msgid "120<sup>o</sup>C to 130<sup>o</sup>C: Melting yellow liquid at<br> this temperature; see in zoom view."
+msgstr "120<sup>o</sup>C to 130<sup>o</sup>C: Melting yellow liquid at<br> this temperature; see in zoom view."
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Instructions:"
+msgstr "Instructions:"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "Click on the Reset button to do the experiment again"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Leave the solution for sometime, until the yellow solid get recrystallized."
+msgstr "Leave the solution for sometime, until the yellow solid get recrystallized."
+
+msgid "Show 20 mL of water in the &nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "Show 20 mL of water in the &nbsp;&nbsp;&nbsp;&nbsp;beaker."
+
+msgid "Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;containing 10 mL HCl into  &nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;containing 10 mL HCl into  &nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+
+msgid "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into a &nbsp;&nbsp;&nbsp;&nbsp;beaker containing water."
+msgstr "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into a &nbsp;&nbsp;&nbsp;&nbsp;beaker containing water."
+
+msgid "Drag and drop the dropper  &nbsp;&nbsp;&nbsp;&nbsp;containing 4.5 mL &nbsp;&nbsp;&nbsp;&nbsp;aniline&nbsp;into the measuring<br>&nbsp;&nbsp;&nbsp; cylinder."
+msgstr "Drag and drop the dropper  &nbsp;&nbsp;&nbsp;&nbsp;containing 4.5 mL &nbsp;&nbsp;&nbsp;&nbsp;aniline&nbsp;into the measuring<br>&nbsp;&nbsp;&nbsp; cylinder."
+
+msgid "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into the &nbsp;&nbsp;&nbsp;&nbsp;beaker containing HCl and &nbsp;&nbsp;&nbsp;&nbsp;water."
+msgstr "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder into the &nbsp;&nbsp;&nbsp;&nbsp;beaker containing HCl and &nbsp;&nbsp;&nbsp;&nbsp;water."
+
+msgid "Click the glass rod inside the &nbsp;&nbsp;&nbsp;&nbsp;beaker to stir and get a &nbsp;&nbsp;&nbsp;&nbsp;clear solution."
+msgstr "Click the glass rod inside the &nbsp;&nbsp;&nbsp;&nbsp;beaker to stir and get a &nbsp;&nbsp;&nbsp;&nbsp;clear solution."
+
+msgid "Drag and drop the beaker  &nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "Drag and drop the beaker  &nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+
+msgid "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;thermometer into ice bath."
+msgstr "Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;thermometer into ice bath."
+
+msgid "Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;button."
+
+msgid "Click on the Next button."
+msgstr "Click on the Next button."
+
+msgid "Instructions:"
+msgstr "Instructions:"
+
+msgid "&nbsp;&nbsp;1. Drag and drop the butter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paper containing 4 g sodium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrite powder in the beaker."
+msgstr "&nbsp;&nbsp;1. Drag and drop the butter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paper containing 4 g sodium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrite powder in the beaker."
+
+msgid "&nbsp;&nbsp;2. Click on the glass rod placed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the beaker to stir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;constantly."
+msgstr "&nbsp;&nbsp;2. Click on the glass rod placed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the beaker to stir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;constantly."
+
+msgid "&nbsp;&nbsp;3. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+msgstr "&nbsp;&nbsp;3. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the ice bath."
+
+msgid "&nbsp;&nbsp;4. Drag and drop the mixture  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution (HCl and aniline with  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water) into the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing sodium nitrite &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution."
+msgstr "&nbsp;&nbsp;4. Drag and drop the mixture  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution (HCl and aniline with  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water) into the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing sodium nitrite &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solution."
+
+msgid "&nbsp;&nbsp;5. Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker to stir."
+msgstr "&nbsp;&nbsp;5. Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker to stir."
+
+msgid "&nbsp;&nbsp;6. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL aniline into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+msgstr "&nbsp;&nbsp;6. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL aniline into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the measuring cylinder."
+
+msgid "&nbsp;&nbsp;7. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the empty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "&nbsp;&nbsp;7. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the empty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+
+msgid "&nbsp;&nbsp;8. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL HCl into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder."
+msgstr "&nbsp;&nbsp;8. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing 4 mL HCl into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;measuring cylinder."
+
+msgid "&nbsp;&nbsp;9. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the aniline &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+msgstr "&nbsp;&nbsp;9. Drag and drop the measuring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cylinder into the aniline &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaker."
+
+msgid "&nbsp;&nbsp;10.Drag benzene diazonium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chloride solution from &nbsp;5 <sup>o</sup>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath and drop it in the HCl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and aniline beaker."
+msgstr "&nbsp;&nbsp;10.Drag benzene diazonium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chloride solution from &nbsp;5 <sup>o</sup>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath and drop it in the HCl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and aniline beaker."
+
+msgid "&nbsp;&nbsp;11.Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stirring to get a yellow color."
+msgstr "&nbsp;&nbsp;11.Drag and drop glass rod into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the solution beaker for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stirring to get a yellow color."
+
+msgid "&nbsp;&nbsp;12.Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing solution into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath."
+msgstr "&nbsp;&nbsp;12.Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing solution into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice bath."
+
+msgid "&nbsp;&nbsp;13.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "&nbsp;&nbsp;13.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+
+msgid "&nbsp;&nbsp;1. Drag and drop folded paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the funnel"
+msgstr "&nbsp;&nbsp;1. Drag and drop folded paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the funnel"
+
+msgid "&nbsp;&nbsp;2. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing crude sample into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the funnel to filter it."
+msgstr "&nbsp;&nbsp;2. Drag and drop the beaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing crude sample into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the funnel to filter it."
+
+msgid "&nbsp;&nbsp;3. Drag and drop the paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing the dry compound &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker."
+msgstr "&nbsp;&nbsp;3. Drag and drop the paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containing the dry compound &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker."
+
+msgid "&nbsp;&nbsp;4. Drag and drop CCl<sub>4</sub> dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker containing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the crude sample."
+msgstr "&nbsp;&nbsp;4. Drag and drop CCl<sub>4</sub> dropper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the beaker containing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the crude sample."
+
+msgid "&nbsp;&nbsp;5. Drag and drop the end-closed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capillary into the beaker."
+msgstr "&nbsp;&nbsp;5. Drag and drop the end-closed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capillary into the beaker."
+
+msgid "&nbsp;&nbsp;6. Switch ON the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;6. Switch ON the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+
+msgid "&nbsp;&nbsp;7. Switch ON the Rapid heat to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the melting point apparatus."
+msgstr "&nbsp;&nbsp;7. Switch ON the Rapid heat to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the melting point apparatus."
+
+msgid "&nbsp;&nbsp;8. Drag and drop the capillary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tube into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;8. Drag and drop the capillary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tube into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+
+msgid "&nbsp;&nbsp;9. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thermometer into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "&nbsp;&nbsp;9. Drag and drop the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thermometer into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+
+msgid "&nbsp;&nbsp;10.Click variable heat into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+msgstr "&nbsp;&nbsp;10.Click variable heat into the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melting point apparatus."
+
+msgid "&nbsp;&nbsp;11.Click the yellow light glass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+msgstr "&nbsp;&nbsp;11.Click the yellow light glass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view into the melting point &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apparatus."
+
+msgid "&nbsp;&nbsp;12.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+msgstr "&nbsp;&nbsp;12.Click on the Inference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;button."
+
+msgid "&nbsp;&nbsp;13.Click on the Reset button to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do the experiment again."
+msgstr "&nbsp;&nbsp;13.Click on the Reset button to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do the experiment again."
+
+msgid "Developed by Amrita University Under research grant from<br>Ministry of Electronics and Information Technology"
+msgstr "Developed by Amrita University Under research grant from<br>Ministry of Electronics and Information Technology"

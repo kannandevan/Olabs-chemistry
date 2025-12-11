@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-13 12:28+0530\n"
+"PO-Revision-Date: 2025-10-13 12:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: QuestionExecutePackage.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+#: QuestionExecutePackage.js:23
+msgid "Level "
+msgstr "स्तर "
+
+#: QuestionExecutePackage.js:27 QuestionExecutePackage.js:132 QuestionExecutePackage.js:176
+#: QuestionExecutePackage.js:223 QuestionExecutePackage.js:261
+msgid "Score "
+msgstr "अंक "
+
+#: QuestionExecutePackage.js:146
+msgid "2. The change in velocity over change in time is referred to as"
+msgstr "2. समय के परिवर्तन के साथ वेग में परिवर्तन को कहा जाता है"
+
+#: QuestionExecutePackage.js:146
+msgid "Jerk"
+msgstr "झटका"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:401
+msgid "Displacement"
+msgstr "विस्थापन"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:401
+msgid "Acceleration"
+msgstr "त्वरण"
+
+#: QuestionExecutePackage.js:192
+msgid "4. The area under velocity - time graph gives"
+msgstr "4. वेग-समय ग्राफ के नीचे का क्षेत्र बताता है"
+
+#: QuestionExecutePackage.js:192
+msgid "Rate of change of velocity with time"
+msgstr "समय के साथ वेग के परिवर्तन की दर"
+
+#: QuestionExecutePackage.js:192
+msgid "Magnitude of displacement"
+msgstr "विस्थापन का परिमाण"
+
+#: QuestionExecutePackage.js:192
+msgid "Speed of the object"
+msgstr "वस्तु की गति"
+
+#: simcontrols.js:19
+msgid "Velocity-Time(v - t)Graph"
+msgstr "वेग-समय (v - t) ग्राफ"
+
+#: simcontrols.js:23
+msgid "Click on Show Axis"
+msgstr "अक्ष दिखाने के लिए क्लिक करें"
+
+#: simcontrols.js:23 simcontrols.js:37
+msgid "Select axis"
+msgstr "अक्ष चुनें"
+
+#: simcontrols.js:23
+msgid "Select the values"
+msgstr "मान चुनें"
+
+#: simcontrols.js:23
+msgid "Click to draw line"
+msgstr "रेखा खींचने के लिए क्लिक करें"
+
+#: simcontrols.js:23
+msgid "Click to Show Co-ordinates"
+msgstr "निर्देशांक दिखाने के लिए क्लिक करें"
+
+#: simcontrols.js:23
+msgid "Click on Show Calculation<br>after Selecting correct<br>answer"
+msgstr "सही उत्तर चुनने के बाद<br>गणना दिखाने के लिए क्लिक करें"
+
+#: simcontrols.js:23
+msgid "Click on Hide Calculation after <br> Selecting correct answer"
+msgstr "सही उत्तर चुनने के बाद<br>गणना छिपाने के लिए क्लिक करें"
+
+#: simcontrols.js:23
+msgid "Click to Show Distance"
+msgstr "दूरी दिखाने के लिए क्लिक करें"
+
+#: simcontrols.js:23
+msgid "Click to Hide Distance"
+msgstr "दूरी छिपाने के लिए क्लिक करें"
+
+#: simcontrols.js:24
+msgid "Select Time and Velocity"
+msgstr "समय और वेग चुनें"
+
+#: simcontrols.js:25
+msgid "Time in x-axis and velocity in y-axis "
+msgstr "x-अक्ष पर समय और y-अक्ष पर वेग "
+
+#: simcontrols.js:25
+msgid "Velocity in x-axis and time in y-axis"
+msgstr "x-अक्ष पर वेग और y-अक्ष पर समय"
+
+#: simcontrols.js:26
+msgid ""
+"The velocity-time graph for the motion of the car in the <br> data is a straight line. This "
+"indicates that the car is moving<br> with a uniform acceleration.<br>The acceleration of the "
+"moving car (from the graph) = 2ms<sup>-2</sup><br>It is observed that the distance travelled "
+"by the car in<br> a given time intervals but at different instances are different.<br> This "
+"shows that the car is in accelerated motion."
+msgstr ""
+"कार की गति के लिए वेग-समय ग्राफ<br> एक सीधी रेखा है। यह दर्शाता है कि कार समान<br> त्वरण के साथ चल रही "
+"है।<br>ग्राफ से चलती कार का त्वरण = 2ms<sup>-2</sup><br>यह देखा गया कि कार द्वारा तय की गई दूरी<br> "
+"समान समयांतरालों पर अलग-अलग होती है।<br>यह दर्शाता है कि कार त्वरित गति में है।"
+
+#: simcontrols.js:29
+msgid "Click on Inference button"
+msgstr "निष्कर्ष बटन पर क्लिक करें"
+
+#: simcontrols.js:30
+msgid "Click on Reset button<br> to do the experiment again"
+msgstr "प्रयोग को फिर से करने के लिए<br> रीसेट बटन पर क्लिक करें"
+
+#: simcontrols.js:31
+msgid "Time(s)"
+msgstr "समय (सेकंड)"
+
+#: simcontrols.js:31
+msgid "Velocity(m/s)"
+msgstr "वेग (मीटर/सेकंड)"
+
+#: simcontrols.js:34
+msgid "<b>Time(s)</b>"
+msgstr "<b>समय (सेकंड)</b>"
+
+#: simcontrols.js:35
+msgid "<b>Velocity(m/s)</b>"
+msgstr "<b>वेग (मीटर/सेकंड)</b>"
+
+#: simcontrols.js:36
+msgid "Show Scale"
+msgstr "पैमाना दिखाएँ"
+
+#: simcontrols.js:38
+msgid "Sl.No"
+msgstr "क्रमांक"
+
+#: simcontrols.js:39
+msgid "Time,t(s)"
+msgstr "समय, t(से)"
+
+#: simcontrols.js:40
+msgid "Velocity,v(m/s)"
+msgstr "वेग, v(मी/से)"
+
+#: simcontrols.js:41
+msgid "Join Points"
+msgstr "बिंदुओं को जोड़ें"
+
+#: simcontrols.js:42
+msgid "Show Co-ordinates"
+msgstr "निर्देशांक दिखाएँ"
+
+#: simcontrols.js:43
+msgid "Show Calculation"
+msgstr "गणना दिखाएँ"
+
+#: simcontrols.js:44
+msgid "Hide Calculation"
+msgstr "गणना छिपाएँ"
+
+#: simcontrols.js:45
+msgid "Show Distance"
+msgstr "दूरी दिखाएँ"
+
+#: simcontrols.js:46
+msgid "Hide Distance"
+msgstr "दूरी छिपाएँ"
+
+#: simcontrols.js:47
+msgid "Reset"
+msgstr "रीसेट"
+
+#: simcontrols.js:401
+msgid "3. The product of velocity and time is"
+msgstr "3. वेग और समय का गुणनफल होता है"
+
+#: simcontrols.js:401
+msgid "Power"
+msgstr "शक्ति"
+
+#: simcontrols.js:586
+msgid ""
+"1. Identify the quantity defined as the ratio of the vertical change (change in y-axis) "
+"between two points on the graph, to the horizontal change (change in x-axis) between the same "
+"two points?"
+msgstr ""
+"1. उस राशि की पहचान करें जिसे ग्राफ के दो बिंदुओं के बीच ऊर्ध्वाधर परिवर्तन (y-अक्ष में परिवर्तन) और उन्हीं दो "
+"बिंदुओं के बीच क्षैतिज परिवर्तन (x-अक्ष में परिवर्तन) के अनुपात के रूप में परिभाषित किया गया है?"
+
+#: simcontrols.js:586
+msgid "Slope"
+msgstr "ढाल"
+
+#: simcontrols.js:586
+msgid "Curvature"
+msgstr "वक्रता"
+
+#: simcontrols.js:586
+msgid "Tangent"
+msgstr "स्पर्शरेखा"
+
+#: simcontrols.js:48 
+msgid "Show Axis" 
+msgstr "अक्ष दिखाएँ"

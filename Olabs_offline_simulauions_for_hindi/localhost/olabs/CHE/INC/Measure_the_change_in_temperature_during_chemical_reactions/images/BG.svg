@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="657px"
+	 height="450px" viewBox="0 0 657 450" preserveAspectRatio="none" enable-background="new 0 0 657 450" xml:space="preserve">
+<g id="Layer_3">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="328.498" y1="354.2881" x2="328.4319" y2="422.7131">
+		<stop  offset="0" style="stop-color:#4D2F1F"/>
+		<stop  offset="0.2118" style="stop-color:#CC9461"/>
+		<stop  offset="1" style="stop-color:#DCAB71"/>
+	</linearGradient>
+	<rect x="-0.05" y="356.5" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" width="657" height="95.8"/>
+</g>
+<g id="Layer_2">
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="328.4502" y1="-67.3125" x2="328.4502" y2="313.3125">
+		<stop  offset="0" style="stop-color:#0B5051"/>
+		<stop  offset="0.4745" style="stop-color:#1F7E7C"/>
+		<stop  offset="1" style="stop-color:#8FA661"/>
+	</linearGradient>
+	<rect x="-0.05" y="-0.9" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" width="657" height="293.8"/>
+</g>
+<g id="Layer_1">
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-5.2627" y1="315.125" x2="659.2623" y2="315.125">
+		<stop  offset="0" style="stop-color:#25211E"/>
+		<stop  offset="1" style="stop-color:#78706D"/>
+	</linearGradient>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" points="-0.05,349.248 -0.05,280.9 656.95,280.9 
+		656.95,349.248 -0.05,349.248 656.95,349.248 656.95,349.35 -0.05,349.35 	"/>
+</g>
+<g id="Layer_5">
+	<rect x="-0.05" y="348.25" fill-rule="evenodd" clip-rule="evenodd" fill="#202020" width="657" height="10"/>
+</g>
+<g id="Layer_4">
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-opacity="0.298" x1="656.95" y1="348.15" x2="-0.05" y2="348.15"/>
+</g>
+</svg>

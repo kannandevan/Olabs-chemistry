@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>ऊष्मारसायन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>शुरू करें</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="water_text">
+	<TEXTVALUE>कैलोरीमीटर की जल समतुल्यता</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="enthalpy_txt">
+	<TEXTVALUE>के द्रवण की तापीय धारिता</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>प्रयोग चुनने के लिए बटन पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>हमें चाहिए ढक्कन सहित लकड़ी का बक्सा, कैलोरीमीटर, थर्मामीटर, मापने वाला जार, 250 मिलीलीटर का बीकर, आसुत जल और विलोड़क।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="wooden_txt">
+	<TEXTVALUE>ढक्कन सहित लकड़ी का बक्सा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calorimeter_txt">
+	<TEXTVALUE>कैलोरीमीटर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="thermometer_txt">
+	<TEXTVALUE>थर्मामीटर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="jar_txt">
+	<TEXTVALUE>मापने वाला जार</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="baker_txt">
+	<TEXTVALUE>250 मिलीलीटर का बीकर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>आसुत जल </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="stirrer_txt">
+	<TEXTVALUE>विलोड़क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="hotplate_txt">
+	<TEXTVALUE>गर्म प्लेट</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>मापने वाले जार में 50 मिलीलीटर आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>मापने वाले जार में 50 मिलीलीटर आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>इसे कैलोरीमीटर में डालें। थर्मामीटर का प्रयोग कर, कैलोरीमीटर में पानी का तापमान नापें। इसे t₁ डिग्री सेल्सियस मान लें। थर्मामीटर हटाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>लकड़ी के बक्से में कैलोरीमीटर रखें (उष्मा के नुकसान से बचने के लिए कैलोरीमीटर और लकड़ी के बक्से के बीच की जगह कपास से भरी जाती है) और कैलोरीमीटर में विलोड़क डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>मापने वाले जार में 50 मिलीलीटर आसुत जल और लें और उसे 250 मिलीलीटर के बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>कमरे के तापमान की तुलना में अधिक 10-20 डिग्री सेल्सियस (~ 47 डिग्री सेल्सियस) तापमान तक बीकर में पानी गर्म करें और इस गर्म पानी का तापमान नोट करें। इसे t₂ डिग्री सेल्सियस मान लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>बिना समय गंवाए कैलोरीमीटर में गर्म पानी डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>इसके तत्काल बाद लकड़ी का बक्सा बंद कर दें और जल्दी से कैलोरीमीटर में थर्मामीटर डालें। </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+		
+	<TEXT ID="observation_txt">
+	<TEXTVALUE>अवलोकन  </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="volume_txt">
+	<TEXTVALUE>•कैलोरीमीटर में ली गई पानी की मात्रा = 50 मिलीलीटर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature_txt">
+	<TEXTVALUE>•पानी का तापमान = t₁ डिग्री सेल्सियस = 27 डिग्री सेल्सियस</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="water_txt">
+	<TEXTVALUE>•मिलाए गए गर्म पानी की मात्रा = 50 मिलीलीटर</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature47_txt">
+	<TEXTVALUE>•गर्म पानी का तापमान = t₂ डिग्री सेल्सियस = 47 डिग्री सेल्सियस</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="temperature36_txt">
+	<TEXTVALUE>•मिश्रण के बाद तापमान = t₃ डिग्री सेल्सियस = 36 डिग्री सेल्सियस</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>कैलोरीमीटर की जल समतुल्यंता की गणना करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="calculations_txt">
+	<TEXTVALUE>गणना </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>गर्म पानी द्वारा दी गई उष्मा  = कैलोरीमीटर और ठंडे पानी द्वारा ली गई उष्मा  </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>कैलोरीमीटर की जल समतुल्यंता , W</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>कैलोरीमीटर की जल समतुल्यंता , W </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn_txt">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>हमें चाहिए ढक्कन सहित लकड़ी का बक्सा, कैलोरीमीटर, थर्मामीटर, मापने वाला जार, 5 ग्राम अमोनियम क्लोराइड,आसुत जल और विलोड़क।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="ammonia_txt">
+	<TEXTVALUE>5 ग्राम अमोनियम क्लोराइड,</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>मापने वाले जार में 50 मिलीलीटर आसुत जल नापें।</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>मापने वाले जार में 50 मिलीलीटर आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>इसे कैलोरीमीटर में डालें। थर्मामीटर का प्रयोग कर, कैलोरीमीटर में पानी का तापमान नापें। इसे t₁ डिग्री सेल्सियस मान लें। थर्मामीटर हटाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>लकड़ी के बक्से में कैलोरीमीटर रखें (उष्मा के नुकसान से बचने के लिए कैलोरीमीटर और लकड़ी के बक्से के बीच की जगह कपास से भरी जाती है) और कैलोरीमीटर में विलोड़क डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>कैलोरीमीटर में अमोनियम क्लोराइड डालें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>कैलोरीमीटर में अमोनियम क्लोराइड डालें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>इसके तत्काल बाद लकड़ी का बक्सा बंद कर दें और जल्दी से कैलोरीमीटर में थर्मामीटर डालें।  </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Scene21_onesub">
+	<TEXTVALUE> विलोड़क का प्रयोग कर पानी चलाए और तब तक चलाना जारी रखें जब तक तापमान स्थिर न हो जाए। तापमान नोट करें। इसे t₃ डिग्री सेल्सियस मान लें।</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum_txt">
+	<TEXTVALUE>•घुली हुई अमोनियम क्लोराइड का भार, w = 5 ग्राम।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="water50_txt">
+	<TEXTVALUE>•कैलोरीमीटर में लिए गए पानी की मात्रा = 50 मिलीलीटर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="mass_txt">
+	<TEXTVALUE>•इसलिए, कैलोरीमीटर में लिए गए पानी का द्रव्यमान = 50 ग्राम (विशिष्ट घनत्व = 1 मानते हुए)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterTempe_txt">
+	<TEXTVALUE>•पानी का तापमान = t₁ डिग्री सेल्सियस = 27 डिग्री सेल्सियस</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="tempAfter_txt">
+	<TEXTVALUE>•अमोनियम क्लोराइड घोलने के बाद तापमान = t₂ डिग्री सेल्सियस = 22 डिग्री सेल्सियस</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="waterEqui_txt">
+	<TEXTVALUE>•कैलोरीमीटर की जल समतुल्यता, w = 11.11 g</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ammoniaum01_txt">
+	<TEXTVALUE>•अमोनियम क्लोराइड का आणविक द्रव्यमान, M = 53.49 ग्राम / मोल</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>अमोनियम क्लोराइड के द्रवण की तापीय धारिता की गणना करें।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="equ_1_txt">
+	<TEXTVALUE>पानी के घनत्व और विशिष्ट उष्मा के समान विलयन का घनत्व और विशिष्ट उष्मा मानते हुए, w ग्राम विलेय के घुलने के लिए मूक्तव या अवशोषित उष्मा,</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>घुले हुए पदार्थ के w मोल के लिए उष्मा परिवर्तन</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="eque_3_txt">
+	<TEXTVALUE>घुले हुए पदार्थ के 1 मोल के लिए उष्मा परिवर्तन (द्रवण की उष्मा धारिता)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>Q = (w + पानी का द्रव्य मान) X (t₁ -t₂) सेल्सियस</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_5_txt">
+	<TEXTVALUE>=(w +पानी का द्रव्य मान) X (t&#8321; -t&#8322; ) X 4.2 joules</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>=(w + पानी का द्रव्य मान) X (t&#8321; -t&#8322; ) X 4.2 joules</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>=(w + पानी का द्रव्य मान) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_8_txt">
+	<TEXTVALUE>जूल </TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>अमोनियम क्लोराइड के द्रवण की तापीय धारिता की गणना करें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_1_txt">
+	<TEXTVALUE>द्रवण की तापीय धारिता</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_2_txt">
+	<TEXTVALUE>=(W + पानी का द्रव्य मान) X (t&#8321; -t&#8322; ) X 4.2 X M </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_3_txt">
+	<TEXTVALUE>जूल / मोल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_4_txt">
+	<TEXTVALUE>अमोनियम क्लोराइड के द्रवण की तापीय धारिता</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_6_txt">
+	<TEXTVALUE>= 13728.85038 जूल / मोल</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="equ_7_txt">
+	<TEXTVALUE>= 13.73 किलोजूल/मोल</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

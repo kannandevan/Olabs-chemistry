@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>सोल तयार कसे करायचे ह्याचा अभ्यास करण्यासाठी एका सोलवर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophilicsol">
+	<TEXT ID="Lyophilicsol_one">
+		<TEXTVALUE>सोल तयार कसे करायचे ह्याचा अभ्यास करण्यासाठी ‘द्रवस्नेही सोल’ मधील एकावर क्लिक करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lyophobicsol">
+	<TEXT ID="Lyophobicsol_one">
+		<TEXTVALUE>कलिल द्रावण (किंवा सोल) कसे तयार करायचे ह्याचा अभ्यास करण्यासाठी एकावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TitleName1">
+	<TEXT ID="TitleName1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>आवश्यक सामग्री: इलेक्ट्रॉनिक काटा, खळ पावडर, बटर कागद, ड्रॉपर, स्पाट्युला, काचेचा रॉड, खलबत्ता, ऊर्ध्वपतित पाणी, चंचुपात्रे, तार गोझ, तिवई, बन्सेन बर्नर, नरसाळे, फिल्टर कागद, शंक्वाकृती चंबू, क्लांप असलेला लोखंडी स्टँड इत्यादी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Takingstarch">
+	<TEXT ID="Takingstarch_one">
+		<TEXTVALUE>वजनाचा काटा वापरून १ ग्राम खळ मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Paperstarchinbeaker">
+	<TEXT ID="Paperstarchinbeaker_one">
+		<TEXTVALUE>मोजलेली खळ खलबत्त्यात टाका आणि ड्रॉपर वापरून काही थेंब ऊर्ध्वपतित पाणी त्यात टाका.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Paperstarchinbeaker_two">
+		<TEXTVALUE>बत्त्याने खळ कुटा आणि त्याची पातळ पेस्ट तयार करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Paperstarchinbeaker_three">
+		<TEXTVALUE>५० मिलि चंचुपात्रात ती टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2">
+	<TEXT ID="Starchinbeaker2_one">
+		<TEXTVALUE>५० मिलि चंचुपात्रात ती टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtng">
+<TEXT ID="Starchinbeakerandwtrhtng_one">
+		<TEXTVALUE>५० मिलि चंचुपात्रात ती टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Starchinbeakerandwtrhtng_two">
+		<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी एका २५० मिली चंचुपात्रात घ्या आणि चंचुपात्र गरम करा म्हणजे पाणी उकळायला लागेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heatingbeakerwater">
+	<TEXT ID="Heatingbeakerwater_one">
+		<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी एका २५० मिली चंचुपात्रात घ्या आणि चंचुपात्र गरम करा म्हणजे पाणी उकळायला लागेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringstarchsolution">
+	<TEXT ID="Pouringstarchsolution_one">
+		<TEXTVALUE>उकळत्या पाण्यात हळू हळू पेस्ट टाका आणि काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolution_two">
+		<TEXTVALUE>१० मिनिटे उकळा, आणि मग चंचुपात्र थंड होऊ दे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Funnelstandpaper">
+	<TEXT ID="Funnelstandpaper_one">
+		<TEXTVALUE>नरसाळ्यात फिल्टर कागद बसवा आणि त्याला एका स्टँडला लावा. नरसाळ्यावर एक काचेचा रॉड ठेवा.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Funnelstandpaper_two">
+		<TEXTVALUE>चंचुपात्रातले द्रावण नरसाळ्यातून गाळा आणि गळण शंक्वाकृती चंबूत एकत्र करा.
+5.	
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpaper_three">
+		<TEXTVALUE>ह्याला ‘खळ सोल’ नाव द्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Starchsolution11">
+	<TEXT ID="Starchsolution11_one">
+	<!--	<TEXTVALUE>Label the filtrate “Starch Sol”. </TEXTVALUE>-->
+		<TEXTVALUE>सोडियम क्लोराइड असलेले खळ सोल एका शंक्वाकृती चंबूत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="membrane">
+	<TEXT ID="membrane_one">
+		<TEXTVALUE>नरसाळे घ्या आणि नरसाळ्याच्या दांडीला एक चर्मपत्र पटल लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="membranetofunnel">
+	<TEXT ID="membranetofunnel_one">
+		<TEXTVALUE>नरसाळे घ्या आणि नरसाळ्याच्या दांडीला एक चर्मपत्र पटल लावा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="membranetofunnel_two">
+		<TEXTVALUE>नरसाळ्याच्या दांडीला धाग्याने चर्मपत्र पटल बांधा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutionbkr">
+	<TEXT ID="Starchsolutionbkr_one">
+		<TEXTVALUE>खळ सोल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchsolution2memb">
+	<TEXT ID="Starchsolution2memb_one">
+		<TEXTVALUE>चर्मपत्र पिशवी दोन-तृतीयांश भरेपर्यन्त सोडियम क्लोराइड असलेले खळ सोल नरसाळ्यात ओता. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="memb2wtr">
+	<TEXT ID="memb2wtr_one">
+		<TEXTVALUE>चर्मपत्र पिशवी ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात बुडवा आणि नरसाळे क्लांप ने जागेवर अडकवून ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_two">
+		<TEXTVALUE>चर्मपत्र पिशवी ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात बुडवा आणि नरसाळे क्लांप ने जागेवर अडकवून ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_three">
+		<TEXTVALUE>ह्याला अर्धा तास असेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2wtr_four">
+		<TEXTVALUE>अर्ध्या तासानंतर, ड्रॉपर वापरून थोडेसे पाणी चंचुपात्रातून घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+		<TEXTVALUE>ते परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="iodine">
+	<TEXT ID="iodine_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे आयोडीन द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="iodine2tube">
+	<TEXT ID="iodine2tube_one">
+		<TEXTVALUE>पाणी असलेल्या परिक्षा नळीत काही थेंब आयोडीन द्रावण टाका. जर रंग निळा झाला नाही तर पाण्यात खळ नाही असे दर्शविते. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="close">
+	<TEXT ID="close_one">
+		<TEXTVALUE>म्हणून हा निष्कर्ष काढू शकतो की चर्मपत्र पटलातून खळीचे रेणु विसरित होत नाहीत.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sol2dropper">
+	<TEXT ID="sol2dropper_one">
+		<TEXTVALUE>चंचुपात्रातून १ मिली पाणी अजून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2tube">
+	<TEXT ID="sol2tube_one">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate">
+	<TEXT ID="silvernitrate_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे सिल्वर नायट्रेट द्रावण घ्या.पाणी असलेल्या परिक्षा नळीत काही थेंब सिल्वर नायट्रेट द्रावण टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="drops2testube">
+	<TEXT ID="drops2testube_one">
+	<TEXTVALUE>ड्रॉपर वापरून काही थेंब सिल्वर नायट्रेट द्रावण घ्या आणि पाणी असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops2testube_two">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब सिल्वर नायट्रेट द्रावण घ्या आणि पाणी असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="closeup">
+	<TEXT ID="closeup_one">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब सिल्वर नायट्रेट द्रावण घ्या आणि पाणी असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="closeup_two">
+		<TEXTVALUE>ह्याचा निष्कर्ष असा की सोडियम आणि क्लोराइड आयन चर्मपत्र पटलातून विसरित होतात. खळ सोल मधून जसे सोडियम आणि क्लोराइड आयन विसरित होतात, तसे सोल हळू हळू आयन मुक्त होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="memb2secbkr">
+	<TEXT ID="memb2secbkr_one">
+		<TEXTVALUE>चंचुपात्रातले पाणी टाकून द्या, परत ऊर्ध्वपतित पाणी त्यात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="memb2secbkr_two">
+		<TEXTVALUE>सुमारे १० मिनिटांनी क्लोराइड आयन च्या उपस्थितीची परिक्षा करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2dropper2">
+	<TEXT ID="sol2dropper2_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे पाणी चंचुपात्रात घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2testube2">
+	<TEXT ID="sol2testube2_one">
+		<TEXTVALUE>परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="silvernitrate2">
+	<TEXT ID="silvernitrate2_one">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब सिल्वर नायट्रेट द्रावण घ्या आणि पाणी असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitrate2tube">
+	<TEXT ID="nitrate2tube_one">
+		<TEXTVALUE>जर अवक्षेपण निर्माण झाले नाही तर क्लोराइड आयन उपस्थित नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="result">
+	<TEXT ID="result_one">
+		<TEXTVALUE>हे दर्शविते की अपोहन पूर्ण झाले, नाहीतर सोल मध्ये अजून क्लोराइड आयन आहेत आणि अपोहन अजून सुरू ठेवले पाहिजे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+		<TEXTVALUE>१ ग्राम गम, ड्रॉपर, स्पाट्युला, काचेचा रॉड, खलबत्ता, ऊर्ध्वपतित पाणी, चंचुपात्र, तार गोझ, तिवई, बन्सेन बर्नर, नरसाळे, फिल्टर कागद, शंक्वाकृती चंबू, क्लांप असलेला लोखंडी स्टँड इत्यादी.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Paperstarchinbeakergum">
+	<TEXT ID="Paperstarchinbeakergum_one">
+		<TEXTVALUE>खलबत्त्यात १ ग्राम गम घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_two">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब ऊर्ध्वपतित पाणी त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_three">
+		<TEXTVALUE>बत्त्याने गम कुटा आणि त्याची पेस्ट तयार करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Paperstarchinbeakergum_four">
+		<TEXTVALUE>स्पाट्युला वापरून पेस्ट ५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeakerandwtrhtnggum">
+	<TEXT ID="Starchinbeakerandwtrhtnggum_one">
+		<TEXTVALUE>स्पाट्युला वापरून पेस्ट ५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchinbeaker1">
+	<TEXT ID="Starchinbeaker1_one">
+		<TEXTVALUE>स्पाट्युला वापरून पेस्ट ५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Starchinbeaker2gum">
+	<TEXT ID="Starchinbeaker2gum_one">
+		<TEXTVALUE>स्पाट्युला वापरून पेस्ट ५० मिली चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Starchinbeaker2gum_two">
+		<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी २५० मिली चंचुपात्रात घ्या आणि चंचुपात्र गरम करा. ( पाणी उकळू नका. गम पाण्यात विरघळते म्हणून पाणी फक्त गरम हवे.)</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Heatingbeakerwatergum">
+	<TEXT ID="Heatingbeakerwatergum_one">
+		<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी २५० मिली चंचुपात्रात घ्या आणि चंचुपात्र गरम करा. ( पाणी उकळू नका. गम पाण्यात विरघळते म्हणून पाणी फक्त गरम हवे. )</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pouringstarchsolutiongum">
+	<TEXT ID="Pouringstarchsolutiongum_one">
+		<TEXTVALUE>गरम पाण्यात पेस्ट हळू हळू ओता आणि काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouringstarchsolutiongum_two">
+		<TEXTVALUE>१० मिनिटे गरम करा आणि मग चंचुपात्र थंड होऊ दे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Funnelstandpapergum">
+	<TEXT ID="Funnelstandpapergum_one">
+		<TEXTVALUE>नरसाळ्यात फिल्टर कागद लावा आणि नरसाळे स्टँडला लावा आणि त्यात एक काचेचा रॉड ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Funnelstandpapergum_two">
+		<TEXTVALUE>नरसाळे वापरून चंचुपात्रातले द्रावण गाळा आणि गळण शंक्वाकृती चंबूत एकत्र करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Starchsolutiongum">
+	<TEXT ID="Starchsolutiongum_one">
+		<TEXTVALUE>गळणाला ‘गम सोल’ असे नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Title">
+	<TEXT ID="Title_01_one">
+		<TEXTVALUE>आवश्यक सामग्री: अंड, चंचुपात्र, काचेचा रॉड, ५% NaCl द्रावण, फिल्टर कागद, नरसाळे, शंक्वाकृती चंबू, क्लांप असलेला लोखंडी स्टँड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Takingegg">
+	<TEXT ID="Takingegg_one">
+		<TEXTVALUE>एक अंड घ्या.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Takingegg_two">
+		<TEXTVALUE>काचेच्या रॉडने फोडा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Eggbrocken">
+	<TEXT ID="Eggbrocken_one">
+		<TEXTVALUE>काचेच्या रॉडने फोडा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringEggalbumin">
+	<TEXT ID="PouringEggalbumin_one">
+		<TEXTVALUE>रंगहीन द्रव (पांढरे बलक) आणि पिवळे बलक एक चंचुपात्रात घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouringalbuminbeaker">
+	<TEXT ID="Pouringalbuminbeaker_one">
+		<TEXTVALUE>रंगहीन द्रव (पांढरे बलक) एका चंचुपात्रात निवळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PouringalbuminWater">
+	<TEXT ID="PouringalbuminWater_one">
+		<TEXTVALUE>पांढरे बलक ५% NaCl द्रावण असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringalbuminWaterzoom">
+	<TEXT ID="PouringalbuminWaterzoom_one">
+		<TEXTVALUE>पांढरे बलक ५% NaCl द्रावण असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="PouringalbuminWaterzoom_two">
+		<TEXTVALUE>१५-२० मिनिटे ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="FunnelstandpaperAlbumin">
+	<TEXT ID="FunnelstandpaperAlbumin_one">
+		<TEXTVALUE>एका नरसाळ्यात फिल्टर कागद लावा. नरसाळे स्टँडला लावा आणि त्यात एक काचेचा रॉड ठेवा. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunnelstandpaperAlbumin_two">
+		<TEXTVALUE>नरसाळे वापरून चंचुपात्रातले द्रावण गाळा आणि गळण शंक्वाकृती चंबूत एकत्र करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Albuminsolution1">
+	<TEXT ID="Albuminsolution1_one">
+		<TEXTVALUE>गळणाला ‘पांढरे बलक सोल’ असे नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title1a">
+	<TEXT ID="title1a_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introd007">
+	<TEXT ID="introd007_one">
+	 	<TEXTVALUE>आवश्यक सामग्री: २% अॅल्युमिनियम क्लोराइड, सिल्वर नायट्रेट द्रावण, ड्रॉपर, काचेचा रॉड, ऊर्ध्वपतित पाणी, चंचुपात्र, तार गोझ, तिवई, बन्सेन बर्नर, नरसाळे, शंक्वाकृती चंबू, चर्मपत्र पटल, क्लांप असलेला लोखंडी स्टँड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamingOutProcess">
+	<TEXT ID="SteamingOutProcess_one">
+		<TEXTVALUE>एक २५० मिली शंक्वाकृती चंबू घ्या आणि बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SteamClose">
+	<TEXT ID="SteamClose_one">
+		<TEXTVALUE>एक २५० मिली शंक्वाकृती चंबू घ्या आणि बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="MeasuringJar">
+	<TEXT ID="MeasuringJar_one">
+		<TEXTVALUE>ह्या स्वच्छ झालेल्या शंक्वाकृती चंबूत १०० मिली ऊर्ध्वपतित पाणी टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heating">
+	<TEXT ID="Heating_one">
+		<TEXTVALUE>बन्सेन बर्नर वर ठेवून पाणी असलेले शंक्वाकृती चंबू गरम करायला ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="UsingDropper">
+	<TEXT ID="UsingDropper_one">
+		<TEXTVALUE>ड्रॉपर वापरून २% अॅल्युमिनियम क्लोराइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Evaporate">
+	<TEXT ID="Evaporate_one">
+		<TEXTVALUE>एक एक थेंब अॅल्युमिनियम क्लोराइड द्रावण उकळत्या पाण्यात टाका.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Evaporate_two">
+		<TEXTVALUE>जो पर्यन्त अॅल्युमिनियम हायड्रोऑक्साइडचे पांढरे जेलसारखे द्रावण तयार होत नाही तोपर्यंत उकळत रहा.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Evaporate_three">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="ferrricsolution">
+	<TEXT ID="ferrricsolution_one">
+		<TEXTVALUE>खोलीच्या तापमानात काही वेळ शंक्वाकृती चंबूला हात लावू नका. ह्याला ‘अॅल्युमिनियम हायड्रोऑक्साइड सोल’ नाव द्या.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembrane">
+	<TEXT ID="Alumembrane_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alumembranetofunnel">
+	<TEXT ID="Alumembranetofunnel_one">
+		<TEXTVALUE>एक नरसाळे घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Alumembranetofunnel_two">
+		<TEXTVALUE>चर्मपत्र पटल नरसाळ्याला लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="alhydroxidesolution">
+	<TEXT ID="alhydroxidesolution_one">
+		<TEXTVALUE>चर्मपत्र पिशवी दोन-तृतीयांश भरेपर्यन्त अॅल्युमिनियम हायड्रोऑक्साइड सोल नरसाळ्यात ओता</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutiontomembrane">
+	<TEXT ID="solutiontomembrane_one">
+		<TEXTVALUE>चर्मपत्र पिशवी दोन-तृतीयांश भरेपर्यन्त अॅल्युमिनियम हायड्रोऑक्साइड सोल नरसाळ्यात ओता</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipintowater">
+	<TEXT ID="dipintowater_one">
+		<TEXTVALUE>सोल असलेले पटल आणि नरसाळे स्टँडला लावा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_two">
+		<TEXTVALUE>चर्मपत्र पिशवी ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात बुडवा आणि नरसाळे क्लांप ने जागेवर अडकवून ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_three">
+		<TEXTVALUE>चर्मपत्र पिशवी ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात बुडवा आणि नरसाळे क्लांप ने जागेवर अडकवून ठेवा.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dipintowater_four">
+		<TEXTVALUE>अर्ध्या तासानंतर, ड्रॉपर वापरून थोडेसे पाणी चंचुपात्रातून घ्या.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="totesttubestand">
+	<TEXT ID="totesttubestand_one">
+		<TEXTVALUE>ते परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sivernitrate">
+	<TEXT ID="sivernitrate_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे सिल्वर नायट्रेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitate">
+	<TEXT ID="whiteprecipitate_one">
+		<TEXTVALUE>पाणी असलेल्या परिक्षा नळीत काही थेंब सिल्वर नायट्रेट द्रावण टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whiteprecipitate_two">
+		<TEXTVALUE>लगेच AgCl चे पांढरे अवक्षेपण निर्माण होईल, आणि हे पाण्यामध्ये क्लोराइड आयन ची उपस्थिती सूचित करते. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Alucloseup">
+	<TEXT ID="Alucloseup_one">
+		<TEXTVALUE>लगेच AgCl चे पांढरे अवक्षेपण निर्माण होईल, आणि हे पाण्यामध्ये क्लोराइड आयन ची उपस्थिती सूचित करते. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondbeaker">
+	<TEXT ID="secondbeaker_one">
+		<TEXTVALUE>चंचुपात्रातले पाणी टाकून, परत ऊर्ध्वपतित पाणी त्यात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondbeaker_two">
+		<TEXTVALUE>१० मिनिटे त्याला हात लावू नका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Frombeaker">
+	<TEXT ID="Frombeaker_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थिती ची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttubetransfer">
+	<TEXT ID="totesttubetransfer_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थिती ची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromsivenitrate">
+	<TEXT ID="fromsivenitrate_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थिती ची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitatesolution">
+	<TEXT ID="whiteprecipitatesolution_one">
+		<TEXTVALUE>जर पांढरे अवक्षेपण निर्माण झाले, तर अपोहन सुरू ठेवले पाहिजे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateclose">
+	<TEXT ID="whiteprecipitateclose_one">
+		<TEXTVALUE>जर पांढरे अवक्षेपण निर्माण नाही झाले, तर क्लोराइड आयन उपस्थित नाही. हे दर्शविते की अपोहन पूर्ण झाले, नाहीतर सोल मध्ये अजून क्लोराइड आयन आहेत आणि अपोहन अजून सुरू ठेवले पाहिजे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: २% फेरिक क्लोराइड द्रावणसिल्वर नायट्रेट द्रावण, ड्रॉपर, काचेचा रॉड, ऊर्ध्वपतित पाणी, चंचुपात्र, तार गोझ, तिवई, बन्सेन बर्नर, नरसाळे, शंक्वाकृती चंबू, चर्मपत्र पटल, क्लांप असलेला लोखंडी स्टँड</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="FerricSteamingOutProcess">
+	<TEXT ID="FerricSteamingOutProcess_one">
+		<TEXTVALUE>एक २५० मिली शंक्वाकृती चंबू घ्या आणि बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricSteamClose">
+	<TEXT ID="FerricSteamClose_one">
+		<TEXTVALUE>एक २५० मिली शंक्वाकृती चंबू घ्या आणि बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FerricMeasuringJar">
+	<TEXT ID="FerricMeasuringJar_one">
+		<TEXTVALUE>ह्या स्वच्छ झालेल्या शंक्वाकृती चंबूत १०० मिली ऊर्ध्वपतित पाणी टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricHeating">
+	<TEXT ID="FerricHeating_one">
+		<TEXTVALUE>बन्सेन बर्नर वर ठेवून पाणी असलेले शंक्वाकृती चंबू गरम करायला ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricUsingDropper">
+	<TEXT ID="FerricUsingDropper_one">
+		<TEXTVALUE>ड्रॉपर वापरून २% फेरिक क्लोराइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FerricEvaporate">
+	<TEXT ID="FerricEvaporate_one">
+		<TEXTVALUE>एक एक थेंब फेरिक क्लोराइड द्रावण उकळत्या पाण्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_two">
+		<TEXTVALUE>Continue boiling until deep red or brown solution of ferric hydroxide is obtained.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricEvaporate_three">
+		<TEXTVALUE>Continue boiling until deep red or brown solution of ferric hydroxide is obtained.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="ferrricsolution1">
+	<TEXT ID="ferrricsolution1_one">
+		<TEXTVALUE>खोलीच्या तापमानात काही वेळ शंक्वाकृती चंबूला हात लावू नका. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ferrricsolution1_two">
+		<TEXTVALUE>ह्याला ‘फेरिक हायड्रोऑक्साइड सोल’ नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembrane">
+	<TEXT ID="Ferricmembrane_one">
+		<TEXTVALUE>एक नरसाळे घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricmembranetofunnel">
+	<TEXT ID="Ferricmembranetofunnel_one">
+		<TEXTVALUE>चर्मपत्र पटल नरसाळ्याला लावा.नरसाळ्याच्या दांडीला एक चर्मपत्र पटल लावा. नरसाळ्याच्या दांडीला धाग्याने चर्मपत्र पटल बांधा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrichydroxidesolution">
+	<TEXT ID="ferrrichydroxidesolution_one">
+		<TEXTVALUE>‘फेरिक हायड्रोऑक्साइड सोल’ घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsolutiontomembrane">
+	<TEXT ID="Ferricsolutiontomembrane_one">
+		<TEXTVALUE>चर्मपत्र पिशवी दोन-तृतीयांश भरेपर्यन्त फेरिक हायड्रोऑक्साइड सोल नरसाळ्यात ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricdipintowater">
+	<TEXT ID="Ferricdipintowater_one">
+		<TEXTVALUE>सोलने भरलेली चर्मपत्र पिशवी ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात बुडवा आणि नरसाळे क्लांप ने जागेवर अडकवून ठेवा. ह्याला अर्धा तास असेच राहू द्या.
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricdipintowater_two">
+		<TEXTVALUE>अर्ध्या तासानंतर, ड्रॉपर वापरून थोडेसे पाणी चंचुपात्रातून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>ते परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricsivernitrate">
+	<TEXT ID="Ferricsivernitrate_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे सिल्वर नायट्रेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricwhiteprecipitate">
+	<TEXT ID="Ferricwhiteprecipitate_one">
+		<TEXTVALUE>पाणी असलेल्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ferricwhiteprecipitate_two">
+		<TEXTVALUE>लगेच AgCl चे पांढरे अवक्षेपण निर्माण होईल, आणि हे पाण्यामध्ये क्लोराइड आयन ची उपस्थिती सूचित करते</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferriccloseup">
+	<TEXT ID="Ferriccloseup_one">
+		<TEXTVALUE>लगेच AgCl चे पांढरे अवक्षेपण निर्माण होईल, आणि हे पाण्यामध्ये क्लोराइड आयन ची उपस्थिती सूचित करते</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="secondsolution">
+	<TEXT ID="secondsolution_one">
+		<TEXTVALUE>चंचुपात्रातले पाणी टाकून, परत ऊर्ध्वपतित पाणी त्यात ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="secondsolution_two">
+		<TEXTVALUE>१० मिनिटे असेच राहू दे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थितीची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferrictotesttubetransfer">
+	<TEXT ID="Ferrictotesttubetransfer_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थितीची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="fromsivernitrate">
+	<TEXT ID="fromsivernitrate_one">
+		<TEXTVALUE>क्लोराइड आयन च्या उपस्थितीची परिक्षा परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whteprecipitatetube">
+	<TEXT ID="whteprecipitatetube_one">
+		<TEXTVALUE>जर पांढरे अवक्षेपण निर्माण झाले, तर अपोहन सुरू ठेवले पाहिजे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whiteprecipitateresult">
+	<TEXT ID="whiteprecipitateresult_one">
+		<TEXTVALUE>जर पांढरे अवक्षेपण निर्माण नाही झाले, तर क्लोराइड आयन उपस्थित नाही. हे दर्शविते की अपोहन पूर्ण झाले, नाहीतर सोल मध्ये अजून क्लोराइड आयन आहेत आणि अपोहन अजून सुरू ठेवले पाहिजे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1Arsetitle">
+	<TEXT ID="1Arsetitle_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2Arseintro">
+	<TEXT ID="2Arseintro_one">
+		<TEXTVALUE>आवश्यक सामग्री: स्थायुरूपात आरसेनियस ऑक्साइड, हायड्रोजन सल्फाइड वायु, ऊर्ध्वपतित पाणी, शंक्वाकृती चंबू, चंचुपात्र, आरबी चंबू, काचेचा रॉड, काचेची नलिका, फिल्टर कागद, तार गोझ, तिवई, बन्सेन बर्नर, किप्स उपकरण, क्लांप असलेला लोखंडी स्टँड इत्यादी.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Arsetakeconicalflask">
+	<TEXT ID="3Arsetakeconicalflask_one">
+		<TEXTVALUE>एक २५० मिली शंक्वाकृती चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4Arsesteamingoutprocess">
+	<TEXT ID="4Arsesteamingoutprocess_one">
+		<TEXTVALUE>बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5Arsesteamingzoom">
+	<TEXT ID="5Arsesteamingzoom_one">
+		<TEXTVALUE>बाष्पीभवन करून स्वच्छ करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Arsesteamingback">
+	<TEXT ID="6Arsesteamingback_one">
+		<TEXTVALUE>स्वच्छ शंक्वाकृती चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7Arsetakeconicalflaskback">
+	<TEXT ID="7Arsetakeconicalflaskback_one">
+		<TEXTVALUE>स्वच्छ शंक्वाकृती चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8Arsetaktake">
+	<TEXT ID="8Arsetaktake_one">
+		<TEXTVALUE>ह्या स्वच्छ शंक्वाकृती चंबूत ०.२ ग्राम आरसेनियस ऑक्साइड टाका.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+<SCENE ID="9Arsetakeconicalflask3">
+	<TEXT ID="9Arsetakeconicalflask3_one">
+		<TEXTVALUE>ह्या स्वच्छ शंक्वाकृती चंबूत ०.२ ग्राम आरसेनियस ऑक्साइड टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10Arsetakeconwater">
+	<TEXT ID="10Arsetakeconwater_one">
+		<TEXTVALUE>मापन जार मध्ये १०० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11Arsetakeconwater2">
+	<TEXT ID="11Arsetakeconwater2_one">
+		<TEXTVALUE>आरसेनियस ऑक्साइड असलेल्या शंक्वाकृती चंबूत ते ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12Arsetakeconwater3">
+	<TEXT ID="12Arsetakeconwater3_one">
+		<TEXTVALUE>द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13Arsesteamingflame">
+	<TEXT ID="13Arsesteamingflame_one">
+		<TEXTVALUE> बन्सेन बर्नर वर चंबू ठेवून १० मिनिटे उकळा, आणि सतत ढवळत रहा. आरसेनियस ऑक्साइड ह्याचे उकळत्या ऊर्ध्वपतित पाण्यात जलीय अपघटन होते आणि आरसेनस आम्ल निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14Arsesteamingflam6">
+	<TEXT ID="14Arsesteamingflam6_one">
+		<TEXTVALUE>बन्सेन बर्नर वर चंबू ठेवून १० मिनिटे उकळा, आणि सतत ढवळत रहा. आरसेनियस ऑक्साइड ह्याचे उकळत्या ऊर्ध्वपतित पाण्यात जलीय अपघटन होते आणि आरसेनस आम्ल निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15glassrod">
+	<TEXT ID="15glassrod_one">
+		<TEXTVALUE>नरसाळ्यात शंकू आकाराचा फिल्टर कागद ठेवा, आणि नरसाळ्यात काचेचा रॉड ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="15glassrod_two">
+		<TEXTVALUE>नरसाळ्यात शंकू आकाराचा फिल्टर कागद ठेवा, आणि नरसाळ्यात काचेचा रॉड ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16glassrozoom">
+	<TEXT ID="16glassrozoom_one">
+		<TEXTVALUE>चंचुपात्रातले गरम द्रावण गाळा आणि गाळण दुसर्यार चंचुपात्रात एकत्र करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17takebeaker">
+	<TEXT ID="17takebeaker_one">
+		<TEXTVALUE>आरसेनस आम्लामध्ये हळू हळू हायड्रोजन सल्फाइड वायु सोडा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takebeaker_two">
+		<TEXTVALUE>आरसेनस आम्ल आणि हायड्रोजन सल्फाइड ह्यांची अभिक्रिया होते आणि पिवळे आरसेनियस सल्फाइड निर्माण होते. जो पर्यन्त रंग स्थिर होत नाही, तो पर्यन्त हायड्रोजन सल्फाइड वायु सोडत रहा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17A">
+	<TEXT ID="17A_one">
+		<!--<TEXTVALUE>Pass a slow current of H[sub]2[/sub]S into As[sub]2[/sub]O[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>सोल उकळून अतिरिक्त हायड्रोजन सल्फाइड वायु काढून टाका. जो पर्यन्त सोलमधून निघणारी वायु लेड अॅसिटेट कागदाला काळे करीत नाही तो पर्यन्त उकळा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_two">
+		<!--<TEXTVALUE>The solution develops a yellow color due to the formation of As[sub]2[/sub]S[sub]3[/sub].</TEXTVALUE>-->
+		<TEXTVALUE>सोल उकळून अतिरिक्त हायड्रोजन सल्फाइड वायु काढून टाका. जो पर्यन्त सोलमधून निघणारी वायु लेड अॅसिटेट कागदाला काळे करीत नाही तो पर्यन्त उकळा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17A_three">
+		<TEXTVALUE></TEXTVALUE>		
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18glassrozoom3">
+	<TEXT ID="18glassrozoom3_one">
+		<TEXTVALUE>द्रावण गाळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20glassrozoom4">
+	<TEXT ID="20glassrozoom4_one">
+		<TEXTVALUE>पिवळे गळण कोरड्या शंक्वाकृती चंबूत एकत्र करा आणि बूच लावा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="20glassrozoom4_two">
+		<TEXTVALUE>गळणाला ‘आरसेनीयस सल्फाइड सोल’ असे नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

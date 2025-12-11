@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>पायस निर्माण करण्यासाठी विविध तेलांची परिणामकारकता</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="button_txt">
+		<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Intrductionsc">
+	<TEXT ID="label1">
+		<TEXTVALUE>एरंडेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label2">
+		<TEXTVALUE>सरकीचे तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label3">
+		<TEXTVALUE>खोबरेल तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label4">
+		<TEXTVALUE>केरोसिन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label5">
+		<TEXTVALUE>मोहरीचे तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label6">
+		<TEXTVALUE>१% साबणाचे द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label7">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Intrductionsc_one">
+		<TEXTVALUE>आवश्यक सामग्री: एरंडेल, सरकीचे तेल, खोबरेल तेल, केरोसिन, मोहरीचे तेल, १% साबणाचे द्रावण, मापन नळकांडे, ५ मिलि शोषनलिका, ऊर्ध्वपतित पाणी, ए, बी, सी, डी या नावाच्या ५ बूच असलेल्या बाटल्या, स्टॉप वॉच इत्यादी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Intrductionsc1">
+	<TEXT ID="Intrductionsc1_one">
+		<TEXTVALUE>प्लॅस्टिकची शोषनलिका घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="casteroil">
+	<TEXT ID="casteroil_one">
+		<TEXTVALUE>शोषनलिका वापरून ५ मिली एरंडेल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Abottlepoured">
+	<TEXT ID="Abottlepoured_one">
+		<TEXTVALUE>ते तेल ए नावच्या बूच असलेल्या बाटलीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="wastetip">
+	<TEXT ID="wastetip_one">
+		<TEXTVALUE>शोषनलिका टाकून द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pipette">
+		<TEXTVALUE>वेस्ट शोषनलिका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2pipet">
+	<TEXT ID="2pipet_one">
+		<TEXTVALUE>नवीन शोषनलिका घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseed">
+	<TEXT ID="cottonseed_one">
+		<TEXTVALUE>शोषनलिका वापरून ५ मिली सरकीचे तेल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="AbottlepouredB">
+	<TEXT ID="AbottlepouredB_one">
+		<TEXTVALUE>ते तेल बी नावच्या बूच असलेल्या बाटलीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Abottlepouredall">
+	<TEXT ID="Abottlepouredall_one">
+		<TEXTVALUE>तसेच ५ मिली खोबरेल तेल बाटली सी मध्ये, केरोसिन बाटली डी मध्ये आणि मोहरीचे तेल बाटली ई मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring">
+	<TEXT ID="measuring_one">
+		<TEXTVALUE>मापन नळकांडे वापरून ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour">
+	<TEXT ID="waterpour_one">
+		<TEXTVALUE>मापन नळकांडे वापरून ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour_two">
+		<TEXTVALUE>बाटली ए मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>मापन नळकांडे वापरून ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour2">
+	<TEXT ID="waterpour2_one">
+		<TEXTVALUE>मापन नळकांडे वापरून ५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour2_two">
+		<TEXTVALUE>ते तेल बी नावच्या बूच असलेल्या बाटलीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="allbottles">
+	<TEXT ID="allbottles_one">
+		<TEXTVALUE>तसेच ५० मिली ऊर्ध्वपतित पाणी उरलेल्या बाटल्या सी, डी आणि ई मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="allbottles_two">
+		<TEXTVALUE>बूच असलेली बाटली ए घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="allbottles1">
+	<TEXT ID="allbottles1_one">
+		<TEXTVALUE>१ मिनिट तिला जोरात हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="minute">
+		<TEXTVALUE>१ 
+मिनिट </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="stopwatchA">
+	<TEXT ID="stopwatchA_one">
+		<TEXTVALUE>मग तिला उभी करा आणि स्टॉप वॉच लगेच सुरू करा.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart1copy">
+	<TEXT ID="timeschart1copy_one">
+		<TEXTVALUE>दोन थर (तेलाचा थर आणि पाण्याचा थर) वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा आणि निरक्षण नोंदवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h1">
+		<TEXTVALUE> तेलांच्या बाटल्या</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE> साबणाच्या द्रावणाशिवाय थर वेगळे व्हायला 
+लागणारा वेळ [सेकंदात]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val">
+		<TEXTVALUE>एरंडेल -A</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesB">
+	<TEXT ID="allbottlesB_one">
+		<TEXTVALUE>बूच असलेली बाटली B घ्या. .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottles1B">
+	<TEXT ID="allbottles1B_one">
+		<TEXTVALUE>१ मिनिट त्याला जोरात हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchB">
+	<TEXT ID="stopwatchB_one">
+		<TEXTVALUE>मग त्याला उभे करा आणि स्टॉप वॉच लगेच सुरू करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart">
+	<TEXT ID="timeschart_one">
+		<TEXTVALUE>दोन थर वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा. तीच प्रक्रिया बाटली सी, डी आणि ई साठी पण करा आणि  दोन थर वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा आणि निरक्षण नोंदवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_1">
+		<TEXTVALUE>सरकीचे तेल-B</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_2">
+		<TEXTVALUE>खोबरेल तेल-C</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_3">
+		<TEXTVALUE>केरोसिन-D</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_4">
+		<TEXTVALUE>मोहरीचे तेल-E</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapsolution">
+	<TEXT ID="soapsolution_one">
+		<TEXTVALUE>ड्रॉपर वापरून १% साबणाचे द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapA">
+	<TEXT ID="soapA_one">
+		<TEXTVALUE>बाटली ए मध्ये साबणाच्या द्रावणाचे १० थेंब  टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>१० थेंब </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapB">
+	<TEXT ID="soapB_one">
+		<TEXTVALUE>मग बाटली बी मध्ये साबणाच्या द्रावणाचे १० थेंब  टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapall">
+	<TEXT ID="soapall_one">
+		<TEXTVALUE>तसेच बाटली सी, डी आणि ई मध्ये साबणाच्या द्रावणाचे १० थेंब  टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapAshake">
+	<TEXT ID="soapAshake_one">
+		<TEXTVALUE>मग बाटली ए घ्या आणि १ मिनिट तिला जोरात हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchAsoap">
+	<TEXT ID="stopwatchAsoap_one">
+		<TEXTVALUE>मग त्याला उभे करा आणि स्टॉप वॉच लगेच सुरू करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapA">
+	<TEXT ID="timeschartsoapA_one">
+		<TEXTVALUE>दोन थर वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>साबणाच्या द्रावणाशिवाय थर वेगळे व्हायला लागणारा वेळ [सेकंदात]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesBsoap">
+	<TEXT ID="allbottlesBsoap_one">
+		<TEXTVALUE>मग बाटली B घ्या .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="shakeBsoap">
+	<TEXT ID="shakeBsoap_one">
+		<TEXTVALUE>१ मिनिट त्याला जोरात हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchBsoap">
+	<TEXT ID="stopwatchBsoap_one">
+		<TEXTVALUE>मग त्याला उभे करा आणि स्टॉप वॉच लगेच सुरू करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapAcopy">
+	<TEXT ID="line_1">
+		<TEXTVALUE>•पायसातून वेगळे होण्यासाठी ज्या तेलाला सर्वाधिक वेळ लागतो – तिळाचे तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_2">
+		<TEXTVALUE>•पायसातून वेगळे होण्यासाठी किमान तेलाला सर्वाधिक वेळ लागतो – केरोसिन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_3">
+		<TEXTVALUE>•स्थिरतेचा उतरता क्रम आहे: </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_4">
+		<TEXTVALUE>मोहरीचे तेल > खोबरेल तेल > सरकीचे तेल > एरंडेल > केरोसिन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_one">
+		<TEXTVALUE>दोन थर वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा. तीच प्रक्रिया बाटली सी, डी आणि ई साठी पण करा आणि  दोन थर वेगळे व्हायला किती वेळ लागतो त्याची नोंद करा आणि निरक्षण नोंदवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_two">
+		<TEXTVALUE>निरीक्षणावरून असे दिसेल की पायसातून वेगळे होण्यासाठी मोहरीचे तेल सर्वाधिक वेळ घेते आणि केरोसिन सगळ्यात कमी.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_three">
+		<TEXTVALUE>स्थिरतेचा उतरता क्रम आहे: मोहरीचे तेल > खोबरेल तेल > सरकीचे तेल > एरंडेल > केरोसिन</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+<!-- Interactive_scenes-->
+
+<SCENE ID="Heading">
+	<TEXT ID="Heading_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- Ferrous ammonium sulphate -->
+
+<SCENE ID="firstschead">
+	<TEXT ID="firstschead_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstsc">
+	<TEXT ID="firstsc_one">
+	<TEXTVALUE>आवश्यक सामग्री: इलेक्ट्रॉनिक काटा, तार गोझ, तिवई, बन्सेन बर्नर, चायना ताटली, फेरस सल्फेट, अमोनियम सल्फेट, चंचुपात्र, विरल सल्फ्युरिक आम्ल, इथाइल अल्कोहोल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrros">
+	<TEXT ID="ferrros_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे फेरस सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweigh">
+	<TEXT ID="inweigh_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक काट्यावर बटर कागद ठेवा आणि काट्याचे वाचनांक शून्य करा. फेरस सल्फेट स्फटिके बटर कागदावर ठेवा आणि ७ ग्राम मोजून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeaker">
+	<TEXT ID="inbeaker_one">
+	<TEXTVALUE>वजन केलेले फेरस सल्फेट एका चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ammonium">
+	<TEXT ID="ammonium_one">
+	<TEXTVALUE>आता इलेक्ट्रॉनिक काटा वापरून ३.५ ग्राम अमोनियम सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoni">
+	<TEXT ID="inweighammoni_one">
+	<TEXTVALUE>आता इलेक्ट्रॉनिक काटा वापरून ३.५ ग्राम अमोनियम सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammo">
+	<TEXT ID="inbeakerammo_one">
+	<TEXTVALUE>त्याच चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sulphu">
+	<TEXT ID="sulphu_one">
+	<TEXTVALUE>मापन जार वापरून ३ मिली विरल सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowder">
+	<TEXT ID="dilsulphuinpowder_one">
+	<TEXTVALUE>फेरस सल्फेट आणि अमोनियम सल्फेट असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water">
+	<TEXT ID="water_one">
+	<TEXTVALUE>दूसरे मापन जार वापरून २० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeaker">
+	<TEXT ID="waterinbeaker_one">
+	<TEXTVALUE>हे दुसर्याट चंचुपात्रात टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="tripode">
+	<TEXT ID="tripode_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेले चंचुपात्र ५ मिनिटे उकळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hotwateradd">
+	<TEXT ID="hotwateradd_one">
+	<TEXTVALUE>उकळणारे पाणी पहिल्या चंचुपात्रात थोडे थोडे टाका आणि काचेच्या रॉडने ढवळत रहा. असे संपूर्ण क्षार विरघळे पर्यन्त करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnel">
+	<TEXT ID="funnel_one">
+	<TEXTVALUE>एक नरसाळे स्टँडला लावा. आणि त्यात फिल्टर कागद बसवा. नरसाळ्याखाली चायना ताटली ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeit">
+	<TEXT ID="takeit_one">
+	<TEXTVALUE>चंचुपात्राताळे द्रावण नरसाळ्यातून गाळून चायना ताटलीत एकत्र करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelflush">
+	<TEXT ID="funnelflush_one">
+	<TEXTVALUE>चंचुपात्राताळे द्रावण नरसाळ्यातून गाळून चायना ताटलीत एकत्र करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chinainheat">
+	<TEXT ID="chinainheat_one">
+	<TEXTVALUE>स्वच्छ गळण असलेली चायना ताटली तिवई वर ठेवलेल्या तार गोझ वर ठेवा. जोपर्यंत स्फटिकीकरण बिन्दु साध्य होत नाही तोपर्यंत हळू हळू ढवळत गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystelise">
+	<TEXT ID="crystelise_one">
+	<TEXTVALUE>संहत द्रावण स्फटिकीकरण ताटलीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_two">
+	<TEXTVALUE>ताटली वॉच ग्लासने झाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_three">
+	<TEXTVALUE>स्फटिकीकरण ताटलीत एका थंड पाण्याच्या कुंडात ठेवून गार होऊ द्या. जसे द्रावण थंड होते, फेरस अमोनियम सल्फेट ची स्फटिके (मोहर क्षार) वेगळी होतात. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crysteliseout">
+	<TEXT ID="crysteliseout_one">
+	<TEXTVALUE>पटकन शेष द्रावण निवळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intable">
+	<TEXT ID="intable_one">
+	<TEXTVALUE>थोडेसे इथाइल अल्कोहोल ताटलीत टाका आणि अल्कोहोल ने स्फटिके धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelalcohol">
+	<TEXT ID="funnelalcohol_one">
+	<TEXTVALUE>उरलेले इथाइल अल्कोहोल नरसाळे वापरून गाळून टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	<TEXTVALUE>मोहर क्षाराची स्फटिके एका फिल्टर कागदावर ठेवा आणि वरून अजून एक कागद ठेवून हळूच दाबा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filterpaper_two">
+	<TEXTVALUE>कोरडी मोहर क्षाराची स्फटिके एका वॉच ग्लास वर ठेवा आणि त्याला नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- Potash alum-->
+
+<SCENE ID="TitlePottash">
+	<TEXT ID="TitlePottash_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroApparatusS2">
+	<TEXT ID="IntroApparatusS2_one">
+	<TEXTVALUE>आवश्यक सामग्री: इलेक्ट्रॉनिक काटा, स्पाट्युला, वॉच ग्लास, पोटाशियम सल्फेट, अमोनियम सल्फेट, मापन जार, तार गोझ, तिवई, बन्सेन बर्नर, चायना ताटली, चंचुपात्र, विरल सल्फ्युरिक आम्ल, इथाइल अल्कोहोल-पाणी मिश्रण, ऊर्ध्वपतित पाणी, स्फटिकीकरण ताटली, क्लांप असलेला स्टँड इत्यादी. 	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Watchglass2machineS2">
+	<TEXT ID="Watchglass2machineS2_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक काट्यावर बटर कागद ठेवा आणि काट्याचे वाचनांक शून्य करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotassiumInSpatulaS2">
+	<TEXT ID="PotassiumInSpatulaS2_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे पोटाशियम सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Potassium2PlateS2">
+	<TEXT ID="Potassium2PlateS2_one">
+	<TEXTVALUE>पोटाशियम सल्फेट बटर कागदावर ठेवा आणि २.५ ग्राम मोजून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterMixingPotasiumS3">
+	<TEXT ID="WaterMixingPotasiumS3_one">
+	<TEXTVALUE>वजन केलेले पोटाशियम सल्फेट एका चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WaterMixingPotasiumS3_two">
+	<TEXTVALUE>मापन जार वापरून २० मिली ऊर्ध्वपतित पाणी घ्या आणि चंचुपात्रात टाका. संपूर्ण क्षार विरघळे पर्यन्त काचेच्या रॉडने चंचुपात्रातले द्रावण ढवळत रहा. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2ndWatchglass2MachineS4">
+	<TEXT ID="2ndWatchglass2MachineS4_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक काट्यावर दुसरे बटर कागद ठेवा आणि काट्याचे वाचनांक शून्य करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminimInSpatulaS4">
+	<TEXT ID="AluminimInSpatulaS4_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे अॅल्युमिनियम सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Aluminim2plateS4">
+	<TEXT ID="Aluminim2plateS4_one">
+	<TEXTVALUE>अॅल्युमिनियम सल्फेट बटर कागदावर ठेवा आणि १० ग्राम मोजून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WterMixingAluminiumS5">
+	<TEXT ID="WterMixingAluminiumS5_one">
+	<TEXTVALUE>दुसर्याि चंचुपात्रात टाका</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WterMixingAluminiumS5_two">
+	<TEXTVALUE>२० मिली ऊर्ध्वपतित पाणी घेऊन अॅल्युमिनियम सल्फेट असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricInJarS5">
+	<TEXT ID="SulphuricInJarS5_one">
+	<TEXTVALUE>१ मिली विरल सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricAdded2AluminimS5">
+	<TEXT ID="SulphuricAdded2AluminimS5_one">
+	<TEXTVALUE>अॅल्युमिनियम सल्फेट असलेल्या चंचुपात्रात टाका म्हणजे अॅल्युमिनियम सल्फेट चे जलीय अपघटन होणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminiSulphateDissolveS6">
+	<TEXT ID="AluminiSulphateDissolveS6_one">
+	<TEXTVALUE>चंचुपात्र ५ मिनिटे गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Mixing2SolutionsS6">
+	<TEXT ID="Mixing2SolutionsS6_one">
+	<TEXTVALUE>आधी अॅल्युमिनियम सल्फेट द्रावण आणि मग पोटाशियम सल्फेट द्रावण चायना ताटलीत टाका. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Mixing2SolutionsS6_two">
+	<TEXTVALUE>दोन्ही द्रावण काचेच्या रॉडने मिसळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingCrystalizationpointS7">
+	<TEXT ID="HeatingCrystalizationpointS7_one">
+	<TEXTVALUE>बन्सेन बर्नर वर ठेवलेल्या तार गोझ वर द्रावण असलेली चायना ताटली ठेवा. जोपर्यंत स्फटिकीकरण बिन्दु साध्य होत नाही तोपर्यंत हळू हळू ढवळत गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DishCoveringWithPlateS8">
+	<TEXT ID="DishCoveringWithPlateS8_one">
+	<TEXTVALUE>संहत द्रावण स्फटिकीकरण ताटलीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DishCoveringWithPlateS8_two">
+	<TEXTVALUE>ताटली वॉच ग्लासने झाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumSeparatedS8">
+	<TEXT ID="PotashAlumSeparatedS8_one">
+	<TEXTVALUE>स्फटिकीकरण ताटलीत एका थंड पाण्याच्या कुंडात ठेवून गार होऊ द्या. जसे द्रावण थंड होते, पोटाश तुरटी ची स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolutionDecantS9">
+	<TEXT ID="SolutionDecantS9_one">
+	<TEXTVALUE>शेष द्रावण एका चंचुपात्रात निवळून घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FilteringUpperSoluS10">
+	<TEXT ID="FilteringUpperSoluS10_one">
+	<TEXTVALUE>एक नरसाळे स्टँडला लावा. आणि त्यात फिल्टर कागद बसवा. नरसाळ्याखाली चंचुपात्र ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_two">
+	<TEXTVALUE>अल्कोहोल-थंड पाणी मिश्रण ताटलीत टाकून स्फटिके धुवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_three">
+	<TEXTVALUE>धुवायला वापरलेले पाणी नरसाळ्यातून चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_four">
+	<TEXTVALUE>परत अल्कोहोल-थंड पाणी मिश्रण ताटलीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalFilteringS11">
+	<TEXT ID="CrystalFilteringS11_one">
+	<TEXTVALUE>सर्व स्फटिके नरसाळ्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_two">
+	<TEXTVALUE>ताटलीला चिकटलेली स्फटिके नरसाळ्यात टाकण्यासाठी असे परत करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_three">
+	<TEXTVALUE>स्पाट्युला वापरून नरसाळ्यातून स्फटिके घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumS12">
+	<TEXT ID="PotashAlumS12_one">
+	<TEXTVALUE>स्फटिके एका फिल्टर कागदावर ठेवा आणि वरून अजून एक कागद ठेवून हळूच दाबा आणि स्फटिके कोरडी करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PotashAlumS12_two">
+	<TEXTVALUE>कोरडी पोटाश तुरटीची स्फटिके एका वॉच ग्लास वर ठेवा आणि त्याला नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!-- Potassium trioxalatoferrate (III) -->
+
+<SCENE ID="firstscheadox">
+	<TEXT ID="firstscheadox_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstscox">
+	<TEXT ID="firstscox_one">
+	<TEXTVALUE>आवश्यक सामग्री: इलेक्ट्रॉनिक काटा, तार गोझ, तिवई, बन्सेन बर्नर, फेरिक क्लोराइड, पोटाशियम हायड्रोऑक्साइड, जलयुक्त पोटाशियम ऑक्सेएलईटी, चंचुपात्र, इथाइल अल्कोहोल, स्पाट्युला, काचेचा रॉड, बुक्नर नरसाळे इत्यादी.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrosox">
+	<TEXT ID="ferrrosox_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे फेरिक क्लोराइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighox">
+	<TEXT ID="inweighox_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक काट्यावर बटर कागद ठेवा आणि काट्याचे वाचनांक शून्य करा. फेरिक क्लोराइड बटर कागदावर ठेवा आणि ३.५ ग्राम मोजून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerox">
+	<TEXT ID="inbeakerox_one">
+	<TEXTVALUE>वजन केलेले फेरिक क्लोराइड एका चंचुपात्रात टाका. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water1ox">
+	<TEXT ID="water1ox_one">
+	<TEXTVALUE>मापन जार वापरून ५० मिली ऊर्ध्वपतित पाणी घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowderox">
+	<TEXT ID="dilsulphuinpowderox_one">
+	<TEXTVALUE>फेरिक क्लोराइड असलेल्या चंचुपात्रात टाका. फेरिक क्लोराइड संपूर्ण विरघळेपर्यंत काचेच्या रॉड ने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dilsulphuinpowderox_two">
+	<TEXTVALUE>संपूर्ण स्फटिके विरघळे पर्यन्त करा काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="pottasiumox">
+	<TEXT ID="pottasiumox_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे पोटाशियम हायड्रोऑक्साइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoniox">
+	<TEXT ID="inweighammoniox_one">
+	<TEXTVALUE>सुमारे ४ ग्राम पोटाशियम हायड्रोऑक्साइड वजन करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammoox">
+	<TEXT ID="inbeakerammoox_one">
+	<TEXTVALUE>दुसर्याु चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water2ox">
+	<TEXT ID="water2ox_one">
+	<TEXTVALUE>५० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeakerox">
+	<TEXT ID="waterinbeakerox_one">
+	<TEXTVALUE>पोटाशियम हायड्रोऑक्साइड असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterinbeakerox_two">
+	<TEXTVALUE>संपूर्ण पोटाशियम हायड्रोऑक्साइड विरघळे पर्यन्त काचेच्या रॉडने ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="stiringox">
+	<TEXT ID="stiringox_one">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावणात थोडे थोडे पोटाशियम हायड्रोऑक्साइड टाका आणि ढवळत रहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="stiringox_two">
+	<TEXTVALUE>फेरिक हायड्रोऑक्साइडचे अवक्षेपण निर्माण होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnelox">
+	<TEXT ID="buchnerfunnelox_one">
+	<TEXTVALUE>बुक्नर नरसाळ्यात फिल्टर कागद ठेवा आणि शेष द्रावण नरसाळ्यात ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwaterox">
+	<TEXT ID="distilledwaterox_one">
+	<TEXTVALUE>थोडेसे ऊर्ध्वपतित पाणी चंचुपात्रात टाका आणि अवक्षेपण धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2copyox">
+	<TEXT ID="buchnerfunneldist2copyox_one">
+	<TEXTVALUE>थोडेसे ऊर्ध्वपतित पाणी चंचुपात्रात टाका आणि अवक्षेपण धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldistox">
+	<TEXT ID="buchnerfunneldistox_one">
+	<TEXTVALUE>धुवायला वापरलेले पाणी बुक्नर नरसाळ्यात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwater2ox">
+	<TEXT ID="distilledwater2ox_one">
+	<TEXTVALUE>अवक्षेपण असलेल्या चंचुपात्रात थोडेसे ऊर्ध्वपतित पाणी टाका. हीच प्रक्रिया परत करा आणि अवक्षेपण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2ox">
+	<TEXT ID="buchnerfunneldist2ox_one">
+	<TEXTVALUE>अवक्षेपण असलेल्या चंचुपात्रात थोडेसे ऊर्ध्वपतित पाणी टाका. हीच प्रक्रिया परत करा आणि अवक्षेपण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnel2ox">
+	<TEXT ID="buchnerfunnel2ox_one">
+	<TEXTVALUE>अवक्षेपण असलेल्या चंचुपात्रात थोडेसे ऊर्ध्वपतित पाणी टाका. हीच प्रक्रिया परत करा आणि अवक्षेपण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedoxalicacidox">
+	<TEXT ID="hydratedoxalicacidox_one">
+	<TEXTVALUE>थोडेसे जलयुक्त ऑक्सेलिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicox">
+	<TEXT ID="weighoxalicox_one">
+	<TEXTVALUE>सुमारे ४ ग्राम ऑक्सेलिक आम्ल घ्या</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inoxabeakerox">
+	<TEXT ID="inoxabeakerox_one">
+	<TEXTVALUE>चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedpotassiumox">
+	<TEXT ID="hydratedpotassiumox_one">
+	<TEXTVALUE>मग थोडेसे जलयुक्त पोटाशियम ऑक्सेलेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicpottasiumox">
+	<TEXT ID="weighoxalicpottasiumox_one">
+	<TEXTVALUE>सुमारे ५.५ ग्राम पोटाशियम ऑक्सेलेट वजन करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="beakerox">
+	<TEXT ID="beakerox_one">
+	<TEXTVALUE>त्याच चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilwatrox">
+	<TEXT ID="distilwatrox_one">
+	<TEXTVALUE>१०० मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100mlinbeakerox">
+	<TEXT ID="100mlinbeakerox_one">
+	<TEXTVALUE>जलयुक्त ऑक्सेलिक आम्ल आणि जलयुक्त पोटाशियम ऑक्सेलेट असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="100mlinbeakerox_two">
+	<TEXTVALUE>काचेचा रॉड वापरून चंचुपात्रातले द्रावण नीट ढवळा म्हणजे एक पारदर्शी द्रावण मिळेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetaox">
+	<TEXT ID="percipitatetaox_one">
+	<TEXTVALUE>वरच्या चंचुपात्रात फेरिक हायड्रोऑक्साइडचे अवक्षेपण हळू हळू टाका आणि द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrox">
+	<TEXT ID="percipitateinbeakrox_one">
+	<TEXTVALUE>वरच्या चंचुपात्रात फेरिक हायड्रोऑक्साइडचे अवक्षेपण हळू हळू टाका आणि द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetacopyox">
+	<TEXT ID="percipitatetacopyox_one">
+	<TEXTVALUE>वरच्या चंचुपात्रात फेरिक हायड्रोऑक्साइडचे अवक्षेपण हळू हळू टाका आणि द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrcopyox">
+	<TEXT ID="percipitateinbeakrcopyox_one">
+	<TEXTVALUE>वरच्या चंचुपात्रात फेरिक हायड्रोऑक्साइडचे अवक्षेपण हळू हळू टाका आणि द्रावण ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelox">
+	<TEXT ID="funnelox_one">
+	<TEXTVALUE>एक नरसाळे स्टँडला लावा. आणि त्यात फिल्टर कागद बसवा. नरसाळ्याखाली चायना ताटली ठेवा. नरसाळ्याची काडी ताटलीच्या कडेला लावून ठेवा म्हणजे शिंतोडे उडणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeitox">
+	<TEXT ID="takeitox_one">
+	<TEXTVALUE>चायना ताटलीत द्रावण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="freakox">
+	<TEXT ID="freakox_one">
+	<TEXTVALUE>चायना ताटलीत द्रावण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbathox">
+	<TEXT ID="sandbathox_one">
+	<TEXTVALUE>जोपर्यंत स्फटिकीकरण बिन्दु साध्य होत नाही तोपर्यंत चायना ताटलीतले द्रावण वाळूच्या कुंडात गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linedrawox">
+	<TEXT ID="linedrawox_one">
+	<TEXTVALUE>जोपर्यंत स्फटिकीकरण बिन्दु साध्य होत नाही तोपर्यंत चायना ताटलीतले द्रावण वाळूच्या कुंडात गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbath2ox">
+	<TEXT ID="sandbath2ox_one">
+	<TEXTVALUE>जोपर्यंत स्फटिकीकरण बिन्दु साध्य होत नाही तोपर्यंत चायना ताटलीतले द्रावण वाळूच्या कुंडात गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="coldwaterox">
+	<TEXT ID="coldwaterox_one">
+	<TEXTVALUE>गरम संहत द्रावण असलेली चायना ताटली एका थंड पाण्याच्या कुंडात ठेवून गार होऊ द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_two">
+	<TEXTVALUE>चायना ताटली काळ्या कागदाने झाका कारण कॉम्प्लेक्स हे प्रकाशाला संवेदनशील आहे. थोडा वेळ द्रावण थंड होऊ द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_three">
+	<TEXTVALUE>जसे द्रावण थंड होते, पोटाशियम ट्रायक्साल्टोफेरेट (III) ची स्फटिके वेगळी होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteox">
+	<TEXT ID="sinkwasteox_one">
+	<TEXTVALUE>शेष द्रावण निवळून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethylalcoholox">
+	<TEXT ID="ethylalcoholox_one">
+	<TEXTVALUE>थोडेसे इथाइल अल्कोहोल ताटलीत टाका आणि अल्कोहोल ने स्फटिके धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethyltochinadishox">
+	<TEXT ID="ethyltochinadishox_one">
+	<TEXTVALUE>थोडेसे इथाइल अल्कोहोल ताटलीत टाका आणि अल्कोहोल ने स्फटिके धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteddox">
+	<TEXT ID="sinkwasteddox_one">
+	<TEXTVALUE>धुवायला वापरलेले पाणी चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastox">
+	<TEXT ID="lastox_one">
+	<TEXTVALUE>स्फटिके एका फिल्टर कागदावर ठेवा आणि वरून अजून एक कागद ठेवून हळूच दाबा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="labeledcrystalox">
+	<TEXT ID="labeledcrystalox_one">
+	<TEXTVALUE>कोरडी कॉम्प्लेक्सची स्फटिके एका वॉच ग्लास वर ठेवा आणि त्याला नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

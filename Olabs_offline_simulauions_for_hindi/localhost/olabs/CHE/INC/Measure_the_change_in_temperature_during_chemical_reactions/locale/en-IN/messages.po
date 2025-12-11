@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\\n\n"
+"POT-Creation-Date: 2022-03-16 15:50+0530\n"
+"PO-Revision-Date: 2022-03-16 15:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: h<h>\\n\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+

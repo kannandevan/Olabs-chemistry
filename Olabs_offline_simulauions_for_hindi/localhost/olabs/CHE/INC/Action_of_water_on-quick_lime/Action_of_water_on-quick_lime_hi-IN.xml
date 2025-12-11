@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_animatitle_01">
+	<TEXTVALUE>संयुक्‍त अभिक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_start">
+	<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2into">
+	<TEXT ID="2into_one">
+	 <TEXTVALUE>हमें अनबुझा चूना (क्विक लाइम), डिस्टिल्‍ड पानी, बीकर, स्पैटुला, कांच की छड़ी, टेस्ट ट्यूब, ड्रॉपर, और चूने के पानी की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_02">
+	 <TEXTVALUE>पानी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_03">
+	 <TEXTVALUE>क्विक लाइम</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+
+
+
+
+<SCENE ID="3lime">
+	<TEXT ID="3lime_one">
+	 <TEXTVALUE>अनबुझा चूना (क्विक लाइम)(कैल्शियम ऑक्साइड) की थोड़ी सी मात्रा लें और स्पैटुला का इस्‍तेमाल करके बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="3lime_two">
+	 <TEXTVALUE>बीकर में धीरे धीरे पानी मिलाएं ताकि अनबुझा चूना (क्विक लाइम)पानी में डूबा रहे।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3lime_therm01">
+	 <TEXTVALUE>थर्मो मीटर</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+
+<SCENE ID="4zoom">
+	<TEXT ID="4zoom_one">
+	 <TEXTVALUE>बुझे चूने का निलंबन (सस्‍पेंशन) बनाने के लिए अनबुझा चूना (क्विक लाइम)पानी के साथ तेजी से अभिक्रिया करता है और ढेर सारी उष्‍मा मुक्‍त करता है</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4zoom_text_04">
+	 <TEXTVALUE>क्विक लाइम</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5zom">
+	<TEXT ID="5zom_one">
+	 <TEXTVALUE>कुछ समय के लिए बीकर को बिना छेड़छाड़ के छोड़ दें। जब बुझे चूनं का निलंबन (सस्पेंशन) बीकर की तली में बैठ जाता है तों चूने के पानी का स्पष्ट विलयन (साल्यूशन) दिखाई देने लगता है।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5zom_two">
+	 <TEXTVALUE>जब बुझे चूनं का निलंबन (सस्पेंशन) बीकर की तली में बैठ जाता है तों चूने के पानी का स्पष्ट विलयन (साल्यूशन) दिखाई देने लगता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_lime_tt01">
+	 <TEXTVALUE>चूने के पानी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_texttt_05">
+	 <TEXTVALUE>क्विक लाइम</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="6zom1">
+	<TEXT ID="6zom1_one">
+	 <TEXTVALUE>ड्रॉपर का इस्‍तेमाल करके चूने के पानी की थोड़ी सी मात्रा लें और इसे एक टेस्ट ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6zom1_two">
+	 <TEXTVALUE>कॉर्क से टेस्ट ट्यूब बंद कर दें और कार्क के छेद के जरिए टेस्‍ट ट्यूब ग्लास ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_lom_tt1">
+	 <TEXTVALUE>चूने के पानी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_glat_txt01">
+	 <TEXTVALUE>कांच की छड़ी</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+
+
+
+<SCENE ID="7face">
+	<TEXT ID="7face_one">
+	 <TEXTVALUE>ग्लास ट्यूब  से टेस्ट ट्यूब में मुंह से हवा फूंके।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8zoom3">
+	<TEXT ID="8zoom3_one">
+	 <TEXTVALUE>जब मुंह से हवा फूंकी जाती है, तो इसमें मौजूद CO2(g) चूने के पानी को दूधिया बना देती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+	 <TEXTVALUE>इस अभिक्रिया में अनबुझा चूना (क्विक लाइम)और पानी एक एकल उत्पाद: बुझा चूना (कैल्शियम हाइड्रोक्साइड) बनाने के लिए संयुक्‍त होते हैं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_calsiumtxt_01">
+	 <TEXTVALUE>क्विक लाइम</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_bact_01">
+	 <TEXTVALUE>पीछे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+

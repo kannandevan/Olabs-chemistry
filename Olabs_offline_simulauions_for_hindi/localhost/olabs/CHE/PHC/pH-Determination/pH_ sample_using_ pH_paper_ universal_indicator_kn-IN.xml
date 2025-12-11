@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>ಬೇಕಾಗಿರುವ ವಸ್ತುಗಳು -  ಅಸಿಟಿಕ್ ಆಮ್ಲ, pH ಕಾಗದದ ಪಟ್ಟಿ, ಶಿಷ್ಟ ಬಣ್ಣದ  pH ಚಾರ್ಟ್, ಡ್ರಾಪರ್ ಮತ್ತು ಬಿಳಿ ಟೈಲ್.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>pH ಕಾಗದದ ಪಟ್ಟಿಯೊಂದನ್ನು ತೆಗೆದುಕೊಂದು ಬಿಳಿಯ ಟೈಲ್  ಮೇಲೆ ಇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE> pH ಕಾಗದದ ಪಟ್ಟಿಯೊಂದನ್ನು ತೆಗೆದುಕೊಂದು ಬಿಳಿಯ ಟೈಲ್ ನ ಮೇಲೆ ಇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>pH ಕಾಗದದ ಪಟ್ಟಿಯೊಂದನ್ನು ತೆಗೆದುಕೊಂದು ಬಿಳಿಯ ಟೈಲ್ ನ ಮೇಲೆ ಇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>ಡ್ರಾಪರ್ ಬಳಸಿ ಸ್ವಲ್ಪ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>pH ಕಾಗದ ಪಟ್ಟಿಯ ಮೇಲೆ ಒಂದು ಹನಿ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE> pH  ಕಾಗದದ ಬಣ್ಣವನ್ನು ಗಮನಿಸಿ. pH ಕಾಗದದ ಬಣ್ಣ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ   ತಿರುಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE> pH   ಕಾಗದದಲ್ಲಿನ  ಬಣ್ಣವನ್ನು ಶಿಷ್ಟ ಬಣ್ಣದ  pH  ಚಾರ್ಟ್ ನ ವಿವಿಧ ಬಣ್ಣಗಳೊಂದಿಗೆ ಹೋಲಿಸಿ, ಅದರಿಂದ  pH  ಮೌಲ್ಯವನ್ನು ಬರೆದುಕೊಳ್ಳಿ. ಅಸಿಟಿಕ್ ಆಮ್ಲದ  pH 3. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>ಬೇಕಾಗಿರುವ ವಸ್ತುಗಳು -  ಅಸಿಟಿಕ್ ಆಮ್ಲ, ಸಾರ್ವತ್ರಿಕ ಸೂಚಕ , ಶಿಷ್ಟ ಬಣ್ಣದ  pH  ಚಾರ್ಟ್, ಡ್ರಾಪರ್ ಮತ್ತು ಪ್ರನಾಳ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>ಡ್ರಾಪರ್ ಬಳಸಿ ಸ್ವಲ್ಪ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಪ್ರನಾಳದಲ್ಲಿ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>ಡ್ರಾಪರ್ ಬಳಸಿ ಸ್ವಲ್ಪ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಪ್ರನಾಳದಲ್ಲಿ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>ಸ್ವಲ್ಪ ಸಾರ್ವತ್ರಿಕ ಸೂಚಕ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿರುವ ಪ್ರನಾಳಕ್ಕೆ ಸಾರ್ವತ್ರಿಕ ಸೂಚಕ ದ್ರಾವಣದ ಕೆಲವು ಹನಿಗಳನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿ. ದ್ರಾವಣ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿರುವ ದ್ರಾವಣದ ಬಣ್ಣವನ್ನು ಶಿಷ್ಟ ಬಣ್ಣದ  pH ಚಾರ್ಟ್ ನ ವಿವಿಧ ಬಣ್ಣಗಳೊಂದಿಗೆ ಹೋಲಿಸಿ, ಅದರಿಂದ  pH ಮೌಲ್ಯವನ್ನು ಬರೆದುಕೊಳ್ಳಿ. ಅಸಿಟಿಕ್ ಆಮ್ಲದ pH  3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

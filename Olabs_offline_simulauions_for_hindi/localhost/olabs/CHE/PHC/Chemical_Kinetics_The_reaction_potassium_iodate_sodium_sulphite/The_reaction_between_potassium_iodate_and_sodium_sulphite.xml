@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>Take 10, 20, 30 and 40ml of 0.02M potassium iodate solution in four different conical flasks A, B, C and D respectively.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="3zoom">
+	<TEXT ID="3zoom_one">
+	<TEXTVALUE>Take 10, 20, 30 and 40ml of 0.02M potassium iodate solution in four different conical flasks A, B, C and D respectively.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="3h2so4">
+	<TEXT ID="3h2so4_one">
+	<TEXTVALUE>Measure 10 ml 2M H2SO4 in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4poura">
+	<TEXT ID="4poura_one">
+	<TEXTVALUE>And pour it into the flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="5chart">
+	<TEXT ID="5chart_one">
+	<TEXTVALUE>Repeat the same procedure for the remaining three flasks.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="6pour2">
+	<TEXT ID="6pour2_one">
+	<TEXTVALUE>Measure 80ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="7por3">
+	<TEXT ID="7por3_one">
+	<TEXTVALUE>Pour it into flask A to make the volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="8chart2">
+	<TEXT ID="8chart2_one">
+	<TEXTVALUE>Pour it into flask A to make the volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="9pour23">
+	<TEXT ID="9pour23_one">
+	<TEXTVALUE>Then measure 70, 60 and 50ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="10pourb">
+	<TEXT ID="10pourb_one">
+	<TEXTVALUE>Pour it into the flasks B, C and D  to make the volume of the solution 100 ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="11chart3">
+	<TEXT ID="11chart3_one">
+	<TEXTVALUE>Pour it into the flasks B, C and D  to make the volume of the solution 100 ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="11starch">
+	<TEXT ID="11starch_one">
+	<TEXTVALUE>Measure 5ml starch solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="12por4">
+	<TEXT ID="12por4_one">
+	<TEXTVALUE>Pour it into flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="13chart4">
+	<TEXT ID="13chart4_one">
+	<TEXTVALUE>Repeat the same procedure for the remaining three flasks.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="14sodiumthio">
+	<TEXT ID="14sodiumthio_one">
+	<TEXTVALUE>Take 10ml 0.01M sodium sulphite solution.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="15sodpour">
+	<TEXT ID="15sodpour_one">
+	<TEXTVALUE>Pour it into flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="16color">
+	<TEXT ID="16color_one">
+	<TEXTVALUE>Start the stop watch immediately.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="16color_two">
+	<TEXTVALUE>Watch the solution for the blue colour to appear.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="16color_three">
+	<TEXTVALUE>Note the time when the blue colour just appears.</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+
+<SCENE ID="17char7">
+	<TEXT ID="17char7_one">
+	<TEXTVALUE>Repeat the experiment by adding 10ml 0.01M sodium sulphite to flasks B, C and D and record the time taken in each case for the solution to turn blue.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="18last">
+	<TEXT ID="18last_one">
+	<TEXTVALUE>Form this reaction we can infer that the rate reaction between potassium iodate and sodium sulphite increases with increase in concentration of iodide ions.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

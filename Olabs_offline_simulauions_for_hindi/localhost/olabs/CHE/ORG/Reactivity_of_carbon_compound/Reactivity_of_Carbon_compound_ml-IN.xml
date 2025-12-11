@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_title_1">
+	<TEXTVALUE>അസറ്റിക് ആസിഡിന്റെ ഗുണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_string_2">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="buttons">
+	<TEXT ID="buttons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l1">
+	<TEXTVALUE>കാർബൺമിശ്രിതത്തിൻ്റെ ക്രിയാശീലത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l2">
+	<TEXTVALUE>ഗന്ധം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l3">
+	<TEXTVALUE>ജലത്തിലുള്ള ലയിപ്പിക്കൽ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l4">
+	<TEXTVALUE>ലിറ്റ്മസിൻമേലുള്ള സ്വാധീനം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l5">
+	<TEXTVALUE>സോഡിയം ബൈ 
+കാർബണേറ്റുമായുള്ള പ്രവർത്തനം</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="odour">
+	<TEXT ID="odour_one">
+	<TEXTVALUE>കുറച്ച് അസറ്റിക് ആസിഡ് ഒരു ടെസ്റ്റൃൂബിൽ എടുത്തിട്ട് അതിൻ്റം ഗന്ധം നോക്കുക. അസഹനീയമായ തീഷ്ണതയുള്ള ഒരു ഗന്ധമാണ് ഇതിൽ നിന്ന് വമിക്കുന്നത്. ടെസ്റ്റൃൂബിൻ്റെ വായ് ഭാഗം നിങ്ങളുടെ സഹപാഠികളിൽ നിന്നും നിങ്ങളുടെ മുഖങ്ങളിൽ നിന്നും അകലം പാലിക്കാൻ ശ്രദ്ധിക്കുക </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_3">
+	<TEXTVALUE>അസറ്റിക് ആസിഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_4">
+	<TEXTVALUE>അസഹനീയമായ തീഷ്ണതയുള്ള
+ഒരു ഗന്ധം </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_5">
+	<TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="solubilityinwater">
+	<TEXT ID="solubilityinwater_one">
+	<TEXTVALUE>കുറച്ച് അസറ്റിക് ആസിഡ് ഒരു ടെസ്ട്യുബിൽ  എടുത്തിട്ട്, വേറൊരു ടെസ്ട്യുബിൽ  കുറച്ച് ശുദ്ധീകരിച്ച ജലവും എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_two">
+	<TEXTVALUE>അസറ്റിക് ആസിഡിലേക്ക് ജലം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_string_6">
+	<TEXTVALUE>ജലം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solubilityinwatersecond">
+	<TEXT ID="solubilityinwatersecond_one">
+	<TEXTVALUE>ടെസ്ട്യുബ് നന്നായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solubilityinwaterthird">
+	<TEXT ID="solubilityinwaterthird_one">
+	<TEXTVALUE>ഒരു ഹോമോജീനിയസ് ലായനി ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwaterthird_string_7">
+	<TEXTVALUE>ഹോമോജീനിയസ് 
+ലായനി </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Litmus">
+	<TEXT ID="Litmus_one">
+	<TEXTVALUE>ഒരു നീല ലിറ്റ്മസ് പേപ്പറിന്റെ  തുണ്ട് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Litmus_string_8">
+	<TEXTVALUE>ലിറ്റ്മസ് പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Litmussecond">
+	<TEXT ID="Litmussecond_one">
+	<TEXTVALUE>അസറ്റിക് ആസിഡ് അടങ്ങിയ ടെസ്ട്യുബിലേക്ക് ഇത് മുക്കി ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Litmusthird">
+	<TEXT ID="Litmusthird_one">
+	<TEXTVALUE>നീല ലിറ്റ്മസ് നിറം മാറി ചുവപ്പാകുന്നു. അസറ്റിക് ആസി‍ഡിന്റെ  ആസിഡ് സ്വഭാവത്തെയാണ് ഇത് കാണിക്കുന്നത്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumbicarbonate">
+	<TEXT ID="sodiumbicarbonate_one">
+	<TEXTVALUE>കുറച്ച് സോഡിയം ബൈകാർബണേറ്റ് ലായനി ഒരു ബോയിലിംഗ് ട്യുബിൽ  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_two">
+	<TEXTVALUE>ബോയിലിംഗ് ട്യുബ് സ്റ്റാൻഡുമായി ഘടിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_three">
+	<TEXTVALUE>ബോയിലിംഗ് ട്യുബിന്റെ  വായ് ഭാഗം ഒരു ഇരട്ട തുളയുള്ള കോർക്ക് കൊണ്ട് അടയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_four">
+	<TEXTVALUE>കോർക്കിന്റെ  ഒരു ദ്വാരത്തിൽ കൂടി ഒരു തിസിൽ ഫണൽ കടത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_five">
+	<TEXTVALUE>നാരങ്ങാവെള്ളം അടങ്ങിയ വേറൊരു ബോയിലിംഗ് ട്യുബ്  എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_six">
+	<TEXTVALUE>ബോയിലിംഗ് ട്യുബ്  വേറൊരു സ്റ്റാൻഡുമായി ഘടിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_seven">
+	<TEXTVALUE>ഒരു നിർഗമന ട്യുബ്  എടുക്കുക, ഈ ട്യുബിൻ്റെ  ഒരു കോർക്ക്  ദ്വാരത്തിലൂടെ സോഡിയം ബൈകാർബണേറ്റ് കടത്തുക, കോർക്ക് അടുത്ത സുഷിരത്തിലൂടെ നാരങ്ങാവെള്ളവും കടത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_9">
+	<TEXTVALUE>സോഡിയം ബൈകാർബണേറ്റ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_10">
+	<TEXTVALUE>തിസിൽ ഫണൽ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_stri_ls1">
+	<TEXTVALUE>നാരങ്ങ വെള്ളം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="takeaceticacid">
+	<TEXT ID="takeaceticacid_one">
+	<TEXTVALUE>അസറ്റിക് ആസിഡ് അടങ്ങിയ ഒരു ജാർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeaceticacid_string11">
+	<TEXTVALUE>അസറ്റിക് ആസിഡ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="last">
+	<TEXT ID="last_one">
+	<TEXTVALUE>തിസിൽ ഫണലിലൂടെ അസറ്റിക് ആസിഡ് സോഡിയം ബൈകാർബണേറ്റ് അടങ്ങിയ ബോയിലിംഗ് ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_two">
+	<TEXTVALUE>ഒരു വാതകം ഉരുത്തിരിയുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_three">
+	<TEXTVALUE>ബോയിലിംഗ് ടൃൂബിലെ ചുണ്ണാമ്പ് വെള്ളം പാൽനിറമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_four">
+	<TEXTVALUE>ഉരുത്തിരിഞ്ഞ വാതകം Co&#8322;ചുണ്ണാമ്പ് വെള്ളത്തിൻ്റെ നിറം മാറി പാൽ നിറമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

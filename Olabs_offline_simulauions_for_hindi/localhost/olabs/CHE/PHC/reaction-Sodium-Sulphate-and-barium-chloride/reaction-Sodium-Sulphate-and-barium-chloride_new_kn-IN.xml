@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="01Intro_heading_01">
+		<TEXTVALUE>ಡಬಲ್ ಡಿಸ್ಪ್ಲೇಸ್ಮೆಂಟ್ ರಿಯಾಕ್ಷನ್</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="01Intro_start_11">
+		<TEXTVALUE>ಪ್ರಾರಂಭಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>ಬೇಕಾಗಿರುವ ವಸ್ತುಗಳು- ಸೋಡಿಯಂ ಸಲ್ಪೇಟ್,ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್, ದುರ್ಬಲ HCl, ಒಂದು ಬೀಕರ್, ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್,ಪ್ರನಾಳಗಳು ಇತ್ಯಾದಿ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_bar_11">
+		<TEXTVALUE>BaCl2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_sod_1">
+		<TEXTVALUE>naso4</TEXTVALUE>
+	</TEXT>
+
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE> ಒಂದು ಪ್ರನಾಳ ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ತೆಗೆದುಕೊಳ್ಳಿ </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>ಅದನ್ನು ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ಗೆ ವರ್ಗಾಯಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಪ್ರನಾಳ ತೆಗೆದುಕೊಳ್ಳಿ. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>ಇದನ್ನೂ ಸಹ ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ ಇರುವ ಫ್ಲಾಸ್ಕ್ ಗೆ  ವರ್ಗಾಯಿಸಿ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_basu_11">
+		<TEXTVALUE>BaSO4</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವ ಮಿಶ್ರಣವನ್ನು ಚೆನ್ನಾಗಿ ಕಲಕಿ.ನಂತರ ಅದನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಅಲುಗಾಡಿಸದೇ ಹಾಗೇ ಇಡಿ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>ಬೇರಿಯಂ ಸಲ್ಫೇಟ್‍ ಬಿಳಿ ಒತ್ತರ(ಪ್ರಕ್ಷೇಪ) ಉಂಟಾಗಿರುವುದು ತಕ್ಷಣವೇ ಕಂಡು ಬರುತ್ತದೆ.ಇದು ಸಲ್ಫೇಟ್ ಅಯಾನ್ (SO4)2- ಉಂಟಾಗಿರುವುದನ್ನು ಖಚಿತ ಪಡಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_three">
+		<TEXTVALUE>ಬೇರಿಯಂ ಸಲ್ಫೇಟ್ ಬಿಳಿ ಒತ್ತರ(ಪ್ರಕ್ಷೇಪ)ವು ತಳದಲ್ಲಿ ಶೇಖರಣೆ ಆಗುತ್ತದೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>ಕೋನಿಕಲ್ ಪ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವ ಮೇಲಿನ ಭಾಗದ ತಿಳಿ ದ್ರಾವಣವನ್ನು ಇನ್ನೊಂದು  ಬೀಕರಿಗೆ ನಿಧಾನವಾಗಿ ಬಸಿದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>ನಂತರ ಬಿಳಿ ಒತ್ತರ(ಪ್ರಕ್ಷೇಪ) ಇರುವ ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ಗೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ದುರ್ಬಲ HCl  ಆಮ್ಲವನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>ನಂತರ ಬಿಳಿ ಒತ್ತರ(ಪ್ರಕ್ಷೇಪ) ಇರುವ ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ಗೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ದುರ್ಬಲ HCl  ಆಮ್ಲವನ್ನು ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>ಫ್ಲಾಸ್ಕ್ ಅನ್ನು  ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>ಬಿಳಿ ಒತ್ತರ(ಪ್ರಕ್ಷೇಪ)ವು ದುರ್ಬಲ HCl ನಲ್ಲಿ ವಿಲೀನವಾಗುವುದಿಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಸಲ್ಫೇಟ್  ಅಯಾನ್ ಗಳು ಕ್ಲೋರೈಡ್  ಅಯಾನ್ ಗಳಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡಿವೆ.ಇದನ್ನು ದ್ವಿಸ್ಥಾನಪಲ್ಲಟ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ' ಎನ್ನುತ್ತಾರೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13shake3_bko_1">
+		<TEXTVALUE>ಹಿಂದೆ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+	

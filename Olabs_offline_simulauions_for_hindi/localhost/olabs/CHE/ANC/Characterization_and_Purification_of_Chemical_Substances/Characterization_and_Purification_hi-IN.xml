@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+		<TEXTVALUE>प्रयोग शुरू करने के लिए "शुरू करें" बटन पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!-- Interactive_scenes-->
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>किसी एक विलयन पर, उसकी तैयारी का अध्ययन करने के लिए, क्लिक करें |</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>प्रयोग चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- To Prepare the crystals of Pure Copper Sulphate -->
+
+<SCENE ID="Title11">
+	<TEXT ID="Title11_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionS1">
+	<TEXT ID="IntroductionS1_one">
+	<TEXTVALUE>हमें चाहिए, कॉपर सल्फेट का कच्चा नमूना, सल्फ्यूरिक एसिड, अल्कोहल, डिस्टिल वाटर, बीकर, मापने वाला सिलेंडर, स्पैावुला, कांच की छड़, चाइना डिश, कीप, फिल्टर पेपर, क्लै,म्पा सहित लोहे का स्टे्ण्ड, क्रिस्टल बनाने वाला डिश, खौल, सैण्ड बॉथ, तार की जाली</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IntroductionS1_two">
+	<TEXTVALUE>तिपाया स्टैंड, बुन्से्न बर्नर आदि |</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarBkrS2">
+	<TEXT ID="Wtr2jarBkrS2_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 30 मिलीलीटर डिस्टिल वाटर लें और साफ बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarBkrS2_two">
+	<TEXTVALUE>इसे बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperinSpoonS3">
+	<TEXT ID="CopperinSpoonS3_one">
+	<TEXTVALUE>स्पैचुला की सहायता से कॉपर सल्फेट के पाउडर बनाए हुए कच्चे नमूने की थोड़ी सी मात्रा लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Copper2bkrS4">
+	<TEXT ID="Copper2bkrS4_one">
+	<TEXTVALUE>डिस्टिल वाटर से युक्त बीकर में कॉपर सल्फेट मिलाएं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Glassrod2bkrS5">
+	<TEXT ID="Glassrod2bkrS5_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से बीकर की सामग्री उसे अच्छी तरह से घोलने के लिए चलाएं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirCopperS6">
+	<TEXT ID="StirCopperS6_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से बीकर की सामग्री उसे अच्छी तरह से घोलने के लिए चलाएं।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StirCopperS6_two">
+	<TEXTVALUE>पाउडर बनाया हुआ नमूना कई बार तब तक मिलाएं जब तक कि इसमें से कुछ, कुछ समय तक चलाने के बाद भी, अघुलित नहीं रह जाता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="GlassrodbakS7">
+	<TEXT ID="GlassrodbakS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SulphuricBottleS8">
+	<TEXT ID="SulphuricBottleS8_one">
+	<TEXTVALUE>एक दूसरे मापने वाले सिलेंडर में 5 मिलीलीटर पतला सल्फ्यूरिक एसिड लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SulphuricBottleS8_two">
+	<TEXTVALUE>एक दूसरे मापने वाले सिलेंडर में 5 मिलीलीटर पतला सल्फ्यूरिक एसिड लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourSulphuricS9">
+	<TEXT ID="PourSulphuricS9_one">
+	<TEXTVALUE>एक दूसरे मापने वाले सिलेंडर में 5 मिलीलीटर पतला सल्फ्यूरिक एसिड लें। कीप में फिल्टर पेपर रखें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_two">
+	<TEXTVALUE>कॉपर सल्फेट के संतृप्त विलयन वाले बीकर में इसे मिलाएं और कांच की छड़ से विलयन चलाएं। 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_three">
+	<TEXTVALUE>ध्यान से देखें कि कॉपर सल्फेट का विलयन सल्फ्यूरिक एसिड मिलाने पर पारदर्शी बन जाता है। यह कॉपर सल्फेट का हाइड्रोलिसिस रोक देता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="DishFunnel2StandS10">
+	<TEXT ID="DishFunnel2StandS10_one">
+	<TEXTVALUE>चाइना  डिश लें और इसे स्टैंड के नीचे रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PaperRodBkr2StandS11">
+	<TEXT ID="PaperRodBkr2StandS11_one">
+	<TEXTVALUE>कीप लें और इसे स्टैण्डं में फंसाएं।विलयन के छींटें उठने से बचने के लिए कीप का तना चाइना डिश की दीवार से छूना चाहिए ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PaperRodBkr2StandS11_two">
+	<TEXTVALUE>कीप में फिल्टर पेपर रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolutionFilterS12">
+	<TEXT ID="SolutionFilterS12_one">
+	<TEXTVALUE>कांच की छड़ कीप पर रखें और कांच की छड़ के माध्यम से कीप में विलयन डालें और छनी हुई सामग्री चाइना डिश में इकट्ठा करें। अघुलनशील अशुद्धियों फिल्टर पेपर पर पीछे छूट जाती हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SandbathS13">
+	<TEXT ID="SandbathS13_one">
+	<TEXTVALUE>डिश के किनारे पर पपड़ी बनने से बचने के कांच की छड़ की सहायता से चलाते हुए सैण्ड बॉथ पर चाइना डिश में विलयन गर्म करें। (डिश में विलयन उबलने न दें)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirSolutionCloseS14">
+	<TEXT ID="StirSolutionCloseS14_one">
+	<TEXTVALUE>डिश के किनारे पर पपड़ी बनने से बचने के कांच की छड़ की सहायता से चलाते हुए सैण्ड बॉथ पर चाइना डिश में विलयन गर्म करें। (डिश में विलयन उबलने न दें)।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="LineDrawS15">
+	<TEXT ID="LineDrawS15_one">
+	<TEXTVALUE>तब तक गर्म करना जारी रखें जब तक कि विलयन घटकर अपनी मूल मात्रा का लगभग एक तिहाई नहीं रह जाता है |
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalinRodS16">
+	<TEXT ID="CopperCrystalinRodS16_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से विलयन की एक बूंद निकालें और धीरे-धारे उस पर फूंक कर उसे ठंडा करें।
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_two">
+	<TEXTVALUE>कांच की छड़ की सहायता से विलयन की एक बूंद निकालें और धीरे-धारे उस पर फूंक कर उसे ठंडा करें।
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_three">
+	<TEXTVALUE>कांच की छड़ पर छोटे-छोटे क्रिस्टल की उपस्थिति से पता चलता है कि क्रिस्टलीकरण बिंदु आ गया है।
+    </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Sol2Dish2ColdwatrS17">
+	<TEXT ID="Sol2Dish2ColdwatrS17_one">
+	<TEXTVALUE>अब बर्नर बंद कर दें और गर्माना भी बंद कर दें और क्रिस्टरलीकरण वाली डिश में गर्म विलयन डालें।
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sol2Dish2ColdwatrS17_two">
+	<TEXTVALUE>आधा ठंडे पानी से भरे खौल पर गर्म संतृप्त विलयन से युक्त क्रिस्टलीकरण वाली डिश रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalsS18">
+	<TEXT ID="CopperCrystalsS18_one">
+	<TEXTVALUE>इसे कुछ समय तक धीरे-धीरे ठंडा होने दें। गहरे नीले रंग के क्रिस्टल दिखाई देंगें। लगभग आधे घंटे बाद क्रिस्टलीकरण पूरा हो चुका रहेगा।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Dish2BkrS19">
+	<TEXT ID="Dish2BkrS19_one">
+	<TEXTVALUE>बीकर में सावधानीपूर्वक मदर लिकर छानें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourWtr2BkrS20">
+	<TEXT ID="PourWtr2BkrS20_one">
+	<TEXTVALUE>बीकर में सावधानीपूर्वक मदर लिकर छानें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WashCrystal2FilterpaperS21">
+	<TEXT ID="WashCrystal2FilterpaperS21_one">
+	<TEXTVALUE>ठंडे पानी की थोड़ी सी मात्रा से युक्त थोड़ेसे इथाइल अल्कोहल से क्रिस्टल धोएं ।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WashCrystal2FilterpaperS21_two">
+	<TEXTVALUE>विलयन सोखने वाले फिल्टर पेपर पर क्रिस्टल हटाकर रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="DryCrystals2TtubeS22">
+	<TEXT ID="DryCrystals2TtubeS22_one">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर के लिए क्रिस्टल स्थानांतरित करें और एक और फिल्टर पेपर से धीरे से दबाकर उन्हें सुखा लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DryCrystals2TtubeS22_two">
+	<TEXTVALUE>सूखी टेस्ट ट्यूब में क्रिस्टल स्थानांतरित करें और इसपर कार्क लगा दें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultS23">
+	<TEXT ID="ResultS23_one">
+	<TEXTVALUE>कॉपर सल्फेट के क्रिस्टल, ट्राईक्लीानिक पारदर्शी और नीले होते हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!-- To Prepare the crystals of Pure Alum-->
+
+
+<SCENE ID="TitleAlum">
+	<TEXT ID="TitleAlum_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionAlumS1">
+	<TEXT ID="IntroductionAlumS1_one">
+	<TEXTVALUE>हमें चाहिए, पोटाश फिटकिरी का कच्चा नमूना, सल्फ्यूरिक एसिड, अल्कोहल, डिस्टिल वाटर, बीकर, मापने वाला सिलेंडर, स्पैावुला, कांच की छड़, चाइना डिश, कीप, फिल्टर पेपर, क्लै,म्पा सहित लोहे का स्टे्ण्ड, क्रिस्टल बनाने वाला डिश, खौल, सैण्ड बॉथ, तार की जाली, तिपाया स्टैंड, बुन्से्न बर्नर आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="wtr2jarAlumS2">
+	<TEXT ID="wtr2jarAlumS2_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 30 मिलीलीटर डिस्टिल वाटर लें और साफ बीकर में डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="wtr2jarAlumS2_two">
+	<TEXTVALUE>मापने वाले सिलेंडर में 30 मिलीलीटर डिस्टिल वाटर लें और साफ बीकर में डालें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealuminspoonS3">
+	<TEXT ID="crudealuminspoonS3_one">
+	<TEXTVALUE>स्पैचुला की सहायता से कॉपर सल्फेट के पाउडर बनाए हुए कच्चे नमूने की थोड़ी सी मात्रा लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealum2bkrS4">
+	<TEXT ID="crudealum2bkrS4_one">
+	<TEXTVALUE>डिस्टिल वाटर से युक्त बीकर में पोटाश फिटकिरी के पाउडर बनाए गए कच्चे नमूने  मिलाएं।
+.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spoonglassrodS5">
+	<TEXT ID="spoonglassrodS5_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से बीकर की सामग्री उसे अच्छी तरह से घोलने के लिए चलाएं।
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodstiralumS6">
+	<TEXT ID="glassrodstiralumS6_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से बीकर की सामग्री उसे अच्छी तरह से घोलने के लिए चलाएं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodbakalumS7">
+	<TEXT ID="GlassrodbakalumS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dishFunnel2standS8">
+	<TEXT ID="dishFunnel2standS8_one">
+	<TEXTVALUE>चाइना डिश ले लो और स्टैंड के नीचे इसे रखें |
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="paperodbkr2standS9">
+	<TEXT ID="paperodbkr2standS9_one">
+	<TEXTVALUE>स्टैण्ड में कीप फंसाएं। विलयन के बाहर छलकने से बचने के लिए कीप का तना चाइना डिश की दीवार से छूना चाहिए ।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="paperodbkr2standS9_two">
+	<TEXTVALUE>कीप में फिल्टर पेपर रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="solfiltrateS10">
+	<TEXT ID="solfiltrateS10_one">
+	<TEXTVALUE>कांच की छड़ कीप पर रखें और कांच की छड़ के माध्यम से कीप में विलयन डालें और छनी हुई सामग्री चाइना डिश में इकट्ठा करें।  अघुलनशील अशुद्धियों फिल्टर पेपर पर पीछे छूट जाती हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sandbathStirS11">
+	<TEXT ID="sandbathStirS11_one">
+	<TEXTVALUE>डिश के किनारे पर पपड़ी बनने से बचने के कांच की छड़ की सहायता से चलाते हुए सैण्ड बॉथ पर चाइना डिश में विलयन गर्म करें। (डिश में विलयन उबलने न दें)।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="closesandstirS12">
+	<TEXT ID="SclosesandstirS12_one">
+	<TEXTVALUE>डिश के किनारे पर पपड़ी बनने से बचने के कांच की छड़ की सहायता से चलाते हुए सैण्ड बॉथ पर चाइना डिश में विलयन गर्म करें। (डिश में विलयन उबलने न दें)।
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="linedrawS13">
+	<TEXT ID="linedrawS13_one">
+	<TEXTVALUE>तब तक गर्म करना जारी रखें जब तक कि विलयन घटकर अपनी मूल मात्रा का लगभग एक तिहाई नहीं रह जाता है|
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crystalinRodS14">
+	<TEXT ID="crystalinRodS14_one">
+	<TEXTVALUE>कांच की छड़ की सहायता से विलयन की एक बूंद निकालें और धीरे-धारे उस पर फूंक कर उसे ठंडा करें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_two">
+	<TEXTVALUE>कांच की छड़ पर छोटे-छोटे क्रिस्टल की उपस्थिति से पता चलता है कि क्रिस्टलीकरण बिंदु आ गया है।
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_three">
+	<TEXTVALUE>कांच की छड़ पर छोटे-छोटे क्रिस्टल की उपस्थिति से पता चलता है कि क्रिस्टलीकरण बिंदु आ गया है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2crydish2ColdwtrS15">
+	<TEXT ID="sol2crydish2ColdwtrS15_one">
+	<TEXTVALUE>अब बर्नर बंद कर दें और गर्माना भी बंद कर दें और क्रिस्टरलीकरण वाली डिश में गर्म विलयन डालें।
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_two">
+	<TEXTVALUE>आधा ठंडे पानी से भरे खौल पर गर्म संतृप्त विलयन से युक्त क्रिस्टलीकरण वाली डिश रखें।
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_three">
+	<TEXTVALUE>आधा ठंडे पानी से भरे खौल पर गर्म संतृप्त विलयन से युक्त क्रिस्टलीकरण वाली डिश रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumcrystalsS16">
+	<TEXT ID="AlumcrystalsS16_one">
+	<TEXTVALUE>इसे कुछ समय तक धीरे-धीरे ठंडा होने दें। गहरे नीले रंग के क्रिस्टल दिखाई देंगें। लगभग आधे घंटे बाद क्रिस्टलीकरण पूरा हो चुका रहेगा।
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crysdish2bkrS17">
+	<TEXT ID="crysdish2bkrS17_one">
+	<TEXTVALUE>बीकर में सावधानीपूर्वक मदर लिकर छानें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pourMotherliqourS18">
+	<TEXT ID="pourMotherliqourS18_one">
+	<TEXTVALUE>बीकर में सावधानीपूर्वक मदर लिकर छानें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="washCrystal2filterpaperS19">
+	<TEXT ID="washCrystal2filterpaperS19_one">
+	<TEXTVALUE>ठंडे पानी की थोड़ी सी मात्रा से युक्त थोड़ेसे इथाइल अल्कोहल से क्रिस्टल धोएं ।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="washCrystal2filterpaperS19_two">
+	<TEXTVALUE>विलयन सोखने वाले फिल्टर पेपर पर क्रिस्टल हटाकर रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dryCrystal2TtubeS20">
+	<TEXT ID="dryCrystal2TtubeS20_one">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर पर क्रिस्टल स्थानांतरित करें और एक और फिल्टर पेपर से धीरे से दबाकर इन्हें सूखा लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dryCrystal2TtubeS20_two">
+	<TEXTVALUE>सूखी टेस्ट ट्यूब में क्रिस्टल स्थानांतरित करें और इसपर कार्क लगा दें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="resultAlum21">
+	<TEXT ID="resultAlum21_one">
+	<TEXTVALUE>पोटाश फिटकिरी के क्रिस्टल रंगहीन, पारदर्शी और अष्टभुजाकार होते हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<!-- To Purify impure sample of Benzoic Acid-->
+
+
+<SCENE ID="Titlebenzoic3">
+	<TEXT ID="Titlebenzoic3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrobenzoicS1">
+	<TEXT ID="IntrobenzoicS1_one">
+	<TEXTVALUE>हमें चाहिए, बेंजोइक एसि का कच्चा नमूना, सल्फ्यूरिक एसिड, अल्कोहल, डिस्टिल वाटर, बीकर, मापने वाला सिलेंडर, स्पैावुला, कांच की छड़, चाइना डिश, कीप, फिल्टर पेपर, क्लै,म्पा सहित लोहे का स्टे्ण्ड, स्टल बनाने वाला डिश, खौल, सैण्ड बॉथ, तार की जाली, तिपाया स्टैंड, बुन्से्न बर्नर आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarbkrbenzoicS2">
+	<TEXT ID="Wtr2jarbkrbenzoicS2_one">
+	<TEXTVALUE>मापने वाले सिलेंडर में 150 मिलीलीटर डिस्टिल वाटर लें और इसे स्वच्छ 250 मिलीलीटर वाले बीकर में डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_two">
+	<TEXTVALUE>मापने वाले सिलेंडर में 150 मिलीलीटर डिस्टिल वाटर लें और इसे स्वच्छ 250 मिलीलीटर वाले बीकर में डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_three">
+	<TEXTVALUE>बुन्सेन बर्नर पर बीकर रखकर पानी उबालें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WtrboilingS3">
+	<TEXT ID="WtrboilingS3_one">
+	<TEXTVALUE>बुन्सेन बर्नर पर बीकर रखकर पानी उबालें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AcidInSpoonS4">
+	<TEXT ID="AcidInSpoonS4_one">
+	<TEXTVALUE>एक और बीकर लें और स्पै चुला की सहायता से इसमें बेंजोइक एसिड का कुछ कच्चे नमूना डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AcidInSpoonS4_two">
+	<TEXTVALUE>एक और बीकर लें और स्पै चुला की सहायता से इसमें बेंजोइक एसिड का कुछ कच्चे नमूना डालें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2AcidStirS5">
+	<TEXT ID="Wtr2AcidStirS5_one">
+	<TEXTVALUE>एक और बीकर लें और स्पै चुला की सहायता से इसमें बेंजोइक एसिड का कुछ कच्चे नमूना डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2AcidStirS5_two">
+	<TEXTVALUE>बीकर में बेंजोइक एसिड घोलने भर के लिए पर्याप्त उबलते पानी की न्यूनतम मात्रा चलाते हुए धीरे-धीरे मिलाएं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StandFunFlutedBkrS6">
+	<TEXT ID="StandFunFlutedBkrS6_one">
+	<TEXTVALUE>एक और बीकर लें और इसे स्टैंड के नीचे रखें। स्टैण्ड में कीप फंसाएं। विलयन के बाहर छलकने से बचने के लिए कीप का तना चाइना डिश की दीवार से छूना चाहिए । कीप में फिल्टर पेपर रखें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolFilterbenzoicS7">
+	<TEXT ID="SolFilterbenzoicS7_one">
+	<TEXTVALUE>कांच की छड़ कीप पर रखें और कांच की छड़ के माध्यम से कीप में विलयन डालें और छनी हुई सामग्री चाइना डिश में इकट्ठा करें। अघुलनशील अशुद्धियों फिल्टर पेपर पर पीछे छूट जाती हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2ColdwtrBenzoicS8">
+	<TEXT ID="Wtr2ColdwtrBenzoicS8_one">
+	<TEXTVALUE>छने हुए विलयन को अपने आप कमरे के तापमान पर आने दें। अब ठंडे पानी के खौल में बीकर रखकर इसे ठंडा करें। बेंजोइक एसिड के अपारदर्शी सफेद क्रिस्टल बनेंगें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FunFilterRodAcidwtrbenzoicS9">
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_one">
+	<TEXTVALUE>चाइना  डिश लें और इसे स्टैंड के नीचे रखें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_two">
+	<TEXTVALUE>एक और बीकर लें और इसे स्टैंड के नीचे रखें। स्टैण्ड में कीप फंसाएं। विलयन के बाहर छलकने से बचने के लिए कीप का तना चाइना डिश की दीवार से छूना चाहिए ।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="SolFilteredcrystalsbenziocS10">
+	<TEXT ID="SolFilteredcrystalsbenziocS10_one">
+	<TEXTVALUE>कांच की छड़ कीप पर रखें और कांच की छड़ के माध्यम से कीप में विलयन डालें|बेंजोइक एसिड के क्रिस्टल फिल्टर पेपर पर पीछे छूट जाते हैं। धोने की बोतल से ठंडे पानी छिड़क कर क्रिस्टल धो लें।
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SolFilteredcrystalsbenziocS10_two">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर पर क्रिस्टल स्थानांतरित करें और एक और फिल्टर पेपर से धीरे से दबाकर इन्हें सूखा लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Crystals2FilterpaperbenzoicS11">
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_one">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर पर क्रिस्टल स्थानांतरित करें और एक और फिल्टर पेपर से धीरे से दबाकर इन्हें सूखा लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_two">
+	<TEXTVALUE>एक दूसरे फिल्टर पेपर पर क्रिस्टल स्थानांतरित करें और एक और फिल्टर पेपर से धीरे से दबाकर इन्हें सूखा लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_three">
+	<TEXTVALUE>सूखी टेस्ट ट्यूब में क्रिस्टल स्थानांतरित करें और इसपर कार्क लगा दें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultbenzoicS12">
+	<TEXT ID="ResultbenzoicS12_one">
+	<TEXTVALUE>बेंजोइक एसिड के क्रिस्टल अपारदर्शी और सफेद होते हैं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

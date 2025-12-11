@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>Se requiere un pedazo pequeño de cinta de magnesio, papel de lija, pinzas, vidrio de reloj, papel tornasol rojo, mechero Bunsen, etc.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>Tome la cinta de magnesio y frotelo con un papel de lija, para que se vea de color blanco plateado.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>Sostenga la cinta de magnesio usando un par de pinzas y enciende la cinta de magnesio.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>La cinta se quema brillante y queda atras una ceniza blanca.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>Recoja la ceniza de la cinta quemada en un vidrio de reloj y etiquetelo como oxido de magnesio. El magnesio quemado en el aire forma oxido de magnesio (MgO).
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>Tome una pequeña cantidad de oxido de magnesio con una espátula.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>Coloque esto en un papel de tornasol rojo húmedo que se coloca sobre una cerámica blanca.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>El papel de tornasol rojo se vuelve azul, indicando MgO es de naturaleza básica.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>Necesitamos sulfato de sodio, cloruro de bario, HCI diluido, vaso de precipitados, frasco cónico, tubos de ensayo, etc.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>Tome un tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>Tome una pequeña cantidad de cloruro de bario en un tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>Transfieralo a un frasco cónico.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>Tome otro tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>Tome una pequeña cantidad de sulfato de sodio.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>Páselo al frasco cónico que contiene una solución de cloruro de bario.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>Un precipitado blanco de sulfato de bario se forma inmediatamente. Esto confirma la presencia de sulfato (SO₄²₋) ions.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>Agite el contenido del frasco cónico y manténgalo en reposo durante algún tiempo.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>El precipitado de sulfato de bario se asienta en la parte inferior del frasco.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE>Decante la solución superior del frasco cónico en un frasco de precipitados.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>A continuación agregue una pequeña cantidad HCL diluído en el frasco cónico que contiene el precipitado.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>A continuación agregue una pequenna cantidad HCL diluído en el frasco cónico que contiene el precipitado.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>Agite bien el frasco.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>El precipitado blanco es insoluble en el HCL diluído.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>En esta reacción química, iones de sulfato son desplazadas por los iones de cloruro y los iones de cloruro son desplazados por los iones de sulfato.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>Necesitamos sulfato de cobre, clavos de hierro, agua destilada, un vaso de precipitados, vaso de medición, tubos de ensayo, dos soportes de sujeción, un trozo de hilo y una varilla de vidrio.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>Tome una cantidad suficiente de agua destilada en un frasco de medición y viertalo en un vaso limpio de precipitados.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>A esto añada una cantidad requerida de sulfato de cobre. 
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE>Agite el contenido en el vaso de precipitados utilizando una varilla de vidrio hasta que los cristales de sulfato de cobre en el vaso de precipitados se diselvan por completo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>Vierta una cantidad suficiente de solución de sulfato de cobre en un tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE>Sujete el tubo de ensayo a un soporte.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>A continuación, vierta una cantidad suficiente de sulfato de cobre en otro tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE>Sujete este tubo de ensayo a otro soporte.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>Tome dos clavos de hierro.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>Limpie estos frotándolos con un paple de lija para que su color aparezca grisáceo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>Ate un clavo con un hilo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>Sumerja esto en un tubo de ensayo que contiene la solución de sulfato de cobre.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>Mantenga los dos tubos de ensayo en reposo durante unos quince minutos.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>Después de quince minutos, el color de la solución de sulfato de cobre que contiene el clavo de hierro cambia de color verdoso claro mientras que el color de la solución en el otro tubo de ensayo no cambia.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>El color verdoso de la solución es debido a la presencia de Fe²⁺ iones.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>Retire el clavo de hierro de la solución.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>Compare con el otro clavo
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>El recubrimiento de color marrón en el clavo de hierro muestra que el cobre se deposita sobre el clavo de hierro mediante el desplazamiento del hierro.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>Esto es una reacción de desplazamiento único en el que el cobre ha sido desplazado por el hierro de la solución de sulfato de cobre y se forma un nuevo compuesto de sulfato ferroso. Así que ésta reacción es un cambio químico.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>Requerimos granulos de zinc, ácido sulfúrico diluído, NaOH, tubos de ensayo, un frasco cónico, un aparato de Kipp, corcho, tubo de vidrio, etc.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>Usando una espátula tome algunos granulos de zinc y transfiera ésto en un frasco cónico que contiene diluído de ácido sulfúrico. Las burbujas de gas hidrogeno son desarrolladas en forma de granulos de zinc reaccionando con diluído de ácido sulfúrico.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>Las burbujas de gas hidrogeno son desarrolladas en forma de granulos de zinc reaccionando con diluído de ácido sulfúrico.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>Ponga un papel de tornasol rojo húmedo sobre la boca del frasco cónico. No hay ningún cambio en el color del papel de tornasol rojo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>Sostenga un papel azul de tornasol húmedo sobre la boca del frasco cónico. No hay ningún cambio en el color del papel de tornasol azul. Esto indica que el gas hidrógeno no es ni ácido ni básico.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>Ahora tape el frasco cónico con un corcho con una sola perforación.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>Introduzca un tubo de chorro fino a traves de la perforación en el corcho.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>Traiga una vela encendida cerca a la boca del tubo de chorro fino.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE>Cuando se acerca la llama, el gas que sale del tubo de chorro quema instantáneamente con una pequeña explosión produciendo un sonido explosivo y luego se extingue.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>Vierte aproximadamente 2ml de la solución de sulfato de zinc del frasco cónico en un tubo de ensayo limpio.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>A continuación, agregue unas gotas de solución de NaOH al tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>Un precipitado gelatinoso blanco se forma. Agite bien el tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>Luego agregue NaOH en exceso en el tubo de ensayo. El precipitado blanco se disuelve cuando se añade NaOH en exceso. 
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>El precipitado formado es Zn(OH)₂. Esto indica la presencia de Zn²⁺ iones en solución.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>Coloque el tubo de ensayo en un soporte de tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>Luego vierta aproximadamente 2 ml de la solución de sulfato de zincdel frasco cónico en otro tubo de ensayo. 
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>Pasa el gas sulfuro de hidrógeno a través de la solución  en el tubo de ensayo usando un aparato Kipp.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE>Agite el tubo de ensayo. Se forma un precipitado blanco de sulfuro de zinc.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>De esta reacción se puede deducir que el zinc es mas reactivo que el hidrógeno, de manera que desplaza hidrógeno de los ácidos diluidos y pasa a la solución como Zn²⁺ iones.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>Requerimos cristales de sulfato de cobre hidratado, agua destilada, tubo de ensayo, espátula, soporte de tubo de ensayo, tubo de ebullición, mechero Bunsen, etc.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>Sostenga el tubo de ebullición con el soporte del tubo de ensayo.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>Usando una espátula tome una pequeña cantidad de cristales de sulfato de cobre hidratado desde el vidrio de reloj y se lo pone en el tubo de ebullición.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>Caliente el tubo de ebullición sobre la llama del mechero, primero suavemente y luego con fuerza.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>Cuando se calientan los cristales de sulfato de cobre cambian su color de azul a blanco.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>Las gotas de agua se quedan en las paredes del tubo de ebullición.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>El sulfato de cobre hidratado contiene agua de cristalización (CuSO₄.5H₂O).</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>Cuando se calientan los cristales de sulfato de cobre pierden sus moléculas de agua y forman color blanco de sulfato de cobre anhidro (CuSO₄).</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>Retire el tubo de ebullición del fuego y dejelo enfriar.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>Usando un gotero tome una pequeña cantidad de agua destilada.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>Añada dos a tres gotas de agua en el tubo de ebullición que contiene la muestra de sulfato de cobre anhidro obtenido después del calentamiento.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>El sulfato de cobre blanco se vuelve azul indicando que el color azul de sulfato de cobre hidratado es regenerado.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE>Así que esta reacción es un cambio químico reversible.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

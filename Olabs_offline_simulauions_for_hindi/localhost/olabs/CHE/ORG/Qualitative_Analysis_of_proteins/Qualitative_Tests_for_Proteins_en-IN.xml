@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>Qualitative Analysis of Proteins</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the 'Start' button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="TestforProteins_text">
+	<TEXTVALUE>Tests for proteins</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="biuretTest_text">
+	<TEXTVALUE>Biuret Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>Click on the tab to choose the test.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="xanthoproteicTest_text">
+	<TEXTVALUE>Xanthoproteic Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="millonsTest_text">
+	<TEXTVALUE>Millon’s Test </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ninhydrinTest_text">
+	<TEXTVALUE>Ninhydrin Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn">
+	<TEXTVALUE>&#60;&#60;Back</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="eggAlbumin_text">
+	<TEXTVALUE>Egg Albumin</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatin_text">
+	<TEXTVALUE>Gelatin</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>We require: egg albumin dispersion in a test tube, NaOH solution, 1% CuSO[sub]4[/sub] solution, test tube holder, rack, droppers and a  Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="NaOH_text">
+	<TEXTVALUE>NaOH</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperSulphate_text">
+	<TEXTVALUE>1% Copper Sulphate </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>Take a small quantity NaOH solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_one">
+	<TEXTVALUE>Add it to the egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_two">
+	<TEXTVALUE>Using another dropper,  add a few drops of 1% copper sulphate solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Remove the test tube from the rack using the test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_one">
+	<TEXTVALUE>Heat the contents of the test tube over the burner for a few minutes.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_two">
+	<TEXTVALUE>In the presence of alkali, proteins react with copper (II) ions to form a violet colored complex called biuret.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>We require gelatin dispersion in a test tube, NaOH solution, 1% CuSO[sub]4[/sub] solution, test tube holder, rack, droppers and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatinDispersion_text">
+	<TEXTVALUE>Gelatin Dispersion</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Take a small quantity NaOH solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_one">
+	<TEXTVALUE>Add it to the gelatin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>Using another dropper  add few drops of 1% copper sulphate solution to the test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_one">
+	<TEXTVALUE>Heat the contents of the test tube over the burner for a few minutes.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_two">
+	<TEXTVALUE>In the presence of alkali, proteins react with copper (II) ions to form a violet colored complex called biuret.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>We require egg albumin dispersion in a test tube, Conc. HNO3, test tube holder, rack, dropper and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcNitricacid_text">
+	<TEXTVALUE>Conc. Nitric acid</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Take a few drops of Conc. Nitric acid using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Scene12_sub_one">
+	<TEXTVALUE>Add it to the egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_one">
+	<TEXTVALUE>Heat the contents of the test tube over the burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_two">
+	<TEXTVALUE>In the presence of concentrated nitric acid, certain amino acids present in the proteins undergo nitration to form yellow colored xanthoproteic acid.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>We require gelatin dispersion in a test tube, Conc. HNO3, test tube holder, rack, dropper and a  Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Take a few drops of conc. Nitric acid using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene15_sub_one">
+	<TEXTVALUE>Add it to the gelatin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_one">
+	<TEXTVALUE>Heat the contents of the test tube over the burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_two">
+	<TEXTVALUE>In the presence of concentrated nitric acid, certain amino acids present in the proteins undergo nitration to form yellow colored xanthoproteic acid.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>We require egg albumin dispersion in a test tube, Ninhydrin solution, test tube holder, rack, dropper and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ninhydrinsolution_text">
+	<TEXTVALUE>Ninhydrin solution</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>Take a few drops of Ninhydrin solution using a dropper.</TEXTVALUE>
+	</TEXT>
+
+
+    <TEXT ID="Scene19_sub_one">
+	<TEXTVALUE>Add it to the egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_one">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_two">
+	<TEXTVALUE>Proteins react with ninhydrin reagent to form an intense blue colored compound.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>We require gelatin dispersion in a test tube, Ninhydrin solution, test tube holder, rack, dropper and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>Take a few drops of Ninhydrin solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene22_sub_one">
+	<TEXTVALUE>Add it to the egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_one">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_two">
+	<TEXTVALUE>Proteins react with ninhydrin reagent to form an intense blue colored compound.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>Click on the tab to perform the test.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>We require egg albumin dispersion in a test tube, Millon's reagent, test tube holder, rack, dropper and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="million_txt">
+	<TEXTVALUE>Millon's reagent</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>Take a few drops of  Millon’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_one">
+	<TEXTVALUE>Add it to the egg albumin dispersion taken in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+	<TEXTVALUE>A white precipitate is formed.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_one">
+	<TEXTVALUE>Then boil the contents of the test tube over a burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_two">
+	<TEXTVALUE>White precipitate changes to brick red on boiling, confirming the presence of proteins.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+
+
+</DATA>

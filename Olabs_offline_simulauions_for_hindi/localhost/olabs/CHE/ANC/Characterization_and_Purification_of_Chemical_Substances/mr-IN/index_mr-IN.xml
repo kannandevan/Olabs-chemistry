@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_ALUM">
+        <source>तुरटी</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>स्फटिकीकरण पद्धतीने अशुद्ध नमुन्याचे शुद्धीकरण</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BACK">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BENZOICACID">
+        <source>बेंझोइक आम्ल</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_COLDWATER">
+        <source>थंड पाणी</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_COPPERSULPHATE">
+        <source>कॉपर सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_CRUDEALUM">
+        <source>अशुद्ध  तुरटी</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_CRUDECOPPERSULPHATE">
+        <source>अशुद्ध कॉपर सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_CRYSTALLISATION">
+        <source>स्फटिकीकरण पद्धतीने अशुद्ध नमुन्याचे शुद्धीकरण</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>विरल H2SO4</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ऊर्ध्वपतित पाणी </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_ETHYLALCOHOLCOLDWATER">
+        <source>इथाइल अल्कोहोल
++
+थंड पाणी</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_FILTERPAPER">
+        <source>फिल्टर कागद </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_FLUTTEREDPAPER">
+        <source>फ्लटर फिल्टर कागद</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_MIN">
+        <source> मिनिटे</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_PREPARATIONCRYSTAL_COPPERSULPAHTE">
+        <source>अशुद्ध नमुन्यातून शुद्ध कॉपर सल्फेटची स्फटिके निर्माण करणे</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_PREPARATIONOFCRUDESAMPLE">
+        <source>अशुद्ध नमुन्यातून शुद्ध तुरटीची स्फटिके निर्माण करणे</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_PURIFICATIONOFBENZOICACID">
+        <source>स्फटिकीकरण प्रक्रिया वापरून बेंझोइक आम्लाच्या अशुद्ध नमुन्याचे शुद्धीकरण</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_SANDBATH">
+        <source>वाळू कुंड</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_START">
+        <source>सुरु करा</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_WATER">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

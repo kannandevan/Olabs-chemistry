@@ -1,0 +1,26 @@
+$.i18n.kn = {};
+ jQuery.i18n.kn.strings ={
+	"Drag the spatula towards the test tube<br>to drop the pumice stones into it.": "ಪ್ರನಾಳದ ಕಡೆಗೆ  ಸ್ಪಾಚುಲಾವನ್ನು ಎಳೆಯಿರಿ ,ಪ್ಯುಮೈಸ್  ಕಲ್ಲು ಚೂರುಗಳನ್ನು ಅದರೊಳಗೆ ಹಾಕಿರಿ",
+	"Drag the cork over the test tube to close it.": " ಪ್ರನಾಳ ಮುಚ್ಚಲು ಅದರ ಮೇಲೆ ಬಿರಡೆ ಎಳೆಯಿರಿ.",
+	"Drag the thermometer towards the test tube<br>to place it in it.": " ಪ್ರನಾಳದಲ್ಲಿ ಉಷ್ಣತಾಮಾಪಕವನ್ನು ಇರಿಸಲು , ಉಷ್ಣತಾಮಾಪಕವನ್ನು ಎಳೆಯಿರಿ",
+	"Drag the delivery tube towards the test tube<br>to place it in it.": "ಪ್ರನಾಳದಲ್ಲಿ  ವಿಸರ್ಜನಾ ನಳಿಕೆಯನ್ನು ಇರಿಸಲು ,  ವಿಸರ್ಜನಾ ನಳಿಕೆಯನ್ನು ಎಳೆಯಿರಿ",
+	"Click on the knob of the burner<br>to turn it ON or OFF.": "ಆನ್ ಅಥವಾ ಆಫ್ ಮಾಡಲು ,  ಬರ್ನರ್  ನಾಬ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ",
+	"In presence of impurities ": "ಬೇರೆ ಬೇರೆ ಒತ್ತಡಗಳಲ್ಲಿ",
+	"At different pressures": "ಬೇರೆ ಬೇರೆ ಒತ್ತಡಗಳಲಿ",
+	"Pure water": "ಶುದ್ದನೀರು",
+	"Water + 50g NaCl": "ನೀರು + 50g NaCl",
+	"Water + 200g sugar": "ನೀರು + 200g ಸಕ್ಕರೆ",
+	"Water + 90g KCl": "ನೀರು + 90g KCl",
+	"Select the impure sample:": "ಅಶುದ್ಧ ಮಾದರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+	"Select the pressure:": "ಒತ್ತಡವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+	"Boiling point of water:": "ನೀರಿನ ಕುದಿಬಿಂದು:",
+	"Show zoom": "ಜೂಮ್ ಪ್ರದರ್ಶನ ",
+	"Temperature:&nbsp;": "ತಾಪಮಾನ:&nbsp;",
+	"Reset": "ಮರುಹೊಂದಿಸು",
+	"Pumice Stones": "ಪ್ಯುಮೈಸ್  ಕಲ್ಲುಗಳು",
+	"Determination of Boiling Point of Water": "ನೀರಿನ ಕುದಿಯುವ ಬಿಂದು ನಿರ್ಣಯ",
+	"HELP": "ಸಹಾಯ",
+	"FULLSCREEN": "ಪೂರ್ಣಪರದೆ",
+	"EXIT": "ನಿರ್ಗಮಿಸು",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "CDACಮುಂಬೈ&ಅಮೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಅಭಿವೃದ್ಧಿ ಐಟಿ ಇಲಾಖೆ ಸಂಶೋಧನಾ ಕೊಡುಗೆ"
+}

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>लेम्प बर्नर,लाल लिटमस पेपर, घड़ी का काँच,चिमटा,रेत का कागज,मैग्नीशियम रिबन का एक छोटा सा टुकडे  की हमें आवश्यकता होगी।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>चांदी सफेद कि जैसे दिखने के लिए रेत कागज को मैग्नीशियम रिबन पर रगड़े।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>मैग्नीशियम रिबन प्रकाश और चिमटे की एक जोड़ी का उपयोग करते हुए मैग्नीशियम रिबन को पकड़े।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>एक सफेद राख पीछे छोड़ देता हैं अच्छी  जलने के बाद।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>एक घड़ी गिलास में जल रिबन की राख ले लीजिए और मैग्नीशियम ऑक्साइड के रूप में लेबल। मैग्नीशियम (एम जी ओ) मैग्नीशियम आक्साइड फार्म करने के लिए हवा में जलता है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>एक स्पाटुला का इस्तेमाल करते हुए मैग्नीशियम ऑक्साइड को एक छोटी सी मात्र में ले</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>एक सफेद टाइल पर रखा गया एक नम लाल लिटमस पेपर को रखिए।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>प्रकृति में MgO का आधार लाल लिटमस पेपर नीला पड़ने से दर्शाता हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>हम सोडियम सल्फेट, बेरियम क्लोराइड, फीका HCl,एक बीकर, शंक्वाकार फ्लास्क, टेस्ट ट्यूब, आदि की आवश्यकता हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>एक टेस्ट ट्यूब ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>एक टेस्ट ट्यूब में बेरियम क्लोराइड को एक छोटी सी मात्रा में ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>एक शंक्वाकार फ्लास्क में जोड़े।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>दूसरे टेस्ट ट्यूब को ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>सोडियम सल्फेट को एक छोटी सी मात्रा में ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>बेरियम क्लोराइड विलयन से युक्त शंक्वाकार फ्लास्क में जोड़े।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>बेरियम सल्फेट की एक सफेद अवक्षिप्त को तुरंत निर्मित करें । आयनों - यह  (SO[sub]4[/sub][sup]2-[/sup])समर्थन सल्फेट की समक्षता की पुष्टि करता हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>शंक्वाकार कुप्पी की सामग्री  हिलाएं और यह कुछ समय के लिए अक्षुब्द रहता  हैं।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>बेरियम सल्फेट अवक्षिप्त कुप्पी के नीचे करने के लिए रह जाती हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE>एक बीकर में शंक्वाकार कुप्पी से ऊपरी विलयन को छानिये।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>शंक्वाकार फ्लास्क में अवक्षिप्त युक्त फीका HCl की थोड़ी सी मात्रा में जोड़े।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>शंक्वाकार फ्लास्क में अवक्षिप्त युक्त फीका HCl की थोड़ी सी मात्रा में जोड़े।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>अच्छी तरह से कुप्पी को घुमाएं ।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>सफेद अवक्षिप्त को फीके HCl में अघुलनशील है।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>इस रासायनिक प्रतिक्रिया में, सल्फेट आयनों सल्फेट आयनों द्वारा विस्थापित कर रहे हैं क्लोराइड आयनों और क्लोराइड आयनों द्वारा विस्थापित कर रहे हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>हम कॉपर सल्फेट, लोहे की कील, आसुत जल, एक बीकर, मापने का जार, टेस्ट ट्यूब, दो क्लैंपका स्टैंड , धागे का एक टुकड़ा और एक काँच की छड़ी आवश्यक हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>एक मापने का जार में आसुत जल की पर्याप्त मात्रा में लेने के लिए और एक साफ बीकर में डाले।
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>इसमें  कॉपर सल्फेट को आवश्यक मात्रा में जोड़ें।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE>एक काँच की छड़ी का उपयोग कर बीकर में सामग्री को हिलाये जब तक जब तक बीकर में रखे  कॉपर सल्फेट क्रिस्टल पूरी तरह से घुल न जाये।
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>एक टेस्ट ट्यूब में कॉपर सल्फेट विलयन को पर्याप्त मात्रा में डाले।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE> क्लैंप को टेस्ट ट्यूब  के पर साथ  रखे।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>फिर एक टेस्ट ट्यूब में कॉपर सल्फेट के लिए पर्याप्त मात्रा में डाले।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE> क्लैंप को दूसरे टेस्ट ट्यूब पर साथ  रखे।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>दो लोहे की  कील को ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>एक रेत कागज के साथ उन्हें रगड़ने के साथ से उनका  रंग भूरा दिखाई देता है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>एक धागे के साथ एक कील को  बाँधो।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>कॉपर सल्फेट विलयन युक्त टेस्ट ट्यूब में से एक में यह डुबोदे।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>15 मिनट के लिए दो टेस्ट ट्यूब को अक्षुब्द रखें।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>15 मिनट के बाद, लोहे की कील युक्त कॉपर सल्फेट के घोल का रंग अन्य टेस्ट ट्यूब के  विलयन  का रंग नहीं बदलता है जहां विलयन का रंग दूसरे रंग में नहीं बदलेगा।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>विलयन में हरा सा रंग की वजह से Fe[sup]2+[/sup] आयनों की आकर में  है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>विलयन  में से लोहे की  हटाये</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>अन्य किलों के साथ तुलना करें।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>लोहे की कील पर भूरे रंग का कोटिंग विस्थापित तांबा विस्थापित लोहे के द्वारा लोहे की कील पर जमा किया जाता है ।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>यह तांबा कॉपर सल्फेट के घोल और एक नया परिसर फेरस सल्फेट का गठन किया है ,लोहे के द्वारा विस्थापित कर दिया है, जिसमें एक ही विस्थापन प्रतिक्रिया है। तो यह प्रतिक्रिया एक रासायनिक परिवर्तन है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>हम जिंक  कणिकाओं फीका सल्फ्यूरिक एसिड, NaOH, टेस्ट ट्यूब, शंक्वाकार फ्लास्क, Kipp के उपकरण, कॉर्क , ग्लास ट्यूब, आदि  की आवश्यकता होती है</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>एक स्पाटुला का उपयोग करके के कुछ जिंक कणिकाओं को ले और फीके सल्फ्यूरिक एसिड युक्त शंक्वाकार फ्लास्क में इसे जोड़े।ज़िंक कणिकाओं को फीका सल्फ्यूरिक एसिड के साथ प्रतिक्रिया के रूप में हाइड्रोजन गैस के बुलबुले को विकसित करें ।
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>ज़िंक कणिकाओं को फीका सल्फ्यूरिक एसिड के साथ प्रतिक्रिया के रूप में हाइड्रोजन गैस के बुलबुले को विकसित करें ।" </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>लाल लिटमस पेपर के रंग में कोई बदलाव नहीं है।  शंक्वाकार के मुंह से एक गीला लाल लिटमस पेपर को दिखाए। </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>नीले लिटमस पेपर के रंग में कोई बदलाव नहीं है।  शंक्वाकार के मुंह से एक गीला नीला लिटमस पेपर को दिखाए। </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>इससे पता चलता हैं की यह हाइड्रोजन गैस अम्लीय हैं और न ही आधारभूत है ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>कॉर्क में छेद के माध्यम से ठीक एक जेट ट्यूब का परिचय दें।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>ठीक जेट ट्यूब के मुंह के पास एक जलती हुई मोमबत्ती लाओ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE>लौ लाने पर, एक छोटे से विस्फोट के साथ तत्क्षण जेट ट्यूब जलता से बाहर आने के गैस, एक पोप्पिंग ध्वनि पैदा करती है और फिर बाहर डूब  जाता हैं ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>अब 2ml जिंक सल्फेट विलयन को शंक्वाकार कुप्पी से एक साफ टेस्ट ट्यूब में डालें। </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>फिर टेस्ट ट्यूब में NaOH के विलयन की कुछ बूँदें डालें ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>एक सफेद जलीय अवक्षिप्त का उत्पन्न होता हैं। टेस्ट ट्यूब को अच्छी तरह हिलाएं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>फिर टेस्ट ट्यूब में अधिक में NaOH जोडदे । NaOH को अधिक जोड़े जब एक सफ़ेद अवक्षिप्त घुल न जायें। </TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>का निर्मित अवक्षिप्त Zn (OH) [sub] 2 [/ sub] है। इस विलयन में जिंक [समर्थन] 2 + [/ समर्थन] आयनों की उपस्थिति संकेत करता है।
+	  </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>एक टेस्ट ट्यूब को टेस्ट ट्यूब रैक में रखें।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>दूसरे टेस्ट ट्यूब में एक शंक्वाकार कुप्पी में जिंक सल्फेट के विलयन के 2ml को डालें।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>Kipp के उपकरण का उपयोग करके  हाइड्रोजन सल्फाइड गैस टेस्ट ट्यूब के विलयन के माध्यम से  गुजरता हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE> जिंक सल्फाइड की एक सफेद अवक्षिप्त का उत्पन्न किया है।टेस्ट ट्यूब को हिलायें।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>यह फीका एसिड से विस्थापित हाइड्रोजन और Zn 2 आयनों के रूप में विलयन में गुजरता है तो हम उससे अनुमान कर सकते हैं इस प्रतिक्रिया से, जिंक हाइड्रोजन से अधिक प्रतिक्रियाशील है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>हम हाइड्रेटेड कॉपर सल्फेट क्रिस्टल, आसुत जल, टेस्ट ट्यूब, स्पैचुला , टेस्ट ट्यूब धारक, क्वथनांक, बुन्सेन बर्नर, आदि की आवश्यक है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>टेस्ट ट्यूब धारक के साथ क्वथनांक को पकडे ।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>क स्पैचुला का प्रयोग करके एक वॉच गिलास से हाइड्रेटेड कॉपर सल्फेट क्रिस्टल की एक छोटी सी मात्रा में ले और क्वथनांक में डाल दे।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>पहले धीरे और फिर जोरदार तरीके से  बर्नर की लौ पर क्वथनांक को  गरम करें ।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>गर्म करने पर कॉपर सल्फेट क्रिस्टल नीले रंग से सफेद करने के लिए अपना रंग बदल देता हैं।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>पानी के बूंद क्वथनांक दीवारों पर छोड़ देता है।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>हाइड्रेटेड कॉपर सल्फेट क्रिस्टलीकरण (CuSO CuSO₄.5H₂O) पानी होता है।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>गर्म करने पर कॉपर सल्फेट क्रिस्टल (CuSO₄) पानी के अणुओं को खो देता  हैं और सफेद रंग का निर्जल कॉपर सल्फेट उत्पन्न हैं ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>लौ से क्वथनांक को निकालें लिए और कुछ समय के लिए इसे ठंडा करें ।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>एक ड्रॉपर के उपयोग से आसुत पानी को  एक छोटी सी मात्रा में ले।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>गरम करने  के बाद प्राप्त निर्जल कॉपर सल्फेट के नमूने से  युक्त क्वथनांक में पानी की 2-3 बूँदें जोड़ें।</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>नीला रंग यह दर्शाता हैं की सफेद कॉपर सल्फेट नीले रंग का हाइड्रेटेड कॉपर</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE>तो यह अभिक्रिया एक प्रतिवर्ती रासायनिक परिवर्तन है।</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

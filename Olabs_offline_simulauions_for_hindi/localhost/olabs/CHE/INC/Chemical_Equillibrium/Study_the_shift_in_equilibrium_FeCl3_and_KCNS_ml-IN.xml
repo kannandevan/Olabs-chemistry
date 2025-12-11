@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>സ്റ്റാർട്ട് ബട്ടനിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം ചെയ്യാൻ ആരംഭിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് -0.1 മോളാർ ഫെറിക് ക്ലോറൈഡ് [0.1M FeCl3] ലായനി, 0.1 M മോളാർ പൊട്ടാസ്യം  തയോസയനൈറ്റ് [ 0.1MkcNs ] ലായനി ,0.1 മോളാർപൊട്ടാസ്യം  ക്ലോറൈഡ് ലായനി [ 0.1 MkCl ], ശുദ്ധീകരിച്ച ജലം,  'A B C D' എന്ന് പേര് എഴുതി ഒട്ടിച്ച നാല് ടെസ്ട്യുബുകൾ, ടെസ്ട്യുബ് വയ്ക്കുന്ന ഷെൽഫ് എന്നിവയാണ്.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="intro_two">
+		<TEXTVALUE>250 മി.ലി.കൊള്ളുന്ന ഒരു ബീക്കറും  അളവ് സിലിണ്ടറുകളും എടുക്കുക.</TEXTVALUE>	
+	</TEXT>
+	<TEXT ID="intro_three">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 0.1 മോളാർഫെറിക് ക്ലോറൈഡ് ലായനിയുടെ 10 മി.ലി. എടുക്കുക.</TEXTVALUE>	
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutionsaddedclsup">
+	<TEXT ID="solutionsaddedclsup_one">
+		<TEXTVALUE>ഇത് 250 മി.ലി.ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsadded2">
+	<TEXT ID="solutionsadded2_one">
+		<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 0.1 മോളാർ പൊട്ടസ്യം തയോസയനൈറ്റ് ലായനിയുടെ 10 മി.ലി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsaddedclsup2">
+	<TEXT ID="solutionsaddedclsup2_one">
+		<TEXTVALUE>ഇത് ഫെറിക് ക്ലോറൈഡ് ലായനി അടങ്ങിയ ബീക്കറിലേക്ക് ഒഴിക്കുക, ഫെറിക് തയോസയനൈറ്റ് ലായനിയുടെ സമ്മിശ്രമായ പ്രവർത്തനം കാരണം ഒരു കടും ചുവപ്പ് നിറം ഉരുത്തിരിയുന്നു. [ Fe(ScN) (H20) s]2+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50mlwateradded">
+	<TEXT ID="50mlwateradded_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 50 മി.ലി ശുദ്ധീകരണജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="wateraddedclsup">
+	<TEXT ID="wateraddedclsup_one">
+		<TEXTVALUE>ഇത് ബീക്കറിലെ ഫെറിക് തയോസയനൈറ്റ് മിശ്രണത്തിലേക്ക് ഒഴിച്ച് നന്നായി യോജിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixtureadded1">
+	<TEXT ID="mixtureadded1_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 10 മി.ലി മുകളിലത്തെ ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="mixtureadded1_two">
+		<TEXTVALUE>'A' എന്ന് പേർ എഴുതിയ ടെസ്ട്യുബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>	 
+</SCENE>	
+
+
+<SCENE ID="mixtureadded1clsup">
+	<TEXT ID="mixtureadded1clsup_one">
+		<TEXTVALUE>ലായനി ഈ ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+
+<SCENE ID="mixtureadded2">
+	<TEXT ID="mixtureadded2_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ വേറെ 10 മി.ലി ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="mixtureadded2clsup">
+	<TEXT ID="mixtureadded2clsup_one">
+		<TEXTVALUE>'B' എന്ന് പേർ എഴുതിയ ടെസ്ട്യുബ് എടുക്കുക, ലായനി ഈ ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="testtubeclsp">
+	<TEXT ID="testtubeclsp_one">
+		<TEXTVALUE>മറ്റ് രണ്ട് ടെസ്റ്റ് ട്യൂബുകൾക്ക് വേണ്ടിയും ഇതേ പ്രക്രിയ ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateradded">
+	<TEXT ID="5mlwateradded_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 5 മി.ലി ശുദ്ധീകരണജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateraddedclsup">
+	<TEXT ID="5mlwateraddedclsup_one">
+		<TEXTVALUE>ഇത് ടെസ്ട്യുബ് 'A'യിലേക്ക് ചേർത്ത് നല്ലതുപോലെ ടെസ്ട്യുബ് കുലുക്കുക, ഈ ടെസ്റ്റിലെ ലായനിയുടെ നിറമാണ് സംശയനിവൃത്തിക്ക് വേണ്ടി എടുക്കേണ്ട നിറം .</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1">
+	<TEXT ID="5mladded1_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 0.1 മോളാർ ഫെറിക് ക്ലോറൈഡ് ലായനിയുടെ 5 മി.ലി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1clsup">
+	<TEXT ID="5mladded1clsup_one">
+		<TEXTVALUE>ഇത് ടെസ്ട്യുബ് 'B' യിലേക്ക് ചേർക്കുക, നല്ലതുപോലെ കുലുക്കുക, ലായനിയുടെ നിറത്തിന് കൂടുതൽ കാഠിന്യമേറുന്നു. കാരണംഫെറിക് അയോണുകളുടെ ഗാഢതയുടെ വർദ്ധനവിന്റെ  ഫലമായി കൂടുതൽ ഫെറിക് തയോസയനൈറ്റ് മിശ്രണങ്ങൾ മുന്നോട്ടുള്ള ദിശയിൽനിന്ന് സന്തുലിതാവസ്ഥയിലേക്ക് മാറുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded2">
+	<TEXT ID="5mladded2_one">
+		<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 0.1 മോളാർ പൊട്ടാസ്യം തയോസയനൈറ്റ് ലായനിയുടെ 5 മി.ലി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladded2clsup">
+	<TEXT ID="5mladded2clsup_one">
+		<TEXTVALUE>ഇത് ടെസ്ട്യുബ് 'C' യിലേക്ക് ചേർക്കുക, നല്ലതുപോലെ കുലുക്കുക, ലായനിയുടെ നിറത്തിന് കൂടുതൽ കാഠിന്യമേറുന്നു. കാരണം തയോസയനൈറ്റ് അയോണുകളുടെ ഗാഢതയുടെ വർദ്ധനവിന്റെ ഫലമായി കൂടുതൽ ഫെറിക് തയോസയനൈറ്റ് മിശ്രണങ്ങൾ മുന്നോട്ടുള്ള ദിശയിൽനിന്ന് സന്തുലിതാവസ്ഥയിലേക്ക് മാറുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded3">
+	<TEXT ID="5mladded3_one">
+		<TEXTVALUE>ഇതുപോലെ വേറൊരു അളവ് സിലിണ്ടറിൽ 0.1 മോളാർ പൊട്ടാസ്യം ക്ലോറൈഡ് ലായനിയുടെ 5 മി.ലി യും എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="5mladdede3clsup">
+	<TEXT ID="5mladdede3clsup_one">
+		<TEXTVALUE>ഇത് ടെസ്ട്യുബ് 'D'യിലേക്ക് ചേർത്ത് നല്ലതുപോലെ ടെസ്ട്യുബ് കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5mladdede3clsup_two">
+		<TEXTVALUE>ലായനിയുടെ നിറം നേർത്തതാകുന്നു, എന്തെന്നാൽ പൊട്ടാസ്യം അയോണുകളുടെ ഗാഢതയിലുള്ള വർദ്ധനവ് തയോസയനൈറ്റ് അയോണുകളുടെ ഗാഢതയെ കുറയ്ക്കുന്നു. അങ്ങനെ സമ്മിശ്രമായവയുടെ ഗാഢത കുറയുന്നു. അപ്പോൾ പുറകോട്ടുള്ള ദിശയിൽ സന്തുലിതാവസ്ഥ സ്ഥാനം മാറ്റപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abcd">
+	<TEXT ID="abcd_one">
+		<TEXTVALUE>'B C D' എന്നീ ടെസ്ട്യുബുകളിലെ നിറത്തിന്റെ  കാഠിന്യം  ടെസ്ട്യുബ് 'A' യിലെ ചുവന്ന നിറവുമായി ഇപ്പോൾ താരതമ്യപ്പെടുത്തി സംശയ നിവൃത്തി വരുത്തുന്ന നിറമായി എടുക്കാവുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="abcd_two">
+		<TEXTVALUE>N'B C D' എന്നീ ടെസ്ട്യുബുകളിലെ നിറത്തിന്റെ  കാഠിന്യം  ടെസ്ട്യുബ് 'A' യിലെ ചുവന്ന നിറവുമായി ഇപ്പോൾ താരതമ്യപ്പെടുത്തി സംശയ നിവൃത്തി വരുത്തുന്ന നിറമായി എടുക്കാവുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abacad">
+	<TEXT ID="abacad_one">
+		<TEXTVALUE>'B C D' എന്നീ ടെസ്ട്യുബുകളിലെ നിറത്തിന്റെ  കാഠിന്യം  ടെസ്ട്യുബ് 'A' യിലെ ചുവന്ന നിറവുമായി ഇപ്പോൾ താരതമ്യപ്പെടുത്തി സംശയ നിവൃത്തി വരുത്തുന്ന നിറമായി എടുക്കാവുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="chart">	
+<TEXT ID="chart_one">
+		<TEXTVALUE>ടാബുലാർകോളത്തിൽ നിരീക്ഷണങ്ങൾ രേഖപ്പെടുത്തുക, ഫെറസ് അയോണുകളുടേയും തയോസയനൈറ്റ് അയോണുകളുടേയും ഇടയിലുള്ള സന്തുലിതാവസ്ഥ പ്രവർത്തകങ്ങളുടെ ഗാഢതയുമായി നേർ അനുപാതത്തിലായിരിക്കും.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+</DATA>

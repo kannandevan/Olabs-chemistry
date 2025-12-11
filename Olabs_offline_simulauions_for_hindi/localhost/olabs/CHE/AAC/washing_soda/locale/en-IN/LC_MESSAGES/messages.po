@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:43+0530\n"
+"PO-Revision-Date: 2025-10-06 15:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+
+msgid "HELP"
+msgstr "HELP"
+
+msgid "Alert"
+msgstr "Alert"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "Do you want to reset the simulation"
+ 
+msgid "Yes"
+msgstr "Yes"
+ 
+msgid "No"
+msgstr "No"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+
+msgid "RESET"
+msgstr "RESET"
+
+msgid "MAXIMIZE"
+msgstr "MAXIMIZE"
+
+msgid "MINIMIZE"
+msgstr "MINIMIZE"
+
+msgid "To Identify Washing soda or Baking soda among given Samples of Chemicals"
+msgstr "To Identify Washing soda or Baking soda among given Samples of Chemicals"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "The boiling tube A only produces effervescence when dil. HCl is added. <br>Therefore, the further procedure will be done using boiling tube A"
+msgstr "The boiling tube A only produces effervescence when dil. HCl is added. <br>Therefore, the further procedure will be done using boiling tube A"
+
+msgid "Wash the glass rod used for one sample before it used for another sample."
+msgstr "Wash the glass rod used for one sample before it used for another sample."
+
+msgid "Pass the liberated gas evolved through the lime water in a test tube . The lime water turns milky."
+msgstr "Pass the liberated gas evolved through the lime water in a test tube. The lime water turns milky."
+
+msgid "Sodium carbonate decahydrate"
+msgstr "Sodium carbonate decahydrate"
+
+msgid "Ammonium chloride"
+msgstr "Ammonium chloride"
+
+msgid "Sodium chloride"
+msgstr "Sodium chloride"
+
+msgid "Click on the sodium carbonate decahydrate bottle"
+msgstr "Click on the sodium carbonate decahydrate bottle"
+
+msgid "Click on the cap to open the bottle"
+msgstr "Click on the cap to open the bottle"
+
+msgid "Drag and drop the Spatula towards the bottle"
+msgstr "Drag and drop the Spatula towards the bottle"
+
+msgid "Drag and drop the Spatula towards the Boiling tube A"
+msgstr "Drag and drop the Spatula towards the Boiling tube A"
+
+msgid "Drag and drop the Spatula towards the Boiling tube B"
+msgstr "Drag and drop the Spatula towards the Boiling tube B"
+
+msgid "Drag and drop the Spatula towards the Boiling tube C"
+msgstr "Drag and drop the Spatula towards the Boiling tube C"
+
+msgid "Click here to shake."
+msgstr "Click here to shake."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube A."
+msgstr "Drag and drop the Measuring Cylinder towards the Boiling tube A."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube B."
+msgstr "Drag and drop the Measuring Cylinder towards the Boiling tube B."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube C."
+msgstr "Drag and drop the Measuring Cylinder towards the Boiling tube C."
+
+msgid "Click on the ammonium chloride bottle."
+msgstr "Click on the ammonium chloride bottle."
+
+msgid "Click on the sodium chloride bottle."
+msgstr "Click on the sodium chloride bottle."
+
+msgid "Click on the Next button."
+msgstr "Click on the Next button."
+
+msgid "Drag and drop Glass rod towards Boiling tube A."
+msgstr "Drag and drop Glass rod towards Boiling tube A."
+
+msgid "Click on the Inference button to see the observation."
+msgstr "Click on the Inference button to see the observation."
+
+msgid "Drag and drop Glass rod towards the Boiling tube B."
+msgstr "Drag and drop Glass rod towards the Boiling tube B."
+
+msgid "Drag and drop Glass rod towards the Boiling tube C."
+msgstr "Drag and drop Glass rod towards the Boiling tube C."
+
+msgid "Drag and drop the dil. HCL bottle towards the <br>Measuring Cylinder."
+msgstr "Drag and drop the dil. HCL bottle towards the <br>Measuring Cylinder."
+
+msgid "Click here to open the dil. HCL Bottle cap."
+msgstr "Click here to open the dil. HCL Bottle cap."
+
+msgid "Drag and drop the Cork towards the Boiling tube A."
+msgstr "Drag and drop the Cork towards the Boiling tube A."
+
+msgid "Drag and drop the Delivery tube towards the Boiling tube A."
+msgstr "Drag and drop the Delivery tube towards the Boiling tube A."
+
+msgid "Drag and drop the Dropper towards the Boiling tube A."
+msgstr "Drag and drop the Dropper towards the Boiling tube A."
+
+msgid "Drag and drop the Test tube containing Lime water<br>towards the other end of the Delivery tube."
+msgstr "Drag and drop the Test tube containing Lime water<br>towards the other end of the Delivery tube."
+
+msgid "Drag and drop the Wash Bottle towards the Measuring Cylinder."
+msgstr "Drag and drop the Wash Bottle towards the Measuring Cylinder."
+
+msgid "Click on the Boiling tube A to shake it."
+msgstr "Click on the Boiling tube A to shake it."
+
+msgid "Click on the Boiling tube B to shake it."
+msgstr "Click on the Boiling tube B to shake it."
+
+msgid "Click on the Boiling tube C to shake it."
+msgstr "Click on the Boiling tube C to shake it."
+
+msgid "Drag and drop the Glass rod towards the red litmus."
+msgstr "Drag and drop the Glass rod towards the red litmus."
+
+msgid "Drag and drop Glass rod towards the Boiling tube B"
+msgstr "Drag and drop Glass rod towards the Boiling tube B"
+
+msgid "When a drop of sodium carbonate decahydrate<br>solution is dropped on red litmus, it turns blue."
+msgstr "When a drop of sodium carbonate decahydrate<br>solution is dropped on red litmus, it turns blue."
+
+msgid "Drag and drop Glass rod towards the Boiling tube C"
+msgstr "Drag and drop Glass rod towards the Boiling tube C"
+
+msgid "When a drop of ammonium chloride is added to red litmus <br>there is no change in the litmus paper."
+msgstr "When a drop of ammonium chloride is added to red litmus <br>there is no change in the litmus paper."
+
+msgid "Click on the Next button"
+msgstr "Click on the Next button"
+
+msgid "When a drop of sodium chloride is added to red litmus<br> there is no effect on the litmus paper."
+msgstr "When a drop of sodium chloride is added to red litmus<br> there is no effect on the litmus paper."
+
+msgid "Click here to open the dil. HCL Bottle cap"
+msgstr "Click here to open the dil. HCL Bottle cap"
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide." + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide." + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "When ammonium chloride reacts with dil. HCL,<br> the resultant salt will be ammonium chloride. It is an acidic salt."
+msgstr "When ammonium chloride reacts with dil. HCL,<br> the resultant salt will be ammonium chloride. It is an acidic salt."
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl)."+"<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl)."+"<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br/>" +"The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br>"+ " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br/>" +"The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br>"+ " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+msgid "Observe the Colour of Lime water"
+msgstr "Observe the Colour of Lime water"
+
+msgid "Click on the Inference button to see the observation."
+msgstr "Click on the Inference button to see the observation."
+
+msgid "Click on the Reset<br>button to redo<br>the experiment."
+msgstr "Click on the Reset<br>button to redo<br>the experiment."
+
+msgid "On passing this gas in excess, it becomes clear again.<br> This confirms the presence of carbon dioxide.<br>"+ "Equation: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq). <br>"+ "On passing excess CO<sub>2</sub> through Lime water,<br> calcium hydrogen carbonate is formed.<br> It is soluble in water and forms a colourless solution."
+msgstr "On passing this gas in excess, it becomes clear again.<br> This confirms the presence of carbon dioxide.<br>"+ "Equation: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq). <br>"+ "On passing excess CO<sub>2</sub> through Lime water,<br> calcium hydrogen carbonate is formed.<br> It is soluble in water and forms a colourless solution."
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide.<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide.<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl).<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl).<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Drag and drop the Thistle funnel towards the<br> Boiling tube A."
+msgstr "Drag and drop the Thistle funnel towards the<br> Boiling tube A."
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"

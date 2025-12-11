@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>Qualitative Analysis of Carbohydrates</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="start">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the 'Start' button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>Click on the tab to choose  the test.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="btn_solubility">
+	<TEXTVALUE>Solubility Test</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_molischs">
+		<TEXTVALUE>Molisch’s Test</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_fehlings">
+	  <TEXTVALUE>Fehling’s Test</TEXTVALUE>
+	</TEXT>	
+	  <TEXT ID="txt_benedicts">
+	<TEXTVALUE>Benedict’s Test</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+	  <TEXTVALUE>Tollen’s Test</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_iodine">
+	   <TEXTVALUE>Iodine Test</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_observations">
+	   <TEXTVALUE>Observations</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+	   <TEXTVALUE>Tests for Carbohydrates</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_back">
+	   <TEXTVALUE>&lt;&lt; Back</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Solubility Test</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>Glucose</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>Sucrose</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>Starch</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+		<TEXTVALUE>Using a spatula, take a small quantity of glucose and put it in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_one">
+		<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_two">
+		<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_three">
+		<TEXTVALUE>Glucose completely dissolves in water.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>Glucose</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_water">
+		<TEXTVALUE>Distilled water</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_3ml">
+		<TEXTVALUE>3ml</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+		<TEXTVALUE>Using a spatula, take a small quantity of sucrose and put it in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene5_sub_one">
+		<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_two">
+		<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_three">
+		<TEXTVALUE>Sucrose completely dissolves in water.</TEXTVALUE>
+	</TEXT>	
+		
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>Sucrose</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+		<TEXTVALUE>Using a spatula, take a small quantity of starch and put it in a test tube.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_one">
+		<TEXTVALUE>Take about 3ml of distilled water in a dropper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_two">
+		<TEXTVALUE>Pour it into the test tube and shake the test tube well.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_three">
+		<TEXTVALUE>Starch is insoluble in water.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>Starch</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Molisch's Test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+		<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_one">
+		<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>Using a dropper, take a few drops Conc. Sulphuric acid.</TEXTVALUE>
+     </TEXT>
+	<TEXT ID="Scene8_sub_three">
+	<TEXTVALUE>Add it slowly along the side of the test tube, without mixing.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Scene8_sub_four">
+	<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>Glucose (2 ml)</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>Molisch’s reagent</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sulphuric">
+		<TEXTVALUE>Conc. Sulphuric acid</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_6drops">
+		<TEXTVALUE>6 drops</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+		<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_one">
+		<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_two">
+		<TEXTVALUE>Using a dropper, take few drops Conc. Sulphuric acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_three">
+		<TEXTVALUE>Add it slowly along the side of the test tube, without mixing. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_four">
+		<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+	<TEXTVALUE>Sucrose (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+		<TEXTVALUE>Take Molisch’s reagent using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_one">
+		<TEXTVALUE>Add about 6 drops of Molisch’s reagent into a test tube containing 2ml suspension of starch.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_two">
+		<TEXTVALUE>Using a dropper, take few drops Conc. Sulphuric acid.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_three">
+		<TEXTVALUE>Add it slowly along the side of the test tube, without mixing. </TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_four">
+		<TEXTVALUE>A red violet ring is produced at the junction of the two layers (acid layer and test layer) indicating the presence of carbohydrates.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>Starch (2 ml)</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Fehling's Test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+		<TEXTVALUE>Take 2 ml of Fehling’s solution A using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_one">
+		<TEXTVALUE>Add it to 2ml aqueous solution of glucose taken in a test tube.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_two">
+		<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns  a deep blue colour.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_three">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_four">
+		<TEXTVALUE>Place it in a boiling water bath and heat for few minutes.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_five">
+	<TEXTVALUE>Glucose is a reducing sugar that reduces the Cu(II) ions in the test reagent to red precipitate of copper (I) oxide.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>Fehling’s solution A</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_fehlingsB">
+		<TEXTVALUE>Fehling’s solution B</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+		<TEXTVALUE>Take 2 ml of Fehling’s solution A using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_one">
+		<TEXTVALUE>Add it to 2ml aqueous solution of sucrose taken in a test tube.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_two">
+		<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns a deep blue colour.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_three">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_four">
+		<TEXTVALUE>Place it in a boiling water bath and heat it for few minutes.</TEXTVALUE>
+		</TEXT>
+	
+		<TEXT ID="Scene13_sub_five">
+		<TEXTVALUE>The colour remains the same. The test is negative, indicating that sucrose is a non-reducing sugar.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+		<TEXTVALUE>Take 2 ml of Fehling’s solution A using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_one">
+		<TEXTVALUE>Add it to 2ml suspension of starch taken in a test tube.</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_two">
+		<TEXTVALUE>Then add 2ml of Fehling’s solution B into the test tube. The solution turns deep blue colour.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene14_sub_three">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene14_sub_four">
+		<TEXTVALUE>Place it in a boiling water bath and heat it for few minutes.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="Scene14_sub_five">
+		<TEXTVALUE>The colour remains the same. The test is negative, indicating that starch does not contain reducing sugar.</TEXTVALUE>
+
+	</TEXT>	
+	</SCENE>
+	
+	<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Benedict's Test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+		<TEXTVALUE>Take 2ml of Benedict’s reagent in a dropper.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_one">
+		<TEXTVALUE>Add it to 2ml aqueous solution of glucose taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_two">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat for few minutes.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_four">
+		<TEXTVALUE>Glucose is a reducing sugar that reduces the Cu(II) ions in the test reagent to red precipitate of copper (I) oxide.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>Benedict’s reagent </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+		<TEXTVALUE>Take 2ml of Benedict’s reagent in a dropper.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_one">
+		<TEXTVALUE>Add it to 2ml aqueous solution of sucrose taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_two">
+		<TEXTVALUE>Take the test tube using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat for few minutes.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_four">
+		<TEXTVALUE>The colour remains the same. The test is negative, indicating that sucrose is a non-reducing sugar.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+		<TEXTVALUE>Take 2ml of Benedict’s reagent in a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_one">
+		<TEXTVALUE>Add it to 2ml suspension of starch taken in a test tube. The colour of the solution turns blue.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_two">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat for few minutes.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_four">
+		<TEXTVALUE>The colour remains the same. The test is negative, indicating that starch does not contain reducing sugar.</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Tollen's Test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+		<TEXTVALUE>Take 2ml of Tollen’s reagent using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_one">
+		<TEXTVALUE>Add it to a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_two">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat it for 10 min.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_four">
+		<TEXTVALUE>Glucose is a reducing sugar that reduces  silver ions in the test reagent to elemental silver, which is accumulated on the inner surface of the reaction vessel, producing a silver mirror on the inner surface of the vessel.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>Tollen’s reagent</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_minutes">
+		<TEXTVALUE>10 minutes</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+		<TEXTVALUE>Take 2ml of Tollen’s reagent using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_one">
+		<TEXTVALUE>Add it to a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="Scene21_sub_two">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat for 10 min.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_four">
+		<TEXTVALUE>There will be no characteristic change indicating the absence of reducing carbohydrate.</TEXTVALUE>
+		</TEXT>	
+		
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene22">
+	<TEXT ID="Scene22_sub">
+		<TEXTVALUE>Take 2ml of Tollen’s reagent using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_one">
+		<TEXTVALUE>Add it into a test tube containing 2ml suspension of starch.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_two">
+		<TEXTVALUE>Remove the test tube from the rack using a test tube holder.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_three">
+		<TEXTVALUE>Place it in a boiling water bath and heat for 10 min.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_four">
+		<TEXTVALUE>There will be no characteristic change, indicating the absence of reducing carbohydrate.</TEXTVALUE>	
+	    </TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene23">
+	<TEXT ID="Scene23_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>Iodine Test</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene24">
+	<TEXT ID="Scene24_sub">
+		<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_one">
+		<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml aqueous solution of glucose.</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_two">
+		<TEXTVALUE>There will be no characteristic change, indicating the absence of starch.</TEXTVALUE>
+		</TEXT>	
+	
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>Iodine solution</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene25">
+	<TEXT ID="Scene25_sub">
+		<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_one">
+		<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml aqueous solution of sucrose.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_two">
+		<TEXTVALUE>There will be no characteristic change, indicating the absence of starch.</TEXTVALUE>	
+	</TEXT>	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="Scene26_sub">
+		<TEXTVALUE>Take a few drops of iodine solution using a dropper.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene26_sub_one">
+		<TEXTVALUE>Add 2 drops of iodine solution into a test tube containing 2ml suspension of starch.</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+		<TEXTVALUE>The colour of the solution turns blue, indicating the presence of starch.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_sub">
+		<TEXTVALUE>Record the observations in a tabular column.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_test">
+		<TEXTVALUE>Test</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_purple">
+		<TEXTVALUE>Purple ring</TEXTVALUE>
+	</TEXT>		
+	<TEXT ID="txt_red">
+		<TEXTVALUE>Red precipitate</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_silver">
+		<TEXTVALUE>Silver mirror</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_negative">
+		<TEXTVALUE>Negative</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_blue">
+		<TEXTVALUE>Blue colour</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>Molisch’s test</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>Fehling’s test</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>Benedict’s test </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>Tollen’s test</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>Iodine test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>

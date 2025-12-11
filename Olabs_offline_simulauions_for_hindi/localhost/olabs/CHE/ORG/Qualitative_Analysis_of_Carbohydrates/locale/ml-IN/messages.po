@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-05-28 12:37+0530\n"
+"PO-Revision-Date: 2016-06-14 10:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:18
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols_main.js:22
+msgid "Qualitative Analysis of Carbohydrates"
+msgstr "കാര്‍ബോഹൈഡ്രേറ്റുകളുടെ ഗുണാത്മക വിശ്ലേഷണം"
+
+#: simcontrols_main.js:24
+msgid "Glucose"
+msgstr "ഗ്ലൂക്കോസ്"
+
+#: simcontrols_main.js:24
+msgid "Lactose"
+msgstr "ലാക്റ്റോസ്"
+
+#: simcontrols_main.js:24
+msgid "Sucrose"
+msgstr "സുക്രോസ്"
+
+#: simcontrols_main.js:24
+msgid "Starch"
+msgstr "സ്റ്റാർച്ച്"
+
+#: simcontrols_main.js:24
+msgid "Water"
+msgstr "ജലം"
+
+#: simcontrols_main.js:24
+msgid "Glucose, lactose and sucrose are soluble in water,<br>whereas starch is insoluble in water."
+msgstr "ഗ്ലൂക്കോസ്, ലാക്റ്റോസ്, സുക്രോസ് എന്നിവ ജലത്തില്‍ <br>ലയിക്കുമ്പോള്‍ സ്‍റ്റാര്‍ച്ച് ജലത്തില്‍ ലയിക്കുന്നില്ല."
+
+#: simcontrols_main.js:25
+msgid "Molisch’s Reagent"
+msgstr "മോളിഷ് റീയേജന്റ്"
+
+#: simcontrols_main.js:25
+msgid "Conc. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols_main.js:25
+msgid "Carbohydrates undergo dehydration by Conc. H<sub>2</sub>SO<sub>4</sub> to form furfural<br>(furfuraldehyde) or its derivative.  The furfurals further react with α-naphthol<br>present in the Molisch’s reagent to form a red-violet (purple) coloured<br>product that appears as a purple ring at the interface between<br>the acid and the test layers."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> -മായി ചേരുമ്പോള്‍ കാര്‍ബോഹൈഡ്രേറ്റ്<br> നിര്‍ജലീകരണത്തിന് വിധേയമായി ഫര്‍ഫറല്‍<br> (ഫര്‍ഫറാല്‍ഡിഹൈഡ്) അല്ലെങ്കില്‍ അതിന്‍റെ ഉല്‍പന്നങ്ങള്‍ ഉണ്ടാകുന്നു. <br>ഫര്‍ഫറല്‍ തുടര്‍ന്ന് മോളിഷ് റീയേജന്‍റിലെ α-നാഫ്തോളുമായി ചേര്‍ന്ന് ഒരു <br> ചുവപ്പ്-വയലറ്റ് (പര്‍പ്പിള്‍) ഉല്‍പന്നമുണ്ടാക്കുന്നു. <br> ഇത് അമ്ലത്തിനും ടെസ്‍റ്റ് പാളികള്‍ക്കുമിടയിലെ <br> അന്തരാപ്രതലത്തില്‍ ഒരു പര്‍പ്പിള്‍ വലയമുണ്ടാക്കുന്നു."
+
+#: simcontrols_main.js:26
+msgid "Fehling’s solution A"
+msgstr "ഫെലിംഗ്സ്‍ ലായിനിA"
+
+#: simcontrols_main.js:26
+msgid "Fehling’s solution B"
+msgstr "ഫെലിംഗ്സ്‍ ലായിനിB"
+
+#: simcontrols_main.js:26
+msgid "Place test tubes in waterbath"
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് വാട്ടര്‍ ബാത്തില്‍ വയ്‍ക്കുക."
+
+#: simcontrols_main.js:26
+msgid "Reducing sugars (glucose & lactose) reduce the deep blue solution of<br>copper (II) in the test reagent to red precipitate of insoluble cuprous oxide."
+msgstr "നിരോക്സീകരണ പഞ്ചസാരകള്‍ (ഗ്ലൂക്കോസ്, ലാക്റ്റോസ്) ടെസ്‍റ്റ് <br>റീയേജന്‍റിലെ കോപ്പറിന്‍റെ കടുംനീല ലായിനിയെ നിരോക്സീകരിച്ച്<br> കുപ്രസ് ഓക്സൈഡിന്‍റെ  ചുവപ്പ് നിറമുള്ള അലേയ അവക്ഷിപ്‍തം ഉണ്ടാക്കുന്നു. "
+
+#: simcontrols_main.js:27
+msgid "Benedict’s Reagent"
+msgstr "ബെനഡിക്ട് റീയേജന്‍റ്"
+
+#: simcontrols_main.js:27
+msgid "Reducing sugars (glucose & lactose) reduce blue copper (II)<br>ions in the Benedict’s reagent to red precipitate of cuprous oxide."
+msgstr "നിരോക്സീകരണ പഞ്ചസാരകള്‍<br> (ഗ്ലൂക്കോസ്, ലാക്റ്റോസ്) ബെനഡിക്ട് റീയേജന്‍റിലെ നീല കോപ്പര്‍(II)<br>അയോണുകളെ കുപ്രസ് ഓക്സൈഡിന്‍റെ ചുവപ്പ് അവക്ഷിപ്‍തമാക്കുന്നു."
+
+#: simcontrols_main.js:27
+msgid "20 Minutes"
+msgstr "20 മിനിറ്റുകള്‍"
+
+#: simcontrols_main.js:28
+msgid "Tollen’s Reagent"
+msgstr "ടോളെന്‍സ് റീയേജന്‍റ്"
+
+#: simcontrols_main.js:28
+msgid "Reducing sugars (glucose & lactose) reduce silver ions in the test reagent to<br>elemental silver.  Elemental silver, accumulated on the inner surface of<br>the reaction vessel, produces a silver mirror on the inner surface of the vessel."
+msgstr "നിരോക്സീകരണ പഞ്ചസാരകള്‍ (ഗ്ലൂക്കോസ്, ലാക്റ്റോസ്) ടെസ്‍റ്റ് <br>റീഏജന്‍റിലെ സില്‍വര്‍ അയോണുകളെ മൂലക <br>സില്‍വര്‍ ആക്കിമാറ്റുന്നു. ഇത്  പ്രതിപ്രവര്‍ത്തനം നടക്കുന്ന<br> പാത്രത്തിന്‍റെ ആന്തര പ്രതലത്തില്‍ അടിഞ്ഞു കൂടുകയൂം ആന്തരപ്രതലം ഒരു <br>വെള്ളിദര്‍പ്പണം പോലെയാകുകയും ചെയ്യുന്നു."
+
+#: simcontrols_main.js:29
+msgid "Iodine Solution"
+msgstr "അയോഡിന്‍ ലായനി"
+
+#: simcontrols_main.js:29
+msgid "Iodine reacts with starch to form a starch/iodine complex,<br>which gives a characteristic blue colour to the reaction mixture.<br>Glucose, lactose and sucrose do not give this reaction."
+msgstr "അയോഡിന്‍ സ്‍റ്റാര്‍ച്ചുമായി പ്രതിപ്രവര്‍ത്തിച്ച്<br> സ്‍റ്റാര്‍ച്ച് / അയോഡിന്‍ കോംപ്ലക്സ് രൂപീകരിക്കുന്നു. <br>അത് പ്രതിപ്രവര്‍ത്തന മിശ്രിതത്തിന് സവിശേഷമായ നീല നിറം നല്‍കുന്നു.<br> ഗ്ലൂക്കോസ്, ലാക്റ്റോസ്, സുക്രോസ് എന്നിവ ഈ നിറം നല്‍കുന്നില്ല."
+
+#: simcontrols_main.js:30
+msgid "Drag the dropper towards the test tubes<br>to drop water into test tubes A, B, C<br>and D respectively."
+msgstr "A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ജലം <br>ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ അവയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:30
+msgid "Drag the test tubes A, B, C and D respectively <br>to shake the test tubes well."
+msgstr "A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> മോളീഷ് റീയേജന്റ് ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ അവയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the dropper towards the test tubes to drop<br>Molisch’s reagent into test tubes A, B, C<br>and D respectively."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് ചെരിഞ്ഞ നിലയില്‍ നിര്‍ത്താന്‍<br> ടെസ്‍റ്റ് ട്യൂബ് A യെ റീയേജന്‍റ് ബോട്ടിലിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols_main.js:31
+msgid "Drag test tube A towards the reagent bottles<br>to place it in slanting position."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the dropper towards test tube A to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly along the side of the test tube."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ്<br> ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the test tube B towards the reagent bottles<br>to place it in slanting position."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the dropper towards test tube B to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly along the side of the test tube."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the test tube C towards the reagent bottles<br>to place it in slanting position."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the dropper towards test tube C to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly along the side of the test tube."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag test tube D towards the reagent bottles<br>to place it in slanting position."
+msgstr "ടെസ്‍റ്റ് ട്യൂബ് ചെരിഞ്ഞ നിലയില്‍ നിര്‍ത്താന്‍ <br>ടെസ്‍റ്റ് ട്യൂബ് D യെ റീയേജന്‍റ് ബോട്ടിലിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:31
+msgid "Drag the dropper towards test tube D to drop Conc. H<sub>2</sub>SO<sub>4</sub><br>slowly along the side of the test tube."
+msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> ക്രമേണയായി ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ <br>ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:32
+msgid "Drag the dropper towards the test tubes<br>to drop Fehling’s solution A into test tubes A, B, C<br>and D respectively."
+msgstr "ഫെലിംഗ്സ് ലായിനി A യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:32
+msgid "Drag the dropper towards the tests tubes to drop Fehling’s<br>solution B into the test tubes A, B, C and D respectively."
+msgstr "ഫെലിംഗ്സ് ലായിനി B യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:33
+msgid "Drag the dropper towards the tests tubes to drop Benedict’s<br>reagent into the test tubes A, B, C and D respectively."
+msgstr "ബെനഡിക്ട്സ് റീയേജന്‍റ്  യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:34
+msgid "Drag the dropper towards the tests tubes to drop<br>Tollen’s reagent into the test tubes A, B, C and D respectively."
+msgstr "ടോളെന്‍സ് റീയേജന്‍റ് യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:35
+msgid "Drag the dropper towards the test tubes to drop iodine<br>solution into test tubes A, B, C and D respectively."
+msgstr "അയോഡിന്‍ ലായിനി യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളില്‍<br> ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:36
+msgid "Drag the test tubes A, B, C and D respectively towards<br>the beaker to place them in the water bath."
+msgstr "യഥാക്രമം A, B, C, D ടെസ്‍റ്റ് ട്യൂബുകളെ വാട്ടര്‍<br> ബാത്തില്‍ വയ്‍ക്കാനായി അവയെ ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:36
+msgid "Click on the switch of the hot plate to<br>heat the water bath."
+msgstr "വാട്ടര്‍ ബാത്ത് ചൂടാക്കാനായി ഹോട്ട്<br> പ്ലേറ്റിന്‍റെ സ്വിച്ച് ക്ലിക് ഓണ്‍ ചെയ്യുക."
+
+#: simcontrols_main.js:38
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols_main.js:42
+msgid "Select the test:"
+msgstr "പരിശോധന തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:43
+msgid "Solubility test"
+msgstr "ലേയത്വ പരിശോധന"
+
+#: simcontrols_main.js:43
+msgid "Molisch’s test"
+msgstr "മോളിഷ് പരിശോധന"
+
+#: simcontrols_main.js:43
+msgid "Fehling’s test"
+msgstr "ഫെലിംഗ്‍സ് പരിശോധന"
+
+#: simcontrols_main.js:43
+msgid "Benedict’s test"
+msgstr "ബെനഡിക്‍ട്സ് പരിശോധന"
+
+#: simcontrols_main.js:43
+msgid "Tollen’s test"
+msgstr "ടോളെന്‍സ് പരിശോധന"
+
+#: simcontrols_main.js:43
+msgid "Iodine test"
+msgstr "അയോഡിന്‍ പരിശോധന"
+
+#~ msgid "Glucose, lactose and sucrose are soluble in water,whereas starch is insoluble in water."
+#~ msgstr "ഗ്‍ളൂക്കോസ്,ലാക്‍റ്റോസ്,സുക്രോസ് ജലത്തില്‍ ലയിക്കുമ്പോള്‍ സ്‍റ്റാര്‍ച്ച് ജലത്തില്‍ ലയിക്കുന്നില്ല."
+
+#~ msgid "Conc. H2SO4"
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub>"
+
+#~ msgid "Carbohydrates undergo dehydration by Conc. H2SO4 to form furfural(furfuraldehyde) or its derivative.  The furfurals further react with α-naphtholpresent in the Molisch’s reagent to form a red-violet (purple) coloured product that appears as a purple ring at the interface between the acid and the test layers."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub> -നുമായി ചേരുമ്പോള്‍ കാര്‍ബോഹൈഡ്രേറ്റ് നിര്‍ജലീകരണത്തിന് വിധേയമായി ഫര്‍ഫറല്‍ (ഫര്‍ഫറാല്‍ഡിഹൈഡ്)അല്ലെങ്കില്‍ അതിന്‍റെ വ്യുല്‍പന്നങ്ങള്‍ ഉണ്ടാകുന്നു. ഫര്‍ഫറല്‍ തുടര്‍ന്ന് മോളീശ് റീഏജന്‍റിലെ α-നാഫ്തോളുമായി ചേര്‍ന്ന് ഒരു ചുവപ്പ്-വയലറ്റ്(പര്‍പ്പിള്‍) ഉല്‍പന്നമുണ്ടാക്കുന്നു. ഇത് അമ്‍ളത്തിനും ടെസ്‍റ്റ് പാളികള്‍ക്കുമിടയിലെ അന്തരാപ്രതലത്തില്‍ ഒരു പര്‍പ്പിള്‍ വലയമുണ്ടാക്കുന്നു."
+
+#~ msgid "Reducing sugars (glucose & lactose) reduce the deep blue solution of copper (II) in the test reagent to red precipitate of insoluble cuprous oxide."
+#~ msgstr "നിരോക്‍സീകരണ പഞ്ചസാരകള്‍ (ഗ്‍ളൂക്കോസ്,ലാക്‍റ്റോസ്) ടെസ്‍റ്റ് റീഏജന്‍റിലെ കോപ്പറിന്‍റെ കടും നീല ലായിനിയെ നിരോക്‍സീകരിച്ച് കുപ്രസ് ഓക്‍സൈഡിന്‍റെ  ചുവപ്പ് നിറമുള്ള അലേയ അവക്ഷിപ്‍തം ഉണ്ടാക്കുന്നു. "
+
+#~ msgid "Reducing sugars (glucose & lactose) reduce blue copper (II)ions in the Benedict’s reagent to red precipitate of cuprous oxide."
+#~ msgstr "നിരോക്‍സീകരണ പഞ്ചസാരകള്‍ (ഗ്‍ളൂക്കോസ്,ലാക്‍റ്റോസ്) ബെനഡിക്‍ട്  റീഏജന്‍റിലെ നീല കോപ്പര്‍(II)<br>ions അയോണുകളെ കുപ്രസ് ഓക്‍സൈഡിന്‍റെ ചുവപ്പ് അവക്ഷിപ്‍തമാക്കുന്നു."
+
+#~ msgid "Reducing sugars (glucose & lactose) reduce silver ions in the test reagent to elemental silver.  Elemental silver, accumulated on the inner surface of the reaction vessel, produces a silver mirror on the inner surface of the vessel."
+#~ msgstr "നിരോക്‍സീകരണ പഞ്ചസാരകള്‍ (ഗ്‍ളൂക്കോസ്,ലാക്‍റ്റോസ്) ടെസ്‍റ്റ് റീഏജന്‍റിലെ സില്‍വര്‍ അയോണുകളെ മൂലക സില്‍വര്‍ ആക്കിമാറ്റുന്നു.ഇത്  പ്രതിപ്രവര്‍ത്തനം നടക്കുന്ന പാത്രത്തിന്‍റെ ആന്തര പ്രതലത്തില്‍ അടിഞ്ഞുകൂടുകയൂംആന്തരപ്രതലം ഒരു വെള്ളിദര്‍പ്പണം പോലെയാകുകയും ചെയ്യുന്നു."
+
+#~ msgid "Iodine reacts with starch to form a starch/iodine complex,which gives a characteristic blue colour to the reaction mixture.Glucose, lactose and sucrose do not give this reaction."
+#~ msgstr "അയോഡിന്‍ സ്‍റ്റാര്‍ച്ചുമായി പ്രതിപ്രവര്‍ത്തിച്ച് സ്‍റ്റാര്‍ച്ച് /അയോഡിന്‍ കോംപ്‍ളെക്‍സ് രൂപീകരിക്കുന്നു.അത് പ്രതിപ്രവര്‍ത്തന മിശ്രിതത്തിന് സവിശേഷമായ നീല നിറം നല്‍കുന്നു. ഗ്‍ളൂക്കോസ്,ലാക്‍റ്റോസ്, സുക്രോസ് എന്നിവ ഈ നിറം നല്‍കുന്നില്ല."
+
+#~ msgid "Drag the dropper towards the test tubes to drop water into test tubes A, B, Cand D respectively."
+#~ msgstr "A, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ജലം ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ അവയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the test tubes A, B, C and D respectively to shake the test tubes well."
+#~ msgstr "A, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ മോളീഷ് റീഏജ്ന്‍റ് ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ അവയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards the test tubes to drop Molisch’s reagent into test tubes A, B, C and D respectively."
+#~ msgstr "ടെസ്‍റ്റ് ട്യൂബ് ചെരിഞ്ഞ നിലയില്‍ നിര്‍ത്താന്‍ ടെസ്‍റ്റ് ട്യൂബ് A യെ റീഏജന്‍റ് ബോട്ടിലിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#~ msgid "Drag test tube A towards the reagent bottles to place it in slanting position."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് Aയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards test tube A to drop Conc. H2SO4 slowly along the side of the test tube."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് Aയിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the test tube B towards the reagent bottles to place it in slanting position."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards test tube B to drop Conc. H2SO4 slowly along the side of the test tube."
+#~ msgstr "ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the test tube C towards the reagent bottles to place it in slanting position."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards test tube C to drop Conc. H2SO4 slowly along the side of the test tube."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag test tube D towards the reagent bottles to place it in slanting position."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് D യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards test tube D to drop Conc. H2SO4slowly along the side of the test tube."
+#~ msgstr "ഗാഢ H<sub>2</sub>SO<sub>4</sub><br> ക്രമേണയായി ടെസ്‍റ്റ്ട്യൂബിന്‍റെ വശങ്ങളിലൂടെ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#~ msgid "Drag the dropper towards the test tubes to drop Fehling’s solution A into test tubes A, B, C and D respectively."
+#~ msgstr "ഫെലിംഗ്സ് ലായിനിA യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Drag the dropper towards the tests tubes to drop Fehling’s solution B into the test tubes A, B, C and D respectively."
+#~ msgstr "ഫെലിംഗ്സ് ലായിനിB യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Drag the dropper towards the tests tubes to drop Benedict’s reagent into the test tubes A, B, C and D respectively."
+#~ msgstr "ബെനഡിക്‍ട്സ് റീഏജന്‍റ്  യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Drag the dropper towards the tests tubes to drop Tollen’s reagent into the test tubes A, B, C and D respectively."
+#~ msgstr "ടോളെന്‍സ് റീഏജന്‍റ് യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Drag the dropper towards the test tubes to drop iodine solution into test tubes A, B, C and D respectively."
+#~ msgstr "അയോഡിന്‍ ലായിനി യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്‍റ്റ് ട്യൂബുകളിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Drag the test tubes A, B, C and D respectively towards the beaker to place them in the water bath."
+#~ msgstr "യഥാക്രമംA, B, C, D ടെസ്‍റ്റ്ട്യൂബുകളെ വാട്ടര്‍ ബാത്തില്‍ വയ്‍ക്കാനായി അവയെ ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക"
+
+#~ msgid "Click on the switch of the hot plate to heat the water bath."
+#~ msgstr "വാട്ടര്‍ ബാത്ത് ചൂടാക്കാനായി ഹോട്ട് പ്‍ളേറ്റിന്‍റെ സ്വിച്ച് ക്‍ളിക് ഓണ്‍ ചെയ്യുക."
+
+#~ msgid "Colour test"
+#~ msgstr "Colour test"
+
+#~ msgid "Smell test"
+#~ msgstr "Smell test"
+
+#~ msgid "Dry heating test"
+#~ msgstr "Dry heating test"
+
+#~ msgid "Charcoal cavity test"
+#~ msgstr "Charcoal cavity test"
+
+#~ msgid "Cobalt nitrate test"
+#~ msgstr "Cobalt nitrate test"
+
+#~ msgid "Flame test"
+#~ msgstr "Flame test"
+
+#~ msgid "Borax bead test"
+#~ msgstr "Borax bead test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Select preliminary test:"
+#~ msgstr "Select preliminary test:"
+
+#~ msgid "Select the group test:"
+#~ msgstr "Select the group test:"
+
+#~ msgid "Select the confirmation test:"
+#~ msgstr "Select the confirmation test:"
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Ammonium-NH4+"
+#~ msgstr "Ammonium-NH4+"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Magnesium-Mg2+"
+#~ msgstr "Magnesium-Mg2+"
+
+#~ msgid "Salt.png"
+#~ msgstr "Salt.png"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</sup> are absent."
+#~ msgstr "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</sup> are absent."
+
+#~ msgid "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+#~ msgstr "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "May be Mn<sup>2+</sup> is present"
+#~ msgstr "May be Mn<sup>2+</sup> is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Acetic acid"
+#~ msgstr "Acetic acid"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+#~ msgstr "Drag the test tube to pour acetic acid into<br/> the test tube containing water."
+
+#~ msgid "Click on the test tube to shake it."
+#~ msgstr "Click on the test tube to shake it."
+
+#~ msgid "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper."
+#~ msgstr "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper."
+
+#~ msgid "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+#~ msgstr "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+#~ msgstr "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the grasshoppers."
+#~ msgstr "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the seeds."

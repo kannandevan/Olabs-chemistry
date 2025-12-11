@@ -1,0 +1,2018 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="Heading">
+	<TEXT ID="Heading_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="AnionsAndCations">
+	<TEXT ID="AnionsAndCations_one">
+	 	<TEXTVALUE>Click one of them.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Anions">
+	<TEXT ID="Anions_one">
+	 	<TEXTVALUE>Click one of the group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Cations">
+	<TEXT ID="Cations_one">
+	 	<TEXTVALUE>Click one of them.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introd">
+	<TEXT ID="introd_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="spoon">
+	<TEXT ID="spoon_one">
+	 	<TEXTVALUE>Take the unknown salt in a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Totesttube">
+	<TEXT ID="Totesttube_one">
+	 	<TEXTVALUE>Put it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takesodium">
+	<TEXT ID="takesodium_one">
+	 	<TEXTVALUE>Add some drops of conc. sodium hydroxide solution into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="gas">
+	<TEXT ID="gas_one">
+	 	<TEXTVALUE>Ammonia gas gets evolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrod">
+	<TEXT ID="glassrod_one">
+	 	<TEXTVALUE>Take a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="hclzero">
+	<TEXT ID="hclzero_one">
+	 	<TEXTVALUE>Dip the glass rod in dil. HCl bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="gasfromrod">
+	<TEXT ID="gasfromrod_one">
+	 	<TEXTVALUE>Hold it over the mouth of the test tube.  White fumes will be produced at the tip of the glass tube that indicate the presence of NH[sub]4[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Title1">
+	<TEXT ID="Title1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introgroup1">
+	<TEXT ID="introgroup1_one">
+		<TEXTVALUE>Analysis of group 1.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>Take few drops of the unknown solution.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_one">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_one">
+		<TEXTVALUE>Take dil. Hydrochloric acid.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_one">
+		<TEXTVALUE>Add it to the test tube.  A white precipitate will be produced.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_one">
+		<TEXTVALUE>Fix a filter paper in the funnel on a test tube, which is in the rack.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene7_two">
+		<TEXTVALUE>Fix a filter paper in the funnel on a test tube, which is on the rack.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene7_three">
+		<TEXTVALUE>Filter the mixture in the test tube through the funnel.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene7_four">
+		<TEXTVALUE>Collect the salt in the filter paper to another test tube.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+
+<SCENE ID="Scene2copy">
+	<TEXT ID="Scene2copy_one">
+		<TEXTVALUE>Take the distilled water.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_one">
+		<TEXTVALUE>Add it into the test tube containing white precipitate.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene10_two">
+		<TEXTVALUE>Pour half of the solution from first test tube into another test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pottassiumniodide">
+	<TEXT ID="pottassiumniodide_one">
+		<TEXTVALUE>Take the Potassium Iodide with dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_one">
+		<TEXTVALUE>Add it into the first test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pottassiumnchromaite">
+	<TEXT ID="pottassiumnchromaite_one">
+		<TEXTVALUE>Now, take few drops of Potassium Chromate solution.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12copy">
+	<TEXT ID="Scene12copy_one">
+		<TEXTVALUE>Add it into the second test tube.   Yellow precipitate formed indicates the presence of Pb[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<SCENE ID="Title2">
+	<TEXT ID="Title2_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="IntroS2">
+	<TEXT ID="IntroS2_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Solutions2TtubeS3">
+	<TEXT ID="Solutions2TtubeS3_one">
+	 	<TEXTVALUE>Measure 2ml of the unknown solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Solutions2TtubeS3_two">
+	 	<TEXTVALUE>Pour it in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Solutions2TtubeS3_three">
+	 	<TEXTVALUE>Also add dil. HCl into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolutionwarmS4">
+	<TEXT ID="SolutionwarmS4_one">
+	 	<TEXTVALUE>Warm the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="H2Sgas2TtubeS5">
+	<TEXT ID="H2Sgas2TtubeS5_one">
+	 	<TEXTVALUE>Pass H[sub]2[/sub]S gas to the test tube with Kipp’s apparatus.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultS6">
+	<TEXT ID="ResultS6_one">
+	 	<TEXTVALUE>Formation of Black Precipitate indicates the presence of Pb[sub]2[/sub] [sup]+[/sup] or Cu[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ResultS6_two">
+	 	<TEXTVALUE>Formation of Yellow Precipitate indicates the presence of As[sub]3[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="jartaking">
+	<TEXT ID="jartaking_one">
+	 	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="jartaking_two">
+	 	<TEXTVALUE>Measure 5 ml of unknown solution in the measuring jar.</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="jartaking_three">
+	 	<TEXTVALUE>Pour it into a test tube.</TEXTVALUE>
+	</TEXT>		
+	
+</SCENE>
+
+<SCENE ID="droper">
+	<TEXT ID="droper_one">
+	 	<TEXTVALUE>Add 4-5 drops of conc. nitric acid to the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="droper_two">
+	 	<TEXTVALUE>Boil the solution on a Bunsen burner..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spatula">
+	<TEXT ID="spatula_one">
+	 	<TEXTVALUE>Add some Ammonium chloride using a spatula to the test tube while boiling.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cooling">
+	<TEXT ID="cooling_one">
+	 	<TEXTVALUE>Cool the test tube for some time in cold water taken in a beaker.</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="cooling_two">
+	 	<TEXTVALUE>Add excess of ammonium hydroxide solution to the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="cooling_three">
+	 	<TEXTVALUE>Shake it well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="cooling_four">
+	 	<TEXTVALUE>Reddish brown precipitate obtained indicates the conformation of Fe[sub]3[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="cooling_five">
+	 	<TEXTVALUE>White precipitate indicates the conformation of Al[sub]3[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="intro4">
+	<TEXT ID="intro4_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="jartaking1">
+	<TEXT ID="jartaking1_one">
+	 	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="jartaking1_two">
+	 	<TEXTVALUE>Measure 5 ml of unknown solution in the measuring jar.</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="jartaking1_three">
+	 	<TEXTVALUE>Pour it into a test tube.</TEXTVALUE>
+	</TEXT>		
+	
+</SCENE>
+
+
+<SCENE ID="droper1">
+	<TEXT ID="droper1_one">
+	 	<TEXTVALUE>Add 4-5 drops of conc. nitric acid to the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="droper1_two">
+	 	<TEXTVALUE>Boil the solution on a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spatula1">
+	<TEXT ID="spatula1_one">
+	 	<TEXTVALUE>Add some Ammonium chloride using a spatula to the test tube while boiling.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cooling1">
+	<TEXT ID="cooling1_one">
+	 	<TEXTVALUE>Cool the test tube for some time in cold water taken in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="cooling1">
+	<TEXT ID="cooling1_two">
+	 	<TEXTVALUE>Take ammonium hydroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="amnadded">
+	<TEXT ID="amnadded_one">
+	 	<TEXTVALUE>Add ammonium hydroxide in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="kipps1">
+	<TEXT ID="kipps1_one">
+	 	<TEXTVALUE>Pass H[sub]2[/sub]S gas to the test tube with Kipp’s apparatus.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="kipps1_two">
+	 	<TEXTVALUE>Formation of Black Precipitate indicates Co[sub]2[/sub] [sup]+[/sup] or Ni[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="kipps1_three">
+	 	<TEXTVALUE>Formation of Black Precipitate indicates Co[sub]2[/sub] [sup]+[/sup] or Ni[sub]2[/sub] [sup]+[/sup].Formation of Dull White colored Precipitate indicates Zn[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>      
+	</TEXT>
+	<TEXT ID="kipps1_four">
+	 	<TEXTVALUE>Formation of Black Precipitate indicates Co[sub]2[/sub] [sup]+[/sup] or Ni[sub]2[/sub] [sup]+[/sup]. Formation of Dull White colored Precipitate indicates Zn[sub]2[/sub] [sup]+[/sup]. Formation of Flesh colored Precipitate indicates Mn[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>      
+	</TEXT>	       
+</SCENE>
+
+
+
+
+<SCENE ID="title5">
+	<TEXT ID="title5_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introscGruop5">
+	<TEXT ID="introscGruop5_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_one">
+		<TEXTVALUE>Take some drops of unknown solution.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="unknown_two">
+		<TEXTVALUE>Pour some drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_one">
+		<TEXTVALUE>Take a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_two">
+		<TEXTVALUE>Take some ammonium chloride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_one">
+		<TEXTVALUE>Add the ammonium chloride to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_two">
+		<TEXTVALUE>Boil the test tube in burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_three">
+		<TEXTVALUE>Allow the test tube to cool for some time in a water bath.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="cooltestube">
+	<TEXT ID="cooltestube_one">
+		<TEXTVALUE>Allow the test tube to cool for some time in a water bath.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="onstand">
+	<TEXT ID="onstand_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_one">
+		<TEXTVALUE>Take some drops of ammonium hydroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_two">
+		<TEXTVALUE>Take some drop of ammonium hydroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powderadded2">
+	<TEXT ID="powderadded2_one">
+		<TEXTVALUE>Add some ammonium hydroxide into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Dilsolution">
+	<TEXT ID="Dilsolution_one">
+		<TEXTVALUE>Take some drops of ammonium carbonate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="diladded">
+	<TEXT ID="diladded_one">
+		<TEXTVALUE>Also add few drops of ammonium carbonate to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diladded">
+	<TEXT ID="diladded_two">
+		<TEXTVALUE>A white precipitate forms that indicates the presence of Group V salts.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Title6">
+	<TEXT ID="Title6_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Amoniumtitle">
+	<TEXT ID="Amoniumtitle_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionS1">
+	<TEXT ID="IntroductionS1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Unknown2TtubeS2">
+	<TEXT ID="Unknown2TtubeS2_one">
+	 	<TEXTVALUE>Take few drops of the unknown solution and pour it in a new test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ammonium2ttubeS3">
+	<TEXT ID="Ammonium2ttubeS3_one">
+	 	<TEXTVALUE>Using the spatula take ammonium chloride and add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HydrPhos2TtubeS4">
+	<TEXT ID="HydrPhos2TtubeS4_one">
+	 	<TEXTVALUE>Add excess  ammonium hydroxide to the same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HydrPhos2TtubeS4">
+	<TEXT ID="HydrPhos2TtubeS4_two">
+	 	<TEXTVALUE>Also add Ammonium phosphate solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HydrPhos2TtubeS4">
+	<TEXT ID="HydrPhos2TtubeS4_three">
+	 	<TEXTVALUE>Take a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultS5">
+	<TEXT ID="ResultS5_one">
+	 	<TEXTVALUE>Rub the side of the test tube with the glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultS5">
+	<TEXT ID="ResultS5_two">
+	 	<TEXTVALUE>A white precipitate will appear that indicates the presence of  Mg[sub]2[/sub] [sup]+[/sup].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title7">
+	<TEXT ID="title7_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="title22">
+	<TEXT ID="title22_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro7">
+	<TEXT ID="intro7_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakeaTesttube">
+	<TEXT ID="TakeaTesttube_one">
+	 	<TEXTVALUE>Take a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeasalt">
+	<TEXT ID="Takeasalt_one">
+	 	<TEXTVALUE>Take some unknown salt with a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="poreit">
+	<TEXT ID="poreit_one">
+	 	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cobaltnitrate">
+	<TEXT ID="cobaltnitrate_one">
+	 	<TEXTVALUE>Add 2-3 drops of Cobalt nitrate solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="poreitCOBALT">
+	<TEXT ID="poreitCOBALT_one">
+	 	<TEXTVALUE>Then add 2-3 drops of dil. nitric acid to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Nitricacid ">
+	<TEXT ID="Nitricacid_one">
+	 	<TEXTVALUE>Then add 2-3 drops of dil. nitric acid to it.  A pastelike mixture will form.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="poreitnitric">
+	<TEXT ID="poreitnitric_one">
+	 	<TEXTVALUE>A pastelike mixture will form.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeafilter">
+	<TEXT ID="Takeafilter_one">
+	 	<TEXTVALUE>Take a filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="pore">
+	<TEXT ID="pore_one">
+	 	<TEXTVALUE>Dip it into the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="burn">
+	<TEXT ID="burn_one">
+	 	<TEXTVALUE>Burn the filter paper in a burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="watchglass">
+	<TEXT ID="watchglass_one">
+	 	<TEXTVALUE>if the colour of the ash is green, it indicates the presence of Zn[sub]2[/sub] [sup]+[/sup]. If the colour of the ash is pink, it indicates the presence of Mg[sub]2[/sub] [sup]+[/sup] and if the colour of the ash is blue, it indicates the presence of Al[sub]3[/sub] [sup]+[/sup].
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title222">
+	<TEXT ID="title222_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakeaTesttube2">
+	<TEXT ID="TakeaTesttube2_one">
+	 	<TEXTVALUE>Take a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="poreit2">
+	<TEXT ID="poreit2_one">
+	 	<TEXTVALUE>Add a small amount of the unknown salt to a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HCLprilimi">
+	<TEXT ID="HCLprilimi_one">
+	 	<TEXTVALUE>Add a few drops of concentrated HCl to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="drops">
+	<TEXT ID="drops_one">
+	 	<TEXTVALUE>Add a few drops of concentrated HCl to it.  Mix it with a wire loop</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="flame1">
+	<TEXT ID="flame1_one">
+	 	<TEXTVALUE>Introduce the loop to the flame.  Note the colour of the flame. Brick red coloured flame indicates the presence of Ca[sub]2[/sub] [sup]+[/sup] ions,</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="flame1">
+	<TEXT ID="flame1_two">
+	 	<TEXTVALUE>crimson red coloured flame indicates the presence of Sr2+ ion and grassy green coloured flame indicates the presence of Ba[sub]2[/sub] [sup]+[/sup] ion.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="title10">
+	<TEXT ID="title10_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="dil">
+	<TEXT ID="dil_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introcarbo">
+	<TEXT ID="introcarbo_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="testtube">
+	<TEXT ID="testtube_one">
+		<TEXTVALUE>Take a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknownsolution">
+	<TEXT ID="unknownsolution_one">
+		<TEXTVALUE>Take some drops of unknown solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="testtubeL">
+	<TEXT ID="testtubeL_one">
+		<TEXTVALUE>Pour 2-3 drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownsolution2">
+	<TEXT ID="unknownsolution2_one">
+		<TEXTVALUE>Take Dil. HCl into it using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="testtubead">
+	<TEXT ID="testtubead_one">
+	<TEXTVALUE>Add 2-3 drops of Dil. HCl into the test tube.</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="testtubead_two">
+	<TEXTVALUE>Brisk effervescence will occur.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="testtubead_three">
+<TEXTVALUE>Take another test tube.  Place it over the test tube and collect the gas from it.</TEXTVALUE>
+</TEXT>
+<TEXT ID="testtubead_four">
+<TEXTVALUE>Close the mouth of the test tube with a finger.</TEXTVALUE>
+</TEXT>
+</SCENE>
+
+<SCENE ID="LIMEsolution">
+	<TEXT ID="LIMEsolution_one">
+		<TEXTVALUE>Take a dropper. Add 2-3 drops of lime water to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dropslime">
+	<TEXT ID="dropslime_one">
+		<TEXTVALUE>Add 2-3 drops of lime water to the test tube. Milky colour will appear.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="mag">
+	<TEXT ID="mag_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="intro2carbo">
+	<TEXT ID="intro2carbo_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="testtube2">
+	<TEXT ID="testtube2_one">
+		<TEXTVALUE>Take 2-3 drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownsolution3">
+	<TEXT ID="unknownsolution3_one">
+		<TEXTVALUE>Take 2-3 drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testtubeL3">
+	<TEXT ID="testtubeL3_one">
+		<TEXTVALUE>Take 2-3 drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownsolution23">
+	<TEXT ID="unknownsolution23_one">
+		<TEXTVALUE>Add 2-3 drops of Magnesium sulphate to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testtube4">
+	<TEXT ID="testtube4_one">
+		<TEXTVALUE>Add 2-3 drops of Magnesium sulphate to the test tube. White precipitate will form.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="title11">
+	<TEXT ID="title11_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="headingsulphite">
+	<TEXT ID="headingsulphite_one">
+	 	<TEXTVALUE>Barium chloride test. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscsulphite">
+	<TEXT ID="introscsulphite_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takeunknownssul">
+	<TEXT ID="takeunknownssul_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dropitsulphite">
+	<TEXT ID="dropitsulphite_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="bariumcloridde">
+	<TEXT ID="bariumcloridde_one">
+	 	<TEXTVALUE>Add 2-3 drops of Barium Chloride solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="bariumcloridde">    
+	<TEXT ID="bariumcloridde_two">
+	 	<TEXTVALUE>White precipitate will be formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Hclsulphite">
+	<TEXT ID="Hclsulphite_one">
+	 	<TEXTVALUE>Add 1-2 drops of Dil. HCl to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="hclinmeasu">
+	<TEXT ID="hclinmeasu_one">
+	 	<TEXTVALUE>Add 1-2 drops of Dil. HCl to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="hclinmeasu_two">
+	 	<TEXTVALUE>The precipitate dissolves with the evolution of sulphur dioxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="heading2sulphite">
+	<TEXT ID="heading2sulphite_one">
+	 	<TEXTVALUE>Potassium Dichloromate Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownsolutsulp">
+	<TEXT ID="unknownsolutsulp_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dropit2sce">
+	<TEXT ID="dropit2sce_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="potta1">
+	<TEXT ID="potta1_one">
+	 	<TEXTVALUE>Add 2-3 drops of potassium dichromate to it. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sulphuricacid">
+	<TEXT ID="sulphuricacid_one">
+	 	<TEXTVALUE>Add 2-3 drops of dil. Sulphuric acid.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="suphuricinliquid">
+	<TEXT ID="suphuricinliquid_one">
+	 	<TEXTVALUE>Solution will turn green colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title112nitri">
+	<TEXT ID="title112nitri_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="title2nitri">
+	<TEXT ID="title2nitri_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intronitri">
+	<TEXT ID="intronitri_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testtubenitri">
+	<TEXT ID="testtubenitri_one">
+	 	<TEXTVALUE>Take a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownsolutionnitri">
+	<TEXT ID="unknownsolutionnitri_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="testtube1nitri">
+	<TEXT ID="testtube1nitri_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Aceticacidnitri">
+	<TEXT ID="Aceticacidnitri_one">
+	 	<TEXTVALUE>Add few drops of dil. Acetic acid to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testtube22nitri">
+	<TEXT ID="testtube22nitri_one">
+	 	<TEXTVALUE>Add few drops of dil. Acetic acid to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrousnitri">
+	<TEXT ID="ferrousnitri_one">
+	 	<TEXTVALUE>Add few drops of ferrous sulphate solution into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="resultnitri">
+	<TEXT ID="resultnitri_one">
+	 	<TEXTVALUE>Solution will turn dark brown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title33nitri">
+	<TEXT ID="title33nitri_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro2nitri">
+	<TEXT ID="intro2nitri_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="testtube2nitri">
+	<TEXT ID="testtube2nitri_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="unknownsolution2nitri">
+	<TEXT ID="unknownsolution2nitri_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="testtube3nitri">
+	<TEXT ID="testtube3nitri_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="dilsulnitri">
+	<TEXT ID="dilsulnitri_one">
+	 	<TEXTVALUE>Add few drops of dil. Sulphuric acid to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="testtube44nitri">
+	<TEXT ID="testtube44nitri_one">
+	 	<TEXTVALUE>Add few drops of dil. Sulphuric acid to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="potassumnitri">
+	<TEXT ID="potassumnitri_one">
+	 	<TEXTVALUE>Also add a few drops of potassium iodide solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="testtube5nitri">
+	<TEXT ID="testtube5nitri_one">
+	 	<TEXTVALUE>Also add a few drops of potassium iodide solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="starchnitri">
+	<TEXT ID="starchnitri_one">
+	 	<TEXTVALUE>Also add starch solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="testtube6nitri">
+	<TEXT ID="testtube6nitri_one">
+	 	<TEXTVALUE>The solution will turn blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title13">
+	<TEXT ID="title13_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="silvernitrateTest">
+	<TEXT ID="silvernitrateTest_one">
+	 	<TEXTVALUE>Silver Nitrate Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsczoom">
+	<TEXT ID="introsczoom_one">
+	 	<TEXTVALUE>Silver Nitrate Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscchlorid">
+	<TEXT ID="introscchlorid_one">
+	 <TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="introscchlorid_two">
+	<TEXTVALUE>Add few drops of dil. HNO[sub]3[/sub] to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscburner">
+   <TEXT ID="introscburner_two">
+	 	<TEXTVALUE>Allow it to cool for some time.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introscburner_three">
+	 	<TEXTVALUE>Add few drops of Silver Nitrate Solution to it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introscburner_four">
+	 	<TEXTVALUE>A White precipitate will be formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="MagnesiumDioxideTest">
+	<TEXT ID="MagnesiumDioxideTest_one">
+	 	<TEXTVALUE>Manganese dioxide test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="1Unknown2">
+	<TEXT ID="1Unknown2_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Takemagnisium">
+	<TEXT ID="Takemagnisium_one">
+	 	<TEXTVALUE>Take a spatula. Take some magnesium dioxide and add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="addsulfuricacid">
+	<TEXT ID="addsulfuricacid_one">
+	 	<TEXTVALUE>Also add few drops of con. Sulphuric acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="sulfuricadded">
+	<TEXT ID="sulfuricadded_one">
+	 	<TEXTVALUE>Also add few drops of con. Sulphuric acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="greenishYellowGas">
+	<TEXT ID="greenishYellowGas_one">
+	 	<TEXTVALUE>Heat it on a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="greenishYellowGas_two">
+	 	<TEXTVALUE>Evolution of Greenish-Yellow gas will occur.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="ChromylChlorideTest">
+	<TEXT ID="ChromylChlorideTest_one">
+	 	<TEXTVALUE>Chromyl Chloride Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="1introsc1">
+	<TEXT ID="1introsc1_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Takepotasium">
+	<TEXT ID="Takepotasium_one">
+	 	<TEXTVALUE>Add some powdered potassium dichromate into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addsulfuricacid2">
+	<TEXT ID="addsulfuricacid2_one">
+	 	<TEXTVALUE>Add few drops of Con. H[sub]2[/sub]SO[sub]4[/sub] to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sulfuricadded2">
+	<TEXT ID="sulfuricadded2_one">
+	 	<TEXTVALUE>Add few drops of dil. H[sub]2[/sub]SO[sub]4[/sub] to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="greenishYellowGas2">
+	<TEXT ID="greenishYellowGas2_one">
+	 	<TEXTVALUE>Heat the test tube.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="greenishYellowGas2_two">
+	 	<TEXTVALUE>Red vapours will evolve.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="greenishYellowGas2_three">
+	 	<TEXTVALUE>Take another test tube. Place it over the test tube and collect the gas from it.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="greenishYellowGas2_four">
+	 	<TEXTVALUE>Close the mouth of the test tube with a finger..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addsulnaoh">
+	<TEXT ID="addsulnaoh_one">
+	 	<TEXTVALUE>Take a dropper.  Add 2-3 drops of NaOH solution to the test tube..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="greenishYellowGas23drop">
+	<TEXT ID="greenishYellowGas23drop_one">
+	 	<TEXTVALUE>Take a dropper.  Add 2-3 drops of NaOH solution to the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="greenishYellowGas23drop_two">
+	 	<TEXTVALUE>Solution will turn yellow colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="aceticAcid">
+	<TEXT ID="aceticAcid_one">
+	 	<TEXTVALUE>Add dil. Acetic acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AddAceticTotestube">
+	<TEXT ID="AddAceticTotestube_one">
+	 	<TEXTVALUE>Add dil. Acetic acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="leadnitrate">
+	<TEXT ID="leadnitrate_one">
+	 	<TEXTVALUE>Also add Lead acetate solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="leadnitrateadded">
+	<TEXT ID="leadnitrateadded_one">
+	 	<TEXTVALUE>Also add Lead acetate solution to it.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="leadnitrateadded_two">
+	 	<TEXTVALUE>Yellow precipitate will be formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="titlebr14">
+	<TEXT ID="titlebr14_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="silvernitrateTestbr">
+	<TEXT ID="silvernitrateTestbr_one">
+		<TEXTVALUE>Silver Nitrate Test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="introscbr0">
+	<TEXT ID="introscbr0_one">
+		<TEXTVALUE>Take few drops of unknown solution in test tube.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="introscbr_two">
+		<TEXTVALUE>Add few drops of dil. HNO[sub]3[/sub] to it.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="introscburnerbr0">
+	<TEXT ID="introscburnerbr0_one">
+		<TEXTVALUE>Boil the test tube on a Bunsen burner.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="introscburnerbr0_two">
+		<TEXTVALUE>Allow the test tube to cool.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="introscburnerbr0_three">
+		<TEXTVALUE>Take few drops of Silver Nitrate Solution.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="introscburnerbr0_four">
+		<TEXTVALUE>Add it into the test tube.  A light yellow precipitate will be formed.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="MagnesiumDioxideTestbr">
+	<TEXT ID="MagnesiumDioxideTestbr_one">
+		<TEXTVALUE>Manganese dioxide test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Unknown2br">
+	<TEXT ID="Unknown2br_one">
+		<TEXTVALUE>Take some drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takemagnisiumbr">
+	<TEXT ID="Takemagnisiumbr_one">
+		<TEXTVALUE>Take a spatula and take some magnesium dioxide.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Takemagnisiumbr_two">
+		<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="addsulfuricacidbr">
+	<TEXT ID="addsulfuricacidbr_one">
+		<TEXTVALUE>Take few drops of con. Sulphuric acid.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="sulfuricadded1br">
+	<TEXT ID="sulfuricadded1br_one">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="YellowbrownGasbr">
+	<TEXT ID="YellowbrownGasbr_one">
+		<TEXTVALUE>Heat the test tube. Yellow brownish vapours will be evolved.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+
+<SCENE ID="title15">
+	<TEXT ID="title15_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="silvernitrateTestIod">
+	<TEXT ID="silvernitrateTestIod_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="introsczoomIod">
+	<TEXT ID="introsczoomIod_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="introsciodide">
+	<TEXT ID="introsciodide_one">
+	 	<TEXTVALUE>Take a few drops of HNO[sub]3[/sub] solution.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introsciodide_two">
+	 	<TEXTVALUE>Take few drops of given unknown solution from the beaker.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introsciodide_three">
+	 	<TEXTVALUE>Pour it into a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introsciodide_four">
+	 	<TEXTVALUE>Take few drops of HNO[sub]3[/sub] solution.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introsciodide_five">
+	 	<TEXTVALUE>Add it to the same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscburner1">
+	<TEXT ID="introscburner1_one">
+	 	<TEXTVALUE>Boil the test tube on a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introscburner1_two">
+	 	<TEXTVALUE>Take a few drops of silver nitrate solution.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introscburner1_three">
+	 	<TEXTVALUE>Take few drops of silver nitrate solution.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introscburner1_four">
+	 	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="introscburner1_five">
+	 	<TEXTVALUE>A yellow precipitate will be formed, indicating the presence of iodide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ManganeseDioxidetest">
+	<TEXT ID="ManganeseDioxidetest_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takemanganis">
+	<TEXT ID="Takemanganis_one">
+	 	<TEXTVALUE>Take a spatula.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Takemanganis_two">
+	 	<TEXTVALUE>Take some unknown compound.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Takemanganis_three">
+	 	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Unknown2">
+	<TEXT ID="Unknown2_one">
+	 	<TEXTVALUE>Take a dropper.  Take few drops of MnO[sub]2[/sub] from the bottle.</TEXTVALUE>
+	</TEXT>			
+</SCENE>
+
+<SCENE ID="h2so4">
+	<TEXT ID="h2so4_one">
+	 	<TEXTVALUE>Add few drops of con. H[sub]2[/sub]SO[sub]4[/sub].</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="h2so4_two">
+	 	<TEXTVALUE>Evolution of violet vapours will occur.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="h2so4_three">
+	 	<TEXTVALUE>Take a starch paper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="h2so4_four">
+	 	<TEXTVALUE>Hold it over the mouth of the test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="h2so4_five">
+	 	<TEXTVALUE>The color of the paper will turn blue indicates the presence of iodide ion.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title16">
+	<TEXT ID="title16_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="EasterTest">
+	<TEXT ID="EasterTest_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakeUnknownCom">
+	<TEXT ID="TakeUnknownCom_one">
+	 <TEXTVALUE>Take a spatula</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TakeUnknownCom_one">
+	 <TEXTVALUE>Take some unknown compound.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntheTestub">
+	<TEXT ID="IntheTestub_one">
+	 <TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakeJar">
+	<TEXT ID="TakeJar_one">
+	 <TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ConH2SO4">
+	<TEXT ID="ConH2SO4_one">
+	 <TEXTVALUE>Pour 2ml of con. H[sub]2[/sub]SO[sub]4[/sub] from its bottle and add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PourTheTestub">
+	<TEXT ID="PourTheTestub_one">
+	 <TEXTVALUE>Pour 2ml of con. H[sub]2[/sub]SO[sub]4[/sub] from its bottle and add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnTheBerner">
+	<TEXT ID="OnTheBerner_one">
+	 <TEXTVALUE>Heat the test tube in a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="EthylAlcohol">
+	<TEXT ID="EthylAlcohol_one">
+	 <TEXTVALUE>Add some Ethyl alcohol to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ShakeTheTestub">
+	<TEXT ID="ShakeTheTestub_one">
+	 <TEXTVALUE>Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FruotiSmell">
+	<TEXT ID="FruotiSmell_one">
+	 <TEXTVALUE>Take a beaker with water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FruotiSmell_two">
+	 <TEXTVALUE>Pour the contents of the test tube into the beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FruotiSmell_three">
+	 <TEXTVALUE>Stir it well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FruotiSmell_four">
+	 <TEXTVALUE>A pleasant fruity smell will occur which indicates the presence of  acetate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="headingFerricChlorideTest">
+	<TEXT ID="headingFerricChlorideTest_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FerricChlorideTest">
+	<TEXT ID="FerricChlorideTest_one">
+	 <TEXTVALUE>Add few drops of unknown solution to a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FerricChlorideTest_two">
+	 <TEXTVALUE>Add few drops of neutral ferric chloride to the test tube. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FanalAndFiltter">
+	<TEXT ID="FanalAndFiltter_one">
+	 <TEXTVALUE>Take a funnel and fix it in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FanalAndFiltter_two">
+	 <TEXTVALUE>Fix a filter paper in the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Filtering">
+	<TEXT ID="Filtering_one">
+	 <TEXTVALUE>Filter the solution into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Filtering_two">
+	 <TEXTVALUE>Reddish colored filtrate will be collected.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Filtering_three">
+	 <TEXTVALUE>Take another test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DividingTheLiqued">
+	<TEXT ID="DividingTheLiqued_one">
+	 <TEXTVALUE>Pour half of the filtrate to the other test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ReplacingTheTestub">
+	<TEXT ID="ReplacingTheTestub_one">
+	 <TEXTVALUE>Pour half of the filtrate to the other test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DroppingTheTestub">
+	<TEXT ID="DroppingTheTestub_one">
+	 <TEXTVALUE>Take few drops of dil. HCl in the first test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DroppingTheTestub_two">
+	 <TEXTVALUE>The solution will turn colourless.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Water">
+	<TEXT ID="Water_one">
+	 <TEXTVALUE>Add few drops of water to the second test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="theTestub">
+	<TEXT ID="theTestub_one">
+	 <TEXTVALUE>Add few drops of water to the second test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tothebernor">
+	<TEXT ID="Tothebernor_one">
+	 <TEXTVALUE>Boil the same test tube in a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PrestpittatOb">
+	<TEXT ID="PrestpittatOb_one">
+	 <TEXTVALUE>Reddish brown precipitate will form.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="TitleName17">
+	<TEXT ID="TitleName17_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CalciumChlorideTest">
+	<TEXT ID="CalciumChlorideTest_one">
+		<TEXTVALUE>Calcium Chloride Test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Introduction">
+	<TEXT ID="Introduction_one">
+		<TEXTVALUE>Calcium Chloride Test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingSpatualasalt">
+	<TEXT ID="TakingSpatualasalt_one">
+		<TEXTVALUE>Take a spatula and take some unknown salt and add it to a test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pouringWaterinTube">
+	<TEXT ID="pouringWaterinTube_one">
+		<TEXTVALUE>Add some water to the test tube, the salt solutes.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pouringDiluteAcetic">
+	<TEXT ID="pouringDiluteAcetic_one">
+		<TEXTVALUE>Add some dil. Acetic acid to the test tube from its bottle.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="BoilingTestTube">
+	<TEXT ID="BoilingTestTube_one">
+		<TEXTVALUE>Boil the test tube in a Bunsen burner.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pouringCalciumchloride">
+	<TEXT ID="pouringCalciumchloride_one">
+		<TEXTVALUE>Add some Calcium chloride solution from its bottle.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="pouringCalciumchloride_two">
+		<TEXTVALUE>A White precipitate will be formed.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pouringNitricacid">
+	<TEXT ID="pouringNitricacid_one">
+		<TEXTVALUE>Add dil HNO[sub]3[/sub] (Nitric acid) to the test tube from its bottle.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="pouringNitricacid_two">
+		<TEXTVALUE>The precipitate will be dissolved.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="CalciumPotttasiumtest">
+	<TEXT ID="CalciumPotttasiumtest_one">
+		<TEXTVALUE>Potassium permanganate Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Introduction2">
+	<TEXT ID="Introduction2_one">
+		<TEXTVALUE>Potassium permanganate Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakingSpatualasalt2">
+	<TEXT ID="TakingSpatualasalt2_one">
+		<TEXTVALUE>Take a spatula and add a pinch of given salt to a test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="pouringDiluteAcetic2">
+	<TEXT ID="pouringDiluteAcetic2_one">
+		<TEXTVALUE>Add some Dil. Sulphuric acid to the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="BoilingTestTube2">
+	<TEXT ID="BoilingTestTube2_one">
+		<TEXTVALUE>Warm it on a Bunsen burner to  60-70 degrees Celsius.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingPttssmFiller">
+	<TEXT ID="TakingPttssmFiller_one">
+		<TEXTVALUE>Add 2-3 drops of potassium permanganate solution to the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Colorliquid">
+	<TEXT ID="Colorliquid_one">
+		<TEXTVALUE>Pink color of KMnO[sub]4[/sub] is decolorized with the evolution of CO[sub]2[/sub] gas.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="title18">
+	<TEXT ID="title18_one">
+	 	<TEXTVALUE>confirmation of sulphate</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading1">
+	<TEXT ID="heading1_one">
+	 	<TEXTVALUE>Barium chloride test. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introsc1">
+	<TEXT ID="introsc1_one">
+	 	<TEXTVALUE>Take the Unknown solution in a test tube using a droper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takeunknowns1">
+	<TEXT ID="takeunknowns1_one">
+	 	<TEXTVALUE>Take the Unknown solution in a test tube using a droper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dropit1">
+	<TEXT ID="dropit1_one">
+	 	<TEXTVALUE>Take the Unknown solution in a test tube using a droper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="bariumcloridde1">
+	<TEXT ID="bariumcloridde1_one">
+	 	<TEXTVALUE>Add 2-3 drops of Barium Chloride solution to it .</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="bariumcloridde1_two">
+	 	<TEXTVALUE>White precipitate will be formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="heading21">
+	<TEXT ID="heading21_one">
+	 	<TEXTVALUE>Lead acetate test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takeunknowns02">
+	<TEXT ID="takeunknowns02_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dropit021">
+	<TEXT ID="dropit021_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="bariumcloriddecopy1">
+	<TEXT ID="bariumcloriddecopy1_one">
+	 	<TEXTVALUE>Add few drops of lead acetate solution to it.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="bariumcloriddecopy1_two">
+	 	<TEXTVALUE>A black precipitate is obtained.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="title19">
+	<TEXT ID="title19_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="headingphos">
+	<TEXT ID="headingphos_one">
+	 	<TEXTVALUE>Amonium Molubdate Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscphos">
+	<TEXT ID="introscphos_one">
+	 	<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="unknownac">
+	<TEXT ID="unknownac_one">
+	 	<TEXTVALUE>Add few drops of unknown solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Dilsolution1">
+	<TEXT ID="Dilsolution1_one">
+	 	<TEXTVALUE>Also add some Con.Nitric Acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="diladded1">
+	<TEXT ID="diladded1_one">
+	 	<TEXTVALUE>Also add some Con.Nitric Acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="bunsunburner">
+	<TEXT ID="bunsunburner_one">
+	 	<TEXTVALUE>Boil the test tube on the Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="molibdatesolution">
+	<TEXT ID="molibdatesolution_one">
+	 	<TEXTVALUE>Add ammonium molybdate solution to the test tube from its bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="moilontesttube">
+	<TEXT ID="moilontesttube_one">
+	 	<TEXTVALUE>Add ammonium molybdate solution to the test tube from its bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="bunsunburner2hot">
+	<TEXT ID="bunsunburner2hot_one">
+	 	<TEXTVALUE>Boil the test tube again.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="color">
+	<TEXT ID="color_one">
+	 	<TEXTVALUE>Solution will turn deep yellow colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading25">
+	<TEXT ID="heading25_one">
+	 	<TEXTVALUE>Magnesia Mixture Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsc2phos">
+	<TEXT ID="introsc2phos_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknown2phos">
+	<TEXT ID="unknown2phos_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="magnesiaMixture">
+	<TEXT ID="magnesiaMixture_one">
+	 	<TEXTVALUE>Add few drops of magnesia mixture to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixturein">
+	<TEXT ID="mixturein_one">
+	 	<TEXTVALUE>Allow it to stand. A white precipitate will be obtained after some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title12">
+	<TEXT ID="title12_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Sodiumnitro">
+	<TEXT ID="Sodiumnitro_one">
+		<TEXTVALUE>Diphenylamine Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introscnitrate">
+	<TEXT ID="introscnitrate_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeunknowns2">
+	<TEXT ID="takeunknowns2_one">
+		<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="dropit">
+	<TEXT ID="dropit_one">
+		<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diphenylamine">
+	<TEXT ID="diphenylamine_one">
+		<TEXTVALUE>Take few drops of diphenylamine from its bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diphenylamine">
+	<TEXT ID="diphenylamine_two">
+		<TEXTVALUE>Add it to the test tube. Solution will turn deep blue indicating the presence of nitrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading2nitrate">
+	<TEXT ID="heading2nitrate_one">
+		<TEXTVALUE>Ring test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknownsolut0">
+	<TEXT ID="unknownsolut0_one">
+		<TEXTVALUE>Take few drops of unknown solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="dropit2">
+	<TEXT ID="dropit2_one">
+		<TEXTVALUE>Take few drops of unknown solution to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="potta11">
+	<TEXT ID="potta11_one">
+		<TEXTVALUE>Take few drops of ferrous sulphate from its bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="potta11">
+	<TEXT ID="potta11_two">
+		<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="concSulphuricAcid">
+	<TEXT ID="concSulphuricAcid_one">
+		<TEXTVALUE>Take few drops of conc. Sulphuric acid using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrounRing">
+	<TEXT ID="BrounRing_one">
+		<TEXTVALUE>Pour it slowly along the sides of the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BrounRing">
+	<TEXT ID="BrounRing_two">
+		<TEXTVALUE>A dark brown ring is formed at the junction of the acid and the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="title21">
+	<TEXT ID="title21_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Sodiumnitroscn">
+	<TEXT ID="Sodiumnitroscn_one">
+	 	<TEXTVALUE>Sodium Nitroprusside Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introscsulphide">
+	<TEXT ID="introscsulphide_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="takeunknowns6">
+	<TEXT ID="takeunknowns6_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="dropitsulph">
+	<TEXT ID="dropitsulph_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitropruside1">
+	<TEXT ID="nitropruside1_one">
+	 	<TEXTVALUE>Also add few drops of sodium nitroprusside solution to it. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="nitropruside1">
+	<TEXT ID="nitropruside1_two">
+	 	<TEXTVALUE>Solution will turn purple in colour.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="heading2sulphide">
+	<TEXT ID="heading2sulphide_one">
+	 	<TEXTVALUE>Lead Acetate Test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknownsolutsc">
+	<TEXT ID="unknownsolutsc_one">
+	 	<TEXTVALUE>Take few drops of unknown solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="dropit2scn">
+	<TEXT ID="dropit2scn_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="potta">
+	<TEXT ID="potta_one">
+	 	<TEXTVALUE>Also add few drops of lead acetate solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="potta">
+	<TEXT ID="potta_two">
+	 	<TEXTVALUE>Solution will turn black in colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

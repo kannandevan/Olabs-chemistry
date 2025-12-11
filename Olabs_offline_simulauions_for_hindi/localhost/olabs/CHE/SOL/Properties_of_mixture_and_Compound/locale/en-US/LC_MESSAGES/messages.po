@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2013-10-01 10:57+0530\n"
+"PO-Revision-Date: 2013-10-03 15:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:44
+msgid "Distinguish Between Mixture and Compound"
+msgstr "Distinguish Between Mixture and Compound"
+
+#: simcontrols.js:45
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:46
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:47
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:48
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:50
+msgid "Basis of appearance"
+msgstr "Basis of appearance"
+
+#: simcontrols.js:50
+msgid "Behaviour towards magnet"
+msgstr "Behaviour towards magnet"
+
+#: simcontrols.js:50
+msgid "Action with Carbon disulphide"
+msgstr "Action with Carbon disulphide"
+
+#: simcontrols.js:50
+msgid "Action of heat"
+msgstr "Action of heat"
+
+#: simcontrols.js:50
+msgid "Action with dil.HCl"
+msgstr "Action with dil.HCl"
+
+#: simcontrols.js:52
+msgid "Select the test"
+msgstr "Select the test"
+
+#: simcontrols.js:52
+msgid "Fe + S"
+msgstr "Fe + S"
+
+#: simcontrols.js:52
+msgid "FeS"
+msgstr "FeS"
+
+#: simcontrols.js:52
+msgid "Fe + S + dil.HCl"
+msgstr "Fe + S + dil.HCl"
+
+#: simcontrols.js:52
+msgid "FeS + dil.HCl"
+msgstr "FeS + dil.HCl"
+
+#: simcontrols.js:52
+msgid "CuSO<sub>4</sub> solution"
+msgstr "CuSO<sub>4</sub> solution"
+
+#: simcontrols.js:52
+msgid "Mixture"
+msgstr "Mixture"
+
+#: simcontrols.js:52
+msgid "Compound"
+msgstr "Compound"
+
+#: simcontrols.js:52
+msgid "Carbon disulphide"
+msgstr "Carbon disulphide"
+
+#: simcontrols.js:52
+msgid "2 mins"
+msgstr "2 mins"
+
+#: simcontrols.js:52
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:54
+msgid ""
+"The yellow particles of sulphur and iron filings can be clearly seen and "
+"they </br>are non-uniformly distributed throughout the mixture. This "
+"indicates that </br>the mixture of iron and sulphur is heterogeneous in "
+"appearance."
+msgstr ""
+"The yellow particles of sulphur and iron filings can be clearly seen and "
+"they </br>are non-uniformly distributed throughout the mixture. This "
+"indicates that </br>the mixture of iron and sulphur is heterogeneous in "
+"appearance."
+
+#: simcontrols.js:54
+msgid ""
+"Uniform grey-black particles can be seen throughout, indicating </br>that "
+"the compound FeS is homogeneous in appearance."
+msgstr ""
+"Uniform grey-black particles can be seen throughout, indicating </br>that "
+"the compound FeS is homogeneous in appearance."
+
+#: simcontrols.js:54
+msgid ""
+"The iron filings cling to the magnet indicating that the iron has retained "
+"its </br>original property (magnetic nature) during the formation of the "
+"mixture."
+msgstr ""
+"The iron filings cling to the magnet indicating that the iron has retained "
+"its </br>original property (magnetic nature) during the formation of the "
+"mixture."
+
+#: simcontrols.js:54
+msgid ""
+"There are no particles clinging to the magnet, indicating that iron has lost "
+"its </br>original property (magnetic nature) on the formation of the "
+"compound."
+msgstr ""
+"There are no particles clinging to the magnet, indicating that iron has lost "
+"its </br>original property (magnetic nature) on the formation of the "
+"compound."
+
+#: simcontrols.js:54
+msgid ""
+"The yellow particles of sulphur dissolve in carbon disulphide to form a </"
+"br>yellow solution, and the particles of iron settle at the bottom of the "
+"test tube."
+msgstr ""
+"The yellow particles of sulphur dissolve in carbon disulphide to form a </"
+"br>yellow solution, and the particles of iron settle at the bottom of the "
+"test tube."
+
+#: simcontrols.js:54
+msgid ""
+"On the evaporation of carbon disulphide, the yellow particles of </"
+"br>sulphur reappear.This indicates that sulphur retains its </br>original "
+"property during the formation of a mixture."
+msgstr ""
+"On the evaporation of carbon disulphide, the yellow particles of </"
+"br>sulphur reappear.This indicates that sulphur retains its </br>original "
+"property during the formation of a mixture."
+
+#: simcontrols.js:54
+msgid ""
+"There is no change.This indicates that sulphur loses its </br>original "
+"property on the formation of a compound."
+msgstr ""
+"There is no change.This indicates that sulphur loses its </br>original "
+"property on the formation of a compound."
+
+#: simcontrols.js:54
+msgid ""
+"A black mass forms and particles of iron and sulphur cannot be seen </"
+"br>separately. Iron and sulphur, both lose their individual properties on </"
+"br>heating, and react chemically to form a compound FeS."
+msgstr ""
+"A black mass forms and particles of iron and sulphur cannot be seen </"
+"br>separately. Iron and sulphur, both lose their individual properties on </"
+"br>heating, and react chemically to form a compound FeS."
+
+#: simcontrols.js:54
+msgid ""
+"No change is observed.  The compound FeS does not undergo a </br>chemical "
+"reaction when heated, nor does it lose its properties."
+msgstr ""
+"No change is observed.  The compound FeS does not undergo a </br>chemical "
+"reaction when heated, nor does it lose its properties."
+
+#: simcontrols.js:54
+msgid ""
+"Iron filings in the mixture reacts with dil.HCl producing</br> hydrogen gas "
+"that extinguishes the burning matchstick with a</br> mild explosion while "
+"producing a popping sound."
+msgstr ""
+"Iron filings in the mixture reacts with dil.HCl producing</br> hydrogen gas "
+"that extinguishes the burning matchstick with a</br> mild explosion while "
+"producing a popping sound."
+
+#: simcontrols.js:54
+msgid ""
+"The compound FeS reacts with dil.HCl to produce </br>H<sub>2</sub>S gas "
+"which reacts with copper sulphate solution </br>to form a black precipitate "
+"of copper sulphide."
+msgstr ""
+"The compound FeS reacts with dil.HCl to produce </br>H<sub>2</sub>S gas "
+"which reacts with copper sulphate solution </br>to form a black precipitate "
+"of copper sulphide."
+
+#: simcontrols.js:56
+msgid "Click on the rod to stir the mixture."
+msgstr "Click on the rod to stir the mixture."
+
+#: simcontrols.js:56
+msgid "Click on the rod to stir the compound."
+msgstr "Click on the rod to stir the compound."
+
+#: simcontrols.js:56
+msgid "Drag the magnet towards the mixture."
+msgstr "Drag the magnet towards the mixture."
+
+#: simcontrols.js:56
+msgid "Drag the magnet towards the compound."
+msgstr "Drag the magnet towards the compound."
+
+#: simcontrols.js:56
+msgid ""
+"Drag the dropper towards the test tube to </br>pour carbon disulphide into "
+"the test tube."
+msgstr ""
+"Drag the dropper towards the test tube to </br>pour carbon disulphide into "
+"the test tube."
+
+#: simcontrols.js:56
+msgid ""
+"Click on the test tube containing the mixture </br>and solution to shake it "
+"well. Drag the test </br>tube to pour the solution into the china dish </"
+"br>and wait for two mins."
+msgstr ""
+"Click on the test tube containing the mixture </br>and solution to shake it "
+"well. Drag the test tube towards the </br>petri dish to pour the solution  "
+"into it and wait for two minutes."
+
+#: simcontrols.js:56
+msgid ""
+"Click on the test tube containing the </br>compound and solution to shake it "
+"well."
+msgstr ""
+"Click on the test tube containing the </br>compound and solution to shake it "
+"well."
+
+#: simcontrols.js:56
+msgid "Click on the bent tube to remove it."
+msgstr "Click on the bent tube to remove it."
+
+#: simcontrols.js:56
+msgid ""
+"Drag the matchstick towards the mouth of the </br>test tube that is on the "
+"test tube rack."
+msgstr ""
+"Drag the matchstick towards the mouth of the </br>test tube that is on the "
+"test tube rack."
+
+#: simcontrols.js:58
+msgid "Select the test."
+msgstr "Select the test."
+
+#: simcontrols.js:58
+msgid "Select the sample of Fe and S."
+msgstr "Select the sample."

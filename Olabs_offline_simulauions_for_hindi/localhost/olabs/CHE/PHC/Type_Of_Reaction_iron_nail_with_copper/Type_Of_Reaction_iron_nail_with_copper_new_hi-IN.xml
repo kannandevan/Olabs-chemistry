@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="naming_reaction1_11">
+		<TEXTVALUE>एकल विस्थापन अभिक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="naming_strt_s1">
+		<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>हमें कॉपर सल्फेट, लोहे की कील, डिस्टिल्‍ड पानी, बीकर, मापने वाला जार, टेस्ट ट्यूब, दो क्‍लैम्‍प स्‍टैण्‍ड, धागे के एक टुकड़े और ग्‍लास रॉड की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_01">
+		<TEXTVALUE>परखनली स्टैंड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_02">
+		<TEXTVALUE>बीकर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_03">
+		<TEXTVALUE>कील</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_04">
+		<TEXTVALUE>कांच की छड़</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_textb_05">
+		<TEXTVALUE>धागा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="introduction_ststtxt_01">
+		<TEXTVALUE>कॉपर 
+सल्फेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>मापने वाले जार में डिस्टिल्‍ड पानी की पर्याप्त मात्रा ले लें और साफ बीकर में डाल दें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE>इस में कॉपर सल्फेट की आवश्यक मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>ग्‍लास रॉड का इस्‍तेमाल करके बीकर में सामग्री को तब तक हिलाएं जब तक कि बीकर में कॉपर सल्फेट क्रिस्टल पूरी तरह से घुल न जाए।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="addcoppersulphate_textb_07">
+		<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_ststtic_03">
+		<TEXTVALUE>कॉपर 
+सल्फेट  विलयन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>कॉपर सल्फेट की पर्याप्त मात्रा टेस्ट ट्यूब में डालें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>स्टैंड में टेस्ट ट्यूब फंसाएं।</TEXTVALUE>
+		</TEXT>
+			<TEXT ID="cstotesttube_stastic_04">
+		<TEXTVALUE>कॉपर 
+सल्फेट  विलयन</TEXTVALUE>
+	</TEXT>
+		
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>तब एक और टेस्ट ट्यूब में कॉपर सल्फेट की पर्याप्त मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>इस टेस्ट ट्यूब को दूसरे स्‍टैण्‍ड में फंसाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>लोहे की कीलें लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_sand_11">
+		<TEXTVALUE>रेत कागज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sandpaper_ststiron_1">
+		<TEXTVALUE>लोहे की
+कीलें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>सैण्‍ड पेपर से इन्हें रगड़ कर साफ करें ताकि इनका रंग धूसर दिखाई देने लगे ।</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>धागे से एक कील बाँधें।</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>कॉपर सल्फेट विलयन (साल्‍यूशन) वाले किसी एक टेस्ट ट्यूब में इसे डुबोएं।</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>दोनों टेस्ट ट्यूबों को लगभग 15 मिनट तक बिना छेड़छाड़ के छोड़ दें।</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>15 मिनट बाद, लोहे की कील वाले कॉपर सल्फेट के विलयन (साल्‍यूशन) का रंग हल्‍के हरे रंग में परिवर्तित हो जाता है जबकि दूसरे टेस्ट ट्यूब में विलयन (साल्‍यूशन) का रंग नहीं बदलता है।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>विलयन (साल्‍यूशन) का हरा रंग Fe2+ यन की उपस्थिति की वजह से होता है। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="changecolor_cusref_11">
+		<TEXTVALUE>कॉपर सल्फेट</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_cusref_22">
+		<TEXTVALUE>कॉपर सल्फेट</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_mints_11">
+		<TEXTVALUE>15 मिनट</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="changecolor_feras_11">
+		<TEXTVALUE>फेरस 
+सल्फेट</TEXTVALUE>
+		</TEXT>
+		
+	
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>विलयन (साल्‍यूशन) से लोहे की कील निकालें।</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>दूसरी कील के साथ इसकी तुलना करें।</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>जहां कॉपर सल्फेट के विलयन (साल्‍यूशन) में डूबोए गए कील पर कॉपर की भूरे रंग की कोटिंग हो जाती है वहीं दूसरी कील अपना धूसर रंग बनाएं रखती है। यह एकल विस्थापन अभिक्रिया (सिंगल डिस्‍प्‍लेसमेंट रिएक्‍शन) है क्‍योंकि Fe आयन कॉपर सल्फेट के विलयन (साल्‍यूशन) से Cu आयनों को विस्थापित कर देता है।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_brct_11">
+		<TEXTVALUE>भूरा 
+कोटिंग</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="lastnail_bcko_1">
+		<TEXTVALUE>वापस </TEXTVALUE>
+		</TEXT>
+		
+		
+</SCENE>
+			
+	
+</DATA>
+
+	

@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mm\n"
+"POT-Creation-Date: 2015-11-25 16:29+0530\n"
+"PO-Revision-Date: 2016-06-06 17:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:38
+msgid "Single Displacement Reaction"
+msgstr "ലഘുസ്ഥാനാന്തരണ പ്രവർത്തനം"
+
+#: simcontrols.js:39
+msgid "Click and drag any of the iron nail to immerse it in one of the test tubes."
+msgstr "ടെസ്റ്റൃൂബുകളിൽ  മുങ്ങിക്കിടക്കുന്ന  ഇരുമ്പാണിയിൽ ഏതെങ്കിലും ഒന്നിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:40
+msgid ""
+"Click on the thread to remove the iron nail from the test tube and compare it with the other "
+"iron nail."
+msgstr "നൂലിൽ ക്ലിക്ക് ചെയ്ത് ടെസ്റ്റ്യുബിൽ നിന്ന് ഇരുമ്പാണി നീക്കം ചെയ്യുക, മറ്റ് ഇരുമ്പാണിയുമായി  ഇത് താരതമ്യം  ചെയ്യുക."
+
+#: simcontrols.js:41
+msgid "Click on the information icon to see the inference."
+msgstr "വിവരങ്ങൾ അറിയുന്ന ഐക്കണിൽ ക്ലിക്ക് ചെയ്ത്  അനുമാനം കാണുക."
+
+#: simcontrols.js:44
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:48
+msgid "15 Mins"
+msgstr "15 മിനിറ്റ് "
+
+#: simcontrols.js:49
+msgid "Instructions"
+msgstr "നിർദ്ദേശങ്ങൾ"
+
+#: simcontrols.js:51
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols.js:55
+msgid ""
+"Less reactive Cu<sup>2+</sup> ions are displaced</br>from CuSO<sub>4</sub> solution by the more "
+"reactive Fe<sup>2+</sup> ions."
+msgstr ""
+"കുറഞ്ഞ ക്രിയാശേഷി ഉള്ള Cu<sup>2+</sup>കോപ്പർ</br> അയോൺ കോപ്പർസൾഫേറ്റ് ലായനിയിൽ Cuso<sub>4</sub></br> "
+"നിന്നും  സ്ഥാനാന്തരപ്പെടുത്തുന്നു.കൂടുതൽ </br>ക്രിയാശേഷി ഉള്ള  Fe <sup>2+</sup> അയോണുകൾ."
+
+#: simcontrols.js:55
+msgid ""
+"The color of the solution changes to green</br>due to  the presence of FeSO<sub>4</sub> "
+"solution."
+msgstr ""
+"ലായനിയുടെ നിറം മാറി പച്ചയാകുന്നു.</br>ഫെറസ് സൾഫേറ്റ് ലായനിയുടെ സാന്നിധ്യമാണ് Fe<sub>4</sub></br> ഇതിന് കാരണം."
+
+#: simcontrols.js:55
+msgid "Brown coating of copper on the iron nail is because of the displaced Cu<sup>2+</sup> ions."
+msgstr ""
+"ഇരുമ്പാണിയുടെ പുറത്തെ കോപ്പറിന്റെ തവിട്ട് ആവരണത്തിന്</br> കാരണം കോപ്പർ Cu<sup>2+</sup> അയോൺ</br> "
+"സ്ഥാനാന്തരണപ്പെട്ടതാണ്."

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="es-ES">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_AQUEOUSSOLUTION">
+        <source>Reaction of Iron Nail with  an Aqueous Solution of Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BARIUMCHLORIDE">
+        <source>Barium Chloride</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BARIUMSULPHATE">
+        <source>Barium sulphate</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_BEAKER">
+        <source>Beaker</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BLUELIMTUSPAPER">
+        <source>Blue Litmus Paper</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BROWNCOATING">
+        <source>Brown coating</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_BURNINGMAGNESIUMAIR">
+        <source>Burning of Magnesium in Air</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_COPPERSULPHATE">
+        <source>Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_COPPERSULPHATESOLUTION">
+        <source>Copper Sulphate solution</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_CORK">
+        <source>cork</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DAZZLINGFLAME">
+        <source>Dazzling Flame</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>Dilute Sulphuric Acid</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_DISTILLEDWATER">
+        <source>Distilled water</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERROUSSULPHAT">
+        <source>Ferrous sulphate</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_GLASSROD">
+        <source>Glass rod</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GLASSTUBE">
+        <source>Glass tube</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_HEATINGCOPPERSULPHATE">
+        <source>Heating of  Hydrated Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IRONNAILS">
+        <source>Iron Nails</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>Kipps Apparatus</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MAGNESIUMOXIDE">
+        <source>Magnesium Oxide</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_MAGNESIUMRIBBON">
+        <source>Magnesium Ribbon</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MAINTITLE">
+        <source>Carry out the reactions and classify them as physical or chemical changes</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MOISTREDLITMUSPAPER">
+        <source>Moist Red Litmus Paper</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAIL">
+        <source>Nail</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_REACTIONAQUEOUS">
+        <source>Reaction between  an Aqueous Solution of Na₂SO₄ &amp; BaCl₂</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_REACTIONIRONNAIL_COPPERSULPHATE">
+        <source>Reaction of Iron Nail with Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_REDLITMUSPAPER">
+        <source>Red Litmus Paper</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_REFERENCE">
+        <source>[Reference]</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_SANDPAPER">
+        <source>Sand Paper</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_SODIUMSULPHATE">
+        <source>Sodium Sulphate</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_SODIUMSULPHATE_BARIUMCHLORIDE">
+        <source>Sodium Sulphate with Barium Chloride</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_TESTTUBESTAND">
+        <source>Test tube Stand</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_THREAD">
+        <source>Thread</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_TITLE">
+        <source>Chemical Reactions</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_ZINC_SULPHURIC_ACID">
+        <source>Reaction between  an Aqueous Solution of</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_ZINC_SULPHURICTITLE">
+        <source>Reaction of Zinc with dil. Sulphuric Acid</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_ZINCMETAL">
+        <source>Zinc Metal</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_ZINCSULPHATE">
+        <source> Zinc Sulphate</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

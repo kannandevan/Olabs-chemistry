@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="combinationReaction.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_INS1">
+        <source>1.Click the beaker on the left to add water into the beaker containing quick lime.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_INS2">
+        <source>2. After adding water, wait for sometime.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INS3">
+        <source>3.Click on the dropper to pour lime water into the test tube.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INS4">
+        <source>4.Click on the glass tube to blow exhaled air into the test tube.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INSTRUCT">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MSG0">
+        <source> Calcium carbonate  </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MSG1">
+        <source>Click on the beaker to add water to the quick lime.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MSG2">
+        <source>Click here to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MSG3">
+        <source>Click on the dropper to pour lime water into the test tube.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_MSG4">
+        <source>Click here to blow exhaled air into the test tube.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_MSG5">
+        <source>Quicklime reacts vigorously with water to produce slaked lime releasing a large amount of heat and a suspension of slaked lime settles down.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_MSG6">
+        <source>CO2 (g) contained in exhaled air turns lime water milky. The milky apperance of lime water is due to the formation of white precipitate of calcium carbonate.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_MSG7">
+        <source>Quick lime</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_MSG8">
+        <source>Slaked lime</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_MSG9">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_MSG11">
+        <source>A clear solution appears as the suspension of slaked lime settle down.This clear solution is called lime water.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_MSG12">
+        <source>CO2</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_MSG99">
+        <source>Quick lime reacts vigorously with water to produce a single product slaked lime releasing a large amount of heat. It is a combination reaction.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_START">
+        <source>start</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

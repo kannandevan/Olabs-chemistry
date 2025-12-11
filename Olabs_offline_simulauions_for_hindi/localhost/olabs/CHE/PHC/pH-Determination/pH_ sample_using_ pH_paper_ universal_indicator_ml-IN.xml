@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>അസറ്റിക് ആസിഡ്, PH പേപ്പർ സ്ട്രിപ്പ്, ശരാശരി നിറമുള്ള  ഒരു PH ചാർട്ട്, ഡ്രോപ്പർ, ഒരു വെള്ള ഇഷ്ടിക തുടങ്ങിയവ നമുക്ക് ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>ഒരു PH പേപ്പർ സ്ട്രിപ്പ് എടുക്കുക, ഇത് ഒരു  വെളുത്ത ടൈലിൽ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>ഒരു PH പേപ്പർ സ്ട്രിപ്പ് എടുക്കുക, ഇത് ഒരു  വെളുത്ത ടൈലിൽ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>ഒരു PH പേപ്പർ സ്ട്രിപ്പ് എടുക്കുക, ഇത് ഒരു  വെളുത്ത ടൈലിൽ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് അസറ്റിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>PH പേപ്പറിലേക്ക് ഒരു തുള്ളി അസറ്റിക് ആസിഡ്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>PH പേപ്പറിൽ നിറം ഉണ്ടാകുന്നത് നിരീക്ഷിക്കുക. PH പേപ്പറിന്റെ  നിറം മാറി ചുവപ്പാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>PH പേപ്പറിലുണ്ടാകുന്ന  നിറം ശരാശരി PH ചാർട്ടിലെ  വൃതൃസ്തനിറങ്ങളുമായി താരതമൃം ചെയ്യുക. ശേഷം നിറങ്ങളുടെ ചാർട്ടിൽ നിന്നും PH താഴെ രേഖപ്പെടുത്തുക. അസറ്റിക് ആസിഡിൻ്റെ PH 3 ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>അസറ്റിക് ആസിഡ്, സാർവ്വത്രികസൂചകങ്ങൾ, ശരാശരി നിറത്തിന്റെ  PH ചാർട്ട്, ഡ്രോപ്പർ, ടെസ്ട്യുബ് എന്നിവ നമുക്ക് ആവമാശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച്  കുറച്ച് അസറ്റിക് ആസിഡ്  ഒരു ടെസ്ട്യുബിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് അസറ്റിക് ആസിഡ്  ഒരു ടെസ്ട്യുബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>ചെറിയ അളവ് സാർവ്വത്രിക സൂചകലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>അസറ്റിക് ആസിഡ് അടങ്ങിയ ടെസ്ട്യുബിലേക്ക് ഏതാനും തുള്ളി സാർവ്വത്രിക സൂചകലായനി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>ടെസ്ട്യുബ്  നന്നായി കുലുക്കുക, ലായനിയുടെ നിറം മാറി ചുവപ്പാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>ടെസ്റ്റൃൂബിലുണ്ടായ നിറം ശരാശരി PH ചാർട്ടിലെ  വൃതൃസ്തനിറങ്ങളുമായി താരതമൃം ചെയ്യുക, അസറ്റിക് ആസിഡിൻ്റെ PH 3 ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2014-05-15 12:21+0530\n"
+"PO-Revision-Date: 2016-01-21 11:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Purification of Impure Samples by Crystallization"
+msgstr "क्रिस्टलीकरण द्वारा अशुद्ध नमूने का शोधन"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "SAVE"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:19
+msgid "Select the sample"
+msgstr "नमूने का चयन"
+
+#: simcontrols.js:19
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:20
+msgid "Crude copper sulphate"
+msgstr "कच्‍चा कॉपर सल्फेट"
+
+#: simcontrols.js:20
+msgid "Distilled Water"
+msgstr "आसुत जल"
+
+#: simcontrols.js:20
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "पतला H2SO4"
+
+#: simcontrols.js:20
+msgid "Crude potash alum"
+msgstr "कच्ची पोटाश फिटकिरी"
+
+#: simcontrols.js:20
+msgid "Crude benzoic acid"
+msgstr "कच्चा  बेंजोइक एसिड"
+
+#: simcontrols.js:20
+msgid "Next"
+msgstr "अगला"
+
+#: simcontrols.js:20
+msgid "Hot Water"
+msgstr "गरम पानी"
+
+#: simcontrols.js:20
+msgid "30 Min"
+msgstr "30 मिनट"
+
+#: simcontrols.js:20
+msgid "Ethyl alcohol with cold water"
+msgstr "ठंडा पानी सहित इथाइल अल्कोहल"
+
+#: simcontrols.js:20
+msgid "Mixture of alcohol  & water "
+msgstr "अल्‍कोहल और पानी का मिश्रण"
+
+#: simcontrols.js:20
+msgid "Cold water"
+msgstr "ठंडा पानी"
+
+#: simcontrols.js:21
+msgid "Copper sulphate"
+msgstr "कॉपर सल्फेट"
+
+#: simcontrols.js:21
+msgid "Potash alum"
+msgstr "पोटाश फिटकिरी"
+
+#: simcontrols.js:21
+msgid "Benzoic acid"
+msgstr "बेंज़ोइक एसिड"
+
+#: simcontrols.js:22
+msgid "The insoluble impurities are left on the filter paper."
+msgstr "अघुलनशील अशुद्धियों फिल्टर पेपर पर बची रह जाती हैं।"
+
+#: simcontrols.js:22
+msgid ""
+"The appearance of a crust or tiny crystals on the side of the <br> china dish shows that the "
+"crystallisation point has reached."
+msgstr ""
+"चाइना डिश के किनारे पर पपड़ी या छोटे-छोटे क्रिस्टल की उपस्थिति से पता चलता है कि क्रिस्टलीकरण बिंदु आ गया है।"
+
+#: simcontrols.js:22
+msgid "Crystals of the sample is formed."
+msgstr "नमूने के क्रिस्टलों का निर्माण होता है।"
+
+#: simcontrols.js:22
+msgid "The watch glass contains dried crystals."
+msgstr "वॉच ग्‍लास में सूखे क्रिस्टल हैं।"
+
+#: simcontrols.js:22
+msgid "The crystals of copper sulphate are <br> triclinic, transparent and blue."
+msgstr "कॉपर सल्फेट के क्रिस्टल, ट्राईक्‍लीनिक, पारदर्शी और नीले होते हैं।"
+
+#: simcontrols.js:22
+msgid "The crystals of potash alum are <br> colourless, transparent and octahedral."
+msgstr "पोटाश फिटकिरी के क्रिस्टल रंगहीन, पारदर्शी और अष्टभुजाकार होते हैं।"
+
+#: simcontrols.js:22
+msgid "The crystals of benzoic acid are <br> opaque and white."
+msgstr "बेंजोइक एसिड के क्रिस्टल अपारदर्शी और सफेद होते हैं।"
+
+#: simcontrols.js:22
+msgid "Crystals of benzoic acid is left <br> behind on the filter paper."
+msgstr "बेंजोइक एसिड के क्रिस्टल फिल्टर पेपर पर पीछे छूट जाते हैं।"
+
+#: simcontrols.js:23
+msgid "Click on the sample icon <br> to choose the sample."
+msgstr "नमूना चुनने के लिए नमूना आइकन पर क्लिक करें।"
+
+#: simcontrols.js:23
+msgid "Drag the spatula and add <br> sample into the beaker."
+msgstr "स्‍पैचुला खींचें और बीकर में नमूना मिलाएं।"
+
+#: simcontrols.js:23
+msgid "Click on the glass rod <br> to stir the solution."
+msgstr "विलयन चलाने के लिए कांच की छड़ पर क्लिक करें।"
+
+#: simcontrols.js:23
+msgid "Drag the measuring cylinder and <br> add H<sub>2</sub>SO<sub>4</sub> into the beaker."
+msgstr "मापने वाला सिलेंडर खींचें और बीकर में H2SO4 मिलाएं।"
+
+#: simcontrols.js:23
+msgid ""
+"Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass rod."
+msgstr "बीकर खींचें और कीप व कांच की छड़ के माध्यम से चाइना डिश में विलयन डालें।"
+
+#: simcontrols.js:23
+msgid "Click on the burner knob <br>  to turn on the burner."
+msgstr "बर्नर चालू करने के लिए बर्नर की घुंडी पर क्लिक करें।"
+
+#: simcontrols.js:23
+msgid ""
+"Drag the china dish to <br> transfer the hot saturated solution <br> into the crystallising dish."
+msgstr "क्रिस्‍टल बनाने वाली डिश में गर्म संतृप्त विलयन हस्तांतरित करने के लिए चाइना डिश खींचें।"
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it into the  trough."
+msgstr "क्रिस्टलीकरण डिश खींचें और इसे खौल में रखें।"
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it back."
+msgstr "क्रिस्टलीकरण डिश खींचें और इसे वापस रखें।"
+
+#: simcontrols.js:23
+msgid "Drag the filter paper and put <br> the crystals into the test tube."
+msgstr "फिल्टर पेपर खींचें और टेस्ट ट्यूब में क्रिस्टल डालें।"
+
+#: simcontrols.js:23
+msgid "Drag the cork and close the test tube."
+msgstr "कार्क खींचें और टेस्ट ट्यूब बंद कर दें।"
+
+#: simcontrols.js:23
+msgid "Click on the test tube to see<br>  the zoomed view of the sample."
+msgstr "नमूने का बड़ा दृश्य देखने के लिए टेस्ट ट्यूब पर क्लिक करें।"
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it into the trough."
+msgstr "बीकर खींचें और इसे खौल में रखें।"
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it back."
+msgstr "बीकर खींचें और इसे वापस रखें।"
+
+#: simcontrols.js:23
+msgid "Drag the bottle and add <br> solution into the crystallisation dish."
+msgstr "बोतल खींचें और क्रिस्टलीकरण डिश में विलयन मिलाएं।"
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish and decant <br> the upper solution to the trough."
+msgstr "क्रिस्टलीकरण डिश खींचें और खौल में ऊपरी विलयन छानें।"
+
+#: simcontrols.js:23
+msgid ""
+"Drag the beaker and pour<br> the solution into the beaker <br> through the funnel and glass rod."
+msgstr "बीकर खींचें और कीप व कांच की छड़ के माध्यम से बीकर में विलयन डालें।"
+
+#~ msgid "Alum"
+#~ msgstr "Potash alum"
+
+#~ msgid "Drag the beaker and pour <br> the solution into the funnel <br> through a glass rod."
+#~ msgstr ""
+#~ "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass "
+#~ "rod."
+
+#~ msgid ""
+#~ "Click to drag the filter paper <br> containing crystals of the sample <br> and place it into the "
+#~ "testtube."
+#~ msgstr "Drag the filter paper and put <br> the crystals into the test tube."

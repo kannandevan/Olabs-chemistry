@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2014-05-15 14:09+0530\n"
+"PO-Revision-Date: 2014-05-15 14:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: h\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+#, fuzzy
+msgid "Determination of pH"
+msgstr "Détermination du pH"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "SAUVER"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "PLEIN ÉCRAN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Développé par la CADC Mumbai et Université AMRITA <br> sous subvention du "
+"Département de l'Informatique de Recherche ."
+
+#: simcontrols.js:16
+msgid "ACIDIC"
+msgstr "ACIDE"
+
+#: simcontrols.js:16
+msgid "NEUTRAL"
+msgstr "NEUTRE"
+
+#: simcontrols.js:16
+msgid "BASIC"
+msgstr "BASE"
+
+#: simcontrols.js:16
+msgid "Universal Indicator"
+msgstr "Jus de citron"
+
+#: simcontrols.js:17
+msgid "Lemon juice"
+msgstr "Jus de citron"
+
+#: simcontrols.js:17
+msgid "Tomato juice"
+msgstr "Jus de tomate"
+
+#: simcontrols.js:17
+msgid "Orange juice"
+msgstr "Jus d'orange"
+
+#: simcontrols.js:17
+msgid "Pineapple juice"
+msgstr "Jus d'ananas"
+
+#: simcontrols.js:17
+msgid "Amla juice"
+msgstr "Jus d’Amla"
+
+#: simcontrols.js:17
+msgid " Mango juice"
+msgstr "Jus de mangue"
+
+#: simcontrols.js:17
+msgid "Common salt"
+msgstr "Sel de cuisine"
+
+#: simcontrols.js:17
+msgid "Sugar"
+msgstr "Sucre"
+
+#: simcontrols.js:17
+msgid " Baking soda"
+msgstr "Bicarbonate de soude"
+
+#: simcontrols.js:17
+msgid " Milk"
+msgstr "Lait"
+
+#: simcontrols.js:17
+msgid "Vinegar"
+msgstr "Vinaigre"
+
+#: simcontrols.js:17
+msgid "Butter milk"
+msgstr "Lait de beurre"
+
+#: simcontrols.js:17
+msgid "Bleaching powder"
+msgstr "Poudre de blanchiment"
+
+#: simcontrols.js:17
+msgid "Washing soda"
+msgstr "Cristaux de soude"
+
+#: simcontrols.js:17
+msgid "Milk of magnesia"
+msgstr "Magnésie hydratée"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the solution to suck it and drop it over the "
+"strip to pour the solution."
+msgstr ""
+"Faites glisser le compte-gouttes et plongez-le dans la solution pour "
+"prélever des gouttes de solution. <br> Relâchez le compte-gouttes au-dessus "
+"de la bande de papier pH pour verser la solution."
+
+#: simcontrols.js:21
+msgid "Drag the dropper to the sample solution to add universal indicator."
+msgstr ""
+"Faites glisser le compte-gouttes au-dessus de l’échantillon de solution pour "
+"ajouter l'indicateur universel, en relâchant le compte-gouttes."
+
+#: simcontrols.js:21
+msgid ""
+"This dropper cannot be used now, as the universal indicator has already been "
+"poured."
+msgstr ""
+"Le compte-gouttes ne peut plus être utilisé à présent, comme l'indicateur "
+"universel a déjà été versé."
+
+#: simcontrols.js:21
+msgid "Click any one of the beaker to start the experiment."
+msgstr "Cliquez sur un bécher quelconque:"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the "
+"universal indicator dropper to drop it into the sample solution."
+msgstr ""
+"Faites glisser le compte-gouttes et plongez-le dans la solution pour la "
+"prélever. Relâchez le compte-gouttes au-dessus de la bande de papier pH pour "
+"verser la solution."
+
+#: simcontrols.js:21
+msgid "Click on the strips to select."
+msgstr "Cliquez sur une bande de papier pH pour la sélectionner."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the colour strip to the sample solution or indicator strip to identify "
+"the pH."
+msgstr ""
+"Sélectionnez un papier pH en fonction de la couleur obtenue dans "
+"l'expérience.</br>Faites-le glissez vers la couleur obtenue pour la comparer "
+"et en déduire le </br>pH de l'échantillon"
+
+#: simcontrols.js:21
+msgid "Click on the information icon to see the inference."
+msgstr "Cliquez sur l'icône d'information pour voir la conclusion."
+
+#: simcontrols.js:21
+msgid "Litmus paper"
+msgstr "Le papier de tournesol"
+
+#: simcontrols.js:24
+msgid "Vegetable & fruit juice"
+msgstr "Jus de légumes et de fruits"
+
+#: simcontrols.js:25
+msgid "House hold items"
+msgstr "Articles de maison retenus"
+
+#: simcontrols.js:26
+msgid "Acids & bases in the lab"
+msgstr "Acides et bases dans le laboratoire"
+
+#: simcontrols.js:27
+msgid "Salts in water"
+msgstr "Sels dans l'eau"
+
+#: simcontrols.js:28
+msgid "Select the aqueous solution:"
+msgstr "Choisissez solution aqueuse:"
+
+#: simcontrols.js:29
+msgid "Click on any one of the sample solution to start the experiment "
+msgstr "Cliquez sur un bécher quelconque:"
+
+#: simcontrols.js:34
+msgid "Reset"
+msgstr "Reset"

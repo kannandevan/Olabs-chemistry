@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2013-09-12 12:09+0530\n"
+"PO-Revision-Date: 2013-10-29 18:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:38
+msgid "Single Displacement Reaction"
+msgstr "Single Displacement Reaction"
+
+#: simcontrols.js:39
+msgid ""
+"Click and drag any of the iron nail to immerse it in one of the test tubes."
+msgstr ""
+"Click and drag any of the iron nail to immerse it in one of the test tubes."
+
+#: simcontrols.js:40
+msgid ""
+"Click on the thread to remove the iron nail from the test tube and compare "
+"it with the other iron nail."
+msgstr ""
+"Click on the thread to remove the iron nail from the test tube and compare "
+"it with the other iron nail."
+
+#: simcontrols.js:41
+msgid "Click on the information icon to see the inference."
+msgstr "Click on the information icon to see the inference."
+
+#: simcontrols.js:44
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:45
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:46
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:47
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:48
+msgid "15 Mins"
+msgstr "15 Mins"
+
+#: simcontrols.js:49
+msgid "Instructions"
+msgstr "Instructions"
+
+#: simcontrols.js:51
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:55
+msgid ""
+"Less reactive Cu<sup>2+</sup> ions are displaced</br>from CuSO<sub>4</sub> "
+"solution by the more reactive Fe<sup>2+</sup> ions."
+msgstr ""
+"Less reactive Cu<sup>2+</sup> ions are displaced</br>from CuSO<sub>4</sub> "
+"solution by the more reactive Fe<sup>2+</sup> ions."
+
+#: simcontrols.js:55
+msgid ""
+"The color of the solution changes to green</br>due to  the presence of "
+"FeSO<sub>4</sub> solution."
+msgstr ""
+"The color of the solution changes to green</br>due to  the presence of "
+"FeSO<sub>4</sub> solution."
+
+#: simcontrols.js:55
+msgid ""
+"Brown coating of copper on the iron nail is because of the displaced "
+"Cu<sup>2+</sup> ions."
+msgstr ""
+"Brown coating of copper on the iron nail is because of the displaced "
+"Cu<sup>2+</sup> ions."

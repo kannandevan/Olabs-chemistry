@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_TITLE">
+        <source>Law of Conservation of mass in a chemical reaction.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONICAL_FLASK_POP">
+        <source>Conical flask 
+250ml</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LAB_BACK">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LAB_BARIUM">
+        <source>Barium chloride
+ (BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LAB_BARIUM_POP">
+        <source>Barium chloride
+ (BaCl2)
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LAB_CLOCK">
+        <source>10 Min</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LAB_CORK">
+        <source>Cork</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_LAB_CYLINDERS">
+        <source>Measuring 
+cylinders</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_LAB_SODIUM">
+        <source>Sodium sulphate
+(Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_LAB_SODIUMPOP">
+        <source>Sodium sulphate
+(Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_LAB_TABLE_01">
+        <source>Mass of total 
+apparatus + Mass of 
+reactant,(M+ m1) g</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_LAB_TABLE_03">
+        <source>Mass of total 
+apparatus + Mass 
+of product (M+ m2) g</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_LAB_TABLE_04">
+        <source>ince M remains 
+constant, M1 = M2
+Ie, Total mass of the 
+reactants = Total mass
+ of the products.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LAB_TEST_TUBE">
+        <source>Test tube</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LAB_WEIGHT_POP">
+        <source>Weighing 
+balance</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LAW_HEAD_01">
+        <source>Law of Conservation of mass in
+a chemical reaction.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_START_01">
+        <source>Start</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

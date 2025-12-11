@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_head_1">
+		<TEXTVALUE>अम्ल और क्षार के गुण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_strt1_1">
+		<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>अम्ल और क्षार के गुण</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_1">
+		<TEXTVALUE>अम्ल और क्षार के गुण</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_22">
+		<TEXTVALUE>लिटमस विलयन (नीला/लाल) </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_zic_11">
+		<TEXTVALUE>जस्ता धातु</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title2_sod1_2">
+		<TEXTVALUE>ठोस सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="title3">
+	<TEXT ID="title3_one">
+		<TEXTVALUE>इनमें से एक पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_titl_22">
+		<TEXTVALUE>लिटमस विलयन (नीला/लाल)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_a11_1">
+		<TEXTVALUE>अम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_b11_1">
+		<TEXTVALUE>क्षार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_bak11_1">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="title004">
+	<TEXT ID="title004_one">
+		<TEXTVALUE> इनमें से एक पर क्लिक करें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_zinc_11">
+		<TEXTVALUE>जस्ता धातु</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa_11">
+		<TEXTVALUE>अम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa__22">
+		<TEXTVALUE>क्षार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_bak_12">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+   
+</SCENE>
+<SCENE ID="title005">
+	<TEXT ID="title005_one">
+		<TEXTVALUE> इनमें से एक पर क्लिक करें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_11">
+		<TEXTVALUE>ठोस सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_21">
+		<TEXTVALUE>अम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_12">
+		<TEXTVALUE>क्षार</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_bb_13">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>हमें टेस्ट ट्यूब रैक में रखे दो टेस्ट ट्यूब, लाल और नीले लिटमस के घोल, HCl के घोल और ड्रॉपर की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_11">
+		<TEXTVALUE>लाल 
+लिटमस के घोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_22">
+		<TEXTVALUE>नीले
+लिटमस के घोल</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	<SCENE ID="2zoomsol">
+	<TEXT ID="2zoomsol_one">
+		<TEXTVALUE>सबसे पहले लाल लिटमस का घोल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+		
+		<SCENE ID="3testtubil">
+	<TEXT ID="3testtubil_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब में लाल लिटमस का घोल डालें।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+			<SCENE ID="4redback">
+	<TEXT ID="4redback_one">
+		<TEXTVALUE>बोतल पर फिर से कैप लगाएं।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+			<SCENE ID="5blue">
+	<TEXT ID="5blue_one">
+		<TEXTVALUE>नीले लिटमस का घोल लें।.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+	<SCENE ID="6bluflo">
+	<TEXT ID="6bluflo_one">
+		<TEXTVALUE>एक दूसरे टेस्ट ट्यूब में नीले लिटमस का घोल डालें।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="7bluebak">
+	<TEXT ID="7bluebak_one">
+		<TEXTVALUE>बोतल पर फिर से कैप लगाएं।.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="8hcl">
+	<TEXT ID="8hcl_one">
+		<TEXTVALUE>ड्रापर से HCl की बोतल से HCl के घोल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		<SCENE ID="9addto1">
+	<TEXT ID="9addto1_one">
+		<TEXTVALUE>इसे लाल लिटमस के घोल वाले टेस्ट ट्यूब में मिलाएं।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+<SCENE ID="9azoom">
+	<TEXT ID="9azoom_one">
+		<TEXTVALUE>घोल का रंग वैसा ही बना रहता है।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	<SCENE ID="10hcl2">
+	<TEXT ID="10hcl2_one">
+		<TEXTVALUE>ड्रापर से HCl के बोतल से HCl के घोल की कुछ और बूँदें लें।</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+<SCENE ID="11addto2">
+	<TEXT ID="11addto2_one">
+		<TEXTVALUE>इसे नीले लिटमस के घोल वाले टेस्ट ट्यूब में मिलाएं और रंग में होने वाले बदलाव पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12change">
+	<TEXT ID="12change_one">
+		<TEXTVALUE>घोल का रंग नीले से लाल में बदल जाता है। HCl एक अम्‍ल है। इसका पीएच मान 7 से कम है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12change_ac_23">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="14intro">
+	<TEXT ID="14intro_one">
+		<TEXTVALUE>हमें टेस्ट ट्यूब रैक में रखे दो टेस्ट ट्यूब, लाल और नीले लिटमस के घोल, NaOH के घोल और ड्रॉपर की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="15zoomso">
+	<TEXT ID="15zoomso_one">
+		<TEXTVALUE>सबसे पहले लाल लिटमस का घोल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="16testtubil">
+	<TEXT ID="16testtubil_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब में लाल लिटमस का घोल डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="17redback">
+	<TEXT ID="17redback_one">
+		<TEXTVALUE>बोतल पर फिर से कैप लगाएं।</TEXTVALUE>
+	</TEXT>
+		 
+</SCENE>
+<SCENE ID="18blue">
+	<TEXT ID="18blue_one">
+		<TEXTVALUE>नीले लिटमस का घोल लें।.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="19bluflo">
+	<TEXT ID="19bluflo_one">
+		<TEXTVALUE>एक दूसरे टेस्ट ट्यूब में नीले लिटमस का घोल डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="20bluebak">
+	<TEXT ID="20bluebak_one">
+		<TEXTVALUE>बोतल पर फिर से कैप लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="21NAOH">
+	<TEXT ID="21NAOH_one">
+		<TEXTVALUE>ड्रापर से NaOH की बोतल से इसके घोल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22addt0">
+	<TEXT ID="22addt0_one">
+		<TEXTVALUE>इसे लाल लिटमस के घोल वाले टेस्ट ट्यूब में मिलाएं और रंग में होने वाले बदलाव पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change1">
+	<TEXT ID="25change1_one">
+		<TEXTVALUE>घोल का रंग लाल से नीले में बदल जाता है। NaOH  एक क्षार है। इसका पीएच मान 7 से ज्‍यादा है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="23NAOH">
+	<TEXT ID="23NAOH_one">
+		<TEXTVALUE>ड्रापर से NaOH की बोतल से NaOH के घोल की कुछ और बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="24addto2">
+	<TEXT ID="24addto2_one">
+		<TEXTVALUE>इसे नीले लिटमस के घोल वाले टेस्ट ट्यूब में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change">
+	<TEXT ID="25change_one">
+		<TEXTVALUE>घोल का रंग वैसा ही बना रहता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="25change_bah_11">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1intro2">
+	<TEXT ID="1intro2_one">
+		<TEXTVALUE>हमें टेस्ट ट्यूब,  वाच ग्‍लास में कुछ जिंक धातु, स्‍पैचुला, HCl के घोल,  ड्रॉपर,  क्लैंप सहित स्टैंड , एक छेद वाले कार्क,  जेट ट्यूब, बुन्‍सेन बर्नर और  माचिस के डिब्‍बे  की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro2_zn_11">
+		<TEXTVALUE>जस्ता धातु</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3takezinc">
+	<TEXT ID="3takezinc_one">
+		<TEXTVALUE>स्‍पैचुला की सहायता से वाच ग्‍लास से टेस्ट ट्यूब में कुछ जिंक धातु डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4hcl1">
+	<TEXT ID="4hcl1_one">
+		<TEXTVALUE>ड्रापर से HCl की बोतल से HCl के घोल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow">
+	<TEXT ID="5flow_one">
+		<TEXTVALUE>इसे जिंक धातु वाले टेस्ट ट्यूब में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand">
+	<TEXT ID="6stand_one">
+		<TEXTVALUE>टेस्ट ट्यूब स्टैंड में फंसाएं और इस पर कार्क लगा दें। कार्क से होकर जेट ट्यूब पार करें। अब बुन्‍सेन बर्नर पर  गर्म करने के लिए टेस्ट ट्यूब नीचे की ओर ले आएं। गर्म करने पर हाइड्रोजन गैस बनती है।
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_h2_2">
+		<TEXTVALUE>H2 गैस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_fjt_11">
+		<TEXTVALUE>ललित जेट नल</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7teepati">
+	<TEXT ID="7teepati_one">
+		<TEXTVALUE>माचिस की डिब्‍बी लें और माचिस की एक तीली जलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8zoomstand">
+	<TEXT ID="8zoomstand_one">
+		<TEXTVALUE>जेट ट्यूब के मुंह के पास जलती हुई माचिस लाएं। टेस्ट ट्यूब से निकल रही हाइड्रोजन गैस लौ को भड़का देती है। इसके बाद हल्के विस्फोट और फक्‍क की ध्वनि पैदा करते हुए लौ धीमी हो जाती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bcd_01">
+		<TEXTVALUE>हाइड्रोजन गैस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bv_11">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="1intro02">
+	<TEXT ID="1intro02_one">
+		<TEXTVALUE>हमें टेस्ट ट्यूब, वाच ग्‍लास में कुछ जिंक धातु, स्‍पैचुला, NaOH के घोल, ड्रॉपर, क्लैंप सहित स्‍टैंड, एक बोर वाले कार्क, जेट ट्यूब, बुन्‍सेन बर्नर और माचिस की डिब्‍बी की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takezinc1">
+	<TEXT ID="3takezinc1_one">
+		<TEXTVALUE>स्‍पैचुला की सहायता से वाच ग्‍लास से टेस्ट ट्यूब में कुछ जिंक धातु डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4naoh">
+	<TEXT ID="4naoh_one">
+		<TEXTVALUE>ड्रापर से NaOH की बोतल से इसके घोल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow1">
+	<TEXT ID="5flow1_one">
+		<TEXTVALUE>इसे जिंक धातु वाले टेस्ट ट्यूब में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand1">
+	<TEXT ID="6stand1_one">
+		<TEXTVALUE>टेस्ट ट्यूब स्टैंड में फंसाएं और इस पर कार्क लगा दें। कार्क से होकर जेट ट्यूब पार करें। अब बुन्सेन बर्नर पर  गर्म करने के लिए टेस्ट ट्यूब नीचे की ओर ले आएं। गर्म करने पर हाइड्रोजन गैस बनती है।</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="7teepat1">
+	<TEXT ID="7teepat1_one">
+		<TEXTVALUE>माचिस की डिब्बी लें और माचिस की एक तीली जलाएं।</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="8zoomstand11">
+	<TEXT ID="8zoomstand11_one">
+		<TEXTVALUE>जेट ट्यूब के मुंह के पास जलती हुई माचिस लाएं। टेस्ट ट्यूब से निकल रही हाइड्रोजन गैस लौ को भड़का देती है। इसके बाद हल्के विस्फोट और फक्क की ध्वनि पैदा करते हुए लौ धीमी हो जाती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand11_bb_44">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="1intro03">
+	<TEXT ID="1intro03_one">
+		<TEXTVALUE>हम  समतल तल वाले फ्लास्क,  स्टैंड,  थीस्ल कीप,  मिलाएं वाले ग्लास ट्यूब, बीकर में डिस्टिल वाटर,  क्लैंप सहित स्टैंड,  ग्‍लास में कुछ सोडियम कार्बोनेट, दोहरे बोर वालेब कार्क, स्‍पैचुला, HCl के घोल, ड्रॉपर और एक बीकर में चूने के पानी की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="2placeit">
+	<TEXT ID="2placeit_one">
+		<TEXTVALUE>समतल तल वाले फ्लास्क को क्‍लैम्‍प स्टैंड पर रखें और फ्लास्क की गर्दन कस दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium">
+	<TEXT ID="3takesodium_one">
+		<TEXTVALUE>स्‍पैचुला की सहायता से वाच ग्‍लास से कुछ सोडियम कार्बोनेट लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_soda_11">
+		<TEXTVALUE>सोडियम 
+कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_limewat_1">
+		<TEXTVALUE>नींबू का
+रस</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="3takesodium_dw_11">
+		<TEXTVALUE>नींबू का
+रस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit">
+	<TEXT ID="4putit_one">
+		<TEXTVALUE>इसे समतल तल वाले फ्लास्क में रखें।</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="5dist">
+	<TEXT ID="5dist_one">
+		<TEXTVALUE>डिस्टिल वाटर वाला बीकर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6flo">
+	<TEXT ID="6flo_one">
+		<TEXTVALUE>इसमें से कुछ समतल तल वाले फ्लास्क में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7corck">
+	<TEXT ID="7corck_one">
+		<TEXTVALUE>दोहरे बोर वाला कार्क फ्लास्क पर लगाएं और कार्क के एक छेद के माध्यम से फ्लास्क में थीस्ल कीप डालें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="7corck_tf_11">
+		<TEXTVALUE>थीस्ल कीप</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8lime">
+	<TEXT ID="8lime_one">
+		<TEXTVALUE>चूने के पानी वाला बीकर लें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="8lime_lw_12">
+		<TEXTVALUE>नींबू का रस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="9corck2">
+	<TEXT ID="9corck2_one">
+		<TEXTVALUE>कार्क के छेद के माध्यम से मिलाएं वाली ट्यूब का एक सिरा सावधानी पूर्वक समतल तल वाले फ्लास्क में डालें,  सुनिश्चित करें कि फ्लास्क में ट्युब घोल स्पर्श न करे। चूने के पानी वाले बीकर में ट्यूब का दूसरा सिरा डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9corck2_dt_1">
+		<TEXTVALUE>वितरण ट्यूब</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="81HCL">
+	<TEXT ID="81HCL_one">
+		<TEXTVALUE>HCl के घोल वाला बीकर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11zoom">
+	<TEXT ID="11zoom_one">
+		<TEXTVALUE>इस में से कुछ समतल तल वाले फ्लास्क में थीस्ल कीप के माध्यम से डालें।  एक गैस बनती है।</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="11zoom2">
+	<TEXT ID="11zoom2_one">
+		<TEXTVALUE>आप देखते हैं कि बीकर में चूने का पानी दूधिया हो गया है। इस प्रकार बनने वाली गैस CO2 है।यह  केूब केलेे विस्फोट और फक्कह चूने के पानी दूधिया बना देती है।
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11zoom2_bbaa_11">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="1intro04">
+	<TEXT ID="1intro04_one">
+		<TEXTVALUE>हमें टेस्ट ट्यूब, टेस्ट ट्यूब रैक, वाच ग्‍लास में कुछ सोडियम कार्बोनेट, स्‍पैचुला, NaOH के घोल, और फिनोल्‍फथैलीन के घोल की जरूरत होगी।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro04_pleem_11">
+		<TEXTVALUE>फिनोल्‍फथैलीन</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="tube">
+	<TEXT ID="tube_one">
+		<TEXTVALUE>टेस्ट ट्यूब लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium3">
+	<TEXT ID="3takesodium3_one">
+		<TEXTVALUE>स्‍पैचुला की सहायता से वाच ग्‍लास से कुछ सोडियम कार्बोनेट लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit2">
+	<TEXT ID="4putit2_one">
+		<TEXTVALUE>सामग्री टेस्ट ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8naoch">
+	<TEXT ID="8naoch_one">
+		<TEXTVALUE>NaOH का घोल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom6">
+	<TEXT ID="11zoom6_one">
+		<TEXTVALUE>इस में से कुछ टेस्ट ट्यूब में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+
+<SCENE ID="11zoom61">
+	<TEXT ID="11zoom61_one">
+		<TEXTVALUE>अच्छी तरह से टेस्ट ट्यूब हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>फिनोल्‍फथैलीन की बोतल से इसके ड्रॉपर की सहायता से कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colour">
+	<TEXT ID="colour_one">
+		<TEXTVALUE>टेस्ट ट्यूब में कुछ बूँदें डालें और रंग में होने वाले बदलाव पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colou2">
+	<TEXT ID="colou2_one">
+		<TEXTVALUE>घोल का रंग गुलाबी हो जाता है। Na2CO3 और NaOH दोनों क्षार हैं, इसलिए ये प्रतिक्रिया नहीं करते हैं बल्कि क्षारीय घोल बनाते हैं। फिनोल्‍फथैलीन क्षारीय माध्यम में गुलाबी रंग पैदा करता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="colou2_last_b1">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+</DATA>

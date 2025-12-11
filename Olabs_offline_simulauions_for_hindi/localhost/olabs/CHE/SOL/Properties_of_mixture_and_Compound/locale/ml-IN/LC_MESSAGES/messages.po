@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SFG\n"
+"POT-Creation-Date: 2015-05-15 10:43+0530\n"
+"PO-Revision-Date: 2016-06-06 17:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:45
+msgid "Distinguish Between Mixture and Compound"
+msgstr "മിശ്രിതവും സംയുക്തവും തമ്മിൽ താരതമൃം ചെയ്യുക."
+
+#: ../js/simcontrols.js:46
+msgid "HELP"
+msgstr "സഹായം"
+
+#: ../js/simcontrols.js:47
+msgid "FULLSCREEN"
+msgstr "വലുത്"
+
+#: ../js/simcontrols.js:48
+msgid "EXIT"
+msgstr "പുറത്ത് "
+
+#: ../js/simcontrols.js:49
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"അമൃതാ സർവ്വകലാശാലയും CDAC മുംബെയും സംയുക്തമായി വികസിപ്പിച്ചെടുത്തത്<br>IT വിഭാഗത്തിൻ്റെ സാമ്പത്തിക സഹായത്തിലുള്ളത്."
+
+#: ../js/simcontrols.js:51
+msgid "Basis of appearance"
+msgstr "സ്വഭാവത്തിൻ്റെ അടിസ്ഥാനം "
+
+#: ../js/simcontrols.js:51
+msgid "Behaviour towards magnet"
+msgstr "കാന്തത്തോടുള്ള  അടുപ്പം "
+
+#: ../js/simcontrols.js:51
+msgid "Action with Carbon disulphide"
+msgstr "കാർബൺഡൈസൾഫൈഡുമായുള്ള  പ്രവർത്തനം"
+
+#: ../js/simcontrols.js:51
+msgid "Action of heat"
+msgstr "ചൂടിൻ്റെ പ്രവർത്തനം"
+
+#: ../js/simcontrols.js:51
+msgid "Action with dil. HCl"
+msgstr "നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡുമായുള്ള പ്രവർത്തനം"
+
+#: ../js/simcontrols.js:53
+msgid "Select the test"
+msgstr "ടെസ്റ്റ് തിരഞ്ഞെടുക്കുക"
+
+#: ../js/simcontrols.js:53
+msgid "Fe + S"
+msgstr "Fe + S"
+
+#: ../js/simcontrols.js:53
+msgid "FeS"
+msgstr "FeS"
+
+#: ../js/simcontrols.js:53
+msgid "Fe + S + dil. HCl"
+msgstr "Fe + S + dil. HCl"
+
+#: ../js/simcontrols.js:53
+msgid "FeS + dil. HCl"
+msgstr "FeS + dil. HCl"
+
+#: ../js/simcontrols.js:53
+msgid "CuSO<sub>4</sub> solution"
+msgstr "CuSO<sub>4</sub> ലായനി"
+
+#: ../js/simcontrols.js:53
+msgid "Mixture"
+msgstr "മിശ്രിതം"
+
+#: ../js/simcontrols.js:53
+msgid "Compound"
+msgstr "സംയുക്തം"
+
+#: ../js/simcontrols.js:53
+msgid "Carbon disulphide"
+msgstr "കാർബൺഡൈസൾഫൈഡ്"
+
+#: ../js/simcontrols.js:53
+msgid "2 mins"
+msgstr "2 മിനുട്ട്"
+
+#: ../js/simcontrols.js:53
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: ../js/simcontrols.js:55
+msgid ""
+"The yellow particles of sulphur and iron filings can be clearly seen and they </br>are non-"
+"uniformly distributed throughout the mixture. This indicates that </br>the mixture of iron and "
+"sulphur is heterogeneous in appearance."
+msgstr ""
+"സൾഫറിൻ്റേയും അയൺതരികളുടേയും മഞ്ഞതരികൾ വൃക്തമായി കാണുന്നു.</br>അവ മിശ്രിതത്തിൽ ഉടനീളം ഏകീകൃതമല്ലാത്ത രീതിയിൽ വൃാപിച്ച് "
+"കിടക്കുന്നു. </br>അതുകൊണ്ട് ഇത് സൂചിപ്പിക്കുന്നത്</br>അയണിൻ്റേയും സൾഫറിൻ്റേയും മിശ്രിതം </br>ദ്വിജാതീയ സ്വഭാവം കാണിക്കുന്നു "
+"എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"Uniform grey-black particles can be seen throughout, indicating </br>that the compound FeS is "
+"homogeneous in appearance."
+msgstr ""
+"സംയുക്തത്തിലുടനീളം ഏകീകൃതമായ രീതിയിൽ ചാരനിറം കലർന്ന </br>കറുപ്പ് തരികൾ കാണാൻ കഴിയുന്നു.ഇത് സൂചിപ്പിക്കുന്നത്</br>ഫെറസ് "
+"സൾഫൈഡ് സംയുക്തം ഏകജാതീയ സ്വഭാവം കാണിക്കുന്നു എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"The iron filings cling to the magnet indicating that the iron has retained its </br>original "
+"property (magnetic nature) during the formation of the mixture."
+msgstr ""
+"അയൺതരികൾ കാന്തത്തോട് ഒട്ടിപ്പിടിക്കുന്നു.ഇത് സൂചിപ്പിക്കുന്നത് </br> മിശ്രിതത്തിൻ്റെ രൂപീകരണ വേളയിൽ</br>അയൺ അതിൻ്റെ "
+"യഥാർത്ഥ കാന്തിക സ്വഭാവം നിലനിർത്തുന്നു എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"There are no particles clinging to the magnet,  indicating that iron has lost its </br>original "
+"property (magnetic nature) on the formation of the compound."
+msgstr ""
+"കാന്തത്തോട് ഒരു തരികളും ഒട്ടിപ്പിടിക്കുന്നില്ലെങ്കിൽ മനസ്സിലാക്കേണ്ടത്</br>സംയുക്തത്തിൻ്റെ രൂപീകരണ വേളയിൽ</br> അയണിൻ്റെ "
+"യഥാർത്ഥ കാന്തിക സ്വഭാവം നഷ്ടമായി എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"The yellow particles of sulphur dissolve in carbon disulphide to form a </br>yellow solution, and "
+"the particles of iron settle at the bottom of the test tube."
+msgstr ""
+"സൾഫറിൻ്റെ മഞ്ഞതരികൾ കാർബൺഡൈസൾഫൈഡിൽ ലയിച്ച്</br>മഞ്ഞലായനി ഉണ്ടാകുന്നു.അയണിൻ്റെ തരികൾ </br>ടെസ്റ്റൃൂബിൻ്റെ താഴെ "
+"അടിയുന്നു."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"On the evaporation of carbon disulphide, the yellow particles of </br>sulphur reappear. This "
+"indicates that sulphur retains its </br>original property during the formation of a mixture."
+msgstr ""
+"കാർബൺഡൈസൾഫൈഡിൻ്റെ ബാഷ്പീകരണ</br> വേളയിൽ സൾഫറിൻ്റെ മഞ്ഞതരികൾവീണ്ടും</br>പ്രതൃക്ഷപ്പെടുന്നു.ഇത് സൂചിപ്പിക്കുന്നത് "
+"മിശ്രിതത്തിൻ്റെ</br> രൂപീകരണ വേളയിൽ സൾഫർ അതിൻ്റെ </br>യഥാർത്ഥ ഗുണങ്ങൾ നിലനിർത്തുന്നു എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"There is no change. This indicates that sulphur loses its </br>original property on the formation "
+"of a compound."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല,ഇത് സൂചിപ്പിക്കുന്നത്</br> സംയുക്തത്തിൻ്റെ രൂപീകരണ വേളയിൽ</br>സൾഫറിന് അതിൻ്റെ യഥാർത്ഥ ഗുണം "
+"നഷ്ടമാകുന്നു എന്നാണ്."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"A black mass forms and particles of iron and sulphur cannot be seen </br>separately. Iron and "
+"sulphur, both lose their individual properties on </br>heating, and react chemically to form a "
+"compound FeS."
+msgstr ""
+"ഒരു കറുത്ത മാസ്സ് ഉണ്ടാകുന്നു,അയൺ,സൾഫർ എന്നിവയുടെ</br> തരികൾ പ്രതൃേകമായി കാണുന്നില്ല. </br>ചൂടാക്കുമ്പോൾ ഇവ ഓരോന്നും ഓരോ "
+"ഗുണങ്ങൾ </br>കാണിക്കുന്നു.രാസപരമായി പ്രവർത്തിച്ച്</br> ഫെറസ് സൾഫൈഡിൻ്റെ സംയുക്തം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"No change is observed.  The compound FeS does not undergo a </br>chemical reaction when heated, nor "
+"does it lose its properties."
+msgstr ""
+"ഒരു മാറ്റവും കാണുന്നില്ല,ചൂടാക്കുമ്പോൾ Fes ൻ്റെ </br>സംയുക്തം രാസപ്രവർത്തനത്തിന്</br>വിധേയമാകുകയോ അവയുടെ ഗുണങ്ങൾ "
+"നഷ്ടമാകുകയോ ചെയ്യുന്നില്ല ."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"Iron filings in the mixture reacts with dil. HCl producing</br> hydrogen gas that extinguishes the "
+"burning matchstick with a</br> mild explosion while producing a popping sound."
+msgstr ""
+"മിശ്രിതത്തിലെ അയൺതരികൾ നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് </br>ആസിഡുമായി പ്രവർത്തിച്ച് ഹൈ‍ഡ്രജൻ വാതകം</br>ഉണ്ടാകുന്നു.ഒരു "
+"എരിയുന്ന തീപ്പെട്ടിക്കൊള്ളി അടുത്ത് കൊണ്ടുവരുമ്പോൾ ഒരു</br> സ്ഫോടനശബ്ദത്തോടെ പൊട്ടിത്തെറിഉണ്ടായി ഈ വാതകം അണയുന്നു."
+
+#: ../js/simcontrols.js:55
+msgid ""
+"The compound FeS reacts with dil. HCl to produce </br>H<sub>2</sub>S gas which reacts with copper "
+"sulphate solution </br>to form a black precipitate of copper sulphide."
+msgstr ""
+"Fes സംയുക്തം നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡുമായി പ്രവർത്തിച്ച് </br>H <sub>2 </sub>sവാതകം ഉണ്ടാകുന്നു.ഇവ "
+"കോപ്പർസൾഫേറ്റ് ലായനിയുമായി പ്രവർത്തിച്ച് </br> കോപ്പർസൾഫൈഡിൻ്റെ കറുത്ത അവക്ഷിപ്തം ഉണ്ടാകുന്നു."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the rod to stir the mixture."
+msgstr "ഗ്ലാസ്സ് റോഡിൽ ക്ലിക്ക് ചെയ്ത് മിശ്രിതം ഇളക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the rod to stir the compound."
+msgstr "ഗ്ലാസ്സ് റോഡിൽ ക്ലിക്ക് ചെയ്ത് സംയുക്തം ഇളക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Drag the magnet towards the mixture."
+msgstr "മിശ്രിതത്തിന് നേരെ കാന്തം നീക്കി വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Drag the magnet towards the compound."
+msgstr "സംയുക്തത്തിന് നേരെ കാന്തം നീക്കി വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Drag the dropper towards the test tube to </br>pour carbon disulphide into the test tube."
+msgstr "ടെസ്റ്റൃൂബിന് നേരെ ഡ്രോപ്പർ നീക്കുക,അതിലേക്ക്</br>കാർബൺഡൈസൾഫൈഡ് ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid ""
+"Click on the test tube containing the mixture </br>and solution to shake it well. Drag the test "
+"tube towards the </br>petri dish to pour the solution  into it and wait for two minutes."
+msgstr ""
+"മിശ്രിതം അടങ്ങിയിരിക്കുന്ന ടെസ്റ്റൃൂബിൽ ക്ലിക്ക് ചെയ്ത്</br>ലായനി നല്ലതുപോലെ കുലുക്കുക, ടെസ്റ്റൃൂബ് പെട്രീഡിഷിലേക്ക് മാറ്റിയിട്ട്</"
+"br>ലായനി അതിലേക്ക് ഒഴിച്ച് 2 മിനുട്ട് കാത്തിരിക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the test tube containing the </br>compound and solution to shake it well."
+msgstr "സംയുക്തം അടങ്ങിയ ടെസ്റ്റൃൂബിലേക്ക്</br>ക്ലിക്ക് ചെയ്യുക,നന്നായി കുലുക്കുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the burner to turn it on."
+msgstr "ബർനെരിൽ ക്ലിക്ക് ചെയ്ത് ഓണ്‍ ചെയ്യുക."
+
+#: ../js/simcontrols.js:57
+msgid "Click on the bent tube to remove it."
+msgstr "വളഞ്ഞ ടൃൂബിൽ ക്ലിക്ക് ചെയ്ത് അത് മാറ്റുക."
+
+#: ../js/simcontrols.js:57
+msgid "Drag the matchstick towards the mouth of the </br>test tube that is on the test tube rack."
+msgstr "ടെസ്റ്റൃൂബ് ഷെൽഫിലെ ടെസ്റ്റൃൂബിൻ്റെ വായ് ഭാഗത്ത്</br>ഒരു എരിയുന്ന തീപ്പെട്ടിക്കൊള്ളി നീക്കി കൊണ്ടുവരുക."
+
+#: ../js/simcontrols.js:59
+msgid "Select the test."
+msgstr "ടെസ്റ്റ് തിരഞ്ഞെടുക്കുക."
+
+#: ../js/simcontrols.js:59
+msgid "Select the sample."
+msgstr "സാമ്പിൾ തിരഞ്ഞെടുക്കുക."

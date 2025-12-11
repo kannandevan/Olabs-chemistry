@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-06-08 09:49+0530\n"
+"PO-Revision-Date: 2016-06-08 09:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:23
+msgid "Biuret test"
+msgstr "Biuret test"
+
+#: simcontrols.js:23
+msgid "Xanthoproteic test"
+msgstr "Xanthoproteic test"
+
+#: simcontrols.js:23
+msgid "Ninhydrin test"
+msgstr "Ninhydrin test"
+
+#: simcontrols.js:23
+msgid "Millon's test"
+msgstr "Millon's test"
+
+#: simcontrols.js:24
+msgid "Solution"
+msgstr "Solution"
+
+#: simcontrols.js:25
+msgid "Reagent"
+msgstr "Reagent"
+
+#: simcontrols.js:26
+msgid "Acid"
+msgstr "Acid"
+
+#: simcontrols.js:27
+msgid "Egg albumin"
+msgstr "Egg albumin"
+
+#: simcontrols.js:28
+msgid " Gelatin <br/>dispersion"
+msgstr " Gelatin <br/>dispersion"
+
+#: simcontrols.js:29 simcontrols.js:59
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols.js:31
+msgid "1% CuSO<sub>4</sub>"
+msgstr "1% CuSO<sub>4</sub>"
+
+#: simcontrols.js:33
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:34
+msgid "Qualitative Analysis of Proteins"
+msgstr "Qualitative Analysis of Proteins"
+
+#: simcontrols.js:35
+msgid "5 Minutes"
+msgstr "5 Minutes"
+
+#: simcontrols.js:36
+msgid "Select the test:"
+msgstr "Select the test:"
+
+#: simcontrols.js:37
+msgid ""
+"In an alkaline solution, the copper (II) ion forms a violet coloured "
+"coordination<br/>  complex with the peptide bond present in the protein.<br/"
+"> This complex is called biuret."
+msgstr ""
+"In an alkaline solution, the copper (II) ion forms a violet coloured "
+"coordination<br/>  complex with the peptide bond present in the protein.<br/"
+"> This complex is called biuret."
+
+#: simcontrols.js:39
+msgid ""
+"The yellow precipitate is due to xanthoproteic acid.  It is <br />  formed "
+"by the nitration of certain amino acids, such as tyrosine and<br />  "
+"tryptophan, present in the protein."
+msgstr ""
+"The yellow precipitate is due to xanthoproteic acid.  It is <br />  formed "
+"by the nitration of certain amino acids, such as tyrosine and<br />  "
+"tryptophan, present in the protein."
+
+#: simcontrols.js:41
+msgid ""
+"This test is mainly used for the detection of amino acids and proteins with "
+"<br/>free &oline;NH<sub>2</sub> group. When such an &oline;NH<sub>2</sub> "
+"group reacts with <br/>ninhydrin, an intense blue coloured imino derivative "
+"is formed."
+msgstr ""
+"This test is mainly used for the detection of amino acids and proteins with "
+"<br/>free &oline;NH<sub>2</sub> group. When such an &oline;NH<sub>2</sub> "
+"group reacts with <br/>ninhydrin, an intense blue coloured imino derivative "
+"is formed."
+
+#: simcontrols.js:43
+msgid "A white precipitate is formed."
+msgstr "A white precipitate is formed."
+
+#: simcontrols.js:45
+msgid ""
+"In Millon's test, the phenol group of tyrosine (amino acid) is first "
+"nitrated<br/> by nitric acid in the test solution.The nitrated tyrosine then "
+"complexes <br/>mercury(I) and mercury(II) ions in the solution to form a red "
+"precipitate."
+msgstr ""
+"In Millon's test, the phenol group of tyrosine (amino acid) is first "
+"nitrated<br/> by nitric acid in the test solution.The nitrated tyrosine then "
+"complexes <br/>mercury(I) and mercury(II) ions in the solution to form a red "
+"precipitate."
+
+#: simcontrols.js:47
+msgid "No characteristic changes."
+msgstr "No characteristic changes."
+
+#: simcontrols.js:51
+msgid ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop NaOH "
+"solution."
+msgstr ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop NaOH "
+"solution."
+
+#: simcontrols.js:51
+#, python-format
+msgid ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"1% copper sulphate solution."
+msgstr ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"1% copper sulphate solution."
+
+#: simcontrols.js:51 simcontrols.js:53
+msgid "Click on the knob of the<br/>  burner to turn it on."
+msgstr "Click on the knob of the<br/>  burner to turn it on."
+
+#: simcontrols.js:51 simcontrols.js:53 simcontrols.js:55 simcontrols.js:57
+msgid "Drag the test tube A to<br/> the burner to heat it."
+msgstr "Drag the test tube A to<br/> the burner to heat it."
+
+#: simcontrols.js:51 simcontrols.js:53 simcontrols.js:55 simcontrols.js:57
+msgid "Drag the test tube B to<br/> the burner to heat it."
+msgstr "Drag the test tube B to<br/> the burner to heat it."
+
+#: simcontrols.js:53
+msgid ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop Conc."
+"Nitric acid."
+msgstr ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop Conc."
+"Nitric acid."
+
+#: simcontrols.js:55
+msgid ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"ninhydrin solution."
+msgstr ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"ninhydrin solution."
+
+#: simcontrols.js:55
+msgid "Click on the knob of the<br/> burner to turn it on."
+msgstr "Click on the knob of the<br/> burner to turn it on."
+
+#: simcontrols.js:57
+msgid ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"Millon's reagent."
+msgstr ""
+"Drag the dropper to the test tubes A and B<br/> respectively to drop "
+"Millon's reagent."
+
+#: simcontrols.js:57
+msgid "Click on the knob of <br/>the burner to turn it on."
+msgstr "Click on the knob of <br/>the burner to turn it on."
+
+#: simcontrols.js:59
+msgid "Conc. Nitric"
+msgstr "Conc. Nitric"
+
+#: simcontrols.js:59
+msgid "Ninhydrin"
+msgstr "Ninhydrin"
+
+#: simcontrols.js:59
+msgid "Millon's"
+msgstr "Millon's"
+
+#: simcontrols.js:61
+msgid "HELP"
+msgstr "HELP"
+
+#~ msgid "1%  CuSO<sub>4</sub> "
+#~ msgstr "1%  CuSO<sub>4</sub> "
+
+#~ msgid ""
+#~ "Drag the test tube A to the burner to heat the contents of the test tube."
+#~ msgstr ""
+#~ "Drag the test tube A to the burner to heat the contents of the test tube."
+
+#~ msgid ""
+#~ "Drag the test tube B to the burner to heat the contents of the test tube."
+#~ msgstr ""
+#~ "Drag the test tube A to the burner to heat the contents of the test tube."
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Drag the test tube A to the burner<br/> to heat the contents of the test "
+#~ "tube."
+#~ msgstr ""
+#~ "Drag the test tube A to the burner<br/> to heat the contents of the test "
+#~ "tube."
+
+#~ msgid ""
+#~ "Drag the test tube B to the burner<br/> to heat the contents of the test "
+#~ "tube."
+#~ msgstr ""
+#~ "Drag the test tube B to the burner<br/> to heat the contents of the test "
+#~ "tube."
+
+#~ msgid ""
+#~ "Drag the test tube A to the burner to <br/> heat the contents of the test "
+#~ "tube."
+#~ msgstr ""
+#~ "Drag the test tube A to the burner to <br/> heat the contents of the test "
+#~ "tube."
+
+#~ msgid ""
+#~ "Drag the test tube A to the burner to<br/>  heat the contents of the test "
+#~ "tube."
+#~ msgstr ""
+#~ "Drag the test tube A to the burner to<br/>  heat the contents of the test "
+#~ "tube."
+
+#~ msgid ""
+#~ "This test is given by proteins containing phenolic amino acids. <br/>With "
+#~ "Millon&prime;s reagent, phenolic amino acids give white <br/>precipitate "
+#~ "which changes to brick red on boiling."
+#~ msgstr ""
+#~ "This test is given by proteins containing phenolic amino acids. <br/>With "
+#~ "Millon&prime;s reagent, phenolic amino acids give white <br/>precipitate "
+#~ "which changes to brick red on boiling."
+
+#~ msgid "1% Copper sulphate "
+#~ msgstr "1% Copper sulphate "
+
+#~ msgid "Switch on the burner."
+#~ msgstr "Switch on the burner."
+
+#~ msgid ""
+#~ "The white precipitate changes to brick red on boiling, <br/>shows the "
+#~ "presence of proteins."
+#~ msgstr ""
+#~ "The white precipitate changes to brick red on boiling, <br/>shows the "
+#~ "presence of proteins."
+
+#~ msgid "A violet colour indicates the presence of proteins."
+#~ msgstr "A violet colour indicates the presence of proteins."
+
+#~ msgid ""
+#~ "A yellow colour precipitate is formed, shows the presence of proteins."
+#~ msgstr ""
+#~ "A yellow colour precipitate is formed, shows the presence of proteins."
+
+#~ msgid ""
+#~ "Color of the solution changed as blue, <br/> presence of proteins "
+#~ "conformed."
+#~ msgstr ""
+#~ "Color of the solution changed as blue, <br/> presence of proteins "
+#~ "conformed."
+
+#~ msgid ""
+#~ "Drag the test tube to pour NaOH solution<br/> towards each test tube."
+#~ msgstr ""
+#~ "Drag the test tube to pour NaOH solution<br/> towards each test tube."
+
+#~ msgid ""
+#~ "Drag the test tube to pour conc. Nitric acid <br/> towards each test tube."
+#~ msgstr ""
+#~ "Drag the test tube to pour conc. Nitric acid <br/> towards each test tube."
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Acetic acid"
+#~ msgstr "Acetic acid"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

@@ -1,0 +1,27 @@
+$.i18n.kn = {};
+ jQuery.i18n.kn.strings ={
+	"Select the test": "ಪರೀಕ್ಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+	"Solubility </br>&nbsp;in water": "ನೀರಿನಲ್ಲಿ ಕರಗುವಿಕೆ",
+	"Odour": "ವಾಸನೆ",
+	"Effect on </br> &nbsp;&nbsp;litmus": "ಲಿಟ್ಮಸ್ ಕಾಗದದ ಮೇಲೆ ಪರಿಣಾಮ",
+	"&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>": "ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬನೇಟ್ ನೊಂದಿಗೆ ವರ್ತನೆ",
+	"Acetic acid": "ಅಸಿಟಿಕ್ ಆಮ್ಲ",
+	"Litmus paper": "ಲಿಟ್ಮಸ್ ಕಾಗದ",
+	"Water": "ನೀರು",
+	"Reset": "ಮರುಹೊಂದಿಸು",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "ಅಬಿವೃಧ್ಧಿಪಡಿಸಿದವರು ಸಿಡ್ಯಾಕ್ ಮುಂಬಯಿ ಮತ್ತು ಅಮ್ರಿತ ವಿಶ್ವ ವಿದ್ಯಾಲಯ ಐಟಿ ಇಲಾಖೆಯ ಸಂಶೋಧನಾ ಅನುದಾನದ ಅಡಿಯಲ್ಲಿ",
+	"Properties of Acetic Acid (Ethanoic Acid)": "ಅಸಿಟಿಕ್ ಆಮ್ಲದ ಗುಣ ಲಕ್ಷಣಗಳು(ಇಥನೋಯಿಕ್ ಆಮ್ಲ)",
+	"NaHCO<sub>3</sub> solution": "ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬನೇಟ್ ದ್ರಾವಣ",
+	"Lime water": "ಸುಣ್ಣದ ತಿಳಿ ನೀರು",
+	"Drag the test tube to pour acetic acid into<br/> the test tube containing water.": "ಅಸಿಟಿಕ್ ಆಮ್ಲವಿರುವ ಪ್ರನಾಳವನ್ನು ಎಳೆದು ನೀರಿರುವ ಪ್ರನಾಳದಲ್ಲಿ ಹಾಕಿರಿ.",
+	"Click on the test tube to shake it.": "ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಲು ಪ್ರನಾಳದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+	"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.": "ಡ್ರಾಪರ್ ಎಳೆದು ಅಸಿಟಿಕ್ ಆಮ್ಲವಿರುವ ಪ್ರನಾಳದಲ್ಲಿ ಅದ್ದಿ ನಂತರ ಎಳೆದು ದ್ರಾವಣವನ್ನು ಲಿಟ್ಮಸ್ ಕಾಗದದ ಮೇಲೆ ಹಾಕಿರಿ.",
+	"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.": "ಶಂಕು ಆಕಾರದ ನಳಿಕೆಯನ್ನು ತಿಸಲ್ ಫನಲ್ ಮೇಲೆ ಎಳೆದು ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಅದರಲ್ಲಿ ಹಾಕಿರಿ.",
+	"A homogeneous solution is formed.": "ಸಮಜ್ಯಾತ್ಯಾ ದ್ರಾವಣವು ಉಂಟಾಗುತ್ತದೆ.",
+	"A pungent smell is produced.": "ತೀಕ್ಷ್ಣವಾದ ಮತ್ತು ಕಿರಿಕಿರಿವುಂಟು ಮಾಡುವ ಘಾಟು ವಾಸನೆ ಉಂಟಾಗುತ್ತದೆ.",
+	"Blue litmus turns red.": "ನೀಲಿ ಲಿಟ್ಮಸ್ ಕಾಗದ  ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+	"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.": "ಅಸಿಟಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬನೇಟ್ ನೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ ಬಿಡುಗಡೆಯಾದ ಇಂಗಾಲದ ಡೈ ಆಕ್ಸೈಡ್ ಅನಿಲವು ಸುಣ್ಣದ ನೀರನ್ನು ಹಾಲಿನಂತೆ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
+	"HELP": "ಸಹಾಯ",
+	"FULLSCREEN": "ಪೂರ್ಣೆರೆ",
+	"EXIT": "ನಿರ್ಗಮಿಸು"
+}

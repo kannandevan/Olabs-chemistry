@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_CAPILLARYTUBE">
+        <source>Capillary tube</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_DETERMINATIONOFBOILINGPOINT">
+        <source>Melting point of an Organic Compound</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_LIQUIDPARAFIN">
+        <source>Liquid paraffin</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_MELTINGPOINT_NAPHTHALENE">
+        <source>Melting point of Naphthalene</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_NAPHTHALENE">
+        <source>Naphthalene</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_POROUSPLATE">
+        <source>Porous plate</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_STIRRER">
+        <source>Stirrer</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_THERMOMETER">
+        <source>Thermometer</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

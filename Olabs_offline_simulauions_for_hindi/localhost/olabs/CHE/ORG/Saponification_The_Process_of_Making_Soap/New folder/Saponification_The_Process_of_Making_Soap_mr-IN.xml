@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_1">
+	<TEXTVALUE>सॅपोनिफिकेशन: साबण निर्माण करण्याची प्रक्रिया.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_2">
+	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>आवश्यक सामग्री: मापन नळकांडे, मीठ, काचेचे चंचुपात्र, खोबरेल तेल, २०% NaOH द्रावण, बन्सेन बर्नर, काचेचा रॉड, नरसाळे, फिल्टर पेपर, तार गोझ, तिवई, क्लांप स्टँड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_3">
+	<TEXTVALUE>मीठ[15g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_4">
+	<TEXTVALUE>खोबरेल तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_5">
+	<TEXTVALUE>२०% NaOH द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_6">
+	<TEXTVALUE>मापन नळकांडे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_7">
+	<TEXTVALUE>मीठ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_8">
+	<TEXTVALUE>काचेचे चंचुपात्र
+ (250 ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_9">
+	<TEXTVALUE>खोबरेल तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_10">
+	<TEXTVALUE>०% NaOH द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_11">
+	<TEXTVALUE>बन्सेन बर्नर,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_12">
+	<TEXTVALUE> नरसाळे</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>मापन नळकांड्यात २५ मिली खोबरेल तेल मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>मापन नळकांड्यात २५ मिली खोबरेल तेल मोजा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>तेल काचेच्या चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>अजून एक मापन नळकांडे घ्या आणि </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>३० मिली २०% NaOH द्रावण त्यात मोजा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_string_13">
+	<TEXTVALUE>२०% NaOH द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>खोबरेल तेल असलेल्या चंचुपात्रात ते टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>काचेचा रॉड वापरून मिश्रण नीट ढवळा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>चंचुपात्राला बाहेरून हात लावा. असेल दिसेल की चंचुपात्र गरम झाले आहे.  (वनस्पती तेल) खोबरेल तेल आणि सोडियम हायड्रोऑक्साइड ह्यांच्यातील उष्मादायी अभिक्रिये मुळे हे होते. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab8_string_14">
+	<TEXTVALUE>काढा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>चंचुपात्र बन्सेन बर्नर वर ठेवा आणि मिश्रण पांढर्‍या रंगाची पेस्ट होई पर्यन्त गरम करा.  ह्या मिश्रणात साबण (कण रूपात) आणि ग्लिसेरोल असते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_two">
+	<TEXTVALUE>चंचुपात्र बर्नर वरून काढा आणि मिश्रण थंड होऊ द्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>निर्माण झालेल्या कण युक्त द्रवात लाल लिटमस टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_two">
+	<TEXTVALUE>कणयुक्त द्रवात लाल लिटमस कागद बुडविल्यानंतर तो निळा होतो. हे दाखविते की साबणाचे द्रावण अल्कधर्मी असते
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_15">
+	<TEXTVALUE>लाल लिटमस कागद</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_16">
+	<TEXTVALUE>अल्कधर्मी</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>कणयुक्त द्रवात निळा लिटमस कागद बुडवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_17">
+	<TEXTVALUE>निळा लिटमस कागद</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_18">
+	<TEXTVALUE>आम्लधर्मी नाही</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_two">
+	<TEXTVALUE>निळ्या लिटमस कागदाचा रंग तोच राहतो. हे दाखविते की साबणाचे द्रावण आम्लधर्मी नाही.
+	</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>ह्या द्रवात १५ ग्राम मीठ टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_bet_string">
+	<TEXTVALUE>मीठ [15g]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>काचेच्या रॉडने नीट ढवळा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_two">
+	<TEXTVALUE>असे दिसते की साबणाचे स्थायू रूपात अवक्षेपण होते</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>फिल्टर कागद घ्या आणि फिल्टर नरसाळ्यात बसवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab14_string_19">
+	<TEXTVALUE>फिल्टर
+paper</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab15">
+	<TEXT ID="Lab15_one">
+	<TEXTVALUE>नरसाळ्यावर काचेचा रॉड धरा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab15_string_20">
+	<TEXTVALUE>काचेचा रॉड</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>साबण असलेले चंचुपात्र घ्या आणि</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>काचेच्या रॉड वरून ओता आणि मिश्रण गाळा. फिल्टर कागदावर साबण मागे राहील.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>फिल्टर कागद घ्या आणि </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab18_string_21">
+	<TEXTVALUE>फिल्टर कागद</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>नरसाळ्यातून स्पाट्युला वापरून साबण काढा आणि </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>फिल्टर कागदावर ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>नरसाळ्यातून स्पाट्युला वापरून साबण काढा आणि </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>फिल्टर कागदावर ठेवा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>दूसरा फिल्टर कागद घेऊन त्यावर दाबा आणि साबण कोरडे करा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>सूरी वापरून हव्या असलेल्या आकारात कापा.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>असा साबण निर्माण झाला.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_last_1">
+	<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

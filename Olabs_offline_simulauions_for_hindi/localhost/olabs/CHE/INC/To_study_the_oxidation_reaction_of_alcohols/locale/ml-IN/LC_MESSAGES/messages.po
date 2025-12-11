@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2014-05-15 12:20+0530\n"
+"PO-Revision-Date: 2016-06-13 12:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Purification of Impure Samples by Crystallization"
+msgstr "ക്രിസ്റ്റലൈസേഷനിലൂടെ അശുദ്ധമായ വസ്തുക്കളുടെ ശുദ്ധീകരണം"
+
+#: simcontrols.js:11
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "ഫുൾസ്ക്രീൻ"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "പുറത്ത്"
+
+#: simcontrols.js:14
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:19
+msgid "Select the sample"
+msgstr "സാമ്പിൾ തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:19
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols.js:20
+msgid "Crude copper sulphate"
+msgstr "അസംസ്കൃത കോപ്പർസൾഫേറ്റ്"
+
+#: simcontrols.js:20
+msgid "Distilled Water"
+msgstr "ശുദ്ധീകരിച്ച ജലം"
+
+#: simcontrols.js:20
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "Dil. H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:20
+msgid "Crude potash alum"
+msgstr "അസംസ്കൃത പൊട്ടാഷ് ആലം"
+
+#: simcontrols.js:20
+msgid "Crude benzoic acid"
+msgstr "അസംസ്കൃത ബെൻസോയിക് ആസിഡ്"
+
+#: simcontrols.js:20
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: simcontrols.js:20
+msgid "Hot Water"
+msgstr "ചൂട് ജലം"
+
+#: simcontrols.js:20
+msgid "30 Min"
+msgstr "30 മിനിട്ട്"
+
+#: simcontrols.js:20
+msgid "Ethyl alcohol with cold water"
+msgstr "ഈഥൈൽ ആൽക്കഹോളും തണുത്തജലവും"
+
+#: simcontrols.js:20
+msgid "Mixture of alcohol  & water "
+msgstr "ആൽക്കഹോളിന്റെ  മിശ്രിതവും ജലവും"
+
+#: simcontrols.js:20
+msgid "Cold water"
+msgstr "തണുത്ത ജലം"
+
+#: simcontrols.js:21
+msgid "Copper sulphate"
+msgstr "CUSO<sub>4</sub>"
+
+#: simcontrols.js:21
+msgid "Potash alum"
+msgstr "പൊട്ടാഷ് ആലം"
+
+#: simcontrols.js:21
+msgid "Benzoic acid"
+msgstr "ബെൻസോയിക് ആസിഡ്"
+
+#: simcontrols.js:22
+msgid "The insoluble impurities are left on the filter paper."
+msgstr "ലയിക്കാത്ത മാലിന്യങ്ങൾ ഫിൽട്ടർപേപ്പറിൽ അവശേഷിക്കുന്നു."
+
+#: simcontrols.js:22
+msgid ""
+"The appearance of a crust or tiny crystals on the side of the <br> china dish shows that the crystallisation point has "
+"reached."
+msgstr "ചൈനാഡിഷിന്റെ  വശങ്ങളിൽ രൂപംകൊള്ളുന്ന ചെറിയ <br>ക്രിസ്റ്റലുകൾ കാണിക്കുന്നത് പരൽരൂപീകരണഘട്ടത്തിൽ <br>എത്തി എന്നാണ്."
+
+#: simcontrols.js:22
+msgid "Crystals of the sample is formed."
+msgstr "സാമ്പിളുകളുടെ ക്രിസ്റ്റലുകൾ ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:22
+msgid "The watch glass contains dried crystals."
+msgstr "വരണ്ട ക്രിസ്റ്റലുകൾ അടങ്ങിയ വാച്ച് ഗ്ലാസ്സ് "
+
+#: simcontrols.js:22
+msgid "The crystals of copper sulphate are <br> triclinic, transparent and blue."
+msgstr "കോപ്പർസൾഫേറ്റിന്റെ  ക്രിസ്റ്റലുകൾ<br>  -നീല, സുതാര്യം, ട്രൈക്ലിനിക് ആണ്."
+
+#: simcontrols.js:22
+msgid "The crystals of potash alum are <br> colourless, transparent and octahedral."
+msgstr "പൊട്ടാഷ് ആലത്തിന്റെ  ക്രിസ്റ്റലുകൾ<br>  -നിറമില്ലാത്തത്, സുതാര്യം, എട്ട്   ഭുജത്തോടുകൂടിയത് ആണ്."
+
+#: simcontrols.js:22
+msgid "The crystals of benzoic acid are <br> opaque and white."
+msgstr "ബെൻസോയിക് ആസിഡിന്റെ  ക്രിസ്റ്റലുകൾ <br>അതാര്യവും വെളുത്തതും ആണ്."
+
+#: simcontrols.js:22
+msgid "Crystals of benzoic acid is left <br> behind on the filter paper."
+msgstr "ബെൻസോയിക് ആസിഡിന്റെ  ക്രിസ്റ്റലുകൾ <br>ഫിൽട്ടർപേപ്പറിൽ അവശേഷിക്കുന്നു."
+
+#: simcontrols.js:23
+msgid "Click on the sample icon <br> to choose the sample."
+msgstr "സാമ്പിളിന്റെ  ഐക്കണിൽ ക്ലിക്ക് ചെയ്ത് സാമ്പിൾ <br>തിരഞ്ഞെടുക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the spatula and add <br> sample into the beaker."
+msgstr "സ്പാറ്റുല നീക്കിയിട്ട്  സാമ്പിൾ <br>ബീക്കറിലേക്ക് ഇടുക."
+
+#: simcontrols.js:23
+msgid "Click on the glass rod <br> to stir the solution."
+msgstr "ഗ്ലാസ്സ് റോഡിൽ ക്ലിക്ക് ചെയ്ത് ലായനി <br>ഇളക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the measuring cylinder and <br> add H<sub>2</sub>SO<sub>4</sub> into the beaker."
+msgstr "അളവ് സിലിണ്ടർ നീക്കിയിട്ട്  <br> add H<sub>2</sub>SO<sub>4</sub> സൾഫ്യുറിക് ആസിഡ് ബീക്കറിലേക്ക് ഇടുക."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass rod."
+msgstr "ബീക്കർ നീക്കിയിട്ട്<br> ലായനി ഫണലിനകത്ത്<br> ഗ്ലാസ്സ് റോഡിലൂടെ ചൈനാഡിഷിലേക്ക് <br>ഒഴിക്കുക."
+
+#: simcontrols.js:23
+msgid "Click on the burner knob <br>  to turn on the burner."
+msgstr "ബർണറിന്റെ  നോബിൽ ക്ലിക്ക് ചെയ്ത് <br>ബർണർ ഓൺ ചെയ്യുക."
+
+#: simcontrols.js:23
+msgid "Drag the china dish to <br> transfer the hot saturated solution <br> into the crystallising dish."
+msgstr "ചൈനാഡിഷ് നീക്കിയിട്ട് <br>ചൂടുള്ള പൂരിത ലായനി പരൽ ആക്കുന്ന <br>ഡിഷിലേക്ക് മാറ്റുക."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it into the  trough."
+msgstr "പരൽ രൂപീകരിക്കുന്ന ഡിഷ് നീക്കുക, ഇത് ഒരു <br>ജാറിലേക്ക് വയ്ക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish <br> and place it back."
+msgstr "പരൽ രൂപീകരിക്കുന്ന ഡിഷ് നീക്കുക, ഇത് <br>l തിരിച്ച് പുറകിലേക്ക് വയ്ക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the filter paper and put <br> the crystals into the test tube."
+msgstr "ഫിൽട്ടർപേപ്പർനീക്കിയിട്ട് <br>ടെസ്ട്യൂബിലേക്ക് ക്രിസറ്റലുകൾ ഇടുക."
+
+#: simcontrols.js:23
+msgid "Drag the cork and close the test tube."
+msgstr "കോർക്ക് നീക്കി ടെസ്ട്യൂബ് അടയ്ക്കുക."
+
+#: simcontrols.js:23
+msgid "Click on the test tube to see<br>  the zoomed view of the sample."
+msgstr "ടെസ്ട്യൂബിൽ ക്ലിക്ക് ചെയ്ത് സാമ്പിളിന്റെ  <br>വലുതാക്കിയ ദൃശ്യം  കാണുക."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it into the trough."
+msgstr "ബീക്കർനീക്കിയിട്ട് അത് <br>ഒരു ജാറിലേക്ക് വയ്ക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and <br> place it back."
+msgstr "ബീക്കർനീക്കിയിട്ട് <br>പുറകിലേക്ക് വയ്ക്കുക."
+
+#: simcontrols.js:23
+msgid "Drag the bottle and add <br> solution into the crystallisation dish."
+msgstr "പാത്രം നീക്കിയിട്ട് ലായനി ക്രിസ്റ്റലൈസേഷൻ <br>ഡിഷിലേക്ക് മാറ്റുക."
+
+#: simcontrols.js:23
+msgid "Drag the crystallisation dish and decant <br> the upper solution to the trough."
+msgstr "ക്രിസ്റ്റലൈസേഷൻ ഡിഷ് നീക്കിയിട്ട് മുകളിലുള്ള <br>തെളിഞ്ഞ ലായനി ജാറിലേക്ക് മാറ്റുക."
+
+#: simcontrols.js:23
+msgid "Drag the beaker and pour<br> the solution into the beaker <br> through the funnel and glass rod."
+msgstr "ബീക്കർ നീക്കിയിട്ട് ലായനി <br>ഫണലിലൂടെ  ഗ്ലാസ്സ് റോഡ് വഴി ബീക്കറിലേക്ക് <br>ഒഴിക്കുക."
+
+#~ msgid "Alum"
+#~ msgstr "Potash alum"
+
+#~ msgid "Drag the beaker and pour <br> the solution into the funnel <br> through a glass rod."
+#~ msgstr "Drag the beaker and pour<br> the solution into the china dish <br> through the funnel and glass rod."
+
+#~ msgid "Click to drag the filter paper <br> containing crystals of the sample <br> and place it into the testtube."
+#~ msgstr "Drag the filter paper and put <br> the crystals into the test tube."

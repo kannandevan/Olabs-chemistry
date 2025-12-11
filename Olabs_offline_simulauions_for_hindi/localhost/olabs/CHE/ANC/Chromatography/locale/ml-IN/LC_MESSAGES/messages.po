@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mm\n"
+"POT-Creation-Date: 2015-05-15 14:46+0530\n"
+"PO-Revision-Date: 2016-06-06 10:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gt.gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:65
+msgid "Paper Chromatography"
+msgstr "പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി"
+
+#: simcontrols.js:66
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:67
+msgid "30 minutes"
+msgstr "30 മിനിറ്റ്"
+
+#: simcontrols.js:68
+msgid "Select the solvent:"
+msgstr "ലായകം തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:68
+msgid "Select the mixture:"
+msgstr "മിശ്രിതം തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:68
+msgid "Show scale"
+msgstr "സ്കെയിൽ കാണിക്കുക."
+
+#: simcontrols.js:68
+msgid "Result"
+msgstr "ഫലം"
+
+#: simcontrols.js:69
+msgid "Distance travelled by the solvent"
+msgstr "ലായകം സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:69
+msgid "Distance travelled by blue ink"
+msgstr "നീല മഷി സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:69
+msgid "Distance travelled by red ink "
+msgstr "ചുവപ്പ് മഷി സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:70
+msgid "Rf value of blue ink"
+msgstr "നീല മഷിയുടെ Rf മൂല്യം"
+
+#: simcontrols.js:70
+msgid "Rf value of red ink"
+msgstr "ചുവപ്പ് മഷിയുടെ Rf മൂല്യം"
+
+#: simcontrols.js:70
+msgid " Distance travelled by Chlorophyll b (dark green)  "
+msgstr "ക്ലോറോഫില്‍ b (ഇരുണ്ട പച്ച) സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:71
+msgid "Distance travelled by Chlorophyll a (light green)  "
+msgstr "ക്ലോറോഫില്‍ a (ഇളം പച്ച) സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:71
+msgid "Distance travelled by Xanthophyll (yellow) "
+msgstr "സാന്തോഫില്‍ (മഞ്ഞ) സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:72
+msgid "Distance travelled by Carotene (orange) "
+msgstr "കരോട്ടിന്‍ (ഓറഞ്ച്) സഞ്ചരിച്ച ദൂരം"
+
+#: simcontrols.js:72
+msgid "Rf value of Chlorophyll b "
+msgstr "ക്ലോറോഫില്‍ b യുടെ Rf മൂല്യം"
+
+#: simcontrols.js:72
+msgid "Rf value of Chlorophyll a"
+msgstr "ക്ലോറോഫില്‍ a യുടെ Rf മൂല്യം"
+
+#: simcontrols.js:73
+msgid "Rf value of Xanthophyll "
+msgstr "സാന്തോഫില്ലിന്റെ Rf മൂല്യം"
+
+#: simcontrols.js:73
+msgid "Rf value of Carotene"
+msgstr "കരോട്ടിന്റെ Rf മൂല്യം"
+
+#: simcontrols.js:75
+msgid "Isopropyl alcohol + water"
+msgstr "ഐസോപ്രൊപ്പൈല്‍ ആൽക്കഹോള്‍ + ജലം"
+
+#: simcontrols.js:77 simcontrols.js:79
+msgid "Red ink + Blue ink"
+msgstr "ചുവന്ന മഷി + നീല മഷി"
+
+#: simcontrols.js:77 simcontrols.js:79
+msgid "Spinach leaves extract"
+msgstr "ചീര ഇല സത്ത്‌"
+
+#: simcontrols.js:79
+msgid "Isopropyl alcohol + Water"
+msgstr "ഐസോപ്രൊപ്പൈല്‍ ആൽക്കഹോള്‍ + ജലം"
+
+#: simcontrols.js:81
+msgid ""
+"Chromatography is the technique used for the separation of<br>those solutes that "
+"dissolve in the same solvent."
+msgstr ""
+"ഒരു ലായകത്തില്‍ അലിഞ്ഞു ചേർന്നിട്ടുള്ള ഘടകങ്ങളെ അതേ ലായനിയില്‍ <br>നിന്നും വേർതിരിക്കുന്നതിനായി "
+"ഉപയോഗിക്കുന്ന വിദ്യയാണ് ക്രൊമാറ്റോഗ്രാഫി."
+
+#: simcontrols.js:83
+msgid ""
+"Drag the capillary tube to the watch glass to collect the ink <br/>and drop it back on "
+"the paper."
+msgstr ""
+"മഷി ശേഖരിക്കുന്നതിനായി വാച്ച് ഗ്ലാസിലേക്ക് കാപ്പിലറി ട്യൂബ് ഡ്രാഗ് ചെയ്യുക.<br/> അതിനെ തിരികെ പേപ്പറില്‍ "
+"ഡ്രോപ്പ് ചെയ്യുക."
+
+#: simcontrols.js:84
+msgid "Click on the lid of the<br/>chamber to open it."
+msgstr "ചേമ്പർ തുറക്കാൻ <br/> അതിന്റെ അടപ്പില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:85
+msgid "Drag and place the paper in the chamber."
+msgstr "ചേമ്പറില്‍ പേപ്പർ ഡ്രാഗ് ചെയ്ത് വയ്ക്കുക."
+
+#: simcontrols.js:86
+msgid "Click on the lid of<br/>the chamber to close it."
+msgstr "ചേമ്പർ അടയ്ക്കാന്‍ <br/> അതിന്റെ അടപ്പില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:87
+msgid "Click on the chamber to<br/>take the filter paper out."
+msgstr "ഫിൽട്ടർ പേപ്പർ പുറത്തെടുക്കാന്‍ <br/> ചേമ്പറില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:90
+msgid "Reset"
+msgstr "റീസെറ്റ്"
+
+#: simcontrols.js:91
+msgid "Start"
+msgstr "തുടക്കം"
+
+#: simcontrols.js:92
+msgid "Whatman Filter Paper"
+msgstr "വാട്ട്മാൻ ഫിൽട്ടർ പേപ്പർ"
+
+#~ msgid "Isopropyl alcohol - water (1:1)"
+#~ msgstr "Isopropyl alcohol - water (1:1)"
+
+#~ msgid "Separation of Mixtures Using Different Techniques"
+#~ msgstr "Separation of Mixtures Using Different Techniques"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"
+
+#~ msgid "Only opposite side is possible."
+#~ msgstr "Only opposite side is possible."
+
+#~ msgid "The procedure was wrong. Redo the experiment."
+#~ msgstr "The procedure was wrong. Redo the experiment."
+
+#~ msgid "Centrifuge machine."
+#~ msgstr "Centrifuge machine."
+
+#~ msgid "Click here to stop."
+#~ msgstr "Click here to stop."
+
+#~ msgid "Centrifugation "
+#~ msgstr "Centrifugation"
+
+#~ msgid "Simple Distillation"
+#~ msgstr "Simple Distillation"
+
+#~ msgid "Fractional Distillation"
+#~ msgstr "Fractional Distillation"
+
+#~ msgid "Separating Funnel"
+#~ msgstr "Separating Funnel"
+
+#~ msgid "Milk"
+#~ msgstr "Milk"
+
+#~ msgid "Ferric hydroxide sol"
+#~ msgstr "Ferric hydroxide sol"
+
+#~ msgid "Muddy water"
+#~ msgstr "Muddy water"
+
+#~ msgid "Water + Acetone"
+#~ msgstr "Water + Acetone"
+
+#~ msgid "Pentane + Heptane"
+#~ msgstr "Pentane + Heptane"
+
+#~ msgid "Toluene + Hexane"
+#~ msgstr "Toluene + Hexane"
+
+#~ msgid "Methanol + Ethanol"
+#~ msgstr "Methanol + Ethanol"
+
+#~ msgid "Hexane + Acetone"
+#~ msgstr "Hexane + Acetone"
+
+#~ msgid "2-Propanol + 2-Butanol"
+#~ msgstr "2-Propanol + 2-Butanol"
+
+#~ msgid "Oil + Water"
+#~ msgstr "Oil + Water"
+
+#~ msgid "Kerosene oil + water"
+#~ msgstr "Kerosene oil + Water"
+
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgid "Cream layer"
+#~ msgstr "Cream layer"
+
+#~ msgid "Skim milk (Plasma phase)"
+#~ msgstr "Skim milk (Plasma phase)"
+
+#~ msgid "Supernatant liquid"
+#~ msgstr "Supernatant liquid"
+
+#~ msgid "Ferric hydroxide precipitate"
+#~ msgstr "Ferric hydroxide precipitate"
+
+#~ msgid "Mud"
+#~ msgstr "Mud"
+
+#~ msgid ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>Methanol boils at 65&deg;C and ethanol boils at 78&deg;C."
+#~ msgstr ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>Methanol boils at 65&deg;C and ethanol boils at 78&deg;C."
+
+#~ msgid ""
+#~ "Simple distillation is used for the separation of a mixture containing two<br/"
+#~ ">miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference(>25k) in their boiling points. At 56&deg;C acetone boils and the</"
+#~ "br>vapours are collected in a RB flask and water is left behind in the flask."
+#~ msgstr ""
+#~ "Simple distillation is used for the separation of a mixture containing two<br/"
+#~ ">miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference(>25k) in their boiling points. At 56&deg;C acetone boils and the</"
+#~ "br>vapours are collected in a RB flask and water is left behind in the flask."
+
+#~ msgid ""
+#~ "The denser particles forced to the bottom and the<br>lighter particles stay at the "
+#~ "top when spin rapidly."
+#~ msgstr ""
+#~ "The denser particles forced to the bottom and the<br>lighter particles stay at the "
+#~ "top when spin rapidly."
+
+#~ msgid ""
+#~ "The denser liquid at the bottom forms the lower layer and the lighter<br>liquid "
+#~ "forms the top layer. This indicates water is denser than oil."
+#~ msgstr ""
+#~ "The denser liquid at the bottom forms the lower layer and the lighter<br>liquid "
+#~ "forms the top layer. This indicates water is denser than oil."
+
+#~ msgid ""
+#~ "Simple distillation is used for the separation of a mixture containing "
+#~ "two<br>miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference (>25k) in their boiling points. At 36&deg;C pentane boils and the<br/"
+#~ ">vapours are collected in a RB flask and heptane (bp - 98&deg;C) is left</br>behind "
+#~ "in the flask."
+#~ msgstr ""
+#~ "Simple distillation is used for the separation of a mixture containing "
+#~ "two<br>miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference (>25k) in their boiling points. At 36&deg;C pentane boils and the<br/"
+#~ ">vapours are collected in a RB flask and heptane (bp - 98&deg;C) is left</br>behind "
+#~ "in the flask."
+
+#~ msgid ""
+#~ "Simple distillation is used for the separation of a mixture containing two<br/"
+#~ ">miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference (>25k) in their boiling points. At 69&deg;C hexane boils and the<br/"
+#~ ">vapours are collected in a RB flask and toluene (bp - 111&deg;C) is left</"
+#~ "br>behind in the flask."
+#~ msgstr ""
+#~ "Simple distillation is used for the separation of a mixture containing two<br/"
+#~ ">miscible liquids that boil without decomposition and have sufficient<br/"
+#~ ">difference (>25k) in their boiling points. At 69&deg;C hexane boils and the<br/"
+#~ ">vapours are collected in a RB flask and toluene (bp - 111&deg;C) is left</"
+#~ "br>behind in the flask."
+
+#~ msgid ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>Acetone boils at 56&deg;C and hexane boils at 69&deg;C."
+#~ msgstr ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>Acetone boils at 56&deg;C and hexane boils at 69&deg;C."
+
+#~ msgid ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>2-Propanol boils at 82.5&deg;C and 2-Butanol boils at 99.5&deg;C."
+#~ msgstr ""
+#~ "Fractional distillation is used for the separation of two or more "
+#~ "miscible<br>liquids for which the difference in boiling points is less than 25K."
+#~ "<br>2-Propanol boils at 82.5&deg;C and 2-Butanol boils at 99.5&deg;C."
+
+#~ msgid ""
+#~ "The denser liquid at the bottom forms the lower layer and the lighter<br>liquid "
+#~ "forms the top layer. This indicates water is denser than kerosene oil."
+#~ msgstr ""
+#~ "The denser liquid at the bottom forms the lower layer and the lighter<br>liquid "
+#~ "forms the top layer. This indicates water is denser than kerosene oil."
+
+#~ msgid "Click here to open the lid."
+#~ msgstr "Click here to open the lid."
+
+#~ msgid "Drag each tube to place it<br/>in the holder of the machine."
+#~ msgstr "Drag each tube to place it<br/>in the holder of the machine."
+
+#~ msgid "Click here to close the lid."
+#~ msgstr "Click here to close the lid."
+
+#~ msgid "Click on the button to switch on the machine."
+#~ msgstr "Click on the button to switch on the machine."
+
+#~ msgid "Click here to open the machine."
+#~ msgstr "Click here to open the machine."
+
+#~ msgid "Click on the mixture test tube."
+#~ msgstr "Click on the mixture test tube."
+
+#~ msgid "Click here to<br/>start the experiment."
+#~ msgstr "Click here to<br/>start the experiment."
+
+#~ msgid "Drag the ice box downwards."
+#~ msgstr "Drag the ice box downwards."
+
+#~ msgid "Drag the RB flask containing Methanol<br>and place it over the thermocol."
+#~ msgstr "Drag the RB flask containing Methanol<br>and place it over the thermocol."
+
+#~ msgid "Drag the flask to place it against<br> the holder to collect ethanol."
+#~ msgstr "Drag the flask to place it against<br> the holder to collect ethanol."
+
+#~ msgid "Drag the ice box upwards to<br>place it below the RB flask. "
+#~ msgstr "Drag the ice box upwards to<br>place it below the RB flask. "
+
+#~ msgid "Click here to<br/>restart the heating mantle."
+#~ msgstr "Click here to<br/>restart the heating mantle."
+
+#~ msgid "To pour the mixture<br>into the separating funnel,<br>drag the beaker."
+#~ msgstr "To pour the mixture<br>into the separating funnel,<br>drag the beaker."
+
+#~ msgid "Click on the funnel<br/>to remove it."
+#~ msgstr "Click on the funnel<br/>to remove it."
+
+#~ msgid "Drag the separating funnel to<br>take it from the stand."
+#~ msgstr "Drag the separating funnel to<br>take it from the stand."
+
+#~ msgid "Click on the separating funnel<br>to shake it."
+#~ msgstr "Click on the separating funnel<br>to shake it."
+
+#~ msgid "Click here to release<br/>the pressure inside the funnel."
+#~ msgstr "Click here to release<br/>the pressure inside the funnel."
+
+#~ msgid "Drag the funnel<br/>to place it back."
+#~ msgstr "Drag the funnel<br/>to place it back."
+
+#~ msgid "To collect water<br>from the separating funnel,<br>drag the beaker. "
+#~ msgstr "To collect water<br>from the separating funnel,<br>drag the beaker. "
+
+#~ msgid "Click here to open/close<br/>the stop cock."
+#~ msgstr "Click here to open/close<br/>the stop cock."
+
+#~ msgid "Drag the beaker to<br/>place it back."
+#~ msgstr "Drag the beaker to<br/>place it back."
+
+#~ msgid "To collect the</br>oil from the separating</br>funnel, drag the beaker."
+#~ msgstr "To collect the</br>oil from the separating</br>funnel, drag the beaker."
+
+#~ msgid "Drag the beaker to <br/>place it back."
+#~ msgstr "Drag the beaker to <br/>place it back."
+
+#~ msgid "Drag the RB flask containing acetone<br>and place it over the thermocol."
+#~ msgstr "Drag the RB flask containing acetone<br>and place it over the thermocol."
+
+#~ msgid "Drag the flask to place it against<br>the holder to collect hexane."
+#~ msgstr "Drag the flask to place it against<br>the holder to collect hexane."
+
+#~ msgid "Drag the RB flask containing 2-propanol<br>and place it over the thermocol."
+#~ msgstr "Drag the RB flask containing 2-propanol<br>and place it over the thermocol."
+
+#~ msgid "Drag the flask to place it against<br> the holder to collect 2-butanol."
+#~ msgstr "Drag the flask to place it against<br> the holder to collect 2-butanol."
+
+#, fuzzy
+#~ msgid "Click on the tube<br/>containing milk."
+#~ msgstr "Click on the tube<br/>containing milk."

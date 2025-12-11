@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2014-05-15 12:51+0530\n"
+"PO-Revision-Date: 2016-03-15 15:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: h\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Determination of pH"
+msgstr "पीएच चे निर्धारण"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "SAVE"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of "
+"IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of "
+"IT"
+
+#: simcontrols.js:16
+msgid "ACIDIC"
+msgstr "आम्लधर्मी"
+
+#: simcontrols.js:16
+msgid "NEUTRAL"
+msgstr "उदासीन धर्मी"
+
+#: simcontrols.js:16
+msgid "BASIC"
+msgstr "अल्कधर्मी"
+
+#: simcontrols.js:16
+msgid "Universal Indicator"
+msgstr "वैश्विक दर्शक"
+
+#: simcontrols.js:17
+msgid "Lemon juice"
+msgstr "लिंबाचा रस"
+
+#: simcontrols.js:17
+msgid "Tomato juice"
+msgstr "टोमॅटोचा रस"
+
+#: simcontrols.js:17
+msgid "Orange juice"
+msgstr "संत्र्याचा रस"
+
+#: simcontrols.js:17
+msgid "Pineapple juice"
+msgstr "अननसाचा रस"
+
+#: simcontrols.js:17
+msgid "Amla juice"
+msgstr "आवळ्याचा रस"
+
+#: simcontrols.js:17
+msgid " Mango juice"
+msgstr "आंब्याचा रस"
+
+#: simcontrols.js:17
+msgid "Common salt"
+msgstr "साधे मीठ"
+
+#: simcontrols.js:17
+msgid "Sugar"
+msgstr "साखर"
+
+#: simcontrols.js:17
+msgid " Baking soda"
+msgstr "बेकिंग सोडा"
+
+#: simcontrols.js:17
+msgid " Milk"
+msgstr "दूध"
+
+#: simcontrols.js:17
+msgid "Vinegar"
+msgstr "विनिगर"
+
+#: simcontrols.js:17
+msgid "Butter milk"
+msgstr "ताक"
+
+#: simcontrols.js:17
+msgid "Bleaching powder"
+msgstr "ब्लीचिंग पावडर"
+
+#: simcontrols.js:17
+msgid "Washing soda"
+msgstr "वॉशिंग सोडा"
+
+#: simcontrols.js:17
+msgid "Milk of magnesia"
+msgstr "मिल्क ऑफ माग्नेशिया"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the solution to suck it and drop it over the strip to pour "
+"the solution."
+msgstr "ड्रॉपर ओढा आणि द्रावणात त्याचे टोक बुडवा म्हणजे द्रावण शोषल्या जाईल, आणि पट्टीवर काही थेंब ओता."
+
+#: simcontrols.js:21
+msgid "Drag the dropper to the sample solution to add universal indicator."
+msgstr "ड्रॉपर नमूना द्रावणाकडे ओढा म्हणजे वैश्विक दर्शक टाकता येईल."
+
+#: simcontrols.js:21
+msgid "This dropper cannot be used now, as the universal indicator has already been poured."
+msgstr "वैश्विक दर्शक ह्या ड्रॉपरने टाकल्यामुळे आता हे परत वापरता येणार नाही."
+
+#: simcontrols.js:21
+msgid "Click any one of the beaker to start the experiment."
+msgstr "प्रयोग सुरू करण्यासाठी एका चंचुपात्रावर क्लिक करा."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the universal "
+"indicator dropper to drop it into the sample solution."
+msgstr ""
+"ड्रॉपर ओढा आणि नमूना द्रावणात त्याचे टोक बुडवा म्हणजे द्रावण शोषल्या जाईल. वैश्विक दर्शक ओढा आणि नमूना "
+"द्रावणात टाका"
+
+#: simcontrols.js:21
+msgid "Click on the strips to select."
+msgstr "पट्टीवर क्लिक करून निवडा."
+
+#: simcontrols.js:21
+msgid "Drag the colour strip to the sample solution or indicator strip to identify the pH."
+msgstr "रंग पट्टीला नमूना द्रावणाकडे किंवा दर्शक पट्टीकडे ओढा, म्हणजे पीएच शोधता येईल."
+
+#: simcontrols.js:21
+msgid "Click on the information icon to see the inference."
+msgstr "निष्कर्ष बघण्यासाठी माहिती आयकॉन वर क्लिक करा."
+
+#: simcontrols.js:21
+msgid "Litmus paper"
+msgstr "लिटमस कागद"
+
+#: simcontrols.js:24
+msgid "Vegetable & fruit juice"
+msgstr "भाज्या आणि फळांचे रस"
+
+#: simcontrols.js:25
+msgid "House hold items"
+msgstr "घरगुती वस्तु"
+
+#: simcontrols.js:26
+msgid "Acids & bases in the lab"
+msgstr "प्रयोगशाळेतले आम्ल आणि अल्क"
+
+#: simcontrols.js:27
+msgid "Salts in water"
+msgstr "पाण्यातले क्षार"
+
+#: simcontrols.js:28
+msgid "Select the aqueous solution:"
+msgstr "जळयुक्त द्रावण निवडा"
+
+#: simcontrols.js:29
+msgid "Click on any one of the sample solution to start the experiment "
+msgstr "प्रयोग सुरू करण्यासाठी कुठल्याही एका नमुन्यावर क्लिक करा."
+
+#: simcontrols.js:34
+msgid "Reset"
+msgstr "रीसेट करा"

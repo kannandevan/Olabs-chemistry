@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-12 10:14+0530\n"
+"PO-Revision-Date: 2016-06-18 09:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "ചൂട് നൽകുമ്പോൾ ഉർവ്വപാതിത ഘനങ്ങളുടെ അവസ്ഥയിൽ സംഭവിക്കുന്ന മാറ്റങ്ങളെ പഠിക്കുക"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി വകുപ്പിന്റെ <br> ഗവേഷണ ഗ്രാന്റ് പ്രകാരം അമൃത സർവകലാശാല വികസിപ്പിച്ചത്"
+
+msgid "Click on the cap"
+msgstr "ക്യാപ്-ൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "സ്പാച്ചുലയെ കുപ്പിയിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Choose the correct answer."
+msgstr "ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുക."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "ഫന്നലിനെ ചൈനാ പാത്രത്തിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "പഞ്ചിനെ ഫന്നലിന്റെ മുകളിൽ വലിച്ച്<br>വിടുക"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "ചൈനാ പാത്രത്തെ ട്രൈപോഡ് സ്റ്റാൻഡിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "പഞ്ചിനെ ഗ്ലാസ് പാത്രത്തിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "നനഞ്ഞ പഞ്ചിനെ ചൈനാ പാത്രത്തിന്റെ<br> മുകളിൽ വലിച്ച് വിടുക"
+
+msgid "Click on the knob of the burner"
+msgstr "ബർണറിന്റെ നോബിൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും നടത്താൻ റീസെറ്റ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ് NH<sub>4</sub>Cl ആണ്, ഇത് ചൂട് നൽകുമ്പോൾ<br>താപ അപഘടനയിലൂടെ അമോണിയയും ഹൈഡ്രോക്ലോറിക് ആസിഡും ആയി<br>അപഘടനം സംഭവിക്കുന്നു.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Ammonium Chloride"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ്"
+
+msgid "Ammonium Chloride"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ്"
+
+msgid "Drag and drop the spatula towards the bottle."
+msgstr "സ്പാച്ചുലയെ കുപ്പിയിലേക്കു വലിച്ച് വിടുക."
+
+msgid "Drag and drop the funnel towards the china dish."
+msgstr "ഫന്നലിനെ ചൈനാ പാത്രത്തിലേക്കു വലിച്ച് വിടുക."
+
+msgid "Drag and drop the cotton towards the top of the funnel."
+msgstr "പഞ്ചിനെ ഫന്നലിന്റെ മുകളിലേക്കു വലിച്ച് വിടുക."
+
+msgid "Drag and drop the china dish towards tripod stand."
+msgstr "ചൈനാ പാത്രത്തെ ട്രൈപോഡ് സ്റ്റാൻഡിലേക്കു വലിച്ച് വിടുക."
+
+msgid "Drag and drop the cotton into the glass bowl."
+msgstr "പഞ്ചിനെ ഗ്ലാസ് പാത്രത്തിലേക്കു വലിച്ച് വിടുക."
+
+msgid "Click on the knob of the burner."
+msgstr "ബർണറിന്റെ നോബിൽ ക്ലിക്ക് ചെയ്യുക."
+
+msgid "<u><b>Instructions:</b></u>"
+msgstr "<u><b>നിർദ്ദേശങ്ങൾ:</b></u>"
+
+msgid "To study the changes in the state of sublimate solids on heating"
+msgstr "ചൂട് നൽകുമ്പോൾ ഉർവ്വപാതിത ഘനങ്ങളുടെ അവസ്ഥയിൽ സംഭവിക്കുന്ന മാറ്റങ്ങളെ പഠിക്കുക"
+
+msgid "Developed by Amrita University Under research grant from <br> Department of Electronics & Information Technology"
+msgstr "ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി വകുപ്പിന്റെ <br> ഗവേഷണ ഗ്രാന്റ് പ്രകാരം അമൃത സർവകലാശാല വികസിപ്പിച്ചത്"
+
+msgid "Click on the cap"
+msgstr "ക്യാപ്-ൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Drag and drop the spatula<br> towards the bottle"
+msgstr "സ്പാച്ചുലയെ കുപ്പിയിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Choose the correct answer."
+msgstr "ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുക."
+
+msgid "Drag and drop the funnel towards the china dish"
+msgstr "ഫന്നലിനെ ചൈനാ പാത്രത്തിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop <br> the cotton towards<br> the top of the funnel"
+msgstr "പഞ്ചിനെ ഫന്നലിന്റെ മുകളിലേക്കു വലിച്ച്<br>വിടുക"
+
+msgid "Drag and drop the china dish towards tripod stand"
+msgstr "ചൈനാ പാത്രത്തെ ട്രൈപോഡ് സ്റ്റാൻഡിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop the cotton<br> into the glass bowl"
+msgstr "പഞ്ചിനെ ഗ്ലാസ് പാത്രത്തിലേക്കു വലിച്ച് വിടുക"
+
+msgid "Drag and drop the<br> wet cotton into the <br>top of the china dish"
+msgstr "നനഞ്ഞ പഞ്ചിനെ ചൈനാ പാത്രത്തിന്റെ മുകളിൽ വലിച്ച് വിടുക"
+
+msgid "Drag and drop the wet cotton into the top of the china dish."
+msgstr "നനഞ്ഞ പഞ്ചിനെ ചൈനാ പാത്രത്തിന്റെ മുകളിൽ വലിച്ച് വിടുക."
+
+msgid "Click on the knob of the burner"
+msgstr "ബർണറിന്റെ നോബിൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും നടത്താൻ റീസെറ്റ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Ammonium Chloride is NH<sub>4</sub>Cl, which decomposes<br>  into Ammonia and Hydrochloric Acid when<br> heated by thermal decomposition.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ് NH<sub>4</sub>Cl ആണ്, ഇത് ചൂട് നൽകുമ്പോൾ<br>താപ അപഘടനയിലൂടെ അമോണിയയും ഹൈഡ്രോക്ലോറിക് ആസിഡും ആയി<br>അപഘടനം സംഭവിക്കുന്നു.<br>NH<sub>4</sub>Cl[s]→NH<sub>3</sub>[g]+HCl[l]"
+
+msgid "Which of the following substances will undergo sublimation?"
+msgstr "താഴെ പറയുന്നവയിൽ ഏത് പദാർത്ഥം ഉർവ്വപാതനം പ്രക്രിയയ്ക്ക് വിധേയമാകും?"
+
+msgid "Dry ice"
+msgstr "ഡ്രൈ ഐസ്"
+
+msgid "Common salt"
+msgstr "സാധാരണ ഉപ്പ്"
+
+msgid "Sugar"
+msgstr "പഞ്ചസാര"
+
+msgid "Sand"
+msgstr "മണൽ"
+
+msgid "Dry ice"
+msgstr "ഡ്രൈ ഐസ്"
+
+msgid "What happens if naphthalene is used instead of ammonium chloride, Will it undergo the sublimation Process"
+msgstr "അമ്മോണിയം ക്ലോറൈഡിന് പകരം നാഫ്തലീൻ ഉപയോഗിച്ചാൽ എന്ത് സംഭവിക്കും? അത് ഉർവ്വപാതന പ്രക്രിയയ്ക്ക് വിധേയമാകുമോ?"
+
+msgid "No"
+msgstr "ഇല്ല"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ് ഒരു വാഷ്പമാകുന്ന പദാർത്ഥമാണ്, ഇത് ചൂട് നൽകുമ്പോൾ ദ്രവാവസ്ഥയിലേക്കു മാറാതെ നേരിട്ട് വാഷ്പമാകും."
+
+msgid "All of these"
+msgstr "ഇവയൊക്കെ"
+
+msgid "Ammonium chloride is an evaporating substance, which directly evaporates on heating without converting into the liquid phase"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ് ഒരു വാഷ്പമാകുന്ന പദാർത്ഥമാണ്, ഇത് ചൂട് നൽകുമ്പോൾ ദ്രവാവസ്ഥയിലേക്കു മാറാതെ നേരിട്ട് വാഷ്പമാകും."
+
+msgid "Cottons helps in the elimination"
+msgstr "പഞ്ച് വാതകങ്ങളെ തടയാൻ സഹായിക്കുന്നു"
+
+msgid "Cotton stops external air from entering the funnel"
+msgstr "പഞ്ച് പുറം വായു ഫന്നലിലേക്ക് പ്രവേശിക്കുന്നത് തടയുന്നു"
+
+msgid "In the procedure of sublimation, the inverted funnel is plugged with cotton because __________"
+msgstr "ഉർവ്വപാതന പ്രക്രിയയിൽ, മറിച്ച ഫന്നൽ പഞ്ച് ഉപയോഗിച്ച് അടയ്ക്കുന്നത് __________ കാരണം"
+
+msgid "What happens when ammonium chloride is heated?"
+msgstr "അമ്മോണിയം ക്ലോറൈഡ് ചൂടാക്കുമ്പോൾ എന്ത് സംഭവിക്കുന്നു?"
+
+msgid "Forms Ammonia and HCl"
+msgstr "അമോണിയയും ഹൈഡ്രോക്ലോറിക് ആസിഡും രൂപപ്പെടുന്നു"
+
+msgid "No changes"
+msgstr "ഏതെങ്കിലും മാറ്റം സംഭവിക്കുന്നില്ല"
+
+msgid "Forms Ammonia and HCl"
+msgstr "അമോണിയയും ഹൈഡ്രോക്ലോറിക് ആസിഡും രൂപപ്പെടുന്നു"
+
+msgid "Reset"
+msgstr "റീസെറ്റ്"
+
+msgid "HELP"
+msgstr "സഹായം"

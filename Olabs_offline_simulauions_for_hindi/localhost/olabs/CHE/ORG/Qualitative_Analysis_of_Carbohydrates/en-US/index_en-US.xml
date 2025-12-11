@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_2DROPS">
+        <source>2 drops</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_3DROPS">
+        <source>3 drops</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_4DROPS">
+        <source>4 drops</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_6DROPS">
+        <source>6 drops</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_10MINUTES">
+        <source>10 minutes</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_ALCOHOL">
+        <source>Alcohol</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>Characteristic Tests of Carbohydrates, Fats and Proteins</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;Back</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_BAUDOUINTEST">
+        <source>Baudouin Test</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_BENEDICTREAGENT">
+        <source>Benedict&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_BENEDICTTEST">
+        <source>Benedict&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_BIURETTEST">
+        <source>Biuret Test</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_BIURETTESTS">
+        <source>Biuret Test</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_CARBOHYDRATES">
+        <source>Carbohydrates</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_CHARACTERSTICTESTS">
+        <source>Characteristic Tests</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_CHOLOROFORM">
+        <source>Chloroform</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_CONNITRICACID">
+        <source>Conc. Nitric acid</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_CONSULPHURICACID">
+        <source>con:sulphuric Acid</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_COPPERSULPHATE">
+        <source>Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_COTTONSEEDOIL">
+        <source>Cotton Seed Oil</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_DESIGHEE">
+        <source>Desi Ghee</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_DISTILLEDWATER">
+        <source>Distilled water</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_EGGALBUMIN">
+        <source>Egg Albumin</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_FEHLINGSOLNA">
+        <source>Fehling&apos;s solution A</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_FEHLINGSOLNB">
+        <source>Fehling&apos;s solution B</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_FEHLINGTEST">
+        <source>Fehling&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_FIVEMINUTE">
+        <source>5 to 10 MINUTES</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_FURFURALSOLUTION">
+        <source>2% furfural solution</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_GELATIN">
+        <source>Gelatin</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_GELATINDISPERSION">
+        <source>Gelatin Dispersion</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_GLUCOSE">
+        <source>Glucose</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_GLUCOSE2ML">
+        <source>Glucose (2 ml)</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_HUBLEREAGENT">
+        <source>Huble&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_HUBLETEST">
+        <source>Huble&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_IODINESOLN">
+        <source>Iodine solution</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_IODINETEST">
+        <source>Iodine Test</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_LINSEEDOIL">
+        <source>Linseed Oil</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_MELTEDDESIGHEE">
+        <source>Melted Desi ghee</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_MELTEDVANASPATHIGEE">
+        <source>Melted Vanaspati ghee</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_MILLIONTEST">
+        <source>Millon&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_MILLONREAGENT">
+        <source>Millon&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EXP_MILLONSTEST">
+        <source>Millon&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_EXP_MOLISCHREAGENT">
+        <source>Molisch&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_EXP_MOLISCHTEST">
+        <source>Molisch&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_EXP_NINHYDRINSOLN">
+        <source>Ninhydrin solution</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_EXP_NINHYDRINTEST">
+        <source>Ninhydrin Test</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_EXP_OILSFATS">
+        <source>Oils &amp; Fats</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_EXP_PROTEINS">
+        <source>Proteins</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_EXP_QUALITATIVETECARBOHYDRATES">
+        <source>Qualitative Tests for Carbohydrates</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_EXP_QUALITATIVETESTOILANDFAT">
+        <source>Qualitative Tests for Oils and Fats </source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_EXP_QUALITATIVETESTSOFPROTEIN">
+        <source>Qualitative Tests of Proteins</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_REFINEDOIL">
+        <source>Refined Oil</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_EXP_SOLUBILITYTEST">
+        <source>Solubility Test</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_EXP_STARCH">
+        <source>Starch</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_EXP_STARCH2ML">
+        <source>Starch (2 ml)</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_EXP_START">
+        <source>Start</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_EXP_SUCROSE">
+        <source>Sucrose</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_EXP_SUCROSE2ML">
+        <source>Sucrose (2 ml)</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_EXP_SULPHURICACID">
+        <source>Conc.Sulphuric acid</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_EXP_TESTCARBOHYDRATES">
+        <source>Test for Carbohydrates</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_EXP_TESTFORPROTEINS">
+        <source>Test for proteins</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_EXP_TOLLENREAGENT">
+        <source>Tollen&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_EXP_TOLLENTEST">
+        <source>Tollen&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_EXP_TRANSLUSCENTSPOTTEST">
+        <source>Transluscent Spot Test</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_EXP_VANASPATHIGHEE">
+        <source>Vanaspati Ghee</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_EXP_VEGETABLEGHEE">
+        <source>Vegetable Ghee</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_EXP_VEGGHEE">
+        <source>Veg:ghee </source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_EXP_WATER">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_EXP_XANTHO">
+        <source>Xanthoproteic Test</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_EXP_XANTHOPROTEIC">
+        <source>Xanthoproteic Test </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

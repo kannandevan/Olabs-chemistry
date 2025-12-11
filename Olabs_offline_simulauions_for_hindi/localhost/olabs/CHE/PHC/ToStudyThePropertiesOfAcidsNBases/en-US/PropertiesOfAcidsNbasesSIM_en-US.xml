@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="PropertiesOfAcidsNbasesSIM.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ADDBTN">
+        <source>Add solution</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_BURNRBTN">
+        <source>Turn on the burner</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CORKBTN">
+        <source>Cork the test tube</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_GLOWBTN">
+        <source>Glowing match stick</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_HYDROGEN">
+        <source>Hydrogen Gas</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_INFERENCE">
+        <source>Inference</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INS1">
+        <source>To click  &amp; drag the dropper to take the drops from the beaker.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INSTR">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_INSTR1">
+        <source>Click on one of the beakers to study its properties.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_INSTR2">
+        <source>Pour 1-2 drops of HCl solution to test tubes containing litmus solution.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_INSTR3">
+        <source>Pour the selected solution to test tube containing zinc metal.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_INSTR4">
+        <source>Cork the test tube.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_INSTR5">
+        <source>Turn on the burner.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_INSTR6">
+        <source>Bring the glowing match stick.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_INSTR7">
+        <source>Pour the selected solution through thistle funnel to the flask containing solid sodium carbonate and distilled water.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_INSTR8">
+        <source>HCl is an acid having  pH below 7. </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_INSTR9">
+        <source>HCl turns blue litmus red.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_INSTR10">
+        <source>NaOH is an alkali,its pH is more than 7.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_INSTR11">
+        <source>Red litmus turns blue.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_INSTR12">
+        <source>Carbon dioxide gas is produced, which turns lime water milky.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_INSTR13">
+        <source>Both sodium carbonate and NaOH are alkali, so  no reaction.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_INSTR14">
+        <source>Pour the selected solution to the test tube containing solid sodium carbonate.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_INSTR21">
+        <source>Pour 1-2 drops of NaOH solution to test tubes containing litmus solution.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_NXTBTN">
+        <source>NEXT&gt;&gt;</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_PHENOLP">
+        <source>Add phenolphthalein</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_PREVBTN">
+        <source>&lt;&lt; PREVIOUS</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_R1">
+        <source>Litmus solution</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_R2">
+        <source>Zinc metal</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_R3">
+        <source>Solid Na₂CO₃</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_REACTANT">
+        <source>Reactants:</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_THISTLE">
+        <source>Thistle Funnel</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_VARIABLE">
+        <source>Variables</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

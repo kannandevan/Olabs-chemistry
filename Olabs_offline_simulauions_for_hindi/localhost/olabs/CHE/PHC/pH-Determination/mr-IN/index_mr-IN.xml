@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ACETICACID">
+        <source>असेटीक आम्ल</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ACIDIC">
+        <source>आम्लधर्मी</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_TITLE">
+        <source>पीएच चे निर्धारण</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BACK">
+        <source>&lt;&lt;मागे</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BACKTXT">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BASIC">
+        <source>अल्कधर्मी</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_START">
+        <source>सुरु करा</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INDICATOR">
+        <source>वैश्विक दर्शक</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_NEUTRAL">
+        <source>उदासीन धर्मी</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_PAPERSTRIP">
+        <source>पीएच कागद</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TEST1">
+        <source>पीएच कागद</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TEST2">
+        <source>वैश्विक दर्शक</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

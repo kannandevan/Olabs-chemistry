@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>വൃതൃസ്തമായ സാധാരണ എണ്ണകളുടെ പ്രയോജനങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="button_txt">
+		<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Intrductionsc">
+	<TEXT ID="label1">
+		<TEXTVALUE>ആവണക്കെണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label2">
+		<TEXTVALUE>പരുത്തിക്കുരു എണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label3">
+		<TEXTVALUE>വെളിച്ചെണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label4">
+		<TEXTVALUE>മണ്ണെണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label5">
+		<TEXTVALUE>കടുകെണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label6">
+		<TEXTVALUE>1% സോപ്പ് ലായിനി </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label7">
+		<TEXTVALUE>സ്വേദിത ജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Intrductionsc_one">
+		<TEXTVALUE>ആവശ്യമായവ: ആവണക്കെണ്ണ, പരുത്തിക്കുരു എണ്ണ, വെളിച്ചെണ്ണ, മണ്ണെണ്ണ , കടുകെണ്ണ, 1% സോപ്പ് ലായിനി, അളവ് പാത്രം, 5 ml പിപ്പറ്റുകള്‍, സ്വേദിത ജല ം, A, B, C, D, E എന്ന് ലേബല്‍ ചെയ്ത 5 സ്റ്റോപ്പര്‍ കുപ്പികള്‍, സ്റ്റോപ് വാച്ച്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Intrductionsc1">
+	<TEXT ID="Intrductionsc1_one">
+		<TEXTVALUE>ഒരു പ്ലാസ്റ്റിക് പിപ്പെറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="casteroil">
+	<TEXT ID="casteroil_one">
+		<TEXTVALUE>പിപ്പെറ്റ് ഉപയോഗിച്ച്  5 ml ആവണക്കെണ്ണ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Abottlepoured">
+	<TEXT ID="Abottlepoured_one">
+		<TEXTVALUE>A എന്ന് ലേബല്‍ ചെയ്ത കുപ്പിയിലേക്ക് ആ എണ്ണ പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="wastetip">
+	<TEXT ID="wastetip_one">
+		<TEXTVALUE>ഉപയോഗിച്ച പിപ്പെറ്റ് ഉപേക്ഷിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pipette">
+		<TEXTVALUE>വേസ്റ്റ് പിപ്പെറ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2pipet">
+	<TEXT ID="2pipet_one">
+		<TEXTVALUE>ഒരു പുതിയ പിപ്പെറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseed">
+	<TEXT ID="cottonseed_one">
+		<TEXTVALUE>പിപ്പെറ്റ് ഉപയോഗിച്ച്  5 ml പരുത്തിക്കുരു എണ്ണ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="AbottlepouredB">
+	<TEXT ID="AbottlepouredB_one">
+		<TEXTVALUE>B എന്ന് ലേബല്‍ ചെയ്ത കുപ്പിയിലേക്ക് ആ എണ്ണ പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Abottlepouredall">
+	<TEXT ID="Abottlepouredall_one">
+		<TEXTVALUE>ഇതുപോലെ 5 ml വെളിച്ചണ്ണ C കുപ്പിയിലും മണ്ണെണ്ണ D കുപ്പിയിലും കടുകെണ്ണ E കുപ്പിയിലും എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring">
+	<TEXT ID="measuring_one">
+		<TEXTVALUE>50 ml സ്വേദിത ജലം അളവുപാത്രത്തില്‍ അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour">
+	<TEXT ID="waterpour_one">
+		<TEXTVALUE>50 ml സ്വേദിത ജലം അളവുപാത്രത്തില്‍ അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour_two">
+		<TEXTVALUE>ഇത് A കുപ്പിയിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>ഇതുപോലെ 50 ml സ്വേദിത ജലം അളന്നെടുത്ത് C, D, E കുപ്പികളിലേക്കും പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour2">
+	<TEXT ID="waterpour2_one">
+		<TEXTVALUE>ഇതുപോലെ 50 ml സ്വേദിത ജലം അളന്നെടുത്ത് C, D, E കുപ്പികളിലേക്കും പകരുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour2_two">
+		<TEXTVALUE>ഇത് B കുപ്പിയിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="allbottles">
+	<TEXT ID="allbottles_one">
+		<TEXTVALUE>ഇതുപോലെ 50 ml സ്വേദിത ജലം അളന്നെടുത്ത് C, D, E കുപ്പികളിലേക്കും പകരുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="allbottles_two">
+		<TEXTVALUE>സ്റ്റോപ്പര്‍ കുപ്പി A എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="allbottles1">
+	<TEXT ID="allbottles1_one">
+		<TEXTVALUE>ഒരു മിനിറ്റ് അത് ശക്തിയായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="minute">
+		<TEXTVALUE>1 
+മിനിറ്റ് </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="stopwatchA">
+	<TEXT ID="stopwatchA_one">
+		<TEXTVALUE>പിന്നെ അത് നിവർത്തി വെച്ച് ഉടന്‍ സ്റ്റോപ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart1copy">
+	<TEXT ID="timeschart1copy_one">
+		<TEXTVALUE>രണ്ട് പാളികളും (എണ്ണയുടേയും ജലത്തിന്റേയും) വേർതിരിയാന്‍ എടുക്കുന്ന സമയം നോക്കി നിരീക്ഷണം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h1">
+		<TEXTVALUE>എണ്ണ കുപ്പികൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE>  സോപ്പ് ലായനി ഇല്ലാതെ രണ്ട് പാളികളും 
+			വേർതിരിയാന്‍ എടുക്കുന്ന സമയം [സെക്കന്റ്] </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val">
+		<TEXTVALUE>ആവണക്കെണ്ണ - A</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesB">
+	<TEXT ID="allbottlesB_one">
+		<TEXTVALUE>സ്റ്റോപ്പര്‍ കുപ്പി B എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottles1B">
+	<TEXT ID="allbottles1B_one">
+		<TEXTVALUE>ഒരു മിനിറ്റ് അത് ശക്തിയായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchB">
+	<TEXT ID="stopwatchB_one">
+		<TEXTVALUE> പിന്നെ അത് നിവർത്തി വെച്ച് ഉടന്‍ സ്റ്റോപ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart">
+	<TEXT ID="timeschart_one">
+		<TEXTVALUE>രണ്ട് പാളികളും (എണ്ണയുടേയും ജലത്തിന്റേയും) വേർതിരിയാന്‍ എടുക്കുന്ന സമയം നോക്കി നിരീക്ഷണം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_1">
+		<TEXTVALUE>പരുത്തിക്കുരു എണ്ണ -B</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_2">
+		<TEXTVALUE>വെളിച്ചെണ്ണ -C</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_3">
+		<TEXTVALUE>മണ്ണെണ്ണ -D</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_4">
+		<TEXTVALUE>കടുകെണ്ണ -E</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapsolution">
+	<TEXT ID="soapsolution_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് 1% സോപ്പ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapA">
+	<TEXT ID="soapA_one">
+		<TEXTVALUE>10 തുള്ളി സോപ്പ് ലായനി A കുപ്പിയില്‍ വീഴ്ത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>10 തുള്ളി</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapB">
+	<TEXT ID="soapB_one">
+		<TEXTVALUE>പിന്നീട് 10 തുള്ളി സോപ്പ് ലായനി B കുപ്പിയില്‍ വീഴ്ത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapall">
+	<TEXT ID="soapall_one">
+		<TEXTVALUE>അതുപോലെ 10 തുള്ളി വീതം സോപ്പ് ലായനി C, D,E കുപ്പികളിലും വീഴ്ത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapAshake">
+	<TEXT ID="soapAshake_one">
+		<TEXTVALUE>A കുപ്പിയെടുത്ത് ഒരു മിനിറ്റ് അത് ശക്തിയായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchAsoap">
+	<TEXT ID="stopwatchAsoap_one">
+		<TEXTVALUE>അതിനുശേഷം അത് നിവർത്തിവെച്ച് ഉടന്‍ സ്റ്റോപ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapA">
+	<TEXT ID="timeschartsoapA_one">
+		<TEXTVALUE>രണ്ട് പാളികളും വേർതിരിയാന്‍ എടുക്കുന്ന സമയം നോക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>   സോപ്പ് ലായനിയിൽ രണ്ട് പാളികളും 
+			വേർതിരിയാന്‍ എടുക്കുന്ന സമയം [സെക്കന്റ്].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesBsoap">
+	<TEXT ID="allbottlesBsoap_one">
+		<TEXTVALUE>B എന്ന് ലേബല്‍ ചെയ്ത കുപ്പി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="shakeBsoap">
+	<TEXT ID="shakeBsoap_one">
+		<TEXTVALUE>ഒരു മിനിറ്റ് അത് ശക്തിയായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchBsoap">
+	<TEXT ID="stopwatchBsoap_one">
+		<TEXTVALUE>പിന്നെ അത് നിവർത്തി വെച്ച് ഉടന്‍ സ്റ്റോപ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapAcopy">
+	<TEXT ID="line_1">
+		<TEXTVALUE>•എമൽഷനില്‍ നിന്നും വേർപെടാന്‍ ഏറ്റവും അധികം സമയം എടുക്കുന്ന എണ്ണ - കടുകെണ്ണ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_2">
+		<TEXTVALUE>•എമൽഷനില്‍ നിന്നും വേർപെടാന്‍ ഏറ്റവും കുറഞ്ഞ സമയം എടുക്കുന്ന എണ്ണ - മണ്ണെണ്ണ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_3">
+		<TEXTVALUE>•ഏണ്ണകളുടെ സ്ഥായിത്വം അഥവാ ദൃഢത അവരോഹണ ക്രമത്തില്‍: കടുകെണ്ണ:</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_4">
+		<TEXTVALUE>കടുകെണ്ണ> വെളിച്ചെണ്ണ> പരുത്തിക്കുരു എണ്ണ> ആവണക്കെണ്ണ> മണ്ണെണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>പുറകോട്ട്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_one">
+		<TEXTVALUE>രണ്ട് പാളികളും വേർതിരിയാന്‍ എടുക്കുന്ന സമയം ശ്രദ്ധിക്കുക. ഇതുപോലെ C, D, E കുപ്പികളിലും രണ്ട് പാളികളും വേർതിരിയാന്‍ എടുക്കുന്ന സമയം ശ്രദ്ധിച്ച് നോക്കി നിരീക്ഷണം രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_two">
+		<TEXTVALUE>•എമൽഷനില്‍ നിന്നും വേർപെടാന്‍ ഏറ്റവും അധികം സമയം എടുക്കുന്നത് കടുകെണ്ണയും ഏറ്റവും കുറഞ്ഞ സമയം എടുക്കുന്നത് മണ്ണെണ്ണയാണെന്നും ഈ നിരീക്ഷണത്തിൽ നിന്നും വ്യക്തമായി.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_three">
+		<TEXTVALUE>ഈ എണ്ണകളുടെ സ്ഥായിത്വം അഥവാ ദൃഢത അവരോഹണ ക്രമത്തില്‍: കടുകെണ്ണ> വെളിച്ചെണ്ണ> പരുത്തിക്കുരു എണ്ണ> ആവണക്കെണ്ണ> മണ്ണെണ്ണ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

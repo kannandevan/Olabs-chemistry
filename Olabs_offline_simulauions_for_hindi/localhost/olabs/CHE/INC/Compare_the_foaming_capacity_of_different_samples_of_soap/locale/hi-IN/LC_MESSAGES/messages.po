@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:50+0530\n"
+"PO-Revision-Date: 2025-10-07 12:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "सहायता"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "विकसित किया गया अमृता विश्वविद्यालय द्वारा <br> वित्त पोषण: इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय || <br> शिक्षा मंत्रालय, भारत सरकार"
+
+msgid "Percentage of Pollen Germination"
+msgstr "पराग अंकुरण का प्रतिशत"
+
+msgid "Compare the foaming capacity of different samples of soap"
+msgstr "साबुन के विभिन्न नमूनों की झाग बनाने की क्षमता की तुलना करें"
+
+msgid "The different samples have different foaming <br>capacity and the soap with highest foaming <br>capacity have high cleansing capacity."
+msgstr "विभिन्न नमूनों में झाग बनाने की क्षमता <br>अलग-अलग होती है और सबसे अधिक झाग <br>बनाने की क्षमता वाले साबुन की सफाई क्षमता अधिक होती है।"
+
+msgid "Click on the soap to select"
+msgstr "चयन करने के लिए साबुन पर क्लिक करें"
+
+msgid "Drag and drop the filter paper to the weighing balance"
+msgstr "फ़िल्टर पेपर को तौलने वाले संतुलन (तौलने का संतुलन) पर खींचें और छोड़ें"
+
+msgid "Click on the tare button"
+msgstr "टेयर बटन पर क्लिक करें"
+
+msgid "Drag and drop the soap to the weighing balance"
+msgstr "साबुन को तौलने वाले संतुलन पर खींचें और छोड़ें"
+
+msgid "Drag and drop the soap into the beaker"
+msgstr "साबुन को बीकर में खींचें और छोड़ें"
+
+msgid "Click on the rod for mixing soap into the water"
+msgstr "पानी में साबुन घोलने के लिए छड़ पर क्लिक करें"
+
+msgid "Click on the soap solution to select"
+msgstr "चयन करने के लिए साबुन के घोल पर क्लिक करें"
+
+msgid "Drag and drop the filler into the beaker"
+msgstr "फिलर को बीकर में खींचें और छोड़ें"
+
+msgid "Drag and drop the dropper into the test tube"
+msgstr "ड्रॉपर को परखनली (test tube) में खींचें और छोड़ें"
+
+msgid "Drag the testube and drop it into the visible area"
+msgstr "परखनली को खींचें और दृश्यमान क्षेत्र में छोड़ें"
+
+msgid "Click the testube and<br> measure the height of the foam"
+msgstr "परखनली पर क्लिक करें और<br> झाग की ऊंचाई मापें"
+
+msgid "Click on the Reset button to <br> do the experiment again"
+msgstr "प्रयोग को फिर से करने के लिए <br> रीसेट बटन पर क्लिक करें"
+
+msgid "Click on the Next button to <br> go to next screen"
+msgstr "अगली स्क्रीन पर जाने के लिए <br> अगला बटन पर क्लिक करें"
+
+msgid "Water"
+msgstr "पानी"
+
+msgid "Soap Solution"
+msgstr "साबुन का घोल"
+
+msgid "NEXT"
+msgstr "अगला"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Select the soap"
+msgstr "साबुन चुनें"
+
+msgid "Select the solution"
+msgstr "विलयन (Solution) चुनें"
+
+msgid "Soap A"
+msgstr "साबुन A"
+
+msgid "Soap B"
+msgstr "साबुन B"
+
+msgid "Soap C"
+msgstr "साबुन C"
+
+msgid "Soap D"
+msgstr "साबुन D"
+
+msgid "Solution A"
+msgstr "विलयन A"
+
+msgid "Solution B"
+msgstr "विलयन B"
+
+msgid "Solution C"
+msgstr "विलयन C"
+
+msgid "Solution D"
+msgstr "विलयन D"
+
+msgid "Reset"
+msgstr "रीसेट करें"
+
+msgid "Click on the inference button"
+msgstr "निष्कर्ष बटन पर क्लिक करें"
+

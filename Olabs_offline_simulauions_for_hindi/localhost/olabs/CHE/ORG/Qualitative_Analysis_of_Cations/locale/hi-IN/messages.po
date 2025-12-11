@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2015-03-21 10:46+0530\n"
+"PO-Revision-Date: 2016-05-20 12:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:81
+msgid "Qualitative Analysis of Cations"
+msgstr " धनायनों का गुणात्मक विश्लेषण"
+
+#: simcontrols_main.js:82
+msgid "HELP"
+msgstr "मदद"
+
+#: simcontrols_main.js:83
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols_main.js:84
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols_main.js:85
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols_main.js:101
+msgid "Salt solution"
+msgstr "लवण का विलयन"
+
+#: simcontrols_main.js:104
+msgid "Colour test"
+msgstr "रंग परीक्षण"
+
+#: simcontrols_main.js:104
+msgid "Smell test"
+msgstr "गंध परीक्षण"
+
+#: simcontrols_main.js:104
+msgid "Dry heating test"
+msgstr "शुष्क उष्मन परीक्षण"
+
+#: simcontrols_main.js:104
+msgid "Charcoal cavity test"
+msgstr "चारकोल गुहा परीक्षण"
+
+#: simcontrols_main.js:104
+msgid "Cobalt nitrate test"
+msgstr "कोबाल्ट नाइट्रेट परीक्षण"
+
+#: simcontrols_main.js:104 simcontrols_main.js:119 simcontrols_main.js:120 simcontrols_main.js:121
+msgid "Flame test"
+msgstr "लौ परीक्षण"
+
+#: simcontrols_main.js:104 simcontrols_main.js:118
+msgid "Borax bead test"
+msgstr "बोरेक्स बीड परीक्षण"
+
+#: simcontrols_main.js:106 simcontrols_main.js:110 simcontrols_main.js:111
+msgid "--Select--"
+msgstr "--चुनें--"
+
+#: simcontrols_main.js:106
+msgid "Group zero"
+msgstr "समूह शून्य"
+
+#: simcontrols_main.js:106
+msgid "Group I"
+msgstr "समूह I"
+
+#: simcontrols_main.js:106
+msgid "Group II"
+msgstr "समूह II"
+
+#: simcontrols_main.js:106
+msgid "Group III"
+msgstr "समूह III"
+
+#: simcontrols_main.js:106
+msgid "Group IV"
+msgstr "समूह IV"
+
+#: simcontrols_main.js:106
+msgid "Group V"
+msgstr "समूह V"
+
+#: simcontrols_main.js:106
+msgid "Group VI"
+msgstr "समूह VI"
+
+#: simcontrols_main.js:108
+msgid "Select preliminary test:"
+msgstr "प्रारंभिक परीक्षण का चयन करें:"
+
+#: simcontrols_main.js:108
+msgid "Select group analysis:"
+msgstr "समूह विश्लेषण का चयन करें:"
+
+#: simcontrols_main.js:108
+msgid "Select the cation:"
+msgstr "धनायन का चयन करें:"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111 simcontrols_main.js:276 simcontrols_main.js:282
+#: simcontrols_main.js:296 simcontrols_main.js:306 simcontrols_main.js:320
+msgid "Ammonium"
+msgstr "अमोनियम"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Lead(II)"
+msgstr "लेड (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Copper(II)"
+msgstr "कॉपर (II)"
+
+#: simcontrols_main.js:110
+msgid "Arsenic"
+msgstr "आर्सेनिक"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Iron(III)"
+msgstr "आयरन (III)"
+
+#: simcontrols_main.js:110
+msgid "Aluminum"
+msgstr "अल्युमीनियम"
+
+#: simcontrols_main.js:110
+msgid "Cobalt"
+msgstr "कोबाल्ट"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Nickel(ll)"
+msgstr "निकल (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Manganese(II)"
+msgstr "मैंगनीज (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Zinc (II)"
+msgstr "जिंक (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Barium"
+msgstr "बेरियम"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Strontium"
+msgstr "स्ट्रांटियम"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Calcium"
+msgstr "कैल्शियम"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Magnesium"
+msgstr "मैग्नीशियम"
+
+#: simcontrols_main.js:111
+msgid "Arsenic (III)"
+msgstr "आर्सेनिक (III)"
+
+#: simcontrols_main.js:111
+msgid "Aluminum (III)"
+msgstr "अल्यूमिनियम (III)"
+
+#: simcontrols_main.js:111
+msgid "Cobalt (II)"
+msgstr "कोबाल्ट (II)"
+
+#: simcontrols_main.js:112
+msgid "Select the confirmatory test:"
+msgstr " पुष्टिकारी परीक्षण का चयन करें:"
+
+#: simcontrols_main.js:114
+msgid "Sodium Hydroxide test"
+msgstr "सोडियम हाइड्रोक्साइड परीक्षण"
+
+#: simcontrols_main.js:114
+msgid "Nessler's Reagent test"
+msgstr "नेस्सलर अभिकर्मक परीक्षण"
+
+#: simcontrols_main.js:115
+msgid "Cool the solution"
+msgstr "विलयन ठंडा करें"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:180
+msgid "Potassium iodide test"
+msgstr "पोटेशियम आयोडाइड परीक्षण"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:119 simcontrols_main.js:183
+msgid "Potassium chromate test"
+msgstr "पोटेशियम क्रोमेट परीक्षण"
+
+#: simcontrols_main.js:116 simcontrols_main.js:117 simcontrols_main.js:118 simcontrols_main.js:191
+msgid "Potassium ferrocyanide test"
+msgstr "पोटेशियम फेरोसायनाइड परीक्षण"
+
+#: simcontrols_main.js:116
+msgid "Ammonium molybdate test"
+msgstr "अमोनियम मालीब्डेट परीक्षण"
+
+#: simcontrols_main.js:116
+msgid "Magnesia mixture test"
+msgstr "मैग्नीशिया मिश्रण परीक्षण"
+
+#: simcontrols_main.js:117
+msgid "Potassium sulphocyanide test"
+msgstr "पोटेशियम सल्फोसायनाइड परीक्षण"
+
+#: simcontrols_main.js:117
+msgid "Lake test"
+msgstr "झील परीक्षण"
+
+#: simcontrols_main.js:117
+msgid "Cobalt nitrate/Charcoal cavity test"
+msgstr "कोबाल्ट नाइट्रेट / चारकोल गुहा परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Potassium nitrite test"
+msgstr "पोटेशियम नाइट्राइट परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Ammonium thiocyanate ether test"
+msgstr "अमोनियम थायोसायनेट ईथर परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Dimethyl glyoxime test"
+msgstr "डाइमिथाइल ग्लायोजाइम परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Sodium hydroxide-Br"
+msgstr "सोडियम हाइड्रॉक्साइड-BR"
+
+#: simcontrols_main.js:118
+msgid "test"
+msgstr "परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Lead peroxide test"
+msgstr "लेड पेरोक्साइड परीक्षण"
+
+#: simcontrols_main.js:118 simcontrols_main.js:161
+msgid "Sodium hydroxide test"
+msgstr "सोडियम हाइड्रॉक्साइड परीक्षण"
+
+#: simcontrols_main.js:118
+msgid "Charcoal cavity /Cobalt nitrate test"
+msgstr "चारकोल गुहा / कोबाल्ट नाइट्रेट परीक्षण"
+
+#: simcontrols_main.js:120
+msgid "Ammonium sulphate test"
+msgstr "अमोनियम सल्फेट परीक्षण"
+
+#: simcontrols_main.js:121
+msgid "Ammonium oxalate test"
+msgstr "अमोनियम आक्जालेट परीक्षण"
+
+#: simcontrols_main.js:122
+msgid "Ammonium Phosphate test"
+msgstr "अमोनियम फास्फेट परीक्षण"
+
+#: simcontrols_main.js:122
+msgid "Charcoal cavity/Cobalt nitrate test"
+msgstr "चारकोल गुहा / कोबाल्ट नाइट्रेट परीक्षण"
+
+#: simcontrols_main.js:130
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols_main.js:140
+msgid "May be "
+msgstr "शायद"
+
+#: simcontrols_main.js:141
+msgid " is present."
+msgstr "उपस्थित है।"
+
+#: simcontrols_main.js:142 simcontrols_main.js:146
+msgid "NH<sub>4</sub><sup>+</sup>"
+msgstr "NH<sub>4</sub><sup>+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151 simcontrols_main.js:156
+msgid "Pb<sup>2+</sup>"
+msgstr "Pb<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Cu<sup>2+</sup>"
+msgstr "Cu<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "As<sup>3+</sup>"
+msgstr "As<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Fe<sup>3+</sup>"
+msgstr "Fe<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Al<sup>3+</sup>"
+msgstr "Al<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Co<sup>2+</sup>"
+msgstr "Co<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Ni<sup>2+</sup>"
+msgstr "Ni<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mn<sup>2+</sup>"
+msgstr "Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151
+msgid "Zn<sup>2+</sup>"
+msgstr "Zn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ba<sup>2+</sup>"
+msgstr "Ba<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Sr<sup>2+</sup>"
+msgstr "Sr<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ca<sup>2+</sup>"
+msgstr "Ca<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mg<sup>2+</sup>"
+msgstr "Mg<sup>2+</sup>"
+
+#: simcontrols_main.js:144
+msgid "Note down the color of original salt."
+msgstr "मूल लवण का रंग नोट करें।"
+
+#: simcontrols_main.js:146 simcontrols_main.js:151
+msgid "Ammonical smell"
+msgstr "अमोनियामय गंध"
+
+#: simcontrols_main.js:146
+msgid "There is no smell."
+msgstr "कोई गंध नहीं"
+
+#: simcontrols_main.js:147 simcontrols_main.js:150 simcontrols_main.js:162 simcontrols_main.js:166
+msgid "Original salt"
+msgstr "मूल लवण"
+
+#: simcontrols_main.js:147 simcontrols_main.js:177 simcontrols_main.js:186 simcontrols_main.js:201
+msgid "Water"
+msgstr "पानी"
+
+#: simcontrols_main.js:147
+msgid "Hand"
+msgstr "हाथ"
+
+#: simcontrols_main.js:148
+msgid "Drag the original salt towards the watch glass<br>to put it into the watch glass."
+msgstr " वॉच ग्लास में डालने <br> के लिए वॉच ग्लास की ओर मूल लवण खींचें।"
+
+#: simcontrols_main.js:148
+msgid "Drag the dropper towards the watch glass<br>to drop water into the sample."
+msgstr "नमूने में पानी डालने के लिए वॉच ग्लास<br> की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:148
+msgid "Drag the hand towards the watch glass<br>to rub the pre-wetted salt with the fingers."
+msgstr "उंगलियों से पहले से गीला लवण रगड़ने के लिए वॉच ग्लास<br> की ओर हाथ खींच।"
+
+#: simcontrols_main.js:150 simcontrols_main.js:156
+msgid "There is no characteristic changes."
+msgstr "कोई विशेष बदलाव नहीं।"
+
+#: simcontrols_main.js:150
+msgid "There is no characteristic changes and try another test."
+msgstr "कोई विशेष बदलाव नहीं और एक और परीक्षण आजमाएं।"
+
+#: simcontrols_main.js:151
+msgid "due to the presence of Co<sup>2+</sup> or Cu<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr "Co<sup> 2 + </ sup> या Cu<sup> 2 + </ sup> या MN<sup> 2 + </ sup> की उपस्थिति के कारण"
+
+#: simcontrols_main.js:151
+msgid ""
+"due to the presence of Ba<sup>2+</sup> or Ca<sup>2+</sup> or Sr<sup>2+</sup> or Mg<sup>2+</sup> or Al<sup>2+</sup>"
+msgstr ""
+"Ba<sup> 2 + </ sup> या Ca<sup> 2 + </ sup> या Cr<sup> 2 + </ sup> या Mg<sup> 2 + </ sup> या Al<sup> 2 + </ sup> "
+"की उपस्थिति के कारण"
+
+#: simcontrols_main.js:152
+msgid "Drag the original salt towards the test tube<br>to put it into the test tube."
+msgstr "परखनली में डालने के लिए परखनली<br> की ओर मूल लवण खींचें।"
+
+#: simcontrols_main.js:152
+msgid "Click on the knob of the burner to turn it on<br>and observe the characteristic changes."
+msgstr "चालू <br> करने के लिए बर्नर की घुंडी पर क्लिक करें और विशेष बदलाव देखें।"
+
+#: simcontrols_main.js:154
+msgid "Drag the original salt towards the watch glass<br> to put it into the watch glass."
+msgstr "वॉच ग्लास में डालने के लिए वॉच ग्लास<br> की ओर मूल लवण खींचें ।"
+
+#: simcontrols_main.js:154
+msgid "Drag the dropper towards the watch glass to pour<br> concentrated Hydrochloric acid into the sample."
+msgstr "नमूने में सांद्रित हाइड्रोक्लोरिक अम्ल <br> डालने के लिए वॉच ग्लास की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:154
+msgid "Drag the glass rod towards the watch glass<br> and mix the contents well to make a paste."
+msgstr "वॉच ग्लास<br> की ओर कांच की छड़ खींचें और पेस्ट बनाने के लिए अच्छी तरह से सामग्री मिश्रित करें।  "
+
+#: simcontrols_main.js:154 simcontrols_main.js:164 simcontrols_main.js:168 simcontrols_main.js:178
+#: simcontrols_main.js:187 simcontrols_main.js:202 simcontrols_main.js:249 simcontrols_main.js:280
+#: simcontrols_main.js:304 simcontrols_main.js:309 simcontrols_main.js:313
+msgid "Click on the knob of the burner to turn it on."
+msgstr "चालू करने के लिए बर्नर की घुंडी पर क्लिक करें।"
+
+#: simcontrols_main.js:154
+msgid ""
+"Drag the platinum wire towards watch glass and dip it into<br>the paste and drag it again towards the Bunsen "
+"burner<br>and introduce it into the non-luminous flame."
+msgstr ""
+"वॉच ग्लास की ओर प्लैटिनम का तार खींचें और पेस्ट <br> में उसे डुबोएं और बुन्सेन बर्नर <br> की ओर इसे फिर से खींचें और गैर चमकदार लौ के "
+"संपर्क में इसे लाएं।"
+
+#: simcontrols_main.js:155
+msgid "Sample salt"
+msgstr "नमूना लवण"
+
+#: simcontrols_main.js:155
+msgid "Conc. HCl"
+msgstr "सान्द्र HCl"
+
+#: simcontrols_main.js:155 simcontrols_main.js:166 simcontrols_main.js:201 simcontrols_main.js:296
+msgid "Glass rod"
+msgstr "कांच की छड़"
+
+#: simcontrols_main.js:155 simcontrols_main.js:224
+msgid "Platinum wire"
+msgstr "प्लैटिनम का तार"
+
+#: simcontrols_main.js:155
+msgid "Non luminous flame "
+msgstr "गैर चमकदार लौ"
+
+#: simcontrols_main.js:156
+msgid "Zn<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr "Zn <sup> 2 + </ sup> या MN <sup> 2 + </ sup>"
+
+#: simcontrols_main.js:161
+msgid "Nessler's reagent test"
+msgstr "नेस्सलर अभिकर्मक परीक्षण"
+
+#: simcontrols_main.js:162 simcontrols_main.js:166
+msgid "Con.NaOH"
+msgstr "सांद्र NaOH\t"
+
+#: simcontrols_main.js:163
+msgid "Characteristic ammoniacal smell."
+msgstr "विशेष अमोनियामय गंध।"
+
+#: simcontrols_main.js:163 simcontrols_main.js:167
+msgid "There is no characteristic ammoniacal smell."
+msgstr "कोई विशेष अमोनियामय गंध नहीं है।"
+
+#: simcontrols_main.js:163
+msgid "Presence of group zero cation."
+msgstr "समूह शून्य धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:163 simcontrols_main.js:167 simcontrols_main.js:171
+msgid "Absence of group zero cation."
+msgstr "समूह शून्य धनायन का अभाव।"
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid "Drag the original salt towards the test tube<br>to drop it into the test tube."
+msgstr "परखनली में डालने के लिए परखनली <br> की ओर मूल लवण खींचें।"
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid "Drag the dropper towards the test tube<br>to drop NaOH into the test tube."
+msgstr "परखनली में NaOH डालने के लिए परखनली <br> की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:166 simcontrols_main.js:236 simcontrols_main.js:300
+msgid "Dil. HCl"
+msgstr "तनु HCl"
+
+#: simcontrols_main.js:167
+msgid "NH<sub>3</sub> gas is evolved"
+msgstr "NH<sub> 3 </ sub> गैस उत्पकन्न होती है"
+
+#: simcontrols_main.js:167
+msgid ""
+"The white fumes is due to the formation of NH<sub>4</sub>Cl.<br>Presence of NH<sub>4</sub><sup>+</sup> is "
+"confirmed."
+msgstr ""
+"श्वेत धूम्र NH <sub> 4 </ sub> Cl बनने की वजह से है । <br> NH<sub> 4 </ sub> <sup> + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:167
+msgid "The white fumes is due to the formation of NH<sub>4</sub>Cl."
+msgstr "श्वेत धूम्र NH <sub> 4 </ sub> Cl बनने की वजह से है ।"
+
+#: simcontrols_main.js:168
+msgid ""
+"Drag the glass rod towards the bottle to<br>dip it in dil. HCl and drag it towards the test tube<br>to shown it "
+"over the mouth of the test tube."
+msgstr "तनु HCl में डुबोने <br> के लिए बोतल की ओर कांच की छड़ खींचें और परखनली के मुंह के ऊपर दर्शाई गई परखनली <br> की ओर इसे खींचें।"
+
+#: simcontrols_main.js:170
+msgid "Cork"
+msgstr "कॉर्क"
+
+#: simcontrols_main.js:170
+msgid "Delivery tube"
+msgstr "डिलीवरी ट्यूब"
+
+#: simcontrols_main.js:171
+msgid ""
+"The brown percipitate is due to the formation of<br> H<sub>2</sub>N.HgO.Hgl. Presence of NH<sub>4</sub><sup>+</"
+"sup> is confirmed."
+msgstr ""
+"भूरे रंग का तलछट <br> H <sub> 2 </ sub> N.HgO.Hgl बनने की वजह से है। NH<sub> 4 </ sub> <sup> + </ sup> की उपस्थिति की "
+"पुष्टि होती है।"
+
+#: simcontrols_main.js:172
+msgid "Drag the cork towards the test tube<br>to close the test tube."
+msgstr "परखनली बंद करने के लिए परखनली <br> की ओर कार्क खींचें।"
+
+#: simcontrols_main.js:172
+msgid "Drag the delivery tube towards the test tube<br>to insert it in the test tube."
+msgstr "परखनली में डालने के लिए परखनली <br> की ओर डिलीवरी ट्यूब खींचें।"
+
+#: simcontrols_main.js:174
+msgid "Group one test"
+msgstr "समूह एक परीक्षण"
+
+#: simcontrols_main.js:174
+msgid "Salt"
+msgstr "लवण"
+
+#: simcontrols_main.js:174 simcontrols_main.js:288 simcontrols_main.js:292
+msgid "solution"
+msgstr "विलयन"
+
+#: simcontrols_main.js:174 simcontrols_main.js:300 simcontrols_main.js:306
+msgid "Next"
+msgstr "अगला"
+
+#: simcontrols_main.js:174
+msgid "The white precipitate may due to the fomationo of PbCl<sub>2</sub>.<br>Presence of group I cation"
+msgstr "श्वेत तलछट PbCl <sub> 2 </ sub> बनने की वजह से हो सकता है। <br> समूह I धनायन की उपस्थिति"
+
+#: simcontrols_main.js:174
+msgid "White precipitate"
+msgstr "श्वेत तलछट"
+
+#: simcontrols_main.js:174
+msgid "Centrifuged and washed ppt."
+msgstr "केंद्रापसारी और धुला हुआ तलछट।"
+
+#: simcontrols_main.js:174
+msgid "There is no white precipitate.<br>Absence of group I cation."
+msgstr "कोई श्वेत तलछट नहीं। समूह I धनायन का <br> अभाव।"
+
+#: simcontrols_main.js:174
+msgid "There is no white  ppt."
+msgstr "कोई श्वेत तलछट नहीं।"
+
+#: simcontrols_main.js:175
+msgid "Drag the dropper towards the test tube to<br>drop the salt solution into the test tube."
+msgstr "परखनली में लवण का विलयन डालने <br>के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:175
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. HCl into the test tube and click on<br>the 'next' button "
+"to go to the next step."
+msgstr "परखनली में तनु HCl डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें और अगले चरण पर जाने के लिए <br> ‘अगला' बटन पर क्लिक करें।"
+
+#: simcontrols_main.js:177
+msgid "Cooling of solution"
+msgstr "विलयन का शीतलन"
+
+#: simcontrols_main.js:177
+msgid "Centrifuged and washed ppt. obtained from group I analysis."
+msgstr " समूह I विश्लेषण से प्राप्त केंद्रापसारी और धुला हुआ तलछट। ।"
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved. Drag and drop test tube toward the beaker"
+msgstr "तलछट घुल गया है। बीकर की ओर परखनली खींचें और छोड़ दें"
+
+#: simcontrols_main.js:177 simcontrols_main.js:180
+msgid "There is no characteristic changes"
+msgstr "कोई विशेष बदलाव नहीं "
+
+#: simcontrols_main.js:177
+msgid "On cooling precipitate settle down as PbCl<sub>2</sub>.<br>Presence of Pb<sup>2+</sup> ion is confirmed."
+msgstr ""
+"ठंडा करने पर, PbCl <sub> 2 </ sub> के रूप में तलछट नीचे बेठ जाता है। Pb<sup> 2 + </ sup> आयन की <br> उपस्थिति की पुष्टि होती "
+"है।"
+
+#: simcontrols_main.js:177
+msgid "Cold Water"
+msgstr "ठंडा पानी"
+
+#: simcontrols_main.js:177
+msgid "White crystalline precipitate"
+msgstr "श्वेत क्रिस्टलीय तलछट"
+
+#: simcontrols_main.js:177
+msgid "Drag, then release test tube"
+msgstr "खींचें, उसके बाद परखनली छोड़ दें"
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved."
+msgstr "तलछट घुल जाता है।"
+
+#: simcontrols_main.js:178
+msgid "Drag the dropper towards the test tube<br>to drop water into the test tube."
+msgstr "परखनली में पानी डालने के लिए परखनली <br> की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:178
+msgid ""
+"To cool the contents of the test tube, drag<br>the test tube towards the beaker and place it in<br>the beaker "
+"containing cold water."
+msgstr "परखनली की सामग्री ठंडी करने के लिए बीकर की ओर <br> परखनली खींचें और इसे ठंडे पानी से युक्त <br> बीकर में रखें।"
+
+#: simcontrols_main.js:180
+msgid "KI"
+msgstr "KI"
+
+#: simcontrols_main.js:180
+msgid "Potassium Iodide"
+msgstr "पोटैशियम आयोडाइड"
+
+#: simcontrols_main.js:180
+msgid "Yellow precipitate"
+msgstr "पीला तलछट"
+
+#: simcontrols_main.js:180
+msgid "Yellow precipitate is due to the formation of PbI<sub>2</sub>.<br>Presence of Pb<sup>2+</sup> ion."
+msgstr "पीला तलछट PBI <sub> 2 </ sub> बनने की वजह से है। <br> Pb <sup> 2 + </ sup> आयन की उपस्थिति।"
+
+#: simcontrols_main.js:180
+msgid "There is no characteristic changes. Absence of Pb<sup>2+</sup> ion."
+msgstr "कोई विशेष बदलाव नहीं। Pb <sup> 2 + </ sup> आयन की अनुपस्थिति ।"
+
+#: simcontrols_main.js:181
+msgid "Drag the dropper towards the test tube to drop<br>potassium iodide solution into the test tube."
+msgstr "परखनली में <br> पोटेशियम आयोडाइड का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:183 simcontrols_main.js:189
+msgid "K<sub>2</sub>CrO<sub>4</sub>"
+msgstr "K<sub>2</sub>CrO<sub>4</sub>"
+
+#: simcontrols_main.js:183 simcontrols_main.js:189 simcontrols_main.js:288
+msgid "Potassium chromate"
+msgstr " पोटेशियम क्रोमेट"
+
+#: simcontrols_main.js:183
+msgid "Yellow precipitate is due to the formation of PbCrO<sub>4</sup>.<br>Presence of Pb<sup>2+</sup> ion."
+msgstr "पीला तलछट PbCrO <sub>4</sup>.बनने  की वजह से है। <br> Pb <sup> 2 + </ sup> आयन की उपस्थिति।"
+
+#: simcontrols_main.js:184
+msgid "Drag the dropper towards the test tube to drop,br>potassium chromate solution into the test tube."
+msgstr "परखनली में br> पोटेशियम क्रोमेट का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें"
+
+#: simcontrols_main.js:186
+msgid "50%HNO<sub>3</sub>"
+msgstr "50%HNO<sub>3</sub>"
+
+#: simcontrols_main.js:186
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "तनु H <sub> 2 </ sub> SO <sub> 4 </ sub>"
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>5</sub>OH"
+msgstr "C<sub>2</sub>H<sub>5</sub>OH"
+
+#: simcontrols_main.js:186
+msgid "Black precipitate formed during group II test"
+msgstr "समूह II परीक्षण के दौरान बना काला तलछट "
+
+#: simcontrols_main.js:186
+msgid ""
+"Black precipitate dissolves in 50% HNO<sub>3</sub> either due to the <br>formation of Pb(NO<sub>3</sub>)<sub>2</"
+"sub> or due to the formation of Cu(NO<sub>3</sub>)<sub>2</sub>"
+msgstr ""
+"या तो Pb(NO<sub>3</sub>)<sub>2</sub> बनने की वजह से या Cu(NO<sub>3</sub>)<sub>2</sub> बनने की वजह से काला तलछट 50% "
+"HNO  में घुल जाता है"
+
+#: simcontrols_main.js:186
+msgid "On adding H<sub>2</sub>SO<sub>4</sub>, white precipitate of<br> lead sulphate, PbSO<sub>4</sub> is formed"
+msgstr " H<sub>2</sub>SO<sub>4</sub>मिलाने पर, <br> लेड सल्फेट का श्वेत तलछट, PbSO <sub> 4 </ sub> बनता है"
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+msgstr "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+
+#: simcontrols_main.js:186
+msgid "Ammonium acetate"
+msgstr "अमोनियम एसीटेट"
+
+#: simcontrols_main.js:186
+msgid "Kl"
+msgstr "Kl"
+
+#: simcontrols_main.js:186
+msgid "Potassium iodide"
+msgstr "पोटैशियम आयोडाइड"
+
+#: simcontrols_main.js:186
+msgid ""
+"Yellow precipitate is due to the formation of<br> Lead iodide, PbI<sub>2</sub>. Presence of Pb<sup>2+</sup> is "
+"confirmed"
+msgstr ""
+"पीला तलछट <br> लेड आयोडाइड, PBI <sub> 2 </ sub> बनने की वजह से है। Pb <sup> 2 + </ sup> की उपस्थिति की पुष्टि होती है"
+
+#: simcontrols_main.js:186
+msgid "On adding H<sub>2</sub>SO<sub>4</sub>, there is a white precipitate"
+msgstr "H <sub> 2 </ sub> SO <sub> 4 </ sub> मिलाने पर,  श्वेत तलछट बनता है"
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate formed during group II test"
+msgstr "समूह II परीक्षण के दौरान बना पीला तलछट"
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "पीला तलछट 50% HNO <sub> 3 </ sub> में घुल जाता है"
+
+#: simcontrols_main.js:186
+msgid "Precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "तलछट 50% HNO <sub> 3 </ sub> में घुल जाता है"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube<br>to drop  50% HNO3 into the test tube."
+msgstr "परखनली में 50% HNO3 डालने के लिए परखनली <br> की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub></sub> into the test tube."
+msgstr "परखनली में तनु H<sub>2</sub>SO<sub></sub> डालनें<br> के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to drop<br>C2H5OH (ethyl alcohol) into the test tube."
+msgstr "परखनली में C2H5OH (इथाइल अल्कोहल) डालने<br>  के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium acetate into the test tube. "
+msgstr "परखनली में अमोनियम एसीटेट डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop potassium iodide into the test tube."
+msgstr "परखनली में पोटेशियम आयोडाइड डालने<br>  के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the test tube towards the beaker to<br>place it in the beaker containing water."
+msgstr "जल युक्त बीकर में परखनली रखने <br>  के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium acetate into the test tube."
+msgstr "परखनली में अमोनियम एसीटेट डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to drop<br>potassium chromate solution into the test tube."
+msgstr "परखनली में पोटेशियम क्रोमेट का विलयन डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचे।"
+
+#: simcontrols_main.js:187 simcontrols_main.js:249
+msgid "Drag the dropper towards the test tube to<br>drop NaOH into the test tube."
+msgstr "परखनली में NaOH डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचे।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium hydroxide into the test tube."
+msgstr "परखनली में अमोनियम हाइड्रॉक्साइड डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचे।"
+
+#: simcontrols_main.js:187 simcontrols_main.js:269
+msgid "Drag the dropper towards the test tube to<br>drop acetic acid into the test tube."
+msgstr "परखनली में एसिटिक अम्ल डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचे।"
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop potassium ferrocyanide into the test tube."
+msgstr "परखनली में पोटेशियम फेरोसायनाइड डालने <br>  के लिए परखनली की ओर ड्रॉपर खींचे।"
+
+#: simcontrols_main.js:189
+msgid "Sodium hydroxide"
+msgstr "सोडियम हाइड्रॉक्साइड"
+
+#: simcontrols_main.js:189 simcontrols_main.js:245
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols_main.js:189
+msgid "Yellow precipitate is due to the formation of lead chromate.<br>Presence of Pb<sup>2+</sup> is confirmed."
+msgstr "पीला तलछट लेड क्रोमेट बनने की वजह से है। <br> Pb <sup> 2 + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:189
+msgid ""
+"White precipitate formed is Cu<sub>2</sub>I<sub>2</sub>. Brown colour of the solution is<br> due to the formation "
+"of iodine. Presence of Cu<sup>2+</sup> is confirmed."
+msgstr ""
+"बनने वाला श्वेत तलछट Cu <sub> 2 </ sub> I<sub> 2 </ sub>है। विलयन का भूरा रंग आयोडीन बनने की वजह से <br> है। Cu <sup> 2 + "
+"</ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:191 simcontrols_main.js:253 simcontrols_main.js:282 simcontrols_main.js:306
+#: simcontrols_main.js:320
+msgid "NH<sub>4</sub>OH"
+msgstr "NH<sub>4</sub>OH"
+
+#: simcontrols_main.js:191 simcontrols_main.js:264
+msgid "Ammonium hydroxide"
+msgstr "अमोनियम हाइड्रॉक्साइड"
+
+#: simcontrols_main.js:191 simcontrols_main.js:265
+msgid "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+msgstr "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:266
+msgid "Acetic acid"
+msgstr "एसीटिक अम्ल"
+
+#: simcontrols_main.js:191
+msgid "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+msgstr "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:237
+msgid "Potassium ferrocyanide"
+msgstr "पोटेशियम फेरोसायनाइड"
+
+#: simcontrols_main.js:191
+msgid ""
+"The blue coloured solution of [Cu(NH<sub>3</sub>)<sub>4</sub>][NO<sub>3</sub>]<sub>2</sub> is formed by<br>the "
+"reaction betweenCu(NO<sub>3</sub>)<sub>2</sub> and NH<sub>4</sub>OH."
+msgstr ""
+"Cu(NO<sub>3</sub>)<sub>2</sub> और NH<sub>4</sub>OH के बीच अभिक्रिया होने<br>  से[Cu(NH<sub>3</sub>)<sub>4</sub>]"
+"[NO<sub>3</sub>]<sub>2</sub> का नीले रंग का विलयन बनता है"
+
+#: simcontrols_main.js:191
+msgid ""
+"The chocolate brown precipitate is due to the formation of<br>Cu<sub>2</sub>[Fe(CN)<sub>6</sub>].Presence of "
+"Cu<sup>2+</sup> is confirmed."
+msgstr ""
+"चॉकलेट ब्राउन तलछट <br>Cu<sub>2</sub>[Fe(CN)<sub>6</sub> बनने की वजह से है।Cu <sup> 2 + </ sup> की उपस्थिति की पुष्टि "
+"होती है।"
+
+#: simcontrols_main.js:201
+msgid "Sodium carbonate"
+msgstr "सोडियम कार्बोनेट"
+
+#: simcontrols_main.js:201
+msgid "Charcoal box "
+msgstr "चारकोल का डिब्बा"
+
+#: simcontrols_main.js:201
+msgid "Blow pipe"
+msgstr "फूंकने वाली पाइप"
+
+#: simcontrols_main.js:201
+msgid "Tongs"
+msgstr "चिमटा"
+
+#: simcontrols_main.js:201
+msgid "NEXT STEP"
+msgstr "अगला चरण"
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the watch glass to add <br>sodium carbonate into the original salt."
+msgstr "मूल लवण में सोडियम कार्बोनेट <br> मिलाने के लिए वॉच ग्ला‍स की ओर स्पै‍चुला खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the glass rod towards the watch glass to mix<br> the contents of the watch glass."
+msgstr "वॉच ग्लास की सामग्री <br> मिलाने के लिए वॉच ग्ला‍स की ओर कांच की छड़ खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the charcoal box near the watch glass <br>to place it in the canvas area."
+msgstr "कैनवास क्षेत्र में रखने के लिए वॉच ग्ला‍स<br>के पास चारकोल का डिब्बा खींचें ।"
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the watch glass to take the mixture."
+msgstr "मिश्रण लेने के लिए वॉच ग्ला‍स की ओर स्पै चुला खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the charcoal box <br>to put the mixture in the cavity."
+msgstr "गुहा में मिश्रण डालने के लिए चारकोल के डिब्बे <br> की ओर स्पैचुला खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the bottle towards the charcoal box to <br>add water into the mixture."
+msgstr "मिश्रण में पानी मिलाने <br> के लिए चारकोल के डिब्बे की ओर बोतल खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Click on the air adjusting disc to close<br> the air hole to get the reducing flame."
+msgstr "अपचयन करने वाली लौ प्राप्त करने के लिए वात छिद्र <br> बंद करने के लिए हवा का समायोजन करने वाली डिस्क पर क्लिक करें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the charcoal box to hold the box."
+msgstr "डिब्बा पकड़ने के लिए चारकोल के डिब्बे की ओर चिमटा खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the burner  to place <br>the charcoal box near the flame."
+msgstr "लौ के पास चारकोल का डिब्बा <br> रखने के लिए बर्नर की ओर चिमटा खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the blow pipe towards the burner to direct <br>the reducing flame and heat the mixture."
+msgstr "अपचयन करने वाली लौ <br> को निर्देशित करने और मिश्रण गर्म करने के लिए बर्नर की ओर फूंकने वाली पाइप खींचें।"
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the watch glass to place back <br>the charcoal box to cool the residue."
+msgstr "अवशिष्ट ठंडा करने के लिए चारकोल का डिब्बा <br> वापस रखने के लिए वॉच ग्ला‍स की ओर चिमटा खींचें।"
+
+#: simcontrols_main.js:203
+msgid "Oxidising flame."
+msgstr "ऑक्सीकरण करने वाली लौ।"
+
+#: simcontrols_main.js:204
+msgid "Reducing flame."
+msgstr "अपचयन करने वाली लौ।"
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on heating."
+msgstr "गर्म करने पर पीला अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "White residue formed on cooling."
+msgstr "ठंडा करने पर श्वेत अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "Brown residue formed on heating."
+msgstr "गर्म करने पर भूरा अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on cooling."
+msgstr "ठंडा करने पर पीला अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "White residue formed on heating."
+msgstr "गर्म करने पर श्वेत अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "Green residue formed on heating."
+msgstr "गर्म करने पर हरा अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "Pink residue formed on heating."
+msgstr "गर्म करने पर गुलाबी अवशिष्ट बना।"
+
+#: simcontrols_main.js:205
+msgid "Blue residue formed on heating."
+msgstr "गर्म करने पर नीला अवशिष्ट बना।"
+
+#: simcontrols_main.js:206
+msgid "Light blue residue formed on heating."
+msgstr "गर्म करने पर हल्का नीला अवशिष्ट बना।"
+
+#: simcontrols_main.js:207
+msgid "May be Zn<sup>2+</sup> is present."
+msgstr "शायद Zn <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:208
+msgid "May be Pb<sup>2+</sup> is present."
+msgstr "शायद Pb <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:209
+msgid "May be due to the presence of Ba<sup>2+</sup> or <br> Ca<sup>2+</sup> or Mg<sup>2+</sup>."
+msgstr "शायद Ba <sup> 2 + </ sup> या Ca<br> <sup> 2 + </ sup> या Mg<sup> 2 + </ sup>की उपस्थिति के कारण।"
+
+#: simcontrols_main.js:210
+msgid "White residue with the odour of garlic formed on heating."
+msgstr "गर्म करने पर लहसुन की गंध वाला श्वेत अवशिष्ट बना।"
+
+#: simcontrols_main.js:211
+msgid "Red residue formed on heating."
+msgstr "गर्म करने पर लाल अवशिष्ट बना।"
+
+#: simcontrols_main.js:212
+msgid "White residue formed on cooling.May be As<sup>3+</sup> is present."
+msgstr "ठंडा करने पर श्वेत अवशिष्ट बना। शायद <sup> 3 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:213
+msgid "Red residue formed on cooling.May be Cu<sup>2+</sup> is present."
+msgstr "ठंडा करने पर लाल अवशिष्ट बना। शायद Cu <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:214
+msgid "No characteristic change."
+msgstr "कोई विशेष बदलाव नहीं।"
+
+#: simcontrols_main.js:218
+msgid "The residue left after charcoal cavity test"
+msgstr "चारकोल गुहा परीक्षण के बाद बचा अवशिष्ट"
+
+#: simcontrols_main.js:218
+msgid "Cobalt nitrate "
+msgstr "कोबाल्ट नाइट्रेट"
+
+#: simcontrols_main.js:219
+msgid "May be Mg<sup>2+</sup> is present."
+msgstr "शायद  Mg<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:220
+msgid "May be due to the presence of Al<sup>3+</sup>."
+msgstr "शायद Al<sup> 3 + </ sup>की उपस्थिति की वजह से"
+
+#: simcontrols_main.js:221
+msgid ""
+"Drag the dropper towards the charcoal box to<br>add cobalt nitrate solution into the residue left<br> in the "
+"charcoal box."
+msgstr "चारकोल के डिब्बे में <br> बचे अवशिष्ट में कोबाल्ट नाइट्रेट का विलयन मिलाने <br> के लिए चारकोल के डिब्बे की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:224
+msgid "Borax"
+msgstr "बोरेक्स"
+
+#: simcontrols_main.js:225
+msgid "Drag the watch glass containing borax towards <br>the original salt to place it in the canvas area."
+msgstr "कैनवास क्षेत्र में रखने के लिए <br> मूल लवण की ओर बोरेक्स युक्त वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the watch glass <br>to dip it in the borax powder."
+msgstr "बोरेक्स पाउडर में डुबोने के लिए वॉच ग्लास<br> की ओर प्लैटिनम का तार खींचें ।"
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the burner to <br>heat the borax powder in the oxidizing flame."
+msgstr "ऑक्सीकरण करने वाली लौ में बोरेक्स पाउडर गर्म <br> करने के लिए बर्नर की ओर प्लैटिनम का तार खींचें ।"
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the watch glass<br> to dip it in the original salt."
+msgstr "मूल लवण में डुबोने के लिए वॉच ग्लास<br> की ओर प्लैटिनम का तार खींचें ।"
+
+#: simcontrols_main.js:225
+msgid ""
+"Click on the knob of the burner to turn it on to get<br> the oxidizing flame/ Click on the air adjusting disc to "
+"<br>close the air hole to get the reducing flame."
+msgstr ""
+"ऑक्सीकरण करने वाली लौ <br> प्राप्त करने के लिए चालू करने के लिए बर्नर की घुंडी पर क्लिक करें / अपचयन करने वाली लौ प्राप्त करने के लिए "
+"वात छिद्र बंद<br> करने के लिए हवा का समायोजन करने वाली डिस्क पर क्लिक करें ।"
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the burner to <br>heat the contents in the oxidizing/reducing flame."
+msgstr "ऑक्सीकरण करने वाली/ अपचयन करने वाली लौ में सामग्री गर्म<br>करने के लिए बर्नर की ओर प्लैटिनम का तार खींचें ।"
+
+#: simcontrols_main.js:226
+msgid "Transparent colourless glassy bead formed."
+msgstr "पारदर्शी रंगहीन कांचनुमा मोती बना।"
+
+#: simcontrols_main.js:227
+msgid "May be Mn<sup>2+</sup> is present."
+msgstr "शायद Mn<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:228
+msgid "May be Ni<sup>2+</sup> is present."
+msgstr "शायद Ni<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:229
+msgid "May be Co<sup>2+</sup> or Mn<sup>2+</sup> is present."
+msgstr "शायद Co<sup> 2 + </ sup> या MN <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:230
+msgid "Colourless bead formed on heating."
+msgstr "गर्म करने पर रंगहीन मोती बना।"
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Green bead formed on heating."
+msgstr "गर्म करने पर हरा मोती बना।"
+
+#: simcontrols_main.js:230
+msgid "Grey bead formed on heating."
+msgstr "गर्म करने पर धूसर मोती बना।"
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Deep blue bead formed on heating."
+msgstr "गर्म करने पर गहरा नीला मोती बना।"
+
+#: simcontrols_main.js:231
+msgid "Opaque red  bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr " ठंडा करने पर अपारदर्शी लाल मोती बना। शायद Cu <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:231
+msgid "Green bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "ठंडा करने पर हरा मोती बना। शायद Fe<sup> 3 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:231
+msgid "Colourless bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr "ठंडा करने पर रंगहीन मोती बना। शायद Mn <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:231
+msgid "Opaque grey bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "ठंडा करने पर अपारदर्शी धूसर मोती बना। शायद Ni<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:231 simcontrols_main.js:233
+msgid "Deep blue bead formed on cooling. May be Co<sup>2+</sup> is present."
+msgstr "ठंडा करने पर गहरा नीला मोती बना। शायद Co<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:232
+msgid "Yellowish brown bead formed on heating."
+msgstr "गर्म करने पर पीले भूरे रंग का मोती बना।"
+
+#: simcontrols_main.js:232
+msgid "Pinkish violet bead formed on heating."
+msgstr "गर्म करने पर गुलाबी बैंगनी मोती बना।"
+
+#: simcontrols_main.js:232
+msgid "Brown bead formed on heating."
+msgstr "गर्म करने पर भूरा मोती बना।"
+
+#: simcontrols_main.js:233
+msgid "Light blue bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr "ठंडा करने पर हल्का नीला मोती बना। शायद Cu <sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:233
+msgid "Pale yellow bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "ठंडा करने पर हल्का पीला मोती बना। शायद Fe<sup> 3 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:233
+msgid "Pinkish violet bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr "ठंडा करने पर गुलाबी बैंगनी मोती बना। शायद Mn<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:233
+msgid "Pale brown bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "ठंडा करने पर हल्का भूरे रंग का मोती बना। शायद Ni<sup> 2 + </ sup> उपस्थित है।"
+
+#: simcontrols_main.js:238
+msgid "The reddish brown precipitate is soluble in dil. HCl"
+msgstr "लाल भूरे रंग का तलछट तनु HCl में घुलनशील है।"
+
+#: simcontrols_main.js:238
+msgid ""
+"Prussian blue colour is due to the formation of ferric ferrocyanide,<br> Fe<sub>4</sub>[Fe(CN)<sub>6</"
+"sub>]<sub>3</sub>. Presence of Fe<sup>3+</sup> is confirmed."
+msgstr ""
+"प्रशियन नीला रंग फेरिक फेरोसायनाइड, <br> Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>बनने की वजह से है । Fe<sup> 3 + "
+"</ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:239 simcontrols_main.js:262
+msgid "Drag the dropper towards the test tube to<br>drop dil. HCl into the test tube."
+msgstr "परखनली में तनु HCl डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:239
+msgid "Drag the dropper towards the test tube to drop<br>Potassium ferrocyanide solution into the test tube."
+msgstr "परखनली में <br> पोटेशियम फेरोसायनाइड का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:241
+msgid "Potassium sulphocyanide"
+msgstr "पोटेशियम सल्फोसायनाइड"
+
+#: simcontrols_main.js:242
+msgid ""
+"Blood red colouration is due to the formation of Ferric sulphocyanide,<br> Fe(CNS)<sub>3</sub>. Presence of "
+"Fe<sup>3+</sup> is confirmed."
+msgstr ""
+"रक्त के समान लाल रंजक फेरिक सल्फोसायनाइड ,<br> Fe(CNS)<sub>3</sub>बनने की वजह से है। Fe<sup> 3 + </ sup> की उपस्थिति की "
+"पुष्टि होती है।"
+
+#: simcontrols_main.js:243
+msgid "Drag the dropper towards the test tube to drop<br>dil. HCl into the test tube."
+msgstr "परखनली में तनु HCl <br> डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:243
+msgid "Drag the dropper towards the test tube to drop Potassium<br>sulphocyanide solution into the test tube."
+msgstr "परखनली में पोटेशियम <br> सल्फोसायनाइड का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:246
+msgid "Bromine water"
+msgstr "ब्रोमीन जल"
+
+#: simcontrols_main.js:247
+msgid "White precipitate is due to the formation of<br> manganese hydroxide, Mn(OH)<sub>2</sub>."
+msgstr "श्वेत तलछट <br> मैंगनीज हाइड्रॉक्साइड Mn(OH)<sub>2</sub>.बनने की वजह से है।"
+
+#: simcontrols_main.js:247
+msgid ""
+"Mn(OH)<sub>2</sub> turns brown on adding Br<sub>2</sub> water due to <br>the oxidation of Mn(OH)<sub>2</sub> to "
+"MnO(OH)<sub>2</sub>.<br> Presence of Mn<sup>2+</sup> is confirmed."
+msgstr ""
+"Br<sub>2</sub>पानी <sub> मिलाने पर MnO(OH)<sub>2</sub> में Mn(OH)<sub>2</sub> के ऑक्सीकरण की <br> की वजह से "
+"Mn(OH)<sub>2</sub> भूरा हो जाता है। <br> Ni <sup> 2 + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:248
+msgid "The green precipitate is due to the formation of Ni(OH)<sub>2</sub>."
+msgstr "हरा तलछट Ni(OH) <sub> 2 </ sub> बनने की वजह से है।"
+
+#: simcontrols_main.js:248
+msgid ""
+"The black precipitate is due to the formation of nickelic hydroxide, Ni(OH)<sub>3</sub>.<br> Presence of "
+"Ni<sup>2+</sup> is confirmed."
+msgstr ""
+"काला तलछट निकल हाइड्रॉक्साइड Ni(OH)<sub>3</sub> बनने की वजह से है। <br> Ni<sup>2+</sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:249
+msgid "Drag the dropper towards the test tube to<br>drop bromine water into the test tube."
+msgstr "परखनली में ब्रोमीन जल डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:250
+msgid ""
+"The white precipitate of ZnS dissolves in dil. <br>HCl to form ZnCl<sub>2</sub> with the evolution of H<sub>2</"
+"sub>S gas."
+msgstr ""
+"ZnS का श्वे‍त तलछट तनु <br> HCl  में घुल जाता है जिससे H <sub> 2 </ sub> गैस उत्पलन्नथ होने के साथ ZnCl <sub> 2 </ sub> का "
+"निर्माण होता है।"
+
+#: simcontrols_main.js:250
+msgid "The white precipitate is due to the formation of zinc hydroxide."
+msgstr "श्वेत तलछट जिंक हाइड्रॉक्साइड बनने की वजह से है।"
+
+#: simcontrols_main.js:250
+msgid ""
+"Zn(OH)<sub>2</sub> is soluble in excess NaOH due to the formation of Na<sub>2</sub>ZnO<sub>2</sub>.<br> Presence "
+"of Zn<sup>2+</sup> is confirmed."
+msgstr ""
+"Na<sub>2</sub>ZnO<sub>2</sub>बनने की वजह से Zn (OH) <sub> 2 </ sub> अतिरिक्त NaOH में घुलनशील है। <br> Zn <sup> 2 + </ "
+"sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:251
+msgid ""
+"The white or bluish white precipitate is due to the formation of Zn<sub>2</sub>[Fe(CN)<sub>6</sub>].<br> Presence "
+"of Zn<sup>2+</sup> is confirmed."
+msgstr ""
+"श्वेत या नीला श्वेत तलछट Zn<sub>2</sub>[Fe(CN)<sub>6</sub>] बनने की वजह से है ।<br> Zn <sup> 2 + </ sup> की उपस्थिति की "
+"पुष्टि होती है।"
+
+#: simcontrols_main.js:254
+msgid "Dimethyl glyoxime"
+msgstr "डाइमिथाइल ग्लायोजाइम"
+
+#: simcontrols_main.js:255
+msgid ""
+"The bright rose red colour is due to the formation of Ni dimethyl glyoxime complex. <br>Presence of Ni<sup>2+</"
+"sup> is confirmed."
+msgstr ""
+"चमकीला गुलाबी लाल रंग Ni डाइमिथाइल ग्लायोजाइम यौगिक बनने की वजह से है। Ni<sup> 2 + </ sup> के <br> की उपस्थिति की पुष्टि "
+"होती है।"
+
+#: simcontrols_main.js:256
+msgid "Drag the dropper towards the test tube<br>to drop NH<sub>4</sub>OH into the test tube."
+msgstr "परखनली में NH<sub> 4 </ sub> OH डालने के लिए परखनली <br> की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:256
+msgid "Drag the dropper towards the test tube to drop<br>dimethyl glyoxime into the test tube."
+msgstr "परखनली में <br> डाइमिथाइल ग्लायोजाइम डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:258
+msgid "Blue litmus solution"
+msgstr "नीला लिटमस विलयन"
+
+#: simcontrols_main.js:259
+msgid "Precipitate after centrifugation"
+msgstr "केंद्रापसरण के बाद तलछट"
+
+#: simcontrols_main.js:261
+msgid ""
+"The precipitate formed is aluminium hydroxide. Blue colour absorbs<br> on this precipitate. Presence of "
+"Al<sup>3+</sup> is confirmed."
+msgstr ""
+"बनने वाला तलछट एल्यूमीनियम हाइड्राक्साकइड है। इस तलछट पर <br> नीला रंग अवशोषित हो जाता है। Al<sup> 3 + </ sup> की उपस्थिति "
+"की पुष्टि होती है।"
+
+#: simcontrols_main.js:262
+msgid "Drag the dropper towards the test tube to drop<br>blue litmus solution into the test tube."
+msgstr "परखनली में <br> नीले लिटमस का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:262 simcontrols_main.js:269 simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to<br>drop NH<sub>4</sub>OH into the test tube."
+msgstr "परखनली में NH<sub> 4 </ sub> OH डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:267
+msgid "Potassium nitrite"
+msgstr "पोटेशियम नाइट्रेट"
+
+#: simcontrols_main.js:268
+msgid ""
+"The yellow precipitate is due to the formation of potassium cobaltinitrite,<br> K<sub>3</sub>[Co(NO<sub>2</"
+"sub>)<sub>6</sub>]. Presence of Co<sup>2+</sup> is confirmed."
+msgstr ""
+"पीला तलछट पोटेशियम कोबाल्टीनाइट्राइट ,<br> K<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]बनने की वजह से है। Co<sup> 2 + "
+"</ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:269
+msgid "Drag the spatula towards the test tube to<br>put potassium nitrite into the test tube."
+msgstr "परखनली में पोटेशियम नाइट्रेट डालने <br> के लिए परखनली की ओर स्पैचुला खींचें।"
+
+#: simcontrols_main.js:271
+msgid "Ammonium thiocyanate"
+msgstr "अमोनियम थायोसायनेट"
+
+#: simcontrols_main.js:272
+msgid ""
+"Blue colour is due to the formation of ammonium cobalti thiocyanate,<br> (NH<sub>4</sub>)<sub>2</"
+"sub>[Co(CNS)<sub>4</sub>]. Presence of Co<sup>2+</sup> is confirmed."
+msgstr ""
+"नीला रंग अमोनियम कोबाल्टीथायोसायनेट, ,<br> (NH<sub>4</sub>)<sub>2</sub>[Co(CNS)<sub>4</sub>]बनने की वजह से है। Co<sup> "
+"2 + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:273
+msgid "Drag the dropper towards the test tube to<br>drop ether into the test tube."
+msgstr "परखनली में ईथर डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:273
+msgid "Drag the spatula towards the test tube to<br>drop ammonium thiocyanate into the test tube."
+msgstr "परखनली में अमोनियम थायोसायनेट डालने <br> के लिए परखनली की ओर स्पैपचुला खींचें ।"
+
+#: simcontrols_main.js:273
+msgid "Drag the test tube from the stand to shake it well."
+msgstr "अच्छी तरह से हिलाने के लिए स्टैंड से परखनली खींचें।"
+
+#: simcontrols_main.js:274
+msgid "Ether"
+msgstr "ईथर"
+
+#: simcontrols_main.js:276
+msgid "The yellow precipitate may be<br/> due to the formation of As2S3.<br/>Presence of Group II cation."
+msgstr "पीला तलछट As2S3 बनने की वजह से <br/> हो सकता है। <br/>समूह II धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:276
+msgid "Conc. HNO<sub>3</sub>"
+msgstr "सान्द्र HNO <sub> 3 </ sub>"
+
+#: simcontrols_main.js:276
+msgid "Concentrated"
+msgstr "सांद्रित"
+
+#: simcontrols_main.js:276
+msgid "nitric acid"
+msgstr "नाइट्रिक अम्ल"
+
+#: simcontrols_main.js:276
+msgid "molybdate solution"
+msgstr "मालीब्डे‍ट का विलयन"
+
+#: simcontrols_main.js:276
+msgid "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(aq)"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(जलीय)"
+
+#: simcontrols_main.js:278
+msgid ""
+"The yellow residue of As<sub>2</sub>S<sub>3</sub> is dissolved in Conc.<br/> HNO<sub>3 </sub>forming arsenic "
+"acid, H<sub>3</sub>AsO<sub>4</sub>."
+msgstr ""
+"As<sub>2</sub>S<sub>3</sub> का पीला तलछट सान्द्र <br/> HNO<sub>3 </sub> में घुल जाता है जिससे आर्सेनिक अम्ल, H <sub> 3 </"
+"sub> AsO <sub> 4 </ sub> का निर्माण होता है।"
+
+#: simcontrols_main.js:278
+msgid ""
+"Yellow precipitate is due to the formation of ammonium arseno molybdate <br/>{(NH<sub>4</sub>)<sub>3</"
+"sub>AsO<sub>4</sub>.12MoO<sub>3</sub>}. Presence of As<sup>3+</sup> is confirmed."
+msgstr ""
+"पीला तलछट अमोनियम आर्सोनोमालीब्डेट <br/>{(NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</sub>.12MoO<sub>3</sub>}. बनने की वजह "
+"से है। As<sup>3+</sup>  की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:280 simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to<br>drop Conc. HNO3 into the test tube."
+msgstr "परखनली में सान्द्र HNO3 डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:280
+msgid "Drag the dropper towards the test tube to drop<br>ammonium molybdate solution into the test tube."
+msgstr "परखनली में <br> अमोनियम मालीब्डेट का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:282 simcontrols_main.js:296
+msgid "hydroxide solution"
+msgstr "हाइड्रॉक्साइड विलयन"
+
+#: simcontrols_main.js:282
+msgid "Magnesia mixture"
+msgstr "मैग्नीशिया का मिश्रण"
+
+#: simcontrols_main.js:282
+msgid "mixture"
+msgstr "मिश्रण"
+
+#: simcontrols_main.js:282
+msgid "Magnesia"
+msgstr "मैग्नीशिया"
+
+#: simcontrols_main.js:284
+msgid ""
+"The white precipitate is due to the formation of Mg(NH<sub>4</sub>)<sub>2</sub>AsO<sub>4</sub>.</br> Presence of "
+"As<sup>3+</sup> is confirmed."
+msgstr ""
+"श्वेत तलछट Mg(NH<sub>4</sub>)<sub>2</sub>AsO<sub>4</sub>बनने की वजह से है। </ br> As<sup>3+</sup> की उपस्थिति की पुष्टि "
+"होती है।"
+
+#: simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to drop<br>Magnesia mixture into the test tube."
+msgstr "परखनली में <br> मैग्नीशिया मिश्रण डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:288
+msgid "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+msgstr "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+
+#: simcontrols_main.js:288
+msgid ""
+"The yellow precipitate is due to the formation of barium<br/> chromate, BaCrO<sub>4</sub>. Presence of Ba<sup>2+</"
+"sup> is confirmed."
+msgstr ""
+"पीला तलछट बेरियम <br/> क्रोमेट, BaCrO <sub> 4 </ sub> बनने की वजह से है। Ba<sup> 2 + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:290
+msgid "Drag the dropper towards the test tube to drop<br>Potassium chromate solution into the test tube."
+msgstr "परखनली में <br> पोटेशियम क्रोमेट का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:292
+msgid "Ammonium sulphate"
+msgstr "अमोनियम सल्फेट"
+
+#: simcontrols_main.js:292
+msgid "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> (aq)"
+msgstr " (NH <sub> 4 </ sub>) <sub> 2 </ sub> SO <sub> 4 </ sub> (जलीय)"
+
+#: simcontrols_main.js:292
+msgid ""
+"The white precipitate is due to the formation of strontium sulphate,<br/> SrSO<sub>4</sub>. Presence of "
+"Sr<sup>2+</sup> is confirmed."
+msgstr ""
+"श्वेत तलछट स्ट्रांटियम सल्फेट, <br/> SrSO <sub> 4 </ sub> बनने की वजह से है । Cr <sup> 2 + </ sup> की उपस्थिति की पुष्टि होती "
+"है।"
+
+#: simcontrols_main.js:294
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium sulphate solution into the test tube."
+msgstr "परखनली में <br> अमोनियम सल्फेट का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:296
+msgid "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+
+#: simcontrols_main.js:296
+msgid "oxalate solution"
+msgstr "आक्जालेट का विलयन"
+
+#: simcontrols_main.js:296
+msgid "NH<sub>4</sub>OH(aq)"
+msgstr " NH<sub> 4 </ sub> OH (जलीय)"
+
+#: simcontrols_main.js:296
+msgid ""
+"The white precipitate is due to the formation of <br/> calcium oxalate, CaC<sub>2</sub>O<sub>4</sub>. Presence of "
+"Ca<sup>2+</sup> is confirmed."
+msgstr ""
+"श्वेत तलछट <br/> कैल्शियम आक्जालेट, CaC<sub>2</sub>O<sub>4</sub>बनने की वजह से है। Ca<sup> 2 + </ sup> की उपस्थिति की पुष्टि "
+"होती है।"
+
+#: simcontrols_main.js:298
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium oxalate solution into the test tube."
+msgstr ""
+"श्वेत तलछट <br/> कैल्शियम आक्जालेट, CaC<sub>2</sub>O<sub>4</sub>बनने की वजह से है। Ca<sup> 2 + </ sup> की उपस्थिति की पुष्टि "
+"होती है।"
+
+#: simcontrols_main.js:298
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium hydroxide solution into the test tube."
+msgstr "परखनली में <br> अमोनियम हाइड्रॉक्साइड का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:298
+msgid "Drag the glass rod towards the test tube to<br>rub the sides of the test tube with it."
+msgstr "कांच की छड़ से परखनली की दीवारें रगड़ने <br> के लिए परखनली की ओर कांच की छड़ खींचें "
+
+#: simcontrols_main.js:300
+msgid "Kipp's apparatus"
+msgstr "किप्प उपकरण"
+
+#: simcontrols_main.js:300
+msgid "Centrifuged and separated <br/>precipitate."
+msgstr " केंद्रापसारित और अलग हुआ <br/> तलछट ।"
+
+#: simcontrols_main.js:302
+msgid "The black precipitate may be due to the formation of PbS or CuS.<br/> Presence of Group II cation. "
+msgstr "काला तलछट PbS या CuS बनने की वजह से हो सकता है। <br/>समूह II धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:302
+msgid ""
+"The yellow precipitate may be due to the formation of As<sub>2</sub>S<sub>3</sub>.<br/>Presence of Group II "
+"cation."
+msgstr "पीले रंग का तलछट As<sub>2</sub>S<sub>3</sub> बनने की वजह से हो सकता है। <br/> समूह II धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:304
+msgid "Drag the dropper towards the test tube to<br>drop dil. HCl into  the test tube."
+msgstr "परखनली में तनु HCl डालने <br> के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:304
+msgid "Drag the test tube towards the Kipp apparatus to<br>pass H<sub>2</sub>S gas through the solution."
+msgstr "विलयन से H<sub>2</sub>S गैस गुजारने<br> के लिए किप्प उपकरण की ओर परखनली खींचें।"
+
+#: simcontrols_main.js:304
+msgid "Click on the nozzle to open/close the Kipp apparatus."
+msgstr "किप्प उपकरण खोलने / बंद करने के लिए नोजल पर क्लिक करें।"
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "hydroxide"
+msgstr "हाइड्राक्साइड"
+
+#: simcontrols_main.js:306
+msgid "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+
+#: simcontrols_main.js:306
+msgid "carbonate"
+msgstr "कार्बोनेट"
+
+#: simcontrols_main.js:306
+msgid "Hot dil. CH<sub>3</sub>COOH"
+msgstr "गर्म तनु CH<sub>3</sub>COOH"
+
+#: simcontrols_main.js:306
+msgid "The precipitate is centrifuged<br/> and washed with water."
+msgstr "तलछट केंद्रापसारित किया <br/> और पानी से धुला जाता है।"
+
+#: simcontrols_main.js:306
+msgid "Sample one"
+msgstr "नमूना एक"
+
+#: simcontrols_main.js:306
+msgid "Sample two"
+msgstr "नमूना दो"
+
+#: simcontrols_main.js:306
+msgid "Sample three"
+msgstr "नमूना तीन"
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "NH<sub>4</sub>Cl"
+msgstr "NH<sub>4</sub>Cl"
+
+#: simcontrols_main.js:306
+msgid "The solution is divided into three <br/>parts."
+msgstr "विलयन तीन <br/> भागों में बांटा जाता है।"
+
+#: simcontrols_main.js:307
+msgid ""
+"The white precipitate may due to the formation of<br/> carbonates of Ba<sup>2+</sup>, Sr<sup>2+</sup> or "
+"Ca<sup>2+</sup>."
+msgstr "श्वेत तलछट Ba<sup>2+</sup>, Sr<sup>2+</sup> या Ca<sup>2+</sup>के <br/> कार्बोनेट बनने की वजह से हो सकता है।"
+
+#: simcontrols_main.js:307
+msgid ""
+"The insoluble carbonate dissolves in acetic acid due to the formation of<br/> soluble acetates of Ba<sup>2+</"
+"sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>. Presence of Group V cation."
+msgstr ""
+"अघुलनशील कार्बोनेट Ba<sup>2+</sup>, Sr<sup>2+</sup> या Ca<sup>2+</sup>का <br/> घुलनशील एसीटेट बनने की वजह से एसिटिक अम्ल "
+"में घुल जाता है। समूह V धनायन का की उपस्थिति।"
+
+#: simcontrols_main.js:309 simcontrols_main.js:316
+msgid "Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it in the test tube."
+msgstr "परखनली में डालने के लिए अमोनियम क्लोराइड (NH <sub> 4 </ sub> Cl) परखनली <br> की ओर खींचें।"
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to<br>drop ammonium hydroxide solution into the test tube."
+msgstr "परखनली में अमोनियम हाइड्रॉक्साइड का विलयन डालने के लिए<br> परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to drop<br>ammonium carbonate solution into the test tube."
+msgstr "परखनली में <br> अमोनियम कार्बोनेट का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to drop hot<br>dil. CH3COOH (acetic acid) into the test tube."
+msgstr "परखनली में गर्म <br> तनु CH3COOH (एसिटिक अम्ल) डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:311
+msgid ""
+"Reddish brown precipitate may be due to the formation of </br> ferric hydroxide,Fe(OH)<sub>3</sub>.  Presence of "
+"Group III cation."
+msgstr ""
+"लाल भूरे रंग का तलछट </ br> फेरिक हाइड्रॉक्साइड, Fe(OH) <sub> 3 </ sub> बनने की वजह से हो सकता है। समूह III धनायन की "
+"उपस्थिति।"
+
+#: simcontrols_main.js:311
+msgid ""
+"White precipitate may be due to the formation of</br> aluminium hydroxide,Al(OH)<sub>3</sub>.Presence of Group "
+"III cation"
+msgstr ""
+"श्वेत तलछट </ br> एल्यूमीनियम हाइड्रॉक्साइड, Al(OH) <sub> 3 </ sub> बनने की वजह से हो सकता है । समूह III धनायन की उपस्थिति"
+
+#: simcontrols_main.js:311
+msgid "Black precipitate may be due to the formation of CoS or NiS.</br>Presence of Group IV cation."
+msgstr "काला तलछट CoS या NiS बनने की वजह से हो सकता है। </ Br> समूह IV धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:311
+msgid "Buff coloured precipitate may be due to the formation of MnS.</br>Presence of Group IV cation."
+msgstr "चमड़े के रंग का तलछट MnS बनने की वजह से हो सकता है। </ Br> समूह IV धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:311
+msgid "Dull white precipitate may be due to the formation of ZnS.</br>Presence of Group IV cation."
+msgstr "फीका श्वेत तलछट ZnS बनने की वजह से हो सकता है। </ Br> समूह IV धनायन की उपस्थिति।"
+
+#: simcontrols_main.js:313
+msgid "Drag the dropper towards the test tube to<br>drop Con.HNO3 into the test tube."
+msgstr "परखनली में सांद्र HNO3 डालने<br> के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:313
+msgid "Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it in to the test tube."
+msgstr "परखनली में डालने<br> के लिए अमोनियम क्लोराइड (NH <sub> 4 </ sub> Cl) परखनली <br> की ओर खींचें।"
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder towards<br> the test tube to hold the test tube<br> with it."
+msgstr "परखनली धारक से परखनली पकड़ने के लिए <br> परखनली की ओर परखनली धारक खींचें।"
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder towards<br> the beaker to place the test tube <br>in water to cool the solution."
+msgstr "विलयन ठंडा करने के लिए पानी में परखनली <br> रखने के लिए <br> बीकर की ओर परखनली धारक खींचें।"
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder to take<br> out the test tube from the beaker."
+msgstr "बीकर से परखनली निकालने<br> के लिए परखनली धारक खींचें ।"
+
+#: simcontrols_main.js:313
+msgid "Drag the dropper towards the<br> test tube to drop  NH<sub>4</sub>OH in to the test tube."
+msgstr "परखनली में NH <sub> 4 </ sub> OH डालने के लिए के लिए<br> परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:313
+msgid "Click on the test tube to<br> shake it well."
+msgstr "अच्छी तरह से हिलाने<br>  के लिए परखनली पर क्लिक करें।"
+
+#: simcontrols_main.js:313 simcontrols_main.js:316
+msgid "Click on the inference icon to see the inference."
+msgstr "निष्कर्ष देखने के लिए निष्कर्ष आइकन पर क्लिक करें।"
+
+#: simcontrols_main.js:314
+msgid ""
+"The white precipitate is due to the formation of magnesium</br> ammonium phosphate,  Mg(NH<sub>4</sub>)PO<sub>4</"
+"sub>. Presence of Mg<sup>2+</sup>is confirmed."
+msgstr ""
+"तलछट मैग्नीशियम </ br> अमोनियम फॉस्फेट, Mg(NH <sub> 4 </ sub>) PO <sub> 4 </ sub> बनने की वजह से है। Mg<sup> 2 + </ sup> "
+"की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:316
+msgid "Drag the dropper towards the test tube to drop  NH<sub>4</sub>OH in to the test tube."
+msgstr "परखनली में NH<sub> 4 </ sub> OH डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:316
+msgid ""
+"Drag the dropper towards the test tube to drop ammonium phosphate<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>] "
+"solution in to the test tube."
+msgstr ""
+"परखनली में अमोनियम फॉस्फेट<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>]  विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें।"
+
+#: simcontrols_main.js:316
+msgid "Drag the glass rod towards the test tube to rub the sides<br>of the test-tube with it."
+msgstr "परखनली की<br>दिवार रगड़ने के लिए परखनली की ओर कांच की छड़ खींचें।"
+
+#: simcontrols_main.js:317
+msgid "The pink colour is due to the formation of </br>HMnO<sub>4</sub>.Presence of Mn<sup>2+</sup> is confirmed."
+msgstr "गुलाबी रंग </ br> HMnO <sub> 4 </ sub> बनने की वजह से है। Mn <sup> 2 + </ sup> की उपस्थिति की पुष्टि होती है।"
+
+#: simcontrols_main.js:318
+msgid "Precipitate after <br>Sodium hydroxide-Br<sub>2</sub>test"
+msgstr "सोडियम हाइड्रोक्साइड-Br <sub> 2 </ sub> परीक्षण के बाद तलछट"
+
+#: simcontrols_main.js:319
+msgid "Drag the dropper towards the test tube to drop<br>Conc. HNO<sub>3</sub> into the test tube."
+msgstr "परखनली में<br> सान्द्र HNO <sub> 3 </ sub>डालने के लिए परखनली की ओर ड्रॉपर खींचें"
+
+#: simcontrols_main.js:319
+msgid "Drag the dropper towards the test tube to drop<br>lead peroxide solution into the test tube."
+msgstr "परखनली में <br> लेड पेरोक्साइड का विलयन डालने के लिए परखनली की ओर ड्रॉपर खींचें ।"
+
+#: simcontrols_main.js:320
+msgid "Conc.HNO<sub>3</sub>"
+msgstr "सांद्र.HNO <sub> 3 </ sub>"
+
+#: simcontrols_main.js:320
+msgid "Conc.Nitric"
+msgstr "सांद्र.नाइट्रिक "
+
+#: simcontrols_main.js:320
+msgid "acid"
+msgstr "अम्ल् "
+
+#: simcontrols_main.js:320
+msgid "Glass Rod"
+msgstr "कांच की छड़"
+
+#: simcontrols_main.js:320
+msgid "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+
+#: simcontrols_main.js:320
+msgid "Phosphate"
+msgstr " फास्फेट"
+
+#: simcontrols_main.js:320
+msgid "Salt<br>solution"
+msgstr "लवण का <br> विलयन"
+
+#: simcontrols_main.js:321
+msgid "Lead Peroxide"
+msgstr "लेड पेरोक्साइड"
+
+#: simcontrols_main.js:323
+msgid ""
+"The precipitate of MnS dissolves in dil. HCl <br>to form MnCl<sub>2</sub> with the evolution of H<sub>2</sub>S gas"
+msgstr "लेड पेरोक्साइड"
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus "
+#~ "paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus "
+#~ "paper."
+
+#~ msgid "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+#~ msgstr "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during "
+#~ "the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during "
+#~ "the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during "
+#~ "the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during "
+#~ "the respiration of the seeds."

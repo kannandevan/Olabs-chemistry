@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-12 10:14+0530\n"
+"PO-Revision-Date: 2016-02-12 10:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Show that Acids, Bases, and Salts are Electrolytes"
+msgstr "दिखाएँ कि अम्ल, क्षार और लवण विद्युत् अपघटक हैं"
+
+msgid "<u><b>Instructions:</b></u>"
+msgstr "<u><b>निर्देश:</b></u>"
+
+msgid "1. Question and answer &nbsp;&nbsp;&nbsp;&nbsp;session, Click correct answer."
+msgstr "1. प्रश्न और उत्तर सत्र, सही उत्तर पर क्लिक करें।"
+
+msgid "2. Drag and drop the dropper &nbsp;&nbsp;&nbsp;&nbsp;containing HCl into the &nbsp;&nbsp;&nbsp;&nbsp;beaker A containing water."
+msgstr "2. HCl वाला ड्रॉपर खींचकर पानी वाले बियर A में डालें।"
+
+msgid "3. Drag and drop the watchglass &nbsp;&nbsp;&nbsp;&nbsp;containing Sodium Hydroxide &nbsp;&nbsp;&nbsp;&nbsp;into the beaker B."
+msgstr "3. सोडियम हाइड्रॉक्साइड वाला वॉचग्लास खींचकर बियर B में डालें।"
+
+msgid "4. Drag and drop the watchglass &nbsp;&nbsp;&nbsp;containing Sodium Chloride salt &nbsp;&nbsp;&nbsp;&nbsp;into the beaker C."
+msgstr "4. सोडियम क्लोराइड वाला वॉचग्लास खींचकर बियर C में डालें।"
+
+msgid "5. Click on the Next button."
+msgstr "5. नेक्स्ट बटन पर क्लिक करें।"
+
+msgid "HELP"
+msgstr "सहायता"
+
+msgid "Choose the correct answer"
+msgstr "सही उत्तर चुनें"
+
+msgid "Drag and drop the dropper containing<br> HCl into the beaker A containing water"
+msgstr "HCl वाला ड्रॉपर खींचकर पानी वाले बियर A में डालें।"
+
+msgid "Drag and drop the watchglass containing<br> Sodium Hydroxide into the beaker B"
+msgstr "सोडियम हाइड्रॉक्साइड वाला वॉचग्लास खींचकर बियर B में डालें।"
+
+msgid "Drag and drop the watchglass<br> containing Sodium Chloride<br> salt into the beaker C"
+msgstr "सोडियम क्लोराइड वाला वॉचग्लास खींचकर बियर C में डालें।"
+
+msgid "Click on the Next button"
+msgstr "नेक्स्ट बटन पर क्लिक करें।"
+
+msgid "Click on the check box<br> to show the circuit diagram"
+msgstr "सर्किट डाइग्राम दिखाने के लिए चेकबॉक्स पर क्लिक करें।"
+
+msgid "Drag and drop iron nails on rubber cork"
+msgstr "लौह की कीलें रबर कॉर्क पर खींचकर छोड़ें।"
+
+msgid "Drag the wire from the iron nail<br> to the 6V positive terminal of the<br> battery in the highlighted area"
+msgstr "लौह कील से तार खींचकर हाइलाइट किए गए क्षेत्र में बैटरी के 6V पॉजिटिव टर्मिनल से जोड़ें।"
+
+msgid "Click on the check box<br> to hide the circuit diagram"
+msgstr "सर्किट डाइग्राम छिपाने के लिए चेकबॉक्स पर क्लिक करें।"
+
+msgid "Drag wire from the 6V negative<br> terminal of the battery to the<br> bulb in the highlighted area"
+msgstr "बैटरी के 6V निगेटिव टर्मिनल से तार खींचकर हाइलाइट किए गए क्षेत्र में बल्ब से जोड़ें।"
+
+msgid "Drag the wire from the bulb<br> to the plug key holder<br> in the highlighted area"
+msgstr "बल्ब से तार खींचकर हाइलाइट किए गए क्षेत्र में प्लग की होल्डर से जोड़ें।"
+
+msgid "Drag wire from the iron nail<br> to the plug key holder in<br> the highlighted area"
+msgstr "लौह कील से तार खींचकर हाइलाइट किए गए क्षेत्र में प्लग की होल्डर से जोड़ें।"
+
+msgid "Drag and drop plug<br> key on plug key holder"
+msgstr "प्लग की को प्लग की होल्डर पर खींचकर छोड़ें।"
+
+msgid "Click on the Next button"
+msgstr "नेक्स्ट बटन पर क्लिक करें।"
+
+msgid "Click on the Reset button to do the experiment again"
+msgstr "प्रयोग को फिर से करने के लिए रीसेट बटन पर क्लिक करें।"
+
+msgid "Suppose you are asked to check the electrical conductivity of deionised water, and while doing this experiment, what will be the possible result?"
+msgstr "मान लें कि आपसे डियोनाइज्ड पानी की विद्युत चालकता जांचने को कहा गया है, तो इस प्रयोग के दौरान संभावित परिणाम क्या होंगे?"
+
+msgid "Bulb glows and fades"
+msgstr "बल्ब जलता और फीका पड़ता है"
+
+msgid "Bulb does not glow"
+msgstr "बल्ब नहीं जलता"
+
+msgid "Bulb glows"
+msgstr "बल्ब जलता है"
+
+msgid "In this experiment, you are using a sodium hydroxide solution. What will happen when you use the same sodium hydroxide in its solid form? Will it conduct electricity?"
+msgstr "इस प्रयोग में आप सोडियम हाइड्रॉक्साइड का विलयन इस्तेमाल कर रहे हैं। यदि आप सोडियम हाइड्रॉक्साइड का ठोस रूप उपयोग करें तो क्या यह विद्युत प्रवाह करेगा?"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "<u>Chemistry Behind the reaction:</u><br>Electrolytes are substances that produce ions when dissolved in water. Because they all produce ions when dissolved in water, they can be classified as acids, bases, or salts. Because of the mobility of the positive and negative ions, known as cations and anions, these solutions transmit electricity.Infer from the observations that acids, bases and salts are electrolytes<br>The following dissociation reactions:.<br>HCl <sub>(aq)</sub> → H+ <sub>(aq)</sub> + Cl- <sub>(aq)</sub><br>NaOH <sub>(aq)</sub> → Na+<sub>(aq)</sub> + OH- <sub>(aq)</sub><br>NaCl <sub>(aq)</sub> → Na+ <sub>(aq)</sub> + Cl-<sub>(aq)</sub>"
+msgstr "<u>प्रतिक्रिया के पीछे रसायन विज्ञान:</u><br>विद्युत अपघटक वे पदार्थ हैं जो पानी में घुलने पर आयन उत्पन्न करते हैं। क्योंकि ये सभी पानी में घुलने पर आयन उत्पन्न करते हैं, इन्हें अम्ल, क्षार या लवण के रूप में वर्गीकृत किया जा सकता है। पॉजिटिव और नेगेटिव आयनों की गति के कारण, जिन्हें कैटायन और एनायन कहा जाता है, ये विलयन विद्युत प्रवाहित करते हैं। प्रेक्षणों से निष्कर्ष निकालें कि अम्ल, क्षार और लवण विद्युत अपघटक हैं।<br>निम्नलिखित अपघटन प्रतिक्रियाएँ:<br>HCl <sub>(aq)</sub> → H+ <sub>(aq)</sub> + Cl- <sub>(aq)</sub><br>NaOH <sub>(aq)</sub> → Na+<sub>(aq)</sub> + OH- <sub>(aq)</sub><br>NaCl <sub>(aq)</sub> → Na+ <sub>(aq)</sub> + Cl-<sub>(aq)</sub>"
+
+msgid "&nbsp;&nbsp;1. Drag and drop iron nails on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rubber cork."
+msgstr "1. लौह कीलों को रबर कॉर्क पर खींचकर छोड़ें।"
+
+msgid "&nbsp;&nbsp;2. Drag the wire from the iron &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nail to the 6V positive terminal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the battery in the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;highlighted area."
+msgstr "2. लौह कील से तार खींचकर हाइलाइट किए गए क्षेत्र में बैटरी के 6V पॉजिटिव टर्मिनल से जोड़ें।"
+
+msgid "&nbsp;&nbsp;3. Drag wire from the 6V &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;negative terminal of the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;battery to the bulb in the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;highlighted area."
+msgstr "3. बैटरी के 6V निगेटिव टर्मिनल से तार खींचकर हाइलाइट किए गए क्षेत्र में बल्ब से जोड़ें।"
+
+msgid "&nbsp;&nbsp;4. Drag the wire from the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bulb to the plug key holder &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the highlighted area."
+msgstr "4. बल्ब से तार खींचकर हाइलाइट किए गए क्षेत्र में प्लग की होल्डर से जोड़ें।"
+
+msgid "&nbsp;&nbsp;5. Drag wire from the iron &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nail to the plug key holder &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the highlighted area."
+msgstr "5. लौह कील से तार खींचकर हाइलाइट किए गए क्षेत्र में प्लग की होल्डर से जोड़ें।"
+
+msgid "&nbsp;&nbsp;6. Drag and drop plug key on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plug key holder."
+msgstr "6. प्लग की को प्लग की होल्डर पर खींचकर छोड़ें।"
+
+msgid "&nbsp;&nbsp;7. Click on the Next button."
+msgstr "7. नेक्स्ट बटन पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;1.Drag and drop plug key on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plug key holder. "
+msgstr "1. प्लग की को प्लग की होल्डर पर खींचकर छोड़ें।"
+
+msgid "&nbsp;&nbsp;2. Click on the Next button."
+msgstr "2. नेक्स्ट बटन पर क्लिक करें।"
+
+msgid "&nbsp;&nbsp;1.Time to think."
+msgstr "1. सोचने का समय।"
+
+msgid "HCl"
+msgstr "HCl"
+
+msgid "Sodium Hydroxide"
+msgstr "सोडियम हाइड्रॉक्साइड"
+
+msgid "Sodium Chloride"
+msgstr "सोडियम क्लोराइड"
+
+msgid "<span>Next</span>"
+msgstr "<span>नेक्स्ट</span>"
+
+msgid "Show circuit diagram"
+msgstr "सर्किट डाइग्राम दिखाएँ"
+
+msgid "Circuit is right, do the experiment."
+msgstr "सर्किट सही है, प्रयोग करें।"
+
+msgid "Hide circuit diagram"
+msgstr "सर्किट डाइग्राम छिपाएँ"
+
+msgid "Note down the observation,<br> In beaker A the bulb glows."
+msgstr "अवलोकन नोट करें,<br> बियर A में बल्ब जलता है।"
+
+msgid "Note down the observation,<br> In beaker B the bulb glows."
+msgstr "अवलोकन नोट करें,<br> बियर B में बल्ब जलता है।"
+
+msgid "Note down the observation,<br> In beaker C the bulb glows."
+msgstr "अवलोकन नोट करें,<br> बियर C में बल्ब जलता है।"
+
+msgid "Note down the observation,<br> In beaker D the bulb does not glow."
+msgstr "अवलोकन नोट करें,<br> बियर D में बल्ब नहीं जलता।"
+
+msgid "<u>Time to think?:</u><br>After this experiment, you found that the solution in A, B, and C conducts electricity, and the solution in D does not. So, what will be the reason why Beaker A, B, and C conduct and D does not? <br>Note down your answer."
+msgstr "<u>सोचने का समय:</u><br>इस प्रयोग के बाद, आपने देखा कि बियर A, B और C का विलयन विद्युत प्रवाहित करता है, जबकि बियर D का नहीं करता। तो, इसका कारण क्या होगा? अपना उत्तर नोट करें।"
+
+msgid "<u>Chemistry Behind the reaction:</u><br>Electrolytes are substances that produce ions when dissolved in water. Because they all produce ions when dissolved in water, they can be classified as acids, bases, or salts. Because of the mobility of the positive and negative ions, known as cations and anions, these solutions transmit electricity.Infer from the observations that acids, bases and salts are electrolytes<br>The following dissociation reactions:.<br>HCl <sub>(aq)</sub> → H+ <sub>(aq)</sub> + Cl- <sub>(aq)</sub><br>NaOH <sub>(aq)</sub> → Na+<sub>(aq)</sub> + OH- <sub>(aq)</sub><br>NaCl <sub>(aq)</sub> → Na+ <sub>(aq)</sub> + Cl-<sub>(aq)</sub>"
+msgstr "<u>प्रतिक्रिया के पीछे की रसायनशास्त्र:</u><br>विद्युत अपघटक (Electrolytes) वे पदार्थ होते हैं जो पानी में घुलने पर आयन उत्पन्न करते हैं। चूंकि ये सभी पानी में घुलने पर आयन उत्पन्न करते हैं, इसलिए इन्हें अम्ल (acids), क्षार (bases) या लवण (salts) के रूप में वर्गीकृत किया जा सकता है। सकारात्मक और नकारात्मक आयनों (cations और anions) की गति के कारण, ये विलयन विद्युत का संचार करते हैं। अवलोकनों से निष्कर्ष निकालें कि अम्ल, क्षार और लवण विद्युत अपघटक हैं।<br>निम्नलिखित अपघटन प्रतिक्रियाएँ हैं:<br>HCl <sub>(aq)</sub> → H+ <sub>(aq)</sub> + Cl- <sub>(aq)</sub><br>NaOH <sub>(aq)</sub> → Na+ <sub>(aq)</sub> + OH- <sub>(aq)</sub><br>NaCl <sub>(aq)</sub> → Na+ <sub>(aq)</sub> + Cl- <sub>(aq)</sub>"

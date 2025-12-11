@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_TITLE">
+        <source>द्रब्यमान संरक्षण का नियम| </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONICAL_FLASK_POP">
+        <source>बेरियम क्लोराइड
+250ml</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LAB_BACK">
+        <source>पीछे</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LAB_BARIUM">
+        <source>बेरियम क्लोराइड
+(BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LAB_BARIUM_POP">
+        <source>बेरियम क्लोराइड
+(BaCl2)</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LAB_CLOCK">
+        <source>10 Min</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LAB_CORK">
+        <source>कॉर्क</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_LAB_CYLINDERS">
+        <source>मापक सिलिण्डर</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_LAB_SODIUM">
+        <source>सोडियम सल्फ़ेट
+(Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_LAB_SODIUMPOP">
+        <source>सोडियम सल्फ़ेट
+(Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_LAB_TABLE_01">
+        <source>उपकरणों का कुल द्रव्यमान+अभिकारक का द्रव्यमान,(M+m1) g</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_LAB_TABLE_03">
+        <source>उपकरणों का कुल द्रव्यमान+उत्पाद का द्रव्यमान, (M+m2) g</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_LAB_TABLE_04">
+        <source>जब M  नियतांक रहता है, M1 = M2 , ऐसे अभिकारकों का कुल द्रव्यमान =  उत्पादों का कुल द्रव्यमान</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LAB_TEST_TUBE">
+        <source>परखनली </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LAB_WEIGHT_POP">
+        <source>वज़न नापने
+का तुला </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LAW_HEAD_01">
+        <source>द्रब्यमान संरक्षण का नियम| </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_START_01">
+        <source>शुरू </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

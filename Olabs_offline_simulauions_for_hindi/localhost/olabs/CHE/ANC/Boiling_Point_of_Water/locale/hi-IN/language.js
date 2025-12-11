@@ -1,0 +1,26 @@
+$.i18n.hi = {};
+ jQuery.i18n.hi.strings ={
+	"Drag the spatula towards the test tube<br>to drop the pumice stones into it.": "झाँवाँ को परखनली में डालने के लिए<br>स्पैचुला को उसकी और खींचे|",
+	"Drag the cork over the test tube to close it.": "परखनली को बंद करने के लिए काग को उसकी ओर खींचे|",
+	"Drag the thermometer towards the test tube<br>to place it in it.": "थर्मामीटर को परखनली में डालने के लिए उसे<br>परखनली की ओर खींचे|",
+	"Drag the delivery tube towards the test tube<br>to place it in it.": "निकास नली को परखनली में डालने के लिए उसे<br>परखनली की ओर खींचे|",
+	"Click on the knob of the burner<br>to turn it ON or OFF.": "घुंडी ओन या ऑफ करने के लिए उस<br>पर क्लिक करें|",
+	"In presence of impurities ": "अशुद्धियों की उपस्थिति में",
+	"At different pressures": "विभिन्न दबावों में",
+	"Pure water": "शुद्ध पाणी",
+	"Water + 50g NaCl": "जल + 50ग्राम मीठाचा",
+	"Water + 200g sugar": "जल + 200ग्राम साखर",
+	"Water + 90g KCl": "जल + 90ग्राम KCl",
+	"Select the impure sample:": "अशुद्ध नमूना चयन करें:",
+	"Select the pressure:": "दबाव का चयन करें:",
+	"Boiling point of water:": "पानी का क्वथनांक|:",
+	"Show zoom": "पास से दिखाएँ",
+	"Temperature:&nbsp;": "तापमान&nbsp;",
+	"Reset": "रीसेट",
+	"Pumice Stones": "झांवां",
+	"Determination of Boiling Point of Water": "पानी के क्वथनांक का निर्धारण|",
+	"HELP": "मदद",
+	"FULLSCREEN": "पूर्ण स्क्रीन",
+	"EXIT": "बाहर निकलें",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "आईटी विभाग से सीडैक मुंबई और अनुसंधान <br> अनुदान  के तहत अमृता विश्वविद्यालय  द्वारा विकसित"
+}

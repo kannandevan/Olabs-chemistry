@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>"प्रारंभ" बटन पर क्लिक करें प्रयोग करते हैं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_1">
+	<TEXTVALUE>पोटेशियम आयोडाइड और हाइड्रोजन पेरोक्साइड के बीच होने वाली अभिक्रिया पर गतिकी </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_2">
+	<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>हमें चार अलग अलग शंक्वाकार कुप्पियों में 0.1मोल KI का विलयन, आसुत जल, मापने वाला जार, 2.5 मोल H₂SO₄, स्टार्च विलयन, 0.05 मोल Na₂S₂O₃ का विलयन, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_two">
+	<TEXTVALUE>3% H₂O₂ का विलयन, कांच की छड़, स्टासप वॉच आदि चाहिए</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_3">
+	<TEXTVALUE>0.1M KI
+विलयन 5ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>0.1M KI
+विलयन 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_5">
+	<TEXTVALUE>0.1M KI
+विलयन 15ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>0.1M KI
+विलयन 20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>2.5M
+H2SO4</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>स्टार्च
+विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>3% H2O2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>0.05M
+Na2s2o3</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="2table2">
+	<TEXT ID="2table2_one">
+	<TEXTVALUE>क्रमश: चार शंक्वाकार कुप्पियों ए, बी, सी और डी में 5, 10, 15 और 20 मि.ली. 0.1 मोल पोटेशियम आयोडाइड का विलयन लें।
+</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3h2so4">
+	<TEXT ID="3h2so4_one">
+	<TEXTVALUE>मापने वाले जार में 10 मि.ली. 2.5मोल H₂SO₄  नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4poura">
+	<TEXT ID="4poura_one">
+	<TEXTVALUE>इसे शंक्वाकार कुप्पी ए में डालें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5chart">
+	<TEXT ID="5chart_one">
+	<TEXTVALUE>शेष बची कुप्पियों के लिए भी यही प्रक्रिया दोहराएँ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sreing_12">
+	<TEXTVALUE>स्टार्च
+विलयन(ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>पानी (ml) 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>3% H2O2 विलयन (ml)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>नीले रंग के 
+उपस्थिति के लिए
+समय (टी)
+</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flaskno">
+	<TEXTVALUE>कुप्पी नंबर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solutionml">
+	<TEXTVALUE>0.1M KI 
+विलयन (ml)
+</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="6pour2">
+	<TEXT ID="6pour2_one">
+	<TEXTVALUE>मापने वाला जार में 85मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="7por3">
+	<TEXT ID="7por3_one">
+	<TEXTVALUE>विलयन की कुल मात्रा 100 मि.ली. करने के लिए इसे कुप्पी ए में डालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Potassium_iodide46">
+	<TEXTVALUE> 0.1M 
+[KI]विलयन
+       40ml </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="8chart2">
+	<TEXT ID="8chart2_one">
+	<TEXTVALUE>विलयन की कुल मात्रा 100 मि.ली. करने के लिए इसे कुप्पी ए में डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="9pour23">
+	<TEXT ID="9pour23_one">
+	<TEXTVALUE>इसके बाद 80मि.ली. आसुत जल नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10pourb">
+	<TEXT ID="10pourb_one">
+	<TEXTVALUE>विलयन की कुल मात्रा 100 मि.ली. करने के लिए इसे कुप्पी बी में डालें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11chart3">
+	<TEXT ID="11chart3_one">
+	<TEXTVALUE>मात्रा 100 मि.ली. करने के लिए क्रमशः सी और डी कुप्पी में 75 और 70 मि.ली. आसुत जल मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="11starch">
+	<TEXT ID="11starch_one">
+	<TEXTVALUE>मापने वाला जार में 5 मि.ली. स्टार्च का विलयन नापें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="12por4">
+	<TEXT ID="12por4_one">
+	<TEXTVALUE>इसे कुप्पी ए में डालें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="13chart4">
+	<TEXT ID="13chart4_one">
+	<TEXTVALUE>शेष बची कुप्पियों के लिए भी यही प्रक्रिया दोहराएँ।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="14sodiumthio">
+	<TEXT ID="14sodiumthio_one">
+	<TEXTVALUE>10मि.ली. 0.05 मोल सोडियम थायोसल्फेरट का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="15sodpour">
+	<TEXT ID="15sodpour_one">
+	<TEXTVALUE>इसे कुप्पी ए में मिलाएं</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="16chart5">
+	<TEXT ID="16chart5_one">
+	<TEXTVALUE>इसके बाद 5 मि.ली. 3% हाइड्रोजन पेरोक्साइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="17h2o2">
+	<TEXT ID="17h2o2_one">
+	<TEXTVALUE>इसके बाद 5 मि.ली. 3% हाइड्रोजन पेरोक्साइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="18h2o2pour">
+	<TEXT ID="18h2o2pour_one">
+	<TEXTVALUE>इसके बाद 5 मि.ली. 3% हाइड्रोजन पेरोक्साइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="19por6">
+	<TEXT ID="19por6_one">
+	<TEXTVALUE>इसे कुप्पी ए में डालें और स्टाजप वॉच तुरंत चालू कर दें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="20rot">
+	<TEXT ID="20rot_one">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर मिश्रण चलाएं और नीला रंग दिखाई देने की प्रतीक्षा करें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="20rot_two">
+	<TEXTVALUE>जैसे ही नीला रंग दिखाई दे, समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="20rot_three">
+	<TEXTVALUE>जैसे ही नीला रंग दिखाई दे, समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="21chart8">
+	<TEXT ID="21chart8_one">
+	<TEXTVALUE>कुप्पियों बी, सी और डी में 5मि.ली.  3% H₂O₂ मिलाकर प्रयोग को दोहराएं और प्रत्येक मामले में नीला रंग प्रकट होने में लगने वाला समय दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="21chart8_two">
+	<TEXTVALUE>कोटि के साथ समय (टी) लेकर और भुज के साथ 1/Vol. KI लेकर नीला रंग प्रकट होने में लगने वाले समय और 1/Vol. KI के बीच ग्राफ बनाएं। इसे सीधी ढालू रेखा होना चाहिए।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart21">
+	<TEXTVALUE>Time for the appearance of blue colour [s]</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="23last">
+	<TEXT ID="23last_one">
+	<TEXTVALUE>इस अभिक्रिया से हम निष्क र्ष निकाल सकते हैं कि हाइड्रोजन पेरोक्साइड के साथ आयोडाइड आयनों की अभिक्रिया की दर आयोडाइड आयनों की सांद्रता में वृद्धि के साथ बढ़ जाती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>आयोडाइड आयनों की एकाग्रता प्रतिक्रिया की दर 
+में वृद्धि के साथ बढ़ जाती है</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

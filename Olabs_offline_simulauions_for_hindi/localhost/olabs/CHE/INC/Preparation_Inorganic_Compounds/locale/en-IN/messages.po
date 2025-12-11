@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-05-28 10:15+0530\n"
+"PO-Revision-Date: 2015-05-28 10:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:37
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols_main.js:38
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols_main.js:39
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols_main.js:40
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols_main.js:41
+msgid "Preparation of Inorganic Compounds"
+msgstr "Preparation of Inorganic Compounds"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate(7g)"
+msgstr "Ferrous Sulphate(7g)"
+
+#: simcontrols_main.js:43
+msgid "Ammonium Sulphate(3.5g)"
+msgstr "Ammonium Sulphate(3.5g)"
+
+#: simcontrols_main.js:43
+msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(3ml)"
+msgstr "Dil.H<sub>2</sub>SO<sub>4</sub>(3ml)"
+
+#: simcontrols_main.js:43
+msgid "Next"
+msgstr "Next"
+
+#: simcontrols_main.js:43
+msgid "Hot water(20ml)"
+msgstr "Hot water(20ml)"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate+ Ammonium Sulphate"
+msgstr "Ferrous Sulphate+ Ammonium Sulphate"
+
+#: simcontrols_main.js:43
+msgid "Crystallising dish"
+msgstr "Crystallising dish"
+
+#: simcontrols_main.js:43
+msgid "Cold water"
+msgstr "Cold water"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Ammonium Sulphate Crystals"
+msgstr "Ferrous Ammonium Sulphate Crystals"
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol"
+msgstr "Ethyl Alcohol"
+
+#: simcontrols_main.js:43
+msgid "Filter papers"
+msgstr "Filter papers"
+
+#: simcontrols_main.js:43
+msgid "30 minutes"
+msgstr "30 minutes"
+
+#: simcontrols_main.js:43
+msgid "Crystals of Potash Alum"
+msgstr "Crystals of Potash Alum"
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol+ Cold Water"
+msgstr "Ethyl Alcohol+ Cold Water"
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate (2.5g)"
+msgstr "Potassium Sulphate (2.5g)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate(10g)"
+msgstr "Aluminium Sulphate(10g)"
+
+#: simcontrols_main.js:44
+msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(1ml)"
+msgstr "Dil.H<sub>2</sub>SO<sub>4</sub>(1ml)"
+
+#: simcontrols_main.js:44
+msgid "Water(20ml)"
+msgstr "Water(20ml)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate Solution"
+msgstr "Aluminium Sulphate Solution"
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate Solution"
+msgstr "Potassium Sulphate Solution"
+
+#: simcontrols_main.js:44
+msgid "China Dish & Glass Rod"
+msgstr "China Dish & Glass Rod"
+
+#: simcontrols_main.js:44
+msgid "Thin Crust"
+msgstr "Thin Crust"
+
+#: simcontrols_main.js:45
+msgid "Ferric Chloride(3.5g)"
+msgstr "Ferric Chloride(3.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(50ml)"
+msgstr "Water(50ml)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Hydroxide(4g)"
+msgstr "Potassium Hydroxide(4g)"
+
+#: simcontrols_main.js:45
+msgid "Glass Rod"
+msgstr "Glass Rod"
+
+#: simcontrols_main.js:45
+msgid "Ferric hydroxide precipitate"
+msgstr "Ferric hydroxide precipitate"
+
+#: simcontrols_main.js:45
+msgid "Filter paper"
+msgstr "Filter paper"
+
+#: simcontrols_main.js:45
+msgid "Buchner Funnel"
+msgstr "Buchner Funnel"
+
+#: simcontrols_main.js:45
+msgid "Oxalic Acid(4g)"
+msgstr "Oxalic Acid(4g)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Oxalate(5.5g)"
+msgstr "Potassium Oxalate(5.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(100ml)"
+msgstr "Water(100ml)"
+
+#: simcontrols_main.js:45
+msgid "Precipitate of Ferric Hydroxide"
+msgstr "Precipitate of Ferric Hydroxide"
+
+#: simcontrols_main.js:45
+msgid "Black Paper"
+msgstr "Black Paper"
+
+#: simcontrols_main.js:45
+msgid "Cold Water"
+msgstr "Cold Water"
+
+#: simcontrols_main.js:45
+msgid "Potassium Trioxalatoferrate(III)"
+msgstr "Potassium Trioxalatoferrate(III)"
+
+#: simcontrols_main.js:50
+msgid "Select the compound: "
+msgstr "Select the compound: "
+
+#: simcontrols_main.js:51
+msgid "Ferrous Ammonium Sulphate"
+msgstr "Ferrous Ammonium Sulphate"
+
+#: simcontrols_main.js:51
+msgid "Potash Alum"
+msgstr "Potash Alum"
+
+#: simcontrols_main.js:51
+msgid "Potassium trioxalatoferrate(III)"
+msgstr "Potassium trioxalatoferrate(III)"
+
+#: simcontrols_main.js:52
+msgid "Drag the watch glass to the beaker<br>to put ferrous sulphate into it."
+msgstr "Drag the watch glass to the beaker<br>to put ferrous sulphate into it."
+
+#: simcontrols_main.js:52
+msgid "Drag the watch glass to the beaker<br>to add ammonium sulphate to it."
+msgstr "Drag the watch glass to the beaker<br>to add ammonium sulphate to it."
+
+#: simcontrols_main.js:52
+msgid ""
+"Drag the measuring jar to the beaker<br>to pour 3 ml dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+msgstr ""
+"Drag the measuring jar to the beaker<br>to pour 3 ml dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+
+#: simcontrols_main.js:53
+msgid ""
+"Drag the beaker to pour hot water into<br>the beaker containing ferrous "
+"sulphate<br>and ammonium sulphate."
+msgstr ""
+"Drag the beaker to pour hot water into<br>the beaker containing ferrous "
+"sulphate<br>and ammonium sulphate."
+
+#: simcontrols_main.js:53
+msgid "Drag the glass rod to the beaker<br>to stir the contents."
+msgstr "Drag the glass rod to the beaker<br>to stir the contents."
+
+#: simcontrols_main.js:53 simcontrols_main.js:60
+msgid "Drag the beaker to the funnel to<br>filter the solution."
+msgstr "Drag the beaker to the funnel to<br>filter the solution."
+
+#: simcontrols_main.js:54 simcontrols_main.js:57 simcontrols_main.js:61
+msgid "Click on the knob of the burner<br>to turn it on."
+msgstr "Click on the knob of the burner<br>to turn it on."
+
+#: simcontrols_main.js:54
+msgid "Drag the glass rod to the china dish<br>to stir the solution."
+msgstr "Drag the glass rod to the china dish<br>to stir the solution."
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the china dish to the crystallising dish<br>to transfer the solution "
+"into it."
+msgstr ""
+"Drag the china dish to the crystallising dish<br>to transfer the solution "
+"into it."
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the watch glass to the crystallising dish<br>to cover the dish with it."
+msgstr ""
+"Drag the watch glass to the crystallising dish<br>to cover the dish with it."
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the crystallising dish to the cold water<br>trough to place the dish in "
+"it."
+msgstr ""
+"Drag the crystallising dish to the cold water<br>trough to place the dish in "
+"it."
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the crystallising dish to the beaker<br>to decant the mother liquor "
+"into it."
+msgstr ""
+"Drag the crystallising dish to the beaker<br>to decant the mother liquor "
+"into it."
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the bottle to the crystallising dish<br>to wash the crystals with ethyl "
+"alcohol."
+msgstr ""
+"Drag the bottle to the crystallising dish<br>to wash the crystals with ethyl "
+"alcohol."
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the crystallising dish to<br>the filter paper to transfer<br>the "
+"crystals into it."
+msgstr ""
+"Drag the crystallising dish to<br>the filter paper to transfer<br>the "
+"crystals into it."
+
+#: simcontrols_main.js:55 simcontrols_main.js:62
+msgid ""
+"Drag the filter paper to the filter paper<br>containing crystals to dry the "
+"crystals."
+msgstr ""
+"Drag the filter paper to the filter paper<br>containing crystals to dry the "
+"crystals."
+
+#: simcontrols_main.js:55
+msgid "Drag the filter paper to the watch glass<br>to transfer the crystals."
+msgstr "Drag the filter paper to the watch glass<br>to transfer the crystals."
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the watch glass to the beaker to add<br>potassium sulphate into the "
+"distilled water."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>potassium sulphate into the "
+"distilled water."
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the watch glass to the beaker to add<br>aluminium sulphate to the "
+"distilled water."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>aluminium sulphate to the "
+"distilled water."
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the measuring jar to the beaker to<br>pour 1 ml dil. dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+msgstr ""
+"Drag the measuring jar to the beaker to<br>pour 1 ml dil. dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+
+#: simcontrols_main.js:57
+msgid "Drag the beaker to the burner to heat<br>aluminium sulphate solution."
+msgstr "Drag the beaker to the burner to heat<br>aluminium sulphate solution."
+
+#: simcontrols_main.js:57
+msgid ""
+"Drag the beaker to the china dish to transfer<br>aluminium sulphate solution "
+"into it."
+msgstr ""
+"Drag the beaker to the china dish to transfer<br>aluminium sulphate solution "
+"into it."
+
+#: simcontrols_main.js:57
+msgid ""
+"Drag the beaker to the china dish to transfer<br>potassium sulphate solution "
+"to it."
+msgstr ""
+"Drag the beaker to the china dish to transfer<br>potassium sulphate solution "
+"to it."
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the watch glass to the beaker to add<br>ferric chloride into the "
+"distilled water."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>ferric chloride into the "
+"distilled water."
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the watch glass to the beaker to add<br>potassium hydroxide to the "
+"distilled water."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>potassium hydroxide to the "
+"distilled water."
+
+#: simcontrols_main.js:58
+msgid "Drag the glass rod to the beaker<br>to stir the contents"
+msgstr "Drag the glass rod to the beaker<br>to stir the contents"
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the beaker to add potassium hydroxide<br>solution to the beaker "
+"containing ferric<br>chloride solution."
+msgstr ""
+"Drag the beaker to add potassium hydroxide<br>solution to the beaker "
+"containing ferric<br>chloride solution."
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the filter paper to the Buchner funnel<br>to place it in the funnel"
+msgstr ""
+"Drag the filter paper to the Buchner funnel<br>to place it in the funnel"
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the beaker to the Buchner funnel<br>to filter the contents of the "
+"beaker."
+msgstr ""
+"Drag the beaker to the Buchner funnel<br>to filter the contents of the "
+"beaker."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>hydrated oxalic acid into the "
+"distilled water."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>hydrated oxalic acid into the "
+"distilled water."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>hydrated potassium oxalate to "
+"the beaker."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>hydrated potassium oxalate to "
+"the beaker."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>ferric hydroxide precipitate."
+msgstr ""
+"Drag the watch glass to the beaker to add<br>ferric hydroxide precipitate."
+
+#: simcontrols_main.js:61
+msgid "Drag the glass rod to the china dish to<br>stir the solution."
+msgstr "Drag the glass rod to the china dish to<br>stir the solution."
+
+#: simcontrols_main.js:61
+msgid ""
+"Drag the china dish to the cold water trough<br> to place the dish in it."
+msgstr ""
+"Drag the china dish to the cold water trough<br> to place the dish in it."
+
+#: simcontrols_main.js:61
+msgid ""
+"Drag the black paper to the cold water trough<br>to cover the china dish "
+"with it."
+msgstr ""
+"Drag the black paper to the cold water trough<br>to cover the china dish "
+"with it."
+
+#: simcontrols_main.js:62
+msgid ""
+"Drag the bottle to the china dish to<br>wash the crystals with ethyl alcohol."
+msgstr ""
+"Drag the bottle to the china dish to<br>wash the crystals with ethyl alcohol."
+
+#: simcontrols_main.js:62
+msgid "Drag the china dish to the filter paper<br>to transfer the crystals."
+msgstr "Drag the china dish to the filter paper<br>to transfer the crystals."
+
+#: simcontrols_main.js:62
+msgid ""
+"Drag the filter paper to the watch glass<br>to transfer the crystals into it."
+msgstr ""
+"Drag the filter paper to the watch glass<br>to transfer the crystals into it."
+
+#: simcontrols_main.js:63
+msgid ""
+"The crystals of ferrous ammonium sulphate are<br>light green in colour and "
+"are monoclinic in shape."
+msgstr ""
+"The crystals of ferrous ammonium sulphate are<br>light green in colour and "
+"are monoclinic in shape."
+
+#: simcontrols_main.js:63
+msgid ""
+"The crystals of potash alum are colourless, transparent<br>crystals and are "
+"octahedral in shape."
+msgstr ""
+"The crystals of potash alum are colourless, transparent<br>crystals and are "
+"octahedral in shape."
+
+#: simcontrols_main.js:63
+msgid ""
+"Potassium trioxalatoferrate (III) are green in<br>colour and are octahedral "
+"in shape."
+msgstr ""
+"Potassium trioxalatoferrate (III) are green in<br>colour and are octahedral "
+"in shape."
+
+#: simcontrols_main.js:63
+msgid "Precipitate of ferric hydroxide filtered<br>through the Buchner funnel."
+msgstr ""
+"Precipitate of ferric hydroxide filtered<br>through the Buchner funnel."
+
+#: simcontrols_main.js:63
+msgid ""
+"Ferric chloride reacts with potassium hydroxide<br> to form brown "
+"precipitate of ferric hydroxide."
+msgstr ""
+"Ferric chloride reacts with potassium hydroxide<br> to form brown "
+"precipitate of ferric hydroxide."
+
+#~ msgid "Complex Potassium Ferric Oxalate"
+#~ msgstr "Complex Potassium Ferric Oxalate"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Detection of Starch in Food Samples"
+#~ msgstr "Detection of Starch in Food Samples"
+
+#~ msgid "Carrot extract"
+#~ msgstr "Carrot extract"
+
+#~ msgid "Wheat"
+#~ msgstr "Wheat"
+
+#~ msgid "Apple extract"
+#~ msgstr "Apple extract"
+
+#~ msgid "Egg white"
+#~ msgstr "Egg white"
+
+#~ msgid "Tomato extract "
+#~ msgstr "Tomato extract "
+
+#~ msgid "Oats"
+#~ msgstr "Oats"
+
+#~ msgid "Potato extract"
+#~ msgstr "Potato extract"
+
+#~ msgid "Bread piece"
+#~ msgstr "Bread piece"
+
+#~ msgid "Drag the dropper to the bottle to replace it."
+#~ msgstr "Drag the dropper to the bottle to replace it."
+
+#~ msgid "Select type of the test:"
+#~ msgstr "Select type of the test:"
+
+#~ msgid "Iodine test"
+#~ msgstr "Iodine test"
+
+#~ msgid "Result:  Presence of Starch"
+#~ msgstr "Result:  Presence of Starch"
+
+#~ msgid "Carrot"
+#~ msgstr "Carrot"
+
+#~ msgid "Apple"
+#~ msgstr "Apple"
+
+#~ msgid "Egg"
+#~ msgstr "Egg"
+
+#~ msgid "Tomato"
+#~ msgstr "Tomato"
+
+#~ msgid "Potato"
+#~ msgstr "Potato"
+
+#~ msgid "Bread"
+#~ msgstr "Bread"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Iodine Solution"
+#~ msgstr "Iodine Solution"

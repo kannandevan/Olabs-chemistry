@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2014-12-03 09:51+0530\n"
+"PO-Revision-Date: 2014-12-03 09:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:70
+msgid "Separation of Components of a Mixture"
+msgstr "Separation of Components of a Mixture"
+
+#: simcontrols.js:71
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:72
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:73
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:74
+msgid "Developed by CDAC Mumbai"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:75
+msgid "Next"
+msgstr "Next"
+
+#: simcontrols.js:75
+msgid "Water"
+msgstr "Water"
+
+#: simcontrols.js:75
+msgid "Sugar"
+msgstr "Sugar"
+
+#: simcontrols.js:75
+msgid "Salt"
+msgstr "Salt"
+
+#: simcontrols.js:75
+msgid "Naphthalene"
+msgstr "Naphthalene"
+
+#: simcontrols.js:75
+msgid "Anthracene"
+msgstr "Anthracene"
+
+#: simcontrols.js:75
+msgid "Camphor"
+msgstr "Camphor"
+
+#: simcontrols.js:75
+msgid "Soil"
+msgstr "Soil"
+
+#: simcontrols.js:75
+msgid "Sand"
+msgstr "Sand"
+
+#: simcontrols.js:75
+msgid "Select the mixture:"
+msgstr "Select the mixture:"
+
+#: simcontrols.js:75
+msgid "Ammonium Chloride"
+msgstr "Ammonium Chloride"
+
+#: simcontrols.js:76
+msgid "To separate naphthalene from the mixture"
+msgstr "To separate naphthalene from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate camphor from the mixture"
+msgstr "To separate camphor from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate anthracene from the mixture"
+msgstr "To separate anthracene from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate ammonium chloride from the mixture"
+msgstr "To separate ammonium chloride from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate sand from the mixture"
+msgstr "To separate sand from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate soil from the mixture"
+msgstr "To separate soil from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate salt from the mixture"
+msgstr "To separate salt from the mixture"
+
+#: simcontrols.js:76
+msgid "To separate sugar from the mixture"
+msgstr "To separate sugar from the mixture"
+
+#: simcontrols.js:87
+msgid "Drag the china dish and place it over the burner"
+msgstr "Drag the china dish and</br>place it over the burner"
+
+#: simcontrols.js:87
+msgid ""
+"Drag the funnel and place it over the china dish to collect the compound."
+msgstr ""
+"Drag the funnel and place it</br>over the china dish to collect</br>the "
+"compound."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the "
+"watch glass to place the compound in it"
+msgstr ""
+"Drag the spatula to the funnel</br>to collect the compound and drag</br>it "
+"to the watch glass to</br>place the compound in it."
+
+#: simcontrols.js:87
+msgid ""
+"To transfer the mixture into the beaker containing water, drag the china "
+"dish over it."
+msgstr ""
+"To transfer the mixture into the</br>beaker containing water, drag</br>the "
+"china dish over it."
+
+#: simcontrols.js:87
+msgid "Click on the glass  rod to stir the solution."
+msgstr "Click on the glass </br>rod to stir the solution."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the beaker over the funnel to collect the residue in the filter paper."
+msgstr ""
+"Drag the beaker over</br>the funnel to collect the</br>residue in the filter "
+"paper."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula to the funnel to collect the compound and drag it to the "
+"watch glass to place the compound in it."
+msgstr ""
+"Drag the spatula to the funnel</br>to collect the compound and drag</br>it "
+"to the watch glass to</br>place the compound in it."
+
+#: simcontrols.js:87
+msgid ""
+"To pour the filtrate from the beaker to the china dish, drag  the beaker "
+"over the china dish"
+msgstr ""
+"To pour the filtrate from the</br>beaker to the china dish, drag </br>the "
+"beaker over the china dish."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the spatula over the china dish to collect the compound and drag it to "
+"the watch glass to place the compound in it."
+msgstr ""
+"Drag the spatula over the</br>china dish to collect the</br>compound and "
+"drag it to the</br>watch glass to place the</br>compound in it."
+
+#: simcontrols.js:88
+msgid "Naphthalene is separated by the process of sublimation."
+msgstr "Naphthalene is separated by the process of sublimation."
+
+#: simcontrols.js:88
+msgid "Anthracene is separated by the process of sublimation."
+msgstr "Anthracene is separated by the process of sublimation."
+
+#: simcontrols.js:88
+msgid "Camphor is separated by the process of sublimation."
+msgstr "Camphor is separated by the process of sublimation."
+
+#: simcontrols.js:88
+msgid "Ammonium Chloride is separated by the process of sublimation."
+msgstr "Ammonium Chloride is separated by the process of sublimation."
+
+#: simcontrols.js:88
+msgid "Sand is separated by the process of filtration."
+msgstr "Sand is separated by the process of filtration."
+
+#: simcontrols.js:88
+msgid "Soil is separated by the process of filtration."
+msgstr "Soil is separated by the process of filtration."
+
+#: simcontrols.js:88
+msgid "Salt is separated by the process of evaporation."
+msgstr "Salt is separated by the process of evaporation."
+
+#: simcontrols.js:88
+msgid "Sugar is separated by the process of evaporation."
+msgstr "Sugar is separated by the process of evaporation."
+
+#: simcontrols.js:88
+msgid "Carefully heat sugar solution"
+msgstr ""
+"Carefully heat sugar solution because</br>under intense heat, sugar "
+"decomposes."
+
+#: simcontrols.js:92
+msgid "Start Sublimation"
+msgstr "Start Sublimation"
+
+#: simcontrols.js:92
+msgid "Start Filtration"
+msgstr "Start Filtration"
+
+#: simcontrols.js:92
+msgid "Start Evaporation"
+msgstr "Start Evaporation"
+
+#: simcontrols.js:92
+msgid "Reset"
+msgstr "Reset"
+
+#~ msgid "Drag the funnel and place it"
+#~ msgstr ""
+#~ "Drag the funnel and place it</br>over the china dish to collect</br>the "
+#~ "compound."
+
+#~ msgid "Drag the spatula to the funnel"
+#~ msgstr ""
+#~ "Drag the spatula to the funnel</br>to collect the compound and drag</"
+#~ "br>it to the watch glass to</br>place the compound in it."
+
+#~ msgid "To transfer the mixture into the"
+#~ msgstr ""
+#~ "To transfer the mixture into the</br>beaker containing water, drag</"
+#~ "br>the china dish over it."
+
+#~ msgid "Click on the glass"
+#~ msgstr "Click on the glass </br>rod to stir the solution."
+
+#~ msgid "Drag the beaker over"
+#~ msgstr ""
+#~ "Drag the beaker over</br>the funnel to collect the</br>residue in the "
+#~ "filter paper."
+
+#~ msgid "Drag the spatula to the"
+#~ msgstr ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag "
+#~ "it to the watch glass</br>to place the compound in it."
+
+#~ msgid "To pour the filtrate from the"
+#~ msgstr ""
+#~ "To pour the filtrate from the</br>beaker to the china dish, drag </br>the "
+#~ "beaker over the china dish"
+
+#~ msgid "Drag the spatula over the"
+#~ msgstr ""
+#~ "Drag the spatula over the</br>china dish to collect the</br>compound and "
+#~ "drag it to the</br>watch glass to place the</br>compound in it."
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag "
+#~ "it to the watch glass</br>to place the compound in it."
+#~ msgstr ""
+#~ "Drag the spatula to the</br>funnel to collect the compound</br>and drag "
+#~ "it to the watch glass</br>to place the compound in it."
+
+#~ msgid ""
+#~ "Carefully heat sugar solution because</br>under intense heat, sugar "
+#~ "decomposes."
+#~ msgstr ""
+#~ "Carefully heat sugar solution because</br>under intense heat, sugar "
+#~ "decomposes."
+
+#~ msgid "To separate&nbsp;"
+#~ msgstr "To separate&nbsp;"

@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2014-01-28 15:08+0530\n"
+"PO-Revision-Date: 2014-01-28 15:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: en <en>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:45
+msgid "Properties of Acids and Bases"
+msgstr "Properties of Acids and Bases"
+
+#: simcontrols.js:46
+msgid "Select the sample:"
+msgstr "Select the sample:"
+
+#: simcontrols.js:46
+msgid "Select the reactant:"
+msgstr "Select the reactant:"
+
+#: simcontrols.js:46
+msgid "Result"
+msgstr "Result"
+
+#: simcontrols.js:46
+msgid "Litmus solution"
+msgstr "Litmus solution"
+
+#: simcontrols.js:46
+msgid "Zinc metal"
+msgstr "Zinc metal"
+
+#: simcontrols.js:46
+msgid "Solid "
+msgstr "Solid "
+
+#: simcontrols.js:46
+msgid "Acid"
+msgstr "Acid"
+
+#: simcontrols.js:46
+msgid "Base"
+msgstr "Base"
+
+#: simcontrols.js:46
+msgid " & Distilled Water"
+msgstr " & Distilled Water"
+
+#: simcontrols.js:46
+msgid "Phenolphthalein"
+msgstr "Phenolphthalein"
+
+#: simcontrols.js:46
+msgid "Lime water"
+msgstr "Lime water"
+
+#: simcontrols.js:50
+msgid "Sample 1"
+msgstr "Sample 1"
+
+#: simcontrols.js:50
+msgid "Sample 2"
+msgstr "Sample 2"
+
+#: simcontrols.js:50
+msgid "Sample 3"
+msgstr "Sample 3"
+
+#: simcontrols.js:50
+msgid "Sample 4"
+msgstr "Sample 4"
+
+#: simcontrols.js:50
+msgid "Sample 5"
+msgstr "Sample 5"
+
+#: simcontrols.js:50
+msgid "Sample 6"
+msgstr "Sample 6"
+
+#: simcontrols.js:50
+msgid "Sample 7"
+msgstr "Sample 7"
+
+#: simcontrols.js:52
+msgid ""
+"The given sample is an acid that turns blue litmus solution to</br>red, but "
+"does not affect the red litmus solution.  It</br>has a pH value less than 7."
+msgstr ""
+"The given sample is an acid that turns blue litmus solution to</br>red, but "
+"does not affect the red litmus solution.  It</br>has a pH value less than 7."
+
+#: simcontrols.js:52
+msgid ""
+"The given sample is a base that turns red litmus solution to</br>blue, but "
+"does not affect the blue litmus solution.  It</br>has a pH value greater "
+"than 7."
+msgstr ""
+"The given sample is a base that turns red litmus solution to</br>blue, but "
+"does not affect the blue litmus solution.  It</br>has a pH value greater "
+"than 7."
+
+#: simcontrols.js:52
+msgid ""
+"The given sample is an acid that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+msgstr ""
+"The given sample is an acid that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+
+#: simcontrols.js:52
+msgid ""
+"The given sample is a base that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+msgstr ""
+"The given sample is a base that reacts with zinc metal to liberate</"
+"br>colourless, odourless hydrogen that causes the flame to flare up.</br>The "
+"flame then dips out with a mild explosion and a popping sound."
+
+#: simcontrols.js:52
+msgid ""
+"The given sample is an acid that reacts with sodium carbonate to</"
+"br>liberate carbon dioxide gas that turns the lime water milky."
+msgstr ""
+"The given sample is an acid that reacts with sodium carbonate to</"
+"br>liberate carbon dioxide gas that turns the lime water milky."
+
+#: simcontrols.js:52
+msgid ""
+"The given sample and sodium carbonate are bases, so they</br>don't react but "
+"form an alkaline solution. Phenolphthalein</br>produces a pink colour in "
+"alkaline medium."
+msgstr ""
+"The given sample and sodium carbonate are bases, so they</br>don't react but "
+"form an alkaline solution. Phenolphthalein</br>produces a pink colour in "
+"alkaline medium."
+
+#: simcontrols.js:52
+msgid "Drag and dip the dropper into</br>the beaker to draw the solution."
+msgstr "Drag and dip the dropper into</br>the beaker to draw the solution."
+
+#: simcontrols.js:52
+msgid "Drag the dropper to the first</br>test tube to pour the solution."
+msgstr "Drag the dropper to the first</br>test tube to pour the solution."
+
+#: simcontrols.js:52
+msgid ""
+"Again drag and dip the dropper</br>into the beaker to draw the solution."
+msgstr ""
+"Again drag and dip the dropper</br>into the beaker to draw the solution."
+
+#: simcontrols.js:52
+msgid "Drag the dropper to the second</br>test tube to pour the solution."
+msgstr "Drag the dropper to the second</br>test tube to pour the solution."
+
+#: simcontrols.js:52
+msgid ""
+"Drag the beaker containing the</br>sample solution to the test tube</br>to "
+"pour it in."
+msgstr ""
+"Drag the beaker containing the</br>sample solution to the test tube</br>to "
+"pour it in."
+
+#: simcontrols.js:52
+msgid "Drag the cork to the</br>test tube to close it."
+msgstr "Drag the cork to the</br>test tube to close it."
+
+#: simcontrols.js:52
+msgid "Click on the knob to</br>turn on/turn off the burner."
+msgstr "Click on the knob to</br>turn on/turn off the burner."
+
+#: simcontrols.js:52
+msgid "Drag the match stick</br>over the test tube."
+msgstr "Drag the match stick</br>over the test tube."
+
+#: simcontrols.js:52
+msgid ""
+"Drag the beaker containing</br>the sample solution to the</br>thistle funnel "
+"to pour it in."
+msgstr ""
+"Drag the beaker containing</br>the sample solution to the</br>thistle funnel "
+"to pour it in."
+
+#: simcontrols.js:52
+msgid ""
+"Drag the beaker containing</br>the sample solution to the</br>test tube to "
+"pour it in."
+msgstr ""
+"Drag the beaker containing</br>the sample solution to the</br>test tube to "
+"pour it in."
+
+#: simcontrols.js:60
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:78
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:79
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:80
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:81
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#~ msgid ""
+#~ "Drag the dropper above</br>the sample solution beaker</br>to suck the "
+#~ "solution."
+#~ msgstr ""
+#~ "Drag the dropper above</br>the sample solution beaker</br>to suck the "
+#~ "solution."
+
+#~ msgid "Drag the dropper again</br>to the solution beaker."
+#~ msgstr "Drag the dropper again</br>to the solution beaker."
+
+#~ msgid ""
+#~ "Drag the droppper to</br>the second tube for pour</br>it to the second "
+#~ "test tube."
+#~ msgstr ""
+#~ "Drag the droppper to</br>the second tube for pour</br>it to the second "
+#~ "test tube."
+
+#~ msgid "Drag the beaker contain indicator</br>solution to the test tube."
+#~ msgstr "Drag the beaker contain indicator</br>solution to the test tube."
+
+#~ msgid "Decomposition Reaction"
+#~ msgstr "Decomposition Reaction"
+
+#~ msgid "Thermal Decomposition"
+#~ msgstr "Thermal Decomposition"
+
+#~ msgid "Electrolytic Decomposition"
+#~ msgstr "Electrolytic Decomposition"
+
+#~ msgid "Photo Decomposition"
+#~ msgstr "Photo Decomposition"
+
+#~ msgid "Copper Carbonate"
+#~ msgstr "Copper Carbonate"
+
+#~ msgid "Ferrous Sulphate"
+#~ msgstr "Ferrous Sulphate"
+
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgid "Sodium Chloride"
+#~ msgstr "Sodium Chloride"
+
+#~ msgid "Silver Chloride"
+#~ msgstr "Silver Chloride"
+
+#~ msgid "Silver Bromide"
+#~ msgstr "Silver Bromide"
+
+#~ msgid "To separate "
+#~ msgstr "To separate "
+
+#~ msgid " from the mixture"
+#~ msgstr " from the mixture"
+
+#~ msgid "Select the mixture:"
+#~ msgstr "Select the mixture:"
+
+#~ msgid "Chemical reaction :"
+#~ msgstr "Chemical reaction :"
+
+#~ msgid "Select the power of the light from the source :"
+#~ msgstr "Select the power of the light from the source :"
+
+#~ msgid "Select the distance of the light from the sample :"
+#~ msgstr "Select the distance of the light from the sample :"
+
+#~ msgid "Rheostat Resistance :"
+#~ msgstr "Rheostat Resistance :"
+
+#~ msgid "Select the type of reaction :"
+#~ msgstr "Select the type of reaction :"
+
+#~ msgid " W"
+#~ msgstr " W"
+
+#~ msgid " ohm"
+#~ msgstr " ohm"
+
+#~ msgid "cm"
+#~ msgstr "cm"
+
+#~ msgid "Anode(+ve electrode) :"
+#~ msgstr "Anode (+ve electrode) :"
+
+#~ msgid "Cathode(-ve electrode) :"
+#~ msgstr "Cathode (-ve electrode) :"
+
+#~ msgid "Overall:"
+#~ msgstr "Overall:"
+
+#~ msgid "0 ohm"
+#~ msgstr "0 ohm"
+
+#~ msgid "40 W"
+#~ msgstr "40 W"
+
+#~ msgid "50cm"
+#~ msgstr "50cm"
+
+#~ msgid "Switch On"
+#~ msgstr "Switch On"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#~ msgid "Switch Off"
+#~ msgstr "Switch Off"
+
+#~ msgid "Strong heat"
+#~ msgstr "Strong heat"
+
+#~ msgid "80&deg;C-100&deg;C"
+#~ msgstr "80&deg;C-100&deg;C"
+
+#~ msgid ""
+#~ "Copper carbonate decomposes at about 290&deg;C</br>giving off carbon "
+#~ "dioxide and leaving copper (II) oxide."
+#~ msgstr ""
+#~ "Copper carbonate decomposes at about 290&deg;C</br>giving off carbon "
+#~ "dioxide and leaving copper (II) oxide."
+
+#~ msgid ""
+#~ "When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+#~ "the water molecules to form</br>white coloured anhydrous FeSO<sub>4</"
+#~ "sub>. On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes "
+#~ "to form a reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and "
+#~ "SO<sub>2</sub> and</br>SO<sub>3</sub> gases."
+#~ msgstr ""
+#~ "When heated to 80&deg;C-100&deg;C, FeSO<sub>4</sub>. 7H<sub>2</sub>O lose "
+#~ "the water molecules to form</br>white coloured anhydrous FeSO<sub>4</"
+#~ "sub>. On strongly heating, the anhydrous FeSO<sub>4</sub></br>decomposes "
+#~ "to form a reddish-brown residue of Fe<sub>2</sub>O<sub>3</sub> and "
+#~ "SO<sub>2</sub> and</br>SO<sub>3</sub> gases."
+
+#~ msgid ""
+#~ "When an electric current is being passed through water, it decomposes</"
+#~ "br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas "
+#~ "(O<sub>2</sub>) at the</br>anode. The amount of hydrogen generated is "
+#~ "twice that of oxygen."
+#~ msgstr ""
+#~ "When an electric current is being passed through water, it decomposes</"
+#~ "br>into hydrogen gas (H<sub>2</sub>) at the cathode and oxygen gas "
+#~ "(O<sub>2</sub>) at the</br>anode. The amount of hydrogen generated is "
+#~ "twice that of oxygen."
+
+#~ msgid ""
+#~ "When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+#~ "sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions "
+#~ "undergo oxidation to form chlorine gas. At the cathode,</br>water "
+#~ "molecules reduced to form hydrogen gas, leaving OH<sup>-</sup> ions. "
+#~ "Na<sup>+</sup> ions</br>and OH<sup>-</sup> ions react together to form "
+#~ "aqueous NaOH."
+#~ msgstr ""
+#~ "When sodium chloride is dissolved in water, it ionizes to form Na<sup>+</"
+#~ "sup> ions and Cl<sup>-</sup>.</br>At the anode, Cl<sup>-</sup> ions "
+#~ "undergo oxidation to form chlorine gas. At the cathode,</br>water "
+#~ "molecules reduced to form hydrogen gas, leaving OH<sup>-</sup> ions. "
+#~ "Na<sup>+</sup> ions</br>and OH<sup>-</sup> ions react together to form "
+#~ "aqueous NaOH."
+
+#~ msgid ""
+#~ "Silver chloride undergoes decomposition in the presence</br>of light "
+#~ "giving off chlorine gas and leaving metallic silver."
+#~ msgstr ""
+#~ "Silver chloride undergoes decomposition in the presence</br>of light "
+#~ "giving off chlorine gas and leaving metallic silver."
+
+#~ msgid ""
+#~ "Silver bromide undergoes decomposition in the presence</br>of light "
+#~ "giving off bromine gas and leaving metallic silver."
+#~ msgstr ""
+#~ "Silver bromide undergoes decomposition in the presence</br>of light "
+#~ "giving off bromine gas and leaving metallic silver."
+
+#~ msgid "Select the sample."
+#~ msgstr "Select the sample."
+
+#~ msgid "To start the experiment,</br>click on the Start button."
+#~ msgstr "To start the experiment,</br>click on the Start button."
+
+#~ msgid "Drag the test tube over the burner</br>to heat the compound."
+#~ msgstr "Drag the test tube over the burner</br>to heat the compound."
+
+#~ msgid "Move the slider to adjust</br>the rheostat resistance."
+#~ msgstr "Move the slider to adjust</br>the rheostat resistance."
+
+#~ msgid "Click on the switch on button."
+#~ msgstr "Click on the switch on button."
+
+#~ msgid "Use the slider to adjust</br>the power of the light."
+#~ msgstr "Use the slider to adjust</br>the power of the light."
+
+#~ msgid "Use the slider to adjust the</br>distance of the light source."
+#~ msgstr "Use the slider to adjust the</br>distance of the light source."
+
+#~ msgid ""
+#~ "Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+#~ msgstr ""
+#~ "Drag the spatula over the</br>test tube to put FeSO<sub>4</sub> into it."
+
+#~ msgid "To start the experiment,</br>click on the Switch on button."
+#~ msgstr "To start the experiment,</br>click on the Switch on button."
+
+#~ msgid "Click on the reset button</br>to redo the experiment."
+#~ msgstr "Click on the reset button</br>to redo the experiment."
+
+#~ msgid "Click on the start button."
+#~ msgstr "Click on the start button."
+
+#~ msgid "Adjust the rheostat resistance</br>by using the slider control."
+#~ msgstr "Adjust the rheostat resistance</br>by using the slider control."
+
+#~ msgid "Adjust the power of the light</br>by using the slider control."
+#~ msgstr "Adjust the power of the light</br>by using the slider control."
+
+#~ msgid "Move the lamp from the</br>compound by using the slider</br>control."
+#~ msgstr ""
+#~ "Move the lamp from the</br>compound by using the slider</br>control."
+
+#~ msgid "Anode:"
+#~ msgstr "Anode:"
+
+#~ msgid "Cathode:"
+#~ msgstr "Cathode:"
+
+#~ msgid "50 cm"
+#~ msgstr "50 cm"

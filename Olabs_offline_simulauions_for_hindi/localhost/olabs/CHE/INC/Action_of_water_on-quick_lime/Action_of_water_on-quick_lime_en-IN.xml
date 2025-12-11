@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_animatitle_01">
+	<TEXTVALUE>Combination Reaction</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_start">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2into">
+	<TEXT ID="2into_one">
+	 <TEXTVALUE>We'll require quick lime, distilled water, beakers, spatula, glass rod, test tube, dropper, and lime water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_02">
+	 <TEXTVALUE>Water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_03">
+	 <TEXTVALUE>Quick lime</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+
+
+
+
+<SCENE ID="3lime">
+	<TEXT ID="3lime_one">
+	 <TEXTVALUE>Take a small quantity of quick lime (Calcium oxide) using a spatula and transfer it into a beaker.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="3lime_two">
+	 <TEXTVALUE>Slowly add water into the beaker so that quick lime remains submerged in the water.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="3lime_therm01">
+	 <TEXTVALUE>Thermometer</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+<SCENE ID="4zoom">
+	<TEXT ID="4zoom_one">
+	 <TEXTVALUE>Quick lime reacts vigorously with water to produce a suspension of slaked lime releasing a large amount of heat.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4zoom_text_04">
+	 <TEXTVALUE>Slaked lime</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5zom">
+	<TEXT ID="5zom_one">
+	 <TEXTVALUE>Leave the beaker undisturbed for some time.  A clear solution of lime water appears as the suspension of slaked lime settles down to the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5zom_two">
+	 <TEXTVALUE>A clear solution of lime water appears as the suspension of slaked lime settles down.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_lime_tt01">
+	 <TEXTVALUE>Lime water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_texttt_05">
+	 <TEXTVALUE>Slaked lime</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="6zom1">
+	<TEXT ID="6zom1_one">
+	 <TEXTVALUE>Take a small quantity of lime water using a dropper and transfer it into a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6zom1_two">
+	 <TEXTVALUE>Cork the test tube with a cork and insert a glass tube into the test tube through the hole in the cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_lom_tt1">
+	 <TEXTVALUE>Lime water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_glat_txt01">
+	 <TEXTVALUE>Glass tube</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+
+
+<SCENE ID="7face">
+	<TEXT ID="7face_one">
+	 <TEXTVALUE>Blow exhaled air into the test tube through the glass tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8zoom3">
+	<TEXT ID="8zoom3_one">
+	 <TEXTVALUE>When exhaled air is blown, the CO2(g) it contains turns the lime water milky.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+	 <TEXTVALUE>In this reaction, quick lime and water combine to form a single product:  slaked lime (calcium hydroxide).  So this is a combination reaction.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_calsiumtxt_01">
+	 <TEXTVALUE>Slaked lime</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_bact_01">
+	 <TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+

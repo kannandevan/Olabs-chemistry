@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>പരീക്ഷണം നടത്താൻ "തുടക്കം" ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_1">
+	<TEXTVALUE>പൊട്ടാസ്യം അയൊഡൈഡും, ഹൈഡ്രജൻ പെറോക്സൈഡും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ കൈനറ്റിക് പഠനം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_2">
+	<TEXTVALUE>തുടക്കം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>നാല് വ്യത്യസ്ത കോണിക്കല്‍ ഫ്ലാസ്കുകളില്‍ 0.1 M KI ലായനി, ശുദ്ധജലം, അളവ് ജാറുകൾ, 2.5 M H₂SO₄, അന്നജം ലായനി, 0.05 M Na₂S₂O₃ ലായനി,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_two">
+	<TEXTVALUE>3% H₂O₂ ലായനി, ഗ്ലാസ് ദണ്ഡ്, സ്റ്റോപ്പ് വാച്ച് എന്നിവ നമുക്ക് ആവശ്യമാണ്‌</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_3">
+	<TEXTVALUE>0.1 M KI
+ലായനി  5 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>0.1 M KI
+ലായനി  10 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_5">
+	<TEXTVALUE>0.1 M KI
+ലായനി 15 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>0.1 M KI
+ലായനി 20 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>2.5 M
+H2SO4</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>അന്നജം
+ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>3% H2O2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>0.05 M
+Na2s2o3</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="2table2">
+	<TEXT ID="2table2_one">
+	<TEXTVALUE>5, 10, 15, 20 മി.ലി പൊട്ടാസ്യം അയൊഡൈഡ് ലായനി യഥാക്രമം A, B, C, D എന്നിങ്ങനെയുള്ള നാല് കോണിക്കല്‍ ഫ്ലാസ്കുകളില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3h2so4">
+	<TEXT ID="3h2so4_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 10 മി.ലി 2.5 M H₂SO₄ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4poura">
+	<TEXT ID="4poura_one">
+	<TEXTVALUE>അത് കോണിക്കല്‍ ഫ്ലാസ്ക് A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5chart">
+	<TEXT ID="5chart_one">
+	<TEXTVALUE>ശേഷിക്കുന്ന ഫ്ലാസ്കുകളിലും ഇതേ നടപടിക്രമം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sreing_12">
+	<TEXTVALUE>അന്നജം
+ലായനി (ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>വെള്ളം (ml) 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>3% H2O2 ലായനി (ml)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>നീല നിറത്തിൽ 
+കാണുന്ന 
+സമയം (T) 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Flaskno">
+	<TEXTVALUE> ഫ്ലാസ്ക് നമ്പർ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solutionml">
+	<TEXTVALUE>0.1M KI ലായനി  (ml)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="6pour2">
+	<TEXT ID="6pour2_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 85 മി.ലി ശുദ്ധജലം അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="7por3">
+	<TEXT ID="7por3_one">
+	<TEXTVALUE>ആകെ 100 മി.ലി ലായനി ഉണ്ടാക്കുവാനായി അത് ഫ്ലാസ്ക് A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Potassium_iodide46">
+	<TEXTVALUE> 0.1M [KI]
+      ലായനി
+       40ml </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="8chart2">
+	<TEXT ID="8chart2_one">
+	<TEXTVALUE>ആകെ 100 മി.ലി ലായനി ഉണ്ടാക്കുവാനായി അത് ഫ്ലാസ്ക് A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="9pour23">
+	<TEXT ID="9pour23_one">
+	<TEXTVALUE>പിന്നെ 80 മി.ലി ശുദ്ധജലം അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10pourb">
+	<TEXT ID="10pourb_one">
+	<TEXTVALUE>ആകെ 100 മി.ലി ലായനി ഉണ്ടാക്കുവാനായി അത് ഫ്ലാസ്ക് B യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11chart3">
+	<TEXT ID="11chart3_one">
+	<TEXTVALUE>100 മി.ലി ഉണ്ടാക്കുവാനായി 75, 70 മി.ലി ശുദ്ധജലം യഥാക്രമം ഫ്ലാസ്ക് C, D കളില്‍ ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="11starch">
+	<TEXT ID="11starch_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 5 മി.ലി അന്നജം ലായനി അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="12por4">
+	<TEXT ID="12por4_one">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക് A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="13chart4">
+	<TEXT ID="13chart4_one">
+	<TEXTVALUE>ശേഷിക്കുന്ന ഫ്ലാസ്കുകളിലും ഇതേ നടപടിക്രമം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="14sodiumthio">
+	<TEXT ID="14sodiumthio_one">
+	<TEXTVALUE>10 മി.ലി 0.05 M സോഡിയം തയോസൾഫേറ്റ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="15sodpour">
+	<TEXT ID="15sodpour_one">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക് A യില്‍ ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="16chart5">
+	<TEXT ID="16chart5_one">
+	<TEXTVALUE>ശേഷിക്കുന്ന ഫ്ലാസ്കുകളിലും ഇതേ നടപടിക്രമം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="17h2o2">
+	<TEXT ID="17h2o2_one">
+	<TEXTVALUE>അതിനുശേഷം, 5 മി.ലി 3% ഹൈഡ്രജൻ പെറോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="18h2o2pour">
+	<TEXT ID="18h2o2pour_one">
+	<TEXTVALUE>അതിനുശേഷം, 5 മി.ലി 3% ഹൈഡ്രജൻ പെറോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="19por6">
+	<TEXT ID="19por6_one">
+	<TEXTVALUE>ഫ്ലാസ്ക് A യിലേക്ക് അത് ഒഴിക്കുക, ഉടനെ സ്റ്റോപ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="20rot">
+	<TEXT ID="20rot_one">
+	<TEXTVALUE>ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് മിശ്രിതം ഇളക്കുകയും നീല നിറം ദൃശ്യമാകുന്നത് നോക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="20rot_two">
+	<TEXTVALUE>നീല നിറം ദൃശ്യമായ ഉടന്‍ സമയം ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="20rot_three">
+	<TEXTVALUE>നീല നിറം ദൃശ്യമായ ഉടന്‍ സമയം ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="21chart8">
+	<TEXT ID="21chart8_one">
+	<TEXTVALUE>ഫ്ലാസ്ക് B, C, D കളില്‍ 3% H₂O₂ ന്റെ 5 മി.ലി ചേർത്ത് പരീക്ഷണം ആവർത്തിക്കുക. ഓരോ സാഹചര്യത്തിലും നീല നിറം ആകുവാനായി എടുത്ത സമയം ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="21chart8_two">
+	<TEXTVALUE>ലായനി നീല നിറമാകാൻ എടുക്കുന്ന സമയം (t) Y - അക്ഷത്തിലും, KI യുടെ 1/വ്യാപ്തം X- അക്ഷത്തിലും എടുത്ത് ഒരു ഗ്രാഫ് വരയ്ക്കുക. ഇതൊരു ചരിഞ്ഞ നേർരേഖയായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart21">
+	<TEXTVALUE>നീല നിറം രൂപംകൊള്ളാൻ എടുക്കുന്ന സമയം  [s]</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="23last">
+	<TEXT ID="23last_one">
+	<TEXTVALUE>അയൊഡൈഡ് അയോണുകളുടെ ഗാഢത വർദ്ധിപ്പിച്ച് ഹൈഡ്രജൻ പെറോക്സൈഡുമായുള്ള അയൊഡൈഡ് അയോണുകളുടെ പ്രതിപ്രവർത്തനത്തിന്റെ തോത് വർദ്ധിപ്പിക്കാന്‍ കഴിയുമെന്ന് ഈ പ്രതിപ്രവർത്തനത്തില്‍ നിന്ന് നമുക്ക് അനുമാനിക്കാന്‍ കഴിയുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE>അയൊഡൈഡ് അയോണുകളുടെ ഗാഢത വർദ്ധിപ്പിച്ച് ഹൈഡ്രജൻ പെറോക്സൈഡുമായുള്ള അയൊഡൈഡ് അയോണുകളുടെ പ്രതിപ്രവർത്തനത്തിന്റെ തോത് വർദ്ധിപ്പിക്കാന്‍ കഴിയും.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>പിന്നോട്ട്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

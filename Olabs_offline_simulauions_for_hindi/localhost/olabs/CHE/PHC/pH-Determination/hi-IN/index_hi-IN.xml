@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ACETICACID">
+        <source>एसिटिक एसिड</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ACIDIC">
+        <source>अम्लीय</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_TITLE">
+        <source>पीएच का निर्धारण</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BACK">
+        <source>&lt;&lt;वापस</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BACKTXT">
+        <source>वापस</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BASIC">
+        <source>क्षार</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_START">
+        <source>प्रारंभ</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INDICATOR">
+        <source>सार्वत्रिक सूचक</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_NEUTRAL">
+        <source>उदासीन</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_PAPERSTRIP">
+        <source>पीएच पेपर स्ट्रिप</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TEST1">
+        <source>पीएच पेपर</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TEST2">
+        <source>सार्वत्रिक सूचक</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

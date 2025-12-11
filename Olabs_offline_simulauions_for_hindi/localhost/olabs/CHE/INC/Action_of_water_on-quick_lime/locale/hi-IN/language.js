@@ -1,0 +1,28 @@
+$.i18n.hi = {};
+ jQuery.i18n.hi.strings ={
+	"Drag the spatula </br>over the empty beaker to put</br> quick lime into it.": "खाली बीकर में</br> बुझा चूना डालने के लिए स्‍पैटुला इसके</br>ऊपर खींचें ।",
+	"Drag the distilled water beaker</br> to the beaker containing quick lime</br> to add water into it.": "अनबुझा चूना (क्विक लाइम)वाले</br> बीकर में पानी मिलाने के लिए डिस्टिल्‍ड पानी का</br> बीकर इसके पास खींचें।",
+	"Drag the dropper and dip it</br> in the beaker to suck lime water </br>into it, and then drag it to </br>the test tube to pour the solution</br> into the test tube.": "ड्रॉपर खींचें और बीकर में चूने का</br> पानी सोखने के लिए इसे बीकर में डुबाएं </br>और फिर टेस्ट ट्यूब में विलयन</br> (साल्यूशन) उड़ेलने के लिए इसे टेस्ट</br> ट्यूब के पास खींचें।",
+	"Drop the solution </br>in the test tube": "विलयन (साल्यूशन)</br> टेस्ट ट्यूब में डालें",
+	"Drag the cork to the</br> test tube to close it.</br>": "टेस्ट ट्यूब बंद करने के लिए इसके पास कॉर्क खींचें।</br>",
+	"Click here continuously </br>to blow exhaust air </br>into the tube.": "ट्यूब में एक्‍जास्‍ट हवा फूंकने </br>के लिए यहां लगातार क्लिक</br> करें।",
+	"Quick lime reacts vigorously with water releasing a large</br>amount of heat and producing a single product-slaked lime.</br>This is a combination reaction.": "मुंह से फूंकी गई हवा  में मौजूद CO<sub>2</sub>(g)  चूने के </br>पानी को दूधिया बना देती है।चूने के पानी का कैल्शियम कार्बोनेट का सफेद अवक्षेप </br>(प्रेसिपिटेशन) बनने की वजह सेदूधिया होता है।",
+	"CO<sub>2</sub>(g) contained in exhaled air turns lime water milky. The milky</br> apperance of lime water is due to the formation of white precipitate of </br>calcium carbonate.": "अनबुझा चूना (क्विक लाइम)तेजी से पानी के साथ अभिक्रिया करता है और ढेर सारी गर्मी मुक्‍त</br> करता है और एक एकल उत्पाद-बुझा चूना बनाता है। यह संयुक्‍त अभिक्रिया</br> (काम्बीनेशन रिएक्शन) है।",
+	"Quick lime": "क्विक लाइम",
+	"Distilled water": "डिस्टिल्‍ड पानी",
+	"Lime water": "चूने का पानी",
+	"Blow": "फूंक",
+	"Next": "आगे",
+	"Combination Reaction": "संयुक्‍त अभिक्रिया",
+	"HELP": "HELP",
+	"Reset": "रीसेट करें",
+	"Instructions": "निर्देश",
+	"<li>Drag the spatula over the empty beaker to put quick lime into it.</li><br />": "<li>खाली बीकर में अनबुझा चूना (क्विक लाइम)डालने के लिए इसके ऊपर स्पैटुला खींचें।</li><br />",
+	"<li>Drag the distilled water beaker to the beaker containing quick lime to add water into it.</li><br />": "<li>अनबुझा चूना (क्विक लाइम)वाले बीकर में पानी मिलाने के लिए डिस्टिल्‍ड पानी वाला बीकर इसके पास खींचें।</li><br />",
+	"<li>Wait for some time till the quick lime reacts with water to form slaked lime.</li><br />": "<li>जब तक अनबुझा चूना (क्विक लाइम)बुझा चूना बनाने के लिए पानी के साथ अभिक्रिया करता है तब तक कुछ समय के लिए प्रतीक्षा करें। </li><br />",
+	"<li>Click on the inference icon to view the inference.</li><br />": "<li>परिणाम देखने के लिए इन्‍फ्रेंस आइकन पर क्लिक करें।</li><br / >",
+	"<li>Click on the 'Next' button.</li><br />": "<li>'नेक्‍स्‍ट बटन पर क्लिक करें।</li><br />",
+	"<li value='6'>Clear solution of lime water is obtained as the suspension of slaked lime settle down at the bottom of the beaker.</li><br />": "<li value='6'> जब निलंबित बुझा चूना बीकर की तली में जम जाता है तो चूने के पानी के स्पष्ट विलयन (साल्यूशन) प्राप्त होता है।</li><br />",
+	"<li>Drag the dropper and dip it in the beaker to suck lime water into it, and then drag it to the test tube to pour the solution into the test tube.</li><br />": "<li>और उसके बाद टेस्ट ट्यूब में विलयन (साल्‍यूशन) उउ़लने के लिए इसे टेस्ट ट्यूब के पास खींचें</li><br />",
+	"<li value='9'>Click on the 'Blow' button 3-4 times to blow the exhaled air into the tube.</li><br />": "<li value='9'> ट्यूब में मुंह से हवा फूंकने के लिए फूंके' बटन पर 3-4 बार क्लिक करें। </li><br />"
+}

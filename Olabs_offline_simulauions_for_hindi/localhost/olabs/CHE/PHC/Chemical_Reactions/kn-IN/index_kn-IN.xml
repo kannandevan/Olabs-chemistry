@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="kn-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_AQUEOUSSOLUTION">
+        <source>ಕಾಪರ್ ಸಲ್ಫೇಟ್ನ ಜಲೀಯ ಪರಿಹಾರದೊಂದಿಗೆ ಐರನ್ ನೈಲ್ನ ಪ್ರತಿಕ್ರಿಯೆ</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_BACK">
+        <source>&lt;&lt;
+ಹಿಂದೆ</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_BARIUMCHLORIDE">
+        <source>ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BARIUMSULPHATE">
+        <source>ಬೇರಿಯಂ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_BEAKER">
+        <source>ಬೀಕರ್</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_BLUELIMTUSPAPER">
+        <source>ನೀಲಿ ಲಿಟ್ಮಸ್ ಪೇಪರ್</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_BROWNCOATING">
+        <source>ಬ್ರೌನ್ ಲೇಪನ</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_BURNINGMAGNESIUMAIR">
+        <source>ಏರ್ನಲ್ಲಿ ಮೆಗ್ನೀಸಿಯಮ್ ಅನ್ನು ಬರ್ನಿಂಗ್</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_COPPERSULPHATE">
+        <source>ಕಾಪರ್ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_COPPERSULPHATESOLUTION">
+        <source>ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಮಿಶ್ರಣ</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_CORK">
+        <source>ಕಾರ್ಕ್</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DAZZLINGFLAME">
+        <source>ಬೆರಗುಗೊಳಿಸುವ ಫ್ಲೇಮ್</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DILUTESULPHURICACID">
+        <source>ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವನ್ನು ದುರ್ಬಲಗೊಳಿಸಿ</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_DISTILLEDWATER">
+        <source>ಭಟ್ಟಿ ಇಳಿಸಿದ ನೀರು</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERROUSSULPHAT">
+        <source>ಫೆರಸ್ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_GLASSROD">
+        <source>ಗ್ಲಾಸ್ ರಾಡ್</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_GLASSTUBE">
+        <source>ಗಾಜಿನ ಕೊಳವೆ</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_HEATINGCOPPERSULPHATE">
+        <source>ಹೈಡ್ರೇಟೆಡ್ ಕಾಪರ್ ಸಲ್ಫೇಟ್ನ ತಾಪನ</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_IRONNAILS">
+        <source>ಐರನ್ ನೈಲ್ಸ್</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_KIPPSAPPARATUS">
+        <source>ಕಿಪ್ಪ್ಸ್ ಅಪ್ಪರಾಟಸ್</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_MAGNESIUMOXIDE">
+        <source>ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_MAGNESIUMRIBBON">
+        <source>ಮೆಗ್ನೀಸಿಯಮ್ ರಿಬ್ಬನ್</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_MAINTITLE">
+        <source>ರಾಸಾಯನಿಕ ಪ್ರತಿಕ್ರಿಯೆಗಳು</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_MOISTREDLITMUSPAPER">
+        <source>ತೇವವಾದ ಕೆಂಪು ಲಿಟ್ಮಸ್ ಪೇಪರ್</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_NAIL">
+        <source>ಉಗುರು</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_REACTIONAQUEOUS">
+        <source>Na₂SO₄ &amp; BaCl an ನ Aqueous ಮಿಶ್ರಣದ ನಡುವಿನ ಪ್ರತಿಕ್ರಿಯೆ</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_REACTIONIRONNAIL_COPPERSULPHATE">
+        <source>ಕಾಪರ್ ಸಲ್ಫೇಟ್ನೊಂದಿಗೆ ಐರನ್ ನೈಲ್ನ ಪ್ರತಿಕ್ರಿಯೆ</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_REDLITMUSPAPER">
+        <source>ಕೆಂಪು ಲಿಟ್ಮಸ್ ಪೇಪರ್</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_REFERENCE">
+        <source>[Reference]</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_SANDPAPER">
+        <source>ಮರಳು ಪೇಪರ್</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_SODIUMSULPHATE">
+        <source>ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_SODIUMSULPHATE_BARIUMCHLORIDE">
+        <source>ಬೇರಿಯಮ್ ಕ್ಲೋರೈಡ್ನೊಂದಿಗೆ ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_START">
+        <source>ಪ್ರಾರಂಭಿಸಿ</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_TESTTUBESTAND">
+        <source>ಟೆಸ್ಟ್ ಟ್ಯೂಬ್ ಸ್ಟ್ಯಾಂಡ್</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_THREAD">
+        <source>ಎಳೆ</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_TITLE">
+        <source>ರಾಸಾಯನಿಕ ಪ್ರತಿಕ್ರಿಯೆಗಳು</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_ZINC_SULPHURIC_ACID">
+        <source>ಒಂದು ಜಲೀಯ ಪರಿಹಾರದ ನಡುವಿನ ಪ್ರತಿಕ್ರಿಯೆ</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_ZINC_SULPHURICTITLE">
+        <source>ಡಿಲ್ನೊಂದಿಗೆ ಝಿಂಕ್ನ ಪ್ರತಿಕ್ರಿಯೆ. ಸಲ್ಫ್ಯೂರಿಕ್ ಆಸಿಡ್</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_ZINCMETAL">
+        <source>ಝಿಂಕ್ ಮೆಟಲ್</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_ZINCSULPHATE">
+        <source>ಝಿಂಕ್ ಸಲ್ಫೇಟ್</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

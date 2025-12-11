@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_1">
+	<TEXTVALUE>Saponification : The Process of Making Soap</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_2">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>We require measuring cylinders, common salt, glass beakers, coconut oil, 20% NaOH solution, Bunsen burner, glass rod, funnel, filter paper, wire gauze, tripod stand and clamp stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_3">
+	<TEXTVALUE>Common salt[15g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_4">
+	<TEXTVALUE>Coconut oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_5">
+	<TEXTVALUE>[20%] NaOH 
+Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_6">
+	<TEXTVALUE>Measuring 
+cylinders</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_7">
+	<TEXTVALUE>Common salt</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_8">
+	<TEXTVALUE>Glass beaker
+ (250 ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_9">
+	<TEXTVALUE>Coconut oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_10">
+	<TEXTVALUE>20% NaOH Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_11">
+	<TEXTVALUE>Bunsen burner</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_12">
+	<TEXTVALUE>Filter funnel</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>Measure 25 ml coconut oil into a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>Measure 25 ml coconut oil into a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>Pour the oil into a glass beaker.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>Take another measuring cylinder and </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>measure 30 ml 20% NaOH solution in it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_string_13">
+	<TEXTVALUE>[20%] NaOH 
+Solution</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>Pour it into the beaker containing coconut oil.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>Stir the mixture vigorously using a glass rod.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>Touch the beaker from outside.  It will be observed that the beaker is warm. This is due to the exothermic reaction between vegetable oil (coconut oil) and sodium hydroxide solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab8_string_14">
+	<TEXTVALUE>Remove</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>Place the beaker on a Bunsen burner and heat it until the mixture becomes a whitish paste. The mixture is made up of soap (in suspension form) and glycerol.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_two">
+	<TEXTVALUE>Remove the beaker from the flame and allow it to cool.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>Dip a red litmus paper in the suspension formed.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_two">
+	<TEXTVALUE>When dipped in the suspension, red litmus paper changes to blue colour. This shows that soap solution is basic in nature.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_15">
+	<TEXTVALUE>Red litmus paper</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_16">
+	<TEXTVALUE>Basic in nature</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>Dip a blue litmus paper in the suspension.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_17">
+	<TEXTVALUE>Blue litmus paper</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_18">
+	<TEXTVALUE>Not acidic in nature</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_two">
+	<TEXTVALUE>The colour of blue litmus paper remains the same. This shows that soap suspension is not acidic in nature.
+	</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>Add 15 g of common salt into the suspension.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_bet_string">
+	<TEXTVALUE>Common salt[15g]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>Stir it well with a glass rod.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_two">
+	<TEXTVALUE>It is observed that the soap is precipitated out as a solid.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>Take a filter paper and fix it in a filter funnel and</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab14_string_19">
+	<TEXTVALUE>Filter
+paper</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab15">
+	<TEXT ID="Lab15_one">
+	<TEXTVALUE>hold a glass rod over the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab15_string_20">
+	<TEXTVALUE>Glass rod</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>Take the beaker containing soap and </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>pour it over the glass rod and filter the mixture. Soap is left on the filter paper.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>Take a filter paper and </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab18_string_21">
+	<TEXTVALUE>Filter paper</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>remove soap from the funnel using a spatula and</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>place it on the filter paper.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>remove soap from the funnel using a spatula and</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>place it on the filter paper.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>Dry the soap by pressing it with another filter paper.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>Cut it into the desired shape with a knife.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>Soap is thus prepared.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_last_1">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

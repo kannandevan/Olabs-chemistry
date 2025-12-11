@@ -1,0 +1,162 @@
+﻿<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="intro">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>ഒരു സെല്ലിന്റെ EMF നിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start">
+	 	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene1">
+	<TEXT ID="zinc">
+	 <TEXTVALUE>സിങ്ക് ദണ്ഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper">
+	 <TEXTVALUE>കോപ്പര്‍ ദണ്ഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zinc_sulph">
+	 <TEXTVALUE>സിങ്ക് സൾഫേറ്റ്
+	  ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="voltmeter">
+	 <TEXTVALUE>വോൾട്ട്  മീറ്റര്‍</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_sulph">
+	 <TEXTVALUE>കോപ്പർ സൾഫേറ്റ്
+	  ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="bridge">
+	 <TEXTVALUE>സാൾട്ട്  ബ്രിഡ്ജ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="zink_solu">
+	 <TEXTVALUE>1M ZnSO&#x2084;ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="copper_solu">
+	 <TEXTVALUE>1M CuSO&#x2084;ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene1_one">
+	 <TEXTVALUE>സിങ്ക് സ്ട്രിപ്പ്, കോപ്പര്‍ സ്ട്രിപ്പ്, 1M ZnSO4 ലായനി, വോൾട്ട്  മീറ്റര്‍, 1M CuSO4 ലായനി, സാൾട്ട്  ബ്രിഡ്ജ്, കണക്റ്റിംഗ് വയറുകള്‍, സാൻഡ് പേപ്പര്‍ മുതലായവ നമുക്ക് ആവശ്യമാണ്‌.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takecopper2">
+	<TEXT ID="takecopper2_one">
+	 <TEXTVALUE>കോപ്പര്‍ സ്ട്രിപ്പ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean3">
+	<TEXT ID="sand_aper">
+	 <TEXTVALUE>സാൻഡ് പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="clean3_one">
+	 <TEXTVALUE>സാൻഡ് പേപ്പറിന്റെ സഹായത്തോടെ അതു വൃത്തിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution4">
+	<TEXT ID="dipethesolution4_one">
+	 <TEXTVALUE>1M കോപ്പർ സൾഫേറ്റ് ലായനി അടങ്ങുന്ന ബീക്കറിലേക്ക് കോപ്പര്‍ സ്ട്രിപ്പ് മുക്കിവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="clean5">
+	<TEXT ID="clean5_one">
+	 <TEXTVALUE>അതുപോലെ, സിങ്ക് സ്ട്രിപ്പ് എടുത്ത് സാൻഡ് പേപ്പര്‍ കൊണ്ട് അത് വൃത്തിയാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipethesolution6">
+	<TEXT ID="dipethesolution6_one">
+	 <TEXTVALUE>അതിനുശേഷം, 1M സിങ്ക് സൾഫേറ്റ് ലായനി അടങ്ങുന്ന മറ്റൊരു ബീക്കറില്‍ അത് മുക്കിവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takesaltbridge7">
+	<TEXT ID="takesaltbridge7_one">
+	 <TEXTVALUE>സാൾട്ട് ബ്രിഡ്ജ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dipsaltbridge8">
+	<TEXT ID="dipsaltbridge8_one">
+	 <TEXTVALUE>സാൾട്ട്  ബ്രിഡ്ജ് വഴി രണ്ടു ലായനികള്‍ ബന്ധിപ്പിക്കുക. [K2SO4, KCl, KNO3 തുടങ്ങിയവ പോലുള്ള നിർജീവമായ ഇലക്ട്രോലൈറ്റ് ലായനി നിറച്ച് തലകീഴാക്കിയ ഒരു യു-ട്യൂബ് ആണ് സാൾട്ട് ബ്രിഡ്ജ്].</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="dipsaltbridge8_two">
+	 <TEXTVALUE>ഇപ്പോൾ വോൾട്ട്  മീറ്ററിന്റെ പോസിറ്റീവ് ടെര്‍മിനലില്‍ കോപ്പര്‍ സ്ട്രിപ്പ് കണക്ടിംഗ് വയർ ഉപയോഗിച്ച് ബന്ധിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge8_three">
+	 <TEXTVALUE>വോൾട്ട്  മീറ്ററില്‍ സൂചികയുടെ സ്ഥാനം ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="dipsaltbridge11">
+	<TEXT ID="dipsaltbridge11_one">
+	 <TEXTVALUE>വോൾട്ട്  മീറ്ററിന്റെ നെഗറ്റീവ് ടെർമിനലില്‍ സിങ്ക് സ്ട്രിപ്പ് മറ്റൊരു കണക്ട്ടിങ്ങ് വയർ ഉപയോഗിച്ച് ബന്ധിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="dipsaltbridge11_two">
+	 <TEXTVALUE>വോൾട്ട്  മീറ്ററില്‍ സൂചികയുടെ സ്ഥാനം ശ്രദ്ധിക്കുകയും റീഡിംഗ് രേഖപ്പെടുത്തുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="chart9">
+	<TEXT ID="table_h1">
+	 <TEXTVALUE>ZnSO&#x2084;ലായനിയുടെ സംയോജകത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+	 <TEXTVALUE>CuSO&#x2084;ലായനിയുടെ സംയോജകത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+	 <TEXTVALUE>സെല്ലിന്റെ EMF</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart9_one">
+	 <TEXTVALUE>ഈ മൂല്യം സെല്ലിന്റെ E.M.F ആണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart10">
+	<TEXT ID="line_1">
+	 <TEXTVALUE>സിങ്ക് സൾഫേറ്റ്, കോപ്പർ സൾഫേറ്റ് ലായനികളുടെ വിവിധ സംയോജകതയില്‍
+പരീക്ഷണം ആവർത്തിക്കുകയും ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart10_one">
+	 <TEXTVALUE>സിങ്ക് സൾഫേറ്റ്, കോപ്പർ സൾഫേറ്റ് ലായനികളുടെ വിവിധ സംയോജകതയില്‍ പരീക്ഷണം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart12">
+	<TEXT ID="chart12_one">
+	 <TEXTVALUE>നിരീക്ഷണത്തിലൂടെ, ആനോഡിനു(സിങ്ക് ഇലക്ട്രോഡ്) ചുറ്റുമുള്ള ഇലക്ട്രോലൈറ്റിന്റെ സാന്ദ്രത കുറയുന്നതിനനുസരിച്ചും, കാഥോഡിനു(കോപ്പര്‍ ഇലക്ട്രോഡ്) ചുറ്റുമുള്ള ഇലക്ട്രോലൈറ്റിന്റെ സാന്ദ്രത കൂടുന്നതിനനുസരിച്ചും ഒരു സെല്ലിന്റെ E.M.F കൂടുന്നു എന്നു മനസിലാക്കാം.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+	 <TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+</DATA>
+

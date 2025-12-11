@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>हमें फिनोल सान्द्र सल्फ्यूरिक एसिड (या तरल पैराफिन), कैपिलरी ट्यूब, थर्मामीटर, धागा, क्लै्म्पम सहित आयरन स्टै ण्डप, टेस्ट ट्यूब, बीकर, विलोड़क, तार की जाली, तिपाए स्टैंड, बुन्सेटन बर्नर आदि की जरूरत होगी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+		<TEXTVALUE>टेस्ट ट्यूब लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takephenol">
+	<TEXT ID="takephenol_one">
+		<TEXTVALUE>ड्रापर की मदद से फिनोल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>फिनोल से दो-तिहाई टेस्ट ट्यूब भर दें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>धागे से टेस्ट  ट्यूब थर्मामीटर पर लगाएं। धागा टेस्ट ट्यूब के मुँह के पास लगाया जाना चाहिए।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="taksulph">
+	<TEXT ID="taksulph_one">
+		<TEXTVALUE>सान्द्र सल्फ्यूरिक एसिड लें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+     <TEXTVALUE>कीप की मदद से सान्द्र सल्फ्यूरिक एसिड से बीकर भर दें।  </TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>बुन्सेन बर्नर पर रखे तार की जाली पर बीकर रखें और उस में विलोड़क डालें।
+
+</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>टेस्ट ट्यूब वाला थर्मामीटर आयरन स्टैंड में फंसाएं। टेस्ट ट्यूब सहित थर्मामीटर सान्द्र सल्फ्यूरिक एसिड बाथ में नीचे उतारें।
+</TEXTVALUE>
+   </TEXT>
+    <TEXT ID="parafinburner_three">
+		<TEXTVALUE>थर्मामीटर इस तरह समायोजित करें कि इसका बल्ब एसिड में डूबा रहे धागे सहित ट्य़ब का खुला सिरा एसिड बाथ से पर्याप्त बाहर रहे।
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="Scene28">
+	<TEXT ID="Scene28_one">
+		<TEXTVALUE>5-6 सेमी लंबाई वाला कैपिलरी ट्यूब लें और इसे लौ में गर्म करके ट्यूब का एक सिरा सील कर दें और हल्का से मोड़ दें।
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner233">
+	<TEXT ID="parafinburner233_one">
+		<TEXTVALUE>बंद सिरा ऊपर की ओर करके कैपिलरी टेस्ट ट्यूब में रखें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>धीरे-धीरे सल्फ्यूरिक एसिड बाथ गर्म करें और विलोड़क ऊपर और नीचे चलाकर इससे तरल को चलाएं।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom222">
+	<TEXT ID="parafinburnerzoom222_one">
+		<TEXTVALUE>कुछ समय बाद तरल में डूबी कैपिलरी ट्यूब के सिरे से बुलबुले निकलने लगेंगें, लेकिन जल्द ही हवा के बुलबुलों की तेज और सतत धारा इसमें से निकलने लगेगी।</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburnerzoom222_two">
+		<TEXTVALUE>यह वह चरण होता है जब बंद कैपिलरी में तरल के वाष्प का दबाव वायुमंडलीय दबाव से थोड़ा ही ज्यादा होता है।</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>जब हवा के बुलबुलों की सतत धारा निकलने लगे, तापमान (T1)नोट करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner_off">
+	<TEXT ID="parafinburner_off_one">
+		<TEXTVALUE>बर्नर बंद कर दें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom22">
+	<TEXT ID="parafinburnerzoom22_one">
+		<TEXTVALUE>कैपिलरी ट्यूब के सिरे से बुलबुले कम होने लगते हैं।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom33">
+	<TEXT ID="parafinburnerzoom33_one">
+		<TEXTVALUE>कैपिलरी के सिरे से जैसे ही बुलबुले निकलना बंद हो जाएं तापमान (T 2) नोट करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_one">
+		<TEXTVALUE>(T1 ° + T2 °)/2 सूत्र की मदद से फिनोल के क्वथनांक की गणना करें</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+	
+</DATA>

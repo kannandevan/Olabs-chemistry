@@ -1,0 +1,27 @@
+$.i18n.ml = {};
+ jQuery.i18n.ml.strings ={
+	"Kinetics Study on the Reaction between Potassium Iodate and Sodium Sulphite": "പൊട്ടാസ്യം അയോഡേറ്റും സോഡിയം സൾഫേറ്റും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ കൈനെറ്റിക്സ് പഠനം ",
+	"Reset": "പുനഃക്രമീകരണം",
+	"Volume of KIO<sub>3</sub> :": "KIO<sub>3</sub> ന്റെ  അളവ്:",
+	"Volume of water :": "ജലത്തിന്റെ അളവ്:",
+	"Volume of H<sub>2</sub>SO<sub>4</sub> : 10 ml": "H<sub>2</sub>SO<sub>4</sub> ന്റെ അളവ്: 10 ml",
+	"Volume of Starch : 5 ml": "സ്റ്റാർച്ചിന്റെ അളവ്: 5 ml",
+	"Volume of Na<sub>2</sub>SO<sub>3</sub> : 10 ml": "Na<sub>2</sub>SO<sub>3</sub>ന്റെ അളവ് : 10 ml",
+	"START": "തുടങ്ങുക",
+	"STOP": "നിർത്തുക",
+	"Select the volume of <br>potassium iodate solution.": "പൊട്ടാസ്യം അയോഡേറ്റ് ലായനിയുടെ അളവ് തെരഞ്ഞെടുക്കുക.",
+	"Drag the potassium iodate<br> solution to the measuring jar.": "അളവ് ജാറിലേക്ക് പൊട്ടാസ്യം അയോഡേറ്റ്<br> ലായനി ഡ്രാഗ് ചെയ്യുക.",
+	"Drag the measuring jar to the <br>conical flask to pour the solution.": "ലായനി ഒഴിക്കാന്‍ അളവ് ജാറിനെ <br> കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് ഡ്രാഗ് ചെയ്യുക.",
+	"Drag the sulphuric acid <br>to the measuring jar.": "സൾഫ്യൂരിക്ക് അമ്ലത്തെ <br> അളവ് ജാറിലേക്ക് ഡ്രാഗ് ചെയ്യുക.",
+	"Drag the water to<br> the measuring jar.": "വെള്ളം<br> അളവ് ജാറിലേക്ക് ഡ്രാഗ് ചെയ്യുക.",
+	"Drag the starch solution<br> to the measuring jar.": "സ്റ്റാർച്ച്  ലായനി<br> അളവ് ജാറിലേക്ക് ഡ്രാഗ് ചെയ്യുക.",
+	"Drag the sodium sulphite<br> solution to the measuring jar.": "സോഡിയം സൾഫേ‍റ്റ് ലായനി<br> അളവ് ജാറിലേക്ക് ഡ്രാഗ് ചെയ്യുക.",
+	"1M H<sub>2</sub>SO<sub>4</sub>": "1M H<sub>2</sub>SO<sub>4</sub>",
+	"Water": "ജലം",
+	"Starch": "സ്റ്റാർച്ച്",
+	"0.005M Sodium sulphite": "0.005M സോഡിയം സൾഫേറ്റ്",
+	"0.01M KIO<sub>3</sub> ": "0.01M KIO<sub>3</sub> ",
+	"HELP": "സഹായം",
+	"FULL SCREEN": "വലുതാക്കുക",
+	"EXIT": "പുറത്തേക്ക്"
+}

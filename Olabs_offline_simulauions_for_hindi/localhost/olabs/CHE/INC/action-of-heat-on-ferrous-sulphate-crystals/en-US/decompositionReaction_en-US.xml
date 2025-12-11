@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="decompositionReaction.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_INS1">
+        <source>1.Click the holder with boiling tube to show it over the burner.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_INS2">
+        <source>2.Turn On/Off  the burner by clicking the knob of the burner.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INSTRUCT">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_MSG1">
+        <source>Click the holder with boiling tube to heat it.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_MSG2">
+        <source>Click here to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MSG3">
+        <source>Click here to turn on the burner.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MSG4">
+        <source>A white coloured crystals of anhydrous ferrous sulphate is formed.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MSG5">
+        <source>Anhydrous ferrous sulphate decomposes to form dark brown coloured ferric oxide and evolve SO2(g) and SO3(g).</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_START">
+        <source>start</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

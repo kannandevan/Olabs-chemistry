@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>ചെറിയ കഷണം  മഗ്നീഷൃം റിബ്ബൺ, സാൻഡ് പേപ്പർ, ചവണകൾ, നിരീക്ഷണഗ്ലാസ്സ്, ചുവന്ന ലിറ്റ്മസ് പേപ്പർ, ബൺസൺബർണർ എന്നിവ നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>ഒരു മഗ്നീഷൃം റിബ്ബൺ എടുക്കുക, സാൻഡ് പേപ്പർ കൊണ്ട് ഉരച്ച് വൃത്തിയാക്കുക.അതുകൊണ്ട് ഇത് വെള്ളി പോലെ തിളങ്ങുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>ചവണ ഉപയോഗിച്ച് മഗ്നീഷൃം റിബ്ബൺ പിടിച്ചിട്ട്  കത്തിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>ഇത് വളരെ തിളക്കമാർന്ന രീതിയിൽ കത്തി  വെള്ള ചാരം അവശേഷിക്കുന്നു.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>കത്തിയ റിബ്ബണിൻ്റെ ചാരം ഒരു നിരീക്ഷണ ഗ്ലാസ്സിലേക്ക് ശേഖരിക്കുക. അത് മഗ്നീഷൃം ഓക്സൈഡ് ആയി  അടയാളപ്പെടുത്തുക. മഗ്നീഷൃം വായുവിൽ കത്തി മഗ്നീഷൃം ഓക്സൈഡ് ഉണ്ടാകുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് കുറച്ച് മഗ്നീഷൃം എടുക്കുക
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>അത് നനഞ്ഞ ചുവന്ന ലിറ്റ്മസ് പേപ്പറിന് പുറത്ത് വെച്ചിട്ട് വെള്ള ടൈലിന് മീതെ വെയ്ക്കുക
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് പേപ്പർ തിരിഞ്ഞ് നീലയാകുന്നു, ഇത് സൂചിപ്പിക്കുന്നത് 'MgO' പ്രകൃതിയിൽ അടിസ്ഥാനമായി കാണുന്നു എന്നാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>സോഡിയം സൾഫേറ്റ്, ബേരിയം ക്ലോറൈഡ്, നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ്, ബീക്കർ, കോണിക്കൽ ഫ്ലാസ്ക്, ടെസ്റ്റ്‌ ട്യൂബ് എന്നിവയെല്ലാം നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>ഒരു ടെസ്റ്റ്‌ ട്യൂബ് എടുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബിൽ കുറച്ച് ബേരിയം ക്ലോറൈഡ് എടുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>ഇത് കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് മാറ്റുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>വേറൊരു ടെസ്റ്റ്‌ ട്യൂബ് എടുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>കുറച്ച്  സോഡിയം സൾഫേറ്റ് എടുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>ബേരിയം ക്ലോറൈഡ്  ലായനി അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് ഇത് മാറ്റുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>പെട്ടെന്ന് തന്നെ ബേരിയം സൾഫേറ്റിൻ്റെ വെള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു. സൾഫേറ്റ് അയോണുകളുടെ സാന്നിദ്ധൃമാണ് ഇത് തെളിയിക്കുന്നത്. (SO₄²₋) </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിലെ മിശ്രിതം ഇളക്കുക, എന്നിട്ട് കുറച്ച് സമയം അനക്കാതെ വെയ്ക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>ബേരിയം സൾഫേറ്റിൻ്റെ അവക്ഷിപ്തം ഫ്ലാസ്കിൻ്റെ അടിയിൽ   അവശേഷിക്കുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിൽ നിന്ന് ബീക്കറിലേക്ക് മുകളിലത്തെ ലായനി തെളിച്ച് ഒഴിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>അവക്ഷിപ്തം അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് കുറച്ച് നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് ചേർക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>അവക്ഷിപ്തം അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് കുറച്ച് നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് ചേർക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>ഫ്ലാസ്ക് നന്നായി കറക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>വെള്ള അവക്ഷിപ്തം നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡിൽ ലയിക്കുന്നില്ല.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>ഒരു രാസപ്രവർത്തനത്തിൽ,സൾഫേറ്റ് അയോണുകൾ ക്ലോറൈഡ് അയോണുകളെ സ്ഥാനാന്തരണപ്പെടുത്തുകയും ക്ലോറൈഡ് അയോണുകൾ സൾഫേറ്റ് അയോണുകളെയും സ്ഥാനാന്തരണപ്പെടുത്തുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>കോപ്പർസൾഫേറ്റ്, ഇരുമ്പാണികൾ, ശുദ്ധീകരിച്ച ജലം, ബീക്കർ, അളവ് ജാർ, ടെസ്റ്റ്‌ ട്യൂബുകൾ, രണ്ട് ഘടിപ്പിച്ച സ്റ്റാൻഡുകൾ, ഒരു കഷണം നൂല്, ഒരു ഗ്ലാസ്സ് റോഡ് എന്നിവ നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>അളവ് ജാറിൽ ആവശൃമുള്ളത്രയും ശുദ്ധീകരിച്ച ജലം എടുക്കുക, എന്നിട്ട് ഇത് ബീക്കറിലേക്ക് ഒഴിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>മതിയായ അളവിൽ കോപ്പർസൾഫേറ്റും കൂടി ഇതിൽ ചേർക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE> ബീക്കറിലെ കോപ്പർസൾഫേറ്റ് തരികൾ  പൂർണ്ണമായും ലയിക്കുന്നതുവരെ  ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ബീക്കറിലെ മിശ്രിതം ഇളക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>ആവശൃമുള്ള  അത്രയും  കോപ്പർസൾഫേറ്റ് ലായനി  ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് സ്റ്റാൻഡുമായി ബന്ധിപ്പിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>വേറൊരു ടെസ്റ്റ്‌ ട്യൂബിൽ ആവശൃമുള്ളത്രയും  കോപ്പർസൾഫേറ്റ് ലായനി  എടുക്കുക
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE>വേറൊരു സ്റ്റാൻഡുമായി  ടെസ്റ്റ്‌ ട്യൂബ് ബന്ധിപ്പിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>രണ്ട് ഇരുമ്പാണികൾ എടുക്കുക
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>സാൻഡ് പേപ്പർ കൊണ്ട് ഉരച്ച് വൃത്തിയാക്കുക, അതുകൊണ്ട് അവ ചാരനിറമായി കാണുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>ഒരു ഇരുമ്പാണി നൂല് ഉപയോഗിച്ച് കെട്ടുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>കോപ്പർസൾഫേറ്റ് ലായനി അടങ്ങിയ ഒരു ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഈ ഇരുമ്പാണി മുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>രണ്ട് ടെസ്റ്റ്‌ ട്യൂബുകളും 15 മിന്നിട്ട് നേരത്തേക്ക് അനക്കാതെ വെയ്ക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>15 മിന്നിട്ടിന് ശേഷം ഇരുമ്പാണി ഉള്ള  കോപ്പർസൾഫേറ്റ്ലായനിയുടെ  നിറം ഇളം പച്ച നിറമായും എന്നാൽ അടുത്ത ടെസ്റ്റൃൂബിന് മാറ്റമൊന്നും ഇല്ലാത്തതായും കാണുന്നു.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>ലായനിയുടെ പച്ച നിറത്തിന് കാരണം ' Fe'അയോണുകളാണ്. Fe²⁺.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>ലായനിയിൽ നിന്ന് ഇരുമ്പാണി മാറ്റുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>അടുത്ത ഇരുമ്പാണിയുമായി താരതമൃപ്പെടുത്തുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>ഇരുമ്പാണിയുടെ പുറത്തുള്ള തവിട്ട് നിറത്തിലുള്ള ആവരണം കാണിക്കുന്നത്  ഇരുമ്പാണിയിൽ അയണിനെ മാറ്റിയിട്ടുള്ള കോപ്പർ നിക്ഷേപം ആണ്.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>ഇതൊരു ലഘുസ്ഥാനാന്തരണ പ്രവർത്തനം ആണ്, അതായത് കോപ്പർസൾഫേറ്റ് ലായനിയിൽ നിന്ന് അയണിനെ മാറ്റിയിട്ട് കോപ്പർ സ്ഥാനം പിടിക്കുന്നു. പുതിയ ഫെറസ് സൾഫേറ്റ് സംയുക്തം ഉണ്ടാകുന്നു. അതുകൊണ്ട് ഈ പ്രവർത്തനം ഒരു രാസമാറ്റമാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>സിങ്ക് തരികൾ, നേർപ്പിച്ച സൾഫ്യൂറിക് ആസിഡ്, സോഡിയം ഹൈഡ്രോക്സൈഡ്, ടെസ്റ്റ്‌ ട്യൂബുകൾ, കോണിക്കൽ ഫ്ലാസ്ക്, കിപ്പ്സ് ഉപകരണം, കോർക്ക്, ഗ്ലാസ്സ് ട്യൂബ് എന്നിവ നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് കുറച്ച് സിങ്ക് തരികൾ എടുക്കുക, ഇത് നേർപ്പിച്ച സൾഫ്യൂറിക് ആസിഡ് അടങ്ങിയ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് മാറ്റുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>ഹൈഡ്രജൻ വാതകത്തിൻ്റെ കുമിളകൾ ഉയർന്നുവരുന്നു, സിങ്ക് തരികൾ നേർപ്പിച്ച സൾഫ്യൂറിക് ആസിഡുമായി പ്രവർത്തിക്കുന്നതാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>ഉണങ്ങിയ ചുവന്ന ലിറ്റ്മസ് പേപ്പർ കോണിക്കൽ ഫ്ലാസ്കിൻ്റെ വായ് ഭാഗത്തേക്ക് കാണിക്കുക, ലിറ്റ്മസ് പേപ്പറിൻ്റെ നിറത്തിന് മാറ്റം വരുന്നില്ല.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>ഉണങ്ങിയ നീല ലിറ്റ്മസ് പേപ്പർ കോണിക്കൽ ഫ്ലാസ്കിൻ്റെ വായ് ഭാഗത്തേക്ക് കാണിക്കുക, ലിറ്റ്മസ് പേപ്പറിൻ്റെ നിറത്തിന് മാറ്റം വരുന്നില്ല. ഇത് സൂചിപ്പിക്കുന്നത് ഹൈഡ്രജൻ വാതകം ആസിഡോ ആൽക്കലിയോ അല്ല.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>ഒരു സുഷിരമുള്ള കോർക്ക് ഉപയോഗിച്ച് കോണിക്കൽ ഫ്ലാസ്ക് അടയ്ക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>കോർക്കിൻ്റെ സുഷിരത്തിലൂടെ ഒരു നല്ല ജെറ്റ് ട്യൂബ് കടത്തുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>നല്ല ജെറ്റ് ട്യൂബിൻ്റെ വായ്ഭാഗത്തിനടുത്തേക്ക് എരിയുന്ന ഒരു മെഴുകുതിരി കൊണ്ടുവരുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE> ഒരു തീ ജ്വാല കൊണ്ടുവരുമ്പോൾ  ജെറ്റ്ട്യൂബിലൂടെ വാതകം പുറത്തുവന്ന് പെട്ടെന്ന് ഒരു ചെറിയ സ്ഫോടന ശബ്ദത്തോടെ കത്തുന്നു. പിന്നീട് അത് മങ്ങുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിൽ നിന്ന് 2 മി.ലി. സിങ്ക് സൾഫേറ്റ് ലായനി ഒരു വൃത്തിയായ ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഏതാനും തുള്ളി സോഡിയം ഹൈഡ്രോക്സൈഡ്  ചേർക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>ഒരു വെള്ള ജലാംശമുള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു. ടെസ്റ്റ്‌ ട്യൂബ് നന്നായി കുലുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>കൂടുതൽ സോഡിയം ഹൈഡ്രോക്സൈഡ്  ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ചേർക്കുക. സോഡിയം ഹൈഡ്രോക്സൈഡ് കൂടുതൽ ചേർക്കുമ്പോൾ വെള്ള അവക്ഷിപ്തം ലയിച്ചുചേരുന്നു.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>അവക്ഷിപ്തം ഉണ്ടാകുന്നത് Zn(OH)₂ ഇത് സൂചിപ്പിക്കുന്നത് Zn²⁺ ലായനിയിലെ അയോണുകളാണ്.
+	  </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് ഷെൽഫിലേക്ക് ടെസ്റ്റ്‌ ട്യൂബ് വെയ്ക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിൽ നിന്ന് 2 മി.ലി. സിങ്ക്സൾഫേറ്റ് ലായനി  വേറൊരു ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>കിപ്പ്സ് ഉപകരണം ഉപയോഗിച്ച്  ടെസ്റ്റ്‌ ട്യൂബിലെ ലായനിയിലൂടെ ഹൈഡ്രജൻ സൾഫൈഡ് വാതകം കടത്തുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് നന്നായി കുലുക്കുക. സിങ്ക് സൾഫൈഡിൻ്റെ  വെള്ള അവക്ഷിപ്തം ഉണ്ടാകുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>ഈ പ്രവർത്തനത്തിൽ നിന്ന് നമുക്ക് മനസ്സിലാക്കാൻ സാധിക്കുന്നത് - സിങ്കിന് ഹൈഡ്രജനേക്കാൾ കൂടുതൽ ക്രിയാശീലത ഉണ്ടെന്നാണ്. അതുകൊണ്ട് ഇവ നേർപ്പിച്ച ആസിഡുകളിൽ നിന്നും ഹൈഡ്രജനെ സ്ഥാനാന്തരണപ്പെടുത്തുന്നു. ലായനിയിലേക്ക് Zn²⁺ സിങ്ക് അയോണുകളായി കടന്നുപോകുന്നു.
+ </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>നമുക്ക് ആവശൃമുള്ളത് - ജലാംശീകരിച്ച കോപ്പർസൾഫേറ്റ് തരികൾ, ശുദ്ധീകരിച്ച ജലം, ടെസ്റ്റ്‌ ട്യൂബ്, ടെസ്റ്റ്‌ ട്യൂബ് കൈപ്പിടി, സ്പാറ്റുല, ബോയിലിംഗ് ട്യൂബ്, ബൺസൺബർണർ തുടങ്ങിയവയാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് കൈപ്പിടി ഉപയോഗിച്ച ടെസ്റ്റ്‌ ട്യൂബ്  പിടിക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് നിരീക്ഷണ ഗ്ലാസ്സിൽ നിന്നും കുറച്ച ജലാംശീകരിച്ച  കോപ്പർസൾഫേറ്റ് തരികൾ എടുക്കുക, അത് ബോയിലിംഗ് ട്യൂബിലേക്ക് ഇടുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>ബോയിലിംഗ് ട്യൂബ് ബെൻസൺ ബെർണറിന് മീതെ പിടിച്ച് ആദൃം പതുക്കെയും പിന്നീട് ശക്തിയായും  ചൂടാക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>ചൂടാക്കുമ്പോൾ കോപ്പർസൾഫേറ്റ്  തരികൾ  നീലനിറത്തിൽ നിന്ന് വെള്ള നിറമായി മാറുന്നു.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>ബോയിലിംഗ് ട്യൂബിൻ്റെ വശങ്ങളിൽ ജലകണങ്ങൾ അവശേഷിച്ചിരിക്കുന്നു.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>ജലാംശീകരിച്ച കോപ്പർസൾഫേറ്റിൽ ജലത്തിൻ്റെ പരൽ രൂപീകരണം കാണുന്നു.(CuSO₄.5H₂O).</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>ചൂടാക്കുമ്പോൾ കോപ്പർസൾഫേറ്റ് തരികൾക്ക് ജല തന്മാത്രകളെ  നഷ്ടപ്പെടുകയും വെള്ള നിറത്തിലുള്ള അൺഹൈഡ്രസ് കോപ്പർസൾഫേറ്റ് രൂപം കൊള്ളുകയും ചെയ്യുന്നു.(CuSO₄).</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>തീജ്വാലയിൽ നിന്ന് ബോയിലിംഗ് ട്യൂബ് മാറ്റിയിട്ട് കുറച്ച് സമയം തണുക്കാൻ വെയ്ക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ശുദ്ധീകരിച്ച ജലം എടുക്കുക.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>ചൂടാക്കിയതിന് ശേഷം ഉണ്ടായ അൺഹൈഡ്രസ് കോപ്പർസൾഫേറ്റ് സാമ്പിൾ അടങ്ങിയ ബോയിലിംഗ് ട്യൂബിലേക്ക്  2-3-തുള്ളി ജലം ചേർക്കുക.
+</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>വെള്ള കോപ്പർസൾഫേറ്റിന് മാറ്റം വന്ന് നീലയാകുന്നത് സൂചിപ്പിക്കുന്നത്, നീല നിറത്തിലുള്ള ജലാംശ  കോപ്പർസൾഫേറ്റ് പുനരുജ്ജീവിച്ചു എന്നാണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE>അതുകൊണ്ട് ഈ പ്രവർത്തനം തിരിച്ചും മറിച്ചും ഉള്ള  ഒരു രാസമാറ്റം ആണ്.
+</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-26 11:19+0530\n"
+"PO-Revision-Date: 2015-11-26 11:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:25
+msgid "Melting Point of an Organic Compound"
+msgstr "Melting Point of an Organic Compound"
+
+#: simcontrols.js:26
+msgid "Click here to turn on the burner."
+msgstr "Click here to turn on the burner."
+
+#: simcontrols.js:26
+msgid "Burner"
+msgstr "Burner"
+
+#: simcontrols.js:26
+msgid "Tripod stand"
+msgstr "Tripod stand"
+
+#: simcontrols.js:26
+msgid "Thermometer"
+msgstr "Thermometer"
+
+#: simcontrols.js:26
+msgid "Capillary tube"
+msgstr "Capillary tube"
+
+#: simcontrols.js:26
+msgid "Stirrer"
+msgstr "Stirrer"
+
+#: simcontrols.js:26
+msgid "Beaker"
+msgstr "Beaker"
+
+#: simcontrols.js:26
+msgid "Paraffin liquid"
+msgstr "Paraffin liquid"
+
+#: simcontrols.js:27
+msgid "Select the compound: "
+msgstr "Select the compound: "
+
+#: simcontrols.js:27
+msgid "The temperature at which the compound starts melting, t<sub>1</sub> :"
+msgstr "The temperature at which the compound starts melting, t<sub>1</sub> :"
+
+#: simcontrols.js:27
+msgid "The temperature at which the compound completly melted, t<sub>2</sub> :"
+msgstr "The temperature at which the compound completly melted, t<sub>2</sub> :"
+
+#: simcontrols.js:27
+msgid "Melting point, (t<sub>1</sub>+ t<sub>2</sub>) / 2 ="
+msgstr "Melting point, (t<sub>1</sub>+ t<sub>2</sub>) / 2 ="
+
+#: simcontrols.js:27
+msgid "Identify the compound "
+msgstr "Identify the compound "
+
+#: simcontrols.js:27
+msgid "Select the actual compound: "
+msgstr "Select the actual compound: "
+
+#: simcontrols.js:27
+msgid "Show chart"
+msgstr "Show chart"
+
+#: simcontrols.js:28 simcontrols.js:29
+msgid "Select"
+msgstr "Select"
+
+#: simcontrols.js:28
+msgid "Compound 1"
+msgstr "Compound 1"
+
+#: simcontrols.js:28
+msgid "Compound 2"
+msgstr "Compound 2"
+
+#: simcontrols.js:28
+msgid "Compound 3"
+msgstr "Compound 3"
+
+#: simcontrols.js:28
+msgid "Compound 4"
+msgstr "Compound 4"
+
+#: simcontrols.js:28
+msgid "Compound 5"
+msgstr "Compound 5"
+
+#: simcontrols.js:28
+msgid "Compound 6"
+msgstr "Compound 6"
+
+#: simcontrols.js:28
+msgid "Compound 7"
+msgstr "Compound 7"
+
+#: simcontrols.js:28
+msgid "Compound 8"
+msgstr "Compound 8"
+
+#: simcontrols.js:28
+msgid "Compound 9"
+msgstr "Compound 9"
+
+#: simcontrols.js:28
+msgid "Compound 10"
+msgstr "Compound 10"
+
+#: simcontrols.js:28
+msgid "Compound 11"
+msgstr "Compound 11"
+
+#: simcontrols.js:29
+msgid "&alpha; - naphthol"
+msgstr "&alpha; - naphthol"
+
+#: simcontrols.js:29
+msgid "&beta; - naphthol"
+msgstr "&beta; - naphthol"
+
+#: simcontrols.js:29
+msgid "Oxalic acid dihydrate"
+msgstr "Oxalic acid dihydrate"
+
+#: simcontrols.js:29
+msgid "Acetamide"
+msgstr "Acetamide"
+
+#: simcontrols.js:29
+msgid "Benzoic acid"
+msgstr "Benzoic acid"
+
+#: simcontrols.js:29
+msgid "Cinnamic acid"
+msgstr "Cinnamic acid"
+
+#: simcontrols.js:29
+msgid "Urea"
+msgstr "Urea"
+
+#: simcontrols.js:29
+msgid "Fructose"
+msgstr "Fructose"
+
+#: simcontrols.js:29
+msgid "Glucose"
+msgstr "Glucose"
+
+#: simcontrols.js:29
+msgid "Sucrose"
+msgstr "Sucrose"
+
+#: simcontrols.js:29
+msgid "Naphthalene"
+msgstr "Naphthalene"
+
+#: simcontrols.js:30
+msgid "Start"
+msgstr "Start"
+
+#: simcontrols.js:31
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:102
+msgid "Correct!"
+msgstr "Correct!"
+
+#: simcontrols.js:104
+msgid "Wrong, Try again!"
+msgstr "Wrong, Try again!"
+
+#~ msgid "Hide chart"
+#~ msgstr "Hide chart"
+
+#~ msgid "Boiling Point of an Organic Compound"
+#~ msgstr "Boiling Point of an Organic Compoundvvvv"
+
+#~ msgid "Click here to turn off the burner."
+#~ msgstr "Click here to turn off the burner.vvvv"
+
+#~ msgid "Conc.sulphuric acid"
+#~ msgstr "Conc.sulphuric acidvvv"
+
+#~ msgid "select"
+#~ msgstr "selectvvvv"
+
+#~ msgid "Benzyl alcohol"
+#~ msgstr "Benzyl alcoholvvv"
+
+#~ msgid "Glycerol"
+#~ msgstr "Glycerolvv"
+
+#~ msgid "Ethylene glycol"
+#~ msgstr "Ethylene glycolvvv"
+
+#~ msgid "Phenol"
+#~ msgstr "Phenolvvv"
+
+#~ msgid "Benzaldehyde"
+#~ msgstr "Benzaldehydevvv"
+
+#~ msgid "Acetophenone"
+#~ msgstr "Acetophenonevvv"
+
+#~ msgid "Nitrobenzene"
+#~ msgstr "Nitrobenzenevvv"
+
+#~ msgid "Aniline"
+#~ msgstr "Anilinevvv"
+
+#~ msgid "Phenyl acetate"
+#~ msgstr "Phenyl acetatevvv"
+
+#~ msgid "Chlorobenzene"
+#~ msgstr "Chlorobenzenevvv"
+
+#~ msgid "Methyl salicylate"
+#~ msgstr "Methyl salicylatevvv"
+
+#~ msgid "o-Cresol"
+#~ msgstr "o-Cresolvvv"
+
+#~ msgid "Ethyl benzoate"
+#~ msgstr "Ethyl benzoatevvv"
+
+#~ msgid "o-Toluidine"
+#~ msgstr "o-Toluidinevvv"
+
+#~ msgid "Bromobenzene"
+#~ msgstr "Bromobenzenevvv"
+
+#~ msgid "Select the unknown compound:"
+#~ msgstr "Select the unknown compound:vvv"
+
+#~ msgid "The temperature at which continuous stream of air bubbles appears, (t<sub>1</sub>):"
+#~ msgstr "The temperature at which continuous stream of air bubbles appears, (t<sub>1</sub>):vvvv"
+
+#~ msgid "The temperature at which bubbles completely disappears, (t<sub>2</sub>):"
+#~ msgstr "The temperature at which bubbles completely disappears, (t<sub>2</sub>):vvvv"
+
+#~ msgid "Boiling point, (t<sub>1</sub>+ t<sub>2</sub>)/2 ="
+#~ msgstr "Boiling point, (t<sub>1</sub>+ t<sub>2</sub>)/2 =vvvv"
+
+#~ msgid "Result"
+#~ msgstr "Resultvvvvv"
+
+#~ msgid "Select the actual compound:"
+#~ msgstr "Select the actual compound:vvv"
+
+#~ msgid " Show chart"
+#~ msgstr " Show chartvvv"
+
+#~ msgid "Compound"
+#~ msgstr "Compoundmmmm"
+
+#~ msgid "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+
+#~ msgid "Simple Pendulum"
+#~ msgstr "Simple Pendulum"
+
+#~ msgid "Solution Controls"
+#~ msgstr "Solution Controls"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select Shape"
+#~ msgstr "Select Shape"
+
+#~ msgid "Select Material"
+#~ msgstr "Select Material"
+
+#~ msgid "Select Wire"
+#~ msgstr "Select Wire"
+
+#~ msgid "Pendulum Length(m):"
+#~ msgstr "Pendulum Length(m):"
+
+#~ msgid "Change Diameter(mm):"
+#~ msgstr "Change Diameter(mm):"
+
+#~ msgid "Hide Protractor"
+#~ msgstr "Hide Protractor"
+
+#~ msgid "earth"
+#~ msgstr "earth"
+
+#~ msgid "moon"
+#~ msgstr "moon"
+
+#~ msgid "uranus"
+#~ msgstr "uranus"
+
+#~ msgid "saturn"
+#~ msgstr "saturn"
+
+#~ msgid "jupiter"
+#~ msgstr "jupiter"
+
+#~ msgid "Sphere"
+#~ msgstr "Sphere"
+
+#~ msgid "Clock Pendulum"
+#~ msgstr "Clock Pendulum"
+
+#~ msgid "Square"
+#~ msgstr "Square"
+
+#~ msgid "Rectangle"
+#~ msgstr "Rectangle"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminum"
+#~ msgstr "Aluminum"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Lead"
+#~ msgstr "Lead"
+
+#~ msgid "Twine Thread"
+#~ msgstr "Twine Thread"
+
+#~ msgid "Steel String"
+#~ msgstr "Steel String"
+
+#~ msgid "Twisted Copper Wire"
+#~ msgstr "Twisted Copper Wire"
+
+#~ msgid "Show Protractor"
+#~ msgstr "Show Protractor"
+
+#~ msgid "Play/Pause"
+#~ msgstr "Play/Pause"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+
+#~ msgid "Simple-Pendulum"
+#~ msgstr "Simple-Pendulum"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Equivalent Resistance of Resistors (Parallel)"
+#~ msgstr "Equivalent Resistance of Resistors (Parallel)"
+
+#~ msgid "Arrangement of Resistors:"
+#~ msgstr "Arrangement of Resistors:"
+
+#~ msgid "Jockey Position(cm):"
+#~ msgstr "Jockey Position(cm):"
+
+#~ msgid "Please select Resistance"
+#~ msgstr "Please select Resistance"
+
+#~ msgid "Single"
+#~ msgstr "Single"
+
+#~ msgid "Parallel"
+#~ msgstr "Parallel"
+
+#~ msgid "Remove key"
+#~ msgstr "Remove key"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid "Remove Key"
+#~ msgstr "കീ നീക്കം"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Ohm's Law"
+#~ msgstr "Ohm's Law"
+
+#~ msgid "Readings"
+#~ msgstr "Readings"
+
+#~ msgid "Voltage (V) :"
+#~ msgstr "Voltage (V) :"
+
+#~ msgid "Ammeter reading (I) :"
+#~ msgstr "Ammeter reading (I) :"
+
+#~ msgid "Rheostat resistance :"
+#~ msgstr "Rheostat resistance :"
+
+#~ msgid "Length of the resistance wire :"
+#~ msgstr "Length of resistance wire :"
+
+#~ msgid "Show Circuit Diagram"
+#~ msgstr "Show Circuit Diagram"
+
+#~ msgid "Results"
+#~ msgstr "Results"
+
+#~ msgid "Enter the resistance of the wire:"
+#~ msgstr "Enter the resistance of the wire:"
+
+#~ msgid "Enter the resistance per cm of the wire:"
+#~ msgstr "Enter the resistance per cm of the wire:"
+
+#~ msgid "Please enter the value"
+#~ msgstr "Please enter the value"
+
+#~ msgid "Check"
+#~ msgstr "Check"

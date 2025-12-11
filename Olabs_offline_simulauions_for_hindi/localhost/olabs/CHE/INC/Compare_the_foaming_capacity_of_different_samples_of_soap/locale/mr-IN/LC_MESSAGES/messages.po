@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:53+0530\n"
+"PO-Revision-Date: 2025-10-07 12:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "सहाय्य"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "अमृता विद्यापीठाद्वारे विकसित <br> आर्थिक सहाय्य : इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय || <br> शिक्षण मंत्रालय, भारत सरकार"
+
+msgid "Compare the foaming capacity of different samples of soap"
+msgstr "साबणाच्या वेगवेगळ्या नमुन्यांच्या फेस करण्याच्या क्षमतेची तुलना करा"
+
+msgid "The different samples have different foaming <br>capacity and the soap with highest foaming <br>capacity have high cleansing capacity."
+msgstr "वेगवेगळ्या नमुन्यांमध्ये फेस करण्याची <br>क्षमता वेगवेगळी असते आणि सर्वाधिक फेस <br>करणाऱ्या साबणाची साफ करण्याची क्षमता जास्त असते."
+
+msgid "Click on the soap to select"
+msgstr "निवडण्यासाठी साबणावर क्लिक करा"
+
+msgid "Drag and drop the filter paper to the weighing balance"
+msgstr "फिल्टर पेपरला वजन काट्यावर ओढा आणि सोडा"
+
+msgid "Click on the tare button"
+msgstr "टॅर बटणावर क्लिक करा"
+
+msgid "Drag and drop the soap to the weighing balance"
+msgstr "साबणाला वजन काट्यावर ओढा आणि सोडा"
+
+msgid "Drag and drop the soap into the beaker"
+msgstr "साबणाला बीकरमध्ये ओढा आणि सोडा"
+
+msgid "Click on the rod for mixing soap into the water"
+msgstr "पाण्यात साबण मिसळण्यासाठी रॉडवर क्लिक करा"
+
+msgid "Click on the soap solution to select"
+msgstr "निवडण्यासाठी साबण द्रावणावर क्लिक करा"
+
+msgid "Drag and drop the filler into the beaker"
+msgstr "फिलरला बीकरमध्ये ओढा आणि सोडा"
+
+msgid "Drag and drop the dropper into the test tube"
+msgstr "ड्रॉपरला टेस्ट ट्यूबमध्ये ओढा आणि सोडा"
+
+msgid "Drag the testube and drop it into the visible area"
+msgstr "टेस्ट ट्यूबला ओढा आणि दृश्यमान क्षेत्रात सोडा"
+
+msgid "Click the testube and<br> measure the height of the foam"
+msgstr "टेस्ट ट्यूबवर क्लिक करा आणि<br> फेसाची उंची मोजा"
+
+msgid "Click on the Reset button to <br> do the experiment again"
+msgstr "प्रयोग पुन्हा करण्यासाठी <br> रीसेट बटणावर क्लिक करा"
+
+msgid "Click on the Next button to <br> go to next screen"
+msgstr "पुढील स्क्रीनवर जाण्यासाठी <br> पुढील बटणावर क्लिक करा"
+
+msgid "Water"
+msgstr "पाणी"
+
+msgid "Soap Solution"
+msgstr "साबण द्रावण"
+
+msgid "NEXT"
+msgstr "पुढील"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Select the soap"
+msgstr "साबण निवडा"
+
+msgid "Select the solution"
+msgstr "द्रावण (Solution) निवडा"
+
+msgid "Soap A"
+msgstr "साबण A"
+
+msgid "Soap B"
+msgstr "साबण B"
+
+msgid "Soap C"
+msgstr "साबण C"
+
+msgid "Soap D"
+msgstr "साबण D"
+
+msgid "Solution A"
+msgstr "द्रावण A"
+
+msgid "Solution B"
+msgstr "द्रावण B"
+
+msgid "Solution C"
+msgstr "द्रावण C"
+
+msgid "Solution D"
+msgstr "द्रावण D"
+
+msgid "Reset"
+msgstr "पुन्हा सुरू करा"
+
+msgid "Click on the inference button"
+msgstr "निष्कर्ष बटणावर क्लिक करा"

@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-09 10:45+0530\n"
+"PO-Revision-Date: 2025-10-09 11:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "बड़ा करें"
+
+msgid "MINIMIZE"
+msgstr "छोटा करें"
+
+#: simcontrols.js:42
+msgid "Reaction of Metals with Water Under Different Temperature Conditions"
+msgstr "विभिन्न तापमान परिस्थितियों में धातुओं की पानी के साथ अभिक्रिया"
+
+#: simcontrols.js:43
+msgid "HELP"
+msgstr "सहायता"
+
+#: simcontrols.js:44
+msgid "To show or hide the metals information,<br> click or unclick the circle button"
+msgstr "धातुओं की जानकारी दिखाने या छिपाने के लिए,<br> वृत्त बटन पर क्लिक करें या उसे अनक्लिक करें"
+
+#: simcontrols.js:45
+msgid "Drag and drop the spatula into<br> the watch glass containing Sodium"
+msgstr "स्पैचुला को सोडियम वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:46 simcontrols.js:62
+msgid "Drag and drop the <br>spatula onto the test tube A"
+msgstr "स्पैचुला को टेस्ट ट्यूब A पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:47 simcontrols.js:61
+msgid "Drag and drop the spatula into<br> the watch glass containing Magnesium"
+msgstr "स्पैचुला को मैग्नीशियम वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:48 simcontrols.js:64
+msgid "Drag and drop the <br>spatula onto the test tube B"
+msgstr "स्पैचुला को टेस्ट ट्यूब B पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:49 simcontrols.js:63
+msgid "Drag and drop the spatula into<br> the watch glass containing Zinc"
+msgstr "स्पैचुला को जिंक वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:50 simcontrols.js:66
+msgid "Drag and drop the <br>spatula onto the test tube C"
+msgstr "स्पैचुला को टेस्ट ट्यूब C पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:51 simcontrols.js:65
+msgid "Drag and drop the spatula into<br> the watch glass containing Lead"
+msgstr "स्पैचुला को सीसा (लेड) वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:52 simcontrols.js:68
+msgid "Drag and drop the <br>spatula onto the test tube D"
+msgstr "स्पैचुला को टेस्ट ट्यूब D पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:53 simcontrols.js:67
+msgid "Drag and drop the spatula into<br> the watch glass containing Iron"
+msgstr "स्पैचुला को लोहे वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:54 simcontrols.js:70
+msgid "Drag and drop the <br>spatula onto the test tube E"
+msgstr "स्पैचुला को टेस्ट ट्यूब E पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:55 simcontrols.js:69
+msgid "Drag and drop the spatula into<br> the watch glass containing Aluminium"
+msgstr "स्पैचुला को एल्युमिनियम वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:56 simcontrols.js:72
+msgid "Drag and drop the <br>spatula onto the test tube F"
+msgstr "स्पैचुला को टेस्ट ट्यूब F पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:57 simcontrols.js:71
+msgid "Drag and drop the spatula into<br> the watch glass containing Copper"
+msgstr "स्पैचुला को तांबे वाले<br> वॉच ग्लास में खींचकर छोड़ें"
+
+#: simcontrols.js:58
+msgid "Drag and drop the spatula<br> onto the test tube G"
+msgstr "स्पैचुला को टेस्ट ट्यूब G पर<br> खींचकर छोड़ें"
+
+#: simcontrols.js:58 simcontrols.js:73 simcontrols.js:75
+msgid "Click on the Next button"
+msgstr "अगला बटन क्लिक करें"
+
+#: simcontrols.js:59 simcontrols.js:76 simcontrols.js:78
+msgid "Click on the knob of the burner"
+msgstr "बर्नर के नॉब पर क्लिक करें"
+
+#: simcontrols.js:60
+msgid "Drag and drop the boiled<br> water into the test tubes A, B,<br> C, D, E and F, respectively."
+msgstr "उबले हुए पानी को क्रमशः<br> टेस्ट ट्यूब A, B, C, D, E और F में<br> खींचकर छोड़ें।"
+
+#: simcontrols.js:73
+msgid "Click on the boiling tube"
+msgstr "उबलने वाली ट्यूब पर क्लिक करें"
+
+#: simcontrols.js:74
+msgid "Click on the glass wool"
+msgstr "ग्लास वूल पर क्लिक करें"
+
+#: simcontrols.js:74
+msgid "Click on the single bored cork"
+msgstr "सिंगल बोर कार्क पर क्लिक करें"
+
+#: simcontrols.js:75
+msgid "Click on the delivery tube"
+msgstr "डिलीवरी ट्यूब पर क्लिक करें"
+
+#: simcontrols.js:76
+msgid "Click on the watch<br>glass containing Zinc"
+msgstr "जिंक वाले वॉच ग्लास पर<br> क्लिक करें"
+
+#: simcontrols.js:77
+msgid "Click on the watch<br>glass containing Iron"
+msgstr "लोहे वाले वॉच ग्लास पर<br> क्लिक करें"
+
+#: simcontrols.js:77
+msgid "Click on the watch<br>glass containing Aluminium"
+msgstr "एल्युमिनियम वाले वॉच ग्लास पर<br> क्लिक करें"
+
+#: simcontrols.js:78
+msgid "Click on the watch<br>glass containing Lead"
+msgstr "सीसा (लेड) वाले वॉच ग्लास पर<br> क्लिक करें"
+
+#: simcontrols.js:79
+msgid "Click on the watch<br>glass containing Copper"
+msgstr "तांबे वाले वॉच ग्लास पर<br> क्लिक करें"
+
+#: simcontrols.js:80
+msgid "Click on the Reset button<br> to redo the experiment"
+msgstr "प्रयोग को दोबारा करने के लिए<br> रीसेट बटन पर क्लिक करें"
+
+#: simcontrols.js:96
+msgid "<p><strong>Reaction of Metals with Cold Water</strong></p>"
+msgstr "<p><strong>धातुओं की ठंडे पानी के साथ अभिक्रिया</strong></p>"
+
+#: simcontrols.js:97
+msgid "NEXT"
+msgstr "अगला"
+
+#: simcontrols.js:98
+msgid "<p><strong>Reaction of Metals with Hot Water</strong></p>"
+msgstr "<p><strong>धातुओं की गर्म पानी के साथ अभिक्रिया</strong></p>"
+
+#: simcontrols.js:99 simcontrols.js:100
+msgid "<p><strong>Reaction of Metals with Steam</strong></p>"
+msgstr "<p><strong>धातुओं की भाप के साथ अभिक्रिया</strong></p>"
+
+#: simcontrols.js:101
+msgid "<b><u>Instructions:</u></b>"
+msgstr "<b><u>निर्देश:</u></b>"
+
+#: simcontrols.js:102
+msgid "To show or hide the metals information, click on Circle button."
+msgstr "धातुओं की जानकारी दिखाने या छिपाने के लिए, सर्कल बटन पर क्लिक करें।"
+
+#: simcontrols.js:103
+msgid "1. Drag and drop the spatula into the watch glass containing <b>Sodium</b>."
+msgstr "1. स्पैचुला को <b>सोडियम</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:104
+msgid "3. Drag and drop the spatula into the watch glass containing <b>Magnesium</b>."
+msgstr "3. स्पैचुला को <b>मैग्नीशियम</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:105
+msgid "2. Drag and drop the spatula onto the test tube <b>A</b>."
+msgstr "2. स्पैचुला को टेस्ट ट्यूब <b>A</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:106
+msgid "5. Drag and drop the spatula into the watch glass containing <b>Zinc</b>."
+msgstr "5. स्पैचुला को <b>जिंक</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:107
+msgid "4. Drag and drop the spatula onto the test tube <b>B</b>."
+msgstr "4. स्पैचुला को टेस्ट ट्यूब <b>B</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:108
+msgid "6. Drag and drop the spatula onto the test tube <b>C</b>."
+msgstr "6. स्पैचुला को टेस्ट ट्यूब <b>C</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:109
+msgid "7. Drag and drop the spatula into the watch glass containing <b>Lead</b>."
+msgstr "7. स्पैचुला को <b>सीसा (लेड)</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:110
+msgid "8. Drag and drop the spatula onto the test tube <b>D</b>."
+msgstr "8. स्पैचुला को टेस्ट ट्यूब <b>D</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:111
+msgid "9. Drag and drop the spatula into the watch glass containing <b>Iron</b>."
+msgstr "9. स्पैचुला को <b>लोहे</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:112
+msgid "10. Drag and drop the spatula onto the test tube <b>E</b>."
+msgstr "10. स्पैचुला को टेस्ट ट्यूब <b>E</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:113
+msgid "11. Drag and drop the spatula into the watch glass containing <b>Aluminium</b>."
+msgstr "11. स्पैचुला को <b>एल्युमिनियम</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:114
+msgid "12. Drag and drop the spatula onto the test tube <b>F</b>."
+msgstr "12. स्पैचुला को टेस्ट ट्यूब <b>F</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:115
+msgid "13. Drag and drop the spatula into the watch glass containing <b>Copper</b>."
+msgstr "13. स्पैचुला को <b>तांबे</b> वाले वॉच ग्लास में खींचकर छोड़ें।"
+
+#: simcontrols.js:116
+msgid "14. Drag and drop the spatula onto the test tube <b>G</b>."
+msgstr "14. स्पैचुला को टेस्ट ट्यूब <b>G</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:117 simcontrols.js:126
+msgid "15. Click on the Next button."
+msgstr "15. 'अगला' बटन पर क्लिक करें।"
+
+#: simcontrols.js:118
+msgid "1. Click on the knob of the burner."
+msgstr "1. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:119
+msgid ""
+"2. Drag and drop the boiled water into the test tubes <b>A, B, C, D, E</b> and <b>F</b>, "
+"respectively."
+msgstr "2. उबले हुए पानी को क्रमशः टेस्ट ट्यूब <b>A, B, C, D, E</b> और <b>F</b> में खींचकर छोड़ें।"
+
+#: simcontrols.js:120
+msgid "4. Drag and drop the spatula onto the test tube <b>A</b>."
+msgstr "4. स्पैचुला को टेस्ट ट्यूब <b>A</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:121
+msgid "6. Drag and drop the spatula onto the test tube <b>B</b>."
+msgstr "6. स्पैचुला को टेस्ट ट्यूब <b>B</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:122
+msgid "8. Drag and drop the spatula onto the test tube <b>C</b>."
+msgstr "8. स्पैचुला को टेस्ट ट्यूब <b>C</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:123
+msgid "10. Drag and drop the spatula onto the test tube <b>D</b>."
+msgstr "10. स्पैचुला को टेस्ट ट्यूब <b>D</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:124
+msgid "12. Drag and drop the spatula onto the test tube <b>E</b>."
+msgstr "12. स्पैचुला को टेस्ट ट्यूब <b>E</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:125
+msgid "14. Drag and drop the spatula onto the test tube <b>F</b>."
+msgstr "14. स्पैचुला को टेस्ट ट्यूब <b>F</b> पर खींचकर छोड़ें।"
+
+#: simcontrols.js:127
+msgid "1. Click on the boiling tube."
+msgstr "1. उबलने वाली ट्यूब पर क्लिक करें।"
+
+#: simcontrols.js:128
+msgid "2. Click on the glass wool."
+msgstr "2. ग्लास वूल पर क्लिक करें।"
+
+#: simcontrols.js:129
+msgid "3. Click on the single bored cork."
+msgstr "3. सिंगल बोर कॉर्क पर क्लिक करें।"
+
+#: simcontrols.js:130
+msgid "4. Click on the delivery tube."
+msgstr "4. डिलीवरी ट्यूब पर क्लिक करें।"
+
+#: simcontrols.js:131
+msgid "5. Click on the Next button."
+msgstr "5. 'अगला' बटन पर क्लिक करें।"
+
+#: simcontrols.js:132
+msgid "1. Click on the watch glass containing <b>Zinc</b>."
+msgstr "1. <b>जिंक</b> वाले वॉच ग्लास पर क्लिक करें।"
+
+#: simcontrols.js:133
+msgid "2. Click on the knob of the burner."
+msgstr "2. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:134
+msgid "3. Click on the watch glass containing <b>Iron</b>."
+msgstr "3. <b>लोहे</b> वाले वॉच ग्लास पर क्लिक करें।"
+
+#: simcontrols.js:135
+msgid "4. Click on the knob of the burner."
+msgstr "4. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:136
+msgid "5. Click on the watch glass containing <b>Aluminium</b>."
+msgstr "5. <b>एल्युमिनियम</b> वाले वॉच ग्लास पर क्लिक करें।"
+
+#: simcontrols.js:137
+msgid "6. Click on the knob of the burner."
+msgstr "6. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:138
+msgid "7. Click on the watch glass containing <b>Lead</b>."
+msgstr "7. <b>सीसा (लेड)</b> वाले वॉच ग्लास पर क्लिक करें।"
+
+#: simcontrols.js:139
+msgid "8. Click on the knob of the burner."
+msgstr "8. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:140
+msgid "9. Click on the watch glass containing <b>Copper</b>."
+msgstr "9. <b>तांबे</b> वाले वॉच ग्लास पर क्लिक करें।"
+
+#: simcontrols.js:141
+msgid "10. Click on the knob of the burner."
+msgstr "10. बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:142
+msgid "11. Click on the 'Reset' button to redo the experiment."
+msgstr "11. प्रयोग को दोबारा करने के लिए 'रीसेट' बटन पर क्लिक करें।"
+
+#: simcontrols.js:143
+msgid "<strong>Sodium reacts violently with cold water.The reaction</strong>"
+msgstr "<strong>सोडियम ठंडे पानी के साथ बहुत तीव्रता से अभिक्रिया करता है। यह अभिक्रिया</strong>"
+
+#: simcontrols.js:144
+msgid "<strong>is so violent and exothermic in the case of sodium</strong>"
+msgstr "<strong>सोडियम के मामले में इतनी तीव्र और ऊष्माक्षेपी होती है कि</strong>"
+
+#: simcontrols.js:145
+msgid "<strong>that the evolved hydrogen immediately catches fire.</strong>"
+msgstr "<strong>उत्पन्न हाइड्रोजन तुरंत आग पकड़ लेता है।</strong>"
+
+#: simcontrols.js:146
+msgid ""
+"<strong>2Na<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub> → 2N<sub>a</sub>OH<sub>(aq)</sub> + "
+"H<sub>2(g)</sub></strong>"
+msgstr ""
+"<strong>2Na<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub> → 2NaOH<sub>(aq)</sub> + H<sub>2(g)</"
+"sub></strong>"
+
+#: simcontrols.js:147
+msgid "<strong>Magnesium does not react with cold water. It reacts with </strong>"
+msgstr "<strong>मैग्नीशियम ठंडे पानी के साथ अभिक्रिया नहीं करता। यह अभिक्रिया करता है </strong>"
+
+#: simcontrols.js:148
+msgid "<strong>hot water to form magnesium hydroxide and hydrogen. It </strong>"
+msgstr "<strong>गर्म पानी के साथ, जिससे मैग्नीशियम हाइड्रॉक्साइड और हाइड्रोजन बनते हैं। यह </strong>"
+
+#: simcontrols.js:149
+msgid "<strong>also starts floating due to the bubbles of hydrogen gas </strong>"
+msgstr "<strong>हाइड्रोजन गैस के बुलबुलों के कारण सतह पर तैरने लगता है </strong>"
+
+#: simcontrols.js:150
+msgid "<strong>sticking to its surface.</strong>"
+msgstr "<strong>जो उसकी सतह से चिपके रहते हैं।</strong>"
+
+#: simcontrols.js:151
+msgid ""
+"<strong>Mg<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub>→ Mg(OH)<sub>2(aq)</sub> + H<sub>2(g)</"
+"sub></strong>"
+msgstr ""
+"<strong>Mg<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub> → Mg(OH)<sub>2(aq)</sub> + H<sub>2(g)</"
+"sub></strong>"
+
+#: simcontrols.js:152
+msgid "<strong>Metals like aluminium, iron and zinc do not react either</strong>"
+msgstr "<strong>एल्युमिनियम, लोहा और जिंक जैसी धातुएं न तो</strong>"
+
+#: simcontrols.js:153
+msgid "<strong>with cold or hot water. But they react with steam to form</strong>"
+msgstr "<strong>ठंडे या गर्म पानी के साथ अभिक्रिया करती हैं, बल्कि भाप के साथ अभिक्रिया करके</strong>"
+
+#: simcontrols.js:154
+msgid "<strong>metal oxide and hydrogen gas.</strong>"
+msgstr "<strong>धातु ऑक्साइड और हाइड्रोजन गैस बनाती हैं।</strong>"
+
+#: simcontrols.js:155
+msgid ""
+"<strong>&nbsp;&nbsp;2Al<sub>(s)</sub> + 3H<sub>2</sub>O<sub>(g)</sub> → Al<sub>2</sub>O<sub>3(s)</"
+"sub> + 3H<sub>2(g)</sub></strong>"
+msgstr ""
+"<strong>&nbsp;&nbsp;2Al<sub>(s)</sub> + 3H<sub>2</sub>O<sub>(g)</sub> → Al<sub>2</sub>O<sub>3(s)</"
+"sub> + 3H<sub>2(g)</sub></strong>"
+
+#: simcontrols.js:156
+msgid ""
+"<strong>&nbsp;&nbsp;3Fe<sub>(s)</sub> + 4H<sub>2</sub>O<sub>(g)</sub> → Fe<sub>3</sub>O<sub>4(s)</"
+"sub> + 4H<sub>2(g)</sub></strong>"
+msgstr ""
+"<strong>&nbsp;&nbsp;3Fe<sub>(s)</sub> + 4H<sub>2</sub>O<sub>(g)</sub> → Fe<sub>3</sub>O<sub>4(s)</"
+"sub> + 4H<sub>2(g)</sub></strong>"
+
+#: simcontrols.js:157
+msgid ""
+"<strong>&nbsp;&nbsp;Zn<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub> → Zn(OH)<sub>2(aq)</sub> + "
+"H<sub>2(g)</sub></strong>"
+msgstr ""
+"<strong>&nbsp;&nbsp;Zn<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(l)</sub> → Zn(OH)<sub>2(aq)</sub> + "
+"H<sub>2(g)</sub></strong>"
+
+#: simcontrols.js:158
+msgid "<strong>Metals like lead and copper do not react with cold water,</strong>"
+msgstr "<strong>सीसा (लेड) और तांबा जैसी धातुएं ठंडे पानी के साथ अभिक्रिया नहीं करतीं,</strong>"
+
+#: simcontrols.js:159
+msgid "<strong>hot water and steam.</strong>"
+msgstr "<strong>गर्म पानी और भाप के साथ भी नहीं करतीं।</strong>"

@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_1">
+	<TEXTVALUE>സാപ്പോണിഫിക്കേഷൻ: സോപ്പ് നിർമ്മാണ പ്രക്രിയ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_2">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് - അളവ് സിലിണ്ടറുകൾ, കറിയുപ്പ്, ഗ്ലാസ്സ് ബീക്കറുകൾ, വെളിച്ചെണ്ണ, 20%സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി, ബൺസൺബർണർ, ഗ്ലാസ്സ് റോഡ്, ഫണൽ, അരിക്കൽപേപ്പർ, കമ്പിവല, ത്രികോണപീഠകം, ഘടിപ്പിച്ച സ്റ്റാൻഡ് എന്നിവയാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_3">
+	<TEXTVALUE>കറിയുപ്പ്[15g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_4">
+	<TEXTVALUE>വെളിച്ചണ്ണ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_5">
+	<TEXTVALUE>[20%] NaOH 
+ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_6">
+	<TEXTVALUE>അളവ് 
+സിലിണ്ടറുകൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_7">
+	<TEXTVALUE>കറിയുപ്പ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_8">
+	<TEXTVALUE>ഗ്ലാസ്സ് ബീക്കർ
+ (250 ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_9">
+	<TEXTVALUE>വെളിച്ചെണ്ണ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_10">
+	<TEXTVALUE>20% NaOH ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_11">
+	<TEXTVALUE>ബൺസൺബർണർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_12">
+	<TEXTVALUE>അരിക്കുന്ന ഫണൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>അളവ് സിലിണ്ടറിലേക്ക്  25 മി.ലി. വെളിച്ചണ്ണ  എടുത്ത് അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>അളവ് സിലിണ്ടറിലേക്ക്  25 മി.ലി. വെളിച്ചണ്ണ  എടുത്ത് അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>എണ്ണ ഗ്ലാസ്സ് ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടർ എടുത്തിട്ട്.  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>30 മി.ലി. 20% NaOH അതിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_string_13">
+	<TEXTVALUE>[20%] NaOH 
+ലായനി</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>വെളിച്ചെണ്ണ അടങ്ങിയ ബീക്കറിലേക്ക്  ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് മിശ്രിതം  നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>ബീക്കർ ബാഹ്യഭാഗത്ത് നിന്ന് തൊടുക, അത് ചൂടായിരിക്കുന്നതായി  കാണുന്നു. ഇതിന് കാരണം സസ്യ എണ്ണയ്ക്കും (വെളിച്ചെണ്ണ) സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനിയ്ക്കും ഇടയിലുള്ള താപമോചക പ്രവർത്തനം ആണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab8_string_14">
+	<TEXTVALUE>നീക്കംചെയ്യുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>മിശ്രിതം വെള്ള കുഴമ്പ് രൂപത്തിൽ  ആകുന്നതുവരെ ബീക്കർ ബൺസൺബർണറിൽ വച്ച് ചൂടാക്കുക. സോപ്പിന്റെയും ഗ്ലിസറോളിന്റെയും (ലയിക്കാതെ പൊന്തിക്കിടക്കൽ)നിർമ്മിതമാണ്  ഈ  മിശ്രിതം</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_two">
+	<TEXTVALUE>ജ്വാലയിൽ നിന്ന്  ബീക്കർ എടുക്കുക, തണുക്കാൻ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>ലയിക്കാതെ തങ്ങിനിൽക്കുന്നതിൽ  ഒരു ചുവന്ന ലിറ്റ്മസ്  പേപ്പർ മുക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_two">
+	<TEXTVALUE>പൊന്തിക്കിടക്കുന്നതിൽ മുക്കുമ്പോൾ  ചുവന്ന ലിറ്റ്മസ് പേപ്പർ നീല നിറമാകുന്നു. സോപ്പ് ലായനി ആൽക്കലൈൻ സ്വഭാവം ആണന്ന് ഇത് കാണിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_15">
+	<TEXTVALUE>ചുവന്ന ലിറ്റ്മസ് പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_16">
+	<TEXTVALUE>ആൽക്കലീസ്വഭാവം ഉള്ളത്</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>സസ്പെൻഷനിൽ ഒരു  നീല ലിറ്റ്മസ്പേപ്പർ മുക്കുന്നു. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_17">
+	<TEXTVALUE>നീല ലിറ്റ്മസ് പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_18">
+	<TEXTVALUE>ആസിഡ് സ്വഭാവം ഇല്ല</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_two">
+	<TEXTVALUE>ലിറ്റ്മസ് പേപ്പറിന്റെ  നിറം സ്ഥിരമായി നിൽക്കുന്നു. ഇത് കാണിക്കുന്നത് സോപ്പ് സസ്പെൻഷൻ അസിഡിക് സ്വഭാവം അല്ല എന്ന് ആണ്.
+	</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>ഈ സസ്പെൻഷനിലേക്ക് 15 ഗ്രാം കറിയുപ്പ് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_bet_string">
+	<TEXTVALUE>കറിയുപ്പ്[15g]</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച്  ഇത് നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_two">
+	<TEXTVALUE>സോപ്പ് ഒരു ഖര അവക്ഷിപ്തമായി മാറുന്നത് കാണുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>ഒരു അരിക്കൽ പേപ്പർ എടുക്കുക, അത് ഫണലിലേക്ക്  ചേർത്തുവെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab14_string_19">
+	<TEXTVALUE>ഫിൽട്ടർ
+പേപ്പർ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab15">
+	<TEXT ID="Lab15_one">
+	<TEXTVALUE>ഫണലിന് മുകളിലായി ഒരു ഗ്ലാസ്സ് റോഡ് പിടിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab15_string_20">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>സോപ്പ് അടങ്ങിയ ഒരു ബീക്കർ എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡിലൂടെ ഇത് ഒഴിച്ച്  ലായനി അരിക്കുക. സോപ്പ് ഫിൽട്ടർ പേപ്പറിൽ വേർതിരിയുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>ഒരു  അരിക്കൽ പേപ്പർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab18_string_21">
+	<TEXTVALUE>ഫിൽട്ടർപേപ്പർ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>സ്പാറ്റുല  ഉപയോഗിച്ച്  ഫണലിൽ നിന്ന് സോപ്പ് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>ഇത് ഫിൽട്ടർ പേപ്പറിൽ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് ഫണലിൽ നിന്ന് സോപ്പ് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>ഇത് ഫിൽട്ടർ പേപ്പറിൽ വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>വേറൊരു അരിക്കൽ പേപ്പറിൽ ഈ സോപ്പ് അമർത്തി ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>ഒരു കത്തി ഉപയോഗിച്ച്  അനുയോജ്യമായ(ഇഷ്ടമുള്ള) ആകൃതിയിൽ മുറിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>അങ്ങനെ സോപ്പ് നിർമ്മിച്ചു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_last_1">
+	<TEXTVALUE>പുറകോട്ട്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

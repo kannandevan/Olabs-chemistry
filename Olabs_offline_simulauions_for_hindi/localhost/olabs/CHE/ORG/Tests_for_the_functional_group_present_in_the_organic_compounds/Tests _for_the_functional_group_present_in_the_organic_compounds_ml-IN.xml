@@ -1,0 +1,1727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<!-- Interactive_scenes-->
+<SCENE ID="TitleFunctionalGrp">
+	<TEXT ID="TitleFunctionalGrp_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Buttons">
+	<TEXT ID="6Buttons_one">
+		<TEXTVALUE>ഗ്രൂപ്പുകളിലൊന്നില്‍ ക്ലിക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Buttons">
+	<TEXT ID="3Buttons_one">
+		<TEXTVALUE>ഗ്രൂപ്പുകളിലൊന്നില്‍ ക്ലിക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!-- Test for unsaturation -->
+
+
+
+
+
+<SCENE ID="Tests">
+	<TEXT ID="Tests_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Brominetest">
+	<TEXT ID="Brominetest_one">
+		<TEXTVALUE>ബ്രോമൈഡ് ജല പരിശോധന</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>ബ്രോമൈഡ് ജല പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakingUnknCmpnd">
+	<TEXT ID="TakingUnknCmpnd_one">
+		<TEXTVALUE>അജ്ഞാത സംയുക്തം ഒരു പ്രലേപനകത്തികൊണ്ട് അല്‍പം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PowderinTube">
+	<TEXT ID="PowderinTube_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterinjar">
+	<TEXT ID="Waterinjar_one">
+		<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിച്ച് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWater">
+	<TEXT ID="PouringWater_one">
+		<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 2 ml സ്വേദിത ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterintesttube">
+	<TEXT ID="Waterintesttube_one">
+		<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിച്ച് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Brominetaking">
+	<TEXT ID="Brominetaking_one">
+		<TEXTVALUE>1-2 തുള്ളി ബ്രോമിന്‍ ജലം അതില്‍  ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിച്ച് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>ബ്രോമിന്‍റെ ഓറഞ്ച്- ചുവപ്പ്നിറം അപ്രത്യക്ഷമാകുന്നത് ലായനി അപൂരിതമെന്ന് സൂചിപ്പിക്കുന്നു. അല്ലെങ്കില്‍ അത് പൂരിതമായിരിക്കും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyerstest">
+	<TEXT ID="Baeyerstest_one">
+		<TEXTVALUE>ബേയേര്‍സ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TitleBaeyerstest">
+	<TEXT ID="TitleBaeyerstest_one">
+		<TEXTVALUE>ബേയേര്‍സ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TakingUnknCmpndBaeyer">
+	<TEXT ID="TakingUnknCmpndBaeyer_one">
+		<TEXTVALUE>അജ്ഞാത സംയുക്തം ഒരു പ്രലേപനകത്തി കൊണ്ട് അല്‍പം എടുത്ത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PowderinTubeBaeyer">
+	<TEXT ID="PowderinTubeBaeyer_one">
+		<TEXTVALUE>അജ്ഞാത സംയുക്തം ഒരു പ്രലേപനകത്തി കൊണ്ട് അല്‍പം എടുത്ത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterinjarBaeyer">
+	<TEXT ID="WaterinjarBaeyer_one">
+		<TEXTVALUE>ഇനി 2-3 തുള്ളി KMnO[sup]4[/sup]ലായനി അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWaterBaeyer">
+	<TEXT ID="PouringWaterBaeyer_one">
+		<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 2 ml സ്വേദിത ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WaterintesttubeBaeyer">
+	<TEXT ID="WaterintesttubeBaeyer_one">
+		<TEXTVALUE>ടെസ്റ്റ് ട്യൂബിലേക്ക്  ചേർക്കുക, നന്നായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyertaking">
+	<TEXT ID="Baeyertaking_one">
+		<TEXTVALUE>ഇനി 2-3 തുള്ളി KMnO[sup]4[/sup] ലായനി അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BaeyerPoringzoom">
+	<TEXT ID="BaeyerPoringzoom_one">
+		<TEXTVALUE>KMnO[sup]4[/sup] ന്റെ  നിറം ഇല്ലാതാകുന്നത് ലായനി അപൂരിതമെന്ന് കാണിക്കുന്നു. അല്ലെങ്കില്‍ അത് പൂരിതമായിരിക്കും. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-----Alcoholic group------->
+
+
+
+
+
+
+<SCENE ID="titlealco">
+	<TEXT ID="titlealco_one">
+		<TEXTVALUE>ആല്‍ക്കഹോളിക് ഗ്രൂപ്പ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>സോഡിയം ലോഹ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsodium">
+	<TEXT ID="introsodium_one">
+		<TEXTVALUE>സോഡിയം ലോഹ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="measuringjar">
+	<TEXT ID="measuringjar_one">
+		<TEXTVALUE>ശുദ്ധവും ഈര്‍പരഹിതവുമായ ഒരു അളവ് ജാര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="liquidinto">
+	<TEXT ID="liquidinto_one">
+		<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാതമായ സംയുക്തം 1 ml അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="liquidinto_two">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="smallamount">
+	<TEXT ID="smallamount_one">
+		<TEXTVALUE>ഒരു ചെറിയ അളവ് അന്‍ഹൈഡ്രസ് കാല്‍സ്യം സള്‍ഫേറ്റ് അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Shakewell">
+	<TEXT ID="Shakewell_one">
+		<TEXTVALUE>നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="funnelfilte">
+	<TEXT ID="funnelfilte_one">
+		<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബിനുമുകളില്‍ ഒരു ഫണല്‍ വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="funnelfilte_two">
+		<TEXTVALUE>ഫണലിനുള്ളില്‍ ഒരു അരിപ്പുകടലാസ് വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thetest">
+	<TEXT ID="thetest_one">
+		<TEXTVALUE>ലായനി ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് അരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="thetest_two">
+		<TEXTVALUE>ഫണല്‍ നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Addsodiummetal">
+	<TEXT ID="Addsodiummetal_one">
+		<TEXTVALUE>ഒരു കൊടില്‍ ഉപയോഗിച്ച് ചെറിയ സോഡിയം ലോഹ കഷണങ്ങള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Addsodiummetal_two">
+		<TEXTVALUE>അത് ഒരു അരിപ്പുകടലാസില്‍ വച്ച് മറ്റൊരു അരിപ്പുകടലാസുകൊണ്ട് അമര്‍ത്തി ഈര്‍പരഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sodiummetal">
+	<TEXT ID="sodiummetal_one">
+		<TEXTVALUE>കൊടില്‍ ഉപയോഗിച്ച് 2-3 കഷണം സോഡിയം ലോഹം ടെസ്‍റ്റ് ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumzoom">
+	<TEXT ID="sodiumzoom_one">
+		<TEXTVALUE>ആല്‍ക്കഹോൾ സോഡിയം പോലുള്ള സജീവ ലോഹങ്ങളോട് പ്രതിപ്രവര്‍ത്തിച്ച് ഹൈഡ്രജന്‍ വാതകത്തിന്‍റെ കുമിളകള്‍ ഉണ്ടാക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="estertest">
+	<TEXT ID="estertest_one">
+		<TEXTVALUE>എസ്‍റ്റര്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro22">
+	<TEXT ID="intro22_one">
+		<TEXTVALUE>എസ്‍റ്റര്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>ഒരു അളവ് ജാര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="givenunknownliquid2">
+	<TEXT ID="givenunknownliquid2_one">
+		<TEXTVALUE>അളവ് ജാറില് ‍1 ml അജ്ഞാത സംയുക്തം  ഒഴിക്കുക. അത് മറ്റൊരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuringjar2">
+	<TEXT ID="measuringjar2_one">
+		<TEXTVALUE>മറ്റൊരു അളവ് ജാര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="measuringjar2_two">
+		<TEXTVALUE>1 ml ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="testtube3">
+		<TEXT ID="testtube3_one">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pourit">
+	<TEXT ID="Pourit_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pourit_two">
+		<TEXTVALUE>2-3 തുള്ളി ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+		<TEXTVALUE>ഒരു വാട്ടര്‍ ബാത്തില്‍ ഈ മിശ്രിതം 10 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Take">
+	<TEXT ID="Take_one">
+		<TEXTVALUE>ഈ മിശ്രിതം ഒരു അളവുപാത്രത്തിൽ  പിടിച്ചിരുന്ന 20 മില്ലി തണുത്ത വെള്ളത്തിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Take_two">
+		<TEXTVALUE>ആൽക്കഹോളുകള്‍ ഗാഢ സൾഫ്യൂരിക് അമ്ലത്തിന്റെ സാന്നിധ്യത്തില്‍ പഴവാസനയുള്ള സംയുക്തം എസ്റ്റര്‍ ഉൽപ്പാദിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Take_three">
+		<TEXTVALUE>ഒരു പഴവാസന ഉയരുന്നത് ആൽക്കഹോളിക് ഗ്രൂപ്പിന്റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fruity">
+	<TEXT ID="fruity_one">
+		<TEXTVALUE>ഒരു പഴവാസന ഉയരുന്നത് ആല്‍ക്കഹോളിക് ഗ്രൂപ്പിന്‍റെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="CericAmmoniumNitrate">
+	<TEXT ID="CericAmmoniumNitrate_one">
+		<TEXTVALUE>സെറിക് അമോണിയം നൈട്രേറ്റ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="take22">
+	<TEXT ID="take22_one">
+	<TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="givenunknown">
+	<TEXT ID="givenunknown_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+<TEXT ID="givenunknown_two">
+	<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാതമായ സംയുക്തം 1 ml അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_three">
+	<TEXTVALUE>ഏതാനും തുള്ളി സെറിക് അമോണിയം നൈട്രേറ്റ് റീയേജന്‍റ് അതില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_four">
+	<TEXTVALUE>ഏതാനും തുള്ളി സെറിക് അമോണിയം നൈട്രേറ്റ് റീയേജന്‍റ് അതില്‍ ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene671">
+	<TEXT ID="Scene671_one">
+	<TEXTVALUE>ഏതാനും തുള്ളി സെറിക് അമോണിയം നൈട്രേറ്റ് റീയേജന്‍റ് അതില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_two">
+	<TEXTVALUE>നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_three">
+	<TEXTVALUE>ആല്‍ക്കഹോളിക് സംയുക്തങ്ങള്‍ സെറിക് അമോണിയം നൈട്രേറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കോക്സി സെറിയം (IV)കോംപ്ലെക്സ് രൂപപ്പെടുന്നതിന്‍റെ സൂചനയായി ചുവപ്പ് നിറം കാണപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetylChloride">
+	<TEXT ID="AcetylChloride_one">
+	<TEXTVALUE>അസെറ്റൈല്‍ ക്ലോറൈഡ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro321">
+	<TEXT ID="intro321_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring4">
+	<TEXT ID="Takeameasuring4_one">
+	<TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownliquid">
+	<TEXT ID="unknownliquid_one">
+	<TEXTVALUE>നിങ്ങള്‍ക്ക് നല്‍കിയ അജ്ഞാത ദ്രാവകം1 ml  അതില്‍ ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="unknownliquid_two">
+	<TEXTVALUE>അത് ഒരു ഉണങ്ങിയ ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Addsmall">
+	<TEXT ID="Addsmall_one">
+	<TEXTVALUE>അതില്‍ അല്‍പം അന്‍ഹൈഡ്രസ് കാല്‍സ്യം സള്‍ഫേറ്റ് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shake">
+	<TEXT ID="Shake_one">
+	<TEXTVALUE>നന്നായി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelfilter3">
+	<TEXT ID="funnelfilter3_one">
+	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബിനു മുകളില്‍ ഒരു ഫണല്‍ വയ്‍ക്കുക. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="funnelfilter3_two">
+	<TEXTVALUE>ഫണലില്‍ ഒരു അരിപ്പുകടലാസ് വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Theliquidin">
+	<TEXT ID="Theliquidin_one">
+	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബിലെ ദ്രാവകം അരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Theliquidin_two">
+	<TEXTVALUE>ഫണല്‍ നീക്കം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritintothegg">
+<TEXT ID="Pouritintothegg_one">
+	<TEXTVALUE>2 - 3 തുള്ളി അസെറ്റൈല്‍ ക്ലോറൈഡ് അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouritintothegg_two">
+	<TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് എടുത്ത് അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനിയില്‍ മുക്കുക. ഗ്ലാസ് റോഡ് ടെസ്‍റ്റ് ട്യൂബിന്‍റെ വായ് ഭാഗത്ത് കൊണ്ടുവരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whitefumes">
+	<TEXT ID="whitefumes_one">
+	<TEXTVALUE>ആല്‍ക്കഹോളുകള്‍ അസെറ്റൈല്‍ ക്ലോറൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് എസ്‍റ്റര്‍ ഉണ്ടാവുകയും ഹൈഡ്രജന്‍ ക്ലോറൈഡ് വാതകം പുറത്തുവിടുകയും ചെയ്യുന്നു. ഹൈഡ്രജന്‍ ക്ലോറൈഡ് അമോണിയം ഹൈഡ്രോക്സൈഡുമായിച്ചേര്‍ന്ന് അമോണിയം ക്ലോറൈഡിന്‍റെ വെളുത്ത ആവി ഉണ്ടാകുന്നു. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whitefumes_two">
+	<TEXTVALUE>ഹൈഡ്രജന്‍ ക്ലോറൈഡ് അമോണിയം ഹൈഡ്രോക്സൈഡുമായിച്ചേര്‍ന്ന് അമോണിയം ക്ലോറൈഡിന്‍റെ വെളുത്ത ആവി ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+
+
+</SCENE>
+
+<SCENE ID="Test100">
+	<TEXT ID="Test100_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro4">
+	<TEXT ID="intro4_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring5">
+	<TEXT ID="Takeameasuring5_one">
+	<TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="given5">
+	<TEXT ID="given5_one">
+	<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാതമായ സംയുക്തം 1 ml അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="given5_two">
+	<TEXTVALUE>അത് ഒരു ഉണങ്ങിയ ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasu">
+	<TEXT ID="Takeameasu_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 1 ml 1% അയോഡിന്‍ ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pour">
+	<TEXT ID="Pour_one">
+	<TEXTVALUE>അത് ഒരു ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritinto">
+	<TEXT ID="Pouritinto_one">
+	<TEXTVALUE>അയോഡിന്‍റെ തവിട്ടുനിറം നീങ്ങുന്നതുവരെ തുള്ളി തുള്ളിയായി നേര്‍ത്ത സോഡിയം ഹൈഡ്രോക്സൈഡ് അതില്‍ ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="awaterbath">
+	<TEXT ID="awaterbath_one">
+	<TEXTVALUE>മിശ്രിതം ഒരു വാട്ടര്‍ ബാത്തില്‍ ചെറുതായി ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ZOOOMI">
+	<TEXT ID="ZOOOMI_one">
+	<TEXTVALUE>അയോഡോഫോമിന്‍റെ മഞ്ഞ അവക്ഷിപ്‍തം ആല്‍ക്കഹോളിക് ഗ്രൂപ്പിന്‍റെ സൂചന നല്‍കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Lucastesttitle">
+	<TEXT ID="Lucastesttitle_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lucastest1">
+	<TEXT ID="Lucastest1_one">
+	<TEXTVALUE>മൂന്ന് വ്യത്യസ്‍ത ടെസ്‍റ്റ് ട്യൂബുകളില്‍ പ്രൈമറി, സെക്കന്‍ററി, ടെര്‍ഷറി ആല്‍ക്കഹോളുകള്‍ ചെറിയ അളവില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest2">
+	<TEXT ID="Lucastest2_one">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് അല്‍പം ലൂക്കാസ് റീയേജന്‍റ് എടുക്കുക. ടെര്‍ഷറി ആല്‍ക്കഹോളില്‍ ഒരു ചെറിയ അളവ് ലൂക്കാസ് റീയേജന്‍റ് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="Lucastest2_two">
+	<TEXTVALUE>ടെര്‍ഷറി ആല്‍ക്കഹോള്‍ ലൂക്കാസ്‍ റീയേജന്‍റുമായി തല്‍ക്ഷണം പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കൈല്‍ ക്ലോറൈഡ് ഉണ്ടാകുന്നു. അലേയമായ ഇത് ലായനിയില്‍ ഒരു മൂടലുണ്ടാക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest3">
+	<TEXT ID="Lucastest3_one">
+	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ലൂക്കാസ് റീയേജന്‍റ് എടുക്കുക. അതില്‍ ഏതാനും തുള്ളി സെക്കന്‍ററി ആല്‍ക്കഹോൾ ചേര്‍ക്കുക. അതിനുശേഷം 5 മിനിറ്റ് അത് അനക്കാതെ വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Lucastest3_two">
+	<TEXTVALUE>സെക്കന്‍ററി ആല്‍ക്കഹോള്‍ ലൂക്കാസ്  റീയേജന്‍റുമായി 1- 5 മിനിറ്റുകള്‍ക്കുള്ളില്‍ പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കൈല്‍ ക്ലോറൈഡ് ഉണ്ടാകുന്നു. അതു ലയിക്കാതിരിക്കുന്നതുകൊണ്ട് ലായനിക്ക് ഒരു മൂടല്‍ അനുഭവപ്പെടും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest4">
+	<TEXT ID="Lucastest4_one">
+	<TEXTVALUE>ഇനി പ്രൈമറി ആല്‍ക്കഹോളില്‍  ഏതാനും തുള്ളി ലൂക്കാസ് റീയേജന്‍റ് ചേര്‍ക്കുക. ടെസ്‍റ്റ് ട്യൂബ് ഒരു ടെസ്‍റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ കൊണ്ട് പിടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest5">
+	<TEXT ID="Lucastest5_one">
+	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് ബുന്‍സന്‍ ബര്‍ണറില്‍ ചൂടാക്കുക. ചൂടാക്കുമ്പോള്‍ പ്രൈമറി ആല്‍ക്കഹോള്‍ ലൂക്കാസ് റീയേജന്‍റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ആല്‍ക്കൈല്‍ ക്ലോറൈഡ് ഉണ്ടാകുന്നു. അതും ലയിക്കാത്തതുകൊണ്ട് ലായനിയില്‍ ഒരു മൂടലായി നില്‍ക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!---------phenolic group-------->
+
+
+
+
+
+
+<SCENE ID="LitmusTest1">
+	<TEXT ID="LitmusTest1_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitle">
+	<TEXT ID="litmusTesttitle_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബില്‍നിന്നും അറിയപ്പെടാത്ത ഒരു ദ്രാവകം എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroLis">
+	<TEXT ID="IntroLis_one">
+	 <TEXTVALUE>ഈര്‍പമുള്ള ഒരു നീല ലിറ്റ്മസ് പേപ്പര്‍ എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+	<SCENE ID="Scene3droperdrp">
+	<TEXT ID="Scene3droperdrp_one">
+	 <TEXTVALUE>നല്‍കപ്പെട്ട ദ്രാവകത്തില്‍ നിന്ന് ഒരു തുള്ളി ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് ലിറ്റ്മസ് പേപ്പറില്‍ വീഴ്‍ത്തുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_two">
+	 <TEXTVALUE>നല്‍കപ്പെട്ട ദ്രാവകത്തില്‍ നിന്ന് ഒരു തുള്ളി ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് ലിറ്റ്മസ് പേപ്പറില്‍ വീഴ്‍ത്തുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_three">
+	 <TEXTVALUE>ഫിനോള്‍ ഒരു ദുര്‍ബല അമ്ലമാണ്. അത് നീല ലിറ്റ്മസിനെ ചുവപ്പിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricchlordetest">
+	<TEXT ID="Ferricchlordetest_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrodFerric">
+	<TEXT ID="IntrodFerric_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="violetcoloration">
+	<TEXT ID="violetcoloration_one">
+	 <TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_two">
+	 <TEXTVALUE>അതില്‍ ന്യൂട്രല്‍ ഫെറിക് ക്ലോറൈഡ് 1 ml ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_three">
+	 <TEXTVALUE>അത് ഒരു ഉണങ്ങിയ ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_four">
+	 <TEXTVALUE>നല്‍കപ്പെട്ട ദ്രാവകം 2-3 തുള്ളി ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.   
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_five">
+	 <TEXTVALUE>ഫിനോള്‍ ന്യൂട്രല്‍ ഫെറിക് ക്ലോറൈഡുമായി പ്രവര്‍ത്തിച്ച് ഒരു കോംപ്ലെക്സ് ഉണ്ടാകുന്നതു കാരണം വയലറ്റ് നിറം കാണപ്പെടുന്നു. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitlecopy">
+	<TEXT ID="litmusTesttitlecopy_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introductionp">
+	<TEXT ID="introductionp_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="animationheat">
+	<TEXT ID="animationheat_one">
+	 <TEXTVALUE>ഒരു ടെസ്‍റ്റ് ട്യൂബ് എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_two">
+	 <TEXTVALUE>അതില്‍ സോഡിയം നൈട്രൈറ്റിന്‍റെ 2-3 പരലുകള്‍ ഇടുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_three">
+	 <TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_four">
+	 <TEXTVALUE>അതിൽ 1 ml ഫിനോൾ ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_five">
+	 <TEXTVALUE>അത് ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_six">
+	 <TEXTVALUE>അരമിനിറ്റ് ചെറുതായി ചൂടാക്കിയശേഷം അത് അണുക്കാന്‍ അനുവദിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="jarSulBlueORGreen">
+	<TEXT ID="jarSulBlueORGreen_one">
+	 <TEXTVALUE>ഒരു അളവുപാത്രം എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_two">
+	 <TEXTVALUE>അതിൽ 1 ml ഗാഢ സൾഫ്യുരിക് ആസിഡ് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_three">
+	 <TEXTVALUE>അത് ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_four">
+	 <TEXTVALUE>ഫിനോള്‍ ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലത്തിന്‍റെ സാന്നിധ്യത്തില്‍ സോഡിയം നൈട്രൈറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് കടും നീലയോ പച്ചയോ നിറമുള്ള ഉല്‍പന്നമുണ്ടാകുന്നു. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterDroper">
+	<TEXT ID="WaterDroper_one">
+	 <TEXTVALUE>അതില്‍ ശ്രദ്ധയോടെ അല്‍പം ജലമൊഴിക്കുക. നീലയോ പച്ചയോ ആയ നിറം ചുവപ്പോ തവിട്ടോ ആയി മാറുന്നു. ഇതിന് കാരണം ഇൻഡോഫിനോളിന്‍റെ രൂപീകരണമാണ്.
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Blue2Red">
+	<TEXT ID="Blue2Red_one">
+	 <TEXTVALUE>കൂടുതല്‍ സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക. ചുവപ്പുനിറം വീണ്ടും നീലയോ പച്ചയോ ആകുന്നു. വീര്യംകൂടിയ ആല്‍ക്കലിയുടെ സാന്നിധ്യത്തില്‍ ഇന്‍ഡോഫിനോള്‍ ആനയോണ്‍ രൂപീകരിക്കപ്പെടുന്നതാണ് ഇതിന് കാരണം.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SodiumHydroxideBtl">
+	<TEXT ID="SodiumHydroxideBtl_one">
+	 <TEXTVALUE>കൂടുതല്‍ സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക. ചുവപ്പുനിറം വീണ്ടും നീലയോ പച്ചയോ ആകുന്നു. വീര്യംകൂടിയ ആല്‍ക്കലിയുടെ സാന്നിധ്യത്തില്‍ ഇന്‍ഡോഫിനോള്‍ ആനയോണ്‍ രൂപീകരിക്കപ്പെടുന്നതാണ് ഇതിന് കാരണം.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Red2Green">
+	<TEXT ID="Red2Green_one">
+	 <TEXTVALUE>കൂടുതല്‍ സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക. ചുവപ്പുനിറം വീണ്ടും നീലയോ പച്ചയോ ആകുന്നു. വീര്യംകൂടിയ ആല്‍ക്കലിയുടെ സാന്നിധ്യത്തില്‍ ഇന്‍ഡോഫിനോള്‍ ആനയോണ്‍ രൂപീകരിക്കപ്പെടുന്നതാണ് ഇതിന് കാരണം.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="phthaleindye1">
+	<TEXT ID="phthaleindye1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ph2">
+	<TEXT ID="ph2_one">
+	 <TEXTVALUE>ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ചെറിയ അളവ് ഫിനോള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowder">
+	<TEXT ID="takpowder_one">
+	 <TEXTVALUE>പ്രലേപനകത്തികൊണ്ട് കുറച്ച് ഫ്‍താലിക് അന്‍ഹൈഡ്രൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowde2">
+	<TEXT ID="takpowde2_one">
+	 <TEXTVALUE>അത് ഫിനോള്‍ ഉള്ള ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intube">
+	<TEXT ID="intube_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് ഒരു ടെസ്‍റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ കൊണ്ട് പിടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് ഒരു ടെസ്‍റ്റ് ട്യൂബ് ഹോള്‍ഡര്‍ കൊണ്ട് പിടിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoh2so4">
+	<TEXT ID="addcoh2so4_one">
+	 <TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ചെറിയ അളവ് ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="boiltube">
+	<TEXT ID="boiltube_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് 1  മിനിറ്റ് ഓയില്‍ ബാത്തില്‍ ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pour">
+	<TEXT ID="pour_one">
+	 <TEXTVALUE>പ്രതിപ്രവര്‍ത്തന മിശ്രിതം സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനിയുള്ള ഒരു ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="pour_two">
+	 <TEXTVALUE>ചൂടാക്കുമ്പോള്‍ ഫിനോള്‍ സള്‍ഫ്യൂരിക് അമ്ലത്തിന്‍റെ സാന്നിധ്യത്തില്‍ ഫ്‍താലിക് അന്‍ഹൈഡ്രൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് നിറമില്ലാത്ത ഫിനോള്‍ഫ്തലീന്‍ ഉല്‍പാദിപ്പിക്കുന്നു. NaOH പോലുള്ള ക്ഷാരവുമായി പ്രവര്‍ത്തിക്കുമ്പോള്‍ ഫിനോള്‍ഫ്‍തലീൻ പിങ്ക് നിറം ഉണ്ടാക്കുന്നു.
+
+</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+
+<!---------aldyhide and ketone-------->
+
+
+
+
+
+
+<SCENE ID="TitleAldyKeton">
+	<TEXT ID="TitleAldyKeton_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydrazinetitle">
+	<TEXT ID="hydrazinetitle_one">
+	 	<TEXTVALUE>2,4- ഡൈനൈട്രോഫിനൈല്‍ ഹൈഡ്രാസൈന്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAldyKetonS1">
+	<TEXT ID="IntroAldyKetonS1_one">
+	 	<TEXTVALUE>2,4- ഡൈനൈട്രോഫിനൈല്‍ ഹൈഡ്രാസൈന്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SpoonComp2TtubeS2">
+	<TEXT ID="SpoonComp2TtubeS2_one">
+	 	<TEXTVALUE>ഒരു പ്രലേപനകത്തി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SpoonComp2TtubeS2_two">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാത സംയുക്തം അല്‍പം ഈര്‍പരഹിതമായ ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Spirit2TtubeS3">
+	<TEXT ID="Spirit2TtubeS3_one">
+	 	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Spirit2TtubeS3_two">
+	 	<TEXTVALUE>സംയുക്തം ലയിക്കുന്നതുവരെ ഏതാനും തുള്ളി റെക്റ്റിഫൈഡ് സ്‍പിരിറ്റ് ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Hydrazine2TtubeS4">
+	<TEXT ID="Hydrazine2TtubeS4_one">
+	 	<TEXTVALUE>5 ml  2, 4 ഡൈനൈട്രോഫിനൈല്‍ ഹൈഡ്രാസൈന്‍ ലായനി ഒരു അളവ് ജാറില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_two">
+	 	<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_three">
+	 	<TEXTVALUE>മിശ്രിതം നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultorangeS5">
+	<TEXT ID="ResultorangeS5_one">
+	 	<TEXTVALUE>അത് 5 മിനിറ്റ് അനക്കാതെ വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="ResultorangeS5_two">
+	 	<TEXTVALUE>മഞ്ഞയോ ഓറഞ്ചോ നിറമുള്ള പരലുകല്‍ ഉണ്ടാകുന്നത് ആല്‍ഡിഹൈഡുകളുടേയോ കീറ്റോണുകളുടേയോ സാന്നിധ്യം  സൂചിപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodiumtitle">
+	<TEXT ID="Sodiumtitle_one">
+	 	<TEXTVALUE>സോഡിയം ബൈസള്‍ഫൈറ്റ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodium2TtubeS6">
+	<TEXT ID="Sodium2TtubeS6_one">
+	 	<TEXTVALUE>2 ml സോഡിയം ബൈസള്‍ഫൈറ്റ് ഒരു അളവ് ജാറില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Sodium2TtubeS6_two">
+	 	<TEXTVALUE>അത് ഒരു ഉണങ്ങിയ ടെസ്റ്റ്‌ ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Compound2SodiumTubeS7">
+	<TEXT ID="Compound2SodiumTubeS7_one">
+	 	<TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് അജ്ഞാത സംയുക്തം കുറച്ചെടുത്ത് അതില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Compound2SodiumTubeS7_two">
+	 	<TEXTVALUE>ടെസ്റ്റ്‌ ട്യൂബ് കോർക്ക് കൊണ്ട് അടക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultWhiteS8">
+	<TEXT ID="ResultWhiteS8_one">
+	 	<TEXTVALUE>നല്ലപോലെ കുലുക്കിയശേഷം അത് 20 മിനിറ്റ് ഇളക്കാതെ വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ResultWhiteS8_two">
+	 	<TEXTVALUE>ക്രിസ്‍റ്റല്‍ രൂപത്തിലുള്ള വെളുത്ത അവക്ഷിപ്‍തം കാര്‍ബോണൈല്‍ ഗ്രൂപ്പിന്‍റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!---------test for amino groups-------->
+
+
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="LitmusTest">
+	<TEXT ID="LitmusTest_one">
+	 	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="LitmusTest_two">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാത ദ്രാവകം കുറച്ച് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="LitmusTest_three">
+	 	<TEXTVALUE>അതില്‍ ഏതാനും തുള്ളി ഈര്‍പമുള്ള ചുവപ്പ് ലിറ്റ്മസ് പേപ്പറില്‍ ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>		
+<TEXT ID="LitmusTest_four">
+	 	<TEXTVALUE>അമീനുകള്‍ ക്ഷാരസ്വഭാവമുള്ളവയായതുകൊണ്ട് ചുവപ്പ് ലിറ്റ്മസ് നീലയാകുന്നു.</TEXTVALUE>
+	</TEXT>			
+	
+</SCENE>
+
+
+<SCENE ID="SolubilityTest">
+<TEXT ID="SolubilityTest_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="SolubilityTest_one">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട സംയുക്തം ഒരു പ്രലേപനകത്തികൊണ്ട് അല്‍പം എടുത്ത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_two">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബില്‍ ഒരു ചെറിയ അളവ് നേര്‍ത്ത HCl ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_three">
+	 	<TEXTVALUE>അമിനോഗ്രൂപ്പിൽ പെട്ട കാർബണിക സംയുക്തങ്ങള്‍ ക്ഷാര ഗുണമുള്ളവയായതിനാല്‍ അമ്ലങ്ങളുമായി അനായാസം പ്രതിപ്രവർത്തിച്ച് ലേയത്വമുള്ള ലവണങ്ങള്‍ ഉണ്ടാക്കുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Carbylamines">
+
+<TEXT ID="Carbylamines_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Carbylamines_one">
+	 	<TEXTVALUE>ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ അല്‍പം പൊട്ടാസിയം ഹൈഡ്രോക്സൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_two">
+	 	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 2 ml എഥനോള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_three">
+	 	<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_four">
+	 	<TEXTVALUE>പൊട്ടാസിയം ഹൈഡ്രോക്സൈഡ് ലയിക്കുന്നതുവരെ ടെസ്‍റ്റ് ട്യൂബ് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_five">
+	 	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് ഏതാനും തുള്ളി ക്ലോറോഫോം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_six">
+	 	<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_seven">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട അജ്ഞാത സംയുക്തം അതേ ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക. .</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_eight">
+	 	<TEXTVALUE>അത് ചെറുതായി ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_nine">
+	 	<TEXTVALUE>അലിഫാറ്റിക്, അരോമാറ്റിക് സ്വഭാവങ്ങളുള്ള പ്രൈമറി അമീനുകള്‍ ക്ലോറോഫോം, അല്‍ക്കഹോളിക് KOH എന്നിവയോടൊപ്പം ചൂടാക്കുമ്പോള്‍ രൂക്ഷഗന്ധമുള്ള ഐസോസയനൈഡ് ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="one">
+	<TEXT ID="one_one">
+	 <TEXTVALUE>അസോ-ഡൈ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="two">
+	<TEXT ID="two_one">
+	 <TEXTVALUE>ഇതിന് ആവശ്യമായവ: കാര്‍ബണിക സംയുക്തം, സോഡിയം നൈട്രൈറ്റ്, സ്വേദിത ജലം, ബീറ്റ-നാഫ്‍തോള്‍, നേര്‍ത്ത NaOH, പ്രലേപനകത്തി, ഡ്രോപ്പറുകള്‍, ടെസ്‍റ്റ് ട്യൂബുകള്‍.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="three">
+	<TEXT ID="three_one">
+	 <TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് അല്‍പം കാര്‍ബണിക സംയുക്തം എടുത്ത് ടെസ്‍റ്റ് ട്യൂബിലേക്ക് മാറ്റുക. മറ്റൊരു ഡ്രോപ്പര്‍ കൊണ്ട് ചെറിയ അളവ് നേര്‍ത്ത HCl എടുത്ത് ടെസ്‍റ്റ് ട്യൂബ് A യില്‍ ചേര്‍ത്ത് സംയുക്തം HCl -ല്‍ ലയിക്കാനായി നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="four">
+	<TEXT ID="four_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് ഒരു ചെറിയ അളവ് സോഡിയം നൈട്രൈറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="five">
+	<TEXT ID="five_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് B എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="six">
+	<TEXT ID="six_one">
+	 <TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബ് B യിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seven">
+	<TEXT ID="seven_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് ടെസ്‍റ്റ് ട്യൂബ് റാക്കില്‍ വയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eight">
+	<TEXT ID="eight_one">
+	 <TEXTVALUE>മറ്റൊരു പ്രലേപനകത്തികൊണ്ട് ചെറിയ അളവ് ബീറ്റ -നാഫ്‍തോള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="nine">
+	<TEXT ID="nine_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ten">
+	<TEXT ID="ten_one">
+	 <TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബ് C യിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eleven">
+	<TEXT ID="eleven_one">
+	 <TEXTVALUE>ഒരു ഡ്രോപ്പര്‍കൊണ്ട് ചെറിയ അളവ് നേര്‍ത്ത NaOH എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twelve">
+	<TEXT ID="twelve_one">
+	 <TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബ് C യില്‍ ചേര്‍ത്ത് നാഫ്തോള്‍ ലയിക്കാനായി നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirteen">
+	<TEXT ID="thirteen_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബുകള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fourteen">
+	<TEXT ID="fourteen_one">
+	 <TEXTVALUE>അവയെ ഒരു ഐസ് ബാത്തില്‍ വച്ച് കുറച്ചുനേരം തണുപ്പിച്ചശേഷം A, B ടെസ്‍റ്റ് ട്യൂബുകള്‍ എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fifteen">
+	<TEXT ID="fifteen_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് A യില്‍ സോഡിയം നൈട്രൈറ്റ് ലായനി ചേര്‍ക്കുക. അതിനുശേഷം ടെസ്‍റ്റ് ട്യൂബ് A യിലെ ലായനി ടെസ്‍റ്റ് ട്യൂബ് C യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="fifteen_two">
+	 <TEXTVALUE>സോഡിയം നൈട്രൈറ്റും HCl-ലും 0–5 ഡിഗ്രി സെല്‍ഷ്യസില്‍ പ്രതിപ്രവര്‍ത്തിച്ച് ഉല്‍പാദിപ്പിക്കുന്ന നൈട്രസ് അമ്ലവുമായി  അരോമാറ്റിക് പ്രൈമറി അമീന്‍ പ്രതിപ്രവര്‍ത്തിച്ച് ഡയോസോണിയം ലവണം ഉല്‍പാദിപ്പിക്കുന്നു. ഇത് ബീറ്റ-നാഫ്‍തോളുമായിച്ചേര്‍ന്ന് തിളങ്ങുന്ന ചുവപ്പ് ഡൈ ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sixteen">
+	<TEXT ID="sixteen_one">
+	 <TEXTVALUE>നൈട്രസ് അമ്ല പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="seventeen">
+	<TEXT ID="seventeen_one">
+	 <TEXTVALUE>കാര്‍ബണിക സംയുക്തം, ഗാഢ HCl, സോഡിയം നൈട്രൈറ്റ്, ടെസ്‍റ്റ് ട്യൂബുകള്‍ എന്നിവ ഇതിനാവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eighteen">
+	<TEXT ID="eighteen_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് ചെറിയ അളവ് സോഡിയം നൈട്രൈറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="nineteen">
+	<TEXT ID="nineteen_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് A എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twenty">
+	<TEXT ID="twenty_one">
+	 <TEXTVALUE>സോഡിയം നൈട്രൈറ്റ് ടെസ്‍റ്റ് ട്യൂബ് A യിലേക്ക് മാറ്റുക. അല്‍പം സ്വേദിതജലം ചേര്‍ത്ത സോഡിയം നൈട്രൈറ്റ്  ലയിക്കാനായി ടെസ്‍റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyOne">
+	<TEXT ID="twentyOne_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് റാക്കില്‍ വയ്‍ക്കുക. ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഒരു ചെറിയ അളവ് കാര്‍ബണിക സംയുക്തം ടെസ്‍റ്റ് ട്യൂബ് B യില്‍ ഇടുക.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyOne_two">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബുകള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+<SCENE ID="twentyTwo">
+	<TEXT ID="twentyTwo_one">
+	 <TEXTVALUE>അവയെ ഒരുഐസ് ബാത്തില്‍ വച്ച് കുറച്ചുനേരം തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentyThree">
+	<TEXT ID="twentyThree_one">
+	 <TEXTVALUE>രണ്ട് ലായനികളും മിശ്രണം ചെയ്യുക. ടെര്‍ഷറി അമീനിന്‍റെ കാര്യത്തില്‍ പ്രകടമാറ്റമൊന്നും നിരീക്ഷിക്കാനാവുന്നില്ല. കാരണം അമ്ലത്തിന്‍റെ സാന്നിധ്യത്തില്‍ അതുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ടെര്‍ഷറി അമീന്‍ ലേയത്വമുള്ള നൈട്രൈറ്റ് ലവണം രൂപീകരിച്ചിരിക്കുന്നു. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="twentyThree_two">
+	 <TEXTVALUE>പ്രൈമറി അമീന്‍ നൈട്രസ് അമ്ലവുമായി പ്രതിപ്രവര്‍ത്തിച്ച് നൈട്രജന്‍ വാതക കുമിളകള്‍ പുറത്തുവിടുന്നു. സെക്കന്‍ററി അമീന്‍ നൈട്രസ് അമ്ലവുമായി പ്രതിപ്രവര്‍ത്തിച്ച് നൈട്രോസമീന്‍ മഞ്ഞയും എണ്ണമയവുമുള്ള പാളിക്ക് രൂപം നല്‍കുന്നു.  </TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="twentyFour">
+	<TEXT ID="twentyFour_one">
+	 <TEXTVALUE>ഹിന്‍സ്ബര്‍ഗ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyFive">
+	<TEXT ID="twentyFive_one">
+	 <TEXTVALUE>A, B, C എന്നീ ടെസ്‍റ്റ് ട്യൂബുകളില്‍ യഥാക്രമം പ്രൈമറി, സെക്കന്‍ററി, ടെര്‍ഷറി അമീനുകള്‍ വേണം. 25% NaOH, ബെന്‍സീന്‍ സള്‍ഫോനൈല്‍ ക്ലോറൈഡ്, ഗാഢ HCl, ഡ്രോപ്പറുകള്‍. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentySix">
+	<TEXT ID="twentySix_one">
+	 <TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഒരു ചെറിയ അളവ് 25% NaOHഎടുത്ത് ഏതാനും തുള്ളികള്‍ A, B, C ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ചേര്‍ക്കുക. ഇനി ഒരു ചെറിയ അളവ് സ്വേദിത ജലം ഈ ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="twentySix_two">
+	 <TEXTVALUE>ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഒരു ചെറിയ അളവ് 25% NaOHഎടുത്ത് ഏതാനും തുള്ളികള്‍ A, B, C ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ചേര്‍ക്കുക. ഇനി ഒരു ചെറിയ അളവ് സ്വേദിത ജലം ഈ ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentySeven">
+	<TEXT ID="twentySeven_one">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyEight">
+	<TEXT ID="twentyEight_one">
+	 <TEXTVALUE>ഒരു ബീക്കറിലെ ജലത്തില്‍വച്ച് ടെസ്‍റ്റ് ട്യൂബുകള്‍ തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyNine">
+	<TEXT ID="twentyNine_one">
+	 <TEXTVALUE>പ്രൈമറി അമീന്‍ ബെന്‍സീന്‍ സള്‍ഫോനൈല്‍ ക്ലോറൈഡ്, സോഡിയം ഹൈഡ്രോക്സൈഡ് എന്നിവയുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ലേയത്വമുള്ള സള്‍ഫോണമൈഡ് ലവണം രൂപീകരിക്കുന്നു. സെക്കന്‍ററി അമീന്‍ സള്‍ഫോനൈല്‍ ക്ലോറൈഡ്, സോഡിയം ഹൈഡ്രോക്സൈഡ് എന്നിവയുമായി പ്രതിപ്രവര്‍ത്തിച്ച് അലേയമായ സള്‍ഫോണമൈഡ് രൂപീകരിക്കുന്നു. </TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyNine_two">
+	 <TEXTVALUE>ടെര്‍ഷറി അമീന്‍ സള്‍ഫോനൈല്‍ ക്ലോറൈഡുമായി പ്രതിപ്രവര്‍ത്തിക്കുന്നില്ല. എന്നാല്‍ അത് അലേയമാണ്.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE
+
+
+>
+
+<SCENE ID="thirty">
+	<TEXT ID="thirty_one">
+	 <TEXTVALUE>മറ്റൊരു ഡ്രോപ്പര്‍ കൊണ്ട് ചെറിയ അളവ് ഗാഢ HCl എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirtyOne">
+	<TEXT ID="thirtyOne_one">
+	 <TEXTVALUE>ഇത് A, B, C ടെസ്‍റ്റ് ട്യൂബുകളില്‍ ചേര്‍ക്കുക. ടെസ്‍റ്റ് ട്യൂബ് A യില്‍ HCl ചേര്‍ത്തശേഷം ലേയത്വമുള്ള സള്‍ഫോണമൈഡ് അവക്ഷിപ്‍തമായി രൂപപ്പെടുന്നു.   </TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="thirtyOne_two">
+	 <TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് B യില്‍ അമ്ലീകരണം അലേയമായ സള്‍ഫോണിമൈഡിനെ ലയിപ്പിക്കുന്നില്ല. ടെസ്‍റ്റ് ട്യൂബ് C യില്‍ അലേയമായ അമീന്‍ ലേയത്വമുള്ള അമോണിയം ലവണമായി മാറുന്നു.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE>
+<!---------test for ketones-------->
+
+
+
+
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading">
+	<TEXT ID="heading_one">
+		<TEXTVALUE>m-ഡൈനൈട്രോബെന്‍സീന്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introsc">
+	<TEXT ID="introsc_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_one">
+		<TEXTVALUE>നല്‍കപ്പെട്ട ദ്രാവകം ഏതാനും തുള്ളികള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_two">
+		<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_one">
+		<TEXTVALUE>അതില്‍ ഒരു ചെറിയ അളവ് m-ഡൈനൈട്രോബെന്‍സീന്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_one">
+		<TEXTVALUE>അതില്‍ ഒരു ചെറിയ അളവ് m-ഡൈനൈട്രോബെന്‍സീന്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Dilsolution">
+	<TEXT ID="Dilsolution_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ഒരു ചെറിയ അളവ് സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diladded">
+	<TEXT ID="diladded_one">
+		<TEXTVALUE>അതില്‍ കുറച്ച് നേര്‍ത്ത സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit">
+	<TEXT ID="shakeit_one">
+		<TEXTVALUE>നല്ലപോലെ കുലുക്കുക.ഒരു വയലറ്റ് നിറം പ്രത്യക്ഷപ്പെടുകയും അത് പതുക്കെ മങ്ങി അപ്രത്യക്ഷമാകുകയും ചെയ്യുന്നു. ഇത് കീറ്റോണിക് ഗ്രൂപ്പിന്‍റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading2">
+	<TEXT ID="heading2_one">
+		<TEXTVALUE>സോഡിയം നൈട്രോപ്രസ്സൈഡ് പരിശോധന</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introsc2">
+	<TEXT ID="introsc2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_one">
+		<TEXTVALUE>ഒരു പ്രലേപനകത്തി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_two">
+		<TEXTVALUE>ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ സോഡിയം നൈട്രോപ്രസ്സൈഡിന്‍റെ ഏതാനും പരലുകള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="crystalintube">
+	<TEXT ID="crystalintube_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Watertake">
+	<TEXT ID="Watertake_one">
+		<TEXTVALUE>അതില്‍ അല്‍പം ജലം ചേര്‍ത്ത ടെസ്‍റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_one">
+		<TEXTVALUE>നല്‍കപ്പെട്ട സംയുക്തം ഒരു ചെറിയ അളവ് പ്രലേപനകത്തി കൊണ്ടെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownadded">
+	<TEXT ID="unknownadded_one">
+		<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit2">
+	<TEXT ID="shakeit2_one">
+		<TEXTVALUE>നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="downit">
+	<TEXT ID="downit_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumhydroxide">
+	<TEXT ID="sodiumhydroxide_one">
+		<TEXTVALUE>ഏതാനും തുള്ളി സോഡിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumin">
+	<TEXT ID="sodiumin_two">
+		<TEXTVALUE>ഒരു ആല്‍ക്കലി രൂപം നല്‍കിയ കീറ്റോണിന്‍റെ ആനയോണ്‍ നൈട്രോപ്രസൈഡ് അയോണുമായി പ്രതിപ്രവര്‍ത്തിച്ച് ചുവപ്പ് നിറമുള്ള കോംപ്ലെക്സ് ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!---------test for Sodium biocarbonate -------->
+
+
+
+<SCENE ID="Test2">
+	<TEXT ID="Test2_one">
+		<TEXTVALUE>സോഡിയം ബൈകാര്‍ബണേറ്റ് പരിശോധന</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro">
+	<TEXT ID="Apparatusintro_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown">
+	<TEXT ID="TakingUnknown_one">
+		<TEXTVALUE>അജ്ഞാത ലായനിയുടെ ഏതാനും തുള്ളികള്‍ എടുക്കുക. </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown_two">
+		<TEXTVALUE>അത് ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takincompund">
+	<TEXT ID="Takincompund_one">
+		<TEXTVALUE>ഒരു പ്രലേപനകത്തി കൊണ്ട് അല്‍പം സോഡിയം ബൈകാര്‍ബണേറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Compoundtesttube">
+	<TEXT ID="Compoundtesttube_one">
+		<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക. കാര്‍ബോക്സിലിക് അമ്ലം സോഡിയം ബൈകാര്‍ബണേറ്റുമായി പ്രതിപ്രവര്‍ത്തിച്ച് കാര്‍ബണ്‍ ഡൈഓക്സൈഡ് ഉണ്ടാകുകയും അതിന്‍റെ ശക്തമായ കുമിളകള്‍ പ്രത്യക്ഷപ്പെടുകയും ചെയ്യുന്നു.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Ester -------->
+
+
+
+<SCENE ID="Test3">
+	<TEXT ID="Test3_one">
+		<TEXTVALUE>എസ്‍റ്റര്‍ പരിശോധന</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro2">
+	<TEXT ID="Apparatusintro2_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown2">
+	<TEXT ID="TakingUnknown2_one">
+		<TEXTVALUE>അജ്ഞാത ലായനിയുടെ ഏതാനും തുള്ളികള്‍ എടുക്കുക. </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown2_two">
+		<TEXTVALUE>അത് ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takingethylalcohol">
+	<TEXT ID="Takingethylalcohol_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് ഏതാനും തുള്ളി ഈഥൈല്‍ ആല്‍ക്കഹോൾ എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Takingethylalcohol_two">
+		<TEXTVALUE>ഈഥൈല്‍ ആല്‍ക്കഹോള്‍ ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.‌</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingSulphiricacid">
+	<TEXT ID="TakingSulphiricacid_one">
+		<TEXTVALUE>മറ്റൊരു ഡ്രോപ്പര്‍ കൊണ്ട് 1-2 തുള്ളി ഗാഢ സള്‍ഫ്യൂരിക് അമ്ലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_two">
+		<TEXTVALUE>അത് ടെസ്റ്റ്‌ ട്യൂബിലേക്ക് ചേർക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_three">
+		<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="burner">
+	<TEXT ID="burner_one">
+		<TEXTVALUE>അത് ഒരു തിളയ്‍ക്കുന്ന വാട്ടര്‍ ബാത്തില്‍ വച്ച് 5 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_one">
+		<TEXTVALUE>അത് സ്വേദിത ജലമുള്ള ഒരു ചെറിയ ബീക്കറിലേക്ക് ഒഴിയ്‍ക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_two">
+		<TEXTVALUE>കാര്‍ബോക്സിലിക് അമ്ലം അമ്ല മാധ്യമത്തില്‍ ആല്‍ക്കഹോളുമായി പ്രതിപ്രവര്‍ത്തിച്ച് പഴ വാസനയുള്ള സംയുക്തങ്ങളായ എസ്‍റ്ററുകള്‍ ഉണ്ടാക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<!---------test for Litmus Milk -------->
+
+
+
+<SCENE ID="Test1t">
+	<TEXT ID="Test1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Test22copy">
+	<TEXT ID="Test22copy_one">
+		<TEXTVALUE>ലിറ്റ്മസ് പരിശോധന</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Starting1">
+	<TEXT ID="Starting1_one">
+		<TEXTVALUE>ലിറ്റ്മസ് പരിശോധന</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknownsol1">
+	<TEXT ID="TakingUnknownsol1_one">
+		<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍കൊണ്ട് ഒരു ചെറിയ അളവ് അജ്ഞാത ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_two">
+		<TEXTVALUE>അത് 2-3 തുള്ളി ഈര്‍പമുള്ള നീല ലിറ്റ്മസ് പേപ്പറില്‍ വീഴ്‍ത്തുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_three">
+		<TEXTVALUE>കാര്‍ബോക്സിലിക് അമ്ലം അതിന്‍റെ അമ്ല സ്വഭാവം സൂചിപ്പിച്ചുകൊണ്ട് നീല ലിറ്റ്മസിനെ ചുവപ്പിക്കുന്നു.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Schiffs-------->
+
+<SCENE ID="intro1">
+	<TEXT ID="intro1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_two">
+	 	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ കൊണ്ട് അജ്ഞാത ലായനി ഏതാനും തുള്ളികള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_three">
+	 	<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_four">
+	 	<TEXTVALUE>ഒരു അളവ് ജാറിൽ ‍1 ml ഷിഫ്‍സ് റീയേജന്‍റ് എടുക്കുക. കാര്‍ബണിക സംയുക്തമുള്ള ടെസ്‍റ്റ് ട്യൂബ് എടുക്കുക.   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_five">
+	 	<TEXTVALUE>സംയുക്തത്തില്‍ ഷിഫ്‍സ് റീയേജന്‍റ് ചേര്‍ത്ത് അത് കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_six">
+	 	<TEXTVALUE>പിങ്ക് നിറം പ്രത്യക്ഷപ്പെടുന്നത് ആല്‍ഡിഹൈഡിക് ഗ്രൂപ്പിന്‍റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_two">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബില്‍ 1 ml നൈട്രേറ്റ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_three">
+	 	<TEXTVALUE>അതൊരു ശുദ്ധമായ ടെസ്‍റ്റ് ട്യൂബിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_four">
+	 	<TEXTVALUE>മറ്റൊരു അളവ് ജാര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_five">
+	 	<TEXTVALUE>അതില്‍ 2 ml നേര്‍ത്ത NaOH ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_six">
+	 	<TEXTVALUE>അത് അതേ ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_seven">
+	 	<TEXTVALUE>സില്‍വര്‍ നൈട്രേറ്റ് സോഡിയം ഹൈഡ്രോക്സൈഡുമായി പ്രതിപ്രവര്‍ത്തിച്ച് സില്‍വര്‍ ഓക്സൈഡിന്‍റെ തവിട്ട് അവക്ഷിപ്‍തം ഉണ്ടാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eight">
+	 	<TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_nine">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബില്‍ നേര്‍ത്ത അമോണിയ ലായനി തുള്ളി തുള്ളിയായി ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_ten">
+	 	<TEXTVALUE>അവക്ഷിപ്‍തം ലായനിയില്‍ ലയിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eleven">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട ദ്രാവകം 2-3 തുള്ളി ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_twelve">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് വാട്ടര്‍ ബാത്തില്‍ 5 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_thirteen">
+	 	<TEXTVALUE>ആൽഡിഹൈഡുകളുടെ സാന്നിധ്യത്തില്‍ ടെസ്റ്റ് റീയേജന്റിലെ സിൽവര്‍ അയോണുകള്‍ നിരോക്സീ‍കരിക്കപ്പെട്ട് മൂലക സിൽവര്‍ ഉണ്ടാകുകയും അത് പ്രതിപ്രവർത്തന പാത്രത്തിന്റെ  ഉൾവശങ്ങളില്‍ അടിഞ്ഞു ചേരുകയും പാത്രത്തിന്റെ ഉൾവശത്ത് ഒരു വെള്ളി ദർപ്പണം രൂപം കൊള്ളുകയും ചെയ്യുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_two">
+	 	<TEXTVALUE>ഒരു 1 ml ഫെലിംഗ്‍സ്‍ ലായനി A ഒരു അളവ് ജാറില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_three">
+	 	<TEXTVALUE>അത് ഒരു ടെസ്‍റ്റ് ട്യൂബില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_four">
+	 	<TEXTVALUE>ഒരു 1 ml ഫെലിംഗ്‍സ്‍ ലായനി B ഒരു അളവ് ജാറില്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_five">
+	 	<TEXTVALUE>അത് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_six">
+	 	<TEXTVALUE>നല്‍കപ്പെട്ട ലായനി  4-5 തുള്ളി ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് ടെസ്‍റ്റ് ട്യൂബില്‍ ചേര്‍ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_seven">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് ട്യൂബ് വാട്ടര്‍ ബാത്തില്‍ 5 മിനിറ്റ് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_eight">
+	 	<TEXTVALUE>ടെസ്‍റ്റ് റീയേജന്‍റിലെ Cu(II) അയോണിനെ ആല്‍ഡിഹൈഡുകള്‍ കോപ്പര്‍  (I) ഓക്സൈഡിന്‍റെ ചുവന്ന അവക്ഷിപ്‍തമായി നിരോക്സീകരിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

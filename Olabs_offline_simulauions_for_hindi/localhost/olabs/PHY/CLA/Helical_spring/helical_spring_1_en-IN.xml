@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>Helical Spring</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the start button to begin the experiment.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>To find the spring constant of a helical spring by plotting the graph between load and extension.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="aimText">
+	<TEXTVALUE>Aim:To find the spring constant of a helical spring 
+by plotting a graph between load and extension.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>To do the experiment, we need the following:  rigid stand, metre scale, helical spring, 50 gm weight hanger and 50 gm slotted weights.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="rigidStand_text">
+	<TEXTVALUE>Rigid Stand</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="meterScaleText">
+	<TEXTVALUE>Metre Scale</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="slottedWeights">
+	<TEXTVALUE>50 gm weight hanger</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="weightsText">
+	<TEXTVALUE>Weights</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>Take the helical spring and fix it on the rigid stand. Hang a 50 gm weight hanger at the end of the spring. Now, the spring extends and the pointer moves downward. Note the reading on the scale.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>Record the scale reading on a tabular column.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Mass_text">
+	<TEXTVALUE>Mass
+m[g]</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Wo_dead_wt">
+	<TEXTVALUE>Wo[dead 
+wt]</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Wo_50">
+	<TEXTVALUE>Wo+50</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Wo_100">
+	<TEXTVALUE>Wo+100</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Wo_150">
+	<TEXTVALUE>Wo+150</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Wo_200">
+	<TEXTVALUE>Wo+200</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Wo_250">
+	<TEXTVALUE>Wo+250</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Mass_mkg">
+	<TEXTVALUE>Mass
+m[kg]</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Load_mgn">
+	<TEXTVALUE>Load,mg[N]</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Loading_cm">
+	<TEXTVALUE>Loading.x
+cm</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Unloading_ycm">
+	<TEXTVALUE>Unloading.y
+cm</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Meanz_text">
+	<TEXTVALUE>Mean
+z=[x+y]/2[cm]</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Pointer_Reading">
+	<TEXTVALUE>Pointer Reading</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Extension_1">
+	<TEXTVALUE>Extension l 
+(cm)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Extension_1M">
+	<TEXTVALUE>Extension,l 
+(m)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Springconstant_text">
+	<TEXTVALUE>Spring constant,
+k=mg/l (N/m)</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Take a 50 gm weight and put it on the weight hanger. The pointer moves downward. Note the reading on the scale.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>Record the mass, load and the pointer reading in the tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Place another 50 gm weight on the weight hanger. The pointer moves downward. Note the reading on the scale.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Record the mass, load and the pointer reading in the tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Place another 50 gm weight on the weight hanger. The pointer moves downward. Note the reading on the scale. Repeat the experiment with another two 50 gram weights.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>Record the mass, load and the pointer reading in the tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Now, remove a 50 gm weight from the weight hanger. The pointer moves upward. Note the reading on the scale.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Record the scale reading in the tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>Remove another 50 gm weight from the weight hanger. The pointer moves upward. Note the reading on the scale.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Record the scale reading in the tabular column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Remove another 50 gm weight from the weight hanger. The pointer moves upward. Note the reading on the scale. Repeat the experiment by removing the remaining two 50 gm weights. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Record the scale reading in the tabular column. Calculate the value of spring constant in each case. The mean value of spring constant is then calculated.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="spring_1">
+	<TEXTVALUE>The spring constant of the given spring= 35 N/m</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>Plot a graph with Load along the X axis and Extension along the Y axis. The spring constant can be found from the slope of the graph.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Load_inN">
+	<TEXTVALUE>Load in {N}</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Extensionlinm_text">
+	<TEXTVALUE>Extension,l in m</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Springconstant_k">
+	<TEXTVALUE>Spring constant, k= AB = 1.47/.0742= 35 Nm</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>By calculation and from the graph, the spring constant of the helical spring is obtained as 35 N/m.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Springconstant_k">
+	<TEXTVALUE>Spring constant,k= AB = 1.47/.0742= 35 Nm</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Result_text">
+	<TEXTVALUE>Result:</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="result_boxText">
+	<TEXTVALUE>By calculation ,spring constant of the given helical spring =35 N/m
+ From graph, spring constant of the given helical spring =35 N/m</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_text">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+</DATA>

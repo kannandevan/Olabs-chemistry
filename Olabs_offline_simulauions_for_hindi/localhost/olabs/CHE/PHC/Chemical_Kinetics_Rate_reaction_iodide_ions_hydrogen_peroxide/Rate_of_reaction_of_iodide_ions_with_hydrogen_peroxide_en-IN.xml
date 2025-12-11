@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro2">
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>Click on the “Start” button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_1">
+	<TEXTVALUE>Kinetics Study on the Reaction between Iodide ions and Hydrogen Peroxide</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_2">
+	<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="1table">
+	<TEXT ID="1table_one">
+	<TEXTVALUE>We require 0.1 M KI solution in four different conical flasks, distilled water, measuring jars, 2.5 M H&#8322;SO&#8324;, starch solution, 0.05 M Na&#8322;S&#8322;O&#8323; solution,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1table_two">
+	<TEXTVALUE>3% H&#8322;O&#8322; solution, glass rod, stop watch etc.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_3">
+	<TEXTVALUE>0.1M 
+Potassium iodide[KI]
+Solution 5ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_4">
+	<TEXTVALUE>0.1M 
+Potassium iodide[KI]
+Solution 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_5">
+	<TEXTVALUE>0.1M 
+Potassium iodide[KI]
+Solution15ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_6">
+	<TEXTVALUE>0.1M 
+Potassium iodide[KI]
+Solution 20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_7">
+	<TEXTVALUE>Distilled Water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_8">
+	<TEXTVALUE>2.5M
+Sulfuric acid
+H2SO4</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_9">
+	<TEXTVALUE>Starch 
+Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_10">
+	<TEXTVALUE>3% Hydrogen
+peroxide
+H2O2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_11">
+	<TEXTVALUE>0.05M
+Sodium
+thiosulphate
+Na2s2o3</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="2table2">
+	<TEXT ID="2table2_one">
+	<TEXTVALUE>Take 5, 10, 15 and 20ml of 0.1 M potassium iodide solution in four conical flasks A, B, C and D respectively.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="3h2so4">
+	<TEXT ID="3h2so4_one">
+	<TEXTVALUE>Measure 10 ml 2.5M H&#8322;SO&#8324; in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="4poura">
+	<TEXT ID="4poura_one">
+	<TEXTVALUE>Pour it into conical flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5chart">
+	<TEXT ID="5chart_one">
+	<TEXTVALUE>Repeat the same procedure for the remaining flasks.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sreing_12">
+	<TEXTVALUE>Starch 
+solution (ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_13">
+	<TEXTVALUE>Water (ml) 
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_14">
+	<TEXTVALUE>3% H2O2 solution (ml)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_15">
+	<TEXTVALUE>Time (t) 
+for appearance 
+of blue colour (in s) 
+</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flaskno">
+	<TEXTVALUE>Flask no </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solutionml">
+	<TEXTVALUE>0.1M KI 
+solution (ml)
+</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="6pour2">
+	<TEXT ID="6pour2_one">
+	<TEXTVALUE>Measure 85ml distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="7por3">
+	<TEXT ID="7por3_one">
+	<TEXTVALUE>Pour it into flask A to make the total volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Potassium_iodide46">
+	<TEXTVALUE> 0.1M 
+Potassium iodide[KI]
+      Solution
+       40ml </TEXTVALUE>
+	</TEXT>
+	
+	      
+	
+</SCENE>
+
+
+
+<SCENE ID="8chart2">
+	<TEXT ID="8chart2_one">
+	<TEXTVALUE>Pour it into flask A to make the total volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="9pour23">
+	<TEXT ID="9pour23_one">
+	<TEXTVALUE>Then measure 80ml distilled water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="10pourb">
+	<TEXT ID="10pourb_one">
+	<TEXTVALUE>Pour it into the flask B to make the total volume of the solution 100ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="11chart3">
+	<TEXT ID="11chart3_one">
+	<TEXTVALUE>Add 75 and 70ml of distilled water to the flasks C and D respectively to make the volume 100ml.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="11starch">
+	<TEXT ID="11starch_one">
+	<TEXTVALUE>Measure 5 ml starch solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="12por4">
+	<TEXT ID="12por4_one">
+	<TEXTVALUE>Pour it into flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="13chart4">
+	<TEXT ID="13chart4_one">
+	<TEXTVALUE>Repeat the same procedure for the remaining flasks.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="14sodiumthio">
+	<TEXT ID="14sodiumthio_one">
+	<TEXTVALUE>Take 10ml 0.05M sodium thiosulphate solution.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="15sodpour">
+	<TEXT ID="15sodpour_one">
+	<TEXTVALUE>Add it into the flask A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="16chart5">
+	<TEXT ID="16chart5_one">
+	<TEXTVALUE>Repeat the same procedure for the remaining flasks.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="17h2o2">
+	<TEXT ID="17h2o2_one">
+	<TEXTVALUE>Then take 5 ml 3% hydrogen peroxide solution.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="18h2o2pour">
+	<TEXT ID="18h2o2pour_one">
+	<TEXTVALUE>Then take 5 ml 3% hydrogen peroxide solution.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="19por6">
+	<TEXT ID="19por6_one">
+	<TEXTVALUE>Pour it into the flask A and start the stop – watch immediately.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="20rot">
+	<TEXT ID="20rot_one">
+	<TEXTVALUE>Stir the mixture using a glass rod and watch for the blue colour to appear.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="20rot_two">
+	<TEXTVALUE>Note the time when the blue colour just appears.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="20rot_three">
+	<TEXTVALUE>Note the time when the blue colour just appears.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+<SCENE ID="21chart8">
+	<TEXT ID="21chart8_one">
+	<TEXTVALUE>Repeat the experiment by adding 5ml of 3% H&#8322;O&#8322; to flasks B, C and D and record the time taken in each case for the blue colour to just appear.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="21chart8_two">
+	<TEXTVALUE>Plot a graph between  time taken for the appearance of blue colour and 1/Vol. of KI by taking time (t) along ordinate and 1/Vol. of KI along abscissa. It should be a straight sloping line.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="chart21">
+	<TEXTVALUE>Time for the appearance of blue colour [s]</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+<SCENE ID="23last">
+	<TEXT ID="23last_one">
+	<TEXTVALUE>From this reaction we can infer that the rate reaction of iodide ions with hydrogen peroxide increases with increase in concentration of iodide ions.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_16">
+	<TEXTVALUE> Rate of the reaction increases with increase in
+concentration of iodide ions</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="string_17">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+</DATA>

@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>तेल और वसा का गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>प्रारंभ करें</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>रयोग शुरू करने के लिए "प्रारंभ करें" बटन पर क्लिक करें |</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="SolubilityTest_text">
+	<TEXTVALUE>घुलनशीलता परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TransluscentSpotTest_text">
+	<TEXTVALUE>पारभासी  धब्बेश का परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BaudouinTest_text">
+	<TEXTVALUE>बाउदोईन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="HublesTest_text">
+	<TEXTVALUE>हब्लो परीक्षण</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="acrolein_text">
+	<TEXTVALUE>एक्रोलीन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BackBtn_text">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परीक्षण चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DesiGhee_text">
+	<TEXTVALUE>देसी घी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VegetableGhee_text">
+	<TEXTVALUE>वनस्पति घी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RefinedOil_text">
+	<TEXTVALUE>शोधित तेल</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Desighee_two">
+	<TEXTVALUE>देसी घी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Alcohol_text">
+	<TEXTVALUE>अल्को्हल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Chloroform_text">
+	<TEXTVALUE>क्लोरोफार्म</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Water_text">
+	<TEXTVALUE>पानी</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर, लगभग 5 मिलीलीटर पानी लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>इसे देसी घी वाली परखनली में मिलाएं। पानी में देसी घी अमिश्रणीय (मिश्रित करने योग्य नहीं) है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>अब एक दूसरी परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>अब एक दूसरी परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>एक दूसरे ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर अल्कोहल लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>इसे देसी घी वाली परखनली में मिलाएं। देसी घी एक निचली परत बनाता है।  परखनली धारक से परखनली पकड़ें। </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें। गर्म करने पर घी की निचली परत घुल जाती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>पुन: एक और परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>पुन: एक और परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर क्लोरोफॉर्म लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>इसे देसी घी वाली परखनली में मिलाएं। क्लोरोफार्म में देसी घी अमिश्रणीय (मिश्रित करने योग्य नहीं) है।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर, परखनली में वनस्पति घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="VeggheeText">
+	<TEXTVALUE>वनस्पति घी</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर, परखनली में वनस्पति घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर, लगभग 5 मिलीलीटर पानी लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>इसे वनस्पति घी से युक्त परखनली में मिलाएं। वनस्पति घी पानी में अमिश्रणीय (मिश्रित होने योग्य नहीं) है।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>एक और परखनली में वनस्पति घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>एक और परखनली में वनस्पति घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>एक दूसरे ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर अल्कोहल लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>इसे वनस्पति घी से युक्त परखनली में मिलाएं। वनस्पति घी एक निचली परत बनाती है। परखनली धारक से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें। गर्म करने पर घी की निचली परत घुल जाती है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>पुन: एक और परखनली में वनस्पति घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>अब एक दूसरी परखनली में वनस्पति  घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर क्लोरोफॉर्म लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>इसे वनस्पति घी से युक्त परखनली में मिलाएं। क्लोरोफॉर्म में वनस्पति घी मिश्रणीय (मिश्रित होने योग्य) होता है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, परखनली में शोधित तेल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Refinedoil_text">
+		<TEXTVALUE>शोधित तेल</TEXTVALUE>
+	</TEXT>	
+	
+</SCENE>
+
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, परखनली में शोधित तेल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, परखनली में शोधित तेल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+		
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, लगभग 5 मिलीलीटर पानी लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>इसे शोधित तेल से युक्त परखनली में मिलाएं। तेल पानी में अमिश्रणीय (मिश्रित होने योग्य नहीं) है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>अब एक और परखनली में शोधित तेल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>अब एक और परखनली में शोधित तेल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>एक दूसरे ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर अल्कोहल लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>इसे शोधित तेल से युक्त परखनली में मिलाएं। शोधित तेल एक निचली परत बनाती है। परखनली धारक से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें। गर्म करने पर घी की निचली परत घुल जाती है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>परखनली में शोधित तेल की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>परखनली में शोधित तेल की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, लगभग 5 मिलीलीटर क्लोरोफॉर्म लें।</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>इसे शोधित तेल से युक्त परखनली में मिलाएं। तेल क्लोरोफार्म में अमिश्रणीय (मिश्रित होने योग्य नहीं) है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE> क्लोरोफार्म</TEXTVALUE>
+	</TEXT>
+	
+		
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर, देसी घी की थोड़ी सी मात्रा लें और इसे फिल्टर पेपर पर रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subone">
+		<TEXTVALUE>इसके बाद एक दूसरे फिल्टर पेपर का प्रयोग कर फिल्टर पेपर पर पदार्थ दबाएँ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subtwo">
+		<TEXTVALUE>फिल्टर पेपर लें और इसे जलती हुई मोमबत्ती के सामने रखें और इसे लौ के ऊपर ले जाएं, प्रकाश घी द्वारा बनाए गए धब्बेस के माध्यम से आंशिक रूप से दिखाई देगा।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subthree">
+		<TEXTVALUE>सका कारण यह है कि जब वसा या तेल को कागज की शीट पर रखा जाता है, तो ये प्रकाश को विवर्तित करते हैं। पारदर्शी धब्बार देते हुए विवर्तित प्रकाश कागज के एक ओर से दूसरी ओर जा सकता है ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर, वनस्पति  घी की थोड़ी सी मात्रा लें और इसे फिल्टर पेपर पर रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subone">
+		<TEXTVALUE>इसके बाद एक दूसरे फिल्टर पेपर का प्रयोग कर फिल्टर पेपर पर पदार्थ दबाएँ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subtwo">
+		<TEXTVALUE>फिल्टर पेपर लें और इसे जलती हुई मोमबत्ती के सामने रखें और इसे लौ के ऊपर ले जाएं, प्रकाश घी द्वारा बनाए गए धब्बेस के माध्यम से आंशिक रूप से दिखाई देगा।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subthree">
+		<TEXTVALUE>सका कारण यह है कि जब वसा या तेल को कागज की शीट पर रखा जाता है, तो ये प्रकाश को विवर्तित करते हैं। पारदर्शी धब्बार देते हुए विवर्तित प्रकाश कागज के एक ओर से दूसरी ओर जा सकता है ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर कुछ शोधित तेल लें।  फिल्टर पेपर पर कुछ बूँदें गिराएं।	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subzero">
+		<TEXTVALUE>इसके बाद एक दूसरे फिल्टर पेपर का प्रयोग कर फिल्टर पेपर पर पदार्थ दबाएँ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subone">
+		<TEXTVALUE>फिल्टर पेपर लें और इसे जलती हुई मोमबत्ती के सामने रखें और इसे लौ के ऊपर ले जाएं, प्रकाश घी द्वारा बनाए गए धब्बेस के माध्यम से आंशिक रूप से दिखाई देगा।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene48_subtwo">
+		<TEXTVALUE>सका कारण यह है कि जब वसा या तेल को कागज की शीट पर रखा जाता है, तो ये प्रकाश को विवर्तित करते हैं। पारदर्शी धब्बार देते हुए विवर्तित प्रकाश कागज के एक ओर से दूसरी ओर जा सकता है ।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VanaspatiGhee">
+		<TEXTVALUE>वनस्पति घी</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर,  परखनली में पिघले हुए देसी घी की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MeltedDesighee">
+		<TEXTVALUE>पिघला हुआ देसी घी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConSulphuricacid">
+		<TEXTVALUE>सांद्रित HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="furfuralSolution">
+		<TEXTVALUE>2% फरफ्युरल विलयन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, परखनली में 5 मि.ली. सान्द्र HCl मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>इसके बाद परखनली में 2% फरफ्युरल विलयन की लगभग 3 बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene52_subone">
+		<TEXTVALUE>इसे 5-10 मिनट तक अलग रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene52_subtwo">
+		<TEXTVALUE>कोई विशेष बदलाव नहीं होता, जिससे पता चलता है कि शुद्ध देसी घी में तिल का तेल नहीं है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MINUTES_text">
+		<TEXTVALUE>5 से 10 मिनट</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर,  परखनली में पिघले हुए वनस्पति  घी की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MeltedVanaspatighee">
+		<TEXTVALUE>पिघला हुआ वनस्पति  घी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, परखनली में 5 मि.ली. सान्द्र HCl मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>इसके बाद परखनली में 2% फरफ्युरल विलयन की लगभग 3 बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_subb">
+		<TEXTVALUE>इसे 5-10 मिनट तक अलग रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>गुलाबी लाल रंग दिखाई देता है जिससे पता चलता है कि वनस्पति घी में 5% तिल का तेल है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CottonSeedOil">
+		<TEXTVALUE>बिनौले का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LinseedOil">
+		<TEXTVALUE>अलसी का तेल</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, परखनली में लगभग 3 मि.ली. क्लोरोफॉर्म लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Hublesreagent">
+		<TEXTVALUE>हब्लप अभिकर्मक</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, बिनौले के तेल की थोड़ी सी मात्रा लें और परखनली में इसकी लगभग 4 बूँदें मिलाएं। परखनली अच्छी तरह हिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>4 बूँदें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, हब्लत अभिकर्मक की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>क्लोरोफॉर्म और बिनौले के तेल के मिश्रण से युक्त परखनली में लगभग 3 बूँद हब्ल  अभिकर्मक मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene61_subone">
+		<TEXTVALUE>हब्लृ अभिकर्मक में आयोडीन का बैंगनी रंग फीका नहीं पड़ता है, यह दर्शाता है कि बिनौले का तेल कम असंतृप्त है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="threedrops">
+		<TEXTVALUE>3 बूँदें</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, परखनली में लगभग 3 मि.ली. क्लोरोफॉर्म लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, अलसी के तेल की थोड़ी सी मात्रा लें और परखनली में लगभग 4 बूँदें मिलाएं। परखनली अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, अलसी के तेल की थोड़ी सी मात्रा लें और परखनली में लगभग 4 बूँदें मिलाएं। परखनली अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>क्लोरोफॉर्म और अलसी के तेल के मिश्रण से युक्त परखनली में लगभग 3 बूँद हब्लत अभिकर्मक मिलाएं। हब्लक अभिकर्मक में आयोडीन का बैंगनी रंग फीका पड़ जाता है, यह दर्शाता है कि अलसी का तेल अधिक असंतृप्त है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>हमें देसी घी, पोटेशियम बाईसल्फे,ट के क्रिस्टल, परखनली, स्पै्चुला, बुन्सेन बर्नर आदि चाहिए</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="pottan">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="desi_ghee">
+		<TEXTVALUE>देसी घी</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में देसी घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>एक और स्पैचुला का प्रयोग कर, पोटेशियम बाईसल्फेट के क्रिस्टलों की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट के क्रिस्टल परखनली में मिलाएं।  परखनली धारक से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene72_subone">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट जैसे प्रबल निजर्लीकरण एजेंट की उपस्थिति में वसा बहुत ज्यादा गर्म करने पर, अणु का ग्लिसरॉल भाग निर्जलित हो जाता है जिससे एक्रोलीन नामक असंतृप्त एल्डिहाइड बनता है, इसकी तीखी उत्तेिजक गंध होती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="popup_txt">
+		<TEXTVALUE>एक्रोलीन की तीखी उत्तेतजक  गंध पैदा होती है |</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में वनस्पति  घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="veg_ghee">
+		<TEXTVALUE>वनस्पति  घी </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene74">
+	<TEXT ID="Scene74_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में वनस्पति  घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene75">
+	<TEXT ID="Scene75_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर परखनली में वनस्पति  घी की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene76">
+	<TEXT ID="Scene76_sub">
+		<TEXTVALUE>एक और स्पैचुला का प्रयोग कर, पोटेशियम बाईसल्फेट के क्रिस्टलों की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene77">
+	<TEXT ID="Scene77_sub">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट के क्रिस्टल परखनली में मिलाएं।  परखनली धारक से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene78">
+	<TEXT ID="Scene78_sub">
+		<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene78_subone">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट जैसे प्रबल निजर्लीकरण एजेंट की उपस्थिति में वसा बहुत ज्यादा गर्म करने पर, अणु का ग्लिसरॉल भाग निर्जलित हो जाता है जिससे एक्रोलीन नामक असंतृप्त एल्डिहाइड बनता है, इसकी तीखी उत्तेिजक गंध होती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene79">
+	<TEXT ID="Scene79_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर,  परखनली में शोधित तेल की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene80">
+	<TEXT ID="Scene80_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर,  परखनली में शोधित तेल की थोड़ी सी मात्रा ले।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene81">
+	<TEXT ID="Scene81_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर,  परखनली में शोधित तेल की थोड़ी सी मात्रा ले। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene82">
+	<TEXT ID="Scene82_sub">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट के क्रिस्टल परखनली में मिलाएं।  परखनली धारक से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene83">
+	<TEXT ID="Scene83_sub">
+		<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene83_subone">
+		<TEXTVALUE>पोटेशियम बाईसल्फेट जैसे प्रबल निजर्लीकरण एजेंट की उपस्थिति में वसा बहुत ज्यादा गर्म करने पर, अणु का ग्लिसरॉल भाग निर्जलित हो जाता है जिससे एक्रोलीन नामक असंतृप्त एल्डिहाइड बनता है, इसकी तीखी उत्तेिजक गंध होती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

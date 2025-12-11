@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title_one">
+	<TEXTVALUE>मूलद्रवे ओळखणे: लासाइन परीक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>सुरु करा </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग करण्यासाठी ‘सुरू’ बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="LassaignesExtract_text">
+	<TEXTVALUE>लासाइन अर्कt </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_text">
+	<TEXTVALUE>नायट्रोजन ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_text">
+	<TEXTVALUE>सल्फर ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_text">
+	<TEXTVALUE>हॅलोजेन ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>प्रयोग निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>आवश्यक सामग्री: चायना ताटली, कार्बनी संयुग, नरसाळे, तिवई, तार गोझ, ऊर्ध्वपतित पाणी, बन्सेन बर्नर, एकीकरण नळी, परीक्षा नळी, सोडियम धातू, छोटा स्पाट्युला, चिमटा, फिल्टर झगड, काचेचा रॉड, सांडशी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_txt">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chinaDish_text">
+	<TEXTVALUE>चायना ताटली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="OrganicCompound_text">
+	<TEXTVALUE>कार्बनी संयुग</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Funnel_text">
+	<TEXTVALUE>नरसाळे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TripodStand_text">
+	<TEXTVALUE>तिवई</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="WireGauze_text">
+	<TEXTVALUE>तार गोझ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_text">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BunsenBurner_text">
+	<TEXTVALUE>बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FusionTube_text">
+	<TEXTVALUE>एकीकरण नळी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubes_text">
+	<TEXTVALUE>परीक्षा नळी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumMetal_text">
+	<TEXTVALUE>सोडियम धातू</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="SmallSpatula_text">
+	<TEXTVALUE>छोटा स्पाट्युला</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Forceps_text">
+	<TEXTVALUE>चिमटा </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sodium_text">
+	<TEXTVALUE>सोडियम धातू</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>चिमटा वापरून थोडासा सोडियम धातू घ्या.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Sodium_twotext">
+	<TEXTVALUE>सोडियम धातू  </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>सोडियम धातूचा तुकडा फिल्टर कागदावर ठेवा, आणि त्यावर दूसरा फिल्टर कागद ठेवा आणि कोरडे करा. कोरडे सोडियम चिमट्याने उचला</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Filterpaper_text">
+	<TEXTVALUE>फिल्टर कागदावर </TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>चिमटा वापरून एकीकरण नळी धरा आणि त्यात कोरडे सोडियम टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>बन्सेन बर्नर वर एकीकरण नळी थोडी गरम करा म्हणजे सोडियम वितळून चमकणारी गोळी होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>छोटा स्पाट्युला घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>स्पाट्युला वापरून चिमूटभर कार्बनी संयुग घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>संयुग एकीकरण नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>स्पाट्युला ठेवून द्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Observation_text">
+	<TEXTVALUE>निरीक्षण</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>बन्सेन बर्नर वर एकीकरण नळी गरम करा जोपर्यंत ती लाल होत नाही.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>गरम लाल रंगाची नळी ऊर्ध्वपतित पाणी असलेल्या चायना ताटलीत बुडवा. नळी तुटेल. नळी काचेच्या रॉडने चेपून टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclusion_text">
+	<TEXTVALUE>निष्कर्ष</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>हीच प्रक्रिया 2-3 वेळा करा आणि चायना ताटलीतला पदार्थ काही मिनिटे उत्कलन बिन्दुपर्यन्त गरम करा.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene14_subone">
+	<TEXTVALUE>प्रारंभिक आकारमानाच्या एक-तृतीयांश होईपर्यंत चायना ताटलीतला पदार्थ गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclsn_para">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>  मागे  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>फिल्टर कागद घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>त्याला नरसाळ्यात ठेवा. नरसाळे एका स्टँड ला लावलेले आहे. चायना ताटलीतला पदार्थ नरसाळ्यातून एक स्वच्छ परिक्षा नळीत गाळा. गळण म्हणजे लासाइन अर्क.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene16_sub_1">
+	<TEXTVALUE>गळण म्हणजे लासाइन अर्क.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>मागे </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaignesextract_text">
+	<TEXTVALUE>लासाइन अर्क</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Scene17</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textTwo">
+	<TEXTVALUE>लासाइन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_textTwo">
+	<TEXTVALUE>नायट्रोजन ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>आवश्यक सामग्री: ताजे बनविलेले फेरस सल्फेट द्रावण, फेरिक क्लोराइड द्रावण, संहत HCl, परिक्षा नळ्या, लासाइन अर्क, ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_text">
+	<TEXTVALUE>ड्रॉपर </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassignesExtract_text">
+	<TEXTVALUE>लासाइन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Tubes_text">
+	<TEXTVALUE>परिक्षा नळ्या</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_text">
+	<TEXTVALUE>संहत HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChlorideSolution_text">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावण </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_text">
+	<TEXTVALUE>ताजे बनविलेले फेरस सल्फेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHcl_textTwo">
+	<TEXTVALUE>संहत HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textTwo">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textTwo">
+	<TEXTVALUE>फेरस सल्फेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>ड्रॉपर वापरून थोडेसे लासाइन अर्क घ्या आणि स्वच्छ परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे फेरस सल्फेट द्रावण घ्या</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="FericChloride_textThree">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textThree">
+	<TEXTVALUE>ताजे बनविलेले फेरस सल्फेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>लासाइन अर्क असलेल्या परिक्षा नळीत फेरस सल्फेट द्रावण टाका आणि नळी धारक वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा. लासाइन अर्क बनविताना निर्माण झालेला सोडियम सायनाइड आणि फेरस सल्फेट यांची अभिक्रिया होते आणि सोडियम फेरोसायनाइड निर्माण होते. Na₄[Fe(CN)₆]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene22_sub_1">
+	<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा. लासाइन अर्क बनविताना निर्माण झालेला सोडियम सायनाइड आणि फेरस सल्फेट यांची अभिक्रिया होते आणि सोडियम फेरोसायनाइड निर्माण होते. Na₄[Fe(CN)₆]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>परिक्षा नळी परत स्टँड वर ठेवा.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे फेरिक क्लोराइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFour">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावण </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>परिक्षा नळीत फेरिक क्लोराइड द्रावण टाका.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे संहत हायड्रोक्लोरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFive">
+	<TEXTVALUE>फेरिक क्लोराइड द्रावण </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_textFive">
+	<TEXTVALUE>संहत HCl </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>परिक्षा नळीत संहत हायड्रोक्लोरिक आम्ल टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene27_subone">
+	<TEXTVALUE>सोडियम फेरोसायनाइडची फेरिक क्लोराइड आणि संहत HCl शी अभिक्रिया होते आणि पृशियन निळे कॉम्प्लेक्स फेरिक फेरोसायनाइड Fe₄[Fe(CN)₆]₃ निर्माण होते.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>Scene28</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>परिक्षा निवडायला टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_text">
+	<TEXTVALUE>सोडियम नायट्रोप्रूसाइड परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="LeadAcetateTest_text">
+	<TEXTVALUE>लेड एसीटेट परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>आवश्यक सामग्री: सोडियम नायट्रोप्रूसाइड द्रावण, परिक्षा नळी, लासाइन अर्क, ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_textt">
+	<TEXTVALUE>सोडियम नायट्रोप्रूसाइड </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Dropper_textTwo">
+	<TEXTVALUE>ड्रॉपर </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_text">
+	<TEXTVALUE>लासाइन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTube_textTwo">
+	<TEXTVALUE>परिक्षा नळी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे लासाइन अर्क घ्या आणि स्वच्छ परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_texta">
+		<TEXTVALUE>लासाइन अर्क </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे सोडियम नायट्रोप्रूसाइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Nitroprusside_text">
+		<TEXTVALUE>सोडियम नायट्रोप्रूसाइड</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>लासाइन अर्क असलेल्या परिक्षा नळीत काही थेंब सोडियम नाईट्रोप्रूसाइड द्रावण टाका. लासाइन अर्क बनविताना निर्माण झालेला सोडियम सल्फाइड आणि सोडियम नायट्रोप्रूसाइड यांची अभिक्रिया होते आणि जांभळ्या रंगाचे द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene33_subone">
+		<TEXTVALUE>सोडियम थिओनायट्रोप्रूसाइड Na₄[Fe(CN)₅NOS] निर्माण झाल्या मुळे</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>Scene34</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprussidetest_texttwo">
+		<TEXTVALUE>सोडियम नायट्रोप्रूसाइड परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetateTest_texttwo">
+		<TEXTVALUE>लेड एसीटेट परिक्षा</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>आवश्यक सामग्री: असेटीक आम्ल, लेड एसीटेट द्रावण, लासाइन अर्क, ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AceticAcid_textnew">
+		<TEXTVALUE>असेटीक आम्ल</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetate_textttnew">
+		<TEXTVALUE>लेड एसीटेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_textnew">
+		<TEXTVALUE>ड्रॉपर </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Lassaignes_textnew">
+		<TEXTVALUE>लासाइन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Testtube_textnew">
+		<TEXTVALUE>परिक्षा नळी</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="LeadAcetate_textnew">
+		<TEXTVALUE>लेड एसीटेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="AceticAcid_ttextnew">
+		<TEXTVALUE>असेटीक आम्ल</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>एक ड्रॉपर वापरून थोडेसे लासाइन अर्क घ्या आणि स्वच्छ परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे असेटीक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatesss_text">
+		<TEXTVALUE>लेड एसीटेट द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticAcid_txtnew">
+		<TEXTVALUE>असेटीक आम्ल</TEXTVALUE>
+	</TEXT>
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>लासाइन अर्क असलेल्या परिक्षा नळीत असेटीक आम्ल टाका.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>दूसरा ड्रॉपर वापरून थोडेसे लेड एसीटेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatetxt_text">
+		<TEXTVALUE>लेड एसीटेट द्रावण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Acidsol_txt">
+		<TEXTVALUE>असेटीक आम्ल</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>परिक्षा नळीत काही थेंब लेड एसीटेट टाका. लासाइन अर्क बनविताना निर्माण झालेला सोडियम सल्फाइड आणि लेड एसीटेट यांची अभिक्रिया होते आणि काळ्या रंगाचे लेड सल्फाइड अवक्षेपण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>Scene41</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textnew">
+		<TEXTVALUE>लासाइन अर्क </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofNitrogen_textnew">
+		<TEXTVALUE>नायट्रोजन ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_textnew">
+		<TEXTVALUE>सल्फर ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_textnew">
+		<TEXTVALUE>हॅलोजेन ओळखणे</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>प्रयोग निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrateTest_textnew">
+		<TEXTVALUE>सिल्वरनायट्रेट परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CarbonDisulphideTest_ttnew">
+		<TEXTVALUE>कार्बन डायसल्फाइड परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>आवश्यक सामग्री: संहत HNO3, सिल्वर नायट्रेट द्रावण, अमोनियम हायड्रोऑक्साइड द्रावण, परिक्षा नळी, लासाइन अर्क, ड्रॉपर आणि नळी धारक.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHNO_text">
+		<TEXTVALUE>संहत HNO3</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrate_ttext">
+		<TEXTVALUE>सिल्वर नायट्रेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxide_text">
+		<TEXTVALUE> अमोनियम हायड्रोऑक्साइड</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubett_new">
+		<TEXTVALUE>परिक्षा नळी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNO_textt">
+		<TEXTVALUE>संहत HNO3</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitratett_text">
+		<TEXTVALUE>सिल्वर नायट्रेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ammonium_text">
+		<TEXTVALUE>अमोनियम हायड्रोऑक्साइड</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे लासाइन अर्क घ्या आणि एका स्वच्छ परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे संहत नायट्रिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNOb_text">
+		<TEXTVALUE>संहत HNO</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetate_ttext">
+		<TEXTVALUE>सिल्वर नायट्रेट द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>धारक वापरून परिक्षा नळी धारा आणि लासाइन अर्कात संहत HNO3 टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>थोडा वेळ परिक्षा नळी बन्सेन बर्नरवर गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>परिक्षा नळी थंड होऊ दे.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे सिल्वर नायट्रेट द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_ttttext">
+		<TEXTVALUE>संहत HNO</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>परिक्षा नळीत सिल्वर नायट्रेट टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>जर कार्बनी संयुगात क्लोरिन असेल तर लासाइन अर्क बनविताना निर्माण झालेला सोडियम क्लोराइड आणि सिल्वर नायट्रेट यांची अभिक्रिया होते आणि पिवळ्या रंगाचे सिल्वर क्लोराइड अवक्षेपण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subone">
+		<TEXTVALUE>जर कार्बनी संयुगात ब्रोमीन असेल तर लासाइन अर्क बनविताना निर्माण झालेला सोडियम ब्रोमाइड आणि सिल्वर नायट्रेट यांची अभिक्रिया होते आणि फिकट पिवळ्या रंगाचे सिल्वर ब्रोमाइड अवक्षेपण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subtwo">
+		<TEXTVALUE>जर कार्बनी संयुगात आयोडीन असेल तर लासाइन अर्क बनविताना निर्माण झालेला सोडियम आयोडाइड आणि सिल्वर नायट्रेट यांची अभिक्रिया होते आणि पिवळ्या रंगाचे सिल्वर आयोडाइड अवक्षेपण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून अमोनियम हायड्रोऑक्साइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxidet_text">
+		<TEXTVALUE>अमोनियम हायड्रोऑक्साइड</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>पांढरे सिल्वर क्लोराइड अवक्षेपण असलेली परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>सिल्वर क्लोराइड अवक्षेपणात अधिक अमोनियम हायड्रोऑक्साइड टाका आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>अधिक अमोनियम हायड्रोऑक्साइड मध्ये सिल्वर क्लोराइड विरघळते करण एक द्रावणीय कॉम्प्लेक्स Ag[(NH₃)₂]Cl निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>ड्रॉपर वापरून अमोनियम हायड्रोऑक्साइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>फिकट पिवळ्या रंगाचे सिल्वर ब्रोमाइड अवक्षेपण असलेली परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>सिल्वर ब्रोमाइड अवक्षेपणात अधिक अमोनियम हायड्रोऑक्साइड टाका आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>अमोनियम हायड्रोऑक्साइड मध्ये सिल्वर ब्रोमाइड थोडेसेच विरघळते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>ड्रॉपर वापरून परत अमोनियम हायड्रोऑक्साइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>सिल्वर आयोडाइडचे अवक्षेपण असलेली परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>सिल्वर आयोडाइड अवक्षेपणात अधिक अमोनियम हायड्रोऑक्साइड टाका आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>अमोनियम हायड्रोऑक्साइड द्रावणात सिल्वर आयोडाइड अविद्राव्य आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>Scene64</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SilverNitrateTestyy_text">
+		<TEXTVALUE>सिल्वरनायट्रेट परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="CarbonDisulphideTestu_text">
+		<TEXTVALUE>कार्बन डायसल्फाइड परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>आवश्यक सामग्री: क्लोरीन पाणी, कार्बन डायसल्फाइड, विरल HCl, परीक्षा नळ्या, लासाइन अर्क आणि ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatert_text">
+		<TEXTVALUE>क्लोरीन पाणी </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Carbontt_text">
+		<TEXTVALUE>कार्बन डायसल्फाइड</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLttr_text">
+		<TEXTVALUE>विरल HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ClorineWater_textt">
+		<TEXTVALUE>क्लोरीन पाणी </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="CarbonDisulphide_textt">
+		<TEXTVALUE>कार्बन डायसल्फाइड</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLn_text">
+		<TEXTVALUE>विरल HCl</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे लासाइन अर्क घ्या आणि एका स्वच्छ परीक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे विरल हायड्रोक्लोरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHclh_text">
+		<TEXTVALUE>विरल HCl </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>लासाइन अर्क असलेल्या परीक्षा नळीत विरल HCl टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>वेगळे ड्रॉपर घेऊन थोडेसे कार्बन डायसल्फाइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>परीक्षा नळीत कार्बन डायसल्फाइड टाका. कार्बन डायसल्फाइड लासाइन अर्कावर एक वेगळा थर निर्माण करतो.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>वेगळे ड्रॉपर वापरून क्लोरीन पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatertt_text">
+		<TEXTVALUE>क्लोरीन पाणी </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>परीक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>क्लोरीन पाणी परीक्षा नळीत टाका आणि नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subone">
+		<TEXTVALUE>जेव्हा लासाइन अर्कात निर्माण झालेल्या सोडियम ब्रोमाइड मध्ये क्लोरीन पाणी टाकले जाते, ब्रोमाइड ह्याचे ऑक्सीडीकरण होते आणि ब्रोमीन निर्माण होते. कार्बन डायसल्फाइड मध्ये ब्रोमीन विरघळते आणि कार्बन डायसल्फाइड थराला नारंगी रंग देते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subtwo">
+		<TEXTVALUE>जेव्हा लासाइन अर्कात निर्माण झालेल्या सोडियम आयोडाइड मध्ये क्लोरीन पाणी टाकले जाते, आयोडाइड ह्याचे ऑक्सीडीकरण होते आणि आयोडीन निर्माण होते. कार्बन डायसल्फाइड मध्ये आयोडीन विरघळते आणि कार्बन डायसल्फाइड थराला जांभळा रंग देते.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Bromaine_textt">
+		<TEXTVALUE>ब्रोमीन </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Iodinei_text">
+		<TEXTVALUE>आयोडीन </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

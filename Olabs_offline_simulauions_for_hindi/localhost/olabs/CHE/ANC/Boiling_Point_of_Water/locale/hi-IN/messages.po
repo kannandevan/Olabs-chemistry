@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2014-08-27 11:01+0530\n"
+"PO-Revision-Date: 2015-09-04 14:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:16
+msgid ""
+"Drag the spatula towards the test tube<br>to drop the pumice stones into it."
+msgstr "झाँवाँ को परखनली में डालने के लिए<br>स्पैचुला को उसकी और खींचे|"
+
+#: simcontrols.js:16
+msgid "Drag the cork over the test tube to close it."
+msgstr "परखनली को बंद करने के लिए काग को उसकी ओर खींचे|"
+
+#: simcontrols.js:16
+msgid "Drag the thermometer towards the test tube<br>to place it in it."
+msgstr "थर्मामीटर को परखनली में डालने के लिए उसे<br>परखनली की ओर खींचे|"
+
+#: simcontrols.js:16
+msgid "Drag the delivery tube towards the test tube<br>to place it in it."
+msgstr "निकास नली को परखनली में डालने के लिए उसे<br>परखनली की ओर खींचे|"
+
+#: simcontrols.js:16
+msgid "Click on the knob of the burner<br>to turn it ON or OFF."
+msgstr "घुंडी ओन या ऑफ करने के लिए उस<br>पर क्लिक करें|"
+
+#: simcontrols.js:17
+msgid "In presence of impurities "
+msgstr "अशुद्धियों की उपस्थिति में"
+
+#: simcontrols.js:17
+msgid "At different pressures"
+msgstr "विभिन्न दबावों में"
+
+#: simcontrols.js:18
+msgid "Pure water"
+msgstr "शुद्ध पाणी"
+
+#: simcontrols.js:18
+msgid "Water + 50g NaCl"
+msgstr "जल + 50ग्राम मीठाचा"
+
+#: simcontrols.js:18
+msgid "Water + 200g sugar"
+msgstr "जल + 200ग्राम साखर"
+
+#: simcontrols.js:18
+msgid "Water + 90g KCl"
+msgstr "जल + 90ग्राम KCl"
+
+#: simcontrols.js:19
+msgid "Select the impure sample:"
+msgstr "अशुद्ध नमूना चयन करें:"
+
+#: simcontrols.js:19
+msgid "Select the pressure:"
+msgstr "दबाव का चयन करें:"
+
+#: simcontrols.js:21
+msgid "Boiling point of water:"
+msgstr "पानी का क्वथनांक|:"
+
+#: simcontrols.js:23
+msgid "Show zoom"
+msgstr "पास से दिखाएँ"
+
+#: simcontrols.js:24
+msgid "Temperature:&nbsp;"
+msgstr "तापमान&nbsp;"
+
+#: simcontrols.js:25
+msgid "Reset"
+msgstr "रीसेट"
+
+#: simcontrols.js:26
+msgid "Pumice Stones"
+msgstr "झांवां"
+
+#: simcontrols.js:27
+msgid "Determination of Boiling Point of Water"
+msgstr "पानी के क्वथनांक का निर्धारण|"
+
+#: simcontrols.js:28
+msgid "HELP"
+msgstr "मदद"
+
+#: simcontrols.js:29
+msgid "FULLSCREEN"
+msgstr "पूर्ण स्क्रीन"
+
+#: simcontrols.js:30
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:31
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"आईटी विभाग से सीडैक मुंबई और अनुसंधान <br> अनुदान  के तहत अमृता विश्वविद्यालय  द्वारा "
+"विकसित"
+
+#~ msgid "Presence of pressure"
+#~ msgstr "दबाव उपस्थिती"
+
+#~ msgid "SAVE"
+#~ msgstr "सहेजें"
+
+#, fuzzy
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgid "Solution Controls"
+#~ msgstr "ऊत्तराची नियंत्रणे"
+
+#~ msgid "Select Environment"
+#~ msgstr "निवडा पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "वाचन प्रविष्ट करा:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "भारदस्तपणा मास (ग्रॅम मध्ये):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "ऑब्जेक्ट च्या वस्तुमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "व्हॉल्यूम (मिली मध्ये):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनता (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घनाकृती मीटरचा शंभरावा भाग=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#~ msgid "Earth (9.8m/s&#178;)"
+#~ msgstr "पृथ्वी (9.8m/s&#178;)"
+
+#~ msgid "Moon (1.6m/s&#178;)"
+#~ msgstr "घालवणे (1.6m/s&#178;)"
+
+#~ msgid "Mercury (3.7m/s&#178;)"
+#~ msgstr "पारा (3.7m/s&#178;)"
+
+#~ msgid "Find Mass"
+#~ msgstr "मास शोधा"
+
+#~ msgid "Find Volume"
+#~ msgstr "वॉल्यूम शोधा"
+
+#~ msgid ""
+#~ "The mass of the object due to gravity that displayed in the spring balance"
+#~ msgstr "स्प्रिंग शिल्लक प्रदर्शित की संपुष्टात गुरुत्व ऑब्जेक्ट च्या वस्तुमान"
+
+#~ msgid ""
+#~ "The actual mass of the body calculated using the equation, m = "
+#~ "gravitational mass(w) x 9.8 / g(environment)"
+#~ msgstr ""
+#~ "समीकरण वापरून गणना शरीराच्या प्रत्यक्ष वस्तुमान, m =भारदस्तपणा मास(w) x 9.8 / "
+#~ "g(पर्यावरण)"
+
+#~ msgid ""
+#~ "Final level of water (with block immersed) - Initial level of water "
+#~ "(without block immersed)"
+#~ msgstr "पाणी अंतिम पातळी(विसर्जन ब्लॉक सह)  - पाणी आरंभिक पातळी(विसर्जन ब्लॉक न) "
+
+#~ msgid "Density, D(g/cc) = m/v = mass divided by volume"
+#~ msgstr "घनता, D(g/cc) = m/v = वस्तुमान खंड भागाकार"
+
+#~ msgid "Please enter the values"
+#~ msgstr "मूल्ये प्रविष्ट करा"
+
+#~ msgid "Good! Answer is correct"
+#~ msgstr "चांगले! उत्तर बरोबर आहे"
+
+#~ msgid "Try Again!"
+#~ msgstr "पुन्हा प्रयत्न करा!"
+
+#~ msgid "Cylinder"
+#~ msgstr "वृत्तचित्ती"
+
+#~ msgid "Lock"
+#~ msgstr "टाळे"
+
+#~ msgid "Wood"
+#~ msgstr "लाकूड"
+
+#~ msgid "Stone"
+#~ msgstr "दगड"
+
+#~ msgid "Bob"
+#~ msgstr "बॉब"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>कार्बोहाइड्रेटों का गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="start">
+	<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग शुरू करने के लिए प्रारंभ बटन पर क्लिक करें |</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परीक्षण चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="btn_solubility">
+	<TEXTVALUE>घुलनशीलता परीक्षण</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_molischs">
+		<TEXTVALUE>मोलिस परीक्षण</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_fehlings">
+	  <TEXTVALUE>फेलिंग परीक्षण</TEXTVALUE>
+	</TEXT>	
+	  <TEXT ID="txt_benedicts">
+	<TEXTVALUE>बेनेडिक्ट परीक्षण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+	  <TEXTVALUE>टॉलेन परीक्षण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_iodine">
+	   <TEXTVALUE>आयोडीन परीक्षण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_observations">
+	   <TEXTVALUE>टिप्पणियां</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+	   <TEXTVALUE>कार्बोहाइड्रेटों के लिए परीक्षण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_back">
+	   <TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>घुलनशीलता परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लूकोज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>सुक्रोज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर, ग्लूकोज की थोड़ी सी मात्रा लें और परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_one">
+		<TEXTVALUE>ड्रॉपर में लगभग 3 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_two">
+		<TEXTVALUE>इसे परखनली में डालें और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene4_sub_three">
+		<TEXTVALUE>ग्लूकोज पूरी तरह से पानी में घुल जाता है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लूकोज</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_water">
+		<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_3ml">
+		<TEXTVALUE>3 मिलीलीटर </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर, सूक्रोज की थोड़ी सी मात्रा लें और परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene5_sub_one">
+		<TEXTVALUE>ड्रॉपर में लगभग 3 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_two">
+		<TEXTVALUE>इसे परखनली में डालें और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene5_sub_three">
+		<TEXTVALUE>सुक्रोज पूरी तरह से पानी में घुल जाता है।</TEXTVALUE>
+	</TEXT>	
+		
+	<TEXT ID="txt_sucrose">
+		<TEXTVALUE>सुक्रोज</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+		<TEXTVALUE>स्पैचुला का प्रयोग कर, स्टार्च की थोड़ी सी मात्रा में लें और परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_one">
+		<TEXTVALUE>ड्रॉपर में लगभग 3 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_two">
+		<TEXTVALUE>इसे परखनली में डालें और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Scene6_sub_three">
+		<TEXTVALUE>स्टार्च पानी में अघुलनशील है।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>मोलिस परीक्षण</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर मोलिस अभिकर्मक लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_one">
+		<TEXTVALUE>सुक्रोज के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में मोलिस अभिकर्मक की लगभग 6 बूँदें मिलाएं ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>ड्रापर का प्रयोग कर, सान्द्र सल्फ्यूरिक अम्ले की कुछ बूँदें लें।</TEXTVALUE>
+     </TEXT>
+	<TEXT ID="Scene8_sub_three">
+	<TEXTVALUE>मिश्रित किए बिना, धीरे धीरे इसे परखनली की दीवार के साथ मिलाएं , ।</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="Scene8_sub_four">
+	<TEXTVALUE>दो परतों (अम्ल की परत और परीक्षण परत) के संगम पर लाल बैंगनी छल्ला बन जाता है जिससे कार्बोहाइड्रेट की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT> 
+	<TEXT ID="txt_glucose">
+		<TEXTVALUE>ग्लूकोज  (2 ml)</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>मोलिस अभिकर्मक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sulphuric">
+		<TEXTVALUE>सान्द्र सल्फ्यूरिक अम्ल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_6drops">
+		<TEXTVALUE>6 बूँदें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर मोलिस अभिकर्मक लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_one">
+		<TEXTVALUE>सुक्रोज के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में मोलिस अभिकर्मक की लगभग 6 बूँदें मिलाएं ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_two">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, सान्द्र सल्फ्यूरिक अम्ले की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_three">
+		<TEXTVALUE>मिश्रित किए बिना, धीरे धीरे इसे परखनली की दीवार के साथ मिलाएं , ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene9_sub_four">
+		<TEXTVALUE>दो परतों (अम्ल की परत और परीक्षण परत) के संगम पर लाल बैंगनी छल्ला बन जाता है जिससे कार्बोहाइड्रेट की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_sucrose">
+	<TEXTVALUE>सुक्रोज  (2 मिलीलीटर )</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर मोलिस अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_one">
+		<TEXTVALUE>स्टार्च के निलंबन के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में मोलिस अभिकर्मक की लगभग 6 बूँदें मिलाएं ।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_two">
+		<TEXTVALUE>ड्रापर का प्रयोग कर, सान्द्र सल्फ्यूरिक अम्ले की कुछ बूँदें लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_three">
+		<TEXTVALUE>मिश्रित किए बिना, धीरे धीरे इसे परखनली की दीवार के साथ मिलाएं , ।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene10_sub_four">
+		<TEXTVALUE>दो परतों (अम्ल की परत और परीक्षण परत) के संगम पर लाल बैंगनी छल्ला बन जाता है जिससे कार्बोहाइड्रेट की उपस्थिति का पता चलता है।</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="txt_starch">
+		<TEXTVALUE>स्टार्च  (2 मिलीलीटर )</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>फेलिंग परीक्षण</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर फेलिंग का विलयन A लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_one">
+		<TEXTVALUE>परखनली में लिए गए ग्लूकोज के 2 मिलीलीटर जलीय विलयन में इसे मिलाएं।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_two">
+		<TEXTVALUE>इसके बाद परखनली में 2 मिलीलीटर फेलिंग का विलयन B मिलाएं। विलयन गहरे नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene12_sub_three">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_four">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें ।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene12_sub_five">
+	<TEXTVALUE>ग्लूकोज अपचयन करने वाली शर्करा है जो परीक्षण अभिकर्मक में Cu(II) के आयनों का कॉपर (I) ऑक्साइड के लाल तलछट में अपचयन कर देती है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>फेलिंग का विलयन A </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_fehlingsB">
+		<TEXTVALUE>फेलिंग का विलयन B</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर फेलिंग का विलयन A लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_one">
+		<TEXTVALUE>परखनली में लिए गए सुक्रोज के 2 मिलीलीटर जलीय विलयन में इसे मिलाएं।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_two">
+		<TEXTVALUE>इसके बाद परखनली में 2 मिलीलीटर फेलिंग का विलयन B मिलाएं। विलयन गहरे नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_three">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene13_sub_four">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें ।</TEXTVALUE>
+		</TEXT>
+	
+		<TEXT ID="Scene13_sub_five">
+		<TEXTVALUE>रंग समान बना रहता है। परीक्षण नकारात्मक है, जिससे पता चलता है कि स्टार्च में अपचयनकारी शर्करा नहीं हेाती है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर फेलिंग का विलयन A लें।</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_one">
+		<TEXTVALUE>परखनली में लिए गए स्टार्च के 2 मिलीलीटर जलीय विलयन में इसे मिलाएं।</TEXTVALUE>
+		</TEXT>
+		
+	<TEXT ID="Scene14_sub_two">
+		<TEXTVALUE>इसके बाद परखनली में 2 मिलीलीटर फेलिंग का विलयन B मिलाएं। विलयन का रंग गहरे नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene14_sub_three">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene14_sub_four">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें।</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="Scene14_sub_five">
+		<TEXTVALUE>रंग समान बना रहता है। परीक्षण नकारात्मक है, जिससे पता चलता है कि सुक्रोज गैर-अपचयनकारी शर्करा है।</TEXTVALUE>
+
+	</TEXT>	
+	</SCENE>
+	
+	<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>बेनडिक्ट परीक्षण  </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+		<TEXTVALUE>ड्रॉपर में 2 मिलीलीटर बेनडिक्ट अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_one">
+		<TEXTVALUE>परखनली में लिए गए ग्लूकोज के 2 मिलीलीटर जलीय विलयन में इसे मिलाएं। विलयन का रंग नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_three">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें ।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene16_sub_four">
+		<TEXTVALUE>ग्लूकोज अपचयन करने वाली शर्करा है जो परीक्षण अभिकर्मक में Cu(II) के आयनों का कॉपर (I) ऑक्साइड के लाल तलछट में अपचयन कर देती है।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>बेनडिक्ट अभिकर्मक</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+		<TEXTVALUE>ड्रॉपर में 2 मिलीलीटर बेनडिक्ट अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_one">
+		<TEXTVALUE>परखनली में लिए गए ग्लूकोज के 2 मिलीलीटर जलीय विलयन में इसे मिलाएं। विलयन का रंग नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर परखनली लें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_three">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें ।.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene17_sub_four">
+		<TEXTVALUE>रंग समान बना रहता है। परीक्षण नकारात्मक है, जिससे पता चलता है कि सुक्रोज गैर-अपचयनकारी शर्करा है।</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+		<TEXTVALUE>ड्रॉपर में 2 मिलीलीटर बेनडिक्ट अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_one">
+		<TEXTVALUE>परखनली में लिए गए 2 मिलीलीटर स्टार्च के निलंबन में इसे मिलाएं। विलयन का रंग नीले रंग में बदल जाता है।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_three">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और कुछ मिनट तक गर्म करें ।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene18_sub_four">
+		<TEXTVALUE>रंग समान बना रहता है। परीक्षण नकारात्मक है, जिससे पता चलता है कि सुक्रोज गैर-अपचयनकारी शर्करा है।</TEXTVALUE>
+		
+	</TEXT>	
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>टॉलेन परीक्षण</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर टॉलेन अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_one">
+		<TEXTVALUE>ग्लूकोज के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में इसे मिलाएं।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_three">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और 10 मिनट तक इसे गर्म करें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene20_sub_four">
+		<TEXTVALUE>ग्लूकोज अपचयन करने वाली शर्करा है जो परीक्षण अभिकर्मक में Cu(II) के आयनों का कॉपर (I) ऑक्साइड के लाल तलछट में अपचयन कर देती है।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>टॉलेन अभिकर्मक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_minutes">
+		<TEXTVALUE>10 मिनट </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर टॉलेन अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_one">
+		<TEXTVALUE>सुक्रोज  के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में इसे मिलाएं।</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="Scene21_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_three">
+		<TEXTVALUE>सुक्रोज </TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene21_sub_four">
+		<TEXTVALUE>कोई विशेष परिवर्तन नहीं होता है जिससे अपचयनकारी कार्बोहाइड्रेट की अनुपस्थिति का पता चलता है।</TEXTVALUE>
+		</TEXT>	
+		
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene22">
+	<TEXT ID="Scene22_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर 2 मिलीलीटर टॉलेन अभिकर्मक लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_one">
+		<TEXTVALUE>इसे स्टार्च के 2 मिलीलीटर निलंबन से युक्त परखनली में मिलाएं ।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_two">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_three">
+		<TEXTVALUE>इसे उबलते हुए पानी के स्नान में रख दें और 10 मिनट तक इसे गर्म करें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene22_sub_four">
+		<TEXTVALUE>कोई विशेष परिवर्तन नहीं होता है जिससे अपचयनकारी कार्बोहाइड्रेट की अनुपस्थिति का पता चलता है।</TEXTVALUE>	
+	    </TEXT>	
+</SCENE>
+
+
+<SCENE ID="Scene23">
+	<TEXT ID="Scene23_sub">
+		<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें ।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_heading">
+		<TEXTVALUE>आयोडीन परीक्षण</TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene24">
+	<TEXT ID="Scene24_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर आयोडीन के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_one">
+		<TEXTVALUE>सुक्रोज के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में आयोडीन का विलयन की 2 बूँदें मिलाएं</TEXTVALUE>
+		</TEXT>
+
+	<TEXT ID="Scene24_sub_two">
+		<TEXTVALUE>कोई विशेष परिवर्तन नहीं होता है जिससे स्टार्च की अनुपस्थिति का पता चलता है।</TEXTVALUE>
+		</TEXT>	
+	
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>आयोडीन के विलयन </TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+
+<SCENE ID="Scene25">
+	<TEXT ID="Scene25_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर आयोडीन के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_one">
+		<TEXTVALUE>सुक्रोज के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में आयोडीन का विलयन की 2 बूँदें मिलाएं।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Scene25_sub_two">
+		<TEXTVALUE>कोई विशेष परिवर्तन नहीं होता है जिससे स्टार्च की अनुपस्थिति का पता चलता है।</TEXTVALUE>	
+	</TEXT>	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="Scene26_sub">
+		<TEXTVALUE>ड्रापर का प्रयोग कर आयोडीन के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Scene26_sub_one">
+		<TEXTVALUE>स्टार्च के 2 मिलीलीटर जलीय विलयन के 2 मिलीलीटर जलीय विलयन से युक्त परखनली में आयोडीन का विलयन की 2 बूँदें मिलाएं</TEXTVALUE>
+		</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+		<TEXTVALUE>विलयन का रंग नीले रंग में बदल जाता है, जिससे स्टार्च की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="txt_coefficient">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>		
+</SCENE>
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_sub">
+		<TEXTVALUE>सारणीबद्ध कॉलम में टिप्पणियां दर्ज करें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_test">
+		<TEXTVALUE>परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_purple">
+		<TEXTVALUE>बैंगनी छल्ला</TEXTVALUE>
+	</TEXT>		
+	<TEXT ID="txt_red">
+		<TEXTVALUE>लाल तलछट</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_silver">
+		<TEXTVALUE>रजत दर्पण</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_negative">
+		<TEXTVALUE>नकारात्मक</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_blue">
+		<TEXTVALUE>नीला रंग</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="txt_molisch">
+		<TEXTVALUE>मोलिस परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_fehlings">
+		<TEXTVALUE>फेलिंग परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_benedicts">
+		<TEXTVALUE>बेनेडिक्ट परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_tollens">
+		<TEXTVALUE>टॉलेन परीक्षण</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="txt_iodine">
+		<TEXTVALUE>आयोडीन परीक्षण</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>

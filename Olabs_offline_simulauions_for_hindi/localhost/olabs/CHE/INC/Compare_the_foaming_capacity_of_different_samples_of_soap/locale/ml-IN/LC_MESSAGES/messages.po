@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:49+0530\n"
+"PO-Revision-Date: 2025-10-07 12:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "സഹായം"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "വികസിപ്പിച്ചത് അമൃത സർവ്വകലാശാല <br> ധനസഹായം : ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം || <br> വിദ്യാഭ്യാസ മന്ത്രാലയം, ഇന്ത്യൻ ഗവൺമെന്റ്"
+
+msgid "Compare the foaming capacity of different samples of soap"
+msgstr "വിവിധ സോപ്പ് സാമ്പിളുകളുടെ പതക്കാനുള്ള ശേഷി താരതമ്യം ചെയ്യുക"
+
+msgid "The different samples have different foaming <br>capacity and the soap with highest foaming <br>capacity have high cleansing capacity."
+msgstr "വ്യത്യസ്ത സാമ്പിളുകൾക്ക് വ്യത്യസ്ത പതക്കാനുള്ള <br>ശേഷിയുണ്ട്, ഏറ്റവും കൂടുതൽ പതക്കാനുള്ള ശേഷിയുള്ള <br>സോപ്പിന് ഉയർന്ന ശുചീകരണ ശേഷിയുണ്ട്."
+
+msgid "Click on the soap to select"
+msgstr "തിരഞ്ഞെടുക്കാൻ സോപ്പിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the filter paper to the weighing balance"
+msgstr "ഫിൽട്ടർ പേപ്പർ ഭാരം അളക്കുന്ന തുലാസിലേക്ക് (ഭാരം അളക്കുന്ന തുലാസ്) വലിച്ചിടുക"
+
+msgid "Click on the tare button"
+msgstr "ടയർ ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the soap to the weighing balance"
+msgstr "സോപ്പ് ഭാരം അളക്കുന്ന തുലാസിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the soap into the beaker"
+msgstr "സോപ്പ് ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Click on the rod for mixing soap into the water"
+msgstr "വെള്ളത്തിൽ സോപ്പ് കലർത്താൻ ദണ്ഡിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Click on the soap solution to select"
+msgstr "തിരഞ്ഞെടുക്കാൻ സോപ്പ് ലായനിയിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the filler into the beaker"
+msgstr "ഫില്ലർ ബീക്കറിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the dropper into the test tube"
+msgstr "ഡ്രോപ്പർ ടെസ്റ്റ് ട്യൂബിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag the testube and drop it into the visible area"
+msgstr "ടെസ്റ്റ് ട്യൂബ് വലിച്ചിഴച്ച് ദൃശ്യമാകുന്ന സ്ഥലത്തേക്ക് ഇടുക"
+
+msgid "Click the testube and<br> measure the height of the foam"
+msgstr "ടെസ്റ്റ് ട്യൂബിൽ ക്ലിക്കുചെയ്യുക, <br> പതയുടെ ഉയരം അളക്കുക"
+
+msgid "Click on the Reset button to <br> do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും ചെയ്യുന്നതിനായി <br> റീസെറ്റ് ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Click on the Next button to <br> go to next screen"
+msgstr "അടുത്ത സ്ക്രീനിലേക്ക് പോകുന്നതിന് <br> അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Water"
+msgstr "വെള്ളം"
+
+msgid "Soap Solution"
+msgstr "സോപ്പ് ലായനി"
+
+msgid "NEXT"
+msgstr "അടുത്തത്"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Select the soap"
+msgstr "സോപ്പ് തിരഞ്ഞെടുക്കുക"
+
+msgid "Select the solution"
+msgstr "ലായനി തിരഞ്ഞെടുക്കുക"
+
+msgid "Soap A"
+msgstr "സോപ്പ് A"
+
+msgid "Soap B"
+msgstr "സോപ്പ് B"
+
+msgid "Soap C"
+msgstr "സോപ്പ് C"
+
+msgid "Soap D"
+msgstr "സോപ്പ് D"
+
+msgid "Solution A"
+msgstr "ലായനി A"
+
+msgid "Solution B"
+msgstr "ലായനി B"
+
+msgid "Solution C"
+msgstr "ലായനി C"
+
+msgid "Solution D"
+msgstr "ലായനി D"
+
+msgid "Reset"
+msgstr "പുനഃസജ്ജമാക്കുക"
+
+msgid "Click on the inference button"
+msgstr "നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"

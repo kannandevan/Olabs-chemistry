@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="169px" height="53px" viewBox="0 0 169 53" enable-background="new 0 0 169 53" xml:space="preserve">
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="83.2998" cy="26.3501" r="16.6127" gradientTransform="matrix(-0.0055 -1 4.1136 -0.0225 -24.6375 110.2414)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.2667" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.6784" style="stop-color:#000000;stop-opacity:0.3373"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M4.05,25.85c0.2-2.233,1.65-4.333,4.35-6.3
+		c3.833-2.767,10.1-5.283,18.8-7.55c15.5-3.967,34.2-5.95,56.1-5.95c21.934,0,40.633,1.983,56.1,5.95
+		c15.467,4,23.2,8.783,23.2,14.35c0,5.7-7.733,10.534-23.2,14.5c-15.467,4-34.166,6-56.1,6c-21.9,0-40.6-2-56.1-6
+		C14.3,37.55,6.8,33.65,4.7,29.15c-0.167-0.367-0.316-0.7-0.45-1C4.083,27.55,4,26.95,4,26.35C4,26.183,4.017,26.017,4.05,25.85z"/>
+</g>
+</svg>

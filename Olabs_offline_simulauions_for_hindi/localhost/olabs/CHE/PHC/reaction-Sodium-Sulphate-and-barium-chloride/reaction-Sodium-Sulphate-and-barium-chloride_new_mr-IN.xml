@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="01Intro_heading_01">
+		<TEXTVALUE>द्विविस्थापन अभिक्रिया</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="01Intro_start_11">
+		<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>आवश्यक साहित्य: सोडियम सल्फेट, बेरियम क्लोराइड, विरल HCl, चंचुपात्र, शंक्वाकृती चंबू, परिक्षा नळ्या, इ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_bar_11">
+		<TEXTVALUE> बेरियम 
+	क्लोराइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_sod_1">
+		<TEXTVALUE>सोडियम 
+	सल्फेट</TEXTVALUE>
+	</TEXT>
+
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE>एक परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>त्यात थोडेसे बेरियम क्लोराइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>ते शंक्वाकृती चंबूत टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>अजून एक परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>त्यात थोडेसे सोडियम सल्फेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>त्याला बेरियम क्लोराइड द्रावण असलेल्या शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_basu_11">
+		<TEXTVALUE>बेरियम 
+	सल्फेट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>शंक्वाकृती चंबूतल्या द्रावणाला ढवळा, आणि मग थोडा वेळ तसेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>बेरियम सल्फेट चे एक पांढरे अवक्षेपण त्वरित निर्माण होईल. सल्फेट (SO4)2- आयन अस्तित्वात आहेत ह्याची पुष्टी होते.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_three">
+		<TEXTVALUE>बेरियम सल्फेटचे अवक्षेपण शंक्वाकृती चंबूच्या बुडाशी एकत्र होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>द्रावणाचा वरचा भाग शंक्वाकृती चंबूतून चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>आता अवक्षेपण असलेल्या शंक्वाकृती चंबूत थोडेसे विरल HCl ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>आता अवक्षेपण असलेल्या शंक्वाकृती चंबूत थोडेसे विरल HCl ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>शंक्वाकृती चंबू नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>पांढरे अवक्षेपण विरल HCl मध्ये विरघळत नाही.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>ह्या रासायनिक अभिक्रियेत, क्लोराइड आयन हे सल्फेट आयनना विस्थापित करतात, आणि सल्फेट आयन हे क्लोराइड आयनना विस्थापित करतात. ह्याला द्विविस्थापन अभिक्रिया म्हणतात.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13shake3_bko_1">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+	

@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_head_1">
+		<TEXTVALUE>Properties of Acids and Bases</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_strt1_1">
+		<TEXTVALUE>Start</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>Properties of Acid and Bases</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_1">
+		<TEXTVALUE>Properties of Acid and Bases</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_22">
+		<TEXTVALUE>Litmus Solution(Blue/Red)</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_zic_11">
+		<TEXTVALUE>Zinc Metal</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title2_sod1_2">
+		<TEXTVALUE>Solid Sodium Carbonate</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="title3">
+	<TEXT ID="title3_one">
+		<TEXTVALUE> Click one of them. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_titl_22">
+		<TEXTVALUE>Litmus Solution(Blue/Red)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_a11_1">
+		<TEXTVALUE>Acids</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_b11_1">
+		<TEXTVALUE>Bases</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_bak11_1">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="title004">
+	<TEXT ID="title004_one">
+		<TEXTVALUE> Click one of them. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_zinc_11">
+		<TEXTVALUE>Zinc Metal</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa_11">
+		<TEXTVALUE>Acids</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa__22">
+		<TEXTVALUE>Bases</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_bak_12">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+   
+</SCENE>
+<SCENE ID="title005">
+	<TEXT ID="title005_one">
+		<TEXTVALUE> Click one of them. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_11">
+		<TEXTVALUE>Solid Sodium Carbonate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_21">
+		<TEXTVALUE>Acids</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_12">
+		<TEXTVALUE>Bases</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_bb_13">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>We require two test tubes placed in a test tube rack, red and blue litmus solutions, HCl solution and a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_11">
+		<TEXTVALUE>Red Litmus 
+Solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_22">
+		<TEXTVALUE>Blue Litmus 
+Solution</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	<SCENE ID="2zoomsol">
+	<TEXT ID="2zoomsol_one">
+		<TEXTVALUE>Take the red litmus solution first.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+		
+		<SCENE ID="3testtubil">
+	<TEXT ID="3testtubil_one">
+		<TEXTVALUE>Pour the red litmus solution into one test tube.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+			<SCENE ID="4redback">
+	<TEXT ID="4redback_one">
+		<TEXTVALUE>Re-cap the bottle. </TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+			<SCENE ID="5blue">
+	<TEXT ID="5blue_one">
+		<TEXTVALUE>Take the blue litmus solution.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+	<SCENE ID="6bluflo">
+	<TEXT ID="6bluflo_one">
+		<TEXTVALUE>Pour the blue litmus solution into the other test tube.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="7bluebak">
+	<TEXT ID="7bluebak_one">
+		<TEXTVALUE>Re-cap the bottle.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="8hcl">
+	<TEXT ID="8hcl_one">
+		<TEXTVALUE>Take few drops of the HCl solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		<SCENE ID="9addto1">
+	<TEXT ID="9addto1_one">
+		<TEXTVALUE>Add this to the test tube containing the red litmus solution.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+<SCENE ID="9azoom">
+	<TEXT ID="9azoom_one">
+		<TEXTVALUE>The colour of the solution remains the same.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	<SCENE ID="10hcl2">
+	<TEXT ID="10hcl2_one">
+		<TEXTVALUE>Take few more drops of the HCl solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+<SCENE ID="11addto2">
+	<TEXT ID="11addto2_one">
+		<TEXTVALUE>Add this to the test tube containing the blue litmus solution and note the change in colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12change">
+	<TEXT ID="12change_one">
+		<TEXTVALUE>The colour of the solution changes from blue to red. HCl is an acid having pH value below 7.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12change_ac_23">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="14intro">
+	<TEXT ID="14intro_one">
+		<TEXTVALUE>We require two test tubes placed in a test tube rack, red and blue litmus solutions, NaOH solution and a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="15zoomso">
+	<TEXT ID="15zoomso_one">
+		<TEXTVALUE>Take the red litmus solution first.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="16testtubil">
+	<TEXT ID="16testtubil_one">
+		<TEXTVALUE>Pour the red litmus solution into one test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="17redback">
+	<TEXT ID="17redback_one">
+		<TEXTVALUE>Re-cap the bottle.</TEXTVALUE>
+	</TEXT>
+		 
+</SCENE>
+<SCENE ID="18blue">
+	<TEXT ID="18blue_one">
+		<TEXTVALUE>Take the blue litmus solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="19bluflo">
+	<TEXT ID="19bluflo_one">
+		<TEXTVALUE>Pour the blue litmus solution into the other test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="20bluebak">
+	<TEXT ID="20bluebak_one">
+		<TEXTVALUE>Re-cap the bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="21NAOH">
+	<TEXT ID="21NAOH_one">
+		<TEXTVALUE>Take few drops of the NaOH solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22addt0">
+	<TEXT ID="22addt0_one">
+		<TEXTVALUE>Add this to the test tube containing the red litmus solution and note the change in colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change1">
+	<TEXT ID="25change1_one">
+		<TEXTVALUE>The colour of the solution changes from red to blue. NaOH is an alkali having pH more than 7.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="23NAOH">
+	<TEXT ID="23NAOH_one">
+		<TEXTVALUE>Take few more drops of the NaOH solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="24addto2">
+	<TEXT ID="24addto2_one">
+		<TEXTVALUE>Add it to the test tube containing the blue litmus solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change">
+	<TEXT ID="25change_one">
+		<TEXTVALUE>The colour of the solution remains the same.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="25change_bah_11">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1intro2">
+	<TEXT ID="1intro2_one">
+		<TEXTVALUE>We require a test tube, some zinc metal in a watch glass, a spatula, HCl Solution, a dropper, a stand with a clamp, a single bored cork, a jet tube, Bunsen burner and a match box.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro2_zn_11">
+		<TEXTVALUE>Zinc metal</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3takezinc">
+	<TEXT ID="3takezinc_one">
+		<TEXTVALUE>Using the spatula transfer some of the zinc metal from the watch glass into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4hcl1">
+	<TEXT ID="4hcl1_one">
+		<TEXTVALUE>Take few drops of the HCl solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow">
+	<TEXT ID="5flow_one">
+		<TEXTVALUE>Add this to the test tube containing the zinc metal.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand">
+	<TEXT ID="6stand_one">
+		<TEXTVALUE>Clamp the test tube to the stand and cork it.  Pass the jet tube through the cork.  Now bring the test tube downwards to heat it over the Bunsen burner. Hydrogen gas is evolved on heating.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_h2_2">
+		<TEXTVALUE>H2 Gas</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_fjt_11">
+		<TEXTVALUE>Fine jet tube</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="7teepati">
+	<TEXT ID="7teepati_one">
+		<TEXTVALUE>Take the match box and light a match stick.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8zoomstand">
+	<TEXT ID="8zoomstand_one">
+		<TEXTVALUE>Bring the lighted match near the mouth of the jet tube. Hydrogen gas coming out of the test tube causes the flame to flare up.  Then with a mild explosion and producing a popping sound the flame dips out.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bcd_01">
+		<TEXTVALUE>Hydrogen gas</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bv_11">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="1intro02">
+	<TEXT ID="1intro02_one">
+		<TEXTVALUE>We require a test tube, some zinc metal in a watch glass, a spatula, NaOH Solution, a dropper, a stand with a clamp, a single bored cork, a jet tube, Bunsen burner and a match box.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takezinc1">
+	<TEXT ID="3takezinc1_one">
+		<TEXTVALUE>Using the spatula transfer some of the zinc metal from the watch glass into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4naoh">
+	<TEXT ID="4naoh_one">
+		<TEXTVALUE>Take few drops of the NaOH solution from its bottle using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow1">
+	<TEXT ID="5flow1_one">
+		<TEXTVALUE>Add this to the test tube containing the zinc metal.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand1">
+	<TEXT ID="6stand1_one">
+		<TEXTVALUE>Clamp the test tube to the stand and cork it.  Pass the jet tube through the cork.  Now bring the test tube downwards to heat it over the Bunsen burner. Hydrogen gas is evolved on heating.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="7teepat1">
+	<TEXT ID="7teepat1_one">
+		<TEXTVALUE>Take the match box and light a match stick.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="8zoomstand11">
+	<TEXT ID="8zoomstand11_one">
+		<TEXTVALUE>Bring the lighted match near the mouth of the jet tube. Hydrogen gas coming out of the test tube causes the flame to flare up.  Then with a mild explosion and producing a popping sound the flame dips out.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand11_bb_44">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro03">
+	<TEXT ID="1intro03_one">
+		<TEXTVALUE>We require a flat bottom flask, a stand, a thistle funnel, a connecting glass tube, distilled water in a beaker, a stand with a clamp, some sodium carbonate in a glass, double bored cork, spatula, HCl solution, a dropper and lime water in a beaker.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="2placeit">
+	<TEXT ID="2placeit_one">
+		<TEXTVALUE>Place the flat bottom flask on the clamp stand and clamp the neck of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium">
+	<TEXT ID="3takesodium_one">
+		<TEXTVALUE>Using the spatula take some Sodium Carbonate from the watch glass.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_soda_11">
+		<TEXTVALUE>Sodium 
+Carbonate</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_limewat_1">
+		<TEXTVALUE>Lime
+water</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="3takesodium_dw_11">
+		<TEXTVALUE>Lime
+water</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="4putit">
+	<TEXT ID="4putit_one">
+		<TEXTVALUE>Put this into the flat bottom flask.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="5dist">
+	<TEXT ID="5dist_one">
+		<TEXTVALUE>Take the beaker containing the distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6flo">
+	<TEXT ID="6flo_one">
+		<TEXTVALUE>Pour some of it into the flat bottom flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7corck">
+	<TEXT ID="7corck_one">
+		<TEXTVALUE>Cork the flask with the double bored cork and insert the thistle funnel into the flask through one of the holes in the cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7corck_tf_11">
+		<TEXTVALUE>Thistle
+funnel</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="8lime">
+	<TEXT ID="8lime_one">
+		<TEXTVALUE>Take the beaker containing lime water.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="8lime_lw_12">
+		<TEXTVALUE>Lime Water</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="9corck2">
+	<TEXT ID="9corck2_one">
+		<TEXTVALUE>Carefully insert one end of the connecting tube into the flat bottom flask through the hole in the cork, ensure the tube does not touch the solution in the flask.  Place the other end of the tube in the beaker containing lime water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9corck2_dt_1">
+		<TEXTVALUE>Delivery tube</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="81HCL">
+	<TEXT ID="81HCL_one">
+		<TEXTVALUE>Take the beaker containing the solution of HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11zoom">
+	<TEXT ID="11zoom_one">
+		<TEXTVALUE>Pour some of it through the thistle funnel into the flat bottom flask. A gas is evolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom2">
+	<TEXT ID="11zoom2_one">
+		<TEXTVALUE>You will note that the lime water in the beaker has turned milky. Thus the gas evolved is CO2 which turns lime water milky.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11zoom2_bbaa_11">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1intro04">
+	<TEXT ID="1intro04_one">
+		<TEXTVALUE>We require a test tube, a test tube rack, some sodium carbonate in a watch glass, a spatula, NaOH solution, and Phenolphthalein solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro04_pleem_11">
+		<TEXTVALUE>Phenolphthalein</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="tube">
+	<TEXT ID="tube_one">
+		<TEXTVALUE>Take the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium3">
+	<TEXT ID="3takesodium3_one">
+		<TEXTVALUE>Using the spatula take some Sodium Carbonate from the watch glass.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit2">
+	<TEXT ID="4putit2_one">
+		<TEXTVALUE>Transfer the contents into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8naoch">
+	<TEXT ID="8naoch_one">
+		<TEXTVALUE>Take the solution of NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom6">
+	<TEXT ID="11zoom6_one">
+		<TEXTVALUE>Pour some of it into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+
+<SCENE ID="11zoom61">
+	<TEXT ID="11zoom61_one">
+		<TEXTVALUE>Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>Take few drops of Phenolphthalein from the bottle using its dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colour">
+	<TEXT ID="colour_one">
+		<TEXTVALUE>Pour a few drops into the test tube and note the change in colour.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colou2">
+	<TEXT ID="colou2_one">
+		<TEXTVALUE>The colour of the solution turns pink. Both Na2CO3 and NaOH are alkalis, so they do not react but form alkaline sol. Phenolphthalein produces a pink colour in alkaline medium.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="colou2_last_b1">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	
+</SCENE> 
+</DATA>

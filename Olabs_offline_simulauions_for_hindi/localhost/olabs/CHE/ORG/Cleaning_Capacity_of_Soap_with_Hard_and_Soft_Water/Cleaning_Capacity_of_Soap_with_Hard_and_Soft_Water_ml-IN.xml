@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_1">
+	<TEXTVALUE>കഠിന  മൃദു ജലവുമായുള്ള  സോപ്പിൻ്റെ ശുചീകരണക്ഷമത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_2">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab0">
+	<TEXT ID="Lab0_one">
+	<TEXTVALUE>ബീക്കറുകൾ, സോപ്പ് കഷണങ്ങൾ, തുണിക്കഷണങ്ങൾ, ശുദ്ധജലം, കിണറ് ജലം, 50 മി.ലി. അളവ് സിലിണ്ടർ, 10മി.ലി. അളവ് സിലിണ്ടർ, അളവ് സ്കെയിൽ, ടെസ്റ്റൃൂബുകൾ, ഗ്ലാസ്സ് റോഡുകൾ, മഷി, കാൽസ്യം  ക്ലോറൈഡ്, ബെൺസൺബെർണർ തുടങ്ങിയ വസ്തുക്കൾ നമുക്ക് ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_3">
+	<TEXTVALUE>സോപ്പ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_4">
+	<TEXTVALUE>തുണിക്കഷണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_5">
+	<TEXTVALUE>ശുദ്ധീകരിച്ചജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_6">
+	<TEXTVALUE>കിണർജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_string_7">
+	<TEXTVALUE>മഷി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_8">
+	<TEXTVALUE>കാൽസൃംക്ലോറൈഡ്[2g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_9">
+	<TEXTVALUE>ബീക്കറുകൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_10">
+	<TEXTVALUE>സോപ്പ്കഷണങ്ങൾ[1g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_11">
+	<TEXTVALUE>തുണിക്കഷണങ്ങൾ 
+(5 cm x 5 cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_12">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_13">
+	<TEXTVALUE>കിണർജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_14">
+	<TEXTVALUE>അളവ് സിലിണ്ടർ
+ 50ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_15">
+	<TEXTVALUE>അളവ് സിലിണ്ടർ
+ 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_16">
+	<TEXTVALUE>ടെസ്റ്റൃൂബുകൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_17">
+	<TEXTVALUE>അളവ് സ്കെയിൽ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_18">
+	<TEXTVALUE>മഷി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_19">
+	<TEXTVALUE>കാൽസൃംക്ലോറൈഡ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_20">
+	<TEXTVALUE>ബൺസൺബർണർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_21">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡുകൾ</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>അളവ് സിലിണ്ടറിലെ ശുദ്ധീകരിച്ച ജലം 20 മി.ലി. അളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>ഇത് ബീക്കർ 'A' യിലേക്ക് ഒഴിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>കിണർ ജലം അടങ്ങിയ ബീക്കർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 20 മി.ലി. കിണർ ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_str_b1">
+	<TEXTVALUE>കിണർജലം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>ബീക്കർ 'B'യിലേക്ക് ഇത് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>വീണ്ടും അളവ് സിലിണ്ടറിൽ 20 മി.ലി. ശുദ്ധീകരിച്ച ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>വീണ്ടും അളവ് സിലിണ്ടറിൽ 20 മി.ലി. ശുദ്ധീകരിച്ച ജലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>ഇത് ബീക്കർ 'C'യിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>2 ഗ്രാം കാൽസ്യം  ക്ലോറൈഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കർ 'C'യിലേക്ക് ഇത് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>കാൽസ്യം ക്ലോറൈഡ് ലയിക്കുന്നത് വരെ ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് മിശ്രിതം നന്നായി ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_str_b2">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ്‌ </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>മൂന്ന് സോപ്പ് കഷണങ്ങൾ എടുക്കുക. ഓരോന്നും 1ഗ്രാം അളന്ന് തിട്ടപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>സോപ്പ് കഷണം ഓരോന്നും യഥാക്രമം 'A,B,C' ബീക്കറുകളിലേക്ക് ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_two">
+	<TEXTVALUE>മൂന്ന ഗ്ലാസ്സ് റോഡ് എടുക്കുക. ഓരോ ബീക്കറിലും ഓരോ ഗ്ലാസ്സ് റോഡ് ഇടുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>സോപ്പ് ലയിച്ചു എന്ന് ഉറപ്പ് വരുത്തുന്നതിന് വേണ്ടി ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>ഒരു പക്ഷെ സോപ്പ് പൂർണ്ണമായി ലയിച്ചില്ലെങ്കിൽ ബീക്കർ എടുക്കുക, അത് ബെൺസൺബർണറിന് പുറത്ത് വെക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_two">
+	<TEXTVALUE>ബീക്കർ സാവധാനം ചൂടാക്കുക, അപ്പോൾ ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>മറ്റ് രണ്ട് ബീക്കറുകൾക്ക് വേണ്ടി  ഇതേ ഘട്ടങ്ങൾ ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>മറ്റ് രണ്ട് ബീക്കറുകൾക്ക് വേണ്ടി  ഇതേ ഘട്ടങ്ങൾ ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>മൂന്ന് ടെസ്റ്റൃൂബുകൾ 'A B C' എന്ന് പേര് എഴുതിയത് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>സോപ്പ് ലായനി അടങ്ങിയ ബീക്കർ 'A' എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറിൽ 10 മി.ലി. സോപ്പ് ലായനി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് 'A' യിലേക്ക് ഇത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് 'A' യിലേക്ക് ഇത് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>ഇതുപോലെ വ്യത്യസ്തമായ  അളവ് സിലിണ്ടറുകൾ  ഉപയോഗിച്ച്  10മി.ലി  സോപ്പ് ലായനി ബീക്കർ 'B'യിൽ നിന്നും ടെസ്റ്റൃൂബ് 'B' യിലേക്ക് ഒഴിക്കുക. ബീക്കർ 'C' യിൽ നിന്ന് ടെസ്റ്റൃൂബ് 'C' യിലേക്കും ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab25_two">
+	<TEXTVALUE>രോ ടെസ്റ്റൃൂബിലേയും  സോപ്പ് ലായനിയുടെ പ്രാരംഭ ഘട്ട   നീളം ഒരു അളവ് സ്കെയിൽ ഉപയോഗിച്ച് നിർണയിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_str_b3">
+	<TEXTVALUE>അളവ് സ്കെയിൽ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="lab26chart">
+	<TEXT ID="lab26chart_one">
+	<TEXTVALUE>റീഡിംഗുകൾ രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_1">
+	<TEXTVALUE>സോപ്പ് ലായനി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_2">
+	<TEXTVALUE>സോപ്പ് ലായനിയുടെ 
+പ്രാഥമിക നീളം(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_3">
+	<TEXTVALUE>പത ഉണ്ടായതിൻ്റെ
+നീളം(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_4">
+	<TEXTVALUE>സോപ്പ്ലായനിയുടെ 
+അവസാന നീളം(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_5">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് A ലെ മൃദുജലത്തോ
+ടൊപ്പമുള്ള ശുദ്ധീകരിച്ചജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_6">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് B യിലെ കഠിന
+ജലത്തോടൊപ്പമുള്ള കിണർജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_7">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് B യിലെ കഠിന
+ജലത്തോടൊപ്പമുള്ള കിണർജലം</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab27">
+	<TEXT ID="Lab27_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് 'A'എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab28">
+	<TEXT ID="Lab28_one">
+	<TEXTVALUE>കൈ ഉപയോഗിച്ച് ടെസ്റ്റൃൂബ് ഉയർത്തിപ്പിടിച്ചിട്ട് തള്ള വിരൽ കൊണ്ട്  അതിന്റെ  വായ് ഭാഗം അടച്ചു പിടിക്കുക. 10 പ്രാവശ്യം  മുകളിലേക്കും താഴേക്കും പിടിച്ചുകൊണ്ട് കുലുക്കുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab29">
+	<TEXT ID="Lab29_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബിൽ ഒരു ആവരണം രൂപപ്പെടുന്നതായി നിങ്ങളുടെ  ശ്രദ്ധയിൽപ്പെടുന്നു.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab292">
+	<TEXT ID="Lab292_one">
+	<TEXTVALUE>മറ്റ് രണ്ട് ടെസ്റ്റൃൂബിലും  ഇതേ ഘട്ടം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab292_two">
+	<TEXTVALUE>സോപ്പ് പതയുടെ (ആവരണം) നീളം അളക്കുക,ഓരോ ടെസ്റ്റൃൂബിലേയും സോപ്പ് ലായനിയുടെ അവസാന നീളവും അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="lab30chart2">
+	<TEXT ID="lab30chart2_one">
+	<TEXTVALUE>ടെസ്റ്റൃൂബ് 'A' യിലെ സോപ്പ് ലായനിക്ക്   കൂടുതൽ സോപ്പ് പതയുടെ നീളം ഉണ്ടാകുന്നു. 'B' ടെസ്റ്റൃൂബിലെ ലായനിക്ക്  പതയുടെ നീളം കുറവാണ്. ടെസ്റ്റൃൂബ് 'C' ലായനിയുടെ  പതക്ക് ശരാശരി നീളം ഉണ്ട്. </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab31">
+	<TEXT ID="Lab31_one">
+	<TEXTVALUE>ഒരു ഇഷ്ടിക(ഓട്) എടുക്കുക, മൂന്ന് വെള്ള  തുണിക്കഷണങ്ങൾ അതിലേക്ക് ഇടുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab31_ab_1">
+	<TEXTVALUE>ടൈൽ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab32">
+	<TEXT ID="Lab32_one">
+	<TEXTVALUE>ഓരോ തുണിയുടേയും മധ്യഭാഗത്തായി  ഒരു തുള്ളി മഷി ഇറ്റിക്കുക, അത് ഉണങ്ങാൻ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Lab32_clc_1">
+	<TEXTVALUE>10 മിനുട്ട്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab33">
+	<TEXT ID="Lab33_one">
+	<TEXTVALUE>ഇഷ്ടികയിൽ നിന്നും തുണിക്കഷണങ്ങൾ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab34">
+	<TEXT ID="Lab34_one">
+	<TEXTVALUE>ഒരു തുണിക്കഷണം മഷിത്തുള്ളിയിൽ മുക്കി  സോപ്പ് ലായനി 'A'യിൽ  താഴ്ത്തുക. അതുപോലെ അടുത്ത തുണിക്കഷണം ലായനി'B'യിലും അടുത്തത് ലായനി 'C'യിലും താഴ്ത്തുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab34_two">
+	<TEXTVALUE>ഈ ബീക്കറുകൾ 10 മിന്നിട്ട് നേരം അനക്കാതെ വെക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab35">
+	<TEXT ID="Lab35_one">
+	<TEXTVALUE>ബീക്കറുകളിൽ നിന്നും തുണിക്കഷണം മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab361">
+	<TEXT ID="Lab361_one">
+	<TEXTVALUE>ഓരോ കഷണവും ഉരസുക.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab36">
+	<TEXT ID="Lab36_one">
+	<TEXTVALUE>ലായനി 'A'യിൽ മുങ്ങിക്കിടന്ന  തുണിയിലെ  മഷിത്തുള്ളി മിക്കവാറും അപ്രത്യക്ഷമായി. ലായനി 'B' യിൽ മുക്കിയത് ഭാഗീകമായി അപ്രത്യക്ഷമായി.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab36_two">
+	<TEXTVALUE>സോപ്പ് ലായനി 'C'യിൽ മുക്കിയ തുണിക്കഷണത്തിലെ മഷിത്തുള്ളിയുടെ നിറത്തിന് യാതൊരു വൃത്യാസവും വരുന്നില്ല.കുറച്ച് പത(നുര) മാത്രം തുണിക്കഷണത്തിന്റെ  പ്രതലത്തിൽ കാണുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab38chart3">
+	<TEXT ID="lab38chart3_one">
+	<TEXTVALUE>സോപ്പ് ജലത്തിനും ശുദ്ധീകരണ ജലത്തിനും (മൃദുജലം)  ശുചീകരണ ക്ഷമത വളരെ കൂടുതൽ ആണ് എന്ന്ഇതിൽ നിന്ന് നിരീക്ഷിക്കാൻ സാധിക്കുന്നു. സോപ്പ് ലായനിയും(കട്ടിയുള്ള ജലം) കിണറിലെ ജലവും മൃദുജലത്തേക്കാൾ കുറഞ്ഞ ശുചീകരണക്ഷമതയാണ് ഉള്ളത് .</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_two">
+	<TEXTVALUE>കാൽസ്യം  ക്ലോറൈഡ് അലിഞ്ഞു ചേർന്ന സോപ്പ് ലായനിയ്ക്കും  ശുദ്ധീകരണ ജലത്തിനും  കുറഞ്ഞ ശുചീകരണ ക്ഷമതയാണ് കാണുന്നത്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_1">
+	<TEXTVALUE>പരമാവധി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_2">
+	<TEXTVALUE>കൂടുതൽ ശുചീകരണക്ഷമത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_3">
+	<TEXTVALUE>കുറഞ്ഞനീളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_4">
+	<TEXTVALUE>മൃദുജലത്തേക്കാൾ കുറഞ്ഞ
+ശുചീകരണക്ഷമത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_5">
+	<TEXTVALUE>കുറഞ്ഞ നീളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_6">
+	<TEXTVALUE>കുറഞ്ഞ ശുചീകരണക്ഷമത</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_las_1">
+	<TEXTVALUE>പുറകോട്ട്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_fin_1">
+	<TEXTVALUE>ശുചീകരണക്ഷമത</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+</DATA>

@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\n"
+"POT-Creation-Date: 2014-05-15 12:20+0530\n"
+"PO-Revision-Date: 2016-06-13 12:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Study the Shift in Equilibrium between [Co(H₂O)₆] ²⁺ and Cl⁻ ions"
+msgstr "[Co(H₂O)₆] ²⁺ നും Cl⁻ അയോണുകൾക്കും ഇടയിലുള്ള സന്തുലിതാവസ്ഥയിലെ മാറ്റം പഠിക്കുക"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "സഹായം"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "ഫുൾസ്ക്രീൻ"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "പുറത്ത്"
+
+#: simcontrols.js:14
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+msgid "Alert"
+msgstr "മുന്നറിയിപ്പ്"
+
+msgid "Do you want to reset the simulation"
+msgstr "സിമുലേഷൻ പുനഃസജ്ജമാക്കണോ?"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "No"
+msgstr "ഇല്ല"
+
+msgid "RESET"
+msgstr "റീസെറ്റ്"
+
+msgid "MAXIMIZE"
+msgstr "വലുതാക്കുക"
+
+msgid "MINIMIZE"
+msgstr "ചെറുതാക്കുക"
+
+msgid "HELP"
+msgstr "സഹായം"
+
+# Malayalam Translations
+msgid "Study of equilibrium shift when adding water"
+msgstr "വെള്ളം ചേർക്കുമ്പോൾ സന്തുലിതാവസ്ഥയുടെ മാറ്റത്തിന്റെ പഠനം"
+
+msgid "Study of equilibrium shift when adding Cl<sup>–</sup> ion"
+msgstr "Cl<sup>–</sup> അയോൺ ചേർക്കുമ്പോൾ സന്തുലിതാവസ്ഥയുടെ മാറ്റത്തിന്റെ പഠനം"
+
+msgid "Volume of CoCl<sub>2</sub> solution"
+msgstr "CoCl<sub>2</sub> ലായനിയുടെ അളവ്"
+
+msgid "Volume of Acetone"
+msgstr "അസെറ്റോണിന്റെ അളവ്"
+
+msgid "Volume of Water"
+msgstr "വെള്ളത്തിന്റെ അളവ്"
+
+msgid "Volume of CoCl<sub>2</sub> solution "
+msgstr "CoCl<sub>2</sub> ലായനിയുടെ അളവ്"
+
+msgid "Volume of CoCl<sub>2</sub>+ Water"
+msgstr "CoCl<sub>2</sub> + വെള്ളത്തിന്റെ അളവ്"
+
+msgid "Volume of Conc.HCl"
+msgstr "Conc.HCl-ന്റെ അളവ്"
+
+# Malayalam Translations
+msgid "Drag and drop Cobalt Chloride<br> solution to test tubes A,B,C,D and E respectively(3 ml each)."
+msgstr "കോബാൾട്ട് ക്ലോറൈഡ്<br> ലായനിയെ ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് A, B, C, D, E എന്നിവയിലേക്ക് വലിച്ചിടുക (ഓരോന്നിനും 3 മില്ലി)."
+
+msgid "Drag and drop 3ml of Cobalt Chloride<br> solution to test tube B"
+msgstr "3 മില്ലി കോബാൾട്ട് ക്ലോറൈഡ്<br> ലായനിയെ ടെസ്റ്റ് ട്യൂബ് B-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop 3ml of Cobalt Chloride<br> solution to test tube C"
+msgstr "3 മില്ലി കോബാൾട്ട് ക്ലോറൈഡ്<br> ലായനിയെ ടെസ്റ്റ് ട്യൂബ് C-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop 3ml of Cobalt Chloride<br> solution to test tube D"
+msgstr "3 മില്ലി കോബാൾട്ട് ക്ലോറൈഡ്<br> ലായനിയെ ടെസ്റ്റ് ട്യൂബ് D-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop 3ml of Cobalt Chloride<br> solution to test tube E"
+msgstr "3 മില്ലി കോബാൾട്ട് ക്ലോറൈഡ്<br> ലായനിയെ ടെസ്റ്റ് ട്യൂബ് E-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Click on the cap of the<br> Acetone bottle to open it"
+msgstr "അസെറ്റോൺ കുപ്പി തുറക്കാൻ<br> അതിന്റെ തൊപ്പിയിൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Drag and drop<br> Acetone to test tubes <br>A,B,C,D and E respectively "
+msgstr "അസെറ്റോൺ<br> ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് <br>A, B, C, D, E എന്നിവയിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.8 ml of Acetone <br>to test tube B"
+msgstr "0.8 മില്ലി അസെറ്റോൺ<br> ടെസ്റ്റ് ട്യൂബ് B-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.6 ml of Acetone <br>to test tube C"
+msgstr "0.6 മില്ലി അസെറ്റോൺ<br> ടെസ്റ്റ് ട്യൂബ് C-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.4 ml of Acetone <br>to test tube D"
+msgstr "0.4 മില്ലി അസെറ്റോൺ<br> ടെസ്റ്റ് ട്യൂബ് D-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.2 ml of Acetone <br>to test tube E"
+msgstr "0.2 മില്ലി അസെറ്റോൺ<br> ടെസ്റ്റ് ട്യൂബ് E-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> Water to test tubes <br>B,C,D and E respectively "
+msgstr "വെള്ളം<br> ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് <br>B, C, D, E എന്നിവയിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.4 ml of water <br>to test tube C"
+msgstr "0.4 മില്ലി വെള്ളം<br> ടെസ്റ്റ് ട്യൂബ് C-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.6 ml of water <br>to test tube D"
+msgstr "0.6 മില്ലി വെള്ളം<br> ടെസ്റ്റ് ട്യൂബ് D-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 0.8 ml of water <br>to test tube E"
+msgstr "0.8 മില്ലി വെള്ളം<br> ടെസ്റ്റ് ട്യൂബ് E-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Click on the Inference button"
+msgstr "നിഗമന ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Click on the Next button"
+msgstr "അടുത്ത ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Drag and drop 10 mL of Cobalt <br>Chloride solution in test tube X"
+msgstr "10 മില്ലി കോബാൾട്ട് <br>ക്ലോറൈഡ് ലായനിയെ ടെസ്റ്റ് ട്യൂബ് X-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop 5 mL<br> distilled water to <br>test tube X"
+msgstr "5 മില്ലി<br> ശുദ്ധജലം <br>ടെസ്റ്റ് ട്യൂബ് X-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop <br>the solution in<br> test tube X to<br> test tubes A, B,<br> C, D and E,<br> resp(1.5 ml each)."
+msgstr "ടെസ്റ്റ് ട്യൂബ് X-ലെ <br>ലായനിയെ<br> ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് <br>A, B, C, D, E എന്നിവയിലേക്ക്<br> വലിച്ചിടുക (ഓരോന്നിനും 1.5 മില്ലി)."
+
+msgid "Drag and drop<br> Water to test tubes <br>A,B,C and D respectively "
+msgstr "വെള്ളം<br> ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് <br>A, B, C, D എന്നിവയിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 1.5 ml of water to<br> test tube B"
+msgstr "1.5 മില്ലി വെള്ളം<br> ടെസ്റ്റ് ട്യൂബ് B-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop <br>1 ml of water to<br> test tube C"
+msgstr "1 മില്ലി വെള്ളം <br>ടെസ്റ്റ് ട്യൂബ് C-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop 0.5 ml of<br> water to test tube D"
+msgstr "0.5 മില്ലി<br> വെള്ളം ടെസ്റ്റ് ട്യൂബ് D-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop<br> conc. HCl to test tubes <br>A,B,C,D and E respectively"
+msgstr "conc. HCl<br> ടെസ്റ്റ് ട്യൂബുകളിലേക്ക് <br>A, B, C, D, E എന്നിവയിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop<br> 1 ml of conc. HCl to<br> test tube B"
+msgstr "1 മില്ലി<br> conc. HCl ടെസ്റ്റ് ട്യൂബ് B-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop <br>1.5 ml of conc. HCl<br> to test tube C"
+msgstr "1.5 മില്ലി <br>conc. HCl<br> ടെസ്റ്റ് ട്യൂബ് C-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop <br>2 ml of conc. HCl to <br>test tube D"
+msgstr "2 മില്ലി <br>conc. HCl ടെസ്റ്റ് ട്യൂബ് D-ലേക്ക് <br>വലിച്ചിടുക"
+
+msgid "Drag and drop <br>2.5 ml of conc. HCl<br> to test tube E"
+msgstr "2.5 മില്ലി <br>conc. HCl<br> ടെസ്റ്റ് ട്യൂബ് E-ലേക്ക് വലിച്ചിടുക"
+
+msgid "Click on the Reset<br> button to redo the<br> experiment."
+msgstr "പരീക്ഷണം വീണ്ടും ചെയ്യാൻ<br> റീസെറ്റ് ബട്ടണിൽ<br> ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Addition of H<sub>2</sub>O in Cobalt Chloride solution<br> (60mL of Acetone + 0.600 g of Cobalt Chloride)<br> results in the formation of Pink colour"
+msgstr "കോബാൾട്ട് ക്ലോറൈഡ് ലായനിയിൽ H<sub>2</sub>O ചേർക്കുന്നത്<br> (60 മില്ലി അസെറ്റോൺ + 0.600 ഗ്രാം കോബാൾട്ട് ക്ലോറൈഡ്)<br> പിങ്ക് നിറം ഉണ്ടാക്കുന്നു"
+
+msgid "Addition of HCl results in the colour <br>change of solution to light blue."
+msgstr "HCl ചേർക്കുന്നത് ലായനിയുടെ നിറം <br>നീലയായി മാറ്റുന്നു."
+
+# Malayalam Translations
+msgid "Handle Acetone with care since it is flammable."
+msgstr "അസെറ്റോൺ ജ്വലനക്ഷമമായതിനാൽ ശ്രദ്ധയോടെ കൈകാര്യം ചെയ്യുക."
+
+msgid "Next"
+msgstr "<empty class="pxdot8">അടുത്തത്</empty>"
+
+msgid "Use conc. HCl carefully."
+msgstr "conc. HCl ശ്രദ്ധയോടെ ഉപയോഗിക്കുക."

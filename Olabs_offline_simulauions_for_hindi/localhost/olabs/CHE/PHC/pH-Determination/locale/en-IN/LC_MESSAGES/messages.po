@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2014-05-15 12:49+0530\n"
+"PO-Revision-Date: 2014-05-15 12:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: h\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:10
+msgid "Determination of pH"
+msgstr "Determination of pH"
+
+#: simcontrols.js:11
+msgid "SAVE"
+msgstr "SAVE"
+
+#: simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:13
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:14
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: simcontrols.js:16
+msgid "ACIDIC"
+msgstr "ACIDIC"
+
+#: simcontrols.js:16
+msgid "NEUTRAL"
+msgstr "NEUTRAL"
+
+#: simcontrols.js:16
+msgid "BASIC"
+msgstr "BASIC"
+
+#: simcontrols.js:16
+msgid "Universal Indicator"
+msgstr "Universal Indicator"
+
+#: simcontrols.js:17
+msgid "Lemon juice"
+msgstr "Lemon juice"
+
+#: simcontrols.js:17
+msgid "Tomato juice"
+msgstr "Tomato juice"
+
+#: simcontrols.js:17
+msgid "Orange juice"
+msgstr "Orange juice"
+
+#: simcontrols.js:17
+msgid "Pineapple juice"
+msgstr "Pineapple juice"
+
+#: simcontrols.js:17
+msgid "Amla juice"
+msgstr "Amla juice"
+
+#: simcontrols.js:17
+msgid " Mango juice"
+msgstr " Mango juice"
+
+#: simcontrols.js:17
+msgid "Common salt"
+msgstr "Common salt"
+
+#: simcontrols.js:17
+msgid "Sugar"
+msgstr "Sugar"
+
+#: simcontrols.js:17
+msgid " Baking soda"
+msgstr " Baking soda"
+
+#: simcontrols.js:17
+msgid " Milk"
+msgstr " Milk"
+
+#: simcontrols.js:17
+msgid "Vinegar"
+msgstr "Vinegar"
+
+#: simcontrols.js:17
+msgid "Butter milk"
+msgstr "Butter milk"
+
+#: simcontrols.js:17
+msgid "Bleaching powder"
+msgstr "Bleaching powder"
+
+#: simcontrols.js:17
+msgid "Washing soda"
+msgstr "Washing soda"
+
+#: simcontrols.js:17
+msgid "Milk of magnesia"
+msgstr "Milk of magnesia"
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the solution to suck it and drop it over the "
+"strip to pour the solution."
+msgstr ""
+"Drag the dropper and dip into the solution to suck it and drop it over the "
+"strip to pour the solution."
+
+#: simcontrols.js:21
+msgid "Drag the dropper to the sample solution to add universal indicator."
+msgstr "Drag the dropper to the sample solution to add universal indicator."
+
+#: simcontrols.js:21
+msgid ""
+"This dropper cannot be used now, as the universal indicator has already been "
+"poured."
+msgstr ""
+"This dropper cannot be used now, as the universal indicator has already been "
+"poured."
+
+#: simcontrols.js:21
+msgid "Click any one of the beaker to start the experiment."
+msgstr "Click any one of the beaker to start the experiment."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the "
+"universal indicator dropper to drop it into the sample solution."
+msgstr ""
+"Drag the dropper and dip into the sample solution to suck it. Or drag the "
+"universal indicator dropper to drop it into the sample solution."
+
+#: simcontrols.js:21
+msgid "Click on the strips to select."
+msgstr "Click on the strips to select."
+
+#: simcontrols.js:21
+msgid ""
+"Drag the colour strip to the sample solution or indicator strip to identify "
+"the pH."
+msgstr ""
+"Drag the colour strip to the sample solution or indicator strip to identify "
+"the pH."
+
+#: simcontrols.js:21
+msgid "Click on the information icon to see the inference."
+msgstr "Click on the information icon to see the inference."
+
+#: simcontrols.js:21
+msgid "Litmus paper"
+msgstr "Litmus paper"
+
+#: simcontrols.js:24
+msgid "Vegetable & fruit juice"
+msgstr "Vegetable & fruit juice"
+
+#: simcontrols.js:25
+msgid "House hold items"
+msgstr "House hold items"
+
+#: simcontrols.js:26
+msgid "Acids & bases in the lab"
+msgstr "Acids & bases in the lab"
+
+#: simcontrols.js:27
+msgid "Salts in water"
+msgstr "Salts in water"
+
+#: simcontrols.js:28
+msgid "Select the aqueous solution:"
+msgstr "Select the aqueous solution:"
+
+#: simcontrols.js:29
+msgid "Click on any one of the sample solution to start the experiment "
+msgstr "Click on any one of the sample solution to start the experiment "
+
+#: simcontrols.js:34
+msgid "Reset"
+msgstr "Reset"

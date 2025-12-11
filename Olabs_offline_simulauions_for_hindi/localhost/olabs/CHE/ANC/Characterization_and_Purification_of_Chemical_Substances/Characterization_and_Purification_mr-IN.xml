@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+		<TEXTVALUE>प्रयोग सुरू करण्यासाठी ‘सुरू’ बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!-- Interactive_scenes-->
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>द्रावण कसे बनविले जाते ह्याचा अभ्यास करण्यासाठी एका द्रावणावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>प्रयोग निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- To Prepare the crystals of Pure Copper Sulphate -->
+
+<SCENE ID="Title11">
+	<TEXT ID="Title11_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionS1">
+	<TEXT ID="IntroductionS1_one">
+	<TEXTVALUE>आवश्यक सामग्री: कॉपर सल्फेटचा अशुद्ध नमूना, विरल सल्फ्युरिक आम्ल, अल्कोहोल, ऊर्ध्वपतित पाणी, चंचुपात्रे, मापन नळकांडे, स्पाट्युला, काचेचा रॉड, चायना ताटली, नरसाळे, फिल्टर कागद, क्लांप असलेला लोखंडी स्टँड, स्फटिकीकरण ताटली, द्रोण, वाळू, तार गोझ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IntroductionS1_two">
+	<TEXTVALUE> तिवई, बन्सेन बर्नर इ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarBkrS2">
+	<TEXT ID="Wtr2jarBkrS2_one">
+	<TEXTVALUE>एका मापन नळकांड्यात ३० मिली ऊर्ध्वपतित पाणी घ्या आणि एका स्वच्छ चंचुपात्रात टाका</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarBkrS2_two">
+	<TEXTVALUE>एका चंचुपात्रात टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperinSpoonS3">
+	<TEXT ID="CopperinSpoonS3_one">
+	<TEXTVALUE>स्पाट्युला वापरून कॉपर सल्फेट पावडरचा थोडासा अशुद्ध नमूना घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Copper2bkrS4">
+	<TEXT ID="Copper2bkrS4_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात कॉपर सल्फेट टाका.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Glassrod2bkrS5">
+	<TEXT ID="Glassrod2bkrS5_one">
+	<TEXTVALUE>काचेचा रॉड वापरून चंचुपात्रातले द्रावण नीट ढवळा जोपर्यंत कॉपर सल्फेट विरघळत नाही.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirCopperS6">
+	<TEXT ID="StirCopperS6_one">
+	<TEXTVALUE>काचेचा रॉड वापरून चंचुपात्रातले द्रावण नीट ढवळा जोपर्यंत कॉपर सल्फेट विरघळत नाही.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StirCopperS6_two">
+	<TEXTVALUE>थोडी थोडी नमुन्याची पावडर टाकत जा आणि ढवळत रहा. खूप वेळ ढवळून सुद्धा काही कण विरघळत नाही तो पर्यन्त ही क्रिया करा. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="GlassrodbakS7">
+	<TEXT ID="GlassrodbakS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SulphuricBottleS8">
+	<TEXT ID="SulphuricBottleS8_one">
+	<TEXTVALUE>दुसर्या  मापन नळकांड्यात ५ मिली विरल सल्फ्युरिक आम्ल घ्या.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SulphuricBottleS8_two">
+	<TEXTVALUE>दुसर्या  मापन नळकांड्यात ५ मिली विरल सल्फ्युरिक आम्ल घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourSulphuricS9">
+	<TEXT ID="PourSulphuricS9_one">
+	<TEXTVALUE>दुसर्या  मापन नळकांड्यात ५ मिली विरल सल्फ्युरिक आम्ल घ्या.नरसाळ्यात फिल्टर कागद ठेवा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_two">
+	<TEXTVALUE>ह्याला कॉपर सल्फेटचे सम्पृक्त द्रावण असलेल्या चंचुपात्रात टाका आणि काचेच्या रॉडने ढवळा. तुम्हाला दिसेल की सल्फ्युरिक आम्ल टाकल्यामुळे कॉपर सल्फेटचा रंग पारदर्शी होतो आणि कॉपर सल्फेटचे जलीय अपघटन होत नाही.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_three">
+	<TEXTVALUE>तुम्हाला दिसेल की सल्फ्युरिक आम्ल टाकल्यामुळे कॉपर सल्फेटचा रंग पारदर्शी होतो आणि कॉपर सल्फेटचे जलीय अपघटन होत नाही.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="DishFunnel2StandS10">
+	<TEXT ID="DishFunnel2StandS10_one">
+	<TEXTVALUE>चायना ताटली घ्या आणि स्टँडच्या खाली ठेवा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PaperRodBkr2StandS11">
+	<TEXT ID="PaperRodBkr2StandS11_one">
+	<TEXTVALUE>नरसाळे घ्या आणि स्टँडला लावा. नरसाळ्याची काडी चंचुपात्राच्या भिंतीला चिकटली पाहिजे म्हणजे द्रावणाचे शिंतोडे उडणार नाही. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PaperRodBkr2StandS11_two">
+	<TEXTVALUE>नरसाळ्यावर फिल्टर कागद ठेवा 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolutionFilterS12">
+	<TEXT ID="SolutionFilterS12_one">
+	<TEXTVALUE>नरसाळ्यावर काचेचा रॉड ठेवा आणि त्यारून नरसाळ्यात द्रावण ओता, आणि गळण चायना ताटलीत एकत्र करा. अविद्राव्य अशुद्धता फिल्टर कागदावर मागे राहते
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SandbathS13">
+	<TEXT ID="SandbathS13_one">
+	<TEXTVALUE>चायना ताटलीतले द्रावण वाळूच्या कुंडावर ठेवून गरम करा आणि ढवळत रहा म्हणजे ताटलीच्या कडेशी थर जमणार नाही. (ताटलीतले द्रावण उकळू देऊ नका.) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirSolutionCloseS14">
+	<TEXT ID="StirSolutionCloseS14_one">
+	<TEXTVALUE>चायना ताटलीतले द्रावण वाळूच्या कुंडावर ठेवून गरम करा आणि ढवळत रहा म्हणजे ताटलीच्या कडेशी थर जमणार नाही. (ताटलीतले द्रावण उकळू देऊ नका.)</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="LineDrawS15">
+	<TEXT ID="LineDrawS15_one">
+	<TEXTVALUE>सुरवातीच्या आकारमानाचे एक-तृतीयांश आकारमान होईपर्यंत द्रावण गरम करा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalinRodS16">
+	<TEXT ID="CopperCrystalinRodS16_one">
+	<TEXTVALUE>काचेचा रॉड वापरून द्रावणाचा एक थेंब घ्या आणि फुंकर मारून थंड करा.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_two">
+	<TEXTVALUE>काचेचा रॉड वापरून द्रावणाचा एक थेंब घ्या आणि फुंकर मारून थंड करा.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_three">
+	<TEXTVALUE>रॉड वर छोटी स्फटिके दिसतात म्हणजे स्फटिकीकरण बिन्दु साध्य झाला आहे.
+    </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Sol2Dish2ColdwatrS17">
+	<TEXT ID="Sol2Dish2ColdwatrS17_one">
+	<TEXTVALUE>आता बर्नर बंद करा आणि गरम द्रावण एका स्फटिकीकरण ताटलीत ओता.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sol2Dish2ColdwatrS17_two">
+	<TEXTVALUE>गरम द्रावण असलेली स्फटिकीकरण ताटली एका अर्धे भरलेल्या थंड पाण्याच्या कुंडात ठेवा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalsS18">
+	<TEXT ID="CopperCrystalsS18_one">
+	<TEXTVALUE>थोडा वेळ त्याला हळू हळू थंड होऊ दे. गडद नीळी स्फटिके दिसतील. सुमारे अर्ध्या तासाने स्फटिकीकरण पूर्ण होईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Dish2BkrS19">
+	<TEXT ID="Dish2BkrS19_one">
+	<TEXTVALUE>शेष द्रावण काळजीपूर्वक चंचुपात्रात निवळून घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourWtr2BkrS20">
+	<TEXT ID="PourWtr2BkrS20_one">
+	<TEXTVALUE>शेष द्रावण काळजीपूर्वक चंचुपात्रात निवळून घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WashCrystal2FilterpaperS21">
+	<TEXT ID="WashCrystal2FilterpaperS21_one">
+	<TEXTVALUE>थोडे इथाइल अल्कोहोल आणि थोडे थंड पाणी अशा मिश्रणानी स्फटिके धुवा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WashCrystal2FilterpaperS21_two">
+	<TEXTVALUE>स्फटिके फिल्टर कागदावर काढा म्हणजे कागद द्रावण शोषून घेईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="DryCrystals2TtubeS22">
+	<TEXT ID="DryCrystals2TtubeS22_one">
+	<TEXTVALUE>स्फटिके दुसर्याक फिल्टर कागदावर ठेवा आणि अजून एक फिल्टर कागद त्यावर दाबून कोरडे करा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DryCrystals2TtubeS22_two">
+	<TEXTVALUE>स्फटिके कोरड्या परिक्षा नळीत टाका आणि नळीला बूच लावा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultS23">
+	<TEXT ID="ResultS23_one">
+	<TEXTVALUE>कॉपर सल्फेटची स्फटिके पारदर्शी, निळी आणि त्रिअक्षी असतात.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- To Prepare the crystals of Pure Alum-->
+
+
+<SCENE ID="TitleAlum">
+	<TEXT ID="TitleAlum_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionAlumS1">
+	<TEXT ID="IntroductionAlumS1_one">
+	<TEXTVALUE>आवश्यक सामग्री: पोटाश तुरटी अशुद्ध नमूना, विरल सल्फ्युरिक आम्ल, अल्कोहोल, ऊर्ध्वपतित पाणी, चंचुपात्रे, मापन नळकांडे, स्पाट्युला, काचेचा रॉड, चायना ताटली, नरसाळे, फिल्टर कागद, क्लांप असलेला लोखंडी स्टँड, स्फटिकीकरण ताटली, द्रोण, वाळू, तार गोझ, तिवई, बन्सेन बर्नर इ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="wtr2jarAlumS2">
+	<TEXT ID="wtr2jarAlumS2_one">
+	<TEXTVALUE>एका मापन नळकांड्यात ३० मिली ऊर्ध्वपतित पाणी घ्या आणि एका स्वच्छ चंचुपात्रात टाका
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="wtr2jarAlumS2_two">
+	<TEXTVALUE>एका मापन नळकांड्यात ३० मिली ऊर्ध्वपतित पाणी घ्या आणि एका स्वच्छ चंचुपात्रात टाका
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealuminspoonS3">
+	<TEXT ID="crudealuminspoonS3_one">
+	<TEXTVALUE>स्पाट्युला वापरून थोडीशी पोटाश तुरटीच्या अशुद्ध नमून्याची पावडर घ्या. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealum2bkrS4">
+	<TEXT ID="crudealum2bkrS4_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात पोटाश तुरटीच्या अशुद्ध  टाका.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spoonglassrodS5">
+	<TEXT ID="spoonglassrodS5_one">
+	<TEXTVALUE>काचेचा रॉड वापरून चंचुपात्रातले द्रावण नीट ढवळा जोपर्यंत कॉपर सल्फेट विरघळत नाही.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodstiralumS6">
+	<TEXT ID="glassrodstiralumS6_one">
+	<TEXTVALUE>काचेचा रॉड वापरून चंचुपात्रातले द्रावण नीट ढवळा जोपर्यंत कॉपर सल्फेट विरघळत नाही.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodbakalumS7">
+	<TEXT ID="GlassrodbakalumS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dishFunnel2standS8">
+	<TEXT ID="dishFunnel2standS8_one">
+	<TEXTVALUE>चायना ताटली घ्या आणि स्टँडच्या खाली ठेवा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="paperodbkr2standS9">
+	<TEXT ID="paperodbkr2standS9_one">
+	<TEXTVALUE>नरसाळे घ्या आणि स्टँडला लावा. नरसाळ्याची काडी चंचुपात्राच्या भिंतीला चिकटली पाहिजे म्हणजे द्रावणाचे शिंतोडे उडणार नाही. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="paperodbkr2standS9_two">
+	<TEXTVALUE>नरसाळ्यावर फिल्टर कागद ठेवा 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="solfiltrateS10">
+	<TEXT ID="solfiltrateS10_one">
+	<TEXTVALUE>नरसाळ्यावर काचेचा रॉड ठेवा आणि त्यारून नरसाळ्यात द्रावण ओता, आणि गळण चायना ताटलीत एकत्र करा. अविद्राव्य अशुद्धता फिल्टर कागदावर मागे राहते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sandbathStirS11">
+	<TEXT ID="sandbathStirS11_one">
+	<TEXTVALUE>चायना ताटलीतले द्रावण वाळूच्या कुंडावर ठेवून गरम करा आणि ढवळत रहा म्हणजे ताटलीच्या कडेशी थर जमणार नाही. (ताटलीतले द्रावण उकळू देऊ नका.)
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="closesandstirS12">
+	<TEXT ID="SclosesandstirS12_one">
+	<TEXTVALUE>चायना ताटलीतले द्रावण वाळूच्या कुंडावर ठेवून गरम करा आणि ढवळत रहा म्हणजे ताटलीच्या कडेशी थर जमणार नाही. (ताटलीतले द्रावण उकळू देऊ नका.)
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="linedrawS13">
+	<TEXT ID="linedrawS13_one">
+	<TEXTVALUE>सुरवातीच्या आकारमानाचे एक-तृतीयांश आकारमान होईपर्यंत द्रावण गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crystalinRodS14">
+	<TEXT ID="crystalinRodS14_one">
+	<TEXTVALUE>काचेचा रॉड वापरून द्रावणाचा एक थेंब घ्या आणि फुंकर मारून थंड करा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_two">
+	<TEXTVALUE>रॉड वर छोटी स्फटिके दिसतात म्हणजे स्फटिकीकरण बिन्दु साध्य झाला आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_three">
+	<TEXTVALUE>रॉड वर छोटी स्फटिके दिसतात म्हणजे स्फटिकीकरण बिन्दु साध्य झाला आहे.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2crydish2ColdwtrS15">
+	<TEXT ID="sol2crydish2ColdwtrS15_one">
+	<TEXTVALUE>आता बर्नर बंद करा आणि गरम द्रावण एका स्फटिकीकरण ताटलीत ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_two">
+	<TEXTVALUE>गरम द्रावण असलेली स्फटिकीकरण ताटली एका अर्धे भरलेल्या थंड पाण्याच्या कुंडात ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_three">
+	<TEXTVALUE>गरम द्रावण असलेली स्फटिकीकरण ताटली एका अर्धे भरलेल्या थंड पाण्याच्या कुंडात ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumcrystalsS16">
+	<TEXT ID="AlumcrystalsS16_one">
+	<TEXTVALUE>थोडा वेळ त्याला हळू हळू थंड होऊ दे. पारदर्शी पोटाश तुरटी दिसतील. सुमारे अर्ध्या तासाने स्फटिकीकरण पूर्ण होईल. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crysdish2bkrS17">
+	<TEXT ID="crysdish2bkrS17_one">
+	<TEXTVALUE>शेष द्रावण काळजीपूर्वक चंचुपात्रात निवळून घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pourMotherliqourS18">
+	<TEXT ID="pourMotherliqourS18_one">
+	<TEXTVALUE>शेष द्रावण काळजीपूर्वक चंचुपात्रात निवळून घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="washCrystal2filterpaperS19">
+	<TEXT ID="washCrystal2filterpaperS19_one">
+	<TEXTVALUE>थोडे इथाइल अल्कोहोल आणि थोडे थंड पाणी अशा मिश्रणानी स्फटिके धुवा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="washCrystal2filterpaperS19_two">
+	<TEXTVALUE>स्फटिके फिल्टर कागदावर काढा म्हणजे कागद द्रावण शोषून घेईल.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dryCrystal2TtubeS20">
+	<TEXT ID="dryCrystal2TtubeS20_one">
+	<TEXTVALUE>स्फटिके दुसर्याक फिल्टर कागदावर ठेवा आणि अजून एक फिल्टर कागद त्यावर दाबून कोरडे करा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dryCrystal2TtubeS20_two">
+	<TEXTVALUE>स्फटिके कोरड्या परिक्षा नळीत टाका आणि नळीला बूच लावा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="resultAlum21">
+	<TEXT ID="resultAlum21_one">
+	<TEXTVALUE>पोटाश तुरटीची स्फटिके रंगहीन, पारदर्शी आणि अष्टपृष्ठक असतात.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<!-- To Purify impure sample of Benzoic Acid-->
+
+
+<SCENE ID="Titlebenzoic3">
+	<TEXT ID="Titlebenzoic3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrobenzoicS1">
+	<TEXT ID="IntrobenzoicS1_one">
+	<TEXTVALUE>आवश्यक सामग्री: अशुद्ध बेंझोइक आम्ल नमूना, विरल सल्फ्युरिक आम्ल, अल्कोहोल, ऊर्ध्वपतित पाणी, चंचुपात्रे, मापन नळकांडे, स्पाट्युला, काचेचा रॉड, चायना ताटली, नरसाळे, फिल्टर कागद, क्लांप असलेला लोखंडी स्टँड, स्फटिकीकरण ताटली, द्रोण, वाळू, तार गोझ, तिवई, बन्सेन बर्नर इ. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarbkrbenzoicS2">
+	<TEXT ID="Wtr2jarbkrbenzoicS2_one">
+	<TEXTVALUE>मापन नळकांड्यात १५० मिली ऊर्ध्वपतित पाणी घ्या आणि ते एका स्वच्छ २५० मिली चंचुपात्रात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_two">
+	<TEXTVALUE>मापन नळकांड्यात १५० मिली ऊर्ध्वपतित पाणी घ्या आणि ते एका स्वच्छ २५० मिली चंचुपात्रात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_three">
+	<TEXTVALUE>बन्सेन बर्नर वर चंचुपात्र ठेवून पाणी उकळू दे.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WtrboilingS3">
+	<TEXT ID="WtrboilingS3_one">
+	<TEXTVALUE>बन्सेन बर्नर वर चंचुपात्र ठेवून पाणी उकळू दे.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AcidInSpoonS4">
+	<TEXT ID="AcidInSpoonS4_one">
+	<TEXTVALUE>अजून एक चंचुपात्र घ्या आणि स्पाट्युला वापरून बेंझोइक आम्लाचा थोडासा अशुद्ध नमूना त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AcidInSpoonS4_two">
+	<TEXTVALUE>अजून एक चंचुपात्र घ्या आणि स्पाट्युला वापरून बेंझोइक आम्लाचा थोडासा अशुद्ध नमूना त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2AcidStirS5">
+	<TEXT ID="Wtr2AcidStirS5_one">
+	<TEXTVALUE>अजून एक चंचुपात्र घ्या आणि स्पाट्युला वापरून बेंझोइक आम्लाचा थोडासा अशुद्ध नमूना त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2AcidStirS5_two">
+	<TEXTVALUE>हळू हळू टाका आणि ढवळा. कमीत कमी उकळते पाणी वापरा, बेंझोइक आम्ल चंचुपात्रात विरघळेल एवढेच वापरा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StandFunFlutedBkrS6">
+	<TEXT ID="StandFunFlutedBkrS6_one">
+	<TEXTVALUE>अजून एक चंचुपात्र घ्या आणि स्टँडच्या खाली ठेवा. स्टँडला एक नरसाळे लावा. नरसाळ्याची काडी चंचुपात्राच्या भिंतीला चिकटली पाहिजे म्हणजे द्रावणाचे शिंतोडे उडणार नाही. नरसाळ्यात फिल्टर कागद लावा. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolFilterbenzoicS7">
+	<TEXT ID="SolFilterbenzoicS7_one">
+	<TEXTVALUE>नरसाळ्यावर काचेचा रॉड ठेवा आणि त्यारून नरसाळ्यात द्रावण ओता, आणि गळण चायना ताटलीत एकत्र करा. अविद्राव्य अशुद्धता फिल्टर कागदावर मागे राहते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2ColdwtrBenzoicS8">
+	<TEXT ID="Wtr2ColdwtrBenzoicS8_one">
+	<TEXTVALUE>गाळलेले द्रावण थंड होऊ दे. आता थंड पाण्याच्या द्रोणात ठेवून अजून थंड करा. बेंझोइक आम्लाची पांढरी अपारदर्शी स्फटिके निर्माण होतील.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FunFilterRodAcidwtrbenzoicS9">
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_one">
+	<TEXTVALUE>चायना ताटली घ्या आणि स्टँडच्या खाली ठेवा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_two">
+	<TEXTVALUE>नरसाळे घ्या आणि स्टँडला लावा. नरसाळ्याची काडी चंचुपात्राच्या भिंतीला चिकटली पाहिजे म्हणजे द्रावणाचे शिंतोडे उडणार नाही. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="SolFilteredcrystalsbenziocS10">
+	<TEXT ID="SolFilteredcrystalsbenziocS10_one">
+	<TEXTVALUE>नरसाळ्यावर काचेचा रॉड ठेवा आणि त्यारून नरसाळ्यात द्रावण ओता, आणि गळण चायना ताटलीत एकत्र करा.बेंझोइक आम्लाची स्फटिके फिल्टर कागदावर मागे राहतात. धुण्याच्या बाटलीतल्या थंड पाण्याने स्फटिके धुवा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SolFilteredcrystalsbenziocS10_two">
+	<TEXTVALUE>स्फटिके दुसर्या  फिल्टर कागदावर ठेवा आणि अजून एक फिल्टर कागद त्यावर दाबून कोरडे करा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Crystals2FilterpaperbenzoicS11">
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_one">
+	<TEXTVALUE>स्फटिके दुसर्या  फिल्टर कागदावर ठेवा आणि अजून एक फिल्टर कागद त्यावर दाबून कोरडे करा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_two">
+	<TEXTVALUE>स्फटिके दुसर्या  फिल्टर कागदावर ठेवा आणि अजून एक फिल्टर कागद त्यावर दाबून कोरडे करा.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_three">
+	<TEXTVALUE>स्फटिके कोरड्या परिक्षा नळीत टाका आणि नळीला बूच लावा.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultbenzoicS12">
+	<TEXT ID="ResultbenzoicS12_one">
+	<TEXTVALUE>बेंझोइक आम्लाची स्फटिके पांढरी आणि अपारदर्शी असतात.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

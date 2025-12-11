@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: g\n"
+"POT-Creation-Date: 2013-10-01 09:47+0530\n"
+"PO-Revision-Date: 2016-02-04 11:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: g <g>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:4
+msgid "Determination of Concentration/Molarity of KMnO<sub>4</sub> solution"
+msgstr "KMnO<sub>4</ sub> के विलयन की सांद्रता/मोलरिटी का निर्धारण "
+
+#: simcontrols.js:5
+msgid "HELP"
+msgstr "मदद"
+
+#: simcontrols.js:6
+msgid "FULL SCREEN"
+msgstr "पूर्ण स्क्रीन"
+
+#: simcontrols.js:7
+msgid "EXIT"
+msgstr "बाहर निकलें"
+
+#: simcontrols.js:8
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "सीडैक मुंबई और आईटी विभाग से अनुसंधान <br> अनुदान के तहत अमृता विश्वविद्यालय द्वारा विकसित"
+
+#: simcontrols.js:9
+msgid "Drops rate:"
+msgstr "बूंद दर:"
+
+#: simcontrols.js:9
+msgid "Titrate:"
+msgstr "रसायनिक विश्लेbषण:"
+
+#: simcontrols.js:9
+msgid "Molarity of titrate, M1: "
+msgstr "रसायनिक विश्लेbषण की मोलरिटी, M1:"
+
+#: simcontrols.js:9
+msgid "Volume of titrate, V1:"
+msgstr "रसायनिक विश्लेbषण की मात्रा,V1:"
+
+#: simcontrols.js:9
+msgid "Result"
+msgstr "परिणाम"
+
+#: simcontrols.js:9
+msgid "Molarity of titrant, a "
+msgstr "टाइट्रेंट की मोलरिटी, a"
+
+#: simcontrols.js:9
+msgid "No of moles of titrant, n2"
+msgstr "टाइट्रेंट के मोलों की संख्याM, n2"
+
+#: simcontrols.js:9
+msgid "No of moles of titrate, n1"
+msgstr "रसायनिक विश्लेbषण के मोलों की संख्याl, n1"
+
+#: simcontrols.js:9
+msgid "Molar mass of titrant, b"
+msgstr " टाइट्रेंट का मोलर द्रव्योमान, b"
+
+#: simcontrols.js:9
+msgid "Strength of given titrant, [a xb]"
+msgstr "दिए गए टाइट्रेंट की क्षमता, [a xb]"
+
+#: simcontrols.js:9
+msgid "Show volume of titrant, V2"
+msgstr "टाइट्रेंट की मात्रा, V2 दिखाएं"
+
+#: simcontrols.js:9
+msgid "Temperature: "
+msgstr "तापमान:"
+
+#: simcontrols.js:10
+msgid "Mohr<sup>&#39;</sup>s salt"
+msgstr "मोर<sup>&#39;</sup> लवण"
+
+#: simcontrols.js:10
+msgid "Oxalic acid"
+msgstr "ऑक्जेलिक अम्ल "
+
+#: simcontrols.js:11
+msgid "Start"
+msgstr "प्रारंभ"
+
+#: simcontrols.js:11
+msgid "Stop"
+msgstr "रोक"
+
+#: simcontrols.js:12
+msgid "Correct."
+msgstr "सही"
+
+#: simcontrols.js:12
+msgid "Wrong! Try Again"
+msgstr "गलत! पुनः प्रयास करें"
+
+#: simcontrols.js:13
+msgid "Burette"
+msgstr "मापन नलिका"
+
+#: simcontrols.js:13
+msgid "Titration flask"
+msgstr "रसायनिक विश्लेिषण कुप्पी"
+
+#: simcontrols.js:13
+msgid "Clamp stand"
+msgstr "क्लैंप स्टैंड"
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or start button to start the titration."
+msgstr "रसायनिक विश्लेिषण शुरू करने के लिए नोजल पर या शुरू करें बटन पर क्लिक करें।"
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or stop button to stop the titration."
+msgstr "रसायनिक विश्लेिषण बंद करने के लिए नोजल पर या बंद करें बटन पर क्लिक करें।"
+
+#: simcontrols.js:13
+msgid "Click on the reset button to reset the titration."
+msgstr "रसायनिक विश्लेिषण रीसेट करने के लिए रीसेट बटन पर क्लिक करें।"
+
+#: simcontrols.js:13
+msgid "Burner"
+msgstr "बर्नर"
+
+#: simcontrols.js:14
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:15
+msgid "Select the titrate."
+msgstr "रसायनिक विश्लेिषण का चयन करें।"
+
+#: simcontrols.js:15
+msgid "Increase/decrease the drops rate."
+msgstr "बूंदों की दर में वृद्धि/ कमी करें ।"
+
+#: simcontrols.js:15
+msgid "Change the molarity of the titrate."
+msgstr "रसायनिक विश्लेिषण की मोलरिटी बदलें।"
+
+#: simcontrols.js:15
+msgid "Change the volume of the titrate."
+msgstr "रसायनिक विश्लेिषण की मात्रा बदलें।"
+
+#: simcontrols.js:15
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask "
+"containing </br> Mohr<sup>&#39;</sup>s salt."
+msgstr ""
+"परखनली खींचें और मोर <sup>&#39;</sup> लवण युक्त </br> शंक्वाकार कुप्पी में</ br>  सल्फ्यूरिक अम्लद </br> "
+"डालें।"
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it below the burette."
+msgstr ""
+"परखनली खींचें और मोर <sup>&#39;</sup> लवण युक्त </br> शंक्वाकार कुप्पी में</ br>  सल्फ्यूरिक अम्लद </br> "
+"डालें।"
+
+#: simcontrols.js:15
+msgid "Click on the nozzle or  </br> start button to start the titration."
+msgstr "रसायनिक विश्लेिषण शुरू करने के लिए नोजल या </br>शुरू करें बटन पर क्लिक करें।"
+
+#: simcontrols.js:15
+msgid "Click on the checkbox to show volume of titrant."
+msgstr "टाइट्रेंट की मात्रा दिखाने के लिए चेकबॉक्स पर क्लिक करें।"
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it above the burner."
+msgstr "शंक्वाकार कुप्पी खींचें और बर्नर के ऊपर इसे <br> रखें।"
+
+#: simcontrols.js:15
+msgid "Click on the burner <br> knob to start heating."
+msgstr "गर्म करना शुरू करने के लिए बर्नर की <br> घुंडी पर क्लिक करें।"
+
+#: simcontrols.js:15
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask "
+"containing </br> Oxalic acid."
+msgstr "परखनली खींचें और आक्जेरलिक अम्ल  युक्त </br> शंक्वाकार कुप्पी में</ br>  सल्फ्यूरिक अम्लल </br> डालें।"

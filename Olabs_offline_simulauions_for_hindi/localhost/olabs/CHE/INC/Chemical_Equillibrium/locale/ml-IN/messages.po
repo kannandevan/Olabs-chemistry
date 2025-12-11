@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-14 15:19+0530\n"
+"PO-Revision-Date: 2016-06-14 15:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:12
+msgid "Chemical Equilibrium"
+msgstr "രാസസന്തുലനം"
+
+#: simcontrols.js:13
+msgid "[Fe(CNS)]<sup>2+</sup>"
+msgstr "[Fe(CNS)]<sup>2+</sup>"
+
+#: simcontrols.js:13
+msgid "[CoCl<sub>4</sub>]<sup>2-</sup>"
+msgstr "[CoCl<sub>4</sub>]<sup>2-</sup>"
+
+#: simcontrols.js:13
+msgid "[CuCl<sub>4</sub>]<sup>2-</sup>"
+msgstr "[CuCl<sub>4</sub>]<sup>2-</sup>"
+
+#: simcontrols.js:14
+msgid "Ferric and thiocyanate ions"
+msgstr "ഫെറികും തയോസയനൈറ്റ് അയോണുകളും"
+
+#: simcontrols.js:14
+msgid "Cobalt complex and chloride ions "
+msgstr "കൊബാൾട്ട് സമ്മിശ്രങ്ങളും ക്ലോറൈഡ് അയോണുകളും"
+
+#: simcontrols.js:14
+msgid "Copper complex and chloride ions"
+msgstr "കോപ്പർ സമ്മിശ്രങ്ങളും ക്ലോറൈഡ് അയോണുകളും"
+
+#: simcontrols.js:15
+msgid "Test tube A"
+msgstr "ടെസ്ട്യുബ് A"
+
+#: simcontrols.js:15
+msgid "Test tube B"
+msgstr "ടെസ്ട്യുബ്  B"
+
+#: simcontrols.js:15
+msgid "Test tube C"
+msgstr "ടെസ്ട്യുബ്  C"
+
+#: simcontrols.js:15
+msgid "Test tube D"
+msgstr "ടെസ്ട്യുബ്  D"
+
+#: simcontrols.js:19
+msgid "Select the test solution:"
+msgstr "പരീക്ഷണ ലായനി തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:19 simcontrols.js:28
+msgid "Select the control tube:"
+msgstr "നിയന്ത്രണ ട്യൂബ് തിരഞ്ഞെടുക്കുക:"
+
+#: simcontrols.js:22
+msgid "Control"
+msgstr "നിയന്ത്രണം"
+
+#: simcontrols.js:23
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: simcontrols.js:24
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:25
+msgid "FULL SCREEN"
+msgstr "ഫുൾസ്ക്രീൻ"
+
+#: simcontrols.js:26
+msgid "EXIT"
+msgstr "പുറത്ത്"
+
+#: simcontrols.js:27
+msgid "Drag the dropper to add<br/>the solution to the test tube."
+msgstr "ടെസ്റ്റ് ടുബിലെക്ക് ലായനി <br/>ചെര്ക്കുനതിനു ഡ്ഡ്രൊപ്പെർ നീക്കുക."
+
+#: simcontrols.js:31 simcontrols.js:113
+msgid "FeCl<sub>3</sub>"
+msgstr "FeCl<sub>3</sub>"
+
+#: simcontrols.js:32 simcontrols.js:114
+msgid "KCNS"
+msgstr "KCNS"
+
+#: simcontrols.js:33 simcontrols.js:115
+msgid "KCl"
+msgstr "KCl"
+
+#: simcontrols.js:130
+msgid "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+msgstr "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+
+#: simcontrols.js:131 simcontrols.js:152
+msgid "HCl"
+msgstr "HCl"
+
+#: simcontrols.js:132 simcontrols.js:153
+msgid "H<sub>2</sub>O"
+msgstr "H<sub>2</sub>O"
+
+#: simcontrols.js:151
+msgid "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+msgstr "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+
+#: simcontrols.js:306
+msgid ""
+"Addition of more Fe<sup>3+</sup> ions results in more Fe(CNS)<sup>2+</sup>complex. Hence the</"
+"br>colour intensity of red solution increases and the equilibrium shifts</br>in the forward "
+"direction."
+msgstr ""
+"കൂടുതൽ ഫെറിക് അയോണുകളുടെ Fe<sup>3സംയോജനം മൂലം Fe(CNS)<sup>2+</sup>ഫെറിക്<br> തയോസയനൈറ്റ് ഉണ്ടാകുന്നു.ലായനിയുടെ "
+"ചുവന്നനിറത്തിന്റെ  </br>തീവ്രതകൂടുന്നു.സന്തുലനാവസ്ഥ മുന്നോട്ടുള്ള </br>ദിശയിലേക്ക് മാറുന്നു."
+
+#: simcontrols.js:310
+msgid ""
+"Addition of more [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in more (CoCl<sub>4</"
+"sub>)<sup>2-</sup> complex.</br>Hence the intensity of blue colour increases and the equilibrium</"
+"br>shifts in the forward direction."
+msgstr ""
+"കൂടുതൽ കൊബാൾട്ട് സംയോജിക്കുന്നതിന്റെ   [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> സങ്കീർണ്ണമായ കൊബാൾട്ട്<br> "
+"ക്ലോറൈഡ് ഉണ്ടാകുന്നു (CoCl<sub>4</sub>)<sup>2-</sup> complex.</br>അതുമൂലം നീല നിറത്തിന്റെ  തീവ്രതകൂടുന്നു, "
+"മുന്നോട്ടുള്ള ദിശയിലേക്ക് </br>സന്തുലിതാവസ്ഥ മാറ്റപ്പെടുന്നു."
+
+#: simcontrols.js:314
+msgid ""
+"Addition of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in the formation of more</"
+"br>(CuCl<sub>4</sub>)<sup>2-</sup> and the equilibrium shifts in the forward direction."
+msgstr ""
+"കോപ്പറിന്റെ  കൂടുതലായ സംയോജനം മൂലം  [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> കൂടുതൽ <br>കോപ്പർക്ലോറൈഡ് "
+"ഉണ്ടാകുന്നു</br>(CuCl<sub>4</sub>)<sup>2-</sup>തന്മൂലം <br>മുന്നോട്ടുള്ള ദിശയിലേക്ക് സന്തുലിതാവസ്ഥ മാറ്റപ്പെടുന്നു."
+
+#: simcontrols.js:320
+msgid ""
+"Addition of more CNS<sup>-</sup> ions results in more Fe(CNS)<sup>2+</sup>complex. Hence the</"
+"br>colour intensity of red solution increases and the equilibrium shifts</br>in the forward "
+"direction."
+msgstr ""
+"തയോസയനേറ്റ് അയോണുകൾ കൂടുതലായി സംയോജിക്കുന്നതിന്റെ  ഫലമായി<br> <sup>-</sup> കൂടുതൽ ഫെറിക് തയോസയനൈറ്റ് അയോണുകൾ "
+"ഉണ്ടാകുന്നു.<br>Fe(CNS)<sup>2+</sup>കോമ്പ്ലക്സ്. ആയതിനാൽ </br>ചുവന്നലായനിയുടെ നിറം വർദ്ധിക്കുന്നു മുന്നോട്ടുള്ള "
+"<br>ദിശയിൽ ഒരു സന്തുലിതാവസ്ഥ</br>ഉണ്ടാകുന്നു."
+
+#: simcontrols.js:323
+msgid ""
+"Addition of more Cl<sup>-</sup> ions results in more (CoCl<sub>4</sub>)<sup>2-</sup> complex. Hence "
+"the</br>intensity of blue colour increases and the equilibrium shifts</br>in the forward direction."
+msgstr ""
+"ക്ലോറൈഡ് അയോണുകൾ Cl<sup>-</sup> കൂടുതലായി<br> സംയോജിക്കുന്നതിന്റെ  ഫലമായി (CoCl<sub>4</sub>)<sup>2-</sup> "
+"കൊബാൾട്ട് <br>ക്ലോറൈഡുകൾ ഉണ്ടാകുന്നു. നീലനിറത്തിന്റെ  തീവ്രതകൂടുന്നു</br>സന്തുലിതാവസ്ഥ മുന്നോട്ടുള്ള ദിശയിലാകുന്നു</br>"
+
+#: simcontrols.js:327
+msgid ""
+"Addition of more Cl<sup>-</sup> ions results in the formation of more (CuCl<sub>4</sub>)<sup>2-</"
+"sup></br>and the equilibrium shifts in the forward direction. "
+msgstr ""
+"ക്ലോറൈഡ് അയോണുകളുടെ സംയോജനം മുഖേന <sup>-</sup> കൂടുതൽ കോപ്പർക്ലോറൈഡ് <br>അയോണുകൾ ഉണ്ടാകുന്നു<br> (CuCl<sub>4</"
+"sub>)<sup>2-</sup></br>മുന്നോട്ടുള്ള ദിശയിലേക്ക് സന്തുലിതാവസ്ഥ മാറ്റപ്പെടുന്നു."
+
+#: simcontrols.js:333
+msgid ""
+"Addition of K<sup>+</sup> ions affects the dissociation of KCNS and decrease the</br>concentration "
+"of CNS<sup>-</sup>, as a result the equilibrium shifts towards</br>backwards and the intensity of "
+"red colour decrease."
+msgstr ""
+"പൊട്ടാസ്യത്തിന്റെ  സംയോജനം മൂലം <sup>+</sup> പൊട്ടാസ്യം  തയോസയനൈറ്റ്<br> അയോണുകളെ വേർപിരിക്കുന്നു.തയോസയനേറ്റിന്റെ  "
+"</br><sup>-</sup>ഗാഢതകുറയ്ക്കുന്നു., അതിന്റെ  ഫലമായി സന്തുലിതാവസ്ഥ <br> പുറകോട്ടുള്ള ദിശയിലേക്ക് മാറുന്നു,</br>ചുവന്ന "
+"നിറത്തിന്റെ  തീവ്രത കുറയുന്നു"
+
+#: simcontrols.js:337
+msgid ""
+"Addition of H<sub>2</sub>O results the formation of pink colour (CoCl<sub>4</sub>)<sup>2-</sup>.</"
+"br>Hence the colour of the solution turns to pink and the equilibrium shifts</br>in the backward "
+"direction."
+msgstr ""
+"ഹൈഡ്രജന്റെ  സംയോജനഫലമായി <sub>2</sub>O പിങ്ക് നിറത്തിലുള്ള <br>കൊബാൾട്ട് ക്ലോറൈഡ് ഉണ്ടാകുന്നു(CoCl<sub>4</"
+"sub>)<sup>2-</sup>.</br>അങ്ങനെ പിങ്ക് നിറത്തിലുള്ള ലായനി ഉണ്ടാകുകയും സന്തുലിതാവസ്ഥ <br>മുന്നോട്ടുള്ള ദിശയിലാകുകയും "
+"ചെയ്യുന്നു.</br>"
+
+#: simcontrols.js:341
+msgid ""
+"Addition of water results in the formation of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup></"
+"br>and the equilibrium shifts in the backward direction. "
+msgstr ""
+"ജലത്തിന്റെ സംയോജനത്താൽ കൂടുതൽ കോപ്പർ <br>ഹൈഡ്രോക്സൈഡ് ഉണ്ടാകുന്നു [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup></"
+"br>സന്തുലിതാവസ്ഥ പിന്നോട്ടുള്ള ദിശയിലേക്ക് മാറ്റപ്പെടുന്നു."
+
+#~ msgid "Simple Pendulum"
+#~ msgstr "Simple Pendulum"
+
+#~ msgid "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+
+#~ msgid "Solution Controls"
+#~ msgstr "Solution Controls"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select Shape"
+#~ msgstr "Select Shape"
+
+#~ msgid "Select Material"
+#~ msgstr "Select Material"
+
+#~ msgid "Select Wire"
+#~ msgstr "Select Wire"
+
+#~ msgid "Pendulum Length(m):"
+#~ msgstr "Pendulum Length(m):"
+
+#~ msgid "Change Diameter(mm):"
+#~ msgstr "Change Diameter(mm):"
+
+#~ msgid "Hide Protractor"
+#~ msgstr "Hide Protractor"
+
+#~ msgid "earth"
+#~ msgstr "earth"
+
+#~ msgid "moon"
+#~ msgstr "moon"
+
+#~ msgid "uranus"
+#~ msgstr "uranus"
+
+#~ msgid "saturn"
+#~ msgstr "saturn"
+
+#~ msgid "jupiter"
+#~ msgstr "jupiter"
+
+#~ msgid "Sphere"
+#~ msgstr "Sphere"
+
+#~ msgid "Clock Pendulum"
+#~ msgstr "Clock Pendulum"
+
+#~ msgid "Square"
+#~ msgstr "Square"
+
+#~ msgid "Rectangle"
+#~ msgstr "Rectangle"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminum"
+#~ msgstr "Aluminum"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Lead"
+#~ msgstr "Lead"
+
+#~ msgid "Twine Thread"
+#~ msgstr "Twine Thread"
+
+#~ msgid "Steel String"
+#~ msgstr "Steel String"
+
+#~ msgid "Twisted Copper Wire"
+#~ msgstr "Twisted Copper Wire"
+
+#~ msgid "Show Protractor"
+#~ msgstr "Show Protractor"
+
+#~ msgid "Play/Pause"
+#~ msgstr "Play/Pause"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+
+#~ msgid "Simple-Pendulum"
+#~ msgstr "Simple-Pendulum"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Equivalent Resistance of Resistors (Parallel)"
+#~ msgstr "Equivalent Resistance of Resistors (Parallel)"
+
+#~ msgid "Arrangement of Resistors:"
+#~ msgstr "Arrangement of Resistors:"
+
+#~ msgid "Jockey Position(cm):"
+#~ msgstr "Jockey Position(cm):"
+
+#~ msgid "Please select Resistance"
+#~ msgstr "Please select Resistance"
+
+#~ msgid "Single"
+#~ msgstr "Single"
+
+#~ msgid "Parallel"
+#~ msgstr "Parallel"
+
+#~ msgid "Remove key"
+#~ msgstr "Remove key"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid "Remove Key"
+#~ msgstr "കീ നീക്കം"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Ohm's Law"
+#~ msgstr "Ohm's Law"
+
+#~ msgid "Readings"
+#~ msgstr "Readings"
+
+#~ msgid "Voltage (V) :"
+#~ msgstr "Voltage (V) :"
+
+#~ msgid "Ammeter reading (I) :"
+#~ msgstr "Ammeter reading (I) :"
+
+#~ msgid "Rheostat resistance :"
+#~ msgstr "Rheostat resistance :"
+
+#~ msgid "Length of the resistance wire :"
+#~ msgstr "Length of resistance wire :"
+
+#~ msgid "Show Circuit Diagram"
+#~ msgstr "Show Circuit Diagram"
+
+#~ msgid "Results"
+#~ msgstr "Results"
+
+#~ msgid "Enter the resistance of the wire:"
+#~ msgstr "Enter the resistance of the wire:"
+
+#~ msgid "Enter the resistance per cm of the wire:"
+#~ msgstr "Enter the resistance per cm of the wire:"
+
+#~ msgid "Please enter the value"
+#~ msgstr "Please enter the value"
+
+#~ msgid "Check"
+#~ msgstr "Check"

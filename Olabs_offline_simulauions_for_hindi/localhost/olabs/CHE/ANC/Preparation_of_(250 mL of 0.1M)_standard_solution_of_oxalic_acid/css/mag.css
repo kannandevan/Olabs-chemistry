@@ -1,0 +1,226 @@
+#filanim {
+    position: absolute;
+    left: 138px;
+    top: 40px;
+}
+
+#filanim > img { 
+    position: absolute;
+    width: 88px;
+    top: 208px;
+    left: 320px;
+    opacity: 0;
+    z-index: 3;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 1080ms linear infinite 0s;
+    -moz-animation: imageAnimation 1080ms linear infinite 0s;
+    -o-animation: imageAnimation 1080ms linear infinite 0s;
+    -ms-animation: imageAnimation 1080ms linear infinite 0s;
+    animation: imageAnimation 1080ms linear infinite 0s; 
+}
+
+#filanim > img:nth-child(2)  { 
+    background-image: url(images/filter/fp1.svg);
+    -webkit-animation-delay: 60ms;
+    -moz-animation-delay: 60ms;
+    -o-animation-delay: 60ms;
+    -ms-animation-delay: 60ms;
+    animation-delay: 60ms; 
+}
+#filanim > img:nth-child(3) { 
+    background-image: url(images/filter/fp2.svg);
+    -webkit-animation-delay: 120ms;
+    -moz-animation-delay: 120ms;
+    -o-animation-delay: 120ms;
+    -ms-animation-delay: 120ms;
+    animation-delay: 120ms; 
+}
+#filanim > img:nth-child(4) { 
+    background-image: url(images/filter/fp3.svg);
+    -webkit-animation-delay: 180ms;
+    -moz-animation-delay: 180ms;
+    -o-animation-delay: 180ms;
+    -ms-animation-delay: 180ms;
+    animation-delay: 180ms; 
+}
+#filanim > img:nth-child(5) { 
+    background-image: url(images/filter/fp4.svg);
+    -webkit-animation-delay: 240ms;
+    -moz-animation-delay: 240ms;
+    -o-animation-delay: 240ms;
+    -ms-animation-delay: 240ms;
+    animation-delay: 240ms; 
+}
+#filanim > img:nth-child(6) { 
+    background-image: url(images/filter/fp5.svg);
+    -webkit-animation-delay: 240ms;
+    -moz-animation-delay: 240ms;
+    -o-animation-delay: 240ms;
+    -ms-animation-delay: 240ms;
+    animation-delay: 240ms; 
+}
+#filanim > img:nth-child(7) { 
+    background-image: url(images/filter/fp6.svg);
+    -webkit-animation-delay: 300ms;
+    -moz-animation-delay: 300ms;
+    -o-animation-delay: 300ms;
+    -ms-animation-delay: 300ms;
+    animation-delay: 300ms; 
+}
+#filanim > img:nth-child(8) { 
+    background-image: url(images/filter/fp7.svg);
+    -webkit-animation-delay: 360ms;
+    -moz-animation-delay: 360ms;
+    -o-animation-delay: 360ms;
+    -ms-animation-delay: 360ms;
+    animation-delay: 360ms; 
+}
+#filanim > img:nth-child(9) { 
+    background-image: url(images/filter/fp8.svg);
+    -webkit-animation-delay: 420ms;
+    -moz-animation-delay: 420ms;
+    -o-animation-delay: 420ms;
+    -ms-animation-delay: 420ms;
+    animation-delay: 420ms; 
+}
+#filanim > img:nth-child(10) { 
+    background-image: url(images/filter/fp9.svg);
+    -webkit-animation-delay: 480ms;
+    -moz-animation-delay: 480ms;
+    -o-animation-delay: 480ms;
+    -ms-animation-delay: 480ms;
+    animation-delay: 480ms; 
+}
+#filanim > img:nth-child(11) { 
+    background-image: url(images/filter/fp10.svg);
+    -webkit-animation-delay: 540ms;
+    -moz-animation-delay: 540ms;
+    -o-animation-delay: 540ms;
+    -ms-animation-delay: 540ms;
+    animation-delay: 540ms; 
+}
+#filanim > img:nth-child(12) { 
+    background-image: url(images/filter/fp11.svg);
+    -webkit-animation-delay: 600ms;
+    -moz-animation-delay: 600ms;
+    -o-animation-delay: 600ms;
+    -ms-animation-delay: 600ms;
+    animation-delay: 600ms; 
+}
+#filanim > img:nth-child(13) { 
+    background-image: url(images/filter/fp12.svg);
+    -webkit-animation-delay: 660ms;
+    -moz-animation-delay: 660ms;
+    -o-animation-delay: 660ms;
+    -ms-animation-delay: 660ms;
+    animation-delay: 660ms; 
+}
+#filanim > img:nth-child(14) { 
+    background-image: url(images/filter/fp13.svg);
+    -webkit-animation-delay: 720ms;
+    -moz-animation-delay: 720ms;
+    -o-animation-delay: 720ms;
+    -ms-animation-delay: 720ms;
+    animation-delay: 720ms; 
+}
+#filanim > img:nth-child(15) { 
+    background-image: url(images/filter/f14.svg);
+    -webkit-animation-delay: 780ms;
+    -moz-animation-delay: 780ms;
+    -o-animation-delay: 780ms;
+    -ms-animation-delay: 780ms;
+    animation-delay: 780ms; 
+}
+#filanim > img:nth-child(16) { 
+    background-image: url(images/filter/fp15.svg);
+    -webkit-animation-delay: 840ms;
+    -moz-animation-delay: 840ms;
+    -o-animation-delay: 840ms;
+    -ms-animation-delay: 840ms;
+    animation-delay: 840ms; 
+}
+#filanim > img:nth-child(17) { 
+    background-image: url(images/filter/fp16.svg);
+    -webkit-animation-delay: 900ms;
+    -moz-animation-delay: 900ms;
+    -o-animation-delay: 900ms;
+    -ms-animation-delay: 900ms;
+    animation-delay: 900ms; 
+}
+#filanim > img:nth-child(18) { 
+    background-image: url(images/filter/fp17.svg);
+    -webkit-animation-delay: 960ms;
+    -moz-animation-delay: 960ms;
+    -o-animation-delay: 960ms;
+    -ms-animation-delay: 960ms;
+    animation-delay: 960ms; 
+}
+#filanim > img:nth-child(18) { 
+    background-image: url(images/filter/fp18.svg);
+    -webkit-animation-delay: 1020ms;
+    -moz-animation-delay: 1020ms;
+    -o-animation-delay: 1020ms;
+    -ms-animation-delay: 1020ms;
+    animation-delay: 1020ms; 
+}
+#filanim > img:nth-child(18) { 
+    background-image: url(images/filter/fp19.svg);
+    -webkit-animation-delay: 1080ms;
+    -moz-animation-delay: 1080ms;
+    -o-animation-delay: 1080ms;
+    -ms-animation-delay: 1080ms;
+    animation-delay: 1080ms; 
+}
+
+@-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-ms-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -ms-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -ms-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0;
+    animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+
+

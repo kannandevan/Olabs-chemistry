@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: फीनोल, सल्फ्युरिक आम्ल (द्रवरूपात पॅरॅफिन), केशनलिका, थर्मामिटर, धागा, क्लांप सहित लोखंडी स्टँड, परिक्षा नळी, चंचुपात्र, ढवळणी, तार गोझ, तिवई, बन्सेन बर्नर इ. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+		<TEXTVALUE>परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takephenol">
+	<TEXT ID="takephenol_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे फीनोल घ्या.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>दोन-तृतीयांश परिक्षा नळी फीनोलने भरा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE> परिक्षा नळी थर्मामिटरला धाग्याने बांधा. धागा परिक्षा नळीच्या तोंडाशी बांधा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="taksulph">
+	<TEXT ID="taksulph_one">
+		<TEXTVALUE>संहत सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+     <TEXTVALUE>नरसाळे वापरून चंचुपात्र संहत सल्फ्युरिक आम्लाने भरा. </TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>चंचुपात्र बन्सेन बर्नर वर ठेवलेल्या तार गोझ वर ठेवा आणि त्यात ढवळणी टाका. 
+
+</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>परिक्षा नळी असलेले थर्मामिटर लोखंडी स्टँडला क्लांप करा. हे संहत सल्फ्युरिक आम्लात बुडवा.
+</TEXTVALUE>
+   </TEXT>
+    <TEXT ID="parafinburner_three">
+		<TEXTVALUE> थर्मामिटर असे ठेवा की त्याचे बूड आम्लात नीट बुडलेले आणि धाग्याने बांधलेले दुसरे टोक त्याच्या बाहेर आहे.
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="Scene28">
+	<TEXT ID="Scene28_one">
+		<TEXTVALUE>५-६ सेमी लांबीची केशनलिका घ्या, आणि आगीवर धरून त्याचे एक टोक थोडेसे गोल फिरवून बंद करा.
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner233">
+	<TEXT ID="parafinburner233_one">
+		<TEXTVALUE>परिक्षा नळीत केशनलिका टाका, त्याचे बंद टोक वरच्या बाजूला.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>सल्फ्युरिक आम्ल बाथ हळू हळू गरम करा आणि ढवळणीने द्रव वर खाली ढवळा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom222">
+	<TEXT ID="parafinburnerzoom222_one">
+		<TEXTVALUE>थोड्या वेळानी, द्रवात बुडलेल्या केशनलिकेच्या टोकातून बुडबुडे यायला लागतील, आणि लवकरच बुडबुड्यांची संततधार सुरू होते.</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburnerzoom222_two">
+		<TEXTVALUE>ह्या टप्प्याला बंद असलेल्या केशनलिकेतल्या द्रवाचे बाष्प दाब वातावरणाच्या दाबापेक्षा अधिक होते.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>ज्या तापमानाला (टी१) हवेच्या बुडबुड्यांची धार सुरू होते, त्याची नोंद करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="parafinburner_off">
+	<TEXT ID="parafinburner_off_one">
+		<TEXTVALUE>बर्नर बंद करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom22">
+	<TEXT ID="parafinburnerzoom22_one">
+		<TEXTVALUE>केशनलिकेच्या टोकाला येणारे बुडबुडे कमी होत जातात.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom33">
+	<TEXT ID="parafinburnerzoom33_one">
+		<TEXTVALUE>ज्या तापमानाला केशनलिकेच्या टोकाला बुडबुडे येणं बंद होते त्याची नोंद करा (टी2)</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_one">
+		<TEXTVALUE>( टी1 ° + टी2 °)/2 सूत्र वापरून फीनोल चे उत्कलन बिन्दु परिगणित करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+	
+</DATA>

@@ -1,0 +1,735 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="TitleAcetanilide">
+	<TEXT ID="TitleAcetanilide_one">
+	 <TEXTVALUE>അസെറ്റാനിലൈഡ് തയാറാക്കല്‍ </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAceS1">
+	<TEXT ID="IntroAceS1_one">
+	 <TEXTVALUE>ആവശ്യമായവ: അസെറ്റിക് അൺഹൈഡ്രൈഡ്(10ml),ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം(10ml), അനിലീന്‍(10ml), ആര്‍ ബി ഫ്ലാസ്ക്, സ്റ്റാൻന്റും ക്ലാപും, ബുച്ച്നര്‍ ഫണല്‍, സാൻഡ് ബാത്ത്, വാട്ടര്‍ കണ്ടെൻസര്‍, ഐസ് ബാത്ത്, ഐസ് ജലം തുടങ്ങിയവ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcidsMixingInRBS2">
+	<TEXT ID="AcidsMixingInRBS2_one">
+	 <TEXTVALUE>അസെറ്റിക് അൺഹൈഡ്രൈഡ്, ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം, അനിലീന്‍ എന്നിവ 10 ml വീതം മൂന്ന് അളവ് ജാറുകളില്‍ എടുക്കുക. ഒരു 250 ml  ആർ ബി ഫ്ലാസ്ക്കില്‍ അസെറ്റിക് അൺഹൈഡ്രൈഡും തുടർന്ന് ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലവും ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcidsMixingInRBS2_two">
+	 <TEXTVALUE>ഫ്ലാസ്ക് നല്ലപോലെ കുലുക്കി മിശ്രണം ചെയ്തശേഷം അനിലീന്‍ ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="RBheatWtrCndsrS3">
+	<TEXT ID="RBheatWtrCndsrS3_one">
+	 <TEXTVALUE>ഫ്ലാസ്ക് ഒരു സ്റ്റാൻഡില്‍ ക്ലാമ്പ് ചെയ്ത് അതിന്റെ വായ്ഭാഗത്ത് ഒരു വാട്ടര്‍ കണ്ടെൻസ‍ര്‍ ഉറപ്പിക്കുക. പിന്നീട് അത് ഒരു സാൻഡ് ബാത്തില്‍ ബർണറിനു മീതെ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RBheatWtrCndsrS3_two">
+	 <TEXTVALUE>മിശ്രിതം 10 മിനിറ്റ് ചൂടാക്കിയശേഷം കണ്ടെൻസര്‍ ആര്‍ ബി ഫ്ലാസ്ക്കിൽ നിന്നും വേർപെടുത്തുക. കുറച്ചുനേരം മിശ്രിതം തണുക്കാന്‍ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CoolinRbInWtrS4">
+	<TEXT ID="CoolinRbInWtrS4_one">
+	 <TEXTVALUE>ഫ്ലാസ്ക് ഒരു സ്റ്റാൻഡില്‍ ക്ലാമ്പ് ചെയ്ത് അതിനെ ജലമുള്ള ഒരു ഡിഷില്‍ ഇറക്കിവെച്ച് തണുക്കാൻ അനുവദിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolMixingIn200WtrS5S6">
+	<TEXT ID="SolMixingIn200WtrS5S6_one">
+	 <TEXTVALUE>ആര്‍ ബി ഫ്ലാസ്കിലെ ദ്രാവകം, 200 ml ഐസ് തണുപ്പുള്ള ജലം അടങ്ങിയ ബീക്കറിലേക്ക് പതുക്കെ ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WhitePrecipitateS5S6">
+	<TEXT ID="WhitePrecipitateS5S6_one">
+	 <TEXTVALUE>അസെറ്റാനിലൈഡിന്റെ വെളുത്ത അവക്ഷിപ്തം രൂപപ്പെടുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PreciFilterInBuchnerS7">
+	<TEXT ID="PreciFilterInBuchnerS7_one">
+	 <TEXTVALUE>ഒരു അരിപ്പു കടലാസ് എടുത്ത് ബുച്ച്നര്‍ ഫണലില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="PreciFilterInBuchnerS7_two">
+	 <TEXTVALUE>അവക്ഷിപ്തം ഫണലിലൂടെ അരിക്കുക. അരിപ്പു കടലാസിൽ നിന്നും അവക്ഷിപ്തം ഒരു ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="PreciFilterInBuchnerS7_three">
+	 <TEXTVALUE>സ്വേദിതജലം ഉപയോഗിച്ച് അവക്ഷിപ്തം കഴുകുക. വീണ്ടും അവക്ഷിപ്തം അരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AceticMixingInPreciS8">
+	<TEXT ID="AceticMixingInPreciS8_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തി കൊണ്ട് അസംസ്കൃത അസെറ്റാനിലൈഡ് ഒരു ബീക്കറിലേക്ക് മാറ്റുക.  </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_two">
+	 <TEXTVALUE>മറ്റൊരു ബീക്കറില്‍ 17 ml അസെറ്റിക് അമ്ലവും 33 ml സ്വേദിതജലവും എടുക്കുക.  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticMixingInPreciS8_twoone">
+	 <TEXTVALUE>33 ml സ്വേദിതജലവും എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_three">
+	 <TEXTVALUE>ഈ മിശ്രിതം അസെറ്റാനിലൈഡിന്റെ  അവക്ഷിപ്തമുള്ള ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingPreciDissolveS9">
+	<TEXT ID="HeatingPreciDissolveS9_one">
+	 <TEXTVALUE>അവക്ഷിപ്തം ലയിക്കാനായി ബീക്കറിലെ മിശ്രിതം ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HotSolFilterS10S11">
+	<TEXT ID="HotSolFilterS10S11_one">
+	 <TEXTVALUE>ചൂടുള്ള ലായിനി ഒരു കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് അരിക്കുക. അരിച്ചുകിട്ടുന്ന ദ്രാവകം ഐസില്‍ തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalSeparateS10S11">
+	<TEXT ID="CrystalSeparateS10S11_one">
+	 <TEXTVALUE>അസെറ്റാനിലൈഡിന്റെ പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalsFilterS12">
+	<TEXT ID="CrystalsFilterS12_one">
+	 <TEXTVALUE>ഒരു ബുച്ച്നര്‍ ഫണലില്‍ ലായിനി അരിക്കുക. ഒരു പ്രലേപനകത്തി കൊണ്ട് ഫണലിൽ നിന്നും പരലുകള്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetanilideS13">
+	<TEXT ID="AcetanilideS13_one">
+	 <TEXTVALUE>അവയെ ഒരു അരിപ്പു കടലാസിലേക്ക് മാറ്റുക. അതിനുശേഷം അവ അരിപ്പു കടലാസുകൾക്കിടയില്‍ അമർത്തി  ഈർപ്പരഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcetanilideS13_two">
+	 <TEXTVALUE>പരലുകള്‍ ഒരു വാച്ച് ഗ്ലാസിലേക്ക് മാറ്റി ’അസെറ്റാനിലൈഡ്’ എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="firstdibenzalacetone">
+	<TEXT ID="firstdibenzalacetone_one">
+	 <TEXTVALUE>ഡൈബെൻസാല്‍ അസെറ്റോണ്‍ തയ്യാറാക്കല്‍</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addacetone">
+	<TEXT ID="addacetone_one">
+	 <TEXTVALUE>ഒരു കോണിക്കല്‍ ഫ്ലാസ്ക്കില്‍ 2.5 ml ബെൻസാൽഡിഹൈഡ്, 1 ml അസെറ്റോണ്‍, 25 ml റെക്റ്റിഫൈഡ് സ്പിരിറ്റ് എന്നിവ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="addacetone_two">
+	 <TEXTVALUE>കോർക്ക് ചെയ്ത് ഫ്ലാസ്ക് നല്ലപോലെ കുലുക്കുമ്പോള്‍ തെളിഞ്ഞ ലായനി ലഭിക്കുന്നു.‍</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Cleantesttbe">
+	<TEXT ID="Cleantesttbe_one">
+	 <TEXTVALUE>5 ml  10% NaOH ലായനി ഒരു ടെസ്റ്റ് ട്യൂബില്‍ എടുത്ത് അതിൽനിന്നും ലായനി ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ച് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Cleantesttbe_two">
+	 <TEXTVALUE>ഇത് കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് തുള്ളി തുള്ളിയായി, ഓരോ തുള്ളി പകരുമ്പോഴും കുലുക്കിക്കൊണ്ട് ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+	 <TEXTVALUE>പ്രതിപ്രവർത്തന മിശ്രിതത്തിന്റെ താപനില 20-25oC. ന് ഇടയില്‍ പാലിക്കാന്‍ ഫ്ലാസ്ക് ജലമുള്ള ഒരു ഡിഷില്‍ വയ്ക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shakeand">
+	<TEXT ID="Shakeand_one">
+	 <TEXTVALUE>വീണ്ടും ഫ്ലാസ്ക്  കോർക്ക് ചെയ്യുക, ഇടയ്ക്കിടെ മർദ്ദം പുറത്തുവിട്ടുകൊണ്ട് 10 മിനിറ്റ് ശക്തിയായി കുലുക്കുക.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cooltemperature">
+	<TEXT ID="cooltemperature_one">
+	 <TEXTVALUE>അതിനെ 20 മിനിറ്റ് മുറിയുടെ താപനിലയില്‍ തുടരാന്‍ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intowater">
+	<TEXT ID="intowater_one">
+	 <TEXTVALUE>ഫ്ലാസ്ക് ഐസ് ജലമുള്ള ഒരു ഡിഷില്‍ ഏതാനും മിനിറ്റുകള്‍ വെച്ചുകൊണ്ട് അതിലെ ഉള്ളടക്കത്തെ തണുപ്പിക്കുക.    </TEXTVALUE>
+	</TEXT>
+<TEXT ID="intowater_two">
+	 <TEXTVALUE>മഞ്ഞ നിറത്തിലുള്ള ഡൈബെൻസാല്‍ അസെറ്റോണിന്റെ അവക്ഷിപ്തം വേർപെടുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="allowcool">
+	<TEXT ID="allowcool_one">
+	 <TEXTVALUE>ബുച്ച്നര്‍ ഫണല്‍ ഉപയോഗിച്ച് അവക്ഷിപ്തം അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="allowcool_two">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് അവക്ഷിപ്തം ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="washtsttbe">
+	<TEXT ID="washtsttbe_one">
+	 <TEXTVALUE>അവക്ഷിപ്തം കഴുകാന്‍ ടെസ്റ്റ്  ട്യൂബില്‍ കുറച്ച് സ്വേദിത ജലം ഒഴിച്ച് നല്ലപോലെ കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterprcipitate">
+	<TEXT ID="filterprcipitate_one">
+	 <TEXTVALUE>ഒരു ബുച്ച്നര്‍ ഫണല്‍ ഉപയോഗിച്ച് അവക്ഷിപ്തം അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="filterprcipitate_two">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് ഡൈബെൻസാല്‍ അസെറ്റോണിന്റെ അവക്ഷിപ്തം എടുത്ത് ഒരു ടെസ്റ്റ്  ട്യൂബിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heat">
+	<TEXT ID="Heat_one">
+	 <TEXTVALUE>കുറച്ച് റെക്റ്റിഫൈഡ് സ്പിരിറ്റ് ഒരു ബീക്കറില്‍ എടുത്ത് ചൂടാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="spirittoprecipitate">
+	<TEXT ID="spirittoprecipitate_one">
+	 <TEXTVALUE>ഇതിൽ നിന്ന് കുറച്ച് അവക്ഷിപ്ത‍മുള്ള ടെസ്റ്റ് ട്യൂബില്‍ ചേർക്കുക. അവക്ഷിപ്തം ലയിച്ചുചേരുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="backtostand">
+	<TEXT ID="backtostand_one">
+	 <TEXTVALUE>അത് പതുക്കെ തണുക്കാന്‍ അനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="backtostand_two">
+	 <TEXTVALUE>ഡൈബെൻസാല്‍ അസെറ്റോണിന്റെ പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	 <TEXTVALUE>ബുച്ച്നര്‍ ഫണൽ കൊണ്ട് പരലുകള്‍ അരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystels">
+	<TEXT ID="crystels_one">
+	 <TEXTVALUE>അവയെ ഒരു അരിപ്പുകടലാസിലേക്ക് മാറ്റുക. അതിനുശേഷം അവ അരിപ്പു കടലാസുകൾക്കിടയില്‍ അമർത്തി  ഈർപ്പരഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastwatchglass">
+	<TEXT ID="lastwatchglass_one">
+	 <TEXTVALUE>പരലുകള്‍ ഒരു വാച്ച് ഗ്ലാസിലേക്ക് മാറ്റി 'ഡൈബെൻസാല്‍ അസെറ്റോണ്‍’ എന്ന് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Scene 66">
+	<TEXT ID="Scene 66_one">
+	 <TEXTVALUE>p-നൈട്രോഅസെറ്റാനിലൈഡ് തയാറാക്കല്‍</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	 <TEXTVALUE>ആവശ്യമായവ: ഇലക്ട്രോണിക് ബാലൻസ്, അസെറ്റാനിലൈഡ്, ബട്ടര്‍ പേപ്പര്‍, പ്രലേപനകത്തി, ഗ്ലാസ് റോഡ്, ഡ്രോപ്പര്‍, ഫണല്‍, കോണിക്കല്‍ ഫ്ലാസ്ക്, തണുത്ത ജലം, അളവ് ജാര്‍, ടെസ്റ്റ്  ട്യൂബ്, ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലം, ഗാഢ H2SO4, ബീക്കര്‍, ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം, അരിപ്പു കടലാസ്,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_two">
+	 <TEXTVALUE>ബുച്ച്നര്‍ ഫണല്‍, വയർ ഗോസ്, ട്രൈപോഡ് സ്റ്റാന്റ്, ബുൻസന്‍ ബർണര്‍, ഫ്രീസിംഗ് മിശ്രിതം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2wb">
+	<TEXT ID="2wb_one">
+	 <TEXTVALUE>ഒരു ഇലക്ട്രോണിക് ബാലൻസിനു മുകളില്‍ ഒരു ബട്ടര്‍ പേപ്പര്‍ വെച്ച് ബാലൻസ് ടേര്‍ ചെയ്യുക. 5g അസെറ്റാനിലൈഡ് തൂക്കിയെടുക്കുക. ഇതിന് ഒരു പ്രലേപനകത്തി ഉപയോഗിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3con">
+	<TEXT ID="3con_one">
+	 <TEXTVALUE>തൂക്കിയടുത്ത അസെറ്റാനിലൈഡ് ഒരു കോണിക്കല്‍ ഫ്ലാസ്ക്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4actic">
+	<TEXT ID="4actic_one">
+	 <TEXTVALUE>5ml ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം ഒരു അളവ് ജാറില്‍ എടുത്ത് കോണിക്കല്‍ ഫ്ലാസ്കില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5con">
+	<TEXT ID="5con_one">
+	 <TEXTVALUE>ഫ്ലാസ്കിലെ ഉള്ളടക്കം ഒരു ഗ്ലാസ് റോഡുകൊണ്ട് ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumic">
+	<TEXT ID="6fumic_one">
+	 <TEXTVALUE>ഒരു ടെസ്റ്റ്  ട്യൂബില്‍ 2 ml ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6zoom">
+	<TEXT ID="6zoom_one">
+	 <TEXTVALUE>ഒരു ടെസ്റ്റ്  ട്യൂബില്‍ 2 ml ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumicgo">
+	<TEXT ID="6fumicgo_one">
+	 <TEXTVALUE>ഒരു ടെസ്റ്റ്  ട്യൂബില്‍ 2 ml ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7ice">
+	<TEXT ID="7ice_one">
+	 <TEXTVALUE>അത് ഫ്രീസിംഗ് മിശ്രിതത്തില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8sulpuric">
+	<TEXT ID="8sulpuric_one">
+	 <TEXTVALUE>2ml ഗാഢ സള്‍ഫ്യൂരിക് അമ്‍ളം ഒരു അളവ് ജാര്‍ലേക്ക്  ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ചു ഒഴിക്കുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9ice2">
+	<TEXT ID="9ice2_one">
+	 <TEXTVALUE>ഫ്യൂമിംഗ് നൈട്രിക്  അമ്‍ളം അടങ്ങിയ  ടെസ്റ്റ് ട്യൂബിലേക്ക് ശ്രദ്ധയോടെ ശ്രദ്ധയോടെ തുടര്‍ച്ചയായി ഇളക്കിക്കൊണ്ട് ചേര്‍ക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10gocon">
+	<TEXT ID="10gocon_one">
+	 <TEXTVALUE>അസെറ്റാനിലൈഡിന്റെയും അസെറ്റിക് അമ്‍ളത്തിന്റെയും മിശ്രിതം അടങ്ങിയ കോണിക്കല്‍ ഫ്‍ളാസ്‍ക്  എടുക്കുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10water">
+	<TEXT ID="10water_one">
+	 <TEXTVALUE>ഇതിനെ ഒരു വാട്ടർ ബാത്തിലേക്ക് വെക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11sulpuric2">
+	<TEXT ID="11sulpuric2_one">
+	 <TEXTVALUE>ഒരു അളവ് ജാർലേക്ക് 8 ml ന്റെ ഗാഢ സള്‍ഫ്യൂരിക് അമ്‍ളം എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11sulpuric2_two">
+	 <TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ചു ഇതിനെ ഒരു കോണിക്കല്‍ ഫ്‍ളാസ്‍കിലേക്ക് ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12tog">
+	<TEXT ID="12tog_one">
+	 <TEXTVALUE>ഒരു ഡ്രോപ്പര്‍ ഉപയോഗിച്ചു ഇതിനെ ഒരു കോണിക്കല്‍ ഫ്‍ളാസ്‍കിലേക്ക് ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13sul">
+	<TEXT ID="13sul_one">
+	 <TEXTVALUE>ബാക്കിയുള്ള സൾഫ്യൂരിക് അമ്ലം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14tgo">
+	<TEXT ID="14tgo_one">
+	 <TEXTVALUE>ഇത് ഒരു കോണിക്കല്‍ ഫ്ലാസ്‍കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15got1">
+	<TEXT ID="15got1_one">
+	 <TEXTVALUE>ഫ്ലാസ്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16ice2">
+	<TEXT ID="16ice2_one">
+	 <TEXTVALUE>അത് ഫ്രീസിംഗ് മിശ്രിതത്തില്‍ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17zoomi">
+	<TEXT ID="17zoomi_one">
+	 <TEXTVALUE>ഉള്ളടക്കം നല്ലപോലെ ഇളക്കി താപനില 5oC യില്‍ കുറവാകുന്നതുവരെ കാത്തുനിൽക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_two">
+	 <TEXTVALUE>ഫ്ലാസ്കിലെ തണുത്ത ഉള്ളടക്കത്തില്‍ ഫ്യൂമിംഗ് നൈട്രിക് അമ്ലത്തിന്റേയും ഗാഢ സൾഫ്യൂരിക് അമ്ലത്തിന്റേയും മിശ്രിതം തുള്ളി തുള്ളിയായി തുടർച്ചയായി ഇളക്കിക്കൊണ്ട് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_three">
+	 <TEXTVALUE>ഫ്ലാസ്ക് ഫ്രീസിംഗ് മിശ്രിതത്തിൽ നിന്ന് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18goconbak">
+	
+		<TEXT ID="18goconbak_one">
+	 <TEXTVALUE>അതിനെ 30 മിനിറ്റ് മുറിയുടെ താപനിലയില്‍ കഴിയാനനുവദിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19bice">
+	<TEXT ID="19bice_one">
+	 <TEXTVALUE>പൊടിച്ച ഐസ് ഉള്ള ഒരു ബീക്കറിലേക്ക് ഫ്ലാസ്കിലെ മിശ്രിതം ഒഴിച്ച് ബീക്കര്‍ നല്ലപോലെ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20motor">
+	<TEXT ID="20motor_one">
+	 <TEXTVALUE>മദർ ലിക്വര്‍ ബുച്ച്നര്‍ ഫണലിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21bak">
+	<TEXT ID="21bak_one">
+	 <TEXTVALUE>അവക്ഷിപ്തം തണുത്തജലത്തില്‍ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22mo2">
+	<TEXT ID="22mo2_one">
+	 <TEXTVALUE>വീണ്ടും മദര്‍ ലിക്വര്‍ ബുച്ച്നര്‍ ഫണലിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23bk">
+	<TEXT ID="23bk_one">
+	 <TEXTVALUE>ഒരു തവണകൂടി ഇത് ആവർത്തിച്ച് അവക്ഷിപ്തം അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24mr">
+	<TEXT ID="24mr_one">
+	 <TEXTVALUE>ഒരു തവണകൂടി ഇത് ആവർത്തിച്ച് അവക്ഷിപ്തം അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="26title2">
+	<TEXT ID="26title2_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27yelo">
+	<TEXT ID="27yelo_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് അവക്ഷിപ്തം ഫണലിൽ നിന്ന് എടുത്ത് ഒരു ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28id">
+	<TEXT ID="28id_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് അവക്ഷിപ്തം ഫണലിൽ നിന്ന് എടുത്ത് ഒരു ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29sprit">
+	<TEXT ID="29sprit_one">
+	 <TEXTVALUE>20 ml മെഥിലേറ്റഡ് സ്പി‍രിറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30beker3">
+	<TEXT ID="30beker3_one">
+	 <TEXTVALUE>അത് അവക്ഷിപ്തമുള്ള ബീക്കറില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="30beker3_two">
+	 <TEXTVALUE>അവക്ഷിപ്തം ലയിച്ചു ചേരാനായി നല്ലപോലെ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31flame">
+	<TEXT ID="31flame_one">
+	 <TEXTVALUE>ദ്രാവകം ചൂടാക്കി തെളിഞ്ഞ ലായിനി ലഭ്യമാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32funl">
+	<TEXT ID="32funl_one">
+	 <TEXTVALUE>ബീക്കര്‍ ഫണലിനു താഴെവെച്ച് ഫണലിനുള്ളില്‍ അരിപ്പ് കടലാസ് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33og1">
+	<TEXT ID="33og1_one">
+	 <TEXTVALUE>ലായിനി അടങ്ങിയ ബീക്കര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34f3">
+	<TEXT ID="34f3_one">
+	 <TEXTVALUE>ചൂടുള്ള ലായിനി മറ്റൊരു ബീക്കറിലേക്ക് അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35ice">
+	<TEXT ID="35ice_one">
+	 <TEXTVALUE>ബീക്കര്‍ ഐസിൽ വെച്ച് ലായിനി തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36iceh">
+	<TEXT ID="36iceh_one">
+	 <TEXTVALUE>നിറമില്ലാത്ത p-നൈട്രോഅസെറ്റാനിലൈഡ് പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37zoomi">
+	<TEXT ID="37zoomi_one">
+	 <TEXTVALUE>നിറമില്ലാത്ത p-നൈട്രോഅസെറ്റാനിലൈഡ് പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38funnal">
+	<TEXT ID="38funnal_one">
+	 <TEXTVALUE>ലായിനി അരിക്കാന്‍ ഫണലില്‍ അരിപ്പു കടലാസ് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39bak">
+	<TEXT ID="39bak_one">
+	 <TEXTVALUE>ഫ്രീസിംഗ് മിശ്രിതത്തിൽ നിന്നും ബീക്കര്‍ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40flo">
+	<TEXT ID="40flo_one">
+	 <TEXTVALUE>ഫണല്‍ ഉപയോഗിച്ച് പരലുകള്‍ അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41top2">
+	<TEXT ID="41top2_one">
+	 <TEXTVALUE>നിറമില്ലാത്ത p-നൈട്രോഅസെറ്റാനിലൈഡ് പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42wash">
+	<TEXT ID="42wash_one">
+	 <TEXTVALUE>പരലുകള്‍ തണുത്ത ജലത്തില്‍ കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43fpaper">
+	<TEXT ID="43fpaper_one">
+	 <TEXTVALUE>പരലുകൾ ഒ‍രു അരിപ്പുകടലാസിലേക്ക് മാറ്റി അവ അരിപ്പുകലാസുകൾക്കിടയിൽ വെച്ച് അമർത്തി  ഈർപ്പരഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="43fpaper_two">
+	 <TEXTVALUE>ഈർപ്പരഹിത പരലുകള്‍ ഒരു വാച്ച് ഗ്ലാസ്സിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="44zoom">
+	<TEXT ID="44zoom_one">
+	 <TEXTVALUE>p-നൈട്രോഅസെറ്റാനിലൈഡ് എന്ന് അത് ലേബല്‍ ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="first">
+	<TEXT ID="first_one">
+	 <TEXTVALUE>2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ തയാറാക്കല്‍</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addaniline">
+	<TEXT ID="addaniline_one">
+	 <TEXTVALUE>4.5 ml  അനിലീന്‍,10 ml ഗാഢ HCl, 20 ml  ജലം എന്നിവ ഒരു കോണിക്കല്‍ ഫ്ലാസ്ക്കില്‍ എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewater">
+	<TEXT ID="icewater_one">
+	 <TEXTVALUE>ഫ്ലാസ്ക് ഐസ് തണുപ്പുള്ള ജലം നിറച്ച ഒരു ട്രഫില്‍ വയ്ക്കുകയും  ലായിനി 50C യിലേക്ക് തണുപ്പിക്കുകയും ചെയ്യുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Weighingbottle">
+	<TEXT ID="Weighingbottle_one">
+	 <TEXTVALUE>4 g സോഡിയം നൈട്രേറ്റ് എടുത്ത് അത് ഒരു ബീക്കറിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_two">
+	 <TEXTVALUE>അതില്‍ 20 ml സ്വേദിതജലം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_three">
+	 <TEXTVALUE>ഒരു ഗ്ലാസ്‍ റോഡ് ഉപയോഗിച്ച് ഖരപദാർത്ഥം ലയിക്കുന്നതു വരെ ബീക്കര്‍ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icebox">
+	<TEXT ID="icebox_one">
+	 <TEXTVALUE>ബീക്കര്‍ ഒരു ഐസ് ബാത്തില്‍ വച്ച് ലായിനി 50C വരെ തണുപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewaterfor">
+	<TEXT ID="icewaterfor_one">
+	 <TEXTVALUE>ഇനി കോണിക്കല്‍ ഫ്ലാസ്ക്കിലെ മിശ്രിതത്തിലേക്ക് സോഡിയം നൈട്രൈറ്റ് ലായിനി ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="naphthol">
+	<TEXT ID="naphthol_one">
+	 <TEXTVALUE>7 g 2- നാഫ്തോള്‍ എടുത്ത് അത് ബീക്കറിലേക്ക് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_two">
+	 <TEXTVALUE>60 ml 10% NaOH ലായിനി ഇതില്‍ ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_three">
+	 <TEXTVALUE>ഒരു ഗ്ലാസ്‍ റോഡ് ഉപയോഗിച്ച് ഖരപദാർത്ഥം ലയിക്കുന്നതു വരെ ബീക്കര്‍ ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seconds inbox">
+	<TEXT ID="seconds inbox_one">
+	 <TEXTVALUE>ബീക്കര്‍ ഒരു ഐസ് ബാത്തിൽ വെച്ച് ലായിനി 50C വരെ തണുപ്പിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+	 <TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്ക്‌ ജലത്തിൽ നിന്ന് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxx">
+	<TEXT ID="iceboxx_one">
+	 <TEXTVALUE>ഇനി കോണിക്കല്‍ ഫ്ലാസ്ക്കിലെ ലായനി നാഫ്തോള്‍ ലായനിയിലേക്ക് ഒരു ഗ്ലാസ്സ് റോഡുകൊണ്ട് തുടർച്ചയായി ഇളക്കിക്കൊണ്ട് ചേർക്കുക.  </TEXTVALUE>
+	</TEXT>
+	
+<TEXT ID="iceboxx_two">
+	 <TEXTVALUE>ലായനികള്‍ മിശ്രണം ചെയ്താല്‍ ഉടൻതന്നെ കടുത്ത ചുവപ്പ് നിറം കാണപ്പെടും. അതിവേഗം 2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Redtoice">
+	<TEXT ID="Redtoice_one">
+	 <TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്ക്ക് ഇളക്കിക്കൊണ്ട് മിശ്രിതം ഫ്രീസിംഗ് മിശ്രിതത്തില്‍ 30 മിനിറ്റ് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Redtoice_two">
+	 <TEXTVALUE>കോണിക്കല്‍ ഫ്ലാസ്ക്ക് ഇളക്കിക്കൊണ്ട് മിശ്രിതം ഫ്രീസിംഗ് മിശ്രിതത്തില്‍ 30 മിനിറ്റ് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelred">
+	<TEXT ID="funnelred_one">
+	 <TEXTVALUE>ലായിനി ബുച്ച്നര്‍ ഫണലിലേക്ക് പകരുക.</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="funnelred_two">
+	 <TEXTVALUE>അവക്ഷിപ്തം സ്വേദിത ജലം കൊണ്ട് കഴുകുക. ഇത് ആവർത്തിക്കുക. </TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_three">
+	 <TEXTVALUE>അവക്ഷിപ്തം അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_four">
+	 <TEXTVALUE>2- നാഫ്തോള്‍ അനിലീന്‍ പരലുകള്‍ വേർപെടുന്നു. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelclean">
+	<TEXT ID="funnelclean_one">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് അവക്ഷിപ്തം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilter">
+	<TEXT ID="dryfilter_one">
+	 <TEXTVALUE>അരിപ്പു കടലാസുകൾക്കിടയില്‍ വച്ച് അമർത്തി പരലുകള്‍ ഈർപ്പരഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="glacial">
+	<TEXT ID="glacial_one">
+	 <TEXTVALUE>അവക്ഷിപ്തം ഒരു ബീക്കറിലേക്ക് മാറ്റി അതില്‍ 40 ml ഗ്ലേസിയല്‍ അസെറ്റിക് അമ്ലം ചേർക്കുക. </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_two">
+	 <TEXTVALUE>ഒരു ഗ്ലാസ് റോഡ് കൊണ്ട് ബീക്കറിലെ ഉള്ളടക്കം ഇളക്കുക.</TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_three">
+	 <TEXTVALUE>ദ്രാവകം ചൂടാക്കി തെളിഞ്ഞ ലായനി ലഭ്യമാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaperstand">
+	<TEXT ID="filterpaperstand_one">
+	 <TEXTVALUE>ചൂടുള്ള ലായനി മറ്റൊരു ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxagain">
+	<TEXT ID="iceboxagain_one">
+	 <TEXTVALUE>ബീക്കര്‍ ഒരു ഐസ് ബാത്തിൽ വെച്ച് ലായനി തണുപ്പിക്കുക. ലായിനി തണുത്തുവരുമ്പോള്‍ 2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filter">
+	<TEXT ID="filter_one">
+	 <TEXTVALUE>ബുച്ച്നര്‍ ഫണൽ കൊണ്ട് പരലുകള്‍ അരിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_two">
+	 <TEXTVALUE>അത് എഥനോൾ കൊ‍ണ്ട് കഴുകുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_three">
+	 <TEXTVALUE>2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ പരലുകള്‍ വേർപെടുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_four">
+	 <TEXTVALUE>ഒരു പ്രലേപനകത്തികൊണ്ട് പരലുകള്‍ ഒരു അരിപ്പു കടലാസിലേക്ക് മാറ്റുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilterpaper">
+	<TEXT ID="dryfilterpaper_one">
+	 <TEXTVALUE>പരലുകൾ ഒ‍രു അരിപ്പു കടലാസുകൾക്കിടയിൽ വെച്ച് അമർത്തി ഈർപ്പ രഹിതമാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="aniline">
+	<TEXT ID="aniline_one">
+	 <TEXTVALUE>ഈർപ്പരഹിത പരലുകള്‍ ഒരു വാച്ച് ഗ്ലാസിലേക്ക് മാറ്റി ’2- നാഫ്തോള്‍ അനിലീന്‍ ഡൈ’ എന്ന് ലേബല്‍ ചെയ്യുക. 
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+

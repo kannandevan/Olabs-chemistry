@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="215px" height="125px" viewBox="0 0 215 125" enable-background="new 0 0 215 125" xml:space="preserve">
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.7749" y1="10.1748" x2="212.8249" y2="10.1748">
+			<stop  offset="0.0078" style="stop-color:#DAE1E2;stop-opacity:0.8588"/>
+			<stop  offset="0.0588" style="stop-color:#EEF8FA;stop-opacity:0.7216"/>
+			<stop  offset="0.1137" style="stop-color:#CCD0D2;stop-opacity:0.9294"/>
+			<stop  offset="0.5333" style="stop-color:#FFFFFF;stop-opacity:0.5882"/>
+			<stop  offset="0.8902" style="stop-color:#CBCBCB;stop-opacity:0.1882"/>
+			<stop  offset="0.9529" style="stop-color:#ECF3F3;stop-opacity:0.9686"/>
+			<stop  offset="1" style="stop-color:#CED1D2;stop-opacity:0.149"/>
+		</linearGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M209.8,17.65c0.134-0.267,0.2-0.533,0.2-0.8
+			c-0.066-0.667-0.45-1.317-1.15-1.95c-3.133-2.633-12.8-4.983-29-7.05C159.884,5.417,135.65,4.2,107.15,4.2
+			c-28.567,0-52.8,1.216-72.7,3.65c-17,2.1-26.817,4.566-29.45,7.4C4.633,15.617,4.4,16,4.3,16.4l-0.05,0.4l0.05,0.45
+			c0.034,0.133,0.083,0.267,0.15,0.4H1.3c0-0.066,0-0.15,0-0.25c0-1.267,1-2.483,3-3.65L5,13.4C9.7,11,18.8,8.85,32.3,6.95
+			C52.833,4.117,77.767,2.7,107.1,2.7c29.367,0,54.284,1.417,74.75,4.25c13.267,1.867,22.267,3.966,27,6.3l1.15,0.6
+			c1.934,1.133,2.9,2.316,2.9,3.55c0,0.1,0,0.184,0,0.25H209.8z M5,13.4v0.35V13.4z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="5.6499" y1="16.8252" x2="208.5499" y2="16.8252">
+			<stop  offset="0.0078" style="stop-color:#DAE1E2;stop-opacity:0.1216"/>
+			<stop  offset="0.0588" style="stop-color:#EEF8FA;stop-opacity:0.6"/>
+			<stop  offset="0.2353" style="stop-color:#CCD0D2;stop-opacity:0.1882"/>
+			<stop  offset="0.4549" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="0.7216" style="stop-color:#CBCBCB;stop-opacity:0.1882"/>
+			<stop  offset="0.9216" style="stop-color:#A8BBBB;stop-opacity:0.7686"/>
+			<stop  offset="1" style="stop-color:#CED1D2;stop-opacity:0.149"/>
+		</linearGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M4.45,17.65c-0.067-0.133-0.117-0.267-0.15-0.4L4.25,16.8
+			l0.05-0.4C4.4,16,4.633,15.617,5,15.25c2.633-2.833,12.45-5.3,29.45-7.4c19.9-2.434,44.133-3.65,72.7-3.65
+			c28.5,0,52.733,1.216,72.699,3.65c16.2,2.066,25.867,4.417,29,7.05c0.7,0.633,1.084,1.283,1.15,1.95c0,0.267-0.066,0.533-0.2,0.8
+			c-0.2,0.367-0.517,0.75-0.95,1.15c-3.133,2.633-12.8,4.934-29,6.9c-20.1,2.5-44.333,3.75-72.699,3.75
+			c-28.4,0-52.634-1.25-72.7-3.75c-17-2.067-26.817-4.483-29.45-7.25C4.767,18.183,4.583,17.917,4.45,17.65z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#CFD4D4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M1.3,17.65c0-0.066,0-0.15,0-0.25c0-1.267,1-2.483,3-3.65L5,13.4C9.7,11,18.8,8.85,32.3,6.95C52.833,4.117,77.767,2.7,107.1,2.7
+			c29.367,0,54.284,1.417,74.75,4.25c13.267,1.867,22.267,3.966,27,6.3l1.15,0.6c1.934,1.133,2.9,2.316,2.9,3.55
+			c0,0.1,0,0.184,0,0.25 M4.45,17.65c-0.067-0.133-0.117-0.267-0.15-0.4L4.25,16.8l0.05-0.4C4.4,16,4.633,15.617,5,15.25
+			c2.633-2.833,12.45-5.3,29.45-7.4c19.9-2.434,44.133-3.65,72.7-3.65c28.5,0,52.733,1.216,72.699,3.65
+			c16.2,2.066,25.867,4.417,29,7.05c0.7,0.633,1.084,1.283,1.15,1.95c0,0.267-0.066,0.533-0.2,0.8 M5,13.4v0.35"/>
+	</g>
+</g>
+</svg>

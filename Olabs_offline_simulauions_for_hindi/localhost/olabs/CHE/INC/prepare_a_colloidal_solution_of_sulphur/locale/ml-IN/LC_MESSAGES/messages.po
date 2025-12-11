@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-07 14:33+0530\n"
+"PO-Revision-Date: 2025-10-07 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: secondpage.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+msgid "MAXIMIZE"
+msgstr "വലുതാക്കുക"
+
+msgid "MINIMIZE"
+msgstr "ചെറുതാക്കുക"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "വികസിപ്പിച്ചത് അമൃത സർവ്വകലാശാല <br> ധനസഹായം : ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം || <br> വിദ്യാഭ്യാസ മന്ത്രാലയം, ഇന്ത്യൻ ഗവൺമെന്റ്"
+
+msgid "Alert"
+msgstr "മുന്നറിയിപ്പ്"
+
+msgid "Do you want to reset the simulation"
+msgstr "സിമുലേഷൻ പുനഃസജ്ജമാക്കണോ?"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "No"
+msgstr "ഇല്ല"
+
+msgid "HELP"
+msgstr "സഹായം"
+
+msgid "RESET"
+msgstr "റീസെറ്റ്"
+
+#: simcontrols.js:93
+msgid "Choose the correct answer"
+msgstr "ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുക"
+
+msgid "Level "
+msgstr "നില "
+
+#: QuestionExecutePackage.js:26
+msgid "Score "
+msgstr "മാർക്ക് "
+
+#: secondpage.js:32
+msgid "1. Drag and drop the funnel to empty test tube A."
+msgstr "1.ഫണൽ എടുത്ത് വലിച്ച് ടെസ്റ്റ് ട്യൂബ് A-യിൽ ഇടുക."
+
+#: secondpage.js:33
+msgid "2. Drag and drop the filter paper above the funnel."
+msgstr "2.ഫണലിന്റെ മുകളിലേക്ക് ഫിൽറ്റർ പേപ്പർ വലിച്ച് ഇടുക."
+
+#: secondpage.js:34
+msgid "3. Drag the test tube and drop it in the empty test tube A."
+msgstr "3.ടെസ്റ്റ് ട്യൂബ് വലിച്ച് എടുത്ത് ടെസ്റ്റ് ട്യൂബ് A-യിൽ ഇടുക."
+
+#: secondpage.js:293
+msgid "Can filter paper be used to separate colloids?"
+msgstr "കോളോയിഡുകൾ വേർതിരിക്കാൻ ഫിൽട്ടർ പേപ്പർ ഉപയോഗിക്കാമോ?"
+
+#: secondpage.js:293
+msgid "Yes, because the size of the colloidal particle is 100 micrometer"
+msgstr "അതെ, കാരണം കോളോയിഡ് കണങ്ങളുടെ വലുപ്പം 100 മൈക്രോമീറ്റർ ആണ്."
+
+#: secondpage.js:293
+msgid "No, the size of the colloidal particle is less than 100 nanometers"
+msgstr "ഇല്ല, കോളോയിഡ് കണങ്ങളുടെ വലുപ്പം 100 നാനോമീറ്ററിൽ കുറവാണ്."
+
+#: simcontrols.js:57
+msgid "Prepare a Colloidal Solution of Sulphur"
+msgstr "സൾഫറിന്റെ ഒരു കോളോയിഡ് ദ്രാവകം തയ്യാറാക്കുക"
+
+#: simcontrols.js:63
+msgid "Click and drag the distilled water and <br>  drop it in the test tube"
+msgstr "ഡിസ്റ്റിൽഡ് വാട്ടർ ക്ലിക്കുചെയ്ത് വലിച്ചിട്ട് <br> പരീക്ഷണ നാളികയിൽ ഇടുക"
+
+#: simcontrols.js:64
+msgid "Drop it in the test tube"
+msgstr "അത് പരീക്ഷണ നാളികയിൽ ഇടുക"
+
+#: simcontrols.js:65
+msgid "Drag the test tube and drop it <br> towards the Kipp's apparatus"
+msgstr "പരീക്ഷണ നാളിക വലിച്ചിട്ട് <br> കിപ്പിന്റെ ഉപകരണത്തിലേക്ക് ഇടുക"
+
+#: simcontrols.js:66
+msgid "Drag the test tube upwards to <br> shake"
+msgstr "പരീക്ഷണ നാളിക മുകളിലേക്ക് വലിച്ച് <br> കുലുക്കുക"
+
+#: simcontrols.js:67
+msgid "Drag the test tube and <br>drop it in the empty test tube"
+msgstr "പരീക്ഷണ നാളിക വലിച്ചിട്ട് <br> ശൂന്യമായ പരീക്ഷണ നാളികയിൽ ഇടുക"
+
+#: simcontrols.js:68
+msgid "Drop it into the Kipp's apparatus"
+msgstr "അത് കിപ്പിന്റെ ഉപകരണത്തിൽ ഇടുക"
+
+#: simcontrols.js:69
+msgid "Click the knob to open the valve"
+msgstr "വാൽവ് തുറക്കാൻ നോബ് ക്ലിക്കുചെയ്യുക"
+
+#: simcontrols.js:70
+msgid "Click the knob to close the valve"
+msgstr "വാൽവ് അടയ്ക്കാൻ നോബ് ക്ലിക്കുചെയ്യുക"
+
+#: simcontrols.js:71
+msgid "Drag and drop the dropper towards the test tube"
+msgstr "ഡ്രോപ്പർ വലിച്ചിട്ട് പരീക്ഷണ നാളികയിലേക്കു ഇടുക"
+
+#: simcontrols.js:72
+msgid "Click on the Next button"
+msgstr "അടുത്തത് ബട്ടൺ ക്ലിക്കുചെയ്യുക"
+
+#: simcontrols.js:73
+msgid "Drag the spatula and drop <br> it in the watch glass"
+msgstr "സ്പാച്ചുല വലിച്ചിട്ട് <br> വാച്ച് ഗ്ലാസ്സിൽ ഇടുക"
+
+#: simcontrols.js:74
+msgid "Drag the spatula and drop <br> it in the test tube"
+msgstr "സ്പാച്ചുല വലിച്ചിട്ട് <br> പരീക്ഷണ നാളികയിൽ ഇടുക"
+
+#: simcontrols.js:76
+msgid "Drag and drop the funnel to empty test tube A"
+msgstr "ഫണൽ വലിച്ചിട്ട് ശൂന്യമായ പരീക്ഷണ നാളിക A-യിൽ ഇടുക"
+
+#: simcontrols.js:77
+msgid "Drag and drop the filter paper above the funnel"
+msgstr "ഫണലിന്റെ മുകളിലേക്ക് ഫിൽറ്റർ പേപ്പർ വലിച്ചിട്ട് ഇടുക"
+
+#: simcontrols.js:78
+msgid "Drag the test tube and <br>drop it in the empty test tube A"
+msgstr "പരീക്ഷണ നാളിക വലിച്ചിട്ട് <br> ശൂന്യമായ പരീക്ഷണ നാളിക A-യിൽ ഇടുക"
+
+#: simcontrols.js:79
+msgid "Repeat the previous three steps for <br> the other two test tubes B and C"
+msgstr "മുമ്പത്തെ മൂന്ന് ഘട്ടങ്ങൾ <br> മറ്റ് പരീക്ഷണ നാളികകൾ B, C എന്നിവയ്ക്കും ആവർത്തിക്കുക"
+
+#: simcontrols.js:81
+msgid "Please wash and use the funnel"
+msgstr "ദയവായി ഫണൽ കഴുകി ഉപയോഗിക്കുക"
+
+#: simcontrols.js:82 simcontrols.js:100
+msgid "The solution will smell like a rotten egg"
+msgstr "ദ്രാവകത്തിന് പുഴുങ്ങിയ മുട്ടയുടെ ഗന്ധം വരും"
+
+#: simcontrols.js:84
+msgid "A colloidal solution is heterogenous, it appears translucent.<br> It cannot  be filtered completely through filter paper.<br> Here solute particles do not easily settle down on standing."
+msgstr "കോളോയിഡ് ദ്രാവകം അസമവിന്യാസമുള്ളതാണ്, അത് അർദ്ധപാർദർശകമായിരിക്കും.<br> അത് ഫിൽറ്റർ പേപ്പറിലൂടെ പൂർണ്ണമായി ഫിൽറ്റർ ചെയ്യാൻ സാധിക്കില്ല.<br> ഇവിടെ ലയിത കണങ്ങൾ എളുപ്പത്തിൽ അടിയിലേക്കു അടിയുകയില്ല."
+
+#: simcontrols.js:85
+msgid "A true solution is homogenous and transparent. <br>It can be completely filtered through filter paper.<br> It remains stable on standing."
+msgstr "യഥാർത്ഥ ദ്രാവകം സമവിന്യാസമുള്ളതും പാർദർശകവുമാണ്.<br> അത് ഫിൽറ്റർ പേപ്പറിലൂടെ പൂർണ്ണമായി ഫിൽറ്റർ ചെയ്യാൻ കഴിയും.<br> അത് സ്ഥിരതയോടെ നിലനിൽക്കും."
+
+#: simcontrols.js:86
+msgid "A suspension is heterogeneous mixture. <br>The particles of a suspension are visible<br>to the naked eye. They settle down on <br>standing and can be separated by filtration."
+msgstr "സസ്പെൻഷൻ അസമവിന്യാസമുള്ള മിശ്രിതമാണ്.<br> സസ്പെൻഷനിലെ കണങ്ങൾ നഗ്‌നനേത്രങ്ങൾക്ക് ദൃശ്യമാകും.<br> അത് അടിയിലേക്കു അടിയും, ഫിൽട്രേഷനിലൂടെ വേർതിരിക്കാനും കഴിയും."
+
+#: simcontrols.js:88
+msgid "Click on the Reset button <br>to repeat the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും നടത്താൻ <br>റീസെറ്റ് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:89
+msgid "Fog is a colloidal solution of:"
+msgstr "മൂടൽമഞ്ഞ് ഒരു കോളോയിഡ് ദ്രാവകമാണ്, അതിൽ ഉള്ളത്:"
+
+#: simcontrols.js:89
+msgid "Solid in gas"
+msgstr "വായുവിൽ ഘനം"
+
+#: simcontrols.js:89
+msgid "Gas in liquid"
+msgstr "ദ്രാവകത്തിൽ വാതകം"
+
+#: simcontrols.js:89
+msgid "Liquid in gas"
+msgstr "വായുവിൽ ദ്രാവകം"
+
+#: simcontrols.js:89
+msgid "Gas in gas"
+msgstr "വാതകത്തിൽ വാതകം"
+
+#: simcontrols.js:101
+msgid "Instructions:"
+msgstr "<empty class="pxdot15">നിർദ്ദേശങ്ങൾ:</empty>"
+
+#: simcontrols.js:102
+msgid "1. Click and drag the distilled water and drop it in the test tube."
+msgstr "1.ഡിസ്റ്റിൽഡ് വാട്ടർ ക്ലിക്കുചെയ്ത് വലിച്ചിട്ട് പരീക്ഷണ നാളികയിൽ ഇടുക."
+
+#: simcontrols.js:103
+msgid "2. Drag the test tube and drop it into the Kipp's apparatus."
+msgstr "2.പരീക്ഷണ നാളിക വലിച്ചിട്ട് കിപ്പിന്റെ ഉപകരണത്തിൽ ഇടുക."
+
+#: simcontrols.js:104
+msgid "3. Click the knob to open the valve."
+msgstr "3.വാൽവ് തുറക്കാൻ നോബ് ക്ലിക്കുചെയ്യുക."
+
+#: simcontrols.js:105
+msgid "4. Click the knob to close the valve."
+msgstr "4.വാൽവ് അടയ്ക്കാൻ നോബ് ക്ലിക്കുചെയ്യുക."
+
+#: simcontrols.js:106
+msgid "5. Drag and drop the dropper towards the test tube."
+msgstr "5.ഡ്രോപ്പർ വലിച്ചിട്ട് പരീക്ഷണ നാളികയിലേക്കു ഇടുക."
+
+#: simcontrols.js:107
+msgid "6. Drag the test tube upwards to shake."
+msgstr "6.പരീക്ഷണ നാളിക മുകളിലേക്ക് വലിച്ച് കുലുക്കുക."
+
+#: simcontrols.js:108
+msgid "7. Drag and drop the dropper towards the test tube."
+msgstr "7.ഡ്രോപ്പർ വലിച്ചിട്ട് പരീക്ഷണ നാളികയിലേക്കു ഇടുക."
+
+#: simcontrols.js:109
+msgid "8. Drag the test tube and drop it in the empty test tube."
+msgstr "8.പരീക്ഷണ നാളിക വലിച്ചിട്ട് ശൂന്യമായ പരീക്ഷണ നാളികയിൽ ഇടുക."
+
+#: simcontrols.js:104
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: simcontrols.js:335
+msgid "2. Drag the spatula and drop it in the watch glass."
+msgstr "2.സ്പാച്ചുല വലിച്ചിട്ട് വാച്ച് ഗ്ലാസ്സിൽ ഇടുക."
+
+#: simcontrols.js:336
+msgid "3. Drag the spatula and drop it in the test tube."
+msgstr "3.സ്പാച്ചുല വലിച്ചിട്ട് പരീക്ഷണ നാളികയിൽ ഇടുക."
+
+#: simcontrols.js:337
+msgid "4. Drag the test tube upwards to shake."
+msgstr "4.പരീക്ഷണ നാളിക മുകളിലേക്ക് വലിച്ച് കുലുക്കുക."

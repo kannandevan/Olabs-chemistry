@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_BACK">
+        <source>&lt;&lt; वापस</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_CAPILLARYTUBE">
+        <source>कैपिलरी ट्यूब</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_DETERMINATIONOFBOILINGPOINT">
+        <source>कार्बनिक यौगिक का गलनांक </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_LIQUIDPARAFIN">
+        <source>तरल पैराफिन</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_MELTINGPOINT_NAPHTHALENE">
+        <source>नेफ़थलीन का गलनांक </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_NAPHTHALENE">
+        <source>नेफ़थलीन</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_POROUSPLATE">
+        <source>छिद्रित प्लेट</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_START">
+        <source>शुरू करें</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_STIRRER">
+        <source>चलाने वाला औजार</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_THERMOMETER">
+        <source>थर्मामीटर</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

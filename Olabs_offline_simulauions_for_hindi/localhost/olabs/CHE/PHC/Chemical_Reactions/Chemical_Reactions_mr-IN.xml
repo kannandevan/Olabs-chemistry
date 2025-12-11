@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <!--burning magnesium-->
+  <!--<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Point the mouse to each requirement to know its name/Click the"Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>-->
+  <SCENE ID="Magnesiumribbonmgns">
+    <TEXT ID="Magnesiumribbonmgns_one">
+      <TEXTVALUE>आवश्यक सामग्री: मॅग्नीशियम पट्टीचा तुकडा, सॅंड पेपर, पकड, वॉच ग्लास, लाल लिटमस कागद, बन्सेन बर्नर</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpapermgns">
+    <TEXT ID="sandpapermgns_one">
+      <TEXTVALUE>मॅग्नीशियम पट्टी सॅंड पेपरने घासा, म्हणजे ती चंदेरी पांढरी दिसेल.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="burningmgns">
+    <TEXT ID="burningmgns_one">
+      <TEXTVALUE>पकड वापरून मॅग्नीशियम पट्टी धरा आणि मॅग्नीशियम पट्टी पेटवा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_two">
+      <TEXTVALUE>ती प्रखरतेने जळते आणि पांढरी राख मागे राहते.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="burningmgns_three">
+      <TEXTVALUE>वॉच ग्लास मध्ये जळलेल्या पट्टीची राख गोळा करा आणि त्याला मॅग्नीशियम ऑक्साइड नाव द्या. मॅग्नीशियम हवेत जळून मॅग्नीशियम ऑक्साइड निर्माण होते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Finallitmusmgns">
+    <TEXT ID="Finallitmusmgns_one">
+      <TEXTVALUE>स्पाट्युला वापरून थोडे मॅग्नीशियम ऑक्साइड घ्या.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_two">
+      <TEXTVALUE>पांढर्याल टाईल वर ठेवलेल्या लाल लिटमस कागदावर थोडेसे ठेवा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="Finallitmusmgns_three">
+      <TEXTVALUE>लाल लिटमस कागद निळा होतो, म्हणजे MgO अल्कधर्मी आहे.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--reaction-Sodium-Sulphate-and-barium-chloride_new-->
+  <SCENE ID="01Intro">
+    <TEXT ID="01Intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="02Lab">
+    <TEXT ID="02Lab_one">
+      <TEXTVALUE>आवश्यक सामग्री: मॅग्नीशियम पट्टीचा तुकडा, सॅंड पेपर, पकड, वॉच ग्लास, लाल लिटमस कागद, बन्सेन बर्नर</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="03TakeTestTube">
+    <TEXT ID="03TakeTestTube_one">
+      <TEXTVALUE>एक परिक्षा नळी घ्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="04TakeBarium">
+    <TEXT ID="04TakeBarium_one">
+      <TEXTVALUE>थोडे बेरियम क्लोराइड परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="05BariumInFlask">
+    <TEXT ID="05BariumInFlask_one">
+      <TEXTVALUE>शंक्वाकृती चंबू मध्ये टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="06TakeTestTube2">
+    <TEXT ID="06TakeTestTube2_one">
+      <TEXTVALUE>दुसरी परिक्षा नळी घ्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="07TakeSodium">
+    <TEXT ID="07TakeSodium_one">
+      <TEXTVALUE>थोडे सोडियम सल्फेट घ्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="08BariumAndSodium">
+    <TEXT ID="08BariumAndSodium_one">
+      <TEXTVALUE>बेरियम क्लोराइड द्रावण असलेल्या शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="08BariumAndSodium_two">
+      <TEXTVALUE>बेरियम सल्फेटचे पांढरे अवक्षेपण लगेच निर्माण होईल. ह्याने सल्फेट (SO42-) आयन च्या उपस्थितीची पुष्टी होते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9zoom">
+    <TEXT ID="9zoom_one">
+      <TEXTVALUE>शंक्वाकृती चंबूतले द्रावण ढवळा आणि थोडा वेळ त्याला हात लावू नका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="9zoom_two">
+      <TEXTVALUE>बेरियम सल्फेटचे अवक्षेपण चंबूच्या बुडाशी बसते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="10pour">
+    <TEXT ID="10pour_one">
+      <TEXTVALUE>शंक्वाकृती चंबूतले वरचे द्रावण निवळून घ्या आणि चंचुपात्रात टाका</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="11dilhcl">
+    <TEXT ID="11dilhcl_one">
+      <TEXTVALUE>अवक्षेपण असलेल्या शंक्वाकृती चंबूत थोडे विरल HCl टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="12poue2">
+    <TEXT ID="12poue2_one">
+      <TEXTVALUE>अवक्षेपण असलेल्या शंक्वाकृती चंबूत थोडे विरल HCl टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="13shake3">
+    <TEXT ID="13shake3_one">
+      <TEXTVALUE>शंक्वाकृती चंबू नीट हलवा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_two">
+      <TEXTVALUE>पांढरे अवक्षेपण विरल HCl मध्ये अविद्राव्य आहे.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="13shake3_three">
+      <TEXTVALUE>या रासायनिक अभिक्रियेत, क्लोराइड आयन हे सल्फेट आयन ला विस्थापित करतात आणि सल्फेट आयन हे क्लोराइड आयन ला विस्थापित करतात.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Type_Of_Reaction_iron_nail_with_copper_new-->
+  <SCENE ID="naming">
+    <TEXT ID="naming_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="introduction">
+    <TEXT ID="introduction_one">
+      <TEXTVALUE>आवश्यक सामग्री: कॉपर सल्फेट, लोखंडी खिळे, ऊर्ध्वपतित पाणी, चंचुपात्र, मापन जार, परिक्षा नळी, दोन क्लांप असलेले स्टँड, धागा, काचेचा रॉड </TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="addcoppersulphate">
+    <TEXT ID="addcoppersulphate_one">
+      <TEXTVALUE>पुरेसे ऊर्ध्वपतित पाणी एका मापन जार मध्ये घ्या आणि स्वच्छ चंचुपात्रात टाका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_two">
+      <TEXTVALUE>ह्यात आवश्यक मात्रा कॉपर सल्फेटची टाका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="addcoppersulphate_three">
+      <TEXTVALUE>कॉपर सल्फेट संपूर्ण विरघळत नाही तोपर्यंत चंचुपात्रातले द्रावण काचेच्या रॉड ने ढवळा .</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstotesttube">
+    <TEXT ID="cstotesttube_one">
+      <TEXTVALUE>पुरेसे कॉपर सल्फेट द्रावण परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstotesttube_two">
+      <TEXTVALUE>परिक्षा नळी स्टँड ला लावा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="cstosecondtesttube">
+    <TEXT ID="cstosecondtesttube_one">
+      <TEXTVALUE>पुरेसे कॉपर सल्फेट दुसर्याप परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="cstosecondtesttube_two">
+      <TEXTVALUE>ही परिक्षा नळी दुसर्यार स्टँड ला लावा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sandpaper">
+    <TEXT ID="sandpaper_one">
+      <TEXTVALUE>दोन लोखंडी खिळे घ्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="sparkling">
+    <TEXT ID="sparkling_one">
+      <TEXTVALUE>सॅंड पेपरने घासा म्हणजे त्यांचा रंग राखाडी दिसेल.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ironnails">
+    <TEXT ID="ironnails_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailclose">
+    <TEXT ID="nailclose_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="nailand">
+    <TEXT ID="nailand_one">
+      <TEXTVALUE>एक खिळा धाग्याने बांधा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="totesttube">
+    <TEXT ID="totesttube_one">
+      <TEXTVALUE>कॉपर सल्फेट द्रावण असलेल्या परिक्षा नळीत बुडवा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="changecolor">
+    <TEXT ID="changecolor_one">
+      <TEXTVALUE>दोन्ही परिक्षा नळ्या १५ मिनिटे तशाच राहू द्या.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_two">
+      <TEXTVALUE>१५ मिनिटांनी, लोखंडी खिळा असलेल्या कॉपर सल्फेट द्रावणाचा रंग फिकट हिरवा होतो आणि दुसर्याि परिक्षा नळीतल्या रंगात बदल होत नाही.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="changecolor_three">
+      <TEXTVALUE>Fe2+ आयन च्या उपस्थितीमुळे द्रावणाचा रंग हिरवट होतो.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="lastnail">
+    <TEXT ID="lastnail_one">
+      <TEXTVALUE>लोखंडी खिळा द्रावणातून बाहेर काढा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_two">
+      <TEXTVALUE>दुसर्याख खिळ्याशी तुलना करा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_three">
+      <TEXTVALUE>लोखंडी खिळयावरचे तपकिरी आवरण हे सूचित करते की खिळ्यावरचे लोह विस्थापित होऊन त्याची जागा कॉपर घेते.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="lastnail_four">
+      <TEXTVALUE>ही एकेरी विस्थापन अभिक्रिया आहे ज्यात कॉपर सल्फेट द्रावणातून लोह कॉपरला विस्थापित करते आणि नवीन संयुग फेरस सल्फेट निर्माण होते.  म्हणून ही अभिक्रिया एक रासायनिक बदल आहे.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Zinc_with_dilute_Sulphuric Acid_new-->
+  <SCENE ID="Zincsulphuricacid">
+    <TEXT ID="Zincsulphuricacid_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Lab">
+    <TEXT ID="Lab_one">
+      <TEXTVALUE>आवश्यक सामग्री: झिंक दाणे, विरल सल्फ्युरिक आम्ल, NaOH, परिक्षा नळी, शंक्वाकृती चंबू, किप्स उपकरण, बूच, काचेची नलिका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_one">
+      <TEXTVALUE>स्पाट्युला वापरून थोडेसे झिंक दाणे घ्या आणि विरल सल्फ्युरिक आम्ल असलेल्या शंक्वाकृती चंबूत टाका.
+        झिंक आणि विरल सल्फ्युरिक आम्ल यांची अभिक्रिया होते, आणि हायड्रोजनचे बुडबुडे निर्माण होतात.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_two">
+      <TEXTVALUE>झिंक आणि विरल सल्फ्युरिक आम्ल यांची अभिक्रिया होते, आणि हायड्रोजनचे बुडबुडे निर्माण होतात.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_three">
+      <TEXTVALUE>शंक्वाकृती चंबूच्या तोंडाशी ओला लाल लिटमस कागद धरा. लिटमस कागदाच्या रंगात काही बदल होत नाही.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_four">
+      <TEXTVALUE>शंक्वाकृती चंबूच्या तोंडाशी ओला निळा लिटमस कागद धरा. लिटमस कागदाच्या रंगात काही बदल होत नाही. हे सूचित करते की हायड्रोजन वायु ही आम्लधर्मी नाही आणि अल्कधर्मी पण नाही.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_five">
+      <TEXTVALUE>आता शंक्वाकृती चंबूला एक भोक असलेले बूच लावा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_six">
+      <TEXTVALUE>बूचाच्या भोकातून बारीक जेट नलिका आत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_seven">
+      <TEXTVALUE>पेटलेली मेणबत्ती जेट नलिकेच्या तोंडाशी धरा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ZincLitmuspaperCandle">
+    <TEXT ID="ZincLitmuspaperCandle_eight">
+      <TEXTVALUE>ज्योत जवळ आल्याबरोबर, नलिकेतून बाहेर येणारी वायु पेट घेते आणि छोटा स्फोट होतो, एक पॉप असा आवाज येतो आणि ज्योत विझते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_one">
+      <TEXTVALUE>आता २ मिली झिंक सल्फेट द्रावण शंक्वाकृती चंबूतून एका स्वच्छ  परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>काही थेंब NaOH द्रावण परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_two">
+      <TEXTVALUE>एक पांढरे जेल सारखे अवक्षेपण परिक्षा नळीत निर्माण होते. परिक्षा नळी नीट हलवा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="NaOH">
+    <TEXT ID="NaOH_three">
+      <TEXTVALUE>आता परिक्षा नळीत अतिरिक्त NaOH टाका. जेव्हा अतिरिक्त NaOH टाकल्या जाते, तेव्हा अवक्षेपण विरघळते.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="NaOH_four">
+      <TEXTVALUE>निर्माण झालेले अवक्षेपण Zn(OH)2 चे असते. हे सूचित करते की द्रावणात Zn2+ आयन उपस्थित आहेत.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="TestTubeRack">
+    <TEXT ID="TestTubeRack_one">
+      <TEXTVALUE>परिक्षा नळी परत जागेवर ठेवा.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="KippsApparatus">
+    <TEXT ID="KippsApparatus_one">
+      <TEXTVALUE>आता २ मिली झिंक सल्फेट द्रावण शंक्वाकृती चंबूतून दुसर्याक परिक्षा नळीत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="GasFromKipps">
+    <TEXT ID="GasFromKipps_one">
+      <TEXTVALUE>या परिक्षा नळीच्या द्रावणातून किप्स उपकरण वापरून हायड्रोजन सल्फाइड वायु जाऊ द्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="ShakingTestTube">
+    <TEXT ID="ShakingTestTube_one">
+      <TEXTVALUE>परिक्षा नळी हलवा. झिंक सल्फाइड चे पांढरे अवक्षेपण निर्माण होईल.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="Result">
+    <TEXT ID="Result_one">
+      <TEXTVALUE>या अभिक्रिये वरून आपण असा निष्कर्ष काढू शकतो की झिंक हायड्रोजनपेक्षा अधिक अभिक्रियाशील आहे, म्हणून विरल आम्लातून ते हायड्रोजन ला विस्थापित करते आणि द्रावणात Zn2+ आयनच्या रूपात उपस्थित असते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <!--Heating of copper sulphate-->
+  <SCENE ID="1intro">
+    <TEXT ID="1intro_one">
+      <TEXTVALUE>notext</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="2table">
+    <TEXT ID="2table_one">
+      <TEXTVALUE>आवश्यक सामग्री: जलयुक्त कॉपर सल्फेट स्फटिके, ऊर्ध्वपतित पाणी, परिक्षा नळी, स्पाट्युला, पकड, उकळण्यासाठी नळी, बन्सेन बर्नर इत्यादी</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="3takcop">
+    <TEXT ID="3takcop_one">
+      <TEXTVALUE>पकड वापरून उकळण्याची नळी धरा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="3takcop_two">
+      <TEXTVALUE>स्पाट्युला वापरून थोडी कॉपर सल्फेट स्फटिके वॉच ग्लास मधून घ्या आणि उकळण्याच्या नळीत टाका.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="4heat">
+    <TEXT ID="4heat_one">
+      <TEXTVALUE>बर्नर वर नळी आधी हळू गरम करा आणि मग ज्योत मोठी करा.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="4heat_two">
+      <TEXTVALUE>गरम झाल्यावर कॉपर सल्फेट स्फटिकांचा निळा रंग बदलून पांढरा होतो.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="5drop">
+    <TEXT ID="5drop_one">
+      <TEXTVALUE>उकळण्याच्या नळीत पाण्याचे थेंब दिसतात.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_two">
+      <TEXTVALUE>जलयुक्त कॉपर सल्फेट मध्ये स्फटिकीकरणाचे पाणी असते.</TEXTVALUE>
+    </TEXT>
+    <TEXT ID="5drop_three">
+      <TEXTVALUE>गरम केल्यावर कॉपर सल्फेट स्फटिकातून पाणी निघून जाते आणि अॅन्हायड्रस कॉपर सल्फेट CuSO4 चे पांढरे अवक्षेपण निर्माण होते.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="6rest">
+    <TEXT ID="6rest_one">
+      <TEXTVALUE>ज्योतीवरून नळी काढा आणि थोडा वेळ थंड होऊ दे.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="7dist">
+    <TEXT ID="7dist_one">
+      <TEXTVALUE>ड्रॉपर वापरून थोडेसे ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="8drop">
+    <TEXT ID="8drop_one">
+      <TEXTVALUE>गरम केल्यानंतर निर्माण झालेले अॅन्हायड्रस कॉपर सल्फेट ज्या नळीत आहे त्या नळीत २-३ थेंब पाणी टाका. </TEXTVALUE>
+    </TEXT>
+    <TEXT ID="8drop_two">
+      <TEXTVALUE>पांढरे कॉपर सल्फेट निळे होते म्हणजे निळ्या रंगाचे जलयुक्त कॉपर सल्फेट परत निर्माण झाले.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+  <SCENE ID="9result">
+    <TEXT ID="9result_one">
+      <TEXTVALUE>म्हणून ही अभिक्रिया एक व्युत्क्रमी रासायनिक बदल आहे.</TEXTVALUE>
+    </TEXT>
+  </SCENE>
+</DATA>

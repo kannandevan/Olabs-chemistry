@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_1">
+	<TEXTVALUE>ಮೆದು ನೀರು ಮತ್ತು ಗಡಸು ನೀರಿನೊಂದಿಗೆ ಸಾಬೂನಿನ ಸ್ವಚ್ಛಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_str_2">
+	<TEXTVALUE>ಪ್ರಾರಂಭಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab0">
+	<TEXT ID="Lab0_one">
+	<TEXTVALUE> ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು : ಬೀಕರ್ ಗಳು, ಸಾಬೂನಿನ ತುಣಕು, ಬಟ್ಟೆಯ ತುಣುಕು, ಆಸವಿತ ನೀರು, ಬಾವಿ ನೀರು, 50ml ಅಳತೆಯ ಸಿಲಿಂಡರ್, 10ml ಅಳತೆಯ ಸಿಲಿಂಡರ್, ಅಳತೆಯ ಪಟ್ಟಿ, ಪ್ರನಾಳಗಳು, ಗಾಜಿನ ಕಡ್ಡಿ, ಶಾಯಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್, ಬುನ್ಸನ್ ಬರ್ನರ್.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_3">
+	<TEXTVALUE>ಸೋಪ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_4">
+	<TEXTVALUE>ಬಟ್ಟೆ ತುಣುಕುಗಳು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_5">
+	<TEXTVALUE>ಆಸವಿತ ನೀರು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_6">
+	<TEXTVALUE>ಬಾವಿ ನೀರು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_string_7">
+	<TEXTVALUE>ಇಂಕ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_8">
+	<TEXTVALUE>Calcium chloride[2g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_9">
+	<TEXTVALUE>Beakers</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_10">
+	<TEXTVALUE>Soap pieces[1g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_11">
+	<TEXTVALUE>Cloth pieces 
+(5 cm x 5 cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_12">
+	<TEXTVALUE>Distilled water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_13">
+	<TEXTVALUE>Well water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_14">
+	<TEXTVALUE>Measuring cylinder
+ 50ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_15">
+	<TEXTVALUE>Measuring cylinder
+ 10ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_16">
+	<TEXTVALUE>Test tubes</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_17">
+	<TEXTVALUE>Measuring scale</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_18">
+	<TEXTVALUE>Ink</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_19">
+	<TEXTVALUE>Calcium chloride</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_20">
+	<TEXTVALUE>Bunsen burner</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab0_str_21">
+	<TEXTVALUE>Glass rods</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+
+
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>ಆಸವಿತ ನೀರು ಇರುವ ಬೀಕರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>ಅಳತೆಯ ಸಿಲಿಂಡರ್  ಸಹಾಯದಿಂದ 20 ml ಆಸವಿತ ನೀರನ್ನು ಅಳತೆ ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>ಬೀಕರ್  ಎ, ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>ಬಾವಿ ನೀರು ಇರುವ ಬೀಕರ್  ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>ಅಳತೆಯ ಸಿಲಿಂಡರ್ ಸಹಾಯದಿಂದ 20ml ಬಾವಿ ನೀರನ್ನು ಅಳತೆ ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_str_b1">
+	<TEXTVALUE>ಬೀಕರ್ ಬಿ ,ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE> ಬೀಕರ್ ಬಿ,  ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE> ಪುನಃ ಅಳತೆಯ ಸಿಲಿಂಡರ್ ಸಹಾಯದಿಂದ 20 ml  ಆಸವಿತ ನೀರನ್ನು ಅಳತೆ ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE> ಪುನಃ ಅಳತೆಯ ಸಿಲಿಂಡರ್  ಸಹಾಯದಿಂದ 20 ml  ಆಸವಿತ ನೀರನ್ನು ಅಳತೆ ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>ಬೀಕರ್  ಸಿ ,ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>2gm ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್ ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>ಆಸವಿತ  ನೀರು ಇರುವ ಬೀಕರ್  ಸಿ ಗೆ ವರ್ಗಾಯಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್ ಕರುಗುವವರೆಗೂ ಅದನ್ನು ಚೆನ್ನಾಗಿ ಕಲಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_str_b2">
+	<TEXTVALUE>Glass rod</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>ಪ್ರತಿಯೊಂದು 1gm ತೂಕವಿರುವ 3 ಸಾಬೂನಿನ ತುಣಕನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>ಎ, ಬಿ. ಸಿ ಬೀಕರ್ ಗಳಿಗೆ ಸಾಬೂನಿನ ತುಣಕನ್ನು ಸೇರಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_two">
+	<TEXTVALUE>3 ಗಾಜಿನ ಕಡ್ಡಿಗಳನ್ನು  ತಗೆದುಕೊಂಡು  ಪ್ರತಿ ಬೀಕರಿನಲ್ಲಿಡಿ .</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>ಸಾಬೂನು ಕರಗುವವರೆಗೆ ಗಾಜಿನ ಕಡ್ಡಿಗಳ ಸಹಾಯದಿಂದ ಕಲಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>ಸಬೂನು ಪೂರ್ಣವಾಗಿ ಕರಗದೇ ಇದ್ದಲ್ಲಿ ,ಬೀಕರನ್ನು ಬುನ್ ಸೆನ್ ಬರ್ನರ್ ಮೇಲೆ ಬಿಸಿ  ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_two">
+	<TEXTVALUE> ಗಾಜಿನ ಕಡ್ಡಿಯ ಸಹಾಯದಿಂದ , ಮಿಶ್ರಣವನ್ನು ಕಲುಕುತ್ತ ಬಿಸಿ ಮಾಡಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>ಉಳಿದ 2 ಬೀಕರ್ ಗಳಿಗೆ ಈ ಹಂತಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>ಉಳಿದ 2 ಬೀಕರ್ ಗಳಿಗೆ ಈ ಹಂತಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>ಎ,ಬಿ,ಸಿ ಹೆಸರಿರುವ ಮೂರು ಪ್ರನಾಳಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>ಬೀಕರ್  ಎ , ನಲ್ಲಿ  ಸಾಬೂನಿನ ಮಿಶ್ರಣ ತೆಗೆದುಕೊಳ್ಳಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>10ml ಸಾಬೂನಿನ ಮಿಶ್ರಣವನ್ನು ಅಳತೆಯ ಸಿಲಿಂಡರ್ ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>ಪ್ರನಾಳ ಎ ಗೆ ವರ್ಗಾಯಿಸಿ</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>ಪ್ರನಾಳ ಎ ಗೆ ವರ್ಗಾಯಿಸಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>ಅದೇರೀತಿ ಅಳತೆಯ ಸಿಲಿಂಡರ್  ಸಹಾಯದಿಂದ ಬೀಕರ್ ಬಿ, ಯಲ್ಲಿರುವ 10ml ಸಾಬೂನಿನ ಮಿಶ್ರಣವನ್ನು ಪ್ರನಾಳ ಬಿ, ಗೆ ಹಾಕಿರಿ ಹಾಗೆಯೇ ಬೀಕರ್  ಸಿ, ಯಿಂದ 10ml ಸಾಬೂನಿನ ಮಿಶ್ರಣವನ್ನು ಪ್ರನಾಳ ಸಿ, ಗೆ ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab25_two">
+	<TEXTVALUE>ಸಾಬೂನಿನ ಮಿಶ್ರಣದ ಆರಂಭಿಕ ಅಳತೆಯನ್ನು ಅಳತೆಯ ಪಟ್ಟಿಯ ಸಹಾಯದಿಂದ ಅಳೆತೆ ಮಾಡಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_str_b3">
+	<TEXTVALUE>ಅಳತೆಗಳನ್ನು ದಾಖಲಿಸಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="lab26chart">
+	<TEXT ID="lab26chart_one">
+	<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಕೈಯಲ್ಲಿ ಹಿಡಿದು ಅದರ ಬಾಯಿಯನ್ನು ಮುಚ್ಚಿ ಹತ್ತು ಬಾರಿ ಮೇಲೆ ಕೆಳಕ್ಕೆ ಅಲುಗಾಡಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_1">
+	<TEXTVALUE>Soap solution</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_2">
+	<TEXTVALUE>Initial length of 
+soap solution (cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_3">
+	<TEXTVALUE>Length of foam
+ produced(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_4">
+	<TEXTVALUE>Final length of 
+soap solution(cm)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_5">
+	<TEXTVALUE>With distilled water
+(soft water in test tube A)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_6">
+	<TEXTVALUE>With well water 
+( hard water in test tube B)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab26chart_tt_7">
+	<TEXTVALUE>With well water 
+( hard water in test tube B)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab27">
+	<TEXT ID="Lab27_one">
+	<TEXTVALUE>ಪ್ರನಾಳ ಎ, ತೆಗೆದುಕೊಳ್ಳಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab28">
+	<TEXT ID="Lab28_one">
+	<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಕೈಯಲ್ಲಿ ಹಿಡಿದು ಅದರ ಬಾಯಿಯನ್ನು ಮುಚ್ಚಿ ಹತ್ತು ಬಾರಿ ಮೇಲೆ ಕೆಳಕ್ಕೆ ಅಲುಗಾಡಿಸಿ.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab29">
+	<TEXT ID="Lab29_one">
+	<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ನೊರೆಬಂದಿರುವುದನ್ನು ಕಾಣಬಹುದು</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab292">
+	<TEXT ID="Lab292_one">
+	<TEXTVALUE>ಉಳಿದ 2 ಪ್ರನಾಳಗಳಿಗೆ ಈ ಹಂತಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab292_two">
+	<TEXTVALUE>ಪ್ರತಿಯೊಂದು ಪ್ರನಾಳದಲ್ಲಿರುವ ಸಾಬೂನಿನ ನೊರೆಯ ಅಂತಿಮ ಅಳತೆಯನ್ನು ಅಳೆಯಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="lab30chart2">
+	<TEXT ID="lab30chart2_one">
+	<TEXTVALUE>ಪ್ರನಾಳ ಎ, ನಲ್ಲಿ ಹೆಚ್ಚು ನೊರೆ ಉಂಟಾಗಿರುವುದನ್ನು ಕಾಣಬಹುದು ಮತ್ತು ಪ್ರನಾಳ ಬಿ, ನಲ್ಲಿ ಕಡಿಮೆ ನೊರೆ ಉಂಟಾಗಿರುವುದನ್ನು ಕಾಣಬಹುದು ಮತ್ತು ಪ್ರನಾಳ ಸಿ, ನಲ್ಲಿ ಅತೀ ಕಡಿಮೆ ನೊರೆ ಉಂಟಾಗಿರುವುದನ್ನು ಕಾಣಬಹುದು.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab31">
+	<TEXT ID="Lab31_one">
+	<TEXTVALUE>ಬಿಳಿಯ ಬಟ್ಟೆಯ ಮೂರು ತುಣುಕುಗಳನ್ನು ಟೈಲ್ ಮೇಲೆ ಜೋಡಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab31_ab_1">
+	<TEXTVALUE>Tile</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab32">
+	<TEXT ID="Lab32_one">
+	<TEXTVALUE>ಬಟ್ಟೆಯ ಮಧ್ಯಬಾಗದಲ್ಲಿ ಶಾಯಿಯ ಹನಿಯನ್ನು  ಹಾಕಿರಿ ಮತ್ತು ಒಣಗಲು ಬಿಡಿ </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Lab32_clc_1">
+	<TEXTVALUE>10 min</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab33">
+	<TEXT ID="Lab33_one">
+	<TEXTVALUE>ಟೈಲ್ ನಿಂದ ಬಟ್ಟೆಯ ತುಣಕುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab34">
+	<TEXT ID="Lab34_one">
+	<TEXTVALUE>ಸಾಬೂನಿನ ಮಿಶ್ರಣ ಉಳಿದಿರುವ ಬೀಕರ್  ಎ, ಬಿ, ಸಿ ಯಲ್ಲಿ ಶಾಯಿಯಿಂದ ಗುರುತು ಮಾಡಿರುವ ಬಟ್ಟೆಯ ತುಣಕನ್ನು ಹಾಕಿರಿ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab34_two">
+	<TEXTVALUE>3 ಬೀಕರ್ ಗಳನ್ನು 10 ನಿಮಿಷಗಳ ಕಾಲ ಅಲುಗಾಡಿಸದಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab35">
+	<TEXT ID="Lab35_one">
+	<TEXTVALUE>ಬೀಕರ್ ನಿಂದ ತುಣಕುಗಳನ್ನು ತೆಗೆಯಿರಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab361">
+	<TEXT ID="Lab361_one">
+	<TEXTVALUE>ಪ್ರತಿಯಂದು ತುಂಡನ್ನು ಉಜ್ಜಿರಿ</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab36">
+	<TEXT ID="Lab36_one">
+	<TEXTVALUE>ಸಾಬೂನಿನ ದ್ರಾವಣ  A ನಲ್ಲಿ ಅದ್ದಿದ ಬಟ್ಟೆಯ ಮೇಲಿನ ಶಾಯಿಯ ಗುರುತು ಪೂರ್ಣವಾಗಿ ಮಾಯವಾಗಿದೆ. ಸಾಬೂನಿನ ದ್ರಾವಣ B  ನಲ್ಲಿ ಅದ್ದಿದ ಬಟ್ಟೆಯ ಮೇಲಿನ ಶಾಯಿಯ ಗುರುತು ಸ್ವಲ್ಪ ಪ್ರಮಾಣದಲ್ಲಿ ಮಾಯವಾಗಿದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab36_two">
+	<TEXTVALUE>ಸಾಬೂನಿನ ದ್ರಾವಣ  C  ನಲ್ಲಿ ಅದ್ದಿದ ಬಟ್ಟೆಯ ಮೇಲಿನ ಶಾಯಿಯ  ಗುರುತಿನಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಕಂಡುಬಂದಿರುವುದಿಲ್ಲ ಮತ್ತು ಆ ಬಟ್ಟೆಯ ಮೇಲೆ ತೇಲುಕಶ್ಮಲ ಇರುವುದನ್ನು ಕಾಣಬಹುದು</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab38chart3">
+	<TEXT ID="lab38chart3_one">
+	<TEXTVALUE>ಆಸವಿತ ನೀರಿನೊಂದಿಗೆ ಸಾಬೂನು ಹೆಚ್ಚು ಶುಚಿಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿರುವುದನ್ನು ಕಾಣಬಹುದು ಮತ್ತು ಬಾವಿ ನೀರಿನೊಂದಿಗೆ ಕಡಿಮೆ ಶುಚಿಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿರುವುದನ್ನು ಕಾಣಬಹುದು.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_two">
+	<TEXTVALUE>ಆಸವಿತ ನೀರಿನೊಂದಿಗೆ ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್ ಕರಗಿರುವ ಮಿಶ್ರಣದೊಂದಿಗೆ(ತುಂಬ ಗಡಸು ನೀರು) ಸಾಬೂನು ಅತೀ ಕಡಿಮೆ ಸ್ವಚ್ಛಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_1">
+	<TEXTVALUE>Maximum </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_2">
+	<TEXTVALUE>Most cleansing capability</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_3">
+	<TEXTVALUE>Smaller length</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_4">
+	<TEXTVALUE>Less cleansing capability
+ than soft water</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_5">
+	<TEXTVALUE>Minimum length</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_ta_6">
+	<TEXTVALUE>Least cleansing capability</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_las_1">
+	<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_fin_1">
+	<TEXTVALUE>Cleaning capability</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_DILSULPHURICACID">
+        <source>तनु सल्फ्युरिक अम्ल</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ALCOHOL">
+        <source>अल्कोहल-पानी का मिश्रण</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ALCOHOL_LBL">
+        <source>अल्कोहल</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_ALUMINISOL">
+        <source>एल्यूमीनियम सल्फेट का विलयन</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ALUMINIUMSULPHATE">
+        <source>एल्यूमीनियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_AMMONIUMSULPHATE">
+        <source>एल्यूमीनियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>अकार्बनिक यौगिकों की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_ANIMATIONTITLEONE">
+        <source>अकार्बनिक यौगिकों के शुद्ध नमूने की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_BACK">
+        <source>वापस</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_BLACKPAPER">
+        <source>काला कागज</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_COLDWATER">
+        <source>ठंडा पानी</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_DILSULPHRICACID">
+        <source>तनु सल्फ्युरिक अम्ल</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_DISTILLEDWATER">
+        <source>आसुत जल</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_ETHYLALCOHOL">
+        <source>इथाइल अल्कोहल</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_FERRICCHLORIDE">
+        <source>फ़ेरिक क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_FERRICCHOLORIDE">
+        <source>फ़ेरिक क्लोराइड</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_FERROUSAMMONIUMSULPHATE">
+        <source>फेरस अमोनियम सल्फेट </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_FERROUSAMONIUMSULPHATE">
+        <source>फेरस अमोनियम सल्फेट का शुद्ध नमूना तैयार करने के लिए</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_FERROUSAMONIUMSULPHATEMOHRSALT">
+        <source>फेरस अमोनियम सल्फेट </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_FERROUSSULPHATE">
+        <source>फेरस का सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_FILTERPAPER">
+        <source>छन्ना कागज</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_GLASSROD">
+        <source>कांच की छड़</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_HYDRATEDOXALICACID">
+        <source>जलयोजित आक्जेलिक अम्ल</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_HYDRATEDPOTASSIUMOXALATE">
+        <source>जलयोजित पोटेशियम आक्जालेट</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_ICECOLDWATER">
+        <source>बर्फीला पानी</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_POTASHALUM">
+        <source>पोटाश फिटकिरी</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_POTASIUMTRIOXALATOFERRATE">
+        <source>पोटेशियम ट्रायक्साल्टोफेरेट (III)</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_POTASSIUMFERRICOXALATE">
+        <source>पोटेशियम फेरिक आक्जालेट</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_POTASSIUMHYDROXIDE">
+        <source>पोटेशियम हाइड्रोक्साइड</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_POTASSIUMOXALATE">
+        <source>पोटेशियम आक्जालेट</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_POTASSIUMSULPHATE">
+        <source>पोटेशियम सल्फेट</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_POTTASIUMSULLPHATESOLN">
+        <source>पोटेशियम सल्फेट का विलयन</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_PREPOTASSIUMTRIOXALATOFERRATE">
+        <source>पोटेशियम ट्राईआक्जालेटोफेरेट (III) की तैयारी</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_PURESAMPLEOFPOTASHALUM">
+        <source>पोटाश फिटकिरी का शुद्ध नमूना तैयार करने के लिए</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_PURESAMPLEPOTASHALUM">
+        <source>पोटाश फिटकिरी का शुद्ध नमूना</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_SANDBATH">
+        <source>सेन्ड बाथ</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_START">
+        <source>प्रारंभ</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_WATER">
+        <source>पानी</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

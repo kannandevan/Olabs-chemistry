@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>तेल आणि मेदीय पदार्थांचे गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>सुरु करा </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोगास सुरुवात करण्यासाठी सुरु करा बटणावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="SolubilityTest_text">
+	<TEXTVALUE>द्रावणीयता परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TransluscentSpotTest_text">
+	<TEXTVALUE>अर्धवट पारदर्शक बिन्दु परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BaudouinTest_text">
+	<TEXTVALUE>बाऊडौइन परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="HublesTest_text">
+	<TEXTVALUE>हबल परिक्षा</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="acrolein_text">
+	<TEXTVALUE>एक्रोलीन परिक्षा</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BackBtn_text">
+	<TEXTVALUE>&#60;&#60;मागे</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परिक्षा निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DesiGhee_text">
+	<TEXTVALUE>देशी तूप</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VegetableGhee_text">
+	<TEXTVALUE>वनस्पती तूप</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RefinedOil_text">
+	<TEXTVALUE>परिष्कृत तेल</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे देशी तूप परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Desighee_two">
+	<TEXTVALUE>देशी तूप</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Alcohol_text">
+	<TEXTVALUE>अल्कोहोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Chloroform_text">
+	<TEXTVALUE>क्लोरोफॉर्म</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Water_text">
+	<TEXTVALUE>पाणी</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे देशी तूप परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे देशी तूप परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>ड्रॉपर वापरून सुमारे ५ मिली पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>देशी तूप असलेल्या परिक्षा नळीत टाका. देशी तूप पाण्यात मिश्रित होत नाही.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>आता दुसर्याू परिक्षा नळीत थोडे देशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>आता दुसर्याू परिक्षा नळीत थोडे देशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून ५ मिली अल्कोहोल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>देशी तूप असलेल्या परिक्षा नळीत टाका.  देशी तूपाचा खाली थर निर्माण होतो. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>परिक्षा नळी बन्सेन बर्नर वर गरम करा. गरम केल्यावर तुपाचा खालचा थर विरघळतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>नवीन परिक्षा नळीत थोडे देशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>नवीन परिक्षा नळीत थोडे देशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>नवीन ड्रॉपर वापरून सुमारे ५ मिली क्लोरोफॉर्म घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>देशी तूप असलेल्या परिक्षा नळीत टाका.  देशी तूप क्लोरोफॉर्ममध्ये मिश्रित होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे वनस्पती तूप एका परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="VeggheeText">
+	<TEXTVALUE>वनस्पती तूप</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>स्पाट्युला वापरून थोडेसे वनस्पती तूप एका परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>ड्रॉपर वापरून सुमारे ५ मिली पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>वनस्पती तूप असलेल्या परिक्षा नळीत टाका.  वनस्पती तूप आणि पाणी मिश्रित होत नाहीत.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>आता दुसर्याी परिक्षा नळीत थोडे वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>आता दुसर्याी परिक्षा नळीत थोडे वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>दुसरे ड्रॉपर वापरून ५ मिली अल्कोहोल घ्या.	</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>वनस्पती तूप असलेल्या परिक्षा नळीत टाका. वनस्पती तूपाचा थर खाली निर्माण होतो. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>परिक्षा नळी बन्सेन बर्नर वर गरम करा. गरम केल्यावर तुपाचा खालचा थर विरघळतो.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>नवीन परिक्षा नळीत थोडे वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>नवीन परिक्षा नळीत थोडे वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>नवीन ड्रॉपर वापरून सुमारे ५ मिली क्लोरोफॉर्म घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>वनस्पती तूप असलेल्या परिक्षा नळीत टाका.  वनस्पती तूप क्लोरोफॉर्ममध्ये मिश्रित होते.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Refinedoil_text">
+		<TEXTVALUE>परिष्कृत तेल</TEXTVALUE>
+	</TEXT>	
+	
+</SCENE>
+
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+		
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>ड्रॉपर वापरून सुमारे ५ मिली पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>परिष्कृत तेल असलेल्या परिक्षा नळीत टाका. तेल आणि पाणी मिश्रित होत नाहीत.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>आता नवीन परिक्षा नळीत थोडेसे परिष्कृत तेल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>आता नवीन परिक्षा नळीत थोडेसे परिष्कृत तेल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून ५ मिली अल्कोहोल घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>परिष्कृत तेल असलेल्या परिक्षा नळीत टाका.  तेल थर खाली निर्माण होतो. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>परिक्षा नळी बन्सेन बर्नर वर गरम करा.  गरम केल्यावर तेल खालचा थर विरघळतो.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>नवीन परिक्षा नळीत थोडे परिष्कृत तेल घ्या.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>नवीन परिक्षा नळीत थोडे परिष्कृत तेल घ्या.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>नवीन ड्रॉपर वापरून सुमारे ५ मिली क्लोरोफॉर्म घ्या.</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>परिष्कृत तेल असलेल्या परिक्षा नळीत टाका.  तेल क्लोरोफॉर्ममध्ये मिश्रित होते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+		
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे देशी तूप घ्या आणि फिल्टर कागदावर ठेवा. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subone">
+		<TEXTVALUE>त्यावर अजून एक फिल्टर कागद घ्या आणि दाबा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subtwo">
+		<TEXTVALUE>तो फिल्टर कागद घ्या आणि पेटलेल्या मेणबत्ती समोर धरा, आणि ज्योतीसमोर हलवा. तुपामुळे निर्माण झालेल्या डागातून ज्योत अर्धवट दिसेल.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subthree">
+		<TEXTVALUE>हे असे घडते कारण जेव्हा मेद किंवा तेल कागदावर ठेवले जाते ते प्रकाशाचे विवर्तन करते. विवर्तित प्रकाश कागदाच्या एका बाजूने दुसर्याव बाजूला प्रवास करू शकते आणि म्हणून अर्धवट पारदर्शक डाग निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे वनस्पती तूप घ्या आणि फिल्टर कागदावर ठेवा. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subone">
+		<TEXTVALUE>त्यावर अजून एक फिल्टर कागद घ्या आणि दाबा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subtwo">
+		<TEXTVALUE>तो फिल्टर कागद घ्या आणि पेटलेल्या मेणबत्ती समोर धरा, आणि ज्योतीसमोर हलवा. तुपामुळे निर्माण झालेल्या डागातून ज्योत अर्धवट दिसेल.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subthree">
+		<TEXTVALUE>हे असे घडते कारण जेव्हा मेद किंवा तेल कागदावर ठेवले जाते ते प्रकाशाचे विवर्तन करते. विवर्तित प्रकाश कागदाच्या एका बाजूने दुसर्याव बाजूला प्रवास करू शकते आणि म्हणून अर्धवट पारदर्शक डाग निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल घ्या. काही थेंब फिल्टर कागदावर ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subzero">
+		<TEXTVALUE>त्यावर अजून एक फिल्टर कागद घ्या आणि दाबा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subone">
+		<TEXTVALUE>तो फिल्टर कागद घ्या आणि पेटलेल्या मेणबत्ती समोर धरा, आणि ज्योतीसमोर हलवा. तुपामुळे निर्माण झालेल्या डागातून ज्योत अर्धवट दिसेल.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene48_subtwo">
+		<TEXTVALUE>हे असे घडते कारण जेव्हा मेद किंवा तेल कागदावर ठेवले जाते ते प्रकाशाचे विवर्तन करते. विवर्तित प्रकाश कागदाच्या एका बाजूने दुसर्याव बाजूला प्रवास करू शकते आणि म्हणून अर्धवट पारदर्शक डाग निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VanaspatiGhee">
+		<TEXTVALUE>वनस्पती तूप</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे वितळलेले देशी तूप परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MeltedDesighee">
+		<TEXTVALUE>वितळलेले देशी तूप</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConSulphuricacid">
+		<TEXTVALUE>संहत HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="furfuralSolution">
+		<TEXTVALUE>२% फरफरल द्रावण</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>नवीन ड्रॉपर वापरून ५ मिली संहत HCl परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>आता २% फरफरल द्रावणाचे ३ थेंब परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene52_subone">
+		<TEXTVALUE>५-१० मिनिटे तसेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene52_subtwo">
+		<TEXTVALUE>काहीही बदल दिसणार नाही, म्हणजे शुद्ध देशी तूपात तिळाचे तेल मिश्रित नाही.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MINUTES_text">
+		<TEXTVALUE>५ ते १० मिनिटे</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे वितळलेले वनस्पती तूप परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MeltedVanaspatighee">
+		<TEXTVALUE>वितळलेले वनस्पती तूप</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>नवीन ड्रॉपर वापरून ५ मिली संहत HCl परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>आता २% फरफरल द्रावणाचे ३ थेंब परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_subb">
+		<TEXTVALUE>५-१० मिनिटे तसेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>गुलाबाचा लाल रंग दिसतो, म्हणजे वनस्पती तूपात ५% तिळाचे तेल असते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CottonSeedOil">
+		<TEXTVALUE>सरकीचे तेल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LinseedOil">
+		<TEXTVALUE>जवसाचे तेल</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>ड्रॉपर वापरून ३ मिली क्लोरोफॉर्म परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Hublesreagent">
+		<TEXTVALUE>हबल अभिकारक</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>नवीन ड्रॉपर वापरून थोडेसे सरकीचे तेल घ्या आणि त्यातले ४ थेंब परिक्षा नळीत टाका. परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>४ थेंब</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे हबल अभिकारक घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>क्लोरोफॉर्म  आणि सरकीचे च्या तेलाचे मिश्रण असलेल्या परिक्षा नळीत सुमारे ३ थेंब हबल अभिकारक टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene61_subone">
+		<TEXTVALUE>हबल अभिकारकातल्या आयोडीनचा जांभळा रंग कमी होत नाही, म्हणजे सरकीचे तेल कमी असम्पृक्त आहे.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="threedrops">
+		<TEXTVALUE>3 थेंब </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>ड्रॉपर वापरून सुमारे ३ मिली क्लोरोफॉर्म परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>नवीन ड्रॉपर वापरून थोडेसे जवसाचे तेल घ्या आणि ४ थेंब परिक्षा नळीत  टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे हबल अभिकारक घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>क्लोरोफॉर्म आणि जवसाच्या तेलाचे मिश्रण असलेल्या परिक्षा नळीत ३ थेंब हबल अभिकारक टाका. हबल अभिकारकातल्या आयोडीनचा जांभळा रंग कमी होतो म्हणजे जवसाचे तेल अधिक असम्पृक्त आहे.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>नमूना निवडण्यासाठी टॅब क्लिक करा.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>आवश्यक सामग्री: देशी तूप, पोटाशियम बायसल्फेट, परिक्षा नळी, स्पाट्युला, बन्सेन बर्नर इ.</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="pottan">
+		<TEXTVALUE>पोटाशियम बायसल्फेट</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="desi_ghee">
+		<TEXTVALUE>देशी तूप</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>स्पाट्युला वापरून ेशी तूप घ्या.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>स्पाट्युला वापरून ेशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>स्पाट्युला वापरून ेशी तूप घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>पोटाशियम बायसल्फेटची स्फटिके परिक्षा नळीत टाका. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene72_subone">
+		<TEXTVALUE>पोटाशियम बायसल्फेट सारख्या निर्जलक पदार्थाच्या उपस्थितीत जेव्हा मेद खूप गरम केले जाते, तेव्हा रेणुच्या ग्लिसेरोल भागाचे निर्जलीभवन होते आणि एक्रोलीन नावाचे एक असम्पृक्त अल्डिहाइड निर्माण होते. ह्याचा त्रास देणारा तिखट वास असतो.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="popup_txt">
+		<TEXTVALUE>एक्रोलीन चा त्रास देणारा तिखट वास निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडीशी वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="veg_ghee">
+		<TEXTVALUE>वनस्पती तूप</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene74">
+	<TEXT ID="Scene74_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडीशी वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene75">
+	<TEXT ID="Scene75_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडीशी वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene76">
+	<TEXT ID="Scene76_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडीशी वनस्पती तूप घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene77">
+	<TEXT ID="Scene77_sub">
+		<TEXTVALUE>पोटाशियम बायसल्फेटची स्फटिके परिक्षा नळीत टाका. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene78">
+	<TEXT ID="Scene78_sub">
+		<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene78_subone">
+		<TEXTVALUE>पोटाशियम बायसल्फेट सारख्या निर्जलक पदार्थाच्या उपस्थितीत जेव्हा मेद खूप गरम केले जाते, तेव्हा रेणुच्या ग्लिसेरोल भागाचे निर्जलीभवन होते आणि एक्रोलीन नावाचे एक असम्पृक्त अल्डिहाइड निर्माण होते. ह्याचा त्रास देणारा तिखट वास असतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene79">
+	<TEXT ID="Scene79_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene80">
+	<TEXT ID="Scene80_sub">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे परिष्कृत तेल परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene81">
+	<TEXT ID="Scene81_sub">
+		<TEXTVALUE>स्पाट्युला वापरून थोडीशी पोटाशियम बायसल्फेट स्फटिके घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene82">
+	<TEXT ID="Scene82_sub">
+		<TEXTVALUE>पोटाशियम बायसल्फेटची स्फटिके परिक्षा नळीत टाका. पकड वापरून परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene83">
+	<TEXT ID="Scene83_sub">
+		<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene83_subone">
+		<TEXTVALUE>पोटाशियम बायसल्फेट सारख्या निर्जलक पदार्थाच्या उपस्थितीत जेव्हा मेद खूप गरम केले जाते, तेव्हा रेणुच्या ग्लिसेरोल भागाचे निर्जलीभवन होते आणि एक्रोलीन नावाचे एक असम्पृक्त अल्डिहाइड निर्माण होते. ह्याचा त्रास देणारा तिखट वास असतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="truesolution">
+	<TEXT ID="truesolution_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sugar">
+	<TEXT ID="sugar_one">
+		<TEXTVALUE>Preparation of a true solution of sugar in water.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_two">
+		<TEXTVALUE>Add 10g of fine powdered sugar in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_three">
+		<TEXTVALUE>Then stir the solution using a glass rod until the sugar dissolves.</TEXTVALUE>
+		</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solution">
+	<TEXT ID="solution_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="cellophanepaper">
+	<TEXT ID="cellophanepaper_one">
+		<TEXTVALUE>Take some of the sugar solution in a test tube and paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="cellophanepaper_two">
+		<TEXTVALUE>View it from the other side The cellophane paper is clearly seen from the other side of the test tube. This indicates that a true solution is transparent.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Sugarfiltration">
+	<TEXT ID="Sugarfiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now pour some sugar solution taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Sugarfiltration_two">
+		<TEXTVALUE>There is no residue left on the filter paper. This indicates that solid particles cannot be separated from a true solution by filtration.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="Stability">
+	<TEXT ID="Stability_one">
+		<TEXTVALUE>Take some sugar solution in a test tube and leave it in a test tube rack for 20 minutes. The solution remains as it is without sediments. This indicates that true solutions are stable and do not show components’ deposits.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SaltWater">
+	
+   <TEXT ID="SaltWater_one">
+		<TEXTVALUE>Preparation of a true solution of common salt in water.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltWater_two">
+		<TEXTVALUE>Add 10g of fine powdered salt in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+ </TEXT>
+    <TEXT ID="SaltWater_three">
+		<TEXTVALUE>Then stir the solution using a glass rod until the salt dissolves.</TEXTVALUE>
+ </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="solutionsalt">
+	<TEXT ID="solutionsalt_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Salttranspirancy">
+	<TEXT ID="Salttranspirancy_one">
+		<TEXTVALUE>Take some salt solution in a test tube. Paste a small strip of cellophane paper on one side of the test tube and view it from the other side.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Salttranspirancy_two">
+		<TEXTVALUE>The cellophane paper is clearly seen from the other side of the test tube. This indicates that a true solution is transparent.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="SaltFiltration">
+	<TEXT ID="SaltFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now pour some salt solution taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltFiltration_two">
+		<TEXTVALUE>There is no residue left on the filter paper. This indicates that solid particles cannot be separated from a true solution by filtration.</TEXTVALUE>
+   </TEXT>
+    
+</SCENE>
+
+
+
+<SCENE ID="SaltStability">
+	<TEXT ID="SaltStability_one">
+		<TEXTVALUE>Take some salt solution in a test tube and leave it in a test tube rack for 20 minutes. The solution remains as it is without sediments. This indicates that true solutions are stable and do not show components’ deposits.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AlumWater">
+	<TEXT ID="AlumWater_one">
+		<TEXTVALUE>Add 10g of alum in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumWater_two">
+		<TEXTVALUE>Then stir the solution using a glass rod until the alum dissolves.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="solutionAlum">
+	<TEXT ID="psolutionAlum_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumTranspirncy">
+	<TEXT ID="AlumTranspirncy_one">
+		<TEXTVALUE>Take some of the alum solution into a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="AlumTranspirncy_two">
+		
+		<TEXTVALUE>view it from the other side. The cellophane paper is clearly seen from the other side of the test tube.  This indicates that a true solution is transparent.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumFiltration">
+	<TEXT ID="AlumFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now pour some alum solution taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumFiltration_two">
+		<TEXTVALUE>There is no residue left on the filter paper. This indicates that solid particles cannot be separated from a true solution by filtration.</TEXTVALUE>
+   </TEXT>
+       
+</SCENE>
+
+<SCENE ID="AlumStability">
+	<TEXT ID="AlumStability_one">
+		<TEXTVALUE>Take some alum solution in a test tube and leave it in a test tube rack for 20 minutes. The solution remains as it is without sediments. This indicates that true solutions are stable and do not show components’ deposits.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilWater">
+	<TEXT ID="SoilWater_one">
+		<TEXTVALUE>Add 10g of fine soil in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilWater_two">
+		<TEXTVALUE>Then stir the solution using a glass rod.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilTransparency">
+	<TEXT ID="SoilTransparency_one">
+		<TEXTVALUE>Take some of the soil suspension in a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="SoilTransparency_two">
+		<TEXTVALUE>View it from the other side. The cellophane paper is not visible from the other side of the test tube. This indicates that a suspension is opaque.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="SoilFiltration">
+	<TEXT ID="SoilFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now pour the soil suspension taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+  <TEXT ID="SoilFiltration_two">
+		<TEXTVALUE>Soil particles are seen on the filter paper. This indicates that suspended components of a suspension can be separated by filtration.</TEXTVALUE>
+   </TEXT>
+   </SCENE>
+
+
+<SCENE ID="SoilStability">
+	<TEXT ID="SoilStability_one">
+		<TEXTVALUE>Take some soil suspension in a test tube and leave it in a test tube rack for 20 minutes. You will note a gradual settlement of soil particles at the bottom of the test tube.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilStability_two">
+		<TEXTVALUE>This indicates that a suspension is unstable and shows settlement of heavier particles.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Chalkwater">
+	<TEXT ID="Chalkwater_one">
+		<TEXTVALUE>Add 10g of fine chalk powder in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Chalkwater_two">
+		<TEXTVALUE>Then stir the solution using a glass rod.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionchalk">
+	<TEXT ID="solutionchalk_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Chalktranspirancy">
+	<TEXT ID="Chalktranspirancy_one">
+		<TEXTVALUE>Take some of the chalk suspension in a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Chalktranspirancy_two">
+		<TEXTVALUE>View it from the other side. The cellophane paper is not visible from the other side of the test tube. This indicates that a suspension is opaque.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="ChalkFiltration">
+	<TEXT ID="ChalkFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now, pour the chalk suspension taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkFiltration_two">
+		<TEXTVALUE>Chalk particles are seen on the filter paper. This indicates that suspended components of a suspension can be separated by filtration.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="ChalkStability">
+	<TEXT ID="ChalkStability_one">
+		<TEXTVALUE>Take some chalk suspension in a test tube and leave it in a test tube rack for 20 minutes. You will note a gradual settlement of soil particles at the bottom of the test tube.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkStability_two">
+		<TEXTVALUE>This indicates that a suspension is unstable and shows settlement of heavier particles.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandWater">
+	<TEXT ID="FindsandWater_one">
+		<TEXTVALUE>Add 10g of fine sand in a 250ml beaker containing 95ml distilled water.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandWater_two">
+		<TEXTVALUE>2.	Then stir the solution using a glass rod.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="solutionsoisand">
+	<TEXT ID="solutionsoisand_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandTranspirancy">
+	<TEXT ID="FindsandTranspirancy_one">
+		<TEXTVALUE>Take some of the sand suspension in a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		 </TEXT>
+		<TEXT ID="FindsandTranspirancy_two">
+		<TEXTVALUE>View it from the other side. The cellophane paper is not visible from the other side of the test tube. This indicates that a suspension is opaque.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="FindsandFiltration">
+	<TEXT ID="FindsandFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now pour the sand suspension taken in another test tube through the funnel. A clear filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandFiltration_two">
+		<TEXTVALUE>Sand particles are seen on the filter paper. This indicates that suspended components of a suspension can be separated by filtration.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+<SCENE ID="Findsandstability">
+	<TEXT ID="Findsandstability_one">
+		<TEXTVALUE>Take some sand suspension in a test tube and leave it in a test tube rack for 20 minutes. You will note a gradual settlement of soil particles at the bottom of the test tube.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Findsandstability_two">
+		<TEXTVALUE>This indicates that a suspension is unstable and shows settlement of heavier particles.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchwater">
+	<TEXT ID="Starchwater_one">
+		<TEXTVALUE>Take 1g of starch powder in a 250ml beaker.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_two">
+		<TEXTVALUE>From another beaker containing 100ml distilled water, take 3ml of water into a measuring jar and pour this into the beaker containing starch.  Mix the solution well using a glass rod.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_three">
+		<TEXTVALUE>Heat the beaker containing the remaining 97ml of distilled over a Bunsen burner.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_four">
+		<TEXTVALUE>Pour the boiling water into the beaker containing starch. Stir it well using a glass rod and then cool it.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilstarch">
+	<TEXT ID="solutionsoilstarch_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchtranspirancy">
+	<TEXT ID="Starchtranspirancy_one">
+		<TEXTVALUE>Take some of the colloidal of starch in a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Starchtranspirancy_two">
+		<TEXTVALUE>View it from the other side. The cellophane paper can be seen dimly from the other side of the test tube. This indicates that a colloid is translucent.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="StarchFiltration">
+	<TEXT ID="StarchFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now, pour the colloidal of starch taken in another test tube through the funnel. A translucent filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="StarchFiltration_two">
+		<TEXTVALUE>No residue is left on the filter paper. This indicates that components causing a colloid cannot be separated by filtration.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="StarchStability">
+	<TEXT ID="StarchStability_one">
+		<TEXTVALUE>Take some colloidal solution of starch in a test tube and leave it in a test tube rack for 20 minutes. No change is observed. This indicates that colloids are stable. Their solute particles do not settle down even after a lapse of time.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Eggwater">
+	<TEXT ID="Eggwater_one">
+		<TEXTVALUE>Take 1g of egg albumin in a 250ml beaker.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_two">
+		<TEXTVALUE>From another beaker containing 100ml distilled water, take 5ml of water into a measuring jar and pour this into the beaker containing egg albumin.  Mix the solution well using a glass rod.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_three">
+		<TEXTVALUE>Take the beaker containing the remaining 95ml of distilled water and pour it slowly into the beaker containing egg albumin. Stir it well using a glass rod. A clear solution is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_four">
+		<TEXTVALUE>Add a few drops of dil. HCl into this clear solution and stir it well. The clear solution of albumin and water will become turbid.
+
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilegg">
+	<TEXT ID="solutionsoilegg_one">
+		<TEXTVALUE>Click to select any one of the tests.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="eggtranspirancy">
+	<TEXT ID="eggtranspirancy_one">
+		<TEXTVALUE>Take some colloidal of egg albumin in a test tube. Paste a small strip of cellophane paper on one side of the test tube.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="eggtranspirancy_two">
+		<TEXTVALUE>View it from the other side. The cellophane paper can be seen dimly from the other side of the test tube. This indicates that a colloid is translucent.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="EggFiltration">
+	<TEXT ID="EggFiltration_one">
+		<TEXTVALUE>Place a funnel over a test tube using a clamp stand. Then place a filter paper in the funnel. Now, pour the colloidal of egg albumin taken in another test tube through the funnel. A translucent filtrate is obtained.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="EggFiltration_two">
+		<TEXTVALUE>No residue is left on the filter paper. This indicates that components causing a colloid cannot be separated by filtration.</TEXTVALUE>
+   </TEXT>
+   
+   
+</SCENE>
+
+<SCENE ID="Eggstability">
+	<TEXT ID="Eggstability_one">
+		<TEXTVALUE>Take some colloidal solution of egg albumin in a test tube and leave it in a test tube rack for 20 minutes. No change is observed. This indicates that colloids are stable. Their solute particles do not settle down even after a lapse of time.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+
+
+	
+</DATA>

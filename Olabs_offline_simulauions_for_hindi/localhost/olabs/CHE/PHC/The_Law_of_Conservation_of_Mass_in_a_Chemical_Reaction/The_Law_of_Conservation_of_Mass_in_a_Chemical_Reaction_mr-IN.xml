@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>आवश्यक सामग्री: मापन नळकांडे, बेरीयम क्लोराइड द्रावण, सोडियम सल्फेट द्रावण, शंक्वाकृती चंबू, बूच, १० मिली परीक्षा नळी आणि इलेक्ट्रॉनिक वजन काटा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>५ मिली सोडियम सल्फेट द्रावण मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>५ मिली सोडियम सल्फेट द्रावण मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>५ मिली बेरीयम क्लोराइड द्रावण दुसर्यां नळकांड्यात घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>५ मिली बेरीयम क्लोराइड द्रावण दुसर्यां नळकांड्यात घ्या. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>१० मिली परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>परिक्षा नळी धाग्याने बांधा आणि शंक्वाकृती चंबूत अशी लटकवा की दोन्ही द्रावणे मिसळणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>चंबूच्या तोंडाला बूच लावा म्हणजे परिक्षा नळी जागेवरून हलणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>चंबूचे काळजीपूर्वक असे वजन करा की त्यातली द्रावणे मिसळणार नाही आणि वाचनांक नोंदवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>चंबू हलवा आणि वाकडा करा म्हणजे परिक्षा नळीतले बेरीयम क्लोराइड द्रावण सांडेल आणि चंबूतल्या सोडियम सल्फेट द्रावणाबरोबर मिश्रित होईल.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Lab12_two">
+	<TEXTVALUE>पांढर्या  रंगाचे बेरीयम सल्फेट (BaSO4) चे अवक्षेपण आणि सोडियम क्लोराइड (NaCl) चे जलयुक्त द्रावण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>अभिक्रिया संपण्यासाठी १० मिनिटे थांबा. पांढरे अवक्षेपण चंबूच्या बुडाशी एकत्र होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>चंबूचे परत वजन करा आणि वाचनांक नोंदवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab15">
+	<TEXT ID="lab15_one">
+	<TEXTVALUE>असे दिसून येईल की “अभिक्रियाकारकांचे एकूण वस्तुमान आणि उत्पादनांचे एकूण वस्तुमान एकसारखे आहे”. म्हणून वस्तुमानाच्या अक्षय्यतेचा नियम सिद्ध होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

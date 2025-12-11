@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-12 10:14+0530\n"
+"PO-Revision-Date: 2016-02-12 10:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:35
+msgid "Study the Process of Filtration"
+msgstr "छानने की प्रक्रिया का अध्ययन करें"
+
+msgid "Instructions:"
+msgstr "निर्देश:"
+
+msgid "1. Drag the funnel and  drop it above the tripod stand. "
+msgstr "1. फ़नल को खींचें और उसे ट्राइपॉड स्टैंड के ऊपर रखें। "
+
+msgid "2. Click on the filter paper box to open. "
+msgstr "2. फ़िल्टर पेपर बॉक्स पर क्लिक करें ताकि वह खुले। "
+
+msgid "3. Click the filter paper box. "
+msgstr "3. फ़िल्टर पेपर बॉक्स पर क्लिक करें। "
+
+msgid "4. Click the filter paper. "
+msgstr "4. फ़िल्टर पेपर पर क्लिक करें। "
+
+msgid "5. Click and drag the distilled water and   drop it in the filter paper. "
+msgstr "5. आसुत जल पर क्लिक करें और उसे खींचकर फ़िल्टर पेपर में डालें। "
+
+msgid "6. Drag the beaker containing muddy water and drop it above the funnel. "
+msgstr "6. गंदे पानी वाले बीकर को खींचें और उसे फ़नल के ऊपर रखें। "
+
+msgid "Drag the funnel and <br> drop it above the tripod stand"
+msgstr "फ़नल को खींचें और <br> उसे ट्राइपॉड स्टैंड के ऊपर रखें"
+
+msgid "Click on the filter paper box to open"
+msgstr "फ़िल्टर पेपर बॉक्स पर क्लिक करें ताकि वह खुले"
+
+msgid "Click the filter paper box"
+msgstr "फ़िल्टर पेपर बॉक्स पर क्लिक करें"
+
+msgid "Click the filter paper"
+msgstr "फ़िल्टर पेपर पर क्लिक करें"
+
+msgid "Click and drag the distilled water and <br>  drop it in the filter paper"
+msgstr "आसुत जल पर क्लिक करें और उसे खींचकर <br>  फ़िल्टर पेपर में डालें"
+
+msgid "Drag the beaker <br>containing muddy water and drop it above the funnel"
+msgstr "गंदे पानी वाला बीकर <br>खींचें और उसे फ़नल के ऊपर रखें"
+
+msgid "Click on the Reset button to do <br> the experiment again"
+msgstr "प्रयोग को दोबारा करने के लिए <br> रीसेट बटन पर क्लिक करें"
+
+msgid "Fold the filter paper properly"
+msgstr "फ़िल्टर पेपर को ठीक से मोड़ें"
+
+msgid "After the process of filtration, clear water is obtained.<br> Thus, the solid particle is eliminated."
+msgstr "छानने की प्रक्रिया के बाद स्वच्छ पानी प्राप्त होता है।<br> इस प्रकार ठोस कण हटा दिया जाता है।"
+
+msgid "Click on the Inference icon"
+msgstr "निष्कर्ष आइकन पर क्लिक करें"

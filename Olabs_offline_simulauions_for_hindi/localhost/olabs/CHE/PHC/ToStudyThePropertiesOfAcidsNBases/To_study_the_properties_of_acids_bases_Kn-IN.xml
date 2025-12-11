@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+		<TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_head_1">
+		<TEXTVALUE>ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳ ಗುಣಲಕ್ಷಣಗಳು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title1_strt1_1">
+		<TEXTVALUE>ಪ್ರಾರಂಭಿಸು</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_1">
+		<TEXTVALUE>ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳ ಗುಣಲಕ್ಷಣಗಳು</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_txt_22">
+		<TEXTVALUE>ಲಿಟ್ಮಸ್ ದ್ರಾವಣ(Blue/Red)</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="title2_zic_11">
+		<TEXTVALUE>ಸತು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title2_sod1_2">
+		<TEXTVALUE>ಘನ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="title3">
+	<TEXT ID="title3_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_titl_22">
+		<TEXTVALUE>ಲಿಟ್ಮಸ್ ದ್ರಾವಣ(Blue/Red)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_a11_1">
+		<TEXTVALUE>ಆಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_b11_1">
+		<TEXTVALUE>ಪ್ರತ್ಯಾಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title3_bak11_1">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="title004">
+	<TEXT ID="title004_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_zinc_11">
+		<TEXTVALUE>ಸತು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa_11">
+		<TEXTVALUE>ಆಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_aa__22">
+		<TEXTVALUE>ಪ್ರತ್ಯಾಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title004_bak_12">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+   
+</SCENE>
+<SCENE ID="title005">
+	<TEXT ID="title005_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_11">
+		<TEXTVALUE>ಘನ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_21">
+		<TEXTVALUE>ಆಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_ab_12">
+		<TEXTVALUE>ಪ್ರತ್ಯಾಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title005_bb_13">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು - ಪ್ರನಾಳದ  ಸ್ಟಾಂಡ್ ನಲ್ಲಿ ಇಟ್ಟ ಎರಡು ಪ್ರನಾಳಗಳು, ನೀಲಿ ಮತ್ತು ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ಮತ್ತು ಡ್ರಾಪರ್ .</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_11">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_ac_22">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣ</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	<SCENE ID="2zoomsol">
+	<TEXT ID="2zoomsol_one">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಮೊದಲಿಗೆ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+		
+		<SCENE ID="3testtubil">
+	<TEXT ID="3testtubil_one">
+		<TEXTVALUE>ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		
+			<SCENE ID="4redback">
+	<TEXT ID="4redback_one">
+		<TEXTVALUE>ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಹಾಕಿರಿ. </TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+			<SCENE ID="5blue">
+	<TEXT ID="5blue_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+	<SCENE ID="6bluflo">
+	<TEXT ID="6bluflo_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಇನ್ನೊಂದು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="7bluebak">
+	<TEXT ID="7bluebak_one">
+		<TEXTVALUE>ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	
+	<SCENE ID="8hcl">
+	<TEXT ID="8hcl_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+		<SCENE ID="9addto1">
+	<TEXT ID="9addto1_one">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಹೊಂದಿರುವ ಪ್ರನಾಳಕ್ಕೆ ಅದನ್ನು ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+
+<SCENE ID="9azoom">
+	<TEXT ID="9azoom_one">
+		<TEXTVALUE>ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+	
+	<SCENE ID="10hcl2">
+	<TEXT ID="10hcl2_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಇನ್ನೂ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್ ನ ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+		</SCENE>
+		
+<SCENE ID="11addto2">
+	<TEXT ID="11addto2_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಇನ್ನೂ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12change">
+	<TEXT ID="12change_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. HCl ಆಮ್ಲವಾಗಿದ್ದು pH ಮೌಲ್ಯ 7ಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿರುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12change_ac_23">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="14intro">
+	<TEXT ID="14intro_one">
+		<TEXTVALUE>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು- ಪ್ರನಾಳದ  ಸ್ಟಾಂಡ್ ನಲ್ಲಿ ಇರಿಸಿದ  ಎರಡು ಪ್ರನಾಳಗಳು , ನೀಲಿ ಮತ್ತು ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣ,  NaOH ದ್ರಾವಣ ಮತ್ತು ಡ್ರಾಪರ್.
+        </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="15zoomso">
+	<TEXT ID="15zoomso_one">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಮೊದಲಿಗೆ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="16testtubil">
+	<TEXT ID="16testtubil_one">
+		<TEXTVALUE>ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="17redback">
+	<TEXT ID="17redback_one">
+		<TEXTVALUE>ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+		 
+</SCENE>
+<SCENE ID="18blue">
+	<TEXT ID="18blue_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="19bluflo">
+	<TEXT ID="19bluflo_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಇನ್ನೊಂದು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="20bluebak">
+	<TEXT ID="20bluebak_one">
+		<TEXTVALUE>ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="21NAOH">
+	<TEXT ID="21NAOH_one">
+		<TEXTVALUE>ಸೋಡಿಯಂ ಹೈಡ್ರೋಕ್ಸೈಡ್ ದ್ರಾವಣದ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22addt0">
+	<TEXT ID="22addt0_one">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಹೊಂದಿರುವ ಪ್ರನಾಳಕ್ಕೆ ಅದನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಬಣ್ಣದಲ್ಲಾದ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change1">
+	<TEXT ID="25change1_one">
+		<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ದ್ರಾವಣ ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಏಕೆಂದರೆ ಸೋಡಿಯಂ ಹೈಡ್ರೋಕ್ಸೈಡ್ 7ಕ್ಕಿಂತ  ಹೆಚ್ಚು pH ಅನ್ನು ಹೊಂದಿರುವ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲವಾಗಿದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="23NAOH">
+	<TEXT ID="23NAOH_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಇನ್ನೂ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="24addto2">
+	<TEXT ID="24addto2_one">
+		<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ದ್ರಾವಣವನ್ನು ಹೊಂದಿರುವ ಪ್ರನಾಳಕ್ಕೆ ಅದನ್ನು ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="25change">
+	<TEXT ID="25change_one">
+		<TEXTVALUE>ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="25change_bah_11">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="1intro2">
+	<TEXT ID="1intro2_one">
+		<TEXTVALUE> ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು- ಪ್ರನಾಳ, ಸತುವಿನ ತುಣುಕುಗಳು, ಸ್ಪಾಚುಲಾ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಡ್ರಾಪರ್ , ಹಿಡಿಕಟ್ಟು  ಹೊಂದಿರುವ ಸ್ತಂಭ, ಒಂದು ರಂದ್ರವನ್ನು  ಹೊಂದಿರುವ ಬಿರಡೆ, ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆ, ಬುನ್ ಸನ್ ಬರ್ನರ್  ಮತ್ತು ಬೆಂಕಿ ಪೊಟ್ಟಣ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro2_zn_11">
+		<TEXTVALUE>ಸತು</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="3takezinc">
+	<TEXT ID="3takezinc_one">
+		<TEXTVALUE>ಸ್ಪಾಚುಲಾದ ಸಹಾಯದಿಂದ ಪ್ರನಾಳದಲ್ಲಿ ಸತುವಿನ ಕೆಲವು ತುಣುಕುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4hcl1">
+	<TEXT ID="4hcl1_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಕೆಲವು  ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್ ನಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow">
+	<TEXT ID="5flow_one">
+		<TEXTVALUE>ಅದನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand">
+	<TEXT ID="6stand_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟಿನ  ಸಹಾಯದಿಂದ ಪ್ರನಾಳವನ್ನು ಸ್ತಂಭದಲ್ಲಿರಿಸಿರಿ  ಮತ್ತು ಬಿರಡೆಯಿಂದ ಮುಚ್ಚಿ. ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆಯನ್ನು ಬಿರಡೆಯ ಮುಖಾಂತರ ಹಾಯಿಸಿರಿ. ಈಗ ಪ್ರನಾಳವನ್ನು ಬುನ್ಸನ್ ಬುನ್ ಸನ್ ಬರ್ನರ್   ಸಹಾಯದಿಂದ ಬಿಸಿ ಮಾಡಿ. ಬಿಸಿ ಮಾಡಿದಾಗ ಹೈಡ್ರೋಜನ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_h2_2">
+		<TEXTVALUE>ಅನಿಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6stand_fjt_11">
+		<TEXTVALUE>ಫೈನ್ ಜೆಟ್ ಪ್ರನಾಳ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="7teepati">
+	<TEXT ID="7teepati_one">
+		<TEXTVALUE>ಬೆಂಕಿ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ಬೆಂಕಿ ಕಡ್ಡಿಯನ್ನು ಉರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8zoomstand">
+	<TEXT ID="8zoomstand_one">
+		<TEXTVALUE>ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿಕಡ್ಡಿಯನ್ನು ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆಯ ಬಳಿ ತನ್ನಿ. ಬಿಡುಗಡೆಯಾದ ಅನಿಲ ಹೈಡ್ರೋಜನ್ ಅನಿಲವು , ಬೆಂಕಿ ಕಡ್ಡಿಯನ್ನು ನಂದಿಸಿ, ಚಿಕ್ಕ ಸ್ಪೋಟದೊಂದಿಗೆ ತಾನೇ ಪೋಪ್ ಶಬ್ದವನ್ನುಂಟು ಮಾಡುತ್ತಾ ಉರಿಯುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bcd_01">
+		<TEXTVALUE>ಜಲಜನಕ ಅನಿಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand_bv_11">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="1intro02">
+	<TEXT ID="1intro02_one">
+		<TEXTVALUE>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು - ಪ್ರನಾಳ, ಸತುವಿನ ತುಣುಕುಗಳು, ಸ್ಪಾಚುಲಾ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ, ಡ್ರಾಪರ್, ಹಿಡಿಕಟ್ಟು  ಹೊಂದಿರುವ ಸ್ತಂಭ, ಒಂದು ರಂದ್ರವನ್ನು ಹೊಂದಿರುವ ಬಿರಡೆ, ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆ, ಬುನ್ಸನ್ ಬರ್ನರ್  ಮತ್ತು ಬೆಂಕಿ ಪೊಟ್ಟಣ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takezinc1">
+	<TEXT ID="3takezinc1_one">
+		<TEXTVALUE>ಸ್ಪಾಚುಲಾದ ಸಹಾಯದಿಂದ ಪ್ರನಾಳದಲ್ಲಿ ಸತುವಿನ ಕೆಲವು ತುಣುಕುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4naoh">
+	<TEXT ID="4naoh_one">
+		<TEXTVALUE>ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣದ ಕೆಲವು ಹನಿಗಳನ್ನು ಡ್ರಾಪರ್ ನಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="5flow1">
+	<TEXT ID="5flow1_one">
+		<TEXTVALUE>ಅದನ್ನು ಸತುವನ್ನು ಹೊಂದಿರುವ ಪ್ರನಾಳಕ್ಕೆ ಸೇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6stand1">
+	<TEXT ID="6stand1_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟಿನ  ಸಹಾಯದಿಂದ ಪ್ರನಾಳವನ್ನು ಸ್ತಂಭದಲ್ಲಿರಿಸಿರಿ ಮತ್ತು ಬಿರಡೆಯಿಂದ ಮುಚ್ಚಿರಿ. ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆಯನ್ನು ಬಿರಡೆಯ ಮುಖಾಂತರ ಹಾಯಿಸಿರಿ.. ಈಗ ಪ್ರನಾಳವನ್ನು ಬುನ್ಸನ್ ಬರ್ನರ್  ಸಹಾಯದಿಂದ ಬಿಸಿ ಮಾಡಿ. ಬಿಸಿ ಮಾಡಿದಾಗ ಹೈಡ್ರೋಜನ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="7teepat1">
+	<TEXT ID="7teepat1_one">
+		<TEXTVALUE>ಬೆಂಕಿ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ಬೆಂಕಿ ಕಡ್ಡಿಯನ್ನು ಉರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="8zoomstand11">
+	<TEXT ID="8zoomstand11_one">
+		<TEXTVALUE>ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿಕಡ್ಡಿಯನ್ನು ಚೂಪು ಮೂತಿ ಹೊಂದಿರುವ ನಳಿಕೆಯ ಬಳಿ ತನ್ನಿ. ಬಿಡುಗಡೆಯಾದ ಅನಿಲ ಹೈಡ್ರೋಜನ್ ಅನಿಲ ಬೆಂಕಿ ಕಡ್ಡಿಯನ್ನು ಆರಿಸಿ, ಚಿಕ್ಕ ಸ್ಪೋಟದೊಂದಿಗೆ ತಾನೇ ಪೋಪ್ ಶಬ್ದವನ್ನುಂಟು ಮಾಡುತ್ತಾ ಉರಿಯುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="8zoomstand11_bb_44">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="1intro03">
+	<TEXT ID="1intro03_one">
+		<TEXTVALUE>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು -ಚಪ್ಪಟೆ ತಳದ ಫ್ಲಾಸ್ಕ್, ಸ್ಟಾಂಡ್, , ಥಿಸಲ್ ಫನಲ್,   ಸಂಪರ್ಕ ಗಾಜಿನ ಪ್ರನಾಳ , ಒಂದು ಬೀಕರ್ ನಲ್ಲಿ ಅಸವಿತ ನೀರು, ಹಿಡಿಕಟ್ಟು  ಹೊಂದಿರುವ ಸ್ತಂಭ, ಸೋಡಿಯಂ ಕಾರ್ಬೊನೇಟ್, ಎರಡು ರಂದ್ರ  ಹೊಂದಿರುವ ಬಿರಡೆ, ಸ್ಪಾಚುಲಾ, HCl ದ್ರಾವಣ, ಡ್ರಾಪರ್, ಸುಣ್ಣದ ತಿಳಿ ನೀರು.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="2placeit">
+	<TEXT ID="2placeit_one">
+		<TEXTVALUE>ಸ್ತಂಭಕ್ಕೆ  ಚಪ್ಪಟೆ ತಳದ ಫ್ಲಾಸ್ಕ್ ನ ಕುತ್ತಿಗೆಯನ್ನು ಹಿಡಿಕಟ್ಟಿನ ಸಹಾಯದಿಂದ  ಜೋಡಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium">
+	<TEXT ID="3takesodium_one">
+		<TEXTVALUE>ಸ್ಪಾಚುಲಾದ ಸಹಾಯದಿಂದ ವಾಚ್ ಗ್ಲಾಸ್ ನಲ್ಲಿ ಸ್ವಲ್ಪ ಸೋಡಿಯಂ ಕಾರ್ಬೊನೇಟ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_soda_11">
+		<TEXTVALUE>ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3takesodium_limewat_1">
+		<TEXTVALUE>ಸುಣ್ಣದ ತಿಳಿ ನೀರು</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="3takesodium_dw_11">
+		<TEXTVALUE>ಸುಣ್ಣದ ತಿಳಿ ನೀರು</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="4putit">
+	<TEXT ID="4putit_one">
+		<TEXTVALUE>ಅದನ್ನು ಫ್ಲಾಸ್ಕ್ ಗೆ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+	 
+</SCENE>
+<SCENE ID="5dist">
+	<TEXT ID="5dist_one">
+		<TEXTVALUE>ಆಸವಿತ ನೀರನ್ನು ಹೊಂದಿರುವ ಬೀಕರ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="6flo">
+	<TEXT ID="6flo_one">
+		<TEXTVALUE>ಅದನ್ನು ಸ್ವಲ್ಪ ಚಪ್ಪಟೆ ತಳದ ಫ್ಲಾಸ್ಕ್ ಗೆ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="7corck">
+	<TEXT ID="7corck_one">
+		<TEXTVALUE>ನಂತರ ಎರಡು ರಂದ್ರಗಳನ್ನು ಹೊಂದಿರುವ ಬಿರಡೆಯಿಂದ ಫ್ಲಾಸ್ಕ್ ಅನ್ನು ಮುಚ್ಚಿ ಮತ್ತು ಒಂದು ತಿಸಲ್ ಫನೆಲ್ ಅನ್ನು ಬಿರಡೆಗೆ ತೂರಿಸಿ. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="7corck_tf_11">
+		<TEXTVALUE>ತಿಸಲ್ ಫನಲ್</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="8lime">
+	<TEXT ID="8lime_one">
+		<TEXTVALUE>ಸುಣ್ಣದ ತಿಳಿ ನೀರನ್ನು ಹೊಂದಿರುವ ಬೀಕರ್  ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="8lime_lw_12">
+		<TEXTVALUE>ಸುಣ್ಣದ ತಿಳಿನೀರು</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="9corck2">
+	<TEXT ID="9corck2_one">
+		<TEXTVALUE>ಜೋಡಣಾ ನಳಿಕೆಯ ಒಂದು ತುದಿಯನ್ನು ಬಿರಡೆಯ ಮೂಲಕ ತೂರಿಸಿ. ತುದಿ ಫ್ಲಾಸ್ಕ್ ನಲ್ಲಿರುವ ದ್ರಾವಣಕ್ಕೆ ತಾಗದಂತೆ ಎಚ್ಚರವಹಿಸಿ. ಇನ್ನೊಂದು ತುದಿಯನ್ನು ಸುಣ್ಣದ ತಿಳಿನೀರನ್ನು ಹೊಂದಿರುವ ಬೀಕರ್ ನಲ್ಲಿಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9corck2_dt_1">
+		<TEXTVALUE>ವಿಸರ್ಜನಾ ನಳಿಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="81HCL">
+	<TEXT ID="81HCL_one">
+		<TEXTVALUE>ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಹೊಂದಿರುವ ಬೀಕರ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11zoom">
+	<TEXT ID="11zoom_one">
+		<TEXTVALUE>ಇದನ್ನು ಥಿಸಲ್ ಫನೆಲ್ ಮೂಲಕ ಹಾಕಿ. ಒಂದು ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom2">
+	<TEXT ID="11zoom2_one">
+		<TEXTVALUE>ಬೀಕರ್ ನಲ್ಲಿರುವ ಸುಣ್ಣದ ತಿಳಿ ನೀರು ಹಾಲಿನ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿರುವುದನ್ನು  ನೀವು ಗಮನಿಸಬಹುದು. ಆದ್ದರಿಂದ ಬಿಡುಗಡೆಯಾದ ಅನಿಲ CO2 ಆಗಿರುತ್ತದೆ.
+		</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="11zoom2_bbaa_11">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="1intro04">
+	<TEXT ID="1intro04_one">
+		<TEXTVALUE> ಬೇಕಾಗುವ ಸಾಮಾಗ್ರಿಗಳು : ಪ್ರನಾಳ, ಪ್ರನಾಳದ ಸ್ಟಾಂಡ್, ಸೋಡಿಯಂ ಕಾರ್ಬೊನೇಟ್, ಸ್ಪಾಚುಲಾ, NaOH ದ್ರಾವಣ, ಫಿನಾಫ್ತಲೀನ್ ದ್ರಾವಣ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro04_pleem_11">
+		<TEXTVALUE>ಫಿನಾಫ್ತಲೀನ್</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="tube">
+	<TEXT ID="tube_one">
+		<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="3takesodium3">
+	<TEXT ID="3takesodium3_one">
+		<TEXTVALUE>ಸ್ಪಾಚುಲಾದ ಸಹಾಯದಿಂದ ವಾಚ್ ಗ್ಲಾಸ್ ನಲ್ಲಿ ಸ್ವಲ್ಪ ಸೋಡಿಯಂ ಕಾರ್ಬೊನೇಟ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="4putit2">
+	<TEXT ID="4putit2_one">
+		<TEXTVALUE>ಅದನ್ನು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="8naoch">
+	<TEXT ID="8naoch_one">
+		<TEXTVALUE>NaOH ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="11zoom6">
+	<TEXT ID="11zoom6_one">
+		<TEXTVALUE>ಅದರಿಂದ ಸ್ವಲ್ಪ ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE> 
+
+<SCENE ID="11zoom61">
+	<TEXT ID="11zoom61_one">
+		<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="phenol">
+	<TEXT ID="phenol_one">
+		<TEXTVALUE>ನಂತರ ಒಂದೆರಡು ಹನಿಗಳಷ್ಟು ಫಿನಾಫ್ತಲೀನ್ ದ್ರಾವಣವನ್ನು ಅದರ ಬಾಟಲಿಯಿಂದ ಡ್ರಾಪರ್  ಸಹಾಯದಿಂದ ತೆಗೆದುಕೊಳ್ಳಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colour">
+	<TEXT ID="colour_one">
+		<TEXTVALUE> ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿ ಬಣ್ಣದಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE> <SCENE ID="colou2">
+	<TEXT ID="colou2_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿದ್ದ ದ್ರಾವಣ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಸೋಡಿಯಂ ಹೈಡ್ರೋಕ್ಸೈಡ್ ಮತ್ತು ಸೋಡಿಯಂ ಕಾರ್ಬೊನೇಟ್ ಗಳೆರಡೂ ಕೂಡ ಪ್ರತ್ಯಾಮ್ಲಗಳಾಗಿರುವುದರಿಂದ ಅವುಗಳು ಪ್ರತಿವರ್ತಿಸುವುದಿಲ್ಲ ಆದರೆ ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣವನ್ನುಂಟು ಮಾಡುತ್ತವೆ. 
+ಫಿನಾಫ್ತಲೀನ್ ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ಗುಲಾಬಿ ಬಣ್ಣವನ್ನು ಕೊಡುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="colou2_last_b1">
+		<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE> 
+</DATA>

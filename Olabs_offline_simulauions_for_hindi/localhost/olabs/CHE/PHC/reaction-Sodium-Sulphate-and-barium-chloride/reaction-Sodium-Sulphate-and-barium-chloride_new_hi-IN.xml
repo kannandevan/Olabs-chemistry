@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="01Intro">
+	<TEXT ID="01Intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="01Intro_heading_01">
+		<TEXTVALUE>दोहरी विस्थापन अभिक्रिया </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="01Intro_start_11">
+		<TEXTVALUE>शुरू</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="02Lab">
+	<TEXT ID="02Lab_one">
+		<TEXTVALUE>हमें सोडियम सल्फेट, बेरियम क्लोराइड, तनु एचसीएल,बीकर, शंक्वाकार फ्लास्क, टेस्ट ट्यूब, आदि की जरूरत होगी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_bar_11">
+		<TEXTVALUE>बेरियम 
+क्लोराइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Lab_sod_1">
+		<TEXTVALUE>सोडियम 
+सल्फेट</TEXTVALUE>
+	</TEXT>
+
+	
+	
+</SCENE>
+
+
+
+<SCENE ID="03TakeTestTube">
+	<TEXT ID="03TakeTestTube_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04TakeBarium">
+	<TEXT ID="04TakeBarium_one">
+		<TEXTVALUE>टेस्ट ट्यूब में बेरियम क्लोराइड की थोड़ी सी मात्रा ले लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="05BariumInFlask">
+	<TEXT ID="05BariumInFlask_one">
+		<TEXTVALUE>इसे शंक्वाकार फ्लास्क में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="06TakeTestTube2">
+	<TEXT ID="06TakeTestTube2_one">
+		<TEXTVALUE>एक दूसरी टेस्ट ट्यूब लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="07TakeSodium">
+	<TEXT ID="07TakeSodium_one">
+		<TEXTVALUE>सोडियम सल्फेट की थोड़ी सी मात्रा ले लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="08BariumAndSodium">
+	<TEXT ID="08BariumAndSodium_one">
+		<TEXTVALUE>बेरियम क्लोराइड विलयन (साल्‍यूशन) वाले शंक्वाकार फ्लास्क में इसे डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08BariumAndSodium_basu_11">
+		<TEXTVALUE>बेरियम
+सल्फेट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="9zoom">
+	<TEXT ID="9zoom_one">
+		<TEXTVALUE>शंक्वाकार फ्लास्क की सामग्री हिलाएं और यह कुछ समय के लिए बिना छेड़छाड़ के रहने दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_two">
+		<TEXTVALUE>तुरंत ही बेरियम सल्फेट का सफेद तलछट (प्रेसीपिटेट) बन जाता है। यह सल्फेट (SO4)2- आयन की उपस्थिति की पुष्टि करता है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="9zoom_three">
+		<TEXTVALUE>बेरियम सल्फेट का तलछट (प्रेसीपिटेट) बीकर की तली पर बैठ जाता हैं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="10pour">
+	<TEXT ID="10pour_one">
+		<TEXTVALUE>शंक्वाकार फ्लास्क से ऊपरी विलयन (साल्‍यूशन) बीकर में छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="11dilhcl">
+	<TEXT ID="11dilhcl_one">
+		<TEXTVALUE>तब तलछट (प्रेसीपिटेट) वाले शंक्वाकार फ्लास्क में तनु एचसीएल की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12poue2">
+	<TEXT ID="12poue2_one">
+		<TEXTVALUE>तब तलछट (प्रेसीपिटेट) वाले शंक्वाकार फ्लास्क में तनु एचसीएल की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="13shake3">
+	<TEXT ID="13shake3_one">
+		<TEXTVALUE>फ्लास्क अच्छी तरह से घुमाएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_two">
+		<TEXTVALUE>सफेद तलछट (प्रेसीपिटेट)  तनु एचसीएल में अघुलनशील है। </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="13shake3_three">
+		<TEXTVALUE>इस रासायनिक अभिक्रिया (केमिकल रिएक्‍शन) में, सल्फेट आयन क्लोराइड आयनों से विस्थापित हो जाते हैं और क्लोराइड आयन सल्फेट आयनों से विस्थापित हो जाते हैं। यह दोहरी विस्थापन अभिक्रिया (डिसप्‍लेसमेंट रिएक्‍शन) (डिसप्‍लेसमेंट रिएक्‍शन) (डबल डिसप्‍लेसमेंट रिएक्‍शन) है</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13shake3_bko_1">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+</DATA>
+
+	

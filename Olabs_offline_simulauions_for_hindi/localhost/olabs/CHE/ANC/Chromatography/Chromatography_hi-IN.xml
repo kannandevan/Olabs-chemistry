@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA> 
+
+<SCENE ID="Titleintractive">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>पेपर क्रोमैटोग्राफी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start_txt">
+	 	<TEXTVALUE>&#60;&#60; प्रारंभ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2buttons">
+	<TEXT ID="component">
+		<TEXTVALUE>और नीली स्याही के मिश्रण में मौजूद रंगीन घटकों को अलग करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pigment">
+		<TEXTVALUE>घटकों के पृथक्करण कागज क्रोमैटोग्राफी द्वारा पालक की
+पत्तियों के निकालने से</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>पेपर क्रोमैटोग्राफी द्वारा लाल और नीली स्याही के 
+			मिश्रण में मौजूद रंगीन घटकों को अलग करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_one">
+		<TEXTVALUE>पेपर क्रोमैटोग्राफी द्वारा लाल और नीली स्याही के 
+			मिश्रण में मौजूद रंगीन घटकों को अलग करें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+	
+<SCENE ID="intro">
+	<TEXT ID="ink_txt">
+		<TEXTVALUE>लाल स्याही + नीली स्याही</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="water">
+		<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcohol">
+		<TEXTVALUE>आइसोप्रोपाइल अल्कोहल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_one">
+	<TEXTVALUE>हमें चाहिए, लाल और नीली स्याही का मिश्रण, आसुत जल, आइसोप्रोपाइल अल्कोहल, वाटमैन फिल्टर कागज की पट्टी (20x2 सेमी), पेंसिल, पैमाना, केशिका नली, क्रोमैटोग्राफिक चैम्बर आदि</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper">
+	<TEXT ID="takefilterpaper_one">
+	<TEXTVALUE>वाटमैन फिल्टर पेपर की पट्टी (20X2 सेमी) लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing">
+	<TEXT ID="drawing_one">
+	<TEXTVALUE>एक छोर से 4 सेमी ऊपर पेंसिल से रेखा खींचें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing_two">
+	<TEXTVALUE>कागज के केंद्र से लंबी-लंबी एक और रेखा खींचें और जिस बिंदू पर दोनों रेखाएं एक-दूसरे को काटती हैं, उसे P का नाम दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary">
+	<TEXT ID="cappillary_one">
+	<TEXTVALUE>केशिका नली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="color">
+	<TEXT ID="color_one">
+	<TEXTVALUE>लाल और नीली स्याही के मिश्रण से युक्त बीकर में इसे डुबोएं और केशिका नली का प्रयोग कर मिश्रण लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop2">
+	<TEXT ID="waterdrop2_one">
+	<TEXTVALUE>बिंदु P पर लाल और नीली स्याही के मिश्रण की बूंद डालें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop2_two">
+	<TEXTVALUE>इसे खुली हवा में सूखने दें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy">
+	<TEXT ID="colorcopy_one">
+	<TEXTVALUE>फिर से केशिका नली का प्रयोग कर लाल और नीली स्याही का मिश्रण लें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdrop2copy">
+	<TEXT ID="waterdrop2copy_one">
+	<TEXTVALUE>उसी स्थान पर एक और बूंद डालें और इसे फिर से सूखने दें ताकि वह स्थान मिश्रण से समृद्ध हो जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater">
+	<TEXT ID="addingwater_one">
+	<TEXTVALUE>नापने वाले जार में 5 मिलीलीटर आसुत जल नापें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar">
+	<TEXT ID="togasjar">
+	<TEXTVALUE>क्रोमैटोग्राफिक चैम्बर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Togasjar_one">
+	<TEXTVALUE>इसे क्रोमैटोग्राफिक चैम्बर में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol">
+	<TEXT ID="takingalcohol_one">
+	<TEXTVALUE>एक और नापने वाले जार में 5 मिलीलीटर अल्कोहल नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar">
+	<TEXT ID="alcoholtogasjar_one">
+	<TEXTVALUE>इसे आसुत जल से युक्त क्रोमैटोग्राफिक चैम्बर में डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="alcoholtogasjar_two">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर क्रोमैटोग्राफिक चैम्बर की सामग्री मिश्रित करें। इस मिश्रण का विलायक के रूप में प्रयोग किया जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+	<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution">
+	<TEXT ID="papertosolution_one">
+	<TEXTVALUE>विलायक युक्त क्रोमैटोग्राफिक चैम्बर में फिल्टर पेपर लम्बवत रूप से इस तरह से लटकाएं कि पेंसिल रेखा विलायक के स्तर से लगभग 2 सेमी ऊपर बनी रहे।</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution_two">
+	<TEXTVALUE>ढक्कन से चैम्बर बंद कर दें और कुछ समय तक इसे अछूता रहने दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution_three">
+	<TEXTVALUE>लाल और नीली स्याही के साथ-साथ विलायक में वृद्धि पर ध्यान दें। विलायक के लगभग 15 सेमी तक उठ जाने पर, आप फिल्टर पेपर पर लाल और नीली स्याही के दो अलग अलग धब्बेल देखेंगें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry">
+	<TEXT ID="paperdry_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil">
+	<TEXT ID="takingpencil_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="marking">
+	<TEXT ID="marking_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="marking_two">
+	<TEXTVALUE>खुली हवा में फिल्टर पेपर सुखाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="marking_three">
+	<TEXTVALUE>नीले और लाल रंग के धब्बे के केंद्र में पेंसिल का निशान लगाएं। मूल रेखा से विलायक अग्रभाग की दूरी और मूल रेखा से दोनों धब्बों की दूरी नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="value">
+	<TEXT ID="rf_title">
+	<TEXTVALUE>Rf मानों </TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="numerator">
+	<TEXTVALUE>Distance travelled by the solute from the original line</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="denominator">
+	<TEXTVALUE>Distance travelled by the solvent from the original line</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="value_one">
+	<TEXTVALUE>सूत्र का प्रयोग करके नीली और लाल स्याही के Rf मानों की गणना करें।</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>धारा.  सं. पदार्थ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE>Distance travelled by
+different component </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>विलायक द्वारा चली गई दूरी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h4">
+		<TEXTVALUE>Rf मानों</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h5">
+		<TEXTVALUE>काली स्याही</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h6">
+		<TEXTVALUE>लाल स्याही</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result_one">
+	<TEXTVALUE>सूत्र का प्रयोग करके नीली और लाल स्याही के Rf मानों की गणना करें।</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Title2">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>घटकों के पृथक्करण
+  कागज क्रोमैटोग्राफी द्वारा पालक की पत्तियों के निकालने से</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="intro2">
+	<TEXT ID="extract">
+		<TEXTVALUE>पालक की पत्तियों का रस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>हमें चाहिए, पालक की पत्तियों से निकालने, आसुत जल, आइसोप्रोपाइल अल्कोहल, वाटमैन फिल्टर कागज की पट्टी (20x2 सेमी), पेंसिल, पैमाना, केशिका नली, क्रोमैटोग्राफिक चैम्बर आदि</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper2">
+	<TEXT ID="ttakefilterpaper2_one">
+	<TEXTVALUE>वाटमैन फिल्टर पेपर की पट्टी (20X2 सेमी) लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ttakefilterpaper2_two">
+	<TEXTVALUE>एक छोर से 4 सेमी ऊपर पेंसिल से रेखा खींचें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing2">
+	<TEXT ID="drawing2_one">
+	<TEXTVALUE>कागज के केंद्र से लंबी-लंबी एक और रेखा खींचें और जिस बिंदू पर दोनों रेखाएं एक-दूसरे को काटती हैं, उसे P का नाम दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing2_two">
+	<TEXTVALUE>कागज के केंद्र से लंबी-लंबी एक और रेखा खींचें और जिस बिंदू पर दोनों रेखाएं एक-दूसरे को काटती हैं, उसे P का नाम दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary2">
+	<TEXT ID="cappillary2_one">
+	<TEXTVALUE>केशिका नली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="color2">
+	<TEXT ID="color2_one">
+	<TEXTVALUE>लाल और नीली स्याही के मिश्रण से युक्त बीकर में इसे डुबोएं और केशिका नली का प्रयोग कर मिश्रण लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop21">
+	<TEXT ID="waterdrop21_one">
+	<TEXTVALUE>बिंदु P पर पालक पत्ता निकालने की बूंद डालें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop21_two">
+	<TEXTVALUE>इसे खुली हवा में सूखने दें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy2">
+	<TEXT ID="colorcopy2_one">
+	<TEXTVALUE>फिर से केशिका नली का प्रयोग कर पालक पत्ता निकालने का मिश्रण लें।</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdropcopy21">
+	<TEXT ID="waterdropcopy21_one">
+	<TEXTVALUE>उसी स्थान पर एक और बूंद डालें और इसे फिर से सूखने दें ताकि वह स्थान मिश्रण से समृद्ध हो जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater2">
+	<TEXT ID="addingwater2_one">
+	<TEXTVALUE>नापने वाले जार में 5 मिलीलीटर आसुत जल नापें ।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar2">
+	<TEXT ID="Togasjar2_one">
+	<TEXTVALUE>इसे क्रोमैटोग्राफिक चैम्बर में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol2">
+	<TEXT ID="takingalcohol2_one">
+	<TEXTVALUE>एक और नापने वाले जार में 5 मिलीलीटर अल्कोहल नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar2">
+	<TEXT ID="alcoholtogasjar2_one">
+	<TEXTVALUE>इसे आसुत जल से युक्त क्रोमैटोग्राफिक चैम्बर में डाल दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcoholtogasjar2_two">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर क्रोमैटोग्राफिक चैम्बर की सामग्री मिश्रित करें। इस मिश्रण का विलायक के रूप में प्रयोग किया जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube2">
+	<TEXT ID="drops2tube2_one">
+	<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution2">
+	<TEXT ID="papertosolution2_one">
+	<TEXTVALUE>विलायक युक्त क्रोमैटोग्राफिक चैम्बर में फिल्टर पेपर लम्बवत रूप से इस तरह से लटकाएं कि पेंसिल रेखा विलायक के स्तर से लगभग 2 सेमी ऊपर बनी रहे।</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution2_two">
+	<TEXTVALUE>ढक्कन से चैम्बर बंद कर दें और कुछ समय तक इसे अछूता रहने दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_three">
+	<TEXTVALUE>पत्ता निकालने के साथ-साथ विलायक में वृद्धि पर ध्यान दें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_four">
+	<TEXTVALUE>विलायक के लगभग 15 सेमी तक उठ जाने पर, आप फिल्टर पेपर पर पालक पत्ता निकालने के घटकों के दो अलग अलग धब्बें देखेंगें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry2">
+	<TEXT ID="paperdry2_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil2">
+	<TEXT ID="takingpencil2_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_one">
+	<TEXTVALUE>चैम्बर से फिल्टर पेपर निकालें और पेंसिल से कागज पर उस दूरी को चिह्नित करें जहां तक विलायक पहुंचा है। इसे विलायक का अग्रभाग कहा जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_two">
+	<TEXTVALUE>खुली हवा में फिल्टर पेपर सुखाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene392_three">
+	<TEXTVALUE>नीले और लाल रंग के धब्बे के केंद्र में पेंसिल का निशान लगाएं। मूल रेखा से विलायक अग्रभाग की दूरी और मूल रेखा से दोनों धब्बों की दूरी नापें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="rfvalue">
+	<TEXT ID="rfvalue_one">
+	<TEXTVALUE>सूत्र का प्रयोग करके नीली और लाल स्याही के Rf मानों की गणना करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result2">
+	<TEXT ID="Orange">
+	<TEXTVALUE>कैरोटीन
+	 (नारंगी)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Yellow">
+	<TEXTVALUE>जैन्थो फिल
+	 (पीला)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="light_green">
+	<TEXTVALUE>हल्का हरा
+ (क्लोरोफिल a) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dark_green">
+	<TEXTVALUE>गहरा हरा 
+(क्लोरोफिल b)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result2_one">
+	<TEXTVALUE>सूत्र का प्रयोग करके नीली और लाल स्याही के Rf मानों की गणना करें।</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

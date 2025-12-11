@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1duro">
+	<TEXT ID="1duro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2maarz">
+	<TEXT ID="2maarz_one">
+	 	<TEXTVALUE>ഐസ് ക്യൂബുകൾ, ബീക്കറുകൾ, തെർമോമീറ്റർ, സ്റ്റിയറർ, ഘടിപ്പിച്ച സ്റ്റാൻഡ്, കമ്പിവല, മുക്കാലിപീഠം, ബൺസൺ ബർണർ മുതലായവ നമുക്ക് ആവശൃമാണ്.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3icebox">
+	<TEXT ID="3icebox_one">
+	 	<TEXTVALUE>ബീക്കറിൽ കുറച്ച് ഐസ് കഷണങ്ങൾ എടുക്കുക.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4burner">
+	<TEXT ID="4burner_one">
+	 	<TEXTVALUE>മുക്കാലി പീഠത്തിൽ ഒരു കമ്പി വല വെച്ചിട്ട്  അവിടെ ബീക്കർ വെയ്ക്കുക, ബീക്കറിലേക്ക് ഒരു ഇളക്കുന്ന വസ്തു വെയ്ക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="4burner_two">
+	 	<TEXTVALUE>ഒരു തെർമോമീറ്റർ എടുക്കുക, ഘടിപ്പിച്ച സ്റ്റാൻഡിന്റെ സഹായത്തോടെ തൂക്കിനിർത്തുക. ഐസ് ക്യൂബിൻറെ ബൾബ് ഏതാണ്ട് മധൃഭാഗത്ത് വരത്തക്ക രീതിയിൽ വേണം തൂക്കി നിർത്തേണ്ടത്.
+</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="5burner">
+	<TEXT ID="5burner_one">
+	 	<TEXTVALUE>ബൺസൺ ബർണർ ഉപയോഗിച്ച് ഐസ് ക്യൂബ്  ശരാശരി താപനിലയിൽ ചൂടാക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="5burner_two">
+	 	<TEXTVALUE>ഒരേ താപനിലയിൽ തുടർച്ചയായി ഇത് ഇളക്കുക. ഐസ് ഉരുകാൻ തുടങ്ങുമ്പോൾ ഊഷ്മാവ് (t1°C), രേഖപ്പെടുത്തുക.
+</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5burner_three">
+	 	<TEXTVALUE>ഐസ് തുടർച്ചയായി ചൂടാക്കുക.
+</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="5burner_four">
+	 	<TEXTVALUE>ഐസ് പൂർണ്ണമായും ജലത്തിലേക്ക് ഉരുകുമ്പോൾ താപനില രേഖപ്പെടുത്തുക(t2°C).
+</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="6result">
+	<TEXT ID="6result_one">
+	 	<TEXTVALUE>ഐസിന്റെ ഉരുകൽ നില തരുന്നത് രണ്ട് താപനിലയുടെയും  ശരാശരിയാണ്. ഐസിന്റെ ഉരുകൽ നില 0°c ആണ്.
+
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>Click on the"Start" button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>We require,0.1 molar ferric chloride (0.1 M FeCl&#8323;) solution,0.1 molar potassium thiocyanate (0.1 M KCNS) solution,0.1 molar potassium chloride (0.1 M KCl) solution, distilled water, four test tubes labelled A, B, C, and D, test tube rack,</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="intro_two">
+		<TEXTVALUE> A clean 250 ml beaker, and measuring cylinders.</TEXTVALUE>	
+	</TEXT>
+	<TEXT ID="intro_three">
+		<TEXTVALUE>Take 10 ml of 0.1 M FeCl&#8323; solution in a measuring cylinder.</TEXTVALUE>	
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutionsaddedclsup">
+	<TEXT ID="solutionsaddedclsup_one">
+		<TEXTVALUE>Pour it into the 250 ml beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsadded2">
+	<TEXT ID="solutionsadded2_one">
+		<TEXTVALUE>Take 10 ml of 0.1M KCNS solution in another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsaddedclsup2">
+	<TEXT ID="solutionsaddedclsup2_one">
+		<TEXTVALUE>Pour it into the beaker containing FeCl&#8323; solution. A deep red colour is obtained due to the formation of ferric - thiocyanate complex, [Fe(SCN)(H&#8322;O)&#8325;]&#178;&#8314;.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50mlwateradded">
+	<TEXT ID="50mlwateradded_one">
+		<TEXTVALUE>Take 50 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="wateraddedclsup">
+	<TEXT ID="wateraddedclsup_one">
+		<TEXTVALUE>Pour it into the beaker containing ferric - thiocyanate complex, to dilute the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixtureadded1">
+	<TEXT ID="mixtureadded1_one">
+		<TEXTVALUE>Take 10 ml of the above solution in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="mixtureadded1_two">
+		<TEXTVALUE>Take the test tube labelled as 'A'.</TEXTVALUE>
+	</TEXT>	 
+</SCENE>	
+
+
+<SCENE ID="mixtureadded1clsup">
+	<TEXT ID="mixtureadded1clsup_one">
+		<TEXTVALUE>Pour the solution into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+
+<SCENE ID="mixtureadded2">
+	<TEXT ID="mixtureadded2_one">
+		<TEXTVALUE>Take another 10 ml solution in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="mixtureadded2clsup">
+	<TEXT ID="mixtureadded2clsup_one">
+		<TEXTVALUE>Take the test tube labelled as 'B' and pour the solution into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="testtubeclsp">
+	<TEXT ID="testtubeclsp_one">
+		<TEXTVALUE>Repeat the same process for the other two test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateradded">
+	<TEXT ID="5mlwateradded_one">
+		<TEXTVALUE>Take 5ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateraddedclsup">
+	<TEXT ID="5mlwateraddedclsup_one">
+		<TEXTVALUE>Add it into the test tube “A” and shake the test tube well. The Colour of the solution in this test is taken as the reference colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1">
+	<TEXT ID="5mladded1_one">
+		<TEXTVALUE>Take 5ml of 0.1M FeCl&#8323; solution in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1clsup">
+	<TEXT ID="5mladded1clsup_one">
+		<TEXTVALUE> Add it into the test tube, “B” and shake the test tube well. The colour of the solution deepens because the increase in concentration of Fe&#179;&#8314; ions results in more ferric - thiocyanate complex and shifts the equilibrium in the forward direction.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded2">
+	<TEXT ID="5mladded2_one">
+		<TEXTVALUE>Take 5 ml of 0.1M KCNS solution in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladded2clsup">
+	<TEXT ID="5mladded2clsup_one">
+		<TEXTVALUE>Add it to the test tube, “C” and shake the test tube well. The colour of the solution deepens because the increase in concentration of SCN&#8315; ions results in more ferric - thiocyanate complex and shifts the equilibrium in the forward direction.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded3">
+	<TEXT ID="5mladded3_one">
+		<TEXTVALUE>Similarly, take 5ml of 0.1M KCl solution in another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="5mladdede3clsup">
+	<TEXT ID="5mladdede3clsup_one">
+		<TEXTVALUE>Add it to the test tube, "D" and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5mladdede3clsup_two">
+		<TEXTVALUE>The colour of the solution becomes lighter because the increase in concentration of K&#8314; ions decreases the concentration of SCN&#8315; ions and thus decreases the concentration of complex. Thus the equilibrium shifts in the backward direction.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abcd">
+	<TEXT ID="abcd_one">
+		<TEXTVALUE>Now compare the intensity of the colours in test tubes B, C, and D with the red colour in test tube A,taken as the reference colour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="abcd_two">
+		<TEXTVALUE>Now compare the intensity of the colours in test tubes B, C, and D with the red colour in test tube A,taken as the reference colour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abacad">
+	<TEXT ID="abacad_one">
+		<TEXTVALUE>Now compare the intensity of the colours in test tubes B, C, and D with the red colour in test tube A,taken as the reference colour.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="chart">	
+<TEXT ID="chart_one">
+		<TEXTVALUE>Record the observations in a tabular column. The equilibrium between Fe&#179;&#8314; ions and SCN&#8315; ions is directly proportional to the concentration of the reactants.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+</DATA>

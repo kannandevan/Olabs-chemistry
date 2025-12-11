@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title_one">
+	<TEXTVALUE>Detection of Elements: Lassaigne's Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the ‘Start’ button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="LassaignesExtract_text">
+	<TEXTVALUE>Lassaigne's Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_text">
+	<TEXTVALUE>Detection of Nitrogen </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_text">
+	<TEXTVALUE>Detection of Sulphur </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_text">
+	<TEXTVALUE>Detection of Halogens </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>Click on the tabs to choose the experiments.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>We require China dish, Organic compound, Funnel, Tripod stand, wire gauze, Distilled water, Bunsen burner, Fusion tubes, Test tube, Sodium metal, Small spatula, Forceps, Filter paper and Glass rod, Tongs.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_txt">
+	<TEXTVALUE>Distilled Water </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chinaDish_text">
+	<TEXTVALUE>China Dish </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="OrganicCompound_text">
+	<TEXTVALUE>Organic Compound </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Funnel_text">
+	<TEXTVALUE>Funnel </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TripodStand_text">
+	<TEXTVALUE>Tripod Stand</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="WireGauze_text">
+	<TEXTVALUE>Wire Gauze</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_text">
+	<TEXTVALUE>Distilled Water </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BunsenBurner_text">
+	<TEXTVALUE>Bunsen Burner </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FusionTube_text">
+	<TEXTVALUE>Fusion Tube</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubes_text">
+	<TEXTVALUE>Test Tubes </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumMetal_text">
+	<TEXTVALUE>Sodium Metal </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="SmallSpatula_text">
+	<TEXTVALUE>Small Spatula </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Forceps_text">
+	<TEXTVALUE>Forceps </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sodium_text">
+	<TEXTVALUE>Sodium Metal </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>Take a small piece of sodium metal using the forceps.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Sodium_twotext">
+	<TEXTVALUE>Sodium Metal </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>Place the sodium metal piece on a filter paper and dry it by pressing it with another filter paper. Take dry sodium using the forceps.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Filterpaper_text">
+	<TEXTVALUE>Filter paper  </TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Hold a fusion tube using the tongs and put the dry sodium in it.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>Heat the fusion tube slightly over the Bunsen burner, so that the sodium melts to a shining globule.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Take a small spatula.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Take a pinch of organic compound using the spatula.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Add the organic compound into the fusion tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>Replace the spatula.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Observation_text">
+	<TEXTVALUE>Observation</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Heat the fusion tube over the Bunsen burner till it becomes red hot.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Plunge the red hot tube into the china dish containing distilled water. The tube will break. Crush the tube with the glass rod.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclusion_text">
+	<TEXTVALUE>Conclusion</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>Repeat these processes 2-3 times and heat the contents of the china dish to boiling point for few minutes.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene14_subone">
+	<TEXTVALUE>Stop heating when the volume of the liquid in the china dish is reduced to 1/3rd of its initial volume.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclsn_para">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>  Back  </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Take a filter paper.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Place the filter paper in the funnel, which is fixed to a stand and filter the contents of the china dish through the funnel to a clean test tube placed under the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene16_sub_1">
+	<TEXTVALUE>The filtrate is called Lassaigne’s Extract.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>Back </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaignesextract_text">
+	<TEXTVALUE>Lassaigne s extract </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Scene17</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textTwo">
+	<TEXTVALUE>Lassaigne "s Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_textTwo">
+	<TEXTVALUE>Detection of Nitrogen </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>We require, freshly prepared ferrous sulphate solution, ferric chloride solution, Conc. HCl, test tubes, Lassaigne’s extract and droppers.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_text">
+	<TEXTVALUE>Droppers </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassignesExtract_text">
+	<TEXTVALUE>Lassaigne’s Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Tubes_text">
+	<TEXTVALUE>Test Tubes </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_text">
+	<TEXTVALUE>Conc.HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChlorideSolution_text">
+	<TEXTVALUE>Ferric Chloride Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_text">
+	<TEXTVALUE>FeSO  (aq)(Freshly prepared)) </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHcl_textTwo">
+	<TEXTVALUE>Conc.HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textTwo">
+	<TEXTVALUE>Ferric Chloride Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textTwo">
+	<TEXTVALUE>Ferrous sulphate solution (Freshly prepared)</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>Take a small amount of Lassaigne’s extract using a dropper and pour it into a clean test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>Using another dropper take a small amount of freshly prepared ferrous sulphate solution.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="FericChloride_textThree">
+	<TEXTVALUE>Ferric Chloride Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textThree">
+	<TEXTVALUE>Ferrous sulphate solution (Freshly prepared) </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>Pour ferrous sulphate solution into the test tube containing Lassaigne’s extract and hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>Heat the test tube over the Bunsen burner. The sodium cyanide formed during the preparation of Lassaigne’s extracts is converted to sodium ferrocyanide, Na&#8324;[Fe(CN)&#8326;], on treating with ferrous sulphate.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene22_sub_1">
+	<TEXTVALUE>Heat the test tube over the Bunsen burner. The sodium cyanide formed during the preparation of Lassaigne’s extracts is converted to sodium ferrocyanide, Na&#8324;[Fe(CN)&#8326;], on treating with ferrous sulphate.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>Place the test tube in the test tube rack.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>Take a small amount of ferric chloride solution using another dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFour">
+	<TEXTVALUE>Ferric Chloride Solution </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>Add ferric chloride solution into the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>Using another dropper, take small amount of concentrated hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFive">
+	<TEXTVALUE>Ferric Chloride Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_textFive">
+	<TEXTVALUE>Conc.HCl </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>Add concentrated hydrochloric acid into the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene27_subone">
+	<TEXTVALUE>On further treating with ferric chloride and Conc. HCl, sodium ferrocyanide forms a Prussian blue complex, ferric ferrocyanide, Fe&#8324;[Fe(CN)&#8326;]&#8323;.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>Scene28</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>Click on the tabs to choose the tests.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_text">
+	<TEXTVALUE>Sodium Nitroprusside test </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="LeadAcetateTest_text">
+	<TEXTVALUE>Lead Acetate Test </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>We require sodium nitroprusside solution, test tubes, Lassaigne’s extract and droppers.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_textt">
+	<TEXTVALUE>Sodium Nitroprusside </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Dropper_textTwo">
+	<TEXTVALUE>Dropper </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_text">
+	<TEXTVALUE>Lassaigne’s Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTube_textTwo">
+	<TEXTVALUE>Test Tube </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>Take a small amount of Lassaigne’s extract using a dropper and pour it into a clean test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_texta">
+		<TEXTVALUE>Lassaigne s extract </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>Using another dropper, take a small amount of sodium nitroprusside solution.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Nitroprusside_text">
+		<TEXTVALUE>Sodium Nitroprusside </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>Add few drops of sodium nitroprusside solution into the test tube containing Lassaigne’s extract. The sodium sulphide formed during the preparation of Lassaigne’s extract gives a purple/violet colour with sodium nitroprusside,</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene33_subone">
+		<TEXTVALUE> due to the formation of sodium thionitroprusside, Na&#8324;[Fe(CN)&#8325;NOS].</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>Scene34</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprussidetest_texttwo">
+		<TEXTVALUE>Sodium Nitroprusside test </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetateTest_texttwo">
+		<TEXTVALUE>Lead Acetate Test </TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>We require, acetic acid, lead acetate solution, test tubes, Lassaigne’s extract and droppers.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AceticAcid_textnew">
+		<TEXTVALUE>Acetic Acid </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetate_textttnew">
+		<TEXTVALUE>Lead Acetate Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_textnew">
+		<TEXTVALUE>Droppers </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Lassaignes_textnew">
+		<TEXTVALUE>Lassaigne’s Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Testtube_textnew">
+		<TEXTVALUE>Test Tube </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="LeadAcetate_textnew">
+		<TEXTVALUE>Lead Acetate Solution </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="AceticAcid_ttextnew">
+		<TEXTVALUE>Acetic Acid </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>Take a small amount of Lassaigne’s extract using a dropper and pour into the clean test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>Using another dropper, take a small quantity of acetic acid.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatesss_text">
+		<TEXTVALUE>Lead Acetate Solution </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticAcid_txtnew">
+		<TEXTVALUE>Acetic Acid </TEXTVALUE>
+	</TEXT>
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>Add acetic acid into the test tube containing Lassaigne’s extract.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>Take small amount of lead acetate solution using another dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatetxt_text">
+		<TEXTVALUE>Lead Acetate Solution </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Acidsol_txt">
+		<TEXTVALUE>Acetic Acid </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>Add few drops of lead acetate solution into the contents of the test tube. Sodium sulphide formed during the preparation of Lassaigne’s extract reacts with lead acetate and forms a black precipitate of lead sulphide.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>Scene41</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textnew">
+		<TEXTVALUE>Lassaigne"s Extract </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofNitrogen_textnew">
+		<TEXTVALUE>Detection of Nitrogen </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_textnew">
+		<TEXTVALUE>Detection of Sulphur </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_textnew">
+		<TEXTVALUE>Detection of Halogens </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>Click on the tabs to choose the tests.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrateTest_textnew">
+		<TEXTVALUE>Silver Nitrate Test </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CarbonDisulphideTest_ttnew">
+		<TEXTVALUE>Carbon Disulphide Test </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>We require, Conc.HNO3, silver nitrate solution, ammonium hydroxide solution, test tube, Lassaigne’s extract, droppers and test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHNO_text">
+		<TEXTVALUE>Conc.HNO</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrate_ttext">
+		<TEXTVALUE>Silver Nitrate Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxide_text">
+		<TEXTVALUE>Ammonium Hydroxide </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubett_new">
+		<TEXTVALUE>Test Tube </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNO_textt">
+		<TEXTVALUE>Conc.HNO</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitratett_text">
+		<TEXTVALUE>Silver Nitrate Solution </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ammonium_text">
+		<TEXTVALUE>Ammonium Hydroxide </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>Take a small amount of Lassaigne’s extract using a dropper and pour it into the clean test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE>Using another dropper take small amount of concentrated nitric acid.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNOb_text">
+		<TEXTVALUE>Conc.HNO</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetate_ttext">
+		<TEXTVALUE>Silver Nitrate Solution </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>Hold the test tube using  a  test tube holder and add Conc. HNO3 into the Lassaigne’s extract.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>Boil the content of the test tube over the Bunsen burner for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>Cool the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>Take small amount of silver nitrate solution using another dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_ttttext">
+		<TEXTVALUE>Conc. HNO </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>Add silver nitrate into the contents of the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>If the organic compound contains chlorine, the sodium chloride formed during the preparation of Lassaigne’s extract reacts with silver nitrate and forms a white precipitate of silver chloride.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subone">
+		<TEXTVALUE>If the organic compound contains bromine, the sodium bromide formed during the preparation of Lassaigne’s extract reacts with silver nitrate to form pale yellow precipitate of silver bromide.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subtwo">
+		<TEXTVALUE>If the organic compound contains iodine, the sodium iodide formed during the preparation of Lassaigne’s extract reacts with silver nitrate to form yellow precipitate of silver iodide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>Take ammonium hydroxide solution using another dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxidet_text">
+		<TEXTVALUE>Ammonium Hydroxide </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>Take the test tube containing white precipitate of silver chloride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>Add excess of ammonium hydroxide into the silver chloride precipitate and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>Silver chloride is soluble in excess of ammonium hydroxide due to the formation of soluble complex, Ag[(NH&#8323;)&#8322;]Cl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>Take ammonium hydroxide solution using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>Take the test tube containing pale yellow precipitate of silver bromide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>Add excess of ammonium hydroxide into the silver bromide precipitate and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>Silver bromide is sparingly soluble in excess of ammonium hydroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>Again take ammonium hydroxide using the dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>Take the test tube containing yellow precipitate of silver iodide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>Add excess of ammonium hydroxide into the silver iodide precipitate and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>Silver iodide is insoluble in ammonium hydroxide solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>Scene64</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SilverNitrateTestyy_text">
+		<TEXTVALUE>Silver Nitrate Test </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="CarbonDisulphideTestu_text">
+		<TEXTVALUE>Carbon Disulphide Test </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>We require, chlorine water, carbon disulphide, Dil. HCl, test tubes, Lassaigne’s extract and droppers.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatert_text">
+		<TEXTVALUE>Chlorine water </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Carbontt_text">
+		<TEXTVALUE>Carbon Disulphide  </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLttr_text">
+		<TEXTVALUE> Dil.HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ClorineWater_textt">
+		<TEXTVALUE>Chlorine water </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="CarbonDisulphide_textt">
+		<TEXTVALUE>Carbon Disulphide </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLn_text">
+		<TEXTVALUE>Dil.HCl </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>Take small amount of Lassaigne’s extract using a dropper and pour it into a clean test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>Using another dropper take small amount of dilute hydrochloric acid.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHclh_text">
+		<TEXTVALUE>Dil.HCl </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>Add dil. HCl into the test tube containing Lassaigne’s extract.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>Take small amount of carbon disulphide using another dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>Add carbon disulphide to the test tube. Carbon disulphide forms a separate layer above the Lassaigne’s extract.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>Take chlorine water using another dropper.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatertt_text">
+		<TEXTVALUE>Chlorine water </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>Take the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>Pour chlorine water to the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subone">
+		<TEXTVALUE>When sodium bromide formed in the Lassaigne's extract is treated with chlorine water, the bromide is oxidised to bromine. Bromine dissolves in carbon disulphide and imparts orange colour in carbon disulphide layer.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subtwo">
+		<TEXTVALUE>When sodium iodide formed in the Lassaigne's extract is treated with chlorine water, the iodide is oxidised to iodine.  Iodine dissolves in carbon disulphide and imparts violet colour in carbon disulphide layer.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Bromaine_textt">
+		<TEXTVALUE>Bromine </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Iodinei_text">
+		<TEXTVALUE>Iodine </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

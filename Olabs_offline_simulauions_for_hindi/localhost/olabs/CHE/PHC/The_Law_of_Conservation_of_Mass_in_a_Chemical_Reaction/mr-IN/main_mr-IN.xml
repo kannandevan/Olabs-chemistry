@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_TITLE">
+        <source>रासायनिक अभिक्रियेत वस्तुमानाच्या अक्षय्यतेचा नियम</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONICAL_FLASK_POP">
+        <source>शंक्वाकृती चंबू</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LAB_BACK">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LAB_BARIUM">
+        <source>बेरीयम क्लोराइड (BaCl2) </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LAB_BARIUM_POP">
+        <source>बेरीयम क्लोराइड (BaCl2) </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LAB_CLOCK">
+        <source>10 मिनिटे</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LAB_CORK">
+        <source>बूच</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_LAB_CYLINDERS">
+        <source>मापन नळकांडे</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_LAB_SODIUM">
+        <source>सोडियम सल्फेट (Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_LAB_SODIUMPOP">
+        <source>सोडियम सल्फेट (Na2SO4)</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_LAB_TABLE_01">
+        <source>उपकरणांचे एकूण वस्तुमान + अभिक्रियाकारकाचे वस्तुमान, (एम + एम१) ग्राम</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_LAB_TABLE_03">
+        <source>एम चे मूल्य स्थिर राहते, म्हणून एम१=एम२, म्हणजे अभिक्रियाकारकांचे एकूण वस्तुमान = उत्पादनांचे एकूण वस्तुमान</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_LAB_TABLE_04">
+        <source>एम चे मूल्य स्थिर राहते, म्हणून एम१=एम२, म्हणजे अभिक्रियाकारकांचे एकूण वस्तुमान = उत्पादनांचे एकूण वस्तुमान</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LAB_TEST_TUBE">
+        <source>परीक्षा नळी </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LAB_WEIGHT_POP">
+        <source>वजन काटा</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LAW_HEAD_01">
+        <source>रासायनिक अभिक्रियेत वस्तुमानाच्या
+ अक्षय्यतेचा नियम</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_START_01">
+        <source>सुरु करा</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

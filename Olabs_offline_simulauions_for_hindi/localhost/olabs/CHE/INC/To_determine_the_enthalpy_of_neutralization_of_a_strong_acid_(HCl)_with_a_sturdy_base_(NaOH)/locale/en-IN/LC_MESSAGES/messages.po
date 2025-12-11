@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-13 19:08+0530\n"
+"PO-Revision-Date: 2025-10-13 19:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "To Determine the Enthalpy of Neutralization of a Strong Acid(HCl) with a Strong Base (NaOH)"
+msgstr "To Determine the Enthalpy of Neutralization of a Strong Acid(HCl) with a Strong Base (NaOH)"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+#: simcontrols.js:15
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:18
+msgid "Wait for sometime so that both solution attains same temperature t1, say 28<sup>o</sup>C"
+msgstr "Wait for sometime so that both solution attains same temperature t1, say 28<sup>o</sup>C"
+
+#: simcontrols.js:21
+msgid "Temperature = 28<sup>o</sup>C"
+msgstr "Temperature = 28<sup>o</sup>C"
+
+#: simcontrols.js:22
+msgid "Temperature = 27<sup>o</sup>C"
+msgstr "Temperature = 27<sup>o</sup>C"
+
+#: simcontrols.js:23
+msgid "Temperature = 40<sup>o</sup>C = t2"
+msgstr "Temperature = 40<sup>o</sup>C = t2"
+
+#: simcontrols.js:26
+msgid "Enthalpy change during neutralization of 100 mL of 1M HCl = (200 x W) x (t1 - t2) x 4.18"
+msgstr "Enthalpy change during neutralization of 100 mL of 1M HCl = (200 x W) x (t1 - t2) x 4.18"
+
+#: simcontrols.js:31
+msgid "Where W is the calorimeter constant, and its value is taken as 29.1 J (value depends on the calorimeter)"
+msgstr "Where W is the calorimeter constant, and its value is taken as 29.1 J (value depends on the calorimeter)"
+
+#: simcontrols.js:36
+msgid "When 100 mL of 1M HCl is allowed to neutralize 1000 mL of 1M NaOH, calculate the heat <br> that is released. This amount would be ten times greater than what was achieved."
+msgstr "When 100 mL of 1M HCl is allowed to neutralize 1000 mL of 1M NaOH, calculate the heat <br> that is released. This amount would be ten times greater than what was achieved."
+
+#: simcontrols.js:41
+msgid "Enthalpy of neutralization    =  (200 x W) x (t1 - t2) x 4.18  kJ"
+msgstr "Enthalpy of neutralization    =  (200 x W) x (t1 - t2) x 4.18  kJ"
+
+#: simcontrols.js:46
+msgid "We have t1 = 28<sup>o</sup>C, t2 = 40<sup>o</sup>C and W = 29.1 J, Substituting these in tha above equation"
+msgstr "We have t1 = 28<sup>o</sup>C, t2 = 40<sup>o</sup>C and W = 29.1 J, Substituting these in tha above equation"
+
+#: simcontrols.js:50
+msgid "Instructions"
+msgstr "Instructions"
+
+#: simcontrols.js:51 simcontrols.js:150
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:53
+msgid "Go through the calculations on the right."
+msgstr "Go through the calculations on the right."
+
+#: simcontrols.js:56
+msgid "1. Click on the calorimeter lid to open it."
+msgstr "1. Click on the calorimeter lid to open it."
+
+#: simcontrols.js:60
+msgid "2. Drag the beaker containing 100 mL HCL solution towards the top of measuring cylinder."
+msgstr "2. Drag the beaker containing 100 mL HCL solution towards the top of measuring cylinder."
+
+#: simcontrols.js:65
+msgid "3. Drag the measuring cylinder containing 100 mL HCl to the top of calorimeter."
+msgstr "3. Drag the measuring cylinder containing 100 mL HCl to the top of calorimeter."
+
+#: simcontrols.js:69
+msgid "4. Click on the calorimeter lid to close it."
+msgstr "4. Click on the calorimeter lid to close it."
+
+#: simcontrols.js:73
+msgid "5. Drag the thermometer towards the top of the calorimeter to insert it and measure the initial temperature."
+msgstr "5. Drag the thermometer towards the top of the calorimeter to insert it and measure the initial temperature."
+
+#: simcontrols.js:78
+msgid "6. Drag the thermometer towards the top of the beaker to insert it and measure the temperature."
+msgstr "6. Drag the thermometer towards the top of the beaker to insert it and measure the temperature."
+
+#: simcontrols.js:82
+msgid "7. Drag the thermometer towards the thermometer stand"
+msgstr "7. Drag the thermometer towards the thermometer stand"
+
+#: simcontrols.js:86
+msgid "8. Drag the beaker containing 100 mL NaOH solution towards the top of measuring cylinder."
+msgstr "8. Drag the beaker containing 100 mL NaOH solution towards the top of measuring cylinder."
+
+#: simcontrols.js:90
+msgid "9. Click on the calorimeter lid to open it."
+msgstr "9. Click on the calorimeter lid to open it."
+
+#: simcontrols.js:94
+msgid "10. Drag the measuring cylinder containing 100 mL NaOH to the top of calorimeter."
+msgstr "10. Drag the measuring cylinder containing 100 mL NaOH to the top of calorimeter."
+
+#: simcontrols.js:98
+msgid "11. Drag the stirrer towards the top of calorimeter."
+msgstr "11. Drag the stirrer towards the top of calorimeter."
+
+#: simcontrols.js:101
+msgid "12. Click on the calorimeter lid to close it."
+msgstr "12. Click on the calorimeter lid to close it."
+
+#: simcontrols.js:104
+msgid "13. Click on the stirrer to stir the mixture."
+msgstr "13. Click on the stirrer to stir the mixture."
+
+#: simcontrols.js:108
+msgid "14. Drag the thermometer towards the top of the calorimeter to insert it and measure the final temperature."
+msgstr "14. Drag the thermometer towards the top of the calorimeter to insert it and measure the final temperature."
+
+#: simcontrols.js:113 simcontrols.js:128
+msgid "Click on the calorimeter lid to open it"
+msgstr "Click on the calorimeter lid to open it"
+
+#: simcontrols.js:115
+msgid "Drag the measuring cylinder containing<br>100 mL HCl to the top of the calorimeter"
+msgstr "Drag the measuring cylinder containing<br>100 mL HCl to the top of the calorimeter"
+
+#: simcontrols.js:117 simcontrols.js:133
+msgid "Click on the calorimeter lid to close it"
+msgstr "Click on the calorimeter lid to close it"
+
+#: simcontrols.js:119 simcontrols.js:136
+msgid "Drag the thermometer towards the top of the<br>calorimeter to insert it and measure the temperature"
+msgstr "Drag the thermometer towards the top of the<br>calorimeter to insert it and measure the temperature"
+
+#: simcontrols.js:122
+msgid "Drag the thermometer towards the top of the<br>NaOH beaker to insert it and measure the temperature"
+msgstr "Drag the thermometer towards the top of the<br>NaOH beaker to insert it and measure the temperature"
+
+#: simcontrols.js:124
+msgid "Drag the thermometer towards the thermometer stand"
+msgstr "Drag the thermometer towards the thermometer stand"
+
+#: simcontrols.js:126
+msgid "Drag the beaker containing 100 mL of NaOH solution<br>towards the top of the measuring cylinder"
+msgstr "Drag the beaker containing 100 mL of NaOH solution<br>towards the top of the measuring cylinder"
+
+#: simcontrols.js:130
+msgid "Drag the measuring cylinder containing<br>100 mL NaOH to the top of the calorimeter"
+msgstr "Drag the measuring cylinder containing<br>100 mL NaOH to the top of the calorimeter"
+
+#: simcontrols.js:132
+msgid "Drag the stirrer towards the top of the calorimeter"
+msgstr "Drag the stirrer towards the top of the calorimeter"
+
+#: simcontrols.js:134
+msgid "Click on the stirrer to stir the mixture"
+msgstr "Click on the stirrer to stir the mixture"
+
+#: simcontrols.js:141
+msgid "Drag the beaker containing 100 mL of HCL solution<br>towards the top of the measuring cylinder"
+msgstr "Drag the beaker containing 100 mL of HCL solution<br>towards the top of the measuring cylinder"
+
+#: simcontrols.js:143
+msgid "Click on the Next button"
+msgstr "Click on the Next button"
+
+#: simcontrols.js:144
+msgid "Click on the Inference button"
+msgstr "Click on the Inference button"
+
+#: simcontrols.js:145
+msgid "Click on the Reset button to restart the experiment"
+msgstr "Click on the Reset button to restart the experiment"
+
+#: simcontrols.js:147
+msgid "We've got two temperatures <b>t1 = 28<sup>o</sup>C</b> and <b>t2 = 40<sup>o</sup>C</b>"
+msgstr "We've got two temperatures <b>t1 = 28<sup>o</sup>C</b> and <b>t2 = 40<sup>o</sup>C</b>"

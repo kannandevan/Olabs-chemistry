@@ -1,0 +1,27 @@
+$.i18n.mr = {};
+ jQuery.i18n.mr.strings ={
+	"Kinetics Study on the Reaction between Iodide Ions and Hydrogen Peroxide": "पोटाशियम आयोडाइड आणि हायड्रोजन पेरोक्साइड मधील अभिक्रियेचा गती-अभ्यास",
+	"Reset": "रीसेट करा",
+	"Volume of KI:": "KI चे आकारमान:",
+	"Volume of water :": "पाणी चे आकारमान:",
+	"Volume of H<sub>2</sub>SO<sub>4</sub>: 10 ml": "H<sub>2</sub>SO<sub>4</sub> चे आकारमान : 10 ml",
+	"Volume of Starch: 5 ml": "खळ चे आकारमान : 5 ml",
+	"Volume of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>: 10 ml": "Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>चे आकारमान : 10 ml",
+	"Volume of H<sub>2</sub>O<sub>2</sub>: 5 ml": " H<sub>2</sub>O<sub>2</sub>चे आकारमान : 5 ml",
+	"START": "सुरु करा",
+	"STOP": "थांबा",
+	"Select the volume of <br>potassium iodide solution.": "पोटाशियम आयोडेट द्रावणाचे आकारमान निवडा.",
+	"Drag the potassium iodide<br> solution to the measuring jar.": "पोटाशियम आयोडेट द्रावण मापन जार कडे ओढा",
+	"Drag the measuring jar to the <br>conical flask to pour the solution.": "द्रावण ओतण्यासाठी मापन जार शंक्वाकृती चंबूकडे ओढा.",
+	"Drag the sulphuric acid <br>to the measuring jar.": "सल्फ्युरिक आम्ल मापन जार कडे ओढा",
+	"Drag the water to<br> the measuring jar.": "पाणी  मापन जार कडे ओढा",
+	"Drag the starch solution<br> to the measuring jar.": "खळीचे द्रावण मापन जार कडे ओढा",
+	"Drag the sodium thiosulphate<br> solution to the measuring jar.": "सोडियम थायोसल्फाइट द्रावण मापन जार कडे ओढा",
+	"Drag the hydrogen peroxide<br>solution to the measuring jar.": "हायड्रोजन पेरोक्साइड द्रावण मापन जार कडे ओढा",
+	"2.5M H<sub>2</sub>SO<sub>4</sub>": "2.5M H<sub>2</sub>SO<sub>4</sub>",
+	"Water": "पाणी",
+	"Starch": "खळ",
+	"0.05M Sodium thiosulphate": "0.05M सोडियम थायोसल्फाइट ",
+	"0.1 M KI": "0.1 M KI",
+	"3% H<sub>2</sub>O<sub>2</sub>": "3% H<sub>2</sub>O<sub>2</sub>"
+}

@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+<!-- Interactive_scenes-->
+
+<SCENE ID="Heading">
+	<TEXT ID="Heading_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- Ferrous ammonium sulphate -->
+
+<SCENE ID="firstschead">
+	<TEXT ID="firstschead_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstsc">
+	<TEXT ID="firstsc_one">
+	<TEXTVALUE>We require, electronic balance, wire gauze, tripod stand, Bunsen burner, china dish ferrous sulphate, ammonium sulphate, beakers, dil. sulphuric acid, ethyl alcohol etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrros">
+	<TEXT ID="ferrros_one">
+	<TEXTVALUE>Using the spatula take a small amount of ferrous sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweigh">
+	<TEXT ID="inweigh_one">
+	<TEXTVALUE>Place a butter paper on an electronic balance and tare the balance. Put the ferrous sulphate crystals on the butter paper and weigh about 7g of ferrous sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeaker">
+	<TEXT ID="inbeaker_one">
+	<TEXTVALUE>Then transfer the weighed quantity of ferrous sulphate into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ammonium">
+	<TEXT ID="ammonium_one">
+	<TEXTVALUE>Now weigh about 3.5g of ammonium sulphate on another butter paper using the electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoni">
+	<TEXT ID="inweighammoni_one">
+	<TEXTVALUE>Now weigh about 3.5g of ammonium sulphate on another butter paper using the electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammo">
+	<TEXT ID="inbeakerammo_one">
+	<TEXTVALUE>Transfer this into the same beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sulphu">
+	<TEXT ID="sulphu_one">
+	<TEXTVALUE>Take 3ml of dil.sulphuric acid in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowder">
+	<TEXT ID="dilsulphuinpowder_one">
+	<TEXTVALUE>Add this into the beaker containing ferrous sulphate and ammonium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water">
+	<TEXT ID="water_one">
+	<TEXTVALUE>Take 20ml of distilled water in another measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeaker">
+	<TEXT ID="waterinbeaker_one">
+	<TEXTVALUE>Pour this into another beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="tripode">
+	<TEXT ID="tripode_one">
+	<TEXTVALUE>Boil the beaker containing distilled water for about 5min.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hotwateradd">
+	<TEXT ID="hotwateradd_one">
+	<TEXTVALUE>Add the boiling water to the first beaker in small proportions while stirring the contents using a glass rod.  Do this until the salts have completely dissolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnel">
+	<TEXT ID="funnel_one">
+	<TEXTVALUE>Take a funnel and fix it on a stand and place a filter paper in the funnel. Set a clean china dish below the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeit">
+	<TEXT ID="takeit_one">
+	<TEXTVALUE>Filter the solution in the beaker through the funnel into the china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelflush">
+	<TEXT ID="funnelflush_one">
+	<TEXTVALUE>Filter the solution in the beaker through the funnel into the china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chinainheat">
+	<TEXT ID="chinainheat_one">
+	<TEXTVALUE>Place the china dish containing the clear filtrate over a wire gauze kept over a tripod stand and heat it gently while constantly stirring until the crystallization point is reached.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystelise">
+	<TEXT ID="crystelise_one">
+	<TEXTVALUE>Transfer the concentrated solution into a crystallizing dish.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_two">
+	<TEXTVALUE>Cover the dish with a watch glass.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_three">
+	<TEXTVALUE>Place the crystallizing dish in a trough containing cold water and allow it to cool. As the solution cools, crystals of Ferrous ammonium sulphate (Mohr’s salt) separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crysteliseout">
+	<TEXT ID="crysteliseout_one">
+	<TEXTVALUE>Decant the mother liquor quickly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intable">
+	<TEXT ID="intable_one">
+	<TEXTVALUE>Pour a small quantity of ethyl alcohol into the dish and wash the crystals with alcohol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelalcohol">
+	<TEXT ID="funnelalcohol_one">
+	<TEXTVALUE>Remove the remaining alcohol from the dish through filtration using a funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	<TEXTVALUE>Transfer the Mohr’s salt crystals onto a filter paper and dry the crystals by gently pressing them between filter papers.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filterpaper_two">
+	<TEXTVALUE>Then transfer the dried crystals of Mohr’s salt onto a watch glass and label it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- Potash alum-->
+
+<SCENE ID="TitlePottash">
+	<TEXT ID="TitlePottash_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroApparatusS2">
+	<TEXT ID="IntroApparatusS2_one">
+	<TEXTVALUE>We require, electronic balance, spatula, watch glass, potassium sulphate, aluminium sulphate, beaker, measuring jar, distilled water, dil. sulphuric acid, wire gauze tripod stand, Bunsen burner, china dish, crystallizing dish, ethyl alcohol – water mixture, stand with clamp etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Watchglass2machineS2">
+	<TEXT ID="Watchglass2machineS2_one">
+	<TEXTVALUE>Take a butter paper and place it on an electronic balance and tare the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotassiumInSpatulaS2">
+	<TEXT ID="PotassiumInSpatulaS2_one">
+	<TEXTVALUE>Using a spatula take a small quantity of potassium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Potassium2PlateS2">
+	<TEXT ID="Potassium2PlateS2_one">
+	<TEXTVALUE>Put this on the butter paper and weigh about 2.5 g of potassium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterMixingPotasiumS3">
+	<TEXT ID="WaterMixingPotasiumS3_one">
+	<TEXTVALUE>Transfer the weighed quantity of potassium sulphate into a beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WaterMixingPotasiumS3_two">
+	<TEXTVALUE>Take 20ml of distilled water in a measuring jar and pour it into the beaker. Then stir the solution in the beaker using a glass rod until the crystals in the beaker are completely dissolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2ndWatchglass2MachineS4">
+	<TEXT ID="2ndWatchglass2MachineS4_one">
+	<TEXTVALUE>Place another butter paper on the balance and tare the balance. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminimInSpatulaS4">
+	<TEXT ID="AluminimInSpatulaS4_one">
+	<TEXTVALUE>Take a small quantity of aluminium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Aluminim2plateS4">
+	<TEXT ID="Aluminim2plateS4_one">
+	<TEXTVALUE>Put this on the butter paper to weigh about 10 g of aluminium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WterMixingAluminiumS5">
+	<TEXT ID="WterMixingAluminiumS5_one">
+	<TEXTVALUE>Transfer this into another beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WterMixingAluminiumS5_two">
+	<TEXTVALUE>Take 20ml of distilled water and pour it into the beaker containing aluminium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricInJarS5">
+	<TEXT ID="SulphuricInJarS5_one">
+	<TEXTVALUE>Then take 1ml of dil.sulphuric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricAdded2AluminimS5">
+	<TEXT ID="SulphuricAdded2AluminimS5_one">
+	<TEXTVALUE>Pour it into the beaker containing aluminium sulphate to prevent the hydrolysis of aluminium sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminiSulphateDissolveS6">
+	<TEXT ID="AluminiSulphateDissolveS6_one">
+	<TEXTVALUE>Heat the contents in the beaker for about 5 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Mixing2SolutionsS6">
+	<TEXT ID="Mixing2SolutionsS6_one">
+	<TEXTVALUE>First pour the aluminium sulphate solution and then the potassium sulphate solution into a china dish.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Mixing2SolutionsS6_two">
+	<TEXTVALUE>Mix the two solutions using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingCrystalizationpointS7">
+	<TEXT ID="HeatingCrystalizationpointS7_one">
+	<TEXTVALUE>Place the china dish containing the solution over wire gauze kept over a burner and heat it gently while constantly stirring until its crystallization point is reached.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DishCoveringWithPlateS8">
+	<TEXT ID="DishCoveringWithPlateS8_one">
+	<TEXTVALUE>Transfer the concentrated solution into a crystallizing dish.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DishCoveringWithPlateS8_two">
+	<TEXTVALUE>Cover the dish with a watch glass.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumSeparatedS8">
+	<TEXT ID="PotashAlumSeparatedS8_one">
+	<TEXTVALUE>Place the crystallizing dish in a trough containing cold water and allow it to cool. As the solution cools, crystals of Potash alum separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolutionDecantS9">
+	<TEXT ID="SolutionDecantS9_one">
+	<TEXTVALUE>Decant the mother liquor carefully into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FilteringUpperSoluS10">
+	<TEXT ID="FilteringUpperSoluS10_one">
+	<TEXTVALUE>Take a funnel and fix it on a stand and place a filter paper in the funnel.   Set a beaker below the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_two">
+	<TEXTVALUE>Pour a small quantity of alcohol-cold water mixture into the dish and wash the crystals.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_three">
+	<TEXTVALUE>Transfer the washings into the beaker through the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_four">
+	<TEXTVALUE>Again pour Alcohol- water mixture to the dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalFilteringS11">
+	<TEXT ID="CrystalFilteringS11_one">
+	<TEXTVALUE>And transfer the whole crystals in to the funnel. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_two">
+	<TEXTVALUE>Do this again to transfer the crystals sticking to the dish into the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_three">
+	<TEXTVALUE>Take the crystals from the funnel using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumS12">
+	<TEXT ID="PotashAlumS12_one">
+	<TEXTVALUE>Transfer the crystals onto a filter paper and dry the crystals by gently pressing them between filter papers.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PotashAlumS12_two">
+	<TEXTVALUE>Then transfer the dried crystals of Potash alum onto a watch glass and label it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!-- Potassium trioxalatoferrate (III) -->
+
+<SCENE ID="firstscheadox">
+	<TEXT ID="firstscheadox_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstscox">
+	<TEXT ID="firstscox_one">
+	<TEXTVALUE>We require, electronic balance, wire gauze, tripod stand, Bunsen burner, ferric chloride, potassium hydroxide, hydrated potassium oxalate, beakers, ethyl alcohol, spatula, glass rod, Buchner funnel etc. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrosox">
+	<TEXT ID="ferrrosox_one">
+	<TEXTVALUE>Take a small amount of ferric chloride using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighox">
+	<TEXT ID="inweighox_one">
+	<TEXTVALUE>Place a butter paper on an electronic balance and tare the balance. Put the ferric chloride on the butter paper and weigh about 3.5g of ferric chloride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerox">
+	<TEXT ID="inbeakerox_one">
+	<TEXTVALUE>Transfer the weighed quantity of ferric chloride into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water1ox">
+	<TEXT ID="water1ox_one">
+	<TEXTVALUE>Take 50ml of distilled water in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowderox">
+	<TEXT ID="dilsulphuinpowderox_one">
+	<TEXTVALUE>Pour it into the beaker containing ferric chloride. Stir the contents in the beaker using a glass rod to dissolve ferric chloride completely.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dilsulphuinpowderox_two">
+	<TEXTVALUE>Stir the contents in the beaker using a glass rod to dissolve the crystals completely.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="pottasiumox">
+	<TEXT ID="pottasiumox_one">
+	<TEXTVALUE>Take a small amount of potassium hydroxide using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoniox">
+	<TEXT ID="inweighammoniox_one">
+	<TEXTVALUE>Weigh about 4g of potassium hydroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammoox">
+	<TEXT ID="inbeakerammoox_one">
+	<TEXTVALUE>Transfer it into another beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water2ox">
+	<TEXT ID="water2ox_one">
+	<TEXTVALUE>Then take 50ml of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeakerox">
+	<TEXT ID="waterinbeakerox_one">
+	<TEXTVALUE>Pour this into the beaker containing potassium hydroxide.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterinbeakerox_two">
+	<TEXTVALUE>Then stir the contents in the beaker using a glass rod until potassium hydroxide is completely dissolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="stiringox">
+	<TEXT ID="stiringox_one">
+	<TEXTVALUE>Add potassium hydroxide solution to ferric chloride solution in small proportions while stirring constantly using a glass rod.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="stiringox_two">
+	<TEXTVALUE>A precipitate of ferric hydroxide is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnelox">
+	<TEXT ID="buchnerfunnelox_one">
+	<TEXTVALUE>Place a filter paper in a Buchner funnel and transfer the mother liquor into the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwaterox">
+	<TEXT ID="distilledwaterox_one">
+	<TEXTVALUE>Pour a small amount of distilled water into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2copyox">
+	<TEXT ID="buchnerfunneldist2copyox_one">
+	<TEXTVALUE>Pour a small amount of distilled water into the beaker and wash the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldistox">
+	<TEXT ID="buchnerfunneldistox_one">
+	<TEXTVALUE>Transfer the washings into the Buchner funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwater2ox">
+	<TEXT ID="distilledwater2ox_one">
+	<TEXTVALUE>Again add a small amount of distilled water into the beaker containing precipitate. Repeat this process and then filter the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2ox">
+	<TEXT ID="buchnerfunneldist2ox_one">
+	<TEXTVALUE>Again add a small amount of distilled water into the beaker containing precipitate. Repeat this process and then filter the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnel2ox">
+	<TEXT ID="buchnerfunnel2ox_one">
+	<TEXTVALUE>Again add a small amount of distilled water into the beaker containing precipitate and transfer the whole precipitate into the funnel.  Repeat this process and then filter the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedoxalicacidox">
+	<TEXT ID="hydratedoxalicacidox_one">
+	<TEXTVALUE>Take a small amount of hydrated oxalic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicox">
+	<TEXT ID="weighoxalicox_one">
+	<TEXTVALUE>Weigh about 4g of oxalic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inoxabeakerox">
+	<TEXT ID="inoxabeakerox_one">
+	<TEXTVALUE>Transfer this into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedpotassiumox">
+	<TEXT ID="hydratedpotassiumox_one">
+	<TEXTVALUE>Then take a small quantity of hydrated potassium oxalate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicpottasiumox">
+	<TEXT ID="weighoxalicpottasiumox_one">
+	<TEXTVALUE>Weigh about 5.5g of potassium oxalate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="beakerox">
+	<TEXT ID="beakerox_one">
+	<TEXTVALUE>Transfer this into the same beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilwatrox">
+	<TEXT ID="distilwatrox_one">
+	<TEXTVALUE>Take 100ml of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100mlinbeakerox">
+	<TEXT ID="100mlinbeakerox_one">
+	<TEXTVALUE>Pour this into the beaker containing hydrated oxalic acid and hydrated potassium oxalate.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="100mlinbeakerox_two">
+	<TEXTVALUE>Stir the solution in the beaker thoroughly using a glass rod to get a clear solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetaox">
+	<TEXT ID="percipitatetaox_one">
+	<TEXTVALUE>Add the precipitate of ferric hydroxide in small amounts into the above beaker and stir the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrox">
+	<TEXT ID="percipitateinbeakrox_one">
+	<TEXTVALUE>Add the precipitate of ferric hydroxide in small amounts into the above beaker and stir the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetacopyox">
+	<TEXT ID="percipitatetacopyox_one">
+	<TEXTVALUE>Add the precipitate of ferric hydroxide in small amounts into the above beaker and stir the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrcopyox">
+	<TEXT ID="percipitateinbeakrcopyox_one">
+	<TEXTVALUE>Add the precipitate of ferric hydroxide in small amounts into the above beaker and stir the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelox">
+	<TEXT ID="funnelox_one">
+	<TEXTVALUE>Take a funnel and fix it on a stand and place a filter paper in the funnel.Set a clean china dish below the funnel.The stem of the funnel should touch the wall of the china dish to avoid the solution splashing out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeitox">
+	<TEXT ID="takeitox_one">
+	<TEXTVALUE>Filter the solution into the china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="freakox">
+	<TEXT ID="freakox_one">
+	<TEXTVALUE>Filter the solution into the china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbathox">
+	<TEXT ID="sandbathox_one">
+	<TEXTVALUE>Heat the contents in the china dish on a sand bath until the crystallization point is reached.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linedrawox">
+	<TEXT ID="linedrawox_one">
+	<TEXTVALUE>Heat the contents in the china dish on a sand bath until the crystallization point is reached.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbath2ox">
+	<TEXT ID="sandbath2ox_one">
+	<TEXTVALUE>Heat the contents in the china dish on a sand bath until the crystallization point is reached.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="coldwaterox">
+	<TEXT ID="coldwaterox_one">
+	<TEXTVALUE>Place the china dish containing hot saturated solution in a trough containing cold water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_two">
+	<TEXTVALUE>Cover the china-dish with a black paper as the complex is sensitive to light. Allow the solution to cool for some time.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_three">
+	<TEXTVALUE>As the solution cools, the crystals of Potassium trioxalatoferrate (III) separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteox">
+	<TEXT ID="sinkwasteox_one">
+	<TEXTVALUE>Decant the mother liquor.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethylalcoholox">
+	<TEXT ID="ethylalcoholox_one">
+	<TEXTVALUE>Pour a small quantity of ethyl alcohol into the china-dish and wash the crystals with alcohol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethyltochinadishox">
+	<TEXT ID="ethyltochinadishox_one">
+	<TEXTVALUE>Pour a small quantity of ethyl alcohol into the china-dish and wash the crystals with alcohol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteddox">
+	<TEXT ID="sinkwasteddox_one">
+	<TEXTVALUE>Transfer the washings into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastox">
+	<TEXT ID="lastox_one">
+	<TEXTVALUE>Transfer the crystals onto a filter paper and dry the crystals by gently pressing them between filter papers.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="labeledcrystalox">
+	<TEXT ID="labeledcrystalox_one">
+	<TEXTVALUE>Then transfer the dried crystals of the complex onto a watch glass and label it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

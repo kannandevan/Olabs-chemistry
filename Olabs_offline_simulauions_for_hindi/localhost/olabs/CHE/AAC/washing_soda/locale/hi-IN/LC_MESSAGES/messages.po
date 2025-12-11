@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:50+0530\n"
+"PO-Revision-Date: 2025-10-07 12:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "सहायता"
+
+msgid "Alert"
+msgstr "चेतावनी"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "क्या आप सिमुलेशन को रीसेट करना चाहते हैं?"
+ 
+msgid "Yes"
+msgstr "हाँ"
+ 
+msgid "No"
+msgstr "नहीं"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "विकसित किया गया अमृता विश्वविद्यालय द्वारा <br> वित्त पोषण: इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय || <br> शिक्षा मंत्रालय, भारत सरकार"
+
+msgid "RESET"
+msgstr "रीसेट"
+
+msgid "MAXIMIZE"
+msgstr "बड़ा करें"
+
+msgid "MINIMIZE"
+msgstr "छोटा करें"
+
+msgid "To Identify Washing soda or Baking soda among given Samples of Chemicals"
+msgstr "दिए गए रसायनों के नमूनों में से वॉशिंग सोडा या बेकिंग सोडा की पहचान करना"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "The boiling tube A only produces effervescence when dil. HCl is added. <br>Therefore, the further procedure will be done using boiling tube A"
+msgstr "पतला HCl मिलाने पर केवल क्वथन नली A में ही बुदबुदाहट (effervescence) उत्पन्न होती है। <br>इसलिए, आगे की प्रक्रिया क्वथन नली A का उपयोग करके की जाएगी।"
+
+msgid "Wash the glass rod used for one sample before it used for another sample."
+msgstr "एक नमूने के लिए उपयोग की गई काँच की छड़ को दूसरे नमूने के लिए उपयोग करने से पहले धो लें।"
+
+msgid "Pass the liberated gas evolved through the lime water in a test tube . The lime water turns milky."
+msgstr "उत्पन्न हुई मुक्त गैस को परखनली में मौजूद चूने के पानी (चूने का पानी) में से गुजारें। चूने का पानी दूधिया हो जाता है।"
+
+msgid "Sodium carbonate decahydrate"
+msgstr "सोडियम कार्बोनेट डेकाहाइड्रेट"
+
+msgid "Ammonium chloride"
+msgstr "अमोनियम क्लोराइड"
+
+msgid "Sodium chloride"
+msgstr "सोडियम क्लोराइड"
+
+msgid "Click on the sodium carbonate decahydrate bottle"
+msgstr "सोडियम कार्बोनेट डेकाहाइड्रेट की बोतल पर क्लिक करें"
+
+msgid "Click on the cap to open the bottle"
+msgstr "बोतल का ढक्कन खोलने के लिए क्लिक करें"
+
+msgid "Drag and drop the Spatula towards the bottle"
+msgstr "स्पैटुला को बोतल की ओर खींचें और छोड़ें"
+
+msgid "Drag and drop the Spatula towards the Boiling tube A"
+msgstr "स्पैटुला को क्वथन नली A की ओर खींचें और छोड़ें"
+
+msgid "Drag and drop the Spatula towards the Boiling tube B"
+msgstr "स्पैटुला को क्वथन नली B की ओर खींचें और छोड़ें"
+
+msgid "Drag and drop the Spatula towards the Boiling tube C"
+msgstr "स्पैटुला को क्वथन नली C की ओर खींचें और छोड़ें"
+
+msgid "Click here to shake."
+msgstr "हिलाने के लिए यहां क्लिक करें।"
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube A."
+msgstr "मापक सिलेंडर को क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube B."
+msgstr "मापक सिलेंडर को क्वथन नली B की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube C."
+msgstr "मापक सिलेंडर को क्वथन नली C की ओर खींचें और छोड़ें।"
+
+msgid "Click on the ammonium chloride bottle."
+msgstr "अमोनियम क्लोराइड की बोतल पर क्लिक करें।"
+
+msgid "Click on the sodium chloride bottle."
+msgstr "सोडियम क्लोराइड की बोतल पर क्लिक करें।"
+
+msgid "Click on the Next button."
+msgstr "अगला बटन पर क्लिक करें।"
+
+msgid "Drag and drop Glass rod towards Boiling tube A."
+msgstr "काँच की छड़ को क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Click on the Inference button to see the observation."
+msgstr "अवलोकन देखने के लिए निष्कर्ष बटन पर क्लिक करें।"
+
+msgid "Drag and drop Glass rod towards the Boiling tube B."
+msgstr "काँच की छड़ को क्वथन नली B की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop Glass rod towards the Boiling tube C."
+msgstr "काँच की छड़ को क्वथन नली C की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the dil. HCL bottle towards the <br>Measuring Cylinder."
+msgstr "पतला HCl बोतल को मापक <br>सिलेंडर की ओर खींचें और छोड़ें।"
+
+msgid "Click here to open the dil. HCL Bottle cap."
+msgstr "पतला HCl बोतल का ढक्कन खोलने के लिए यहां क्लिक करें।"
+
+msgid "Drag and drop the Cork towards the Boiling tube A."
+msgstr "कॉर्क को क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Delivery tube towards the Boiling tube A."
+msgstr "डिलीवरी ट्यूब को क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Dropper towards the Boiling tube A."
+msgstr "ड्रॉपर को क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Test tube containing Lime water<br>towards the other end of the Delivery tube."
+msgstr "चूने का पानी वाली परखनली को <br>डिलीवरी ट्यूब के दूसरे सिरे की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop the Wash Bottle towards the Measuring Cylinder."
+msgstr "वॉश बोतल को मापक सिलेंडर की ओर खींचें और छोड़ें।"
+
+msgid "Click on the Boiling tube A to shake it."
+msgstr "क्वथन नली A को हिलाने के लिए क्लिक करें।"
+
+msgid "Click on the Boiling tube B to shake it."
+msgstr "क्वथन नली B को हिलाने के लिए क्लिक करें।"
+
+msgid "Click on the Boiling tube C to shake it."
+msgstr "क्वथन नली C को हिलाने के लिए क्लिक करें।"
+
+msgid "Drag and drop the Glass rod towards the red litmus."
+msgstr "काँच की छड़ को लाल लिटमस की ओर खींचें और छोड़ें।"
+
+msgid "Drag and drop Glass rod towards the Boiling tube B"
+msgstr "काँच की छड़ को क्वथन नली B की ओर खींचें और छोड़ें"
+
+msgid "When a drop of sodium carbonate decahydrate<br>solution is dropped on red litmus, it turns blue."
+msgstr "जब सोडियम कार्बोनेट डेकाहाइड्रेट के विलयन की एक बूँद <br>लाल लिटमस पर डाली जाती है, तो वह नीला हो जाता है।"
+
+msgid "Drag and drop Glass rod towards the Boiling tube C"
+msgstr "काँच की छड़ को क्वथन नली C की ओर खींचें और छोड़ें"
+
+msgid "When a drop of ammonium chloride is added to red litmus <br>there is no change in the litmus paper."
+msgstr "जब अमोनियम क्लोराइड की एक बूँद लाल लिटमस पर डाली जाती है, <br>तो लिटमस पेपर में कोई बदलाव नहीं होता।"
+
+msgid "Click on the Next button"
+msgstr "अगला बटन पर क्लिक करें"
+
+msgid "When a drop of sodium chloride is added to red litmus<br> there is no effect on the litmus paper."
+msgstr "जब सोडियम क्लोराइड की एक बूँद लाल लिटमस पर डाली जाती है, <br>तो लिटमस पेपर पर कोई प्रभाव नहीं पड़ता।"
+
+msgid "Click here to open the dil. HCL Bottle cap"
+msgstr "पतला HCl बोतल का ढक्कन खोलने के लिए यहां क्लिक करें"
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide." + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "जब पतला हाइड्रोक्लोरिक एसिड सोडियम कार्बोनेट डेकाहाइड्रेट के साथ प्रतिक्रिया करता है, <br>तो सोडियम क्लोराइड, कार्बन डाइऑक्साइड और पानी बनते हैं। <br>कार्बन डाइऑक्साइड के निकलने में तेज़ी से बुदबुदाहट (effervescence) देखी जाती है।" + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "When ammonium chloride reacts with dil. HCL,<br> the resultant salt will be ammonium chloride. It is an acidic salt."
+msgstr "जब अमोनियम क्लोराइड पतला HCl के साथ प्रतिक्रिया करता है, <br>तो परिणामी नमक अमोनियम क्लोराइड होगा। यह एक अम्लीय नमक है।"
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl)."+"<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "हाइड्रोक्लोरिक एसिड क्वथन नली में सोडियम हाइड्रॉक्साइड के साथ प्रतिक्रिया करके <br>सोडियम क्लोराइड (नमक) और पानी बनाता है। <br>सोडियम क्लोराइड क्षार (NaOH) से Na<sup>+</sup> धनायनों और अम्ल (HCl) से Cl<sup>-</sup> ऋणा यनों से बना होता है।" + "<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br/>" +"The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br>"+ " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "क्वथन नली से निकलने वाली मुक्त गैस को <br> परखनली में मौजूद चूने के पानी (lime water) में से गुजारें। चूने का पानी दूधिया हो जाता है। <br/>" +"जब पतला HCl सोडियम कार्बोनेट डेकाहाइड्रेट के साथ प्रतिक्रिया करता है, <br>तो निकलने वाली गैस को चूने के पानी में से गुजारने पर, चूने का पानी दूधिया हो जाता है <br>या कैल्शियम कार्बोनेट का सफेद अवक्षेप (white precipitate) बनता है।" + " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+msgid "Observe the Colour of Lime water"
+msgstr "चूने के पानी का रंग देखें"
+
+msgid "Click on the Inference button to see the observation."
+msgstr "अवलोकन देखने के लिए निष्कर्ष बटन पर क्लिक करें।"
+
+msgid "Click on the Reset<br>button to redo<br>the experiment."
+msgstr "प्रयोग को <br>दोहराने के लिए <br>रीसेट बटन पर क्लिक करें।"
+
+msgid "On passing this gas in excess, it becomes clear again.<br> This confirms the presence of carbon dioxide.<br>"+ "Equation: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq). <br>"+ "On passing excess CO<sub>2</sub> through Lime water,<br> calcium hydrogen carbonate is formed.<br> It is soluble in water and forms a colourless solution."
+msgstr "इस गैस को अतिरिक्त मात्रा में गुजारने पर, यह फिर से साफ़ हो जाता है। <br>यह कार्बन डाइऑक्साइड की उपस्थिति की पुष्टि करता है। <br>समीकरण: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq)। <br>चूने के पानी में अत्यधिक CO<sub>2</sub> गुजारने पर, <br>कैल्शियम हाइड्रोजन कार्बोनेट बनता है। <br>यह पानी में घुलनशील है और एक रंगहीन विलयन बनाता है।"
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide.<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "जब पतला हाइड्रोक्लोरिक एसिड सोडियम कार्बोनेट डेकाहाइड्रेट के साथ प्रतिक्रिया करता है, <br>तो सोडियम क्लोराइड, कार्बन डाइऑक्साइड और पानी बनते हैं। <br>कार्बन डाइऑक्साइड के निकलने में तेज़ी से बुदबुदाहट (effervescence) देखी जाती है। <br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl).<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "हाइड्रोक्लोरिक एसिड क्वथन नली में सोडियम हाइड्रॉक्साइड के साथ प्रतिक्रिया करके <br>सोडियम क्लोराइड (नमक) और पानी बनाता है। <br>सोडियम क्लोराइड क्षार (NaOH) से Na<sup>+</sup> धनायनों <br>और अम्ल (HCl) से Cl<sup>-</sup> ऋणा यनों से बना होता है।<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Drag and drop the Thistle funnel towards the<br> Boiling tube A."
+msgstr "थिस्ल कीप (Thistle funnel) को <br>क्वथन नली A की ओर खींचें और छोड़ें।"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "क्वथन नली से निकलने वाली मुक्त गैस को <br> परखनली में मौजूद चूने के पानी (lime water) में से गुजारें। चूने का पानी दूधिया हो जाता है। <br>जब पतला HCl सोडियम कार्बोनेट डेकाहाइड्रेट के साथ प्रतिक्रिया करता है, <br>तो निकलने वाली गैस को चूने के पानी में से गुजारने पर, चूने का पानी दूधिया हो जाता है <br>या कैल्शियम कार्बोनेट का सफेद अवक्षेप (white precipitate) बनता है।<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "क्वथन नली से निकलने वाली मुक्त गैस को <br> परखनली में मौजूद चूने के पानी (lime water) में से गुजारें। चूने का पानी दूधिया हो जाता है। <br>जब पतला HCl सोडियम कार्बोनेट डेकाहाइड्रेट के साथ प्रतिक्रिया करता है, <br>तो निकलने वाली गैस को चूने के पानी में से गुजारने पर, चूने का पानी दूधिया हो जाता है <br>या कैल्शियम कार्बोनेट का सफेद अवक्षेप (white precipitate) बनता है।<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"

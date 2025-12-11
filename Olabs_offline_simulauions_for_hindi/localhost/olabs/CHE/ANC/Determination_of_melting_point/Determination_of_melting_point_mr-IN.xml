@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_zero">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>प्रयोग सुरू करण्यासाठी ‘सुरू’ बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="capillarytube">
+	<TEXT ID="capillarytube_one">
+		<TEXTVALUE>आवश्यक सामग्री: पावडर रूपात नाफ्थालीन, द्रव पॅराफिन, केशनलिका, पोरस ताटली, स्पाट्युला, थर्मामिटर, धागा, चंचुपात्र, ढवळणी, लोखंडी स्टँड आणि क्लांप, तार गोझ, तिवई, बन्सेन बर्नर इ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Seal">
+	<TEXT ID="Seal_one">
+		<TEXTVALUE>केशनलिका घ्या आणि बन्सेन बर्नर वर गरम करून त्याचे एक टोक बंद करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="takesomepowderer">
+	<TEXT ID="takesomepowderer_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे नाफ्थालीन घ्या.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Addporous">
+	<TEXT ID="Addporous_one">
+		<TEXTVALUE>पोरस ताटलीवर ठेवा आणि ढीग निर्माण करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube">
+	<TEXT ID="fillthetube_one">
+		<TEXTVALUE>केशनलिकेचे उघडे टोक ढीगात टाका</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="zoom1">
+	<TEXT ID="zoom1_one">
+		<TEXTVALUE>थोडासा नमूना केशनलिकेत शिरेल.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="fillthetube23">
+	<TEXT ID="fillthetube23_one">
+		<TEXTVALUE>केशनलिकेचे बंद टोक हळूच ताटलीवर आपटा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="zoom16">
+	<TEXT ID="zoom16_one">
+		<TEXTVALUE>हीच प्रक्रिया परत करा आणि केशनलिका २-३ मिमी भरा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+<SCENE ID="fillthetube237">
+	<TEXT ID="fillthetube237_one">
+		<TEXTVALUE>हीच प्रक्रिया परत करा आणि केशनलिका २-३ मिमी भरा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="to23mm">
+	<TEXT ID="to23mm_one">
+		<TEXTVALUE>धागा वापरून केशनलिका थर्मामिटरला बांधा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafin">
+	<TEXT ID="parafin_one">
+		<TEXTVALUE>पॅराफिन द्रव असलेले चंचुपात्र घ्या.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburner">
+	<TEXT ID="parafinburner_one">
+		<TEXTVALUE>त्याला तार गोझ वर ठेवा जे बन्सेन बर्नर वर ठेवले आहे आणि त्यात ढवळणी टाका.</TEXTVALUE>
+   </TEXT>
+   
+   <TEXT ID="parafinburner_two">
+		<TEXTVALUE>केशनलिके बरोबरचा थर्मामिटर लोखंडी स्टँडला क्लांप करा.रचना अशी ठेवा की केशनलिका आणि थर्मामिटर हे द्रव पॅराफिनच्या आत आहे</TEXTVALUE>
+   </TEXT>
+   
+  <TEXT ID="parafinburner_three">
+		<TEXTVALUE>खात्री करून घ्या की धागा द्रव पॅराफिनच्या बाहेर आहे.</TEXTVALUE>
+   </TEXT> 
+   
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="parafinburner2">
+	<TEXT ID="parafinburner2_one">
+		<TEXTVALUE>द्रव नाफ्थालीन हळू हळू गरम करा आणि द्रवाला ढवळणीने ढवळा.</TEXTVALUE>
+   </TEXT>
+   
+   
+   <TEXT ID="parafinburner2_two">
+		<TEXTVALUE>वर खाली करा म्हणजे तापमान पूर्ण पदार्थात एकसारखे राहील.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+
+
+
+
+
+
+<SCENE ID="line">
+	<TEXT ID="line_one">
+		<TEXTVALUE>थोड्या वेळानी केशनलिकेतले नाफ्थालीन वितळणे सुरू होईल.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="parafinburnerzoom">
+	<TEXT ID="parafinburnerzoom_one">
+		<TEXTVALUE>ज्या तापमानाला (टी१) नाफ्थालीन वितळणे सुरू होते त्याची नोंद करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="line33">
+	<TEXT ID="line33_one">
+		<TEXTVALUE>थोड्या वेळानी परिक्षा नळीतले नाफ्थालीन पूर्णपणे वितळते.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="parafinburnerzoom55">
+	<TEXT ID="parafinburnerzoom55_one">
+		<TEXTVALUE>ज्या तापमानाला (टी२) नाफ्थालीन पूर्णपणे वितळते त्याची नोंद करा.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene27">
+	<TEXT ID="Scene27_one">
+		<TEXTVALUE>नाफ्थालीनचा द्रवणांक (टी१ + टी२)/२ सूत्र वापरून परिगणित करा. </TEXTVALUE>
+   </TEXT>
+</SCENE>
+	
+</DATA>

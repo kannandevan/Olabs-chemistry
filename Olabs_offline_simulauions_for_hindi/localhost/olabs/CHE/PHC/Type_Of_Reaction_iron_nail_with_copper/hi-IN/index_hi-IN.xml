@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BEAKER1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_COPPER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_COPPERSULPHATE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_GLASSROD">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_IRONNAILS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MC1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MC2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MC3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MC4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SANDPAPER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SPOON">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SPOON1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TESTTUBE1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_THREAD">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

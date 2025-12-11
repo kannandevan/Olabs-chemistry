@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_animatitle_01">
+	<TEXTVALUE>സംയോജന പ്രവർത്തനം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_start">
+	<TEXTVALUE>ആരംഭിക്കുക  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2into">
+	<TEXT ID="2into_one">
+	 <TEXTVALUE>നീറ്റ് ചുണ്ണാമ്പ്, ശുദ്ധീകരിച്ച ജലം, ബീക്കറുകൾ, സ്പാറ്റുല, ഗ്ലാസ്സ് റോഡ്, ടെസ്ട്യുബ്, ഡ്രോപ്പർ, നാരങ്ങാവെള്ളം തുടങ്ങിയ വസ്തുക്കൾ നമുക്ക് ആവശ്യമാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_02">
+	 <TEXTVALUE>ജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_03">
+	 <TEXTVALUE>നീറ്റ് ചുണ്ണാമ്പ്</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+
+
+
+
+<SCENE ID="3lime">
+	<TEXT ID="3lime_one">
+	 <TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച്  കുറച്ച് നീറ്റ് ചുണ്ണാമ്പ് എടുക്കുക(കാൽസ്യം ഓക്സൈഡ്) അത് ബീക്കറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="3lime_two">
+	 <TEXTVALUE>നീറ്റ് ചുണ്ണാമ്പ് വെള്ളത്തിൽ ആഴ്ന്ന് കിടക്കുന്നതുകൊണ്ട്  അതിലേക്ക് ജലം സാവധാനം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="3lime_therm01">
+	 <TEXTVALUE>തെർമോമീറ്റർ</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+
+<SCENE ID="4zoom">
+	<TEXT ID="4zoom_one">
+	 <TEXTVALUE>നീറ്റ് ചുണ്ണാമ്പ് വളരെ ഊർജ്ജസ്വലമായി ജലവുമായി പ്രവർത്തിച്ച് ചൂടിനെ സ്വതന്ത്രമാക്കിക്കൊണ്ട്  ചുണ്ണാമ്പ് തരികൾ രൂപപ്പെടുന്നു. അവ പൊങ്ങിക്കിടക്കുന്നു</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4zoom_text_04">
+	 <TEXTVALUE>ചുണ്ണാമ്പ് തരി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5zom">
+	<TEXT ID="5zom_one">
+	 <TEXTVALUE>ബീക്കർ കുറെ സമയം അനക്കാതെ വെയ്ക്കുക. ചുണ്ണാമ്പ് ജലത്തിന്റെ  തെളിഞ്ഞ ലായനി ഉണ്ടാകുകയും അവശേഷിച്ച ചുണ്ണാമ്പ് തരികൾ ബീക്കറിന് അടിയിലും  അവശേഷിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5zom_two">
+	 <TEXTVALUE>ചുണ്ണാമ്പ് ജലത്തിന്റെ  തെളിഞ്ഞ ലായനി ഉണ്ടാകുന്നു, അവശേഷിച്ച ചുണ്ണാമ്പ് തരികൾ  അടിയിൽ  അവശേഷിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_lime_tt01">
+	 <TEXTVALUE>നാരങ്ങാവെള്ളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_texttt_05">
+	 <TEXTVALUE>ചുണ്ണാമ്പ് തരി</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="6zom1">
+	<TEXT ID="6zom1_one">
+	 <TEXTVALUE>ഡ്രോപ്പർ ഉപയോഗിച്ച് കുറച്ച് ചുണ്ണാമ്പ് ജലം എടുക്കുക, അത് ടെസ്ട്യുബിലേക്ക്  മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6zom1_two">
+	 <TEXTVALUE>കോർക്ക് ഉപയോഗിച്ച് ടെസ്ട്യുബ് നന്നായി അടച്ചതിന് ശേഷം കോർക്കിന്റെ  ദ്വാരത്തിലൂടെ ടെസ്ട്യുബിനകത്തേക്ക് ഒരു ഗ്ലാസ്സ് ട്യുബ് കടത്തുക.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="6zom1_lom_tt1">
+	 <TEXTVALUE>നാരങ്ങാവെള്ളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_glat_txt01">
+	 <TEXTVALUE>ഗ്ലാസ്സ് റോഡ്</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+
+
+
+<SCENE ID="7face">
+	<TEXT ID="7face_one">
+	 <TEXTVALUE>ഗ്ലാസ്സ് ട്യുബിലൂടെ ടെസ്ട്യുബിലേക്ക് ശ്വാസം നിർഗ്ഗമിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8zoom3">
+	<TEXT ID="8zoom3_one">
+	 <TEXTVALUE>ശ്വാസം ഊതി വിടുമ്പോൾ Co2(g) ഇതിലെ നാരങ്ങാവെള്ളം പാൽ നിറമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+	 <TEXTVALUE>ഈ  പ്രവർത്തനത്തിൽ നീറ്റ് ചുണ്ണാമ്പും ജലവും  ചേർന്ന് ഒരു ലഘു  ഉൽപ്പന്നമായ (നീറിയ ചുണ്ണാമ്പ്) കാൽസ്യംഹൈഡ്രോക്സൈഡ് ഉണ്ടാകുന്നു. അതുകൊണ്ട് ഇത് ഒരു  സംയോജനപ്രവർത്തനം ആണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_calsiumtxt_01">
+	 <TEXTVALUE>ചുണ്ണാമ്പിന്റെ അവക്ഷിപ്തം </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_bact_01">
+	 <TEXTVALUE>പുറകിൽ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+

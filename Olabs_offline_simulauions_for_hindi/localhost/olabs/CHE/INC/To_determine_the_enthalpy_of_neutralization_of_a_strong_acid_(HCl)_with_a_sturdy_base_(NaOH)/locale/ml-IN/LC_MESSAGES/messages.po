@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-13 19:25+0530\n"
+"PO-Revision-Date: 2025-10-13 19:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "To Determine the Enthalpy of Neutralization of a Strong Acid(HCl) with a Strong Base (NaOH)"
+msgstr "<empty class="pxdot10">ശക്തമായ ആസിഡ് (HCl)യും ശക്തമായ ആൽക്കലി (NaOH)യും തമ്മിലുള്ള ന്യൂട്രലൈസേഷൻ എൻതാൽപി കണ്ടെത്തുക<empty>"
+
+msgid "NEXT"
+msgstr "<empty class="pxdot10">അടുത്തത്<empty>"
+
+#: simcontrols.js:15
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:18
+msgid "Wait for sometime so that both solution attains same temperature t1, say 28<sup>o</sup>C"
+msgstr "രണ്ടു ദ്രാവണങ്ങളും ഒരേ താപനില t1 (ഉദാഹരണത്തിന് 28<sup>o</sup>C) നേടുന്നതുവരെ കുറച്ചു സമയം കാത്തിരിക്കുക"
+
+#: simcontrols.js:21
+msgid "Temperature = 28<sup>o</sup>C"
+msgstr "താപനില = 28<sup>o</sup>C"
+
+#: simcontrols.js:22
+msgid "Temperature = 27<sup>o</sup>C"
+msgstr "താപനില = 27<sup>o</sup>C"
+
+#: simcontrols.js:23
+msgid "Temperature = 40<sup>o</sup>C = t2"
+msgstr "താപനില = 40<sup>o</sup>C = t2"
+
+#: simcontrols.js:26
+msgid "Enthalpy change during neutralization of 100 mL of 1M HCl = (200 x W) x (t1 - t2) x 4.18"
+msgstr "<empty class="pxdot9">100 mL 1M HCl ന്റെ ന്യൂട്രലൈസേഷൻ സമയത്തെ എൻതാൽപി വ്യത്യാസം = (200 x W) x (t1 - t2) x 4.18<empty>"
+
+#: simcontrols.js:31
+msgid "Where W is the calorimeter constant, and its value is taken as 29.1 J (value depends on the calorimeter)"
+msgstr "<empty class="pxdot9">ഇവിടെ W എന്നത് കാലോരിമീറ്റർ നിശ്ചിതമൂല്യമാണ്, അതിന്റെ മൂല്യം 29.1 J ആണെന്ന് സ്വീകരിക്കുന്നു (മൂല്യം കാലോരിമീറ്ററിനെ ആശ്രയിച്ചിരിക്കും)<empty>"
+
+#: simcontrols.js:36
+msgid "When 100 mL of 1M HCl is allowed to neutralize 1000 mL of 1M NaOH, calculate the heat <br> that is released. This amount would be ten times greater than what was achieved."
+msgstr "<empty class="pxdot9">100 mL 1M HCl നും 1000 mL 1M NaOH നും തമ്മിൽ ന്യൂട്രലൈസേഷൻ നടക്കുമ്പോൾ പുറപ്പെടുന്ന ചൂട് കണക്കുകൂട്ടുക.ഇത് മുൻപ് ലഭിച്ചതിന്റെ പത്തു മടങ്ങ് ആയിരിക്കും.<empty>"
+
+#: simcontrols.js:41
+msgid "Enthalpy of neutralization    =  (200 x W) x (t1 - t2) x 4.18  kJ"
+msgstr "<empty class="pxdot9">ന്യൂട്രലൈസേഷൻ എൻതാൽപി = (200 x W) x (t1 - t2) x 4.18  kJ<empty>"
+
+#: simcontrols.js:46
+msgid "We have t1 = 28<sup>o</sup>C, t2 = 40<sup>o</sup>C and W = 29.1 J, Substituting these in tha above equation"
+msgstr "<empty class="pxdot9">നമുക്കുണ്ട് t1 = 28<sup>o</sup>C, t2 = 40<sup>o</sup>C, W = 29.1 J — ഇവ മുകളിലെ സമവാക്യത്തിൽ പകരുക<empty>"
+
+#: simcontrols.js:50
+msgid "Instructions"
+msgstr "നിർദ്ദേശങ്ങൾ"
+
+#: simcontrols.js:51 simcontrols.js:150
+msgid "Reset"
+msgstr "<empty class="pxdot7">പുനഃസജ്ജമാക്കുക<empty>"
+
+#: simcontrols.js:53
+msgid "Go through the calculations on the right."
+msgstr "വലത് വശത്തിലെ കണക്കുകൾ നോക്കുക."
+
+#: simcontrols.js:56
+msgid "1. Click on the calorimeter lid to open it."
+msgstr "1. കാലോരിമീറ്ററിന്റെ മൂടി തുറക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:60
+msgid "2. Drag the beaker containing 100 mL HCL solution towards the top of measuring cylinder."
+msgstr "2. 100 mL HCl ദ്രാവകം ഉള്ള ബീക്കർ അളക്കുന്ന സിലിണ്ടറിന്റെ മുകളിലോട്ടു വലിക്കുക."
+
+#: simcontrols.js:65
+msgid "3. Drag the measuring cylinder containing 100 mL HCl to the top of calorimeter."
+msgstr "3. 100 mL HCl ഉള്ള അളക്കുന്ന സിലിണ്ടർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക."
+
+#: simcontrols.js:69
+msgid "4. Click on the calorimeter lid to close it."
+msgstr "4. കാലോരിമീറ്ററിന്റെ മൂടി അടയ്ക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:73
+msgid "5. Drag the thermometer towards the top of the calorimeter to insert it and measure the initial temperature."
+msgstr "5. തർമ്മോമീറ്റർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിച്ച് ചേർത്ത് പ്രാരംഭ താപനില അളക്കുക."
+
+#: simcontrols.js:78
+msgid "6. Drag the thermometer towards the top of the beaker to insert it and measure the temperature."
+msgstr "6. തർമ്മോമീറ്റർ ബീക്കറിന്റെ മുകളിലോട്ടു വലിച്ച് ചേർത്ത് താപനില അളക്കുക."
+
+#: simcontrols.js:82
+msgid "7. Drag the thermometer towards the thermometer stand"
+msgstr "7. തർമ്മോമീറ്റർ സ്റ്റാൻഡിലേക്കു വലിക്കുക"
+
+#: simcontrols.js:86
+msgid "8. Drag the beaker containing 100 mL NaOH solution towards the top of measuring cylinder."
+msgstr "8. 100 mL NaOH ദ്രാവകം ഉള്ള ബീക്കർ അളക്കുന്ന സിലിണ്ടറിന്റെ മുകളിലോട്ടു വലിക്കുക."
+
+#: simcontrols.js:90
+msgid "9. Click on the calorimeter lid to open it."
+msgstr "9. കാലോരിമീറ്ററിന്റെ മൂടി തുറക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:94
+msgid "10. Drag the measuring cylinder containing 100 mL NaOH to the top of calorimeter."
+msgstr "10. 100 mL NaOH ഉള്ള അളക്കുന്ന സിലിണ്ടർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക."
+
+#: simcontrols.js:98
+msgid "11. Drag the stirrer towards the top of calorimeter."
+msgstr "11. സ്റ്റിറർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക."
+
+#: simcontrols.js:101
+msgid "12. Click on the calorimeter lid to close it."
+msgstr "12. കാലോരിമീറ്ററിന്റെ മൂടി അടയ്ക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:104
+msgid "13. Click on the stirrer to stir the mixture."
+msgstr "13. മിശ്രിതം കലക്കാൻ സ്റ്റിററിൽ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols.js:108
+msgid "14. Drag the thermometer towards the top of the calorimeter to insert it and measure the final temperature."
+msgstr "14. തർമ്മോമീറ്റർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിച്ച് ചേർത്ത് അന്തിമ താപനില അളക്കുക."
+
+#: simcontrols.js:113 simcontrols.js:128
+msgid "Click on the calorimeter lid to open it"
+msgstr "കാലോരിമീറ്ററിന്റെ മൂടി തുറക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:115
+msgid "Drag the measuring cylinder containing<br>100 mL HCl to the top of the calorimeter"
+msgstr "100 mL HCl ഉള്ള അളക്കുന്ന സിലിണ്ടർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക"
+
+#: simcontrols.js:117 simcontrols.js:133
+msgid "Click on the calorimeter lid to close it"
+msgstr "കാലോരിമീറ്ററിന്റെ മൂടി അടയ്ക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:119 simcontrols.js:136
+msgid "Drag the thermometer towards the top of the<br>calorimeter to insert it and measure the temperature"
+msgstr "തർമ്മോമീറ്റർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിച്ച് ചേർത്ത് താപനില അളക്കുക"
+
+#: simcontrols.js:122
+msgid "Drag the thermometer towards the top of the<br>NaOH beaker to insert it and measure the temperature"
+msgstr "തർമ്മോമീറ്റർ NaOH ബീക്കറിന്റെ മുകളിലോട്ടു വലിച്ച് ചേർത്ത് താപനില അളക്കുക"
+
+#: simcontrols.js:124
+msgid "Drag the thermometer towards the thermometer stand"
+msgstr "തർമ്മോമീറ്റർ സ്റ്റാൻഡിലേക്കു വലിക്കുക"
+
+#: simcontrols.js:126
+msgid "Drag the beaker containing 100 mL of NaOH solution<br>towards the top of the measuring cylinder"
+msgstr "100 mL NaOH ദ്രാവകം ഉള്ള ബീക്കർ അളക്കുന്ന സിലിണ്ടറിന്റെ മുകളിലോട്ടു വലിക്കുക"
+
+#: simcontrols.js:130
+msgid "Drag the measuring cylinder containing<br>100 mL NaOH to the top of the calorimeter"
+msgstr "100 mL NaOH ഉള്ള അളക്കുന്ന സിലിണ്ടർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക"
+
+#: simcontrols.js:132
+msgid "Drag the stirrer towards the top of the calorimeter"
+msgstr "സ്റ്റിറർ കാലോരിമീറ്ററിന്റെ മുകളിലോട്ടു വലിക്കുക"
+
+#: simcontrols.js:134
+msgid "Click on the stirrer to stir the mixture"
+msgstr "മിശ്രിതം കലക്കാൻ സ്റ്റിററിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:141
+msgid "Drag the beaker containing 100 mL of HCL solution<br>towards the top of the measuring cylinder"
+msgstr "100 mL HCl ദ്രാവകം ഉള്ള ബീക്കർ അളക്കുന്ന സിലിണ്ടറിന്റെ മുകളിലോട്ടു വലിക്കുക"
+
+#: simcontrols.js:143
+msgid "Click on the Next button"
+msgstr "അടുത്തത് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:144
+msgid "Click on the Inference button"
+msgstr "നിഗമനം ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:145
+msgid "Click on the Reset button to restart the experiment"
+msgstr "പരീക്ഷണം പുനരാരംഭിക്കാൻ റീസെറ്റ് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:147
+msgid "We've got two temperatures <b>t1 = 28<sup>o</sup>C</b> and <b>t2 = 40<sup>o</sup>C</b>"
+msgstr "നമുക്ക് രണ്ട് താപനിലകൾ ലഭിച്ചു <b>t1 = 28<sup>o</sup>C</b> ഉം <b>t2 = 40<sup>o</sup>C</b> ഉം"
+

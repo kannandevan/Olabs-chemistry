@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hf\\\\n\\n\n"
+"POT-Creation-Date: 2022-03-24 15:44+0530\n"
+"PO-Revision-Date: 2022-03-24 15:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: h<h>\\\\n\\n\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:15
+msgid "To study pollen tube growth on stigma"
+msgstr "To study pollen tube growth on stigma"
+
+#: simcontrols.js:16
+msgid "Select objective lens"
+msgstr "Select objective lens"
+
+#: simcontrols.js:16
+msgid "Coarse adjustment:"
+msgstr "Coarse adjustment:"
+
+#: simcontrols.js:16
+msgid "Fine adjustment:"
+msgstr "Fine adjustment:"
+
+#: simcontrols.js:16
+msgid "Slide adjustment:"
+msgstr "Slide adjustment:"
+
+#: simcontrols.js:16
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:17
+msgid "40X (Low power)"
+msgstr "40X (Low power)"
+
+#: simcontrols.js:17
+msgid "100X (High power)"
+msgstr "100X (High power)"
+
+#: simcontrols.js:22
+msgid "Drag the slide towards<br/>  the stage of the microscope."
+msgstr "Drag the slide towards<br/>  the stage of the microscope."
+
+#: simcontrols.js:22
+msgid "Click on the eye piece of the <br/> microscope to view the sample."
+msgstr "Click on the eye piece of the <br/> microscope to view the sample."
+
+#: simcontrols.js:22
+msgid "Select power of the lens <br/> from the drop down list."
+msgstr "Select power of the lens <br/> from the drop down list."
+
+#: simcontrols.js:23
+msgid "POLLEN GRAINS"
+msgstr "POLLEN GRAINS"
+
+#: simcontrols.js:23
+msgid "POLLEN TUBE"
+msgstr "POLLEN TUBE"
+
+#: simcontrols.js:23
+msgid "TUBE NUCLEUS"
+msgstr "TUBE NUCLEUS"
+
+#: simcontrols.js:23
+msgid "MALE GAMETES"
+msgstr "MALE GAMETES"
+
+#: simcontrols.js:23
+msgid "LONG POLLEN TUBE"
+msgstr "LONG POLLEN TUBE"
+
+#: simcontrols.js:23
+msgid "SHORT POLLEN"
+msgstr "SHORT POLLEN"
+
+#: simcontrols.js:23
+msgid "STYLE"
+msgstr "STYLE"
+
+#: simcontrols.js:25
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:26
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols.js:27
+msgid "EXIT"
+msgstr "EXIT"

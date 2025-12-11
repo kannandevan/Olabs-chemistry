@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="expTitle">
+	<TEXTVALUE>प्रोटीन का गुणात्मक विश्लेषण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>आरंभ</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग शुरू करने के लिए प्रारंभ बटन पर क्लिक करें |</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="TestforProteins_text">
+	<TEXTVALUE>प्रोटीन के लिए परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="biuretTest_text">
+	<TEXTVALUE>बाईयूरेट परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>परीक्षण चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="xanthoproteicTest_text">
+	<TEXTVALUE>जैन्थोप्रोटीक परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="millonsTest_text">
+	<TEXTVALUE>मिलोन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ninhydrinTest_text">
+	<TEXTVALUE>निनहाइड्रिन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="backBtn">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="eggAlbumin_text">
+	<TEXTVALUE>अंडे की सफेदी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatin_text">
+	<TEXTVALUE>जिलेटिन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>हमें चाहिए:  परखनली में अंडे की सफेदी का विसरण, NaOH का विलयन, 1% CuSO4का विलयन, परखनली होल्डर , रैक, ड्रापर और बुन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="NaOH_text">
+	<TEXTVALUE>NaOH</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperSulphate_text">
+	<TEXTVALUE>1% CuSO4</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर, NaOH के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए अंडे की सफेदी के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene5_sub_two">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, परखनली में 1% कॉपर सल्फेट के विलयन की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_one">
+	<TEXTVALUE>कुछ मिनट तक बर्नर के ऊपर परखनली की सामग्री गरम करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene6_sub_two">
+	<TEXTVALUE>क्षार की उपस्थिति में, प्रोटीन कॉपर (II) के आयनों के साथ अभिक्रिया करता है जिससे बैंगनी रंग का मिश्रण बनता है जिसे बाईयूरेट कहा जाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>हमें चाहिए परखनली में जिलेटिन का विसरण, NaOH का विलयन, 1% CuSO 4 का विलयन, परखनली होल्डर, रैक, ड्रापर और बुन्सेन बर्नर।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="gelatinDispersion_text">
+	<TEXTVALUE>जिलेटिन का विसरण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर NaOH के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए जिलेटिन के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene8_sub_two">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, परखनली में 1% कॉपर सल्फेट के विलयन की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_one">
+	<TEXTVALUE>कुछ मिनट तक बर्नर के ऊपर परखनली की सामग्री गरम करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene9_sub_two">
+	<TEXTVALUE>क्षार की उपस्थिति में, प्रोटीन कॉपर (II) के आयनों के साथ अभिक्रिया करता है जिससे बैंगनी रंग का मिश्रण बनता है जिसे बाईयूरेट कहा जाता है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>में चाहिए:  परखनली में अंडे की सफेदी का विसरण, सान्द्र HNO3, परखनली होल्डर , रैक, ड्रापर और बुन्से्न बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcNitricacid_text">
+	<TEXTVALUE>सान्द्र HNO3</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर सान्द्र नाइट्रिक अम्ल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="Scene12_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए अंडे की सफेदी के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_one">
+	<TEXTVALUE>बर्नर के ऊपर परखनली की सामग्री गरम करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene13_sub_two">
+	<TEXTVALUE>सांद्रित नाइट्रिक अम्ल की उपस्थिति में, प्रोटीन में मौजूद कुछ अमीनो अम्लं नाइट्रीकरण से गुज़रते हैं जिससे पीले रंग का जैन्थोप्रोटीक अम्ल बनता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>हमें चाहिए:  परखनली में जिलेटिन का विसरण, सान्द्र HNO3, परखनली होल्डर , रैक, ड्रापर और बुन्से्न बर्नर</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर सान्द्र नाइट्रिक अम्ल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene15_sub_one">
+	<TEXTVALUE> इसे परखनली में लिए गए जिलेटिन के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_one">
+	<TEXTVALUE>बर्नर पर परखनली की सामग्री गरम करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene16_sub_two">
+	<TEXTVALUE>सांद्रित नाइट्रिक अम्ल की उपस्थिति में, प्रोटीन में मौजूद कुछ अमीनो अम्ल नाइट्रीकरण से गुजरते है जिससे पीले रंग का जैन्थोप्रोटीक अम्ल, बनता है।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>नमूना चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>हमें चाहिए परखनली में अंडे की सफेदी का विसरण, निनहाइड्रिन का विलयन, परखनली होल्डर, रैक, ड्रॉपर और बुन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ninhydrinsolution_text">
+	<TEXTVALUE>निनहाइड्रिन का विलयन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर निनहाइड्रिन के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+
+
+    <TEXT ID="Scene19_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए अंडे की सफेदी के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_one">
+	<TEXTVALUE>इसके बाद बर्नर पर परखनली की सामग्री उबालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene20_sub_two">
+	<TEXTVALUE>प्रोटीन निनहाइड्रिन अभिकर्मक के साथ अभिक्रिया करता है जिससे गहरे नीले रंग का यौगिक बनता है।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>हमें चाहिए परखनली में जिलेटिन का विसरण, निनहाइड्रिन का विलयन, परखनली होल्डर, रैक, ड्रॉपर और बुन्सेन बर्नर।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>ड्रापर का प्रयोग कर निनहाइड्रिन के विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene22_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए अंडे की सफेदी  के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>परखनली होल्डर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_one">
+	<TEXTVALUE>इसके बाद बर्नर पर परखनली की सामग्री उबालें।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Scene23_sub_two">
+	<TEXTVALUE>प्रोटीन निनहाइड्रिन अभिकर्मक के साथ अभिक्रिया करता है जिससे गहरे नीले रंग का यौगिक बनता है।</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>परीक्षण करने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>हमें चाहिए परखनली में अंडे की सफेदी का विसरण, मिलोन अभिकर्मक, परखनली होल्डर, रैक, ड्रॉपर और बुन्सेन बर्नर।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+	<TEXT ID="million_txt">
+	<TEXTVALUE>मिलोन अभिकर्मक</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>हमें चाहिए परखनली में अंडे की सफेदी का विसरण, मिलोन अभिकर्मक, परखनली होल्डर, रैक, ड्रॉपर और बुन्सेन बर्नर।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_one">
+	<TEXTVALUE>इसे परखनली में लिए गए अंडे की सफेदी के विसरण में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene26_sub_two">
+	<TEXTVALUE>सफेद तलछट का निर्माण होता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>परखनली होल्डेर का प्रयोग कर रैक से परखनली निकालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_one">
+	<TEXTVALUE>इसके बाद बर्नर पर परखनली की सामग्री उबालें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene27_sub_two">
+	<TEXTVALUE>उबालने पर सफेद तलछट कत्थई लाल में बदल जाता है, जिससे, प्रोटीन की उपस्थिति की पुष्टि होती है।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+
+
+</DATA>

@@ -1,0 +1,733 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="TitleAcetanilide">
+	<TEXT ID="TitleAcetanilide_one">
+	 <TEXTVALUE>Preparation of Acetanilide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAceS1">
+	<TEXT ID="IntroAceS1_one">
+	 <TEXTVALUE>We require acetic anhydride (10ml), glacial acetic acid (10ml), Aniline (10ml), RB flask, stand with clamp, Buchner funnel, sand bath, water condenser, ice bath, ice water etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcidsMixingInRBS2">
+	<TEXT ID="AcidsMixingInRBS2_one">
+	 <TEXTVALUE>Take 10ml of acetic anhydride, glacial acetic and aniline in three measuring jars. Into a 250ml RB flask pour the acetic anhydride and then the glacial acetic acid.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcidsMixingInRBS2_two">
+	 <TEXTVALUE>Shake the contents of the flask thoroughly and add aniline to this. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="RBheatWtrCndsrS3">
+	<TEXT ID="RBheatWtrCndsrS3_one">
+	 <TEXTVALUE>Clamp the flask to a stand and fit a water condenser over its mouth. Then place it on a sand bath over a burner. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RBheatWtrCndsrS3_two">
+	 <TEXTVALUE>Heat the mixture for 10 minutes and detach the condenser form the RB flask and allow the mixture to cool for some time</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CoolinRbInWtrS4">
+	<TEXT ID="CoolinRbInWtrS4_one">
+	 <TEXTVALUE>Allow the flask to cool by clamping it to a stand and placing it in a dish containing water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolMixingIn200WtrS5S6">
+	<TEXT ID="SolMixingIn200WtrS5S6_one">
+	 <TEXTVALUE>Pour the liquid from the RB flask slowly into a beaker containing 200ml ice-cold water while stirring vigorously using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WhitePrecipitateS5S6">
+	<TEXT ID="WhitePrecipitateS5S6_one">
+	 <TEXTVALUE>A white precipitate of acetanilide is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PreciFilterInBuchnerS7">
+	<TEXT ID="PreciFilterInBuchnerS7_one">
+	 <TEXTVALUE>Take a filter paper and place it on a Buchner funnel. </TEXTVALUE>
+	</TEXT>
+<TEXT ID="PreciFilterInBuchnerS7_two">
+	 <TEXTVALUE>Filter the precipitate through the Buchner funnel. Transfer the precipitate from the filter paper into the beaker. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="PreciFilterInBuchnerS7_three">
+	 <TEXTVALUE>Wash the precipitate with distilled water in the beaker. Again filter the precipitate. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AceticMixingInPreciS8">
+	<TEXT ID="AceticMixingInPreciS8_one">
+	 <TEXTVALUE>Using a spatula transfer the crude acetanilide into a beaker.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_two">
+	 <TEXTVALUE>In another beaker take 17ml of acetic acid and add 33ml of distilled water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticMixingInPreciS8_twoone">
+	 <TEXTVALUE>And add 33ml of distilled water.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AceticMixingInPreciS8_three">
+	 <TEXTVALUE>Pour this mixture into the beaker containing precipitate of acetanilide. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingPreciDissolveS9">
+	<TEXT ID="HeatingPreciDissolveS9_one">
+	 <TEXTVALUE>Heat the contents of the beaker to dissolve the substance. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HotSolFilterS10S11">
+	<TEXT ID="HotSolFilterS10S11_one">
+	 <TEXTVALUE>Filter the hot solution into a conical flask and cool the filtrate in ice. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalSeparateS10S11">
+	<TEXT ID="CrystalSeparateS10S11_one">
+	 <TEXTVALUE>Crystals of acetanilide separate out. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalsFilterS12">
+	<TEXT ID="CrystalsFilterS12_one">
+	 <TEXTVALUE>Filter off the crystals using the Buchner funnel. Take the crystals from the funnel using a spatula. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetanilideS13">
+	<TEXT ID="AcetanilideS13_one">
+	 <TEXTVALUE>Put it into a filter paper and dry the crystals by pressing them between filter papers. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="AcetanilideS13_two">
+	 <TEXTVALUE>Transfer the crystals into a watch glass and label it as Acetanilide. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="firstdibenzalacetone">
+	<TEXT ID="firstdibenzalacetone_one">
+	 <TEXTVALUE>Preparation of Dibenzal Acetone.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addacetone">
+	<TEXT ID="addacetone_one">
+	 <TEXTVALUE>In a conical flask take 2.5ml benzaldehyde, 1ml acetone and 25ml rectified spirit. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="addacetone_two">
+	 <TEXTVALUE>Cork the flask and shake it to obtain a clear solution. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Cleantesttbe">
+	<TEXT ID="Cleantesttbe_one">
+	 <TEXTVALUE>Take 5ml of 10% NaOH solution in a test tube and using a dropper take the solution from the test tube. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Cleantesttbe_two">
+	 <TEXTVALUE>Add this to the conical flask drop by drop while shaking the flask in between each drop. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+	 <TEXTVALUE>Place the flask in a dish containing water to maintain the temperature of the reaction mixture between 20-25[sup]o[/sup]C. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shakeand">
+	<TEXT ID="Shakeand_one">
+	 <TEXTVALUE>Cork the flask again and shake vigorously for about 10min, releasing pressure from time to time. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cooltemperature">
+	<TEXT ID="cooltemperature_one">
+	 <TEXTVALUE>Allow it to stand for 20min at room temperature. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intowater">
+	<TEXT ID="intowater_one">
+	 <TEXTVALUE>Then cool the contents of the flask by placing the flask in a dish containing ice water for a few minutes. </TEXTVALUE>
+	</TEXT>
+<TEXT ID="intowater_two">
+	 <TEXTVALUE>Yellow colored precipitate of Dibenzal acetone separate out. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="allowcool">
+	<TEXT ID="allowcool_one">
+	 <TEXTVALUE>Filter the precipitate using Buchner funnel. </TEXTVALUE>
+	</TEXT>
+<TEXT ID="allowcool_two">
+	 <TEXTVALUE>Using a spatula transfer the precipitate into a test tube. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="washtsttbe">
+	<TEXT ID="washtsttbe_one">
+	 <TEXTVALUE>To wash the precipitate, pour distilled water into the test tube and shake it well. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterprcipitate">
+	<TEXT ID="filterprcipitate_one">
+	 <TEXTVALUE>Then filter the contents of the test tube through the Buchner funnel. </TEXTVALUE>
+	</TEXT>
+<TEXT ID="filterprcipitate_two">
+	 <TEXTVALUE>Take the precipitate of Dibenzal acetone using a spatula and transfer it into a test tube. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Heat">
+	<TEXT ID="Heat_one">
+	 <TEXTVALUE>Take some rectified spirit in a beaker and heat it. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="spirittoprecipitate">
+	<TEXT ID="spirittoprecipitate_one">
+	 <TEXTVALUE>Add a little of this to the test tube containing the precipitate. The precipitate dissolves. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="backtostand">
+	<TEXT ID="backtostand_one">
+	 <TEXTVALUE>Then allow it to cool slowly. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="backtostand_two">
+	 <TEXTVALUE>Pale yellow crystals of Dibenzal acetone separate out. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	 <TEXTVALUE>Filter the crystals using Buchner funnel. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystels">
+	<TEXT ID="crystels_one">
+	 <TEXTVALUE>Transfer the crystals onto a filter paper and dry them by pressing them between filter papers. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastwatchglass">
+	<TEXT ID="lastwatchglass_one">
+	 <TEXTVALUE>Transfer the dried crystals into a watch glass and label it as Dibenzal acetone. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Scene 66">
+	<TEXT ID="Scene 66_one">
+	 <TEXTVALUE>Preparation of p-Nitroacetanilide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	 <TEXTVALUE>We require, electronic balance, acetanilide, butter paper, spatula, glass rod, dropper, funnel, conical flask, cold water, measuring jar, test tube, fuming nitric acid, Conc. H[sub]2[/sub]SO[sub]4[/sub], beaker, glacial acetic acid, filter paper, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_two">
+	 <TEXTVALUE>Buchner funnel, wire gauze, tripod stand, Bunsen burner, freezing mixture etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2wb">
+	<TEXT ID="2wb_one">
+	 <TEXTVALUE>Place a butter paper over an electronic balance and tare the balance. Weigh 5g of acetanilide over the balance. Use the spatula to take this. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3con">
+	<TEXT ID="3con_one">
+	 <TEXTVALUE>Transfer the weighed quantity of acetanilide into a conical flask. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4actic">
+	<TEXT ID="4actic_one">
+	 <TEXTVALUE>Take 5ml of glacial acetic acid in a measuring jar and pour it into the conical flask. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5con">
+	<TEXT ID="5con_one">
+	 <TEXTVALUE>Stir the contents of the flask using a glass rod. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumic">
+	<TEXT ID="6fumic_one">
+	 <TEXTVALUE>Take 2ml of fuming nitric acid in a test tube . </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6zoom">
+	<TEXT ID="6zoom_one">
+	 <TEXTVALUE>Take 2ml of fuming nitric acid in a test tube. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6fumicgo">
+	<TEXT ID="6fumicgo_one">
+	 <TEXTVALUE>Take 2ml of fuming nitric acid in a test tube. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7ice">
+	<TEXT ID="7ice_one">
+	 <TEXTVALUE>Cool it in a freezing mixture. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8sulpuric">
+	<TEXT ID="8sulpuric_one">
+	 <TEXTVALUE>Take 2ml of conc.Sulphuric acid in a measuring jar and using a dropper take this from the measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9ice2">
+	<TEXT ID="9ice2_one">
+	 <TEXTVALUE>Carefully add this into the test tube containing fuming nitric acid while stirring constantly. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10gocon">
+	<TEXT ID="10gocon_one">
+	 <TEXTVALUE>Now take the conical flask containing mixture of acetanilide and acetic acid. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10water">
+	<TEXT ID="10water_one">
+	 <TEXTVALUE>Place it in a water bath. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11sulpuric2">
+	<TEXT ID="11sulpuric2_one">
+	 <TEXTVALUE>Then take 8ml of conc.Sulphuric acid in a measuring jar. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="11sulpuric2_two">
+	 <TEXTVALUE>Then add it to the conical flask using a dropper. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12tog">
+	<TEXT ID="12tog_one">
+	 <TEXTVALUE> Add it to the conical flask using a dropper. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13sul">
+	<TEXT ID="13sul_one">
+	 <TEXTVALUE>Take the remaining sulphuric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14tgo">
+	<TEXT ID="14tgo_one">
+	 <TEXTVALUE>Add it into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15got1">
+	<TEXT ID="15got1_one">
+	 <TEXTVALUE>Take the flask. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16ice2">
+	<TEXT ID="16ice2_one">
+	 <TEXTVALUE>Place it in a freezing mixture. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17zoomi">
+	<TEXT ID="17zoomi_one">
+	 <TEXTVALUE>Stir the contents and wait until the temperature becomes less than 5[sup]o[/sup]C. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_two">
+	 <TEXTVALUE>To the cooled contents in the flask, add the mixture of fuming nitric acid and conc.Sulphuric acid (nitrating mixture) drop by drop while stirring constantly. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17zoomi_three">
+	 <TEXTVALUE>Remove the flask from the freezing mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18goconbak">
+	
+		<TEXT ID="18goconbak_one">
+	 <TEXTVALUE>Allow it to stand for 30 minutes at room temperature. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19bice">
+	<TEXT ID="19bice_one">
+	 <TEXTVALUE>Pour the contents of the flask on the crushed ice taken in a beaker and stir it well. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20motor">
+	<TEXT ID="20motor_one">
+	 <TEXTVALUE>Transfer the mother liquor into a Buchner funnel. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21bak">
+	<TEXT ID="21bak_one">
+	 <TEXTVALUE>Then wash the precipitate with cold water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22mo2">
+	<TEXT ID="22mo2_one">
+	 <TEXTVALUE>Again transfer the mother liquor into a Buchner funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23bk">
+	<TEXT ID="23bk_one">
+	 <TEXTVALUE>Repeat this once more and then filter off the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24mr">
+	<TEXT ID="24mr_one">
+	 <TEXTVALUE>Repeat this once more and then filter off the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="26title2">
+	<TEXT ID="26title2_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27yelo">
+	<TEXT ID="27yelo_one">
+	 <TEXTVALUE>Take the precipitate from the funnel using a spatula and transfer it into a beaker. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28id">
+	<TEXT ID="28id_one">
+	 <TEXTVALUE>Take the precipitate from the funnel using a spatula and transfer it into a beaker. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29sprit">
+	<TEXT ID="29sprit_one">
+	 <TEXTVALUE>Take 20ml of methylated spirit. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30beker3">
+	<TEXT ID="30beker3_one">
+	 <TEXTVALUE>Pour it into the beaker containing precipitate. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="30beker3_two">
+	 <TEXTVALUE>Then stir it well using a glass rod to dissolve the precipitate. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31flame">
+	<TEXT ID="31flame_one">
+	 <TEXTVALUE>Then warm the liquid to get a clear solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32funl">
+	<TEXT ID="32funl_one">
+	 <TEXTVALUE>Place a beaker under the funnel and fix a filter paper in the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33og1">
+	<TEXT ID="33og1_one">
+	 <TEXTVALUE>Take the beaker containing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34f3">
+	<TEXT ID="34f3_one">
+	 <TEXTVALUE>Filter the hot solution into another beaker. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35ice">
+	<TEXT ID="35ice_one">
+	 <TEXTVALUE>Cool the solution by placing the beaker in ice. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36iceh">
+	<TEXT ID="36iceh_one">
+	 <TEXTVALUE>Colorless crystals of p-Nitroacetanilide separate out. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37zoomi">
+	<TEXT ID="37zoomi_one">
+	 <TEXTVALUE>Colorless crystals of p-Nitroacetanilide separate out. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38funnal">
+	<TEXT ID="38funnal_one">
+	 <TEXTVALUE>Arrange the filter paper into the funnel for filtering the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39bak">
+	<TEXT ID="39bak_one">
+	 <TEXTVALUE>Take the beaker from the freezing mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40flo">
+	<TEXT ID="40flo_one">
+	 <TEXTVALUE>Filter the crystals using a funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41top2">
+	<TEXT ID="41top2_one">
+	 <TEXTVALUE>Colorless crystals of p-Nitroacetanilide separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42wash">
+	<TEXT ID="42wash_one">
+	 <TEXTVALUE>Wash the crystals with cold water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43fpaper">
+	<TEXT ID="43fpaper_one">
+	 <TEXTVALUE>Transfer the crystals onto a filter paper and dry them by pressing them between filter papers. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="43fpaper_two">
+	 <TEXTVALUE>Transfer the dried crystals into a watch glass. </TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="44zoom">
+	<TEXT ID="44zoom_one">
+	 <TEXTVALUE>Label the crystals as p-Nitroacetanilide. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="first">
+	<TEXT ID="first_one">
+	 <TEXTVALUE>Preparation of 2-Naphthol Aniline Dye.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addaniline">
+	<TEXT ID="addaniline_one">
+	 <TEXTVALUE>Take 4.5ml aniline, 10ml Conc. HCl and 20ml water in a conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewater">
+	<TEXT ID="icewater_one">
+	 <TEXTVALUE>Cool this solution to 5[sup]o[/sup]C by placing the conical flask in  a trough containing ice-cold water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Weighingbottle">
+	<TEXT ID="Weighingbottle_one">
+	 <TEXTVALUE>Take 4g of sodium nitrite and transfer it into a beaker. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_two">
+	 <TEXTVALUE>Add 20ml of distilled water to it. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Weighingbottle_three">
+	 <TEXTVALUE>Stir the contents of the beaker using a glass rod to dissolve the solid. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icebox">
+	<TEXT ID="icebox_one">
+	 <TEXTVALUE>Cool this solution to 5[sup]o[/sup]C by placing the beaker in an ice bath. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="icewaterfor">
+	<TEXT ID="icewaterfor_one">
+	 <TEXTVALUE>Now add sodium nitrite solution to the contents of the conical flask. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="naphthol">
+	<TEXT ID="naphthol_one">
+	 <TEXTVALUE>Take 7g of 2-naphthol and transfer it into a beaker. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_two">
+	 <TEXTVALUE>Add 60ml 10% NaOH solution into it. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="naphthol_three">
+	 <TEXTVALUE>Stir the contents of the beaker using a glass rod to dissolve the solid. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seconds inbox">
+	<TEXT ID="seconds inbox_one">
+	 <TEXTVALUE>Cool this solution to 5[sup]o[/sup]C by placing the beaker in an ice bath.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fromwater">
+	<TEXT ID="fromwater_one">
+	 <TEXTVALUE>Take the conical flask from the water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxx">
+	<TEXT ID="iceboxx_one">
+	 <TEXTVALUE>Then add the solution in the conical flask to the naphthol solution while stirring constantly using a glass rod.</TEXTVALUE>
+	</TEXT>
+	
+<TEXT ID="iceboxx_two">
+	 <TEXTVALUE>The mixed solution immediately develops a deep red color and the 2-naphthol aniline dye rapidly separates. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Redtoice">
+	<TEXT ID="Redtoice_one">
+	 <TEXTVALUE>Allow the mixture to stand in freezing mixture for 30minutes with occasional stirring. </TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Redtoice_two">
+	 <TEXTVALUE>Allow the mixture to stand in freezing mixture for 30minutes with occasional stirring. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelred">
+	<TEXT ID="funnelred_one">
+	 <TEXTVALUE>Transfer the upper solution into Buchner funnel. </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="funnelred_two">
+	 <TEXTVALUE>Wash the precipitate with distilled water and repeat this. </TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_three">
+	 <TEXTVALUE>Then filter off the precipitate.</TEXTVALUE>
+	</TEXT>
+	 <TEXT ID="funnelred_four">
+	 <TEXTVALUE>Precipitate of 2-Naphthol aniline dye separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelclean">
+	<TEXT ID="funnelclean_one">
+	 <TEXTVALUE>Take the precipitate using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilter">
+	<TEXT ID="dryfilter_one">
+	 <TEXTVALUE>Dry the precipitate by pressing them between filter papers. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="glacial">
+	<TEXT ID="glacial_one">
+	 <TEXTVALUE>Transfer the precipitate into a beaker and add 40ml glacial acetic acid into it. </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_two">
+	 <TEXTVALUE>Then stir the contents of the beaker using a glass rod. </TEXTVALUE>
+	</TEXT>
+ <TEXT ID="glacial_three">
+	 <TEXTVALUE>Warm the liquid to get a clear solution. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaperstand">
+	<TEXT ID="filterpaperstand_one">
+	 <TEXTVALUE>Filter the hot solution into another beaker. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="iceboxagain">
+	<TEXT ID="iceboxagain_one">
+	 <TEXTVALUE>Cool the solution by placing the beaker in an ice bath. As the solution cools, crystals of 2-naphthol aniline dye separate out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filter">
+	<TEXT ID="filter_one">
+	 <TEXTVALUE>Filter off the crystals using Buchner funnel. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_two">
+	 <TEXTVALUE>Wash it with ethanol. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_three">
+	 <TEXTVALUE>Crystals of 2-Naphthol aniline dye separate out. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filter_four">
+	 <TEXTVALUE>Using a spatula transfer the crystals on to another filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dryfilterpaper">
+	<TEXT ID="dryfilterpaper_one">
+	 <TEXTVALUE>Dry the crystals in the filter paper by pressing it with other filter paper. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="aniline">
+	<TEXT ID="aniline_one">
+	 <TEXTVALUE>Transfer the dried crystals into a watch glass and label it as 2-Naphthol aniline dye. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+

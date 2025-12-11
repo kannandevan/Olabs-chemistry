@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<DATA>
+
+<!-- Interactive_scenes-->
+
+<SCENE ID="Heading">
+	<TEXT ID="Heading_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- Ferrous ammonium sulphate -->
+
+<SCENE ID="firstschead">
+	<TEXT ID="firstschead_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstsc">
+	<TEXT ID="firstsc_one">
+	<TEXTVALUE>हमें चाहिए, इलेक्ट्रॉनिक तुला, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, चाइना डिश, फेरस सल्फेट, अमोनियम सल्फेट, बीकर, तनु सल्फ्यूरिक अम्ल , इथाइल अल्कोहल आदि।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrros">
+	<TEXT ID="ferrros_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर फेरस सल्फेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweigh">
+	<TEXT ID="inweigh_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक तुला पर बटर पेपर रखें और तुला का खाली भार तौलें। बटर पेपर पर फेरस सल्फेट के क्रिस्टल रखें और लगभग 7 ग्राम फेरस सल्फेट तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeaker">
+	<TEXT ID="inbeaker_one">
+	<TEXTVALUE>इसके बाद फेरस सल्फेट की तौली गई मात्रा बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ammonium">
+	<TEXT ID="ammonium_one">
+	<TEXTVALUE>अब एक और बटर पेपर पर इलेक्ट्रॉनिक तुला का प्रयोग कर लगभग 3.5 ग्राम अमोनियम सल्फेट तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoni">
+	<TEXT ID="inweighammoni_one">
+	<TEXTVALUE>अब एक और बटर पेपर पर इलेक्ट्रॉनिक तुला का प्रयोग कर लगभग 3.5 ग्राम अमोनियम सल्फेट तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammo">
+	<TEXT ID="inbeakerammo_one">
+	<TEXTVALUE>इसे उसी बीकर में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sulphu">
+	<TEXT ID="sulphu_one">
+	<TEXTVALUE>मापक जार में 3 मिलीलीटर तनु सल्फ्युएरिक अम्ल  लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowder">
+	<TEXT ID="dilsulphuinpowder_one">
+	<TEXTVALUE>इसे फेरस सल्फेट और अमोनियम सल्फेट युक्त बीकर में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water">
+	<TEXT ID="water_one">
+	<TEXTVALUE>एक और मापक जार में 20 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeaker">
+	<TEXT ID="waterinbeaker_one">
+	<TEXTVALUE>इसे एक अन्य बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="tripode">
+	<TEXT ID="tripode_one">
+	<TEXTVALUE>लगभग 5 मिनट  तक आसुत जल युक्त बीकर उबालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hotwateradd">
+	<TEXT ID="hotwateradd_one">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर सामग्री चलाते हुए थोड़े अनुपात में पहले बीकर में उबलता हुआ पानी मिलाएं। लवण के पूरी तरह से घुलने तक ऐसा करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnel">
+	<TEXT ID="funnel_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे स्वच्छ चाइना डिश रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeit">
+	<TEXT ID="takeit_one">
+	<TEXTVALUE>चाइना डिश में कीप के माध्यम से बीकर का विलयन छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelflush">
+	<TEXT ID="funnelflush_one">
+	<TEXTVALUE>चाइना डिश में कीप के माध्यम से बीकर का विलयन छानें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chinainheat">
+	<TEXT ID="chinainheat_one">
+	<TEXTVALUE>तिपाए स्टैंड पर रखी तार की जाली पर स्पष्ट छनी हुई सामग्री युक्त चाइना डिश रखें और क्रिस्टलीकरण बिंदु पर पहुंचने तक लगातार चलाते हुए इसे धीरे-धीरे गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crystelise">
+	<TEXT ID="crystelise_one">
+	<TEXTVALUE>क्रिस्टंल बनाने वाली डिश में सांद्रित विलयन डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_two">
+	<TEXTVALUE>वॉच ग्लास से डिश ढंक दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystelise_three">
+	<TEXTVALUE>ठंडे पानी से युक्त खौल में क्रिस्टल बनाने वाली डिश रखें और इसे ठंडा होने दें। जब विलयन ठंडा हो जाता है, तो फेरस अमोनियम सल्फेट (मोर लवण) के क्रिस्टल अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="crysteliseout">
+	<TEXT ID="crysteliseout_one">
+	<TEXTVALUE>जल्दी से मदर लिकर छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intable">
+	<TEXT ID="intable_one">
+	<TEXTVALUE>डिश में इथाइल अल्कोहल की थोड़ी सी मात्रा डालें और अल्कोहल से क्रिस्टल धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelalcohol">
+	<TEXT ID="funnelalcohol_one">
+	<TEXTVALUE>कीप का प्रयोग कर निस्पंदन के माध्यम से डिश से शेष बचा अल्कोहल निकाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="filterpaper">
+	<TEXT ID="filterpaper_one">
+	<TEXTVALUE>फिल्टर पेपर पर मोर लवण के क्रिस्टल रखें और फिल्टर पेपर के बीच धीरे से दबाकर क्रिस्टल सुखा लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="filterpaper_two">
+	<TEXTVALUE>इसके बाद वॉच ग्लास पर मोर लवण के शुष्क क्रिस्टल रखें और उसे चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-- Potash alum-->
+
+<SCENE ID="TitlePottash">
+	<TEXT ID="TitlePottash_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroApparatusS2">
+	<TEXT ID="IntroApparatusS2_one">
+	<TEXTVALUE>हमें चाहिए, इलेक्ट्रॉनिक तुला, स्पैचुला, वॉच ग्लास , पोटेशियम सल्फेट, एल्यूमीनियम सल्फेट, बीकर, मापक जार, आसुत जल, तनु सल्फ्यूरिक अम्ल‍, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, चाइना डिश, क्रिस्टल बनाने वाली डिश, इथाइल अल्कोहल - पानी का मिश्रण, क्लैम्प सहित स्टैण्ड आदि।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Watchglass2machineS2">
+	<TEXT ID="Watchglass2machineS2_one">
+	<TEXTVALUE>बटर पेपर लें और उसे इलेक्ट्रॉनिक तुला पर रखें और तुला का खाली भार तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotassiumInSpatulaS2">
+	<TEXT ID="PotassiumInSpatulaS2_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर पोटेशियम सल्फेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Potassium2PlateS2">
+	<TEXT ID="Potassium2PlateS2_one">
+	<TEXTVALUE>इसे बटर पेपर पर रखें और लगभग 2.5 ग्राम पोटेशियम सल्फेट तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterMixingPotasiumS3">
+	<TEXT ID="WaterMixingPotasiumS3_one">
+	<TEXTVALUE>पोटेशियम सल्फेट की तौली गई मात्रा बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WaterMixingPotasiumS3_two">
+	<TEXTVALUE>मापक जार में 20 मिलीलीटर आसुत जल लें और बीकर में डालें। उसके बाद बीकर में क्रिस्टलों के पूरी तरह से घुल जाने तक कांच की छड़ का प्रयोग कर सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2ndWatchglass2MachineS4">
+	<TEXT ID="2ndWatchglass2MachineS4_one">
+	<TEXTVALUE>तुला पर एक और बटर पेपर रखें और तुला का खाली भार तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminimInSpatulaS4">
+	<TEXT ID="AluminimInSpatulaS4_one">
+	<TEXTVALUE>एल्यूमीनियम सल्फेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Aluminim2plateS4">
+	<TEXT ID="Aluminim2plateS4_one">
+	<TEXTVALUE>लगभग 10 ग्राम एल्यूमीनियम सल्फेट वजन करने के लिए इसे बटर पेपर पर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WterMixingAluminiumS5">
+	<TEXT ID="WterMixingAluminiumS5_one">
+	<TEXTVALUE>एक अन्य बीकर में इसे डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WterMixingAluminiumS5_two">
+	<TEXTVALUE>20 मिलीलीटर आसुत जल लें और एल्यूमीनियम सल्फेट युक्त बीकर में उसे डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricInJarS5">
+	<TEXT ID="SulphuricInJarS5_one">
+	<TEXTVALUE>इसके बाद 1मि.ली. तनु सल्फ्युरिक अम्ल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SulphuricAdded2AluminimS5">
+	<TEXT ID="SulphuricAdded2AluminimS5_one">
+	<TEXTVALUE>एल्यूमीनियम सल्फेट का जलअपघटन रोकने के लिए इसे बीकर युक्त एल्यूमीनियम सल्फेट में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AluminiSulphateDissolveS6">
+	<TEXT ID="AluminiSulphateDissolveS6_one">
+	<TEXTVALUE>लगभग 5 मिनट तक बीकर में सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Mixing2SolutionsS6">
+	<TEXT ID="Mixing2SolutionsS6_one">
+	<TEXTVALUE>पहले चाइना डिश में एल्यूमीनियम सल्फेट का विलयन डालें और उसके बाद पोटेशियम सल्फेट का विलयन डालें</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Mixing2SolutionsS6_two">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर दोनों विलयनों को मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="HeatingCrystalizationpointS7">
+	<TEXT ID="HeatingCrystalizationpointS7_one">
+	<TEXTVALUE>तिपाए स्टैंड पर रखी तार की जाली पर विलयन युक्त चाइना डिश रखें और क्रिस्टलीकरण बिंदु पर पहुंचने तक लगातार चलाते हुए इसे धीरे-धीरे गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="DishCoveringWithPlateS8">
+	<TEXT ID="DishCoveringWithPlateS8_one">
+	<TEXTVALUE>क्रिस्टल बनाने वाली डिश में सांद्रित विलयन डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DishCoveringWithPlateS8_two">
+	<TEXTVALUE>वॉच ग्लास से डिश ढंक दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumSeparatedS8">
+	<TEXT ID="PotashAlumSeparatedS8_one">
+	<TEXTVALUE>ठंडे पानी से युक्त खौल में क्रिस्टल बनाने वाली डिश रखें और इसे ठंडा होने दें। विलयन ठंडा हो जाने पर पोटाश फिटकरी के क्रिस्टल अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SolutionDecantS9">
+	<TEXT ID="SolutionDecantS9_one">
+	<TEXTVALUE>सावधानी पूर्वक बीकर में मदर लिकर छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="FilteringUpperSoluS10">
+	<TEXT ID="FilteringUpperSoluS10_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे बीकर रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_two">
+	<TEXTVALUE>डिश में अल्कोहल-ठंडे पानी के मिश्रण की थोड़ी सी मात्रा डालें और क्रिस्टल धो लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_three">
+	<TEXTVALUE>कीप के माध्यम से बीकर में धावन डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FilteringUpperSoluS10_four">
+	<TEXTVALUE>फिर से डिश में अल्कोहल-पानी का मिश्रण डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="CrystalFilteringS11">
+	<TEXT ID="CrystalFilteringS11_one">
+	<TEXTVALUE>और सारे के सारे क्रिस्टल कीप में डाल दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_two">
+	<TEXTVALUE>डिश से चिपके क्रिस्टल कीप में डालने के लिए ऐसा फिर से करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="CrystalFilteringS11_three">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर कीप से क्रिस्टल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PotashAlumS12">
+	<TEXT ID="PotashAlumS12_one">
+	<TEXTVALUE>फिल्टर पेपर पर क्रिस्टल रखें और फिल्टर पेपर के बीच धीरे से दबाकर क्रिस्टल सुखा लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PotashAlumS12_two">
+	<TEXTVALUE>इसके बाद वॉच ग्लास पर पोटाश फिटकिरी के सूखे क्रिस्टल रखें और उसे चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!-- Potassium trioxalatoferrate (III) -->
+
+<SCENE ID="firstscheadox">
+	<TEXT ID="firstscheadox_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="firstscox">
+	<TEXT ID="firstscox_one">
+	<TEXTVALUE>हमें चाहिए, इलेक्ट्रॉनिक तुला, तार की जाली, तिपाया स्टैंड, बुन्सेन बर्नर, फेरिक क्लोराइड, पोटेशियम हाइड्रोक्साइड, जलयोजित पोटेशियम आक्जाललेट, बीकर, इथाइल अल्कोहल, स्पैचुला, कांच की छड़, बुचनर कीप आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ferrrosox">
+	<TEXT ID="ferrrosox_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग फेरिक क्लोराइड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighox">
+	<TEXT ID="inweighox_one">
+	<TEXTVALUE>इलेक्ट्रॉनिक तुला पर बटर पेपर रखें और तुला का खाली भार तौलें। बटर पेपर पर फेरिक क्लोराइड रखें और लगभग 3.5 ग्राम फेरिक क्लोराइड तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerox">
+	<TEXT ID="inbeakerox_one">
+	<TEXTVALUE>बीकर में फेरिक क्लोराइड की तौली गई मात्रा डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water1ox">
+	<TEXT ID="water1ox_one">
+	<TEXTVALUE>मापक जार में 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="dilsulphuinpowderox">
+	<TEXT ID="dilsulphuinpowderox_one">
+	<TEXTVALUE>फेरिक क्लोराइड युक्त बीकर में इसे डाल दें।  फेरिक क्लोराइड पूरी तरह से घोलने के लिए कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dilsulphuinpowderox_two">
+	<TEXTVALUE>क्रिस्टल पूरी तरह से घोलने के लिए कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="pottasiumox">
+	<TEXT ID="pottasiumox_one">
+	<TEXTVALUE>स्पैचुला का प्रयोग र पोटेशियम हाइड्रॉक्साइड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inweighammoniox">
+	<TEXT ID="inweighammoniox_one">
+	<TEXTVALUE>लगभग 4 ग्राम पोटेशियम हाइड्रॉक्साइड तौलें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inbeakerammoox">
+	<TEXT ID="inbeakerammoox_one">
+	<TEXTVALUE>इसे एक अन्यग बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="water2ox">
+	<TEXT ID="water2ox_one">
+	<TEXTVALUE>इसके बाद 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="waterinbeakerox">
+	<TEXT ID="waterinbeakerox_one">
+	<TEXTVALUE>इसे पोटेशियम हाइड्रॉक्साइड युक्त बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterinbeakerox_two">
+	<TEXTVALUE>इसके बाद पोटेशियम हाइड्रॉक्साइड के पूरी तरह से घुल जाने तक कांच की छड़ का प्रयोग कर बीकर की सामग्री चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="stiringox">
+	<TEXT ID="stiringox_one">
+	<TEXTVALUE>कांच की छड़ का प्रयोग कर लगातार चलाते हुए फेरिक क्लोराइड के विलयन में थोड़े अनुपात में पोटेशियम हाइड्रॉक्साइड का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="stiringox_two">
+	<TEXTVALUE>फेरिक हाइड्रॉक्साइड का तलछट बन जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnelox">
+	<TEXT ID="buchnerfunnelox_one">
+	<TEXTVALUE>बुचनर कीप में फिल्टर पेपर रखें और कीप में मदर लिकर डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwaterox">
+	<TEXT ID="distilledwaterox_one">
+	<TEXTVALUE>बीकर में आसुत जल की थोड़ी सी मात्रा डालें और तलछट धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2copyox">
+	<TEXT ID="buchnerfunneldist2copyox_one">
+	<TEXTVALUE>बीकर में आसुत जल की थोड़ी सी मात्रा डालें और तलछट धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldistox">
+	<TEXT ID="buchnerfunneldistox_one">
+	<TEXTVALUE>बुचनर कीप में धावन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilledwater2ox">
+	<TEXT ID="distilledwater2ox_one">
+	<TEXTVALUE>फिर से तलछट युक्त बीकर में आसुत जल की थोड़ी सी मात्रा मिलाएं। इस प्रक्रिया को दोहराएं और उसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunneldist2ox">
+	<TEXT ID="buchnerfunneldist2ox_one">
+	<TEXTVALUE>फिर से तलछट युक्त बीकर में आसुत जल की थोड़ी सी मात्रा मिलाएं। इस प्रक्रिया को दोहराएं और उसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="buchnerfunnel2ox">
+	<TEXT ID="buchnerfunnel2ox_one">
+	<TEXTVALUE>फिर से तलछट युक्त बीकर में आसुत जल की थोड़ी सी मात्रा मिलाएं। इस प्रक्रिया को दोहराएं और उसके बाद तलछट छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedoxalicacidox">
+	<TEXT ID="hydratedoxalicacidox_one">
+	<TEXTVALUE>जलयोजित आक्जेसलिक अम्ल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicox">
+	<TEXT ID="weighoxalicox_one">
+	<TEXTVALUE>इसे बीकर में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="inoxabeakerox">
+	<TEXT ID="inoxabeakerox_one">
+	<TEXTVALUE>इसके बाद जलयोजित पोटेशियम आक्जालेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydratedpotassiumox">
+	<TEXT ID="hydratedpotassiumox_one">
+	<TEXTVALUE>इसके बाद जलयोजित पोटेशियम आक्जालेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="weighoxalicpottasiumox">
+	<TEXT ID="weighoxalicpottasiumox_one">
+	<TEXTVALUE>लगभग 5.5 ग्राम पोटेशियम आक्जालेट वजन करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="beakerox">
+	<TEXT ID="beakerox_one">
+	<TEXTVALUE>उसी बीकर में इसे भी डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="distilwatrox">
+	<TEXT ID="distilwatrox_one">
+	<TEXTVALUE>100 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100mlinbeakerox">
+	<TEXT ID="100mlinbeakerox_one">
+	<TEXTVALUE>जलयोजित आक्जेलिक अम्ल और जलयोजित पोटेशियम आक्जालेट युक्त बीकर में इसे डालें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="100mlinbeakerox_two">
+	<TEXTVALUE>स्पष्ट विलयन प्राप्त करने के लिए कांच की छड़ का प्रयोग कर अच्छी तरह से बीकर में विलयन चलाएं</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetaox">
+	<TEXT ID="percipitatetaox_one">
+	<TEXTVALUE>ऊपरोक्त बीकर में थोड़ी मात्रा में फेरिक हाइड्रॉक्साइड का तलछट मिलाएं और विलयन चलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrox">
+	<TEXT ID="percipitateinbeakrox_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे साफ चाइना डिश रखें। विलयन के छींटे उठने से बचने के लिए कीप का तना चाइना डिश की दीवार की ओर छूना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitatetacopyox">
+	<TEXT ID="percipitatetacopyox_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे साफ चाइना डिश रखें। विलयन के छींटे उठने से बचने के लिए कीप का तना चाइना डिश की दीवार की ओर छूना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="percipitateinbeakrcopyox">
+	<TEXT ID="percipitateinbeakrcopyox_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे साफ चाइना डिश रखें। विलयन के छींटे उठने से बचने के लिए कीप का तना चाइना डिश की दीवार की ओर छूना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelox">
+	<TEXT ID="funnelox_one">
+	<TEXTVALUE>कीप लें और उसे स्टैंड पर लगाएं और कीप में फिल्टर पेपर रखें। कीप के नीचे साफ चाइना डिश रखें। विलयन के छींटे उठने से बचने के लिए कीप का तना चाइना डिश की दीवार की ओर छूना चाहिए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takeitox">
+	<TEXT ID="takeitox_one">
+	<TEXTVALUE>चाइना डिश में विलयन छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="freakox">
+	<TEXT ID="freakox_one">
+	<TEXTVALUE>चाइना डिश में विलयन छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbathox">
+	<TEXT ID="sandbathox_one">
+	<TEXTVALUE>क्रिस्टलीकरण बिंदु पर पहुंचने तक सैण्ड बाथ पर चाइना डिश की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="linedrawox">
+	<TEXT ID="linedrawox_one">
+	<TEXTVALUE>क्रिस्टलीकरण बिंदु पर पहुंचने तक सैण्ड बाथ पर चाइना डिश की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sandbath2ox">
+	<TEXT ID="sandbath2ox_one">
+	<TEXTVALUE>ठंडे पानी युक्त खौल में गर्म संतृप्त विलयन युक्त चाइना डिश रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="coldwaterox">
+	<TEXT ID="coldwaterox_one">
+	<TEXTVALUE>ठंडे पानी युक्त खौल में गर्म संतृप्त विलयन युक्त चाइना डिश रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_two">
+	<TEXTVALUE>काले कागज से चाइना-डिश ढंक दें क्योंकि यह यौगिक प्रकाश के प्रति संवेदनशील होता है। विलयन कुछ समय तक ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="coldwaterox_three">
+	<TEXTVALUE>विलयन ठंडा हो जाने पर, पोटेशियम ट्राईआक्जालेटोफेरेट के क्रिस्टल (III) अलग हो जाते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteox">
+	<TEXT ID="sinkwasteox_one">
+	<TEXTVALUE>मदर लिकर छान लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethylalcoholox">
+	<TEXT ID="ethylalcoholox_one">
+	<TEXTVALUE>चाइना-डिश में इथाइल अल्कोहल की थोड़ी सी मात्रा डालें और अल्कोहल से क्रिस्टल धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ethyltochinadishox">
+	<TEXT ID="ethyltochinadishox_one">
+	<TEXTVALUE>चाइना-डिश में इथाइल अल्कोहल की थोड़ी सी मात्रा डालें और अल्कोहल से क्रिस्टल धो लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sinkwasteddox">
+	<TEXT ID="sinkwasteddox_one">
+	<TEXTVALUE>बीकर में धावन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lastox">
+	<TEXT ID="lastox_one">
+	<TEXTVALUE>फिल्टर पेपर पर क्रिस्टल रखें और फिल्टर पेपर के बीच धीरे से दबाकर क्रिस्टल सुखा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="labeledcrystalox">
+	<TEXT ID="labeledcrystalox_one">
+	<TEXTVALUE>सके बाद यौगिक के सूखे क्रिस्टल वॉच ग्लास पर रखें और उसे चिह्नित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

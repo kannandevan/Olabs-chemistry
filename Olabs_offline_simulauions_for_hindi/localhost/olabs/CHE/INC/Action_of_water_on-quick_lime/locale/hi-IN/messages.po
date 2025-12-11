@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: new\n"
+"POT-Creation-Date: 2015-11-25 10:27+0530\n"
+"PO-Revision-Date: 2015-11-25 10:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: help.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+#: help.js:11
+msgid ""
+"Drag the spatula </br>over the empty beaker to put</br> quick lime into it."
+msgstr "खाली बीकर में</br> बुझा चूना डालने के लिए स्‍पैटुला इसके</br>ऊपर खींचें ।"
+
+#: help.js:18
+msgid ""
+"Drag the distilled water beaker</br> to the beaker containing quick lime</"
+"br> to add water into it."
+msgstr ""
+"अनबुझा चूना (क्विक लाइम)वाले</br> बीकर में पानी मिलाने के लिए डिस्टिल्‍ड पानी का</br> "
+"बीकर इसके पास खींचें।"
+
+#: help.js:44
+msgid ""
+"Drag the dropper and dip it</br> in the beaker to suck lime water </br>into "
+"it, and then drag it to </br>the test tube to pour the solution</br> into "
+"the test tube."
+msgstr ""
+"ड्रॉपर खींचें और बीकर में चूने का</br> पानी सोखने के लिए इसे बीकर में डुबाएं </br>और फिर "
+"टेस्ट ट्यूब में विलयन</br> (साल्यूशन) उड़ेलने के लिए इसे टेस्ट</br> ट्यूब के पास खींचें।"
+
+#: help.js:51
+msgid "Drop the solution </br>in the test tube"
+msgstr "विलयन (साल्यूशन)</br> टेस्ट ट्यूब में डालें"
+
+#: help.js:59
+msgid "Drag the cork to the</br> test tube to close it.</br>"
+msgstr "टेस्ट ट्यूब बंद करने के लिए इसके पास कॉर्क खींचें।</br>"
+
+#: help.js:84
+msgid "Click here continuously </br>to blow exhaust air </br>into the tube."
+msgstr "ट्यूब में एक्‍जास्‍ट हवा फूंकने </br>के लिए यहां लगातार क्लिक</br> करें।"
+
+#: help.js:112
+msgid ""
+"Quick lime reacts vigorously with water releasing a large</br>amount of heat "
+"and producing a single product-slaked lime.</br>This is a combination "
+"reaction."
+msgstr ""
+"मुंह से फूंकी गई हवा  में मौजूद CO<sub>2</sub>(g)  चूने के </br>पानी को दूधिया बना देती है।"
+"चूने के पानी का कैल्शियम कार्बोनेट का सफेद अवक्षेप </br>(प्रेसिपिटेशन) बनने की वजह सेदूधिया "
+"होता है।"
+
+#: help.js:139
+msgid ""
+"CO<sub>2</sub>(g) contained in exhaled air turns lime water milky. The "
+"milky</br> apperance of lime water is due to the formation of white "
+"precipitate of </br>calcium carbonate."
+msgstr ""
+"अनबुझा चूना (क्विक लाइम)तेजी से पानी के साथ अभिक्रिया करता है और ढेर सारी गर्मी मुक्‍त</"
+"br> करता है और एक एकल उत्पाद-बुझा चूना बनाता है। यह संयुक्‍त अभिक्रिया</br> (काम्बीनेशन "
+"रिएक्शन) है।"
+
+#: simcontrols.js:5
+msgid "Quick lime"
+msgstr "क्विक लाइम"
+
+#: simcontrols.js:5
+msgid "Distilled water"
+msgstr "डिस्टिल्‍ड पानी"
+
+#: simcontrols.js:5
+msgid "Lime water"
+msgstr "चूने का पानी"
+
+#: simcontrols.js:5
+msgid "Blow"
+msgstr "फूंक"
+
+#: simcontrols.js:5
+msgid "Next"
+msgstr "आगे"
+
+#: simcontrols.js:59
+msgid "Combination Reaction"
+msgstr "संयुक्‍त अभिक्रिया"
+
+#: simcontrols.js:60
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:64
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:76
+msgid "Instructions"
+msgstr "निर्देश"
+
+#: simcontrols.js:77
+msgid ""
+"<li>Drag the spatula over the empty beaker to put quick lime into it.</"
+"li><br />"
+msgstr ""
+"<li>खाली बीकर में अनबुझा चूना (क्विक लाइम)डालने के लिए इसके ऊपर स्पैटुला खींचें।</li><br />"
+
+#: simcontrols.js:77
+msgid ""
+"<li>Drag the distilled water beaker to the beaker containing quick lime to "
+"add water into it.</li><br />"
+msgstr ""
+"<li>अनबुझा चूना (क्विक लाइम)वाले बीकर में पानी मिलाने के लिए डिस्टिल्‍ड पानी वाला बीकर "
+"इसके पास खींचें।</li><br />"
+
+#: simcontrols.js:78
+msgid ""
+"<li>Wait for some time till the quick lime reacts with water to form slaked "
+"lime.</li><br />"
+msgstr ""
+"<li>जब तक अनबुझा चूना (क्विक लाइम)बुझा चूना बनाने के लिए पानी के साथ अभिक्रिया करता है "
+"तब तक कुछ समय के लिए प्रतीक्षा करें। </li><br />"
+
+#: simcontrols.js:78 simcontrols.js:400
+msgid "<li>Click on the inference icon to view the inference.</li><br />"
+msgstr "<li>परिणाम देखने के लिए इन्‍फ्रेंस आइकन पर क्लिक करें।</li><br / >"
+
+#: simcontrols.js:79 simcontrols.js:363
+msgid "<li>Click on the 'Next' button.</li><br />"
+msgstr "<li>'नेक्‍स्‍ट बटन पर क्लिक करें।</li><br />"
+
+#: simcontrols.js:363
+msgid ""
+"<li value='6'>Clear solution of lime water is obtained as the suspension of "
+"slaked lime settle down at the bottom of the beaker.</li><br />"
+msgstr ""
+"<li value='6'> जब निलंबित बुझा चूना बीकर की तली में जम जाता है तो चूने के पानी के स्पष्ट "
+"विलयन (साल्यूशन) प्राप्त होता है।</li><br />"
+
+#: simcontrols.js:363
+msgid ""
+"<li>Drag the dropper and dip it in the beaker to suck lime water into it, "
+"and then drag it to the test tube to pour the solution into the test tube.</"
+"li><br />"
+msgstr ""
+"<li>और उसके बाद टेस्ट ट्यूब में विलयन (साल्‍यूशन) उउ़लने के लिए इसे टेस्ट ट्यूब के पास खींचें</"
+"li><br />"
+
+#: simcontrols.js:399
+msgid ""
+"<li value='9'>Click on the 'Blow' button 3-4 times to blow the exhaled air "
+"into the tube.</li><br />"
+msgstr ""
+"<li value='9'> ट्यूब में मुंह से हवा फूंकने के लिए फूंके' बटन पर 3-4 बार क्लिक करें। </"
+"li><br />"

@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 12:08+0530\n"
+"PO-Revision-Date: 2016-03-18 15:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:47
+msgid "Sodium nitroprusside test"
+msgstr "सोडियम नायट्रोप्रूसाइड परिक्षा"
+
+#: simcontrols.js:47
+msgid "Lead acetate test"
+msgstr "लेड एसीटेट परिक्षा"
+
+#: simcontrols.js:71
+msgid "Detection of Elements: Lassaigne's Test"
+msgstr "मूलद्रवे ओळखणे: लासाइन परिक्षा"
+
+#: simcontrols.js:74
+msgid "Lassaigne's extract"
+msgstr "लासाइन अर्क"
+
+#: simcontrols.js:74
+msgid "Sodium nitroprusside"
+msgstr "सोडियम नायट्रोप्रूसाइड "
+
+#: simcontrols.js:74
+msgid "Acetic acid"
+msgstr "असेटीक आम्ल"
+
+#: simcontrols.js:74
+msgid "Lead acetate"
+msgstr "लेड एसीटेट"
+
+#: simcontrols.js:74
+msgid "FeSO<sub>4</sub> solution"
+msgstr "FeSO<sub>4</sub> द्रावण"
+
+#: simcontrols.js:74
+msgid "FeCl<sub>3</sub>"
+msgstr "FeCl<sub>3</sub>"
+
+#: simcontrols.js:74
+msgid "Conc. HCl"
+msgstr "संहत HCl "
+
+#: simcontrols.js:74
+msgid "Conc. HNO<sub>3</sub>"
+msgstr "संहत HNO<sub>3</sub>"
+
+#: simcontrols.js:74
+msgid "AgNO<sub>3</sub>"
+msgstr "AgNO<sub>3</sub>"
+
+#: simcontrols.js:74
+msgid "NH<sub>4</sub>OH"
+msgstr "NH<sub>4</sub>OH"
+
+#: simcontrols.js:74
+msgid "dil. HCl"
+msgstr "विरल HCl"
+
+#: simcontrols.js:74
+msgid "Carbon disulphide"
+msgstr "कार्बन डायसल्फाइड"
+
+#: simcontrols.js:74
+msgid "Chlorine water"
+msgstr "क्लोरीन पाणी"
+
+#: simcontrols.js:75
+msgid ""
+"Nitrogen present in the compound reacts with sodium to form<br>sodium "
+"cyanide during fusion. Sodium cyanide is converted to<br>sodium "
+"ferrocyanide, Na<sub>4</sub>[Fe(CN)<sub>6</sub>], on treating with ferrous "
+"sulphate.<br>On further treating it with ferric chloride, a prussian blue "
+"complex,<br>ferricferrocyanide, Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</"
+"sub>, is formed."
+msgstr ""
+"संयुगात असलेले नायट्रोजन आणि सोडियम ची अभिक्रिया होते आणि एकीकरणादरम्यान सोडियम "
+"सायनाइड निर्माण होते.सोडियम सायनाइड आणि फेरस सल्फेटची अभिक्रिया होते आणि सोडियम फेरो "
+"सायनाइड Na4[Fe(CN)6] निर्माण होते. या पुढे त्यात फेरिक क्लोराइड टाकले तर निळ्या रंगाचे "
+"फेरिकफेरोसायनाइड Fe4[Fe(CN)6]3 निर्माण होते."
+
+#: simcontrols.js:76
+msgid ""
+"During the preparation of Lassaigne's extract, sulphur from<br>the organic "
+"compound reacts with sodium to form sodium sulphide.<br>It gives a purple "
+"colour with sodium nitroprusside due to the<br>formation of sodium "
+"thionitroprusside, Na<sub>4</sub>[Fe(CN)<sub>5</sub>NOS]."
+msgstr ""
+"लासाइन अर्क बनविताना, कार्बनी संयुगातले सल्फर आणि सोडियम ची अभिक्रिया होते आणि "
+"सोडियम सल्फाइड निर्माण होते. ह्याची पुढे सोडियम नायट्रोप्रूसाइड शी अभिक्रिया होते आणि "
+"सोडियम थीओनायट्रोप्रूसाइड Na4[Fe(CN)5NOS] निर्माण झाल्यामुळे जांभळा रंग दिसतो."
+
+#: simcontrols.js:77
+msgid ""
+"Sulphur from the organic compound reacts with sodium to form<br>sodium "
+"sulphide during the preparation of Lassaigne's extract. It reacts<br>with "
+"lead acetate to yield lead sulphide, PbS, as black precipitate."
+msgstr ""
+"लासाइन अर्क बनविताना, कार्बनी संयुगातले सल्फर आणि सोडियम ची अभिक्रिया होते आणि "
+"सोडियम सल्फाइड निर्माण होते. ह्याची लेड एसीटेटशी अभिक्रिया होते आणि काळ्या रंगाचे "
+"अवक्षेपण लेड सल्फाइड PbS निर्माण होते."
+
+#: simcontrols.js:78
+msgid ""
+"During the preparation of Lassaigne's extract, chlorine form<br>the organic "
+"compound reacts with sodium to form sodium chloride.<br>Sodium chloride "
+"gives a white precipitate of silver chloride, AgCl,<br>with silver nitrate "
+"solution. The precipitate is soluble in ammonium hydroxide."
+msgstr ""
+"लासाइन अर्क बनविताना, कार्बनी संयुगातले क्लोरिन आणि सोडियम ची अभिक्रिया होते आणि "
+"सोडियम क्लोराइड निर्माण होते. ह्याची सिल्वर नायट्रेट द्रावणाशी अभिक्रिया होते आणि "
+"पांढर्यात रंगाचे अवक्षेपण सिल्वर क्लोराइड AgCl निर्माण होते. हे अवक्षेपण अमोनियम "
+"हायड्रोऑक्साइड मध्ये विरघळते."
+
+#: simcontrols.js:79
+msgid ""
+"Sodium reacts with bromine to form sodium bromide during<br>the preparation "
+"of Lassaigne's extract. It reacts with<br>silver nitrate to form pale yellow "
+"precipitate of silver bromide,<br>AgBr, which is sparingly soluble in "
+"ammonium hydroxide."
+msgstr ""
+"लासाइन अर्क बनविताना, ब्रोमीन आणि सोडियम ची अभिक्रिया होते आणि सोडियम ब्रोमाइड "
+"निर्माण होते. ह्याची सिल्वर नायट्रेट द्रावणाशी अभिक्रिया होते आणि फिकट पिवळ्या रंगाचे "
+"अवक्षेपण सिल्वर ब्रोमाइड AgBr निर्माण होते. हे अवक्षेपण अमोनियम हायड्रोऑक्साइड मध्ये थोडेसे "
+"विरघळते."
+
+#: simcontrols.js:80
+msgid ""
+"Sodium reacts with iodine to form sodium iodide during<br>the preparation of "
+"Lassaigne's extract. It reacts with<br>silver nitrate solution to form "
+"yellow precipitate of silver iodide,<br>AgI, which is insoluble in ammonium "
+"hydroxide."
+msgstr ""
+"लासाइन अर्क बनविताना, आयोडीन आणि सोडियम ची अभिक्रिया होते आणि सोडियम आयोडाइड "
+"निर्माण होते. ह्याची सिल्वर नायट्रेट द्रावणाशी अभिक्रिया होते आणि पिवळ्या रंगाचे अवक्षेपण "
+"सिल्वर आयोडाइड AgI निर्माण होते. हे अवक्षेपण अमोनियम हायड्रोऑक्साइड मध्ये विरघळत नाही."
+
+#: simcontrols.js:81
+msgid ""
+"When sodium bromide formed in the Lassaigne's extract is treated<br> with "
+"chlorine water, the bromide is oxidised to bromine. Bromine dissolved<br>in "
+"carbon disulphide and imparts  orange colour in carbon disulphide layer."
+msgstr ""
+"जेव्हा लासाइन अर्कात निर्माण झालेल्या सोडियम ब्रोमाइडची क्लोरिन पाण्याशी अभिक्रिया होते "
+"जेव्हा ब्रोमाइडचे ऑक्सीडीकारण होऊन ब्रोमीन निर्माण होते. ब्रोमीन हे कार्बन डायसल्फाइड "
+"मध्ये विरघळते आणि कार्बन डायस्लफाइड थराला नारंगी रंग देते."
+
+#: simcontrols.js:82
+msgid ""
+"When sodium iodide formed in the Lassaigne's extract is treated with,"
+"<br>chlorine water, iodide oxidised to iodine. Iodine dissolved in<br>carbon "
+"disulphide and imparts violet colour in carbon disulphide layer."
+msgstr ""
+"जेव्हा लासाइन अर्कात निर्माण झालेल्या सोडियम आयोडाडची क्लोरिन पाण्याशी अभिक्रिया होते "
+"जेव्हा आयोडाइडचे ऑक्सीडीकारण होऊन आयोडीन निर्माण होते. आयोडीन हे कार्बन डायसल्फाइड "
+"मध्ये विरघळते आणि कार्बन डायस्लफाइड थराला जांभळा रंग देते."
+
+#: simcontrols.js:83
+msgid "No characteristic change. Absence of Nitrogen"
+msgstr "काहीही बदल नाही. नायट्रोजन अनुपस्थित"
+
+#: simcontrols.js:83
+msgid "No characteristic change. Absence of Sulphur"
+msgstr "काहीही बदल नाही. सल्फर अनुपस्थित "
+
+#: simcontrols.js:83
+msgid "No characteristic change. Absence of Chlorine"
+msgstr "काहीही बदल नाही. क्लोरिन अनुपस्थित "
+
+#: simcontrols.js:83
+msgid "No characteristic change. Absence of Bromine"
+msgstr "काहीही बदल नाही. ब्रोमीन अनुपस्थित "
+
+#: simcontrols.js:83
+msgid "No characteristic change. Absence of Iodine"
+msgstr "काहीही बदल नाही. आयोडीन अनुपस्थित."
+
+#: simcontrols.js:84
+msgid ""
+"To pour FeSO<sub>4</sub> solution into the Lassaigne's extract,<br>drag the "
+"test tube towards it."
+msgstr "लासाइन अर्कात FeSO4 द्रावण ओतण्यासाठी नळी त्याच्या कडे ओढा."
+
+#: simcontrols.js:85 simcontrols.js:98
+msgid "Click on the knob of the<br>burner to turn it on."
+msgstr "बर्नर सुरू करण्यासाठी बर्नर बटण क्लिक करा."
+
+#: simcontrols.js:86 simcontrols.js:99
+msgid "Drag the test tube over the<br>Bunsen burner to heat it."
+msgstr "परिक्षा नळी गरम करण्यासाठी बर्नर वर ओढा."
+
+#: simcontrols.js:87 simcontrols.js:100
+msgid "Drag the test tube to place it back."
+msgstr "परिक्षा नळी परत ठेवण्यासाठी नळी ओढा."
+
+#: simcontrols.js:88
+msgid ""
+"Drag the dropper containing Conc. HCl to transfer<br>it into the test tube "
+"containing Lassaigne's extract."
+msgstr "संहत HCl असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर ओढा."
+
+#: simcontrols.js:89
+msgid ""
+"Drag the dropper containing FeCl<sub>3</sub> solution to transfer<br>it into "
+"the test tube containing Lassaigne's extract."
+msgstr ""
+"FeCl3 द्रावण असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर ओढा."
+
+#: simcontrols.js:90
+msgid ""
+"Drag the dropper containing Sodium Nitroprusside solution<br>to transfer it "
+"into the test tube containing Lassaigne's extract."
+msgstr ""
+"सोडियम नायट्रोप्रूसाइड असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी "
+"ड्रॉपर ओढा."
+
+#: simcontrols.js:91
+msgid ""
+"Drag the test tube containing acetic acid to pour<br>it into the test tube "
+"containing Lassaigne's extract."
+msgstr ""
+"असेटीक आम्ल असलेली परिक्षा नळी लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी पहिली "
+"नळी ओढा."
+
+#: simcontrols.js:92
+msgid ""
+"Drag the dropper containing Lead acetate<br>solution to transfer it into the "
+"test tube<br>containing Lassaigne's extract."
+msgstr ""
+"लेड एसीटेट असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर ओढा."
+
+#: simcontrols.js:93
+msgid ""
+"Drag the dropper containing dil. HCl to transfer it<br>into the test tube "
+"containing Lassaigne's extract."
+msgstr ""
+"विरल HCl असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर ओढा."
+
+#: simcontrols.js:94
+msgid ""
+"Drag the dropper containing Carbon disulphide to<br>transfer it into the "
+"test tube containing Lassaigne's extract."
+msgstr ""
+"कार्बन डायसल्फाइड असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर "
+"ओढा."
+
+#: simcontrols.js:95
+msgid ""
+"Drag the test tube containing chlorine water to add it<br>into the test tube "
+"containing Lassaigne's extract."
+msgstr ""
+"क्लोरिन पाणी असलेली परिक्षा नळी लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी पहिली "
+"नळी ओढा."
+
+#: simcontrols.js:96
+msgid "Drag the test tube to shake it."
+msgstr "परिक्षा नळी हलविण्यासाठी नळी ओढा."
+
+#: simcontrols.js:97
+msgid ""
+"Drag the dropper containing Conc. HNO<sub>3</sub> to transfer<br>it into the "
+"test tube containing Lassaigne's extract."
+msgstr ""
+"संहत HNO3 असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर ओढा."
+
+#: simcontrols.js:101
+msgid ""
+"Drag the dropper containing AgNO<sub>3</sub> solution to transfer<br>it into "
+"the test tube containing Lassaigne's extract."
+msgstr ""
+"AgNO3 द्रावण असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीकडे ओढा म्हणजे त्यात द्रावण "
+"ओतले जाईल."
+
+#: simcontrols.js:102
+msgid ""
+"Drag the dropper containing NH<sub>4</sub>OH solution to transfer<br>it into "
+"the test tube containing Lassaigne's extract."
+msgstr ""
+"NH4OH द्रावण असलेले ड्रॉपर लासाइन अर्क असलेल्या परिक्षा नळीकडे ओढा म्हणजे त्यात द्रावण "
+"ओतले जाईल."
+
+#: simcontrols.js:103
+msgid "Choose the correct answer."
+msgstr "बरोबर उत्तर निवडा."
+
+#: simcontrols.js:104
+msgid "Click on the reset button to<br>redo the experiment."
+msgstr "प्रयोग परत करण्यासाठी ‘पूर्ववत करा’ बटण क्लिक करा."
+
+#: simcontrols.js:105
+msgid "Select the unknown element:"
+msgstr "अज्ञात मूलद्रव निवडा:"
+
+#: simcontrols.js:105
+msgid "Select the identification test:"
+msgstr "ओळख परिक्षा निवडा:"
+
+#: simcontrols.js:105
+msgid "Select the method:"
+msgstr "पद्धत निवडा:"
+
+#: simcontrols.js:105
+msgid "Select the element:"
+msgstr "मूलद्रव निवडा:"
+
+#: simcontrols.js:105
+msgid "Result:"
+msgstr "परिणाम:"
+
+#: simcontrols.js:107
+msgid "Detection of Nitrogen"
+msgstr "नायट्रोजन ओळखणे"
+
+#: simcontrols.js:107
+msgid "Detection of Sulphur"
+msgstr "सल्फर ओळखणे"
+
+#: simcontrols.js:107
+msgid "Detection of Chlorine"
+msgstr "क्लोरिन ओळखणे"
+
+#: simcontrols.js:107
+msgid "Detection of Bromine"
+msgstr "ब्रोमीन ओळखणे"
+
+#: simcontrols.js:107
+msgid "Detection of Iodine"
+msgstr "आयोडीन ओळखणे"
+
+#: simcontrols.js:108
+msgid "Silver nitrate test"
+msgstr "सिल्वरनायट्रेट परिक्षा"
+
+#: simcontrols.js:108
+msgid "Carbon disulphide test"
+msgstr "कार्बन डायसल्फाइड परिक्षा"
+
+#: simcontrols.js:109
+msgid "Nitrogen"
+msgstr "नायट्रोजन"
+
+#: simcontrols.js:109
+msgid "Sulphur"
+msgstr "सल्फर"
+
+#: simcontrols.js:109
+msgid "Chlorine"
+msgstr "क्लोरिन"
+
+#: simcontrols.js:109
+msgid "Bromine"
+msgstr "ब्रोमीन"
+
+#: simcontrols.js:109
+msgid "Iodine"
+msgstr "आयोडीन"
+
+#: simcontrols.js:123
+msgid "- Select -"
+msgstr "- निवडा-"
+
+#: simcontrols.js:124
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: simcontrols.js:131
+msgid "Element "
+msgstr "मूलद्रव"
+
+#~ msgid "select"
+#~ msgstr "selectvvv"
+
+#~ msgid "Chemical Equilibrium"
+#~ msgstr "Chemical Equilibriummmmm"
+
+#~ msgid "[Fe(CNS)]<sup>2+</sup>"
+#~ msgstr "[Fe(CNSss)]<sup>2+</sup>"
+
+#~ msgid "[CoCl<sub>4</sub>]<sup>2-</sup>"
+#~ msgstr "[CoCllll<sub>4</sub>]<sup>2-</sup>"
+
+#~ msgid "[CuCl<sub>4</sub>]<sup>2-</sup>"
+#~ msgstr "[CuClll<sub>4</sub>]<sup>2-</sup>"
+
+#~ msgid "Ferric and thiocyanate ions"
+#~ msgstr "Ferric and thiocyanate ionsss"
+
+#~ msgid "Cobalt complex and chloride ions "
+#~ msgstr "Cobalt complex and chloride ions ss"
+
+#~ msgid "Copper complex and chloride ions"
+#~ msgstr "Copper complex and chloride ionsss"
+
+#~ msgid "Test tube A"
+#~ msgstr "Test tube Acc"
+
+#~ msgid "Test tube B"
+#~ msgstr "Test tube Bccc"
+
+#~ msgid "Test tube C"
+#~ msgstr "Test tube Ccc"
+
+#~ msgid "Test tube D"
+#~ msgstr "Test tube Dcc"
+
+#~ msgid "Drag the dropper to add<br/>the solution to the test tube."
+#~ msgstr "Drag the dropper to add<br/>the solution to the test tube.vvvvvv"
+
+#~ msgid "Control"
+#~ msgstr "Controlsss"
+
+#~ msgid "Select the test solution:"
+#~ msgstr "Select the test solution"
+
+#~ msgid "Select the control tube:"
+#~ msgstr "Select the control tube:sss"
+
+#~ msgid "KCNS"
+#~ msgstr "KCNSvvv"
+
+#~ msgid "KCl"
+#~ msgstr "KClvvv"
+
+#~ msgid "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+#~ msgstr "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>sss"
+
+#~ msgid "HCl"
+#~ msgstr "HClnnn"
+
+#~ msgid "H<sub>2</sub>O"
+#~ msgstr "H<sub>2</sub>Occc"
+
+#~ msgid "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+#~ msgstr "H<sub>2</sub>Offff"
+
+#~ msgid ""
+#~ "Addition of more Fe<sup>3+</sup> ions results in more Fe(CNS)<sup>2+</"
+#~ "sup>complex. Hence the</br>colour intensity of red solution increases and "
+#~ "the equilibrium shifts</br>in the forward direction."
+#~ msgstr ""
+#~ "Addition of more Fe<sup>3+</sup> ions results in more Fe(CNS)<sup>2+</"
+#~ "sup>complex. Hence the</br>colour intensity of red solution increases and "
+#~ "the equilibrium shifts</br>in the forward direction.sssssss"
+
+#~ msgid ""
+#~ "Addition of more [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in "
+#~ "more (CoCl<sub>4</sub>)<sup>2-</sup> complex.</br>Hence the intensity of "
+#~ "blue colour increases and the equilibrium</br>shifts in the forward "
+#~ "direction."
+#~ msgstr ""
+#~ "Addition of more [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in "
+#~ "more (CoCl<sub>4</sub>)<sup>2-</sup> complex.</br>Hence the intensity of "
+#~ "blue colour increases and the equilibrium</br>shifts in the forward "
+#~ "direction.sssssss"
+
+#~ msgid ""
+#~ "Addition of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in "
+#~ "the formation of more</br>(CuCl<sub>4</sub>)<sup>2-</sup> and the "
+#~ "equilibrium shifts in the forward direction."
+#~ msgstr ""
+#~ "Addition of more [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> results in "
+#~ "the formation of more</br>(CuCl<sub>4</sub>)<sup>2-</sup> and the "
+#~ "equilibrium shifts in the forward direction.sssss"
+
+#~ msgid ""
+#~ "Addition of more CNS<sup>-</sup> ions results in more Fe(CNS)<sup>2+</"
+#~ "sup>complex. Hence the</br>colour intensity of red solution increases and "
+#~ "the equilibrium shifts</br>in the forward direction."
+#~ msgstr ""
+#~ "Addition of more CNS<sup>-</sup> ions results in more Fe(CNS)<sup>2+</"
+#~ "sup>complex. Hence the</br>colour intensity of red solution increases and "
+#~ "the equilibrium shifts</br>in the forward direction.sssss"
+
+#~ msgid ""
+#~ "Addition of more Cl<sup>-</sup> ions results in more (CoCl<sub>4</"
+#~ "sub>)<sup>2-</sup> complex. Hence the</br>intensity of blue colour "
+#~ "increases and the equilibrium shifts</br>in the forward direction."
+#~ msgstr ""
+#~ "Addition of more Cl<sup>-</sup> ions results in more (CoCl<sub>4</"
+#~ "sub>)<sup>2-</sup> complex. Hence the</br>intensity of blue colour "
+#~ "increases and the equilibrium shifts</br>in the forward direction.sssss"
+
+#~ msgid ""
+#~ "Addition of more Cl<sup>-</sup> ions results in the formation of more "
+#~ "(CuCl<sub>4</sub>)<sup>2-</sup></br>and the equilibrium shifts in the "
+#~ "forward direction. "
+#~ msgstr ""
+#~ "Addition of more Cl<sup>-</sup> ions results in the formation of more "
+#~ "(CuCl<sub>4</sub>)<sup>2-</sup></br>and the equilibrium shifts in the "
+#~ "forward direction. sssss"
+
+#~ msgid ""
+#~ "Addition of K<sup>+</sup> ions affects the dissociation of KCNS and "
+#~ "decrease the</br>concentration of CNS<sup>-</sup>, as a result the "
+#~ "equilibrium shifts towards</br>backwards and the intensity of red colour "
+#~ "decrease."
+#~ msgstr ""
+#~ "Addition of K<sup>+</sup> ions affects the dissociation of KCNS and "
+#~ "decrease the</br>concentration of CNS<sup>-</sup>, as a result the "
+#~ "equilibrium shifts towards</br>backwards and the intensity of red colour "
+#~ "decrease.sssss"
+
+#~ msgid ""
+#~ "Addition of H<sub>2</sub>O results the formation of pink colour "
+#~ "(CoCl<sub>4</sub>)<sup>2-</sup>.</br>Hence the colour of the solution "
+#~ "turns to pink and the equilibrium shifts</br>in the backward direction."
+#~ msgstr ""
+#~ "Addition of H<sub>2</sub>O results the formation of pink colour "
+#~ "(CoCl<sub>4</sub>)<sup>2-</sup>.</br>Hence the colour of the solution "
+#~ "turns to pink and the equilibrium shifts</br>in the backward direction."
+#~ "sssss"
+
+#~ msgid ""
+#~ "Addition of water results in the formation of more [Cu(H<sub>2</"
+#~ "sub>O)<sub>6</sub>]<sup>2+</sup></br>and the equilibrium shifts in the "
+#~ "backward direction. "
+#~ msgstr ""
+#~ "Addition of water results in the formation of more [Cu(H<sub>2</"
+#~ "sub>O)<sub>6</sub>]<sup>2+</sup></br>and the equilibrium shifts in the "
+#~ "backward direction. ssssss"
+
+#~ msgid "Simple Pendulum"
+#~ msgstr "Simple Pendulum"
+
+#~ msgid "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Earth is 9.8 m/s<sup>2</sup>"
+
+#~ msgid "Solution Controls"
+#~ msgstr "Solution Controls"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select Shape"
+#~ msgstr "Select Shape"
+
+#~ msgid "Select Material"
+#~ msgstr "Select Material"
+
+#~ msgid "Select Wire"
+#~ msgstr "Select Wire"
+
+#~ msgid "Pendulum Length(m):"
+#~ msgstr "Pendulum Length(m):"
+
+#~ msgid "Change Diameter(mm):"
+#~ msgstr "Change Diameter(mm):"
+
+#~ msgid "Hide Protractor"
+#~ msgstr "Hide Protractor"
+
+#~ msgid "earth"
+#~ msgstr "earth"
+
+#~ msgid "moon"
+#~ msgstr "moon"
+
+#~ msgid "uranus"
+#~ msgstr "uranus"
+
+#~ msgid "saturn"
+#~ msgstr "saturn"
+
+#~ msgid "jupiter"
+#~ msgstr "jupiter"
+
+#~ msgid "Sphere"
+#~ msgstr "Sphere"
+
+#~ msgid "Clock Pendulum"
+#~ msgstr "Clock Pendulum"
+
+#~ msgid "Square"
+#~ msgstr "Square"
+
+#~ msgid "Rectangle"
+#~ msgstr "Rectangle"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminum"
+#~ msgstr "Aluminum"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Lead"
+#~ msgstr "Lead"
+
+#~ msgid "Twine Thread"
+#~ msgstr "Twine Thread"
+
+#~ msgid "Steel String"
+#~ msgstr "Steel String"
+
+#~ msgid "Twisted Copper Wire"
+#~ msgstr "Twisted Copper Wire"
+
+#~ msgid "Show Protractor"
+#~ msgstr "Show Protractor"
+
+#~ msgid "Play/Pause"
+#~ msgstr "Play/Pause"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Moon is 1.6 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Uranus is 8.69 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Saturn is 11.171 m/s<sup>2</sup>"
+
+#~ msgid "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+#~ msgstr "Acceleration due to gravity on Jupiter is 25.95 m/s<sup>2</sup>"
+
+#~ msgid "Simple-Pendulum"
+#~ msgstr "Simple-Pendulum"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Equivalent Resistance of Resistors (Parallel)"
+#~ msgstr "Equivalent Resistance of Resistors (Parallel)"
+
+#~ msgid "Arrangement of Resistors:"
+#~ msgstr "Arrangement of Resistors:"
+
+#~ msgid "Jockey Position(cm):"
+#~ msgstr "Jockey Position(cm):"
+
+#~ msgid "Please select Resistance"
+#~ msgstr "Please select Resistance"
+
+#~ msgid "Single"
+#~ msgstr "Single"
+
+#~ msgid "Parallel"
+#~ msgstr "Parallel"
+
+#~ msgid "Remove key"
+#~ msgstr "Remove key"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid "Remove Key"
+#~ msgstr "കീ നീക്കം"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "Ohm's Law"
+#~ msgstr "Ohm's Law"
+
+#~ msgid "Readings"
+#~ msgstr "Readings"
+
+#~ msgid "Voltage (V) :"
+#~ msgstr "Voltage (V) :"
+
+#~ msgid "Ammeter reading (I) :"
+#~ msgstr "Ammeter reading (I) :"
+
+#~ msgid "Rheostat resistance :"
+#~ msgstr "Rheostat resistance :"
+
+#~ msgid "Length of the resistance wire :"
+#~ msgstr "Length of resistance wire :"
+
+#~ msgid "Show Circuit Diagram"
+#~ msgstr "Show Circuit Diagram"
+
+#~ msgid "Results"
+#~ msgstr "Results"
+
+#~ msgid "Enter the resistance of the wire:"
+#~ msgstr "Enter the resistance of the wire:"
+
+#~ msgid "Enter the resistance per cm of the wire:"
+#~ msgstr "Enter the resistance per cm of the wire:"
+
+#~ msgid "Please enter the value"
+#~ msgstr "Please enter the value"
+
+#~ msgid "Check"
+#~ msgstr "Check"

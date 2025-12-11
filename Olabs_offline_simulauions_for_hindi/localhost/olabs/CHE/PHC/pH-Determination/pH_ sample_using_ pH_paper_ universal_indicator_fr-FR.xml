@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="3ph">
+	<TEXT ID="3ph_one">
+	 <TEXTVALUE>Nous avons besoin de l'acide acétique, d’une bande de papier pH, d’un nuancier de pH standard, d’un compte-gouttes et d’un carreau blanc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4openacid">
+	<TEXT ID="4openacid_one">
+	 <TEXTVALUE>Prendre une bande de papier pH et le placer sur un carreau blanc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5paper">
+	<TEXT ID="5paper_one">
+	 <TEXTVALUE>Prendre une bande de papier pH et le placer sur un carreau blanc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_one">
+	 <TEXTVALUE>Prendre une bande de papier pH et le placer sur un carreau blanc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6tile">
+	<TEXT ID="6tile_two">
+	 <TEXTVALUE>Prendre une petite quantité d'acide acétique en utilisant le compte-gouttes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_one">
+	 <TEXTVALUE>Verser une goutte de l'acide acétique sur le papier pH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_two">
+	 <TEXTVALUE>Observer la couleur produite sur le papier pH. La couleur du papier pH vire au rouge.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7tiletoacid">
+	<TEXT ID="7tiletoacid_three">
+	 <TEXTVALUE>Comparer la couleur produite sur le papier pH avec les différentes nuances de couleurs d'un nuancier de pH standard et noter le pH du nuancier. Le pH de l'acide acétique est égal à 3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_one">
+	 <TEXTVALUE>Nous avons besoin de l'acide acétique, d'un indicateur universel, d’un nuancier de pH standard, d’un compte-gouttes et d’un tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8universal">
+	<TEXT ID="8universal_two">
+	 <TEXTVALUE>Prendre une petite quantité d'acide acétique en utilisant le compte-gouttes et verser-le dans le tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_one">
+	 <TEXTVALUE>Prendre une petite quantité d'acide acétique en utilisant le compte-gouttes et verser-le dans le tube à essai.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9testube">
+	<TEXT ID="9testube_two">
+	 <TEXTVALUE>Prendre une petite quantité de solution d'indicateur universel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_one">
+	 <TEXTVALUE>Verser quelques gouttes d'indicateur universel dans le tube à essai contenant de l'acide acétique.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_two">
+	 <TEXTVALUE>Agiter bien le tube à essai. La couleur de la solution vire au rouge.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10dropereffect">
+	<TEXT ID="10dropereffect_three">
+	 <TEXTVALUE>Comparer la couleur produite dans le tube à essai avec le nuancier de pH standard et noter le pH du nuancier. Le pH de l'acide acétique est égal à 3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

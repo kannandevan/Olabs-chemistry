@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="Scene 72">
+	<TEXT ID="Scene 72_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_1">
+		<TEXTVALUE>അളവ് സംബന്ധമായ മൂലൃനിർണ്ണയം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_2">
+		<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റിന്റെ സ്റ്റാൻഡേർഡ് ലായനി തയ്യാറാക്കൽ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_3">
+		<TEXTVALUE>സ്റ്റാൻഡേർഡ് സോഡിയം കാർബണേറ്റ് ലായനി തയ്യാറാക്കൽ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>നമുക്ക് ആവശ്യമുള്ളത് 250 ml സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക്, 250കോണിക്കൽ ഫ്ലാസ്ക്, ഖരസോഡിയം കാർബണേറ്റ്, ഹൈഡ്രോക്ലോറിക്ആസിഡ്, മീതൈൽഒാറഞ്ച്, വെയിംഗ് ബോട്ടിൽ, ഇലക്ട്രോണിക് ത്രാസ്സ്, ഫണൽ, ഗ്ലാസ്സ്റോഡ്, ബ്യൂററ്റ്, 20 ml പിപ്പറ്റ് തുടങ്ങിയവ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_4">
+		<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lebel_5">
+		<TEXTVALUE>മീതൈൽ ഓറഞ്ച്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_6">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ്</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+		<TEXTVALUE>ഒരു വെയിംഗ് ജാർ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+		<TEXTVALUE>ഇലക്ട്രോണിക് ത്രാസ്സിലേക്ക് ഇത് വെയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+		<TEXTVALUE>ത്രാസ്സ് സമനിലയിലാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5sodiam">
+	<TEXT ID="5sodiam_one">
+		<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് കുറച്ച് സോഡിയം കാർബണേറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ് വെയിംഗ് ജാറിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+		<TEXTVALUE>2.65 gm സോഡിയം കാർബണേറ്റ് ഏകദേശം തൂക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+		<TEXTVALUE>ത്രാസ്സിൽ നിന്ന് വെയിംഗ് ജാർ മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11pour">
+	<TEXT ID="11pour_one">
+		<TEXTVALUE>കഴുകിയ ശുദ്ധജലം ബീക്കറിലേക്ക് തന്നെ ഒഴിക്കുക (രണ്ടോ മൂന്നോ തവണ ഇത് ആവർത്തിക്കുക), സോഡിയം കാർബണേറ്റ് പൂർണ്ണമായും ലയിക്കുന്നതുവരെ ഒരു വൃത്തിയായ ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ബീക്കറിലെ മിശ്രിതം സാവധാനം ഇളക്കുക..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12sta">
+	<TEXT ID="12sta_one">
+		<TEXTVALUE>ബീക്കറിനുള്ളിൽ നിന്നും ലായനി ഒരു ഫണലും ഗ്ലാസ്സ്റോഡും ഉപയോഗിച്ച് 250 ml സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13tk">
+	<TEXT ID="13tk_one">
+		<TEXTVALUE>ബീക്കറിനുള്ളിൽ നിന്നും ലായനി ഒരു ഫണലും ഗ്ലാസ്സ്റോഡും ഉപയോഗിച്ച് 250 ml സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13tk_two">
+		<TEXTVALUE>ബീക്കർ 2, 3 തവണ ശുദ്ധീകരിച്ച ജലം ഉപയോഗിച്ച് കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="141">
+	<TEXT ID="141_one">
+		<TEXTVALUE>വൃത്തിയായ ഒരു പിപ്പറ്റ് എടുക്കുക, കുറച്ച് അളവ് ശുദ്ധീകരിച്ച ജലം പിപ്പറ്റിലേക്ക് ഊതികയറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16botil">
+	<TEXT ID="16botil_one">
+		<TEXTVALUE>അഗ്രവും ശുദ്ധീകരിച്ച ജലം ഉപയോഗിച്ച് നന്നായി കഴുകുക. കഴുകുന്ന ബോട്ടിൽ ഉപയോഗിക്കുക, സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന്റെ കൃത്യത സ്ഥിരീകരിക്കുന്ന അടയാളത്തിന് തൊട്ട് താഴെയായി ശുദ്ധീകരിച്ച ജലം ശ്രദ്ധയോടെ ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17face">
+	<TEXT ID="17face_one">
+		<TEXTVALUE>കഴുകിയ ജലം സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിലേക്ക് മാറ്റുക, ഗ്ലാസ്സ് റോഡ് നന്നായി കഴുകുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="18zoom">
+	<TEXT ID="18zoom_one">
+		<TEXTVALUE>ഒരു സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19finger">
+	<TEXT ID="19finger_one">
+		<TEXTVALUE>ഒരു സ്റ്റാൻഡേർഡ് ഫ്ലാസ്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20tak1">
+	<TEXT ID="20tak1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22out">
+	<TEXT ID="22out_one">
+		<TEXTVALUE>പിപ്പറ്റ് ഉപയോഗിച്ച് സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിൽ രേഖപ്പെടുത്തിയിരിക്കുന്ന താപമാപിനിയുടെ താഴ്ന്ന നിരക്ക് വരെഏതാനും തുള്ളി ശുദ്ധീകരിച്ച ജലം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23zoom">
+	<TEXT ID="23zoom_one">
+		<TEXTVALUE>പിപ്പറ്റ് ഉപയോഗിച്ച് സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിൽ രേഖപ്പെടുത്തിയിരിക്കുന്ന താപമാപിനിയുടെ താഴ്ന്ന നിരക്ക് വരെഏതാനും തുള്ളി ശുദ്ധീകരിച്ച ജലം ചേർക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="24corck">
+	<TEXT ID="24corck_one">
+		<TEXTVALUE>സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിന് കോർക്ക് അടപ്പിടുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26rot2">
+	<TEXT ID="26rot2_one">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ് ലായനി എല്ലായിടത്തും ഏകീകരിച്ച രീതിയിൽ ആകുന്നതിന് സാവധാനം കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38fla1">
+	<TEXT ID="38fla1_one">
+		<TEXTVALUE>തയ്യാറാക്കിയ സോഡിയം കാർബണേറ്റ് ലായനിയുടെ മൊളാരിറ്റി 0.1മോൾ ആണ് (0.1മോളാർ).</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_7">
+		<TEXTVALUE>0.1M സോഡിയം കാർബണേറ്റ് ലായനി</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2 intro">
+	<TEXT ID="Scene2 intro_one">
+		<TEXTVALUE>സ്റ്റാൻഡേർഡ് സോഡിയം കാർബണേറ്റ്  ലായനി ഉപയോഗിച്ച് തന്നിരിക്കുന്ന ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ  ശക്തി നിർണ്ണയിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_8">
+		<TEXTVALUE>സ്റ്റാൻഡേർഡ് സോഡിയം കാർബണേറ്റ്  ലായനി ഉപയോഗിച്ച് തന്നിരിക്കുന്ന ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ  ശക്തി നിർണ്ണയിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="27stand">
+	<TEXT ID="27stand_one">
+		<TEXTVALUE>ബ്യൂററ്റിന്റെ  സ്റ്റാൻഡുമായി ഒരു വൃത്തിയായ ബ്യൂററ്റ് ഘടിപ്പിക്കുക, ബ്യൂററ്റിന്റെ വായ് ഭാഗത്തിന് മുകളിലായി ഒരു ഫണൽ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl">
+	<TEXT ID="28hcl_one">
+		<TEXTVALUE>ഹൈഡ്രോക്ലോറിക് ആസിഡ് അടങ്ങിയ ഒരു കുപ്പി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="29stad2">
+	<TEXT ID="29stad2_one">
+		<TEXTVALUE>കുറച്ച് ഹൈഡ്രോക്ലോറിക് ആസിഡ് ഫണലിലൂടെ ബ്യൂററ്റിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30bak">
+	<TEXT ID="30bak_one">
+		<TEXTVALUE>ഫണൽ നീക്കിയിട്ട് ബ്യൂററ്റ് സ്റ്റാൻഡിൽ നിന്ന് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="31burot">
+	<TEXT ID="31burot_one">
+		<TEXTVALUE>ബ്യൂററ്റിനുള്ളിൽ ഏതെങ്കിലും രീതിയിലുള്ള  ഈർപ്പം മാറ്റുന്നതിന് ഹൈഡ്രോക്ലോറിക് ആസിഡ് അടങ്ങിയ ബ്യൂററ്റ് ഉരുട്ടികുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32zoom">
+	<TEXT ID="32zoom_one">
+		<TEXTVALUE>ബ്യൂററ്റിനുള്ളിൽ ഏതെങ്കിലും രീതിയിലുള്ള  ഈർപ്പം മാറ്റുന്നതിന് ഹൈഡ്രോക്ലോറിക് ആസിഡ് അടങ്ങിയ ബ്യൂററ്റ് ഉരുട്ടികുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="33wash">
+	<TEXT ID="33wash_one">
+		<TEXTVALUE>ഒഴുക്കുന്നസ്ഥലം എടുക്കുക, സ്റ്റോപ്പ് കോക്ക് തുറന്ന് ബ്യൂററ്റിലെ കഴുകിയ ജലം ഒഴുക്കികളയുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34bak1">
+	<TEXT ID="34bak1_one">
+		<TEXTVALUE>ബ്യൂററ്റ് സ്റ്റാൻഡിൽ ബ്യൂററ്റ് ലംബമായി ഘടിപ്പിക്കുക, ബ്യൂററ്റിന്റെ  വായ് ഭാഗത്തിന് മുകളിലായി ഒരുഫണൽ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl copy">
+	<TEXT ID="28hcl copy_one">
+		<TEXTVALUE>എന്നിട്ട് ഹൈഡ്രോക്ലോറിക് ആസിഡ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29stad2 copy">
+	<TEXT ID="29stad2 copy_one">
+		<TEXTVALUE>ബ്യൂററ്റിൽ ഫണൽ ഉപയോഗിച്ച് സീറോ രേഖപ്പെടുത്തിയിരിക്കുന്നതിന് തൊട്ട് മുകളിൽ വരെ ഹൈഡ്രോക്ലോറിക് ആസിഡ്നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37full">
+	<TEXT ID="37full_one">
+		<TEXTVALUE>ബ്യൂററ്റിൽ ഫണൽ ഉപയോഗിച്ച് സീറോ രേഖപ്പെടുത്തിയിരിക്കുന്നതിന് തൊട്ട് മുകളിൽ വരെ ഹൈഡ്രോക്ലോറിക് ആസിഡ്നിറയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="371fl copy">
+	<TEXT ID="371fl copy_one">
+		<TEXTVALUE>ബീക്കർ ബ്യൂറ്റിന് താഴെ വയ്ക്കുക, സ്റ്റോപ്പ്കോക്ക് സാവധാനം തുറക്കുന്നതുകൊണ്ട് ഹൈഡ്രോക്ലോറിക് ആസിഡ് ബീക്കറിലേക്ക് വീഴുന്നു, അങ്ങനെ പ്രാഥമിക ബ്യൂററ്റ് റീഡിംഗ് സീറോ ആയി ക്രമപ്പെടുത്തുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36stad21 copy">
+	<TEXT ID="36stad21 copy_one">
+		<TEXTVALUE>ബീക്കർ ബ്യൂറ്റിന് താഴെ വയ്ക്കുക, സ്റ്റോപ്പ്കോക്ക് സാവധാനം തുറക്കുന്നതുകൊണ്ട് ഹൈഡ്രോക്ലോറിക് ആസിഡ്ബീക്കറിലേക്ക് വീഴുന്നു, അങ്ങനെ പ്രാഥമിക ബ്യൂററ്റ് റീഡിംഗ് സീറോ ആയി ക്രമപ്പെടുത്തുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl copy copy">
+	<TEXT ID="53fl copy copy_one">
+		<TEXTVALUE>ബീക്കർ ബ്യൂറ്റിന് താഴെ വയ്ക്കുക, സ്റ്റോപ്പ്കോക്ക് സാവധാനം തുറക്കുന്നതുകൊണ്ട് ഹൈഡ്രോക്ലോറിക് ആസിഡ് ബീക്കറിലേക്ക് വീഴുന്നു, അങ്ങനെ പ്രാഥമിക ബ്യൂററ്റ് റീഡിംഗ് സീറോ ആയി ക്രമപ്പെടുത്തുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla">
+	<TEXT ID="38fla_one">
+		<TEXTVALUE>ഒരു വൃത്തിയായ 20ml പിപ്പറ്റ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17face copy">
+	<TEXT ID="17face copy_one">
+		<TEXTVALUE>കുറച്ച് സോഡിയം കാർബണേറ്റ് ലായനി പിപ്പറ്റിലേക്ക് ഊതി വലിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40faz">
+	<TEXT ID="40faz_one">
+		<TEXTVALUE>കുറച്ച് സോഡിയം കാർബണേറ്റ് ലായനി പിപ്പറ്റിലേക്ക് ഊതി വലിച്ചെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="410zoom5">
+	<TEXT ID="410zoom5_one">
+		<TEXTVALUE>പിപ്പറ്റിൽ ഏതെങ്കിലും ഈർപ്പം ഉള്ളത് മാറ്റുന്നതിന് സോഡിയം കാർബണേറ്റ് ലായനി അടങ്ങിയ പിപ്പറ്റ് ഉരുട്ടി കുലുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42washpip">
+	<TEXT ID="42washpip_one">
+		<TEXTVALUE>notext.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla">
+	<TEXT ID="43fla_one">
+		<TEXTVALUE>തൊട്ട്മുകളിലുള്ള  ലായനി നിരപ്പ് വരെ സ്റ്റാൻഡേർഡ് ഫ്ലാസ്കിൽ നിന്നും സോഡിയം കാർബണേറ്റ് ലായനി പിപ്പറ്റിലേക്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla copy">
+	<TEXT ID="43fla copy_one">
+		<TEXTVALUE>തൊട്ട്മുകളിലുള്ള  ലായനി നിരപ്പ് വരെ സ്റ്റാൻഡേർഡ്ഫ്ലാസ്കിൽ നിന്നുംസോഡിയം കാർബണേറ്റ് ലായനി പിപ്പറ്റിലേക്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="40faz copy">
+	<TEXT ID="40faz copy_one">
+		<TEXTVALUE>തൊട്ട്മുകളിലുള്ള  ലായനി നിരപ്പ് വരെ സ്റ്റാൻഡേർഡ്ഫ്ലാസ്കിൽ നിന്നുംസോഡിയം കാർബണേറ്റ് ലായനി പിപ്പറ്റിലേക്ക് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23">
+	<TEXT ID="46faz23_one">
+		<TEXTVALUE>പിപ്പറ്റിന്റെ തുറന്ന അറ്റം ചൂണ്ട്  വിരൽ ഉപയോഗിച്ച് അടച്ചുപിടിക്കുക, വിരൽ സാവധാനം അയച്ചുകൊടുത്തുകൊണ്ട്, സാവധാനം കൃത്യതരേഖപ്പെടുത്തുന്ന ദ്രാവകനിരപ്പിന്റെ  താഴത്തെ ഭാഗത്ത് കഷ്ടിച്ച് തട്ടുന്നതുവരെ ലായനി താഴേക്ക് വിട്ടുകൊടുക്കുക. ലായനിയുടെ വ്യാപ്തം 20 mlൽ വരണം.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23 copy">
+	<TEXT ID="46faz23 copy_one">
+		<TEXTVALUE>ശേഷം 20ml സോഡിയം കാർബണേറ്റ് ലായനി ഒരു വൃത്തിയായ കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="47faz23zo">
+	<TEXT ID="47faz23zo_one">
+		<TEXTVALUE>പിപ്പറ്റിൽ നിന്നും അവശേഷിക്കുന്ന ലായനി മാറ്റുന്നതിന് കോണിക്കൽ ഫ്ലാസ്കിന് അടിയിലുള്ള പിപ്പറ്റിന്റെ  അഗ്രം സ്പർശിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49org">
+	<TEXT ID="49org_one">
+		<TEXTVALUE>കുറച്ച് മീതൈൽ ഓറഞ്ച് സൂചകം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="49org1">
+	<TEXT ID="49org1_one">
+		<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിലേക്ക് രണ്ട് തുള്ളി മീതൈൽ ഓറഞ്ച് സൂചകം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50org1">
+	<TEXT ID="50org1_one">
+		<TEXTVALUE>കോണിക്കൽ ഫ്ലാസ്കിലെ ലായനിയുടെ നിറം മഞ്ഞയായി മാറുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52full1">
+	<TEXT ID="52full_one">
+		<TEXTVALUE>നിറം മാറ്റം ശരിയായി കാണുന്നതിന് കോണിക്കൽ ഫ്ലാസ്ക് ബ്യൂററ്റിന് താഴെ ഒരു വെള്ള ടൈലിൽ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl">
+	<TEXT ID="53fl_one">
+		<TEXTVALUE>ലായനിയുടെ നിറം മഞ്ഞയിൽ നിന്ന് ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ അവസാനത്തെ ഒറ്റതുള്ളികൊണ്ട് ഇളം ചുവപ്പിലേക്ക് മാറുന്നത് വരെ കോണിക്കൽ ഫ്ലാസ്കിലെ ലായനി സ്ഥിരമായി ചലിപ്പിച്ചുകൊണ്ട് കോണിക്കൽഫ്ലാസ്കിലേക്ക് ബ്യൂററ്റിൽ നിന്നും തുള്ളിതുള്ളിയായി വീഴ്ത്തുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54viu">
+	<TEXT ID="54viu_one">
+		<TEXTVALUE>അവസാനത്തെ ബ്യൂററ്റ് റീഡിംഗ് താഴെ രേഖപ്പെടുത്തുക, പൊരുത്തമുള്ള മൂല്യം ലഭിക്കുന്നതുവരെ ഇതേ നടപടിക്രമം ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart">
+	<TEXT ID="chart_one">
+		<TEXTVALUE>ടാബുലാർ കോളത്തിൽ റീഡിംഗ് രേഖപ്പെടുത്തുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_9">
+		<TEXTVALUE>നിരീക്ഷണങ്ങൾ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_10">
+		<TEXTVALUE>ടാബുലാർ കോളത്തിൽ നിരീക്ഷണങ്ങൾ രേഖപ്പെടുത്തുക</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_11">
+		<TEXTVALUE>പ്രാഥമിക ബൃൂററ്റ്  
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_12">
+		<TEXTVALUE>അവസാനബൃൂററ്റ് 
+റീഡിംഗ്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_13">
+		<TEXTVALUE>(ml)ഉപയോഗിച്ച് 
+HCLൻ്റെ വൃാപ്തം</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="chart1">
+	<TEXT ID="chart1_one">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ് ലായനിയുടെ വ്യാപ്തം, സോഡിയം കാർബണേറ്റ് ലായനിയുടെ മൊളാരിറ്റി, ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ വ്യാപ്തം എന്നിവ റെക്കോഡ് ചെയ്യുക..</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart1_two">
+		<TEXTVALUE>സന്തുലിതാവസ്ഥയിലുള്ള രാസസൂത്രവാക്യത്തിൽ നിന്നുംപ്രവർത്തകവസ്തുക്കളിൽ ഉപയോഗിക്കുന്ന ഏകകങ്ങളുടെ (മോൾസ്)എണ്ണം നേടാൻ സാധിക്കും.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_14">
+		<TEXTVALUE>കണക്കുകൂട്ടലുകൾ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_15">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റും ഹൈഡ്രോക്ലോറിക് ആസിഡും  തമ്മിലുള്ള രാസ രാസപ്രവർത്തനം, ഇങ്ങനെ എഴുതാം. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_01">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ് ലായനിയുടെ വൃാപ്തം = 20ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_02">
+		<TEXTVALUE>സോഡിയം കാർബണേറ്റ് ലായനിയുടെ മൊളാരിറ്റി = 0.1M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_03">
+		<TEXTVALUE>ഹൈഡ്രോക്ലോറിക് ആസിഡിൻ്റെ വൃാപ്തം = 38ml</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_one">
+		<TEXTVALUE>മൊളാരിറ്റി സമവാക്യം ഉപയോഗിച്ച് തന്നിരിക്കുന്ന ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ  മൊളാരിറ്റി കണക്കാക്കാൻ സാധിക്കും.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_two">
+		<TEXTVALUE>തന്നിരിക്കുന്ന ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ അളവ് നിർണ്ണയിക്കുന്നത് ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ മൊളാർമാസ്സും ഹൈഡ്രോക്ലോറിക് ആസിഡിന്റെ മൊളാരിറ്റിയേയും ഗുണിക്കുമ്പോഴാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_16">
+		<TEXTVALUE>മൊളാരിറ്റി സൂത്രവാകൃം അനുസരിച്ച്,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_17">
+		<TEXTVALUE>തന്മുലം,
+ തന്നിരിക്കുന്ന HClൻ്റെ മൊളാരിറ്റി =(2 ×20 × 0.1)/(38 × 1)=0.1M </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_18">
+		<TEXTVALUE>മൊളാർ  മാസ്സ് of HCl = 36.5 g/ mol</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_19">
+		<TEXTVALUE>അതിനാൽ തന്നിരിക്കുന്ന ഹൈഡ്രോക്ലോറിക് ആസിഡിൻ്റെ കാഠിനൃം =HClൻ്റെ മൊളാരിറ്റി  x HClൻ്റെ മാസ്സ് മൊളാർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_2">
+		<TEXTVALUE>പിന്നില്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_12">
+		<TEXTVALUE>HClലെ  മോളുകളുടെ എണ്ണം </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_13">
+		<TEXTVALUE>Na2CO3ലെ  മോളുകളുടെ എണ്ണം </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+</DATA>

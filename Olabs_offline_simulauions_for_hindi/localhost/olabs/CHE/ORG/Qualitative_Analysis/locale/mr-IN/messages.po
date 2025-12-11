@@ -1,0 +1,1916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-05-05 13:58+0530\n"
+"PO-Revision-Date: 2016-05-12 14:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:44
+msgid "Identification of Anions"
+msgstr "ऋण आयन ओळखणे"
+
+#: simcontrols_main.js:51
+msgid "Reset"
+msgstr "पूर्ववत करा."
+
+#: simcontrols_main.js:52 simcontrols_main.js:58
+msgid "Drag the original salt towards the watch glass<br>to put it into the watch glass."
+msgstr "वॉच ग्लास मध्ये मूळ क्षार टाकायला क्षार वॉच ग्लास कडे ओढा"
+
+#: simcontrols_main.js:52
+msgid "Drag the dropper towards the watch glass<br>to drop water into the sample."
+msgstr "नमुन्यात पाणी टाकण्यासाठी ड्रॉपर वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:52
+msgid "Drag the hand towards the watch glass to rub<br>the pre-wetted salt with the fingers."
+msgstr "आधीच ओले केलेले क्षार बोटाने मळण्यासाठी हात वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:53 simcontrols_main.js:56
+msgid "Drag the original salt towards the test tube to<br>put it into the test tube."
+msgstr "परिक्षा नळीत मूळ क्षार टाकायला क्षार वॉच नळी कडे ओढा."
+
+#: simcontrols_main.js:53
+msgid ""
+"Drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub>4</sub> into the test tube."
+msgstr "विरल H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:53 simcontrols_main.js:62 simcontrols_main.js:123
+msgid "Click on the knob of the burner to turn it on. "
+msgstr "बर्नर सुरू करण्यासाठी बटण क्लिक करा."
+
+#: simcontrols_main.js:53
+msgid ""
+"Again drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub>4</sub> into the test "
+"tube."
+msgstr "परत विरल H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:53 simcontrols_main.js:54
+msgid "Drag the dropper towards the test tube to drop potassium<br>permanganate solution into the test tube."
+msgstr "पोटाशियम परमॅंगनेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:54 simcontrols_main.js:57
+msgid "Drag the dropper towards the test tube to drop<br>salt solution into the test tube."
+msgstr "क्षार द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:54
+msgid "Drag the dropper towards the test tube to drop<br>dil. HNO<sub>3</sub> into the test tube."
+msgstr "विरल HNO3 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:54 simcontrols_main.js:55 simcontrols_main.js:56 simcontrols_main.js:59
+#: simcontrols_main.js:60 simcontrols_main.js:63 simcontrols_main.js:82
+msgid "Click on the knob of the burner to turn it on."
+msgstr "बर्नर सुरू करण्यासाठी बटण क्लिक करा."
+
+#: simcontrols_main.js:54
+msgid "Drag the dropper towards the test tube to drop<br>silver nitrate solution into the test tube."
+msgstr "सिल्वर नायट्रेट परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:55 simcontrols_main.js:59
+msgid "Drag the original salt towards the test tube<br>to put it into the test tube."
+msgstr "परिक्षा नळीत मूळ क्षार टाकायला क्षार वॉच नळी कडे ओढा"
+
+#: simcontrols_main.js:55
+msgid "Drag manganese dioxide towards the test tube<br>to put it into the test tube."
+msgstr "मॅंगनीस डायऑक्साइड परिक्षा नळीत टाकण्यासाठी मॅंगनीस डायऑक्साइड नळीकडे ओढा."
+
+#: simcontrols_main.js:55 simcontrols_main.js:56
+msgid ""
+"Drag the dropper towards the test tube to drop<br>conc. H<sub>2</sub>SO<sub>4</sub> into the test tube."
+msgstr "संहत H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:55 simcontrols_main.js:235
+msgid ""
+"Drag the starch-iodide paper towards the test tube to show it<br>in the gas evolved from the test tube."
+msgstr "स्टार्च-आयोडाइड कागद परिक्षा नळीकडे ओढा म्हणजे परिक्षा नळीतून येणार्याओ वायुशी संपर्कात येईल."
+
+#: simcontrols_main.js:56
+msgid "Drag the potassium dichromate powder towards the test tube to<br>put it into the test tube."
+msgstr "पोटाशियम डायक्रोमेट परिक्षा नळीत टाकण्यासाठी पोटाशियम डायक्रोमेट नळीकडे ओढा."
+
+#: simcontrols_main.js:56
+msgid "Drag the cork towards the test tube to close<br>the test tube with it."
+msgstr "परिक्षा नळी बंद करण्यासाठी बूच नळीकडे ओढा"
+
+#: simcontrols_main.js:56
+msgid "Drag the delivery tube towards the test tube to insert it<br>into the test tube through the cork."
+msgstr "वितरण नलिका परिक्षा नळीकडे ओढा म्हणजे बूचातून नलिका आत जाईल."
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the dropper towards the test tube to drop<br>dil. acetic acid (CH<sub>3</sub>COOH) into the test tube."
+msgstr "विरल असेटिक आम्ल (CH3COOH) परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:56
+msgid "Drag the dropper towards the test tube to drop lead acetate solution<br>into the test tube."
+msgstr "लेड एसीटेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:57
+msgid "Drag the dropper towards the test tube to drop dil.HCl<br>into the test tube."
+msgstr "विरल HCl परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:57
+msgid "Drag the dropper towards the test tube to drop<br>carbon disulphide into the test tube."
+msgstr "कार्बन डायसल्फाइड परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:57
+msgid "Drag the dropper towards the test tube to drop<br>chlorine water into the test tube."
+msgstr "क्लोरिन वॉटर परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:57
+msgid "Drag the test tube towards<br>the canvas area to shake it."
+msgstr "परिक्षा नळी हलविण्यासाठी कॅन्वास क्षेत्राकडे ओढा."
+
+#: simcontrols_main.js:58
+msgid "Drag the watch glass towards the canvas area<br>to place it in the canvas area."
+msgstr "वॉच ग्लास कॅन्वास क्षेत्रात ठेवण्यासाठी त्याला कॅन्वास क्षेत्राकडे ओढा."
+
+#: simcontrols_main.js:58
+msgid "Drag the oxalic acid crystals towards the watch glass<br>to put it into watch glass."
+msgstr "ऑक्सेलिक आम्ल स्फटिके वॉच ग्लास मध्ये ठेवण्यासाठी त्यांना वॉच ग्लासकडे ओढा."
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the bottle of distilled water towards the canvas area<br>and drag the dropper towards the watch glass "
+"to<br>drop distilled water into the mixture."
+msgstr "ऊर्ध्वपतित पाण्याची बाटली कॅन्वास क्षेत्राकडे ओढा आणि ऊर्ध्वपतित पाणी मिश्रणात टाकण्यासाठी ड्रॉपर वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:58
+msgid "Drag the hand towards the watch glass to rub<br>the pre-wetted mixture with the fingers."
+msgstr "आधीच ओले केलेले क्षार बोटाने मळण्यासाठी हात वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the bottle of conc.H<sub>2</sub>SO<sub>4</sub> towards the canvas area<br>and drag the dropper "
+"towards the test tube to<br>drop conc. H<sub>2</sub>SO<sub>4</sub> into the salt. "
+msgstr "संहत H2SO4 ची बाटली कॅन्वास क्षेत्राकडे ओढा आणि संहत H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the bottle of ethyl alcohol towards the canvas area<br>and drag the dropper towards the test tube to "
+"drop ethyl alcohol<br>into the test tube."
+msgstr "इथाइल अल्कोहोलची बाटली कॅन्वास क्षेत्राकडे ओढा आणि इथाइल अल्कोहोल परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:59
+msgid "Drag the beaker containing water near the burner<br>to place it in canvas area."
+msgstr "बर्नर जवळचे पाणी असलेले चंचुपात्र कॅन्वास क्षेत्राकडे ओढा. "
+
+#: simcontrols_main.js:59
+msgid ""
+"Click on the test tube and drag it towards the canvas area<br>to shake it well and pour the contents "
+"into<br>beaker containing water."
+msgstr "परिक्षा नळी नीट हलविण्यासाठी आणि त्यातले द्रावण चंचुपात्रात टाकण्यासाठी नळी कॅन्वास क्षेत्राकडे ओढा"
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the dropper towards the first test tube placed<br>in the test tube rack to drop the salt solution<br> "
+"into the test tube."
+msgstr "क्षार द्रावण रॅक वरच्या पहिल्या परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid "Drag the dropper towards the test tube to drop ferric chloride<br>solution into the salt solution."
+msgstr "क्षार द्रावण असलेल्या परिक्षा नळीत फेरिक क्लोराइड द्रावण टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the filter funnel towards the second test tube in the test tube<br>rack to place it over the mouth of "
+"the test tube."
+msgstr "रॅक मधल्या दुसर्या् परिक्षा नळीच्या तोंडाशी फिल्टर नरसाळे ठेवण्यासाठी नरसाळे नळीकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the test tube towards the funnel to filter the contents<br>into the second test tube through the "
+"funnel."
+msgstr "फिल्टर कागद असलेले नरसाळे वापरून दुसर्याय परिक्षा नळीत गळण एकत्र करण्यासाठी नळी नरसाळ्याकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the test tube towards the stand to pour half of the reddish<br>coloured filtrate into the test tube "
+"fixed to the stand."
+msgstr "लाल रंगाच्या गळणातले अर्धे गळण स्टँड वरच्या दुसर्याप परिक्षा नळीत टाकण्यासाठी नळी स्टँडकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the dropper towards the stand to drop water into<br>the test tube containing reddish coloured "
+"filtrate. "
+msgstr "लाल गळण असलेल्या परिक्षा नळीत पाणी टाकण्यासाठी ड्रॉपर स्टँडकडे ओढा."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the dropper towards the test tube in the test tube rack to<br>drop dil. HCl in to the reddish "
+"coloured filtrate."
+msgstr "लाल गळण असलेल्या परिक्षा नळीत विरल HCl टाकण्यासाठी ड्रॉपर स्टँड मधल्या नळीकडे ओढा."
+
+#: simcontrols_main.js:61
+msgid "Drag the original salt towards the stand to put it<br>into the test tube, fixed to the stand."
+msgstr "स्टँडला लावलेल्या परिक्षा नळीत मूळ क्षार टाकायला, क्षार नळी कडे ओढा"
+
+#: simcontrols_main.js:61
+msgid "Drag the dropper towards the test tube to drop conc. H<sub>2</sub>SO<sub>4</sub><br>into the salt."
+msgstr "क्षार असलेल्या परिक्षा नळीत संहत H2SO4 टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:61
+msgid ""
+"If colourless gas with pungent smell is evolved, drag<br>the glass rod towards the bottle containing "
+"aqueous ammonia to dip<br>it in ammonia solution and again drag it towards the test tube<br>to show it in "
+"the colourless gas. "
+msgstr ""
+"जर तिखट वास असलेली रंगहीन वायू निर्माण झाली तर काचेचा रॉड जलयुक्त अमोनिया असलेल्या बाटलीकडे ओढा म्हणजे त्यात ती बुडविल्या "
+"जाईल, आणि मग रॉड परत नळी कडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:61
+msgid ""
+"If reddish brown gas with pungent smell is evolved,<br>drag the starch paper towards the tests tube "
+"to<br>show it in the reddish brown gas."
+msgstr "जर तिखट वास असलेली लाल-तपकिरी वायू निर्माण झाली तर स्टार्च कागद नळी कडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:61
+msgid ""
+"If deep violet vapours with pungent smell is evolevd,<br>drag the starch paper towards the tests tube to "
+"show it<br>in the violet vapours."
+msgstr "जर तिखट वास असलेली गडद जांभळी वायू निर्माण झाली तर स्टार्च कागद नळी कडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:61
+msgid ""
+"If colourless gas is evolved, drag the cork towards the stand<br>to close the test tube fixed to the stand "
+"with it."
+msgstr "जर रंगहीन वायु निर्माण झाली तर परिक्षा नळी बंद करण्यासाठी बूच स्टँडकडे ओढा."
+
+#: simcontrols_main.js:61
+msgid "Drag the delivery tube towards the stand to insert it<br>into the test tube through the cork."
+msgstr "वितरण नलिका परिक्षा नळीकडे ओढा म्हणजे बूचातून नलिका आत जाईल."
+
+#: simcontrols_main.js:62
+msgid "Drag the dropper towards the test tube to drop salt<br>solution into the test tube."
+msgstr "क्षार द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:62
+msgid ""
+"Drag the dropper towards the test tube to<br>drop acetic acid (C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>) "
+"into the test tube."
+msgstr "असेटिक आम्ल (C2H4O2) परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:62
+msgid "Drag the dropper towards the test tube to drop<br>calcium chloride solution into the test tube."
+msgstr "कॅल्शियम क्लोराइड द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:62
+msgid "Drag the dropper towards the test tube to drop<br>dil.HNO<sub>3</sub> into the test tube."
+msgstr "विरल HNO3 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:63
+msgid "Drag the original salt towards the test tube to<br>put it into test tube."
+msgstr "परिक्षा नळीत मूळ क्षार टाकायला क्षार नळी कडे ओढा"
+
+#: simcontrols_main.js:63
+msgid "Drag the dropper towards the test tube to drop<br>dil. H<sub>2</sub>SO<sub>4 into the test tube."
+msgstr "विरल H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:63
+msgid ""
+"Drag the dropper towards the test tube to drop potassium permanganate<br> solution into the test tube."
+msgstr "पोटाशियम परमॅंगनेट परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:64
+msgid "Drag the dropper towards the test tube <br>to drop salt solution into test tube."
+msgstr "क्षार द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:64
+msgid "Drag the dropper towards the test tube <br>to drop magnesia mixture into test tube."
+msgstr "मॅग्नेशिया मिश्रण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:65
+msgid "Physical Examination"
+msgstr "भौतिक परिक्षा"
+
+#: simcontrols_main.js:65
+msgid "Dry Heating Test"
+msgstr "कोरडे गरम करणे परिक्षा"
+
+#: simcontrols_main.js:65
+msgid "Dilute Sulphuric Acid Test"
+msgstr "विरल सल्फ्युरिक आम्ल परिक्षा"
+
+#: simcontrols_main.js:65 simcontrols_main.js:68 simcontrols_main.js:145
+msgid "Potassium permanganate test"
+msgstr "पोटाशियम पारमॅंगनेट परिक्षा"
+
+#: simcontrols_main.js:65
+msgid "Concentrated Sulphuric Acid Test"
+msgstr "संहत सल्फ्युरिक आम्ल परिक्षा"
+
+#: simcontrols_main.js:65
+msgid "Independent Group Test"
+msgstr "स्वतंत्र गट परिक्षा"
+
+#: simcontrols_main.js:66
+msgid "--Select--"
+msgstr "--निवडा--"
+
+#: simcontrols_main.js:66
+msgid "Carbonate"
+msgstr "कार्बोनेट"
+
+#: simcontrols_main.js:66
+msgid "Sulphite"
+msgstr "सल्फाइट"
+
+#: simcontrols_main.js:66
+msgid "Sulphide"
+msgstr "सल्फाइड"
+
+#: simcontrols_main.js:66
+msgid "Nitrite"
+msgstr "नायट्राइट"
+
+#: simcontrols_main.js:66
+msgid "Nitrate"
+msgstr "नायट्रेट"
+
+#: simcontrols_main.js:66
+msgid "Chloride"
+msgstr "क्लोराइड"
+
+#: simcontrols_main.js:66
+msgid "Bromide"
+msgstr "ब्रोमाइड"
+
+#: simcontrols_main.js:66
+msgid "Iodide"
+msgstr "आयोडाइड"
+
+#: simcontrols_main.js:66
+msgid "Acetate"
+msgstr "एसीटेट"
+
+#: simcontrols_main.js:66
+msgid "Oxalate"
+msgstr "ऑक्सेलेट"
+
+#: simcontrols_main.js:66
+msgid "Sulphate"
+msgstr "सल्फेट"
+
+#: simcontrols_main.js:66
+msgid "Phosphate"
+msgstr "फॉस्फेट"
+
+#: simcontrols_main.js:67
+msgid "Colourless and odourless gas"
+msgstr "रंगहीन आणि गंधहीन वायू"
+
+#: simcontrols_main.js:67
+msgid "Colourless gas with odour"
+msgstr "रंगहीन आणि गंध असलेली वायू"
+
+#: simcontrols_main.js:67
+msgid "Coloured gases"
+msgstr "रंगीत वायू"
+
+#: simcontrols_main.js:68
+msgid "Dil HCl test"
+msgstr "विरल HCl परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Magnesium sulphate test"
+msgstr "मॅग्नीशियम सल्फेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Barium chloride test"
+msgstr "बेरियम क्लोराइड परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Potassium dichromate test"
+msgstr "पोटाशियम डायक्रोमेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Sodium nitroprusside test"
+msgstr "सोडियम नायट्रोप्रूसाइड परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Lead acetate test"
+msgstr "लेड एसीटेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Cadmium carbonate test"
+msgstr "केडमियम कार्बोनेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Ferric sulphate test"
+msgstr "फेरिक सल्फेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Starch-iodide test"
+msgstr "स्टार्च-आयोडाइड  परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Diphenylamine test"
+msgstr "डायफीनाईलमाइन परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Copper chip test"
+msgstr "कॉपर चिप्स परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Brown Ring test"
+msgstr "ब्राऊन-रिंग परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:163
+msgid "Silver nitrate test"
+msgstr "सिल्वर नायट्रेट परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Maganese dioxide test"
+msgstr "मॅंगनीस डायऑक्साइड परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Chromyl chloride test"
+msgstr "क्रोमिल क्लोराइड परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:170
+msgid "Chlorine water test"
+msgstr "क्लोरिन वॉटर परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:143
+msgid "Oxalic acid test"
+msgstr "ऑक्सेलिक आम्ल परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:148
+msgid "Ester test"
+msgstr "एस्टर परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:160
+msgid "Ferric chloride test"
+msgstr "फेरिक क्लोराइड परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:172
+msgid "Calcium chloride test"
+msgstr "कॅल्शियम क्लोराइड परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Match stick test"
+msgstr "काडेपेटी परिक्षा"
+
+#: simcontrols_main.js:68
+msgid "Ammonium molybdate test"
+msgstr "अमोनियम मॉलीब्डेट परिक्षा"
+
+#: simcontrols_main.js:68 simcontrols_main.js:177
+msgid "Magnesia mixture test"
+msgstr "मॅग्नेशिया मिश्रण परिक्षा"
+
+#: simcontrols_main.js:69
+msgid "Select the preliminary test:"
+msgstr "प्राथमिक परिक्षा निवडा:"
+
+#: simcontrols_main.js:70
+msgid "Select the confirmation test:"
+msgstr "खात्री करण्याची परिक्षा निवडा:"
+
+#: simcontrols_main.js:71
+msgid "Select the experiment:"
+msgstr "प्रयोग निवडा:"
+
+#: simcontrols_main.js:72
+msgid "Select the subdivision of dry heating test:"
+msgstr "कोरडे गरम करण्याच्या परीक्षेचे उपगट निवडा:"
+
+#: simcontrols_main.js:73
+msgid "Aqueous solution of the salt"
+msgstr "क्षाराचे जलयुक्त द्रावण"
+
+#: simcontrols_main.js:74 simcontrols_main.js:134 simcontrols_main.js:143 simcontrols_main.js:157
+#: simcontrols_main.js:160
+msgid "Water"
+msgstr "पाणी"
+
+#: simcontrols_main.js:80 simcontrols_main.js:146
+msgid "Cork"
+msgstr "बूच"
+
+#: simcontrols_main.js:80
+msgid "Lime water"
+msgstr "चुन्याची निवळी"
+
+#: simcontrols_main.js:80 simcontrols_main.js:146
+msgid "Delivery tube"
+msgstr "वितरण नलिका"
+
+#: simcontrols_main.js:80
+msgid "Lead acetate paper"
+msgstr "लेड एसीटेट कागद"
+
+#: simcontrols_main.js:80 simcontrols_main.js:112
+msgid "Ferrous sulphate"
+msgstr "फेरस सल्फेट"
+
+#: simcontrols_main.js:80
+msgid "Starch iodide paper"
+msgstr "स्टार्च आयोडाइड कागद"
+
+#: simcontrols_main.js:80 simcontrols_main.js:146 simcontrols_main.js:237
+msgid "Starch paper"
+msgstr "स्टार्च कागद"
+
+#: simcontrols_main.js:80 simcontrols_main.js:146
+msgid "Ammonia"
+msgstr "अमोनिया"
+
+#: simcontrols_main.js:80 simcontrols_main.js:163
+msgid "NH<sub>4</sub>OH"
+msgstr "NH<sub>4</sub>OH"
+
+#: simcontrols_main.js:80 simcontrols_main.js:134 simcontrols_main.js:146
+msgid "Glass rod"
+msgstr "काचेचा रॉड"
+
+#: simcontrols_main.js:81
+msgid ""
+"The gas evolved is CO2. CO<sub>3</sub><sup>2-</sup> or C<sub>2</sub>O<sub>4</sub><sup>2- </sup>may be "
+"present."
+msgstr "CO2 वायू निर्माण होते. CO32- किंवा C2O42-  उपस्थित असू शकतात."
+
+#: simcontrols_main.js:81
+msgid "The gas evolved is H<sub>2</sub>S.  Hydrated S<sup>2-</sup> may be present."
+msgstr "H2S वायू निर्माण होते. जलयुक्त S2- उपस्थित असू शकतात."
+
+#: simcontrols_main.js:81
+msgid "The gas evolved is SO<sub>2</sub>. SO<sub>3</sub><sup>2-</sup> may be present."
+msgstr "SO2 वायू निर्माण होते. SO32-उपस्थित असू शकतात."
+
+#: simcontrols_main.js:81
+msgid "The gas evolved is NH<sub>4</sub>Cl. Cl<sup>-</sup> may be present."
+msgstr "NH4Cl वायू निर्माण होते. Cl- उपस्थित असू शकतात."
+
+#: simcontrols_main.js:81
+msgid "CH<sub>3</sub>COO<sup>-</sup> may be present."
+msgstr "CH3COO- उपस्थित असू शकते"
+
+#: simcontrols_main.js:81
+msgid "NO<sub>2</sub><sup>-</sup> or NO<sub>3</sub><sup>-</sup> may be present."
+msgstr "NO2- किंवा NO3- उपस्थित असू शकतात."
+
+#: simcontrols_main.js:81
+msgid "Cl<sup>-</sup> may be present."
+msgstr "Cl- उपस्थित असू शकते."
+
+#: simcontrols_main.js:81
+msgid "I<sup>-</sup> may be present."
+msgstr "I- उपस्थित असू शकते."
+
+#: simcontrols_main.js:81
+msgid "No characteristic change"
+msgstr "काहीही बदल नाही."
+
+#: simcontrols_main.js:82
+msgid "Drag the cork towards the test tube<br> to close the test tube with it."
+msgstr "परिक्षा नळी बंद करण्यासाठी बूच नळीकडे ओढा."
+
+#: simcontrols_main.js:82
+msgid "Drag the delivery tube towards the test tube to insert <br>it into the test tube through the cork."
+msgstr "वितरण नलिका परिक्षा नळीकडे ओढा म्हणजे बूचातून नलिका आत जाईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"Drag test tube containing lime water towards <br>the delivery tube to insert the other end of the "
+"<br>delivery tube in the lime water."
+msgstr "चुन्याची निवळी असलेली परिक्षा नळी वितरण नलिकेकडे ओढा म्हणजे नलिकेचे दुसरे टोक चुन्याच्या निवळीत जाईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"If colourless gas with the smell of rotten egg <br>is evolved, drag the lead acetate paper towards the "
+"<br>test tube to show it in the gas."
+msgstr ""
+"जर सडलेल्या अंड्याचा वास असणारी रंगहीन वायू निर्माण झाली, तर लेड एसीटेट कागद परिक्षा नळीकडे ओढा म्हणजे तो वायू च्या "
+"संपर्कात येईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"If  colourless gas with pungent smell is <br>evolved, drag the glass rod towards the bottle containing "
+"<br>aqueous ammonia to dip it in ammonia solution and again drag it <br>towards the test tube to show it "
+"in the colourless gas."
+msgstr ""
+"जर तिखट वास असलेली रंगहीन वायू निर्माण झाली तर काचेचा रॉड जलयुक्त अमोनिया असलेल्या बाटलीकडे ओढा म्हणजे त्यात ती बुडविल्या "
+"जाईल, आणि मग रॉड परत नळी कडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"If reddish brown fumes are evolved,<br> drag the test tube containing ferrous sulphate solution "
+"<br>towards the delivery tube to insert the other end of <br>the delivery tube in the ferrous sulphate "
+"solution."
+msgstr ""
+"जर लाल-तपकिरी धूर निर्माण झाला, तर फेरस सल्फेट द्रावण असलेली परिक्षा नळी वितरण नलिकेकडे ओढा म्हणजे नलिकेचे दुसरे टोक "
+"द्रावणात जाईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"If greenish yellow gas is evolved,drag the <br>starch-iodide paper towards the test tube to <br>shown it "
+"in the greenish yellow gas."
+msgstr "जर हिरवट पिवळी वायू निर्माण झाली, तर स्टार्च-आयोडाइड कागद परिक्षा नळीकडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:82
+msgid ""
+"If dark violet vapours are evolved, <br>drag the starch paper towards the tests tube <br>to show it in the "
+"violet vapours."
+msgstr "जर गडद जांभळी वायू निर्माण झाली तर स्टार्च कागद नळी कडे ओढा म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:83
+msgid ""
+"Again drag the glass rod over the mouth of the test tube to <br>show it on the gas coming out of the test "
+"tube."
+msgstr "परत रॉड नळीच्या तोंडाकडे ओढा म्हणजे तो नळीतून निघणार्या  वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:84
+msgid "Drag the dropper towards the test tube <br>to drop dil.HCl into the test tube."
+msgstr "विरल HCl परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:84 simcontrols_main.js:89
+msgid "Drag the cork towards the test tube <br>to close the test tube with it."
+msgstr "परिक्षा नळी बंद करण्यासाठी बूच नळीकडे ओढा."
+
+#: simcontrols_main.js:84
+msgid "Drag the delivery tube towards the test tube to insert it<br> into the test tube through the cork."
+msgstr "वितरण नलिका परिक्षा नळीकडे ओढा म्हणजे बूचातून नलिका आत जाईल."
+
+#: simcontrols_main.js:84
+msgid ""
+"Drag test tube containing lime water towards the delivery tube <br>to insert the other end of the delivery "
+"tube in the lime water."
+msgstr "चुन्याची निवळी असलेली परिक्षा नळी वितरण नलिकेकडे ओढा म्हणजे नलिकेचे दुसरे टोक चुन्याच्या निवळीत जाईल."
+
+#: simcontrols_main.js:84
+msgid "Drag the dropper towards the test tube to drop <br>magnesium sulphate solution into the test tube."
+msgstr "मॅग्नीशियम सल्फेट परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:85
+msgid "Colourless gas with the smell of <br>rotten eggs turns lead acetate paper black"
+msgstr "सडलेल्या अंड्याचा वास असणारी रंगहीन वायू लेड एसीटेट कागदाला काळे बनविते."
+
+#: simcontrols_main.js:85
+msgid "Colourless gas with smell <br> of burning sulphur."
+msgstr "जळलेल्या सल्फरचा वास असणारी रंगहीन वायू."
+
+#: simcontrols_main.js:85
+msgid "Colourless gas with pungent smell, <br>gives white fumes with ammonia."
+msgstr "तिखट वास असणारी रंगहीन वायू अमोनियाच्या संपर्कात आल्यावर पांढरा धूर निर्माण करते"
+
+#: simcontrols_main.js:85
+msgid "Colourless gas with the smell of vinegar."
+msgstr "विनिगरचा वास असणारी रंगहीन वायू"
+
+#: simcontrols_main.js:87
+msgid "Acidified potassium dichromate paper"
+msgstr "आम्लन केलेले पोटाशियम डायक्रोमेट कागद"
+
+#: simcontrols_main.js:88
+msgid "The gas evolved is CO<sub>2</sub>. This may be due to the presence of CO<sub>3</sub><sup>2-</sup>."
+msgstr "CO2 वायू निर्माण होते. CO32- च्या उपस्थितीमुळे हे होत असेल."
+
+#: simcontrols_main.js:88
+msgid "The gas evolved is H<sub>2</sub>S. This may be due to the presence of S<sup>2-</sup>."
+msgstr "H2S वायू निर्माण होते. S2- च्या उपस्थितीमुळे हे होत असेल."
+
+#: simcontrols_main.js:88
+msgid "The gas evolved is SO<sub>2</sub>. This may be due to the presence of SO<sub>3</sub><sup>2-</sup>."
+msgstr "SO2 वायू निर्माण होते. SO32- च्या उपस्थितीमुळे हे होत असेल."
+
+#: simcontrols_main.js:88
+msgid "The gas evolved is NO<sub>2</sub>. This may be due to the presence of NO<sub>2</sub><sup>-</sup>."
+msgstr "NO2 वायू निर्माण होते. NO2- च्या उपस्थितीमुळे हे होत असेल."
+
+#: simcontrols_main.js:89 simcontrols_main.js:120
+msgid ""
+"Drag the dropper towards the test tube <br>to drop dil.H<sub>2</sub>SO<sub>4</sub> into the test tube."
+msgstr "विरल H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:89
+msgid ""
+"If colourless gas with the smell of rotten egg<br> is evolved, drag the lead acetate paper towards <br>the "
+"test tube to show it in the gas."
+msgstr ""
+"जर सडलेल्या अंड्याचा वास असणारी रंगहीन वायू निर्माण झाली, तर लेड एसीटेट कागद परिक्षा नळीकडे ओढा म्हणजे तो वायू च्या "
+"संपर्कात येईल."
+
+#: simcontrols_main.js:89
+msgid ""
+"If colourless gas with the smell of burning sulphur <br>is evolved, drag the acidified potassium "
+"dichromate paper <br>towards the test tube to show it in the gas."
+msgstr ""
+"जर जळलेल्या सल्फरचा वास असणारी रंगहीन वायू निर्माण झाली, तर आम्लन केलेला पोटाशियम डायक्रोमेट कागद परिक्षा नळीकडे ओढा "
+"म्हणजे तो वायू च्या संपर्कात येईल."
+
+#: simcontrols_main.js:89
+msgid ""
+"If reddish brown fumes are evolved, drag the <br>test tube containing ferrous sulphate solution "
+"<br>towards the delivery tube to insert the other end of <br>the delivery tube in the ferrous sulphate "
+"solution."
+msgstr ""
+"जर लाल-तपकिरी धूर निर्माण झाला तर फेरस सल्फेट द्रावण असलेली परिक्षा नळी वितरण नलिकेकडे ओढा म्हणजे नलिकेचे दुसरे टोक "
+"द्रावणात जाईल."
+
+#: simcontrols_main.js:89
+msgid ""
+"If colourless odourless gas with brisk effervescence <br>is seen, drag the test tube containing lime water "
+"towards <br>the delivery tube to insert the other end of the <br>delivery tube in the lime water."
+msgstr ""
+"जर खूप बुडबुडे दिसले आणि रंगहीन, गंधहीन वायू निर्माण झाला तर, चुन्याची निवळी असलेली परिक्षा नळी वितरण नलिकेकडे ओढा म्हणजे "
+"नलिकेचे दुसरे टोक चुन्याच्या निवळीत जाईल."
+
+#: simcontrols_main.js:89
+msgid "Drag the delivery tube towards the test tube to <br>insert it into the test tube through the cork."
+msgstr "वितरण नलिका परिक्षा नळीकडे ओढा म्हणजे बूचातून नलिका आत जाईल."
+
+#: simcontrols_main.js:91
+msgid "Conc. HNO<sub>3</sub>"
+msgstr "संहत HNO3"
+
+#: simcontrols_main.js:92
+msgid "Ammonium molybdate"
+msgstr "अमोनियम मॉलीब्डेट"
+
+#: simcontrols_main.js:93
+msgid "This indicates the presence of SO<sub>4</sub><sup>2-</sup>. "
+msgstr "हे SO42- ची उपस्थिती दर्शविते."
+
+#: simcontrols_main.js:93
+msgid "This indicates he presence of PO<sub>4</sub><sup>3-</sup>."
+msgstr "हे PO43- ची उपस्थिती दर्शविते."
+
+#: simcontrols_main.js:94
+msgid "Drag the funnel towards the test tube <br>to place it over the mouth of  the test tube."
+msgstr "नरसाळे परिक्षा नळीच्या तोंडाला लावण्यासाठी त्याला नळीकडे ओढा."
+
+#: simcontrols_main.js:94
+msgid ""
+"Drag the test tube towards the funnel to<br>filter the contents into the other test tube through the "
+"funnel."
+msgstr "परिक्षा नळीतले द्रावण नरसाळ्यातून गाळून दुसर्याल परिक्षा नळीत एकत्र करण्यासाठी नळी नरसाळ्याकडे ओढा."
+
+#: simcontrols_main.js:94
+msgid "Drag the dropper towards the test tube to <br>drop dil.HNO<sub>3</sub> into the test tube."
+msgstr "विरल HNO3 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:94
+msgid "Drag the dropper towards the test tube to<br> drop ammonium molybdate solution into the test tube."
+msgstr "अमोनियम मॉलीब्डेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:96 simcontrols_main.js:160
+msgid "Dil.HCl"
+msgstr "विरल HCl"
+
+#: simcontrols_main.js:96
+msgid "MgSO<sub>4</sub>"
+msgstr "MgSO<sub>4</sub>"
+
+#: simcontrols_main.js:97
+msgid "The gas evolved is CO<sub>2</sub>."
+msgstr "CO2 वायू निर्माण होते. "
+
+#: simcontrols_main.js:97
+msgid "The white precipitate is MgCO<sub>3</sub>."
+msgstr "पांढरे अवक्षेपण MgCO3 चे आहे."
+
+#: simcontrols_main.js:97
+msgid ""
+"CO<sub>2</sub> reacts with lime water  to form  white precipitate of CaCO<sub>3</sub> <br>which is "
+"responsible for the milkness."
+msgstr "CO2 आणि चुन्याच्या निवळीची अभिक्रिया होते आणि CaCO3 चे पांढरे अवक्षेपण निर्माण होते, ज्यामुळे द्रावण दुधासारखे दिसते."
+
+#: simcontrols_main.js:99
+msgid "Acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>"
+msgstr "आम्लन केलेले K2Cr2O7"
+
+#: simcontrols_main.js:99
+msgid "Acidified KMnO<sub>4</sub>"
+msgstr "आम्लन केलेले KMnO4"
+
+#: simcontrols_main.js:99
+msgid "Na<sub>2</sub>[Fe(CN)<sub>5</sub>NO]"
+msgstr "Na<sub>2</sub>[Fe(CN)<sub>5</sub>NO]"
+
+#: simcontrols_main.js:99
+msgid "Pb(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>"
+msgstr "Pb(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>"
+
+#: simcontrols_main.js:99
+msgid "CdCO<sub>2</sub>"
+msgstr "CdCO<sub>2</sub>"
+
+#: simcontrols_main.js:99
+msgid "C12H11N"
+msgstr "C12H11N"
+
+#: simcontrols_main.js:100 simcontrols_main.js:134
+msgid "Sodium nitroprusside"
+msgstr "सोडियम नायट्रोप्रूसाइड"
+
+#: simcontrols_main.js:100 simcontrols_main.js:168
+msgid "Lead acetate"
+msgstr "लेड एसीटेट"
+
+#: simcontrols_main.js:100
+msgid "Cadmium carbonate"
+msgstr "केडमियम कार्बोनेट"
+
+#: simcontrols_main.js:100
+msgid "Diphenylamine"
+msgstr "डायफीनाईलमाइन"
+
+#: simcontrols_main.js:101 simcontrols_main.js:102
+msgid "The purple or violet colouration is due to the formation of Na<sub>4</sub>[Fe(CN)<sub>5</sub>NOS]."
+msgstr "Na4[Fe(CN)5NOS] निर्माण झाल्यामुळे जांभळा रंग दिसतो."
+
+#: simcontrols_main.js:101 simcontrols_main.js:102
+msgid "The black precipitate is lead sulphide (PbS)."
+msgstr "काळे अवक्षेपण लेड सल्फाइड असते. (PbS)"
+
+#: simcontrols_main.js:101 simcontrols_main.js:102
+msgid "The yellow precipitate is cadmium sulphide (CdS)."
+msgstr "पिवळे अवक्षेपण केडमियम सल्फाइड असते. (CdS)"
+
+#: simcontrols_main.js:102
+msgid "This confirms the presence of sulphite ion."
+msgstr "सल्फाइट आयनच्या उपस्थितीची पुष्टी करते."
+
+#: simcontrols_main.js:102
+msgid "In the presence of nitrite diphenylamine gets oxidised, giving a blue colouration."
+msgstr "नायट्राइटच्या उपस्थितीत डायफीनलमाइनचे ओक्सिडीकरण होते आणि निळा रंग निर्माण होतो."
+
+#: simcontrols_main.js:103
+msgid ""
+"Drag the dropper towards the test tube to drop acidified <br>potassium dichromate solution into the test "
+"tube."
+msgstr "आम्लन केलेले पोटाशियम डायक्रोमेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:104
+msgid ""
+"Drag the dropper towards the test tube to drop <br>acidified potassium permanganate solution into the test "
+"tube."
+msgstr "आम्लन केलेले पोटाशियम परमॅंगनेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:105
+msgid "Drag the dropper towards the test tube to drop <br>sodium nitroprusside solution into the test tube."
+msgstr "सोडियम नायट्रोप्रूसाइड द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:106
+msgid "Drag the dropper towards the test tube to drop<br> lead acetate solution into the test tube."
+msgstr "लेड एसीटेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:107
+msgid "Drag the dropper towards the test tube to drop <br>cadmium carbonate suspension into the test tube."
+msgstr "केडमियम कार्बोनेट कणयुक्त द्रव परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:108
+msgid "Drag the dropper towards the test tube to <br>drop diphenylamine into the test tube."
+msgstr "डायफीनाइलमाइन परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:111
+msgid "BaCl<sub>2</sub>"
+msgstr "BaCl<sub>2</sub>"
+
+#: simcontrols_main.js:111
+msgid "Barium chloride"
+msgstr "बेरियम क्लोराइड"
+
+#: simcontrols_main.js:111
+msgid "Dil. hydrochloric acid"
+msgstr "विरल हायड्रोक्लोरिक आम्ल"
+
+#: simcontrols_main.js:111
+msgid "Dil. HCl"
+msgstr "विरल HCl"
+
+#: simcontrols_main.js:112
+msgid "FeSO<sub>4</sub> (aq)"
+msgstr "FeSO4(द्र)"
+
+#: simcontrols_main.js:112
+msgid "Dil. acetic acid"
+msgstr "विरल असेटीक आम्ल"
+
+#: simcontrols_main.js:112 simcontrols_main.js:168
+msgid "Dil. CH<sub>3</sub>COOH"
+msgstr "विरल CH3COOH"
+
+#: simcontrols_main.js:113
+msgid "The white precipitate is barium sulphite(BaSO<sub>4</sub>)."
+msgstr "पांढरे अवक्षेपण बेरियम सल्फाइट आहे. (BaSO4)"
+
+#: simcontrols_main.js:113
+msgid "Barium sulphite dissolves in Dil. HCl with the liberation of SO<sub>2</sub> gas."
+msgstr "बेरियम सल्फाइट विरल HCl मध्ये विरघळते आणि SO2 वायू निर्माण होते."
+
+#: simcontrols_main.js:113
+msgid "The black colour is due to the formation of FeSO<sub>4</sub>.NO."
+msgstr "FeSO4.NO निर्माण झाल्यामुळे काळा रंग दिसतो."
+
+#: simcontrols_main.js:115
+msgid "Drag the dropper towards the test tube to drop <br>barium chloride solution into the test tube."
+msgstr "बेरियम क्लोराइड द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:115
+msgid "Drag the dropper towards the test tube to <br>drop dil.HCl into the test tube."
+msgstr "विरल HCl परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:116
+msgid "Drag the dropper towards the test tube to drop <br>ferrous sulphate solution into the test tube."
+msgstr "फेरस सल्फेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:116
+msgid "Drag the dropper towards the test tube <br>to drop acetic acid into the test tube."
+msgstr "असेटिक आम्ल परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:118
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub> "
+msgstr "विरल H2SO4"
+
+#: simcontrols_main.js:118
+msgid "Potassium iodide"
+msgstr "पोटाशियम आयोडाइड"
+
+#: simcontrols_main.js:118
+msgid "Starch solution"
+msgstr "स्टार्च द्रावण"
+
+#: simcontrols_main.js:118
+msgid "KI"
+msgstr "KI"
+
+#: simcontrols_main.js:119
+msgid "Iodine liberated during the reaction forms a blue-black complex with strach."
+msgstr "अभिक्रियेदरम्यान निर्माण झालेले आयोडीन हे स्टार्च बरोबर निळे-काळे कॉम्प्लेक्स बनविते."
+
+#: simcontrols_main.js:120
+msgid "Drag the dropper towards the test tube <br>to drop potassium iodide solution into the test tube."
+msgstr "पोटाशियम आयोडाइड परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:120
+msgid "Drag the dropper towards the test tube <br>to drop starch solution into the test tube."
+msgstr "स्टार्च द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:122
+msgid "Conc. Sulphuric acid"
+msgstr "संहत सल्फ्युरिक आम्ल"
+
+#: simcontrols_main.js:122 simcontrols_main.js:144 simcontrols_main.js:153 simcontrols_main.js:165
+msgid "Conc. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "संहत H2SO4"
+
+#: simcontrols_main.js:122
+msgid "Copper chips"
+msgstr "कॉपर चिप्स"
+
+#: simcontrols_main.js:123 simcontrols_main.js:127
+msgid ""
+"Drag the dropper towards the test tube <br>to drop conc.H<sub>2</sub>SO<sub>4</sub> into the test tube."
+msgstr "संहत H2SO4 परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:123
+msgid "Drag the forceps towards the test tube to<br> put the copper chips into the test tube."
+msgstr "कॉपर चिप्स परिक्षा नळीत टाकण्यासाठी फोरसेप नळीकडे ओढा."
+
+#: simcontrols_main.js:124
+msgid "The reddish-brown fumes is due to the formation of NO<sub>2</sub> gas."
+msgstr "NO2 वायू निर्माण झाल्यामुळे लाल-तपकिरी धूर येतो."
+
+#: simcontrols_main.js:126
+msgid "  Conc. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "संहत H2SO4"
+
+#: simcontrols_main.js:127
+msgid "Drag the dropper towards the test tube to <br>drop ferrous sulphate solution into the test tube."
+msgstr "फेरस सल्फेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:128
+msgid ""
+"The brown ring is due to the formation of <br> nitrosonium complex [Fe(NO)(H<sub>2</sub>O)<sub>5]</"
+"sub>SO<sub>4</sub>"
+msgstr "[Fe(NO)(H2O)5]SO4 नायट्रोसोनियम कॉम्प्लेक्स निर्माण झाल्यामुळे तपकिरी वर्तुळ दिसते."
+
+#: simcontrols_main.js:130
+msgid "BaSO<sub>4</sub> is insoluble in Dil. HCl"
+msgstr "विरल HCl मध्ये BaSO4 अविद्राव्य आहे."
+
+#: simcontrols_main.js:130
+msgid "The white precipitate is lead sulphate (PbSO<sub>4</sub>)"
+msgstr "पांढरे अवक्षेपण लेड सल्फेट (PbSO4) आहे."
+
+#: simcontrols_main.js:130
+msgid "PbSO<sub>4</sub> is insoluble in excess of hot ammonium acetate."
+msgstr "PbSO4 अत्याधिक गरम अमोनियम एसीटेट मध्ये अविद्राव्य आहे."
+
+#: simcontrols_main.js:131
+msgid "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+msgstr "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+
+#: simcontrols_main.js:131
+msgid "Hot ammonium acetate "
+msgstr "गरम अमोनियम एसीटेट"
+
+#: simcontrols_main.js:132
+msgid "Drag the dropper towards the test tube to<br> drop lead acetate solution into the test tube."
+msgstr "लेड एसीटेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:132
+msgid "Drag the dropper towards the test tube to drop <br>hot ammonium acetate solution into the test tube. "
+msgstr "गरम अमोनियम एसीटेट द्रावण परिक्षा नळीत टाकण्यासाठी ड्रॉपर नळीकडे ओढा."
+
+#: simcontrols_main.js:134
+msgid "Sodium carbonate "
+msgstr "सोडियम कार्बोनेट"
+
+#: simcontrols_main.js:134
+msgid "Charcoal "
+msgstr "कोळसा"
+
+#: simcontrols_main.js:134
+msgid "Match stick"
+msgstr "काडेपेटी"
+
+#: simcontrols_main.js:135
+msgid "This confirms the presence of sulphate"
+msgstr "सल्फेटच्या उपस्थितीची पुष्टी करते"
+
+#: simcontrols_main.js:136
+msgid "Drag the spatula towards the watch glass to <br>add sodium carbonate into the original salt. "
+msgstr "मूळ क्षारात सोडियम कार्बोनेट टाकण्यासाठी स्पाट्युला वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:136
+msgid "Drag the spatula towards the watch glass to<br> put powdered charcoal into the watch glass."
+msgstr "कोळशाची पावडर वॉच ग्लास मध्ये ठेवण्यासाठी स्पाट्युला वॉच ग्लासकडे ओढा."
+
+#: simcontrols_main.js:136
+msgid "Drag the bottle of distilled water towards the watch<br> glass to drop water into the mixture."
+msgstr "मिश्रणात ऊर्ध्वपतित पाणी टाकण्यासाठी बाटली वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:136
+msgid "Drag glass rod towards the  watch glass to<br> mix the contents of the watch glass."
+msgstr "वॉच ग्लासमधील सामग्री मिसळण्यासाठी काचेचा रॉड वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:136
+msgid ""
+"Drag the dish containing sodium nitroprusside solution <br>towards the watch glass to place it in the "
+"canvas area. "
+msgstr "सोडियम नायट्रोप्रूसाइड असलेली ताटली कॅन्वास क्षेत्रात ठेवण्यासाठी ताटली वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:136
+msgid ""
+"Click on the knob of the burner to turn it on <br>and click on the air adjusting disc to close the <br>air "
+"hole to get the reducing flame."
+msgstr ""
+"बर्नर सुरू करण्यासाठी बटण क्लिक करा आणि हवेवर नियंत्रण ठेवणारी चकती हलवून भोक बंद करा म्हणजे क्षपणन करणारी ज्योत मिळेल."
+
+#: simcontrols_main.js:136
+msgid "Drag match stick towards the watch glass <br>to dip it into the mixture."
+msgstr "काडे पेटी मिश्रणात बुडविण्यासाठी तिला वॉच ग्लास कडे ओढा."
+
+#: simcontrols_main.js:136
+msgid ""
+"Drag match stick towards the burner <br>to heat the mixture on the tip of the match stick <br>in the "
+"reducing flame."
+msgstr "काडे पेटीच्या टोकावरचे मिश्रण क्षपणन करणार्या  ज्योतीत गरम करण्यासाठी तिला बर्नरकडे ओढा."
+
+#: simcontrols_main.js:136
+msgid "Drag match stick towards the dish to dip the fused <br>mass into the sodium nitroprusside solution."
+msgstr "काडे पेटीच्या टोकावरचे गरम मिश्रण सोडियम नायट्रोप्रूसाइड मिश्रणात बुडविण्यासाठी तिला ताटलीकडे ओढा."
+
+#: simcontrols_main.js:138
+msgid ""
+"The deep yellow precipitate is ammonium phosphate molybdate <br>{(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</"
+"sub>.12MoO<sub>3</sub>.6H<sub>2</sub>O}."
+msgstr "गडद पिवळ्या रंगाचे अवक्षेपण अमोनियम फॉस्फेट मॉलीब्डेट {(NH4)3PO4.12MoO3.6H2O} आहे."
+
+#: simcontrols_main.js:139 simcontrols_main.js:158 simcontrols_main.js:160 simcontrols_main.js:164
+#: simcontrols_main.js:166 simcontrols_main.js:168 simcontrols_main.js:172 simcontrols_main.js:177
+msgid "There is no characteristic changes"
+msgstr "काहीही बदल होत नाही."
+
+#: simcontrols_main.js:141
+msgid "Vinegar like smell"
+msgstr "विनिगर सारखा वास"
+
+#: simcontrols_main.js:141
+msgid "Smell like that of rotten eggs"
+msgstr "सडक्या अंड्या सारखा वास."
+
+#: simcontrols_main.js:141
+msgid "There is no smell"
+msgstr "कुठलाही वास नाही."
+
+#: simcontrols_main.js:141
+msgid "Presence of acetate ion."
+msgstr "एसीटेट आयन उपस्थित"
+
+#: simcontrols_main.js:141
+msgid "This may be due to the presence of CH<sub>3</sub>COO<sup>-</sup>."
+msgstr "CH3COO- च्या उपस्थिती मुळे हे होऊ शकते."
+
+#: simcontrols_main.js:141
+msgid "There is no characteristic changes."
+msgstr "काहीही बदल होत नाही."
+
+#: simcontrols_main.js:143
+msgid "Watch glass"
+msgstr "वॉच ग्लास"
+
+#: simcontrols_main.js:143
+msgid "Distilled water"
+msgstr "ऊर्ध्वपतित पाणी"
+
+#: simcontrols_main.js:143
+msgid "Hand"
+msgstr "हात"
+
+#: simcontrols_main.js:143
+msgid "Oxalic acid"
+msgstr "ऑक्सेलिक आम्ल"
+
+#: simcontrols_main.js:143 simcontrols_main.js:144 simcontrols_main.js:152 simcontrols_main.js:165
+#: simcontrols_main.js:168 simcontrols_main.js:170 simcontrols_main.js:172 simcontrols_main.js:177
+msgid "Original salt"
+msgstr "मूळ क्षार"
+
+#: simcontrols_main.js:144 simcontrols_main.js:149 simcontrols_main.js:154 simcontrols_main.js:165
+msgid "H<sub>2</sub>SO<sub>4</sub>"
+msgstr "H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols_main.js:144
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "विरल H2SO4"
+
+#: simcontrols_main.js:144
+msgid "KMnO<sub>4</sub>"
+msgstr "KMnO<sub>4</sub>"
+
+#: simcontrols_main.js:144 simcontrols_main.js:160 simcontrols_main.js:170 simcontrols_main.js:172
+#: simcontrols_main.js:177
+msgid "Salt"
+msgstr "क्षार"
+
+#: simcontrols_main.js:144
+msgid "Salt solution"
+msgstr "क्षार द्रावण"
+
+#: simcontrols_main.js:145
+msgid "Potassium permanganate"
+msgstr "पोटाशियम परमॅंगनेट"
+
+#: simcontrols_main.js:145
+msgid "This may be due to the presence of Cl<sup>-</sup>."
+msgstr "Cl- च्या उपस्थिती मुळे हे होऊ शकते."
+
+#: simcontrols_main.js:145
+msgid "This may be due to the presence of Br<sup>-</sup>."
+msgstr "Br- च्या उपस्थिती मुळे हे होऊ शकते."
+
+#: simcontrols_main.js:145
+msgid "This may be due to the presence of I<sup>-</sup>."
+msgstr "I- च्या उपस्थिती मुळे हे होऊ शकते."
+
+#: simcontrols_main.js:145
+msgid "The potassium permanganate does not decolorized"
+msgstr "पोटाशियम परमॅंगनेटचा रंग जात नाही."
+
+#: simcontrols_main.js:145
+msgid ""
+"The pink colour of potassium permanganate is decolourised<br> with the evolution of carbon dioxide gas."
+msgstr "कार्बन डायऑक्साइड वायू निर्माण झाल्यामुळे पोटाशियम परमॅंगनेटचा गुलाबी रंग उडून जातो. "
+
+#: simcontrols_main.js:145
+msgid "Potassium permanganate not decolorized and <br>there is no characteristic changes"
+msgstr "पोटाशियम परमॅंगनेटचा रंग जात नाही आणि काहीही बदल होत नाही."
+
+#: simcontrols_main.js:146
+msgid "Conc. sulphuric acid test"
+msgstr "संहत सल्फ्युरिक आम्ल परिक्षा"
+
+#: simcontrols_main.js:146
+msgid "Aqueous ammonia"
+msgstr "जलयुक्त अमोनिया"
+
+#: simcontrols_main.js:146
+msgid "A pungent irritating smell"
+msgstr "तिखट त्रास देणारा वास"
+
+#: simcontrols_main.js:146
+msgid "Reddish brown gas with pungent smell"
+msgstr "तिखट वास असलेली लाल-तपकिरी वायू"
+
+#: simcontrols_main.js:146
+msgid "Pungent smell"
+msgstr "तिखट वास"
+
+#: simcontrols_main.js:146
+msgid "Colourless gass"
+msgstr "रंगहीन वायू"
+
+#: simcontrols_main.js:146
+msgid ""
+"The gas evolved is CO<sub>2</sub>. This may be due to the presence of C<sub>2</sub>O<sub>4</sub><sup>2-</"
+"sup>."
+msgstr "CO2 वायू निर्माण होते. C2O42- उपस्थित असल्यामुळे हे होत असावे."
+
+#: simcontrols_main.js:146
+msgid "The gas evolved is HCl. This may be due to the presence of Cl<sup>-</sup>."
+msgstr "HCl वायू निर्माण होते. Cl- उपस्थित असल्यामुळे हे होत असावे."
+
+#: simcontrols_main.js:146
+msgid "The gas evolved is Br<sub>2</sub>. This may be due to the presence of Br<sup>-</sup>."
+msgstr "Br2 वायू निर्माण होते. Br- उपस्थित असल्यामुळे हे होत असावे."
+
+#: simcontrols_main.js:146
+msgid "The gas evolved is I<sub>2</sub>. This may be due to the presence of I<sup>-</sup>."
+msgstr "I2 वायू निर्माण होते. I- उपस्थित असल्यामुळे हे होत असावे."
+
+#: simcontrols_main.js:146
+msgid "Lime Water"
+msgstr "चुन्याची निवळी"
+
+#: simcontrols_main.js:150 simcontrols_main.js:156
+msgid "Ethyl alcohol"
+msgstr "इथाइल अल्कोहोल"
+
+#: simcontrols_main.js:151
+msgid "Pleasant fruity smell of ester"
+msgstr "एस्टर चा फळांसारखा सुगंध"
+
+#: simcontrols_main.js:155
+msgid "ethyl a"
+msgstr "इथाइल ए"
+
+#: simcontrols_main.js:158
+msgid "The fruity smell is due to the formation of ethyl acetate."
+msgstr "इथाइल एसीटेट निर्माण झाल्यामुळे फळांसारखा सुगंध येतो."
+
+#: simcontrols_main.js:160
+msgid "Filter funnel"
+msgstr "फिल्टर नरसाळे"
+
+#: simcontrols_main.js:160
+msgid "FeCl<sub>3</sub>"
+msgstr "FeCl<sub>3</sub>"
+
+#: simcontrols_main.js:160
+msgid "The reddish coloured filtrate is due to the formation of (CH<sub>3</sub>COO)<sub>3</sub>Fe."
+msgstr "(CH3COO)3Fe निर्माण झाल्यामुळे लाल रंगाचे अवक्षेपण दिसते"
+
+#: simcontrols_main.js:160
+msgid "Reddish colour disappears. This confirms the presence of acetate ion."
+msgstr "लाल रंग अदृश्य होतो. म्हणजे एसीटेट आयन उपस्थित आहे."
+
+#: simcontrols_main.js:160
+msgid "The reddish brown precipitate is due to the formation of (CH<sub>3</sub>COO) (OH<sub>2</sub>) Fe"
+msgstr "(CH3COO) (OH2) Fe निर्माण झाल्यामुळे लाल रंगाचे अवक्षेपण दिसते"
+
+#: simcontrols_main.js:163 simcontrols_main.js:172
+msgid "HNO<sub>3</sub>"
+msgstr "HNO<sub>3</sub>"
+
+#: simcontrols_main.js:163
+msgid "Dil. HNO<sub>3</sub>"
+msgstr "विरल HNO3"
+
+#: simcontrols_main.js:163
+msgid "AgNO<sub>3</sub>"
+msgstr "AgNO<sub>3</sub>"
+
+#: simcontrols_main.js:164
+msgid ""
+"The white precipitate is silver chloride which dissolved in<br> ammonium hydroxide to form the soluble "
+"complex, [Ag(NH<sub>3</sub>)<sub>2</sub>]Cl."
+msgstr ""
+"पांढरे अवक्षेपण सिल्वर क्लोराइडचे असते, जे अमोनियम हायड्रोऑक्साइड मध्ये विरघळून [Ag(NH3)2]Cl असे विरघळणारे कॉम्प्लेक्स निर्माण "
+"करते."
+
+#: simcontrols_main.js:164
+msgid "The pale yellow precipitate is silver bromide which<br> is sparingly soluble in ammonium hydroxide."
+msgstr "फिकट पिवळे अवक्षेपण सिल्वर ब्रोमाइडचे असते, जे अमोनियम हायड्रोऑक्साइड मध्ये थोडेसे विरघळते असते."
+
+#: simcontrols_main.js:164
+msgid "The yellow precipitate is silver iodide<br> which is insoluble in ammonium hydroxide."
+msgstr "पिवळे अवक्षेपण सिल्वर आयोडाइडचे असते, जे अमोनियम हायड्रोऑक्साइड मध्ये अविदद्राव्य असते."
+
+#: simcontrols_main.js:165
+msgid "Manganese dioxide test"
+msgstr "मॅंगनीस डायऑक्साइड परिक्षा"
+
+#: simcontrols_main.js:165
+msgid "MnO<sub>2</sub>"
+msgstr "MnO<sub>2</sub>"
+
+#: simcontrols_main.js:165 simcontrols_main.js:234
+msgid "Starch-iodide paper"
+msgstr "स्टार्च आयोडाइड कागद"
+
+#: simcontrols_main.js:166
+msgid "The greenish yellow gas is due to the formation of chlorine gas."
+msgstr "क्लोरिन वायू निर्माण झाल्यामुळे हिरवट पिवळा धूर येतो"
+
+#: simcontrols_main.js:166
+msgid "The brown vapours is due to the formation of bromine gas."
+msgstr "ब्रोमीन वायू निर्माण झाल्यामुळे तपकिरी धूर येतो"
+
+#: simcontrols_main.js:166
+msgid "The violet vapours are due to the formation of iodine gas."
+msgstr "आयोडीन वायू निर्माण झाल्यामुळे जांभळा धूर येतो."
+
+#: simcontrols_main.js:168
+msgid "Chromile chloride test"
+msgstr "क्रोमिल क्लोराइड"
+
+#: simcontrols_main.js:168
+msgid "Potassium dichromate"
+msgstr "पोटाशियम डायक्रोमेट"
+
+#: simcontrols_main.js:168
+msgid "CH<sub>3</sub>COOH"
+msgstr "CH<sub>3</sub>COOH"
+
+#: simcontrols_main.js:168
+msgid "Lead"
+msgstr "लेड"
+
+#: simcontrols_main.js:168
+msgid " A pungent irritating smell"
+msgstr "तिखट त्रास देणारा वास"
+
+#: simcontrols_main.js:168
+msgid ""
+"The red fumes is due to the formation of  chromyl chloride.<br>CrO<sub>2</sub>Cl<sub>2</sub> reacts with "
+"NaOH to form yellow solution of sodium chromate."
+msgstr ""
+"क्रोमिल क्लोराइड निर्माण झाल्यामुळे लाल धूर येतो. CrO2Cl2 आणि NaOH ची अभिक्रिया होते आणि सोडियम क्रोमेट चे पिवळे द्रावण "
+"निर्माण होते."
+
+#: simcontrols_main.js:168
+msgid ""
+"Na<sub>2</sub>CrO<sub>4</sub> reacts with lead acetate in presence of Dil. acetic<br>acid to form yellow "
+"precipitate of lead chromate (PbCrO<sub>4</sub>)."
+msgstr ""
+"विरल असेटीक आम्लाच्या उपस्थितीत Na2CrO4 आणि लेड एसीटेट ची अभिक्रिया होते आणि लेड क्रोमेट चे पिवळे अवक्षेपण (PbCrO4) "
+"निर्माण होते."
+
+#: simcontrols_main.js:170
+msgid "HCL"
+msgstr "HCL"
+
+#: simcontrols_main.js:170
+msgid "Dil. HCL"
+msgstr "विरल HCL"
+
+#: simcontrols_main.js:170
+msgid "Disulphide"
+msgstr "डायसल्फाइड"
+
+#: simcontrols_main.js:170
+msgid "Carbon disulphide"
+msgstr "कार्बन डायसल्फाइड"
+
+#: simcontrols_main.js:170
+msgid "chlorine"
+msgstr "क्लोरिन "
+
+#: simcontrols_main.js:170
+msgid "Chlorine water"
+msgstr "क्लोरिन वॉटर"
+
+#: simcontrols_main.js:170
+msgid ""
+"Bromine liberated during the reaction being soluble in<br>carbon disulphide (CS<sub>2</sub>) imparts an "
+"orange colour to the CS<sub>2</sub> layer."
+msgstr "अभिक्रियेदरम्यान निर्माण झालेला ब्रोमीन कार्बन डायसल्फाइड (CS2) मध्ये विरघळतो आणि CS2 थराला नारंगी रंग देतो."
+
+#: simcontrols_main.js:170
+msgid ""
+"Iodine liberated during the reaction being soluble in carbon<br> disulphide (CS<sub>2</sub>) imparts an "
+"orange colour to the CS<sub>2</sub> layer"
+msgstr "अभिक्रियेदरम्यान निर्माण झालेला आयोडीन कार्बन डायसल्फाइड (CS2) मध्ये विरघळतो आणि CS2 थराला नारंगी रंग देतो."
+
+#: simcontrols_main.js:172
+msgid "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+msgstr "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+
+#: simcontrols_main.js:172
+msgid "Dil. Acetic acid"
+msgstr "विरल असेटिक आम्ल"
+
+#: simcontrols_main.js:172
+msgid "CaCl<sub>2</sub>"
+msgstr "CaCl<sub>2</sub>"
+
+#: simcontrols_main.js:172
+msgid "Calcium chloride"
+msgstr "कॅल्शियम क्लोराइड"
+
+#: simcontrols_main.js:172
+msgid "Dil.HNO<sub>3</sub>"
+msgstr "विरल HNO3"
+
+#: simcontrols_main.js:172
+msgid ""
+"The white precipitate is calcium oxalate (CaC<sub>2</sub>O<sub>4</sub>)<br>and is dissolved in Dil."
+"HNO<sub>3</sub>."
+msgstr "पांढरे अवक्षेपण कॅल्शियम ऑक्सेलेट (CaC2O4) आहे आणि ते विरल HNO3 मध्ये विरघळते."
+
+#: simcontrols_main.js:174
+msgid "Evolution of CO<sub>2</sub> gas."
+msgstr "CO2 वायू निर्माण होते."
+
+#: simcontrols_main.js:175
+msgid "60<sup>0</sup> - 70<sup>0</sup> C "
+msgstr "60<sup>0</sup> - 70<sup>0</sup> C "
+
+#: simcontrols_main.js:177
+msgid "Magnesia"
+msgstr "मॅग्नेशिया "
+
+#: simcontrols_main.js:177
+msgid "Magnesia Mixture"
+msgstr "मॅग्नेशिया मिश्रण"
+
+#: simcontrols_main.js:177
+msgid "The white precipitate is magnesium<br> ammonium phosphate (Mg(NH<sub>4</sub>)PO<sub>4</sub>)."
+msgstr "पांढरे अवक्षेपण मॅग्नीशियम अमोनियम फॉस्फेट (Mg(NH4)PO4) चे आहे."
+
+#: simcontrols_main.js:238
+msgid "Drag the starch paper towards the test tube to show it<br>in the gas evolved from the test tube."
+msgstr "स्टार्च कागद नळी कडे ओढा म्हणजे तो नळीतून निघणार्या( वायूच्या संपर्कात येईल."
+
+#~ msgid "Solubility test"
+#~ msgstr "Solubility test"
+
+#~ msgid "Transluscent Spot test"
+#~ msgstr "Transluscent Spot test"
+
+#~ msgid "Chloroform"
+#~ msgstr "Chloroform"
+
+#~ msgid "Desi ghee"
+#~ msgstr "Desi ghee"
+
+#~ msgid "Vegetable ghee"
+#~ msgstr "Vegetable ghee"
+
+#~ msgid "Refined oil"
+#~ msgstr "Refined oil"
+
+#~ msgid "Cotton seed oil"
+#~ msgstr "Cotton seed oil"
+
+#~ msgid "Linseed oil "
+#~ msgstr "Linseed oil "
+
+#~ msgid "Huble reagent"
+#~ msgstr "Huble's reagent"
+
+#~ msgid "Conc. HCl"
+#~ msgstr "Conc. HCl"
+
+#~ msgid "A pungent irritating odour of acrolein is produced"
+#~ msgstr "A pungent irritating odour of acrolein is produced"
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Developed by CDAC Mumbai & Amrita University Under research grant from department of IT"
+#~ msgstr "Developed by CDAC Mumbai & Amrita University <br>Under research grant from department of IT"
+
+#~ msgid "Qualitative Analysis of Oils and Fats"
+#~ msgstr "Qualitative Analysis of Oils and Fats"
+
+#~ msgid "Select the solvent:"
+#~ msgstr "Select the solvent:"
+
+#~ msgid "Drag the dropper towards the test tube containing vegetable ghee to drop water into it. "
+#~ msgstr "Drag the dropper towards the test tube containing<br> vegetable ghee to drop water into it. "
+
+#~ msgid "Drag the dropper towards the test tube containing vegetable ghee to drop alcohol into it. "
+#~ msgstr "Drag the dropper towards the test tube containing<br> vegetable ghee to drop alcohol into it. "
+
+#~ msgid "Drag the dropper towards the test tube containing vegetable ghee to drop chloroform into it. "
+#~ msgstr "Drag the dropper towards the test tube containing <br>vegetable ghee to drop chloroform into it. "
+
+#~ msgid "Drag the dropper towards the test tube containing refined oil to drop chloroform into it. "
+#~ msgstr "Drag the dropper towards the test tube containing<br> refined oil to drop chloroform into it. "
+
+#~ msgid ""
+#~ "Drag the test tube containing vegetable ghee towards the burner to heat the contents of the test tube."
+#~ msgstr ""
+#~ "Drag the test tube containing vegetable ghee towards <br>the burner to heat the contents of the test "
+#~ "tube."
+
+#~ msgid ""
+#~ "Drag the test tube containing refined oil towards the burner to heat the contents of the test tube."
+#~ msgstr ""
+#~ "Drag the test tube containing refined oil towards<br> the burner to heat the contents of the test tube."
+
+#~ msgid "The samples are immiscible in water indicating the presence of oil or fat."
+#~ msgstr "The samples are immiscible in water<br> indicating the presence of oil or fat."
+
+#~ msgid "The samples form lower layer, which dissolves on heating indicating the presence of oil or fat."
+#~ msgstr ""
+#~ "The samples form lower layer, which dissolves on <br>heating indicating the presence of oil or fat."
+
+#~ msgid "The samples are miscible in chloroform indicating the presence of oil or fat."
+#~ msgstr "The samples are miscible in chloroform <br>indicating the presence of oil or fat."
+
+#~ msgid ""
+#~ "Drag the second filter paper towards the filter paper containing sample to press the sample with it. "
+#~ msgstr ""
+#~ "Drag the second filter paper towards the filter paper<br> containing sample to press the sample with "
+#~ "it. "
+
+#~ msgid ""
+#~ "Fats and oils have higher boiling points so at room temperature they cannot absorb enough heat to "
+#~ "evaporate. When fat or oil is place on the sheet of paper, it diffracts light. The diffracted light can "
+#~ "pass from one side of the paper to another side and gives translucent spot."
+#~ msgstr ""
+#~ "Fats and oils have higher boiling points so at <br>room temperature they cannot absorb enough heat<br> "
+#~ "to evaporate. When fat or oil is place on the <br>sheet of paper, it diffracts light. The diffracted "
+#~ "<br>light can pass from one side of the paper <br>to another side and gives translucent spot."
+
+#~ msgid "Drag the spatula towards the test tube to put potassium bisulphate crystals into vanaspati ghee."
+#~ msgstr ""
+#~ "Drag the spatula towards the test tube to put <br>potassium bisulphate crystals into  vegetable ghee."
+
+#~ msgid "Drag the spatula towards the test tube to put potassium bisulphate crystals into refined oil."
+#~ msgstr "Drag the spatula towards the test tube to put <br>potassium bisulphate crystals into refined oil."
+
+#~ msgid ""
+#~ "Acrolein test is used to detect the presence of glycerol or fat. When fat is treated strongly in "
+#~ "presence of dehydrating agent like potassium bisulphate,  the glycerol portion of the molecule is "
+#~ "dehydrated to form an unsaturated aldehyde, acrolein that has a pungent irritating odour."
+#~ msgstr ""
+#~ "Acrolein test is used to detect the presence of glycerol or fat. <br>When fat is treated strongly in "
+#~ "presence of dehydrating agent <br>like potassium bisulphate,  the glycerol portion of the molecule<br> "
+#~ "is dehydrated to form an unsaturated aldehyde, acrolein <br>that has a pungent irritating odour."
+
+#~ msgid "Drag the dropper towards the test tube containing melted vanaspati ghee to drop Conc. HCl into it."
+#~ msgstr ""
+#~ "Drag the dropper towards the test tube containing<br> melted vanaspati ghee to drop Conc. HCl into it."
+
+#~ msgid ""
+#~ "Drag the dropper towards the test tube containing melted vanaspati ghee to drop 2% furfural solution in "
+#~ "alcohol into it."
+#~ msgstr ""
+#~ "Drag the dropper towards the test tube containing melted<br> vanaspati ghee to drop 2% furfural "
+#~ "solution in alcohol into it."
+
+#~ msgid "Wait for some time to complete the reaction."
+#~ msgstr "Wait for some time to complete the reaction."
+
+#~ msgid ""
+#~ "This test is used to detect the presence of seasame oil. Seasame oil gives characteristic rose red "
+#~ "colour with concentrated hydrochloric acid and furfural solution. Vanaspati ghee contains 5% seasame "
+#~ "oil while pure desi ghee does not contain seasame oil."
+#~ msgstr ""
+#~ "This test is used to detect the presence of seasame oil.<br> Seasame oil gives characteristic rose red "
+#~ "colour with <br>concentrated hydrochloric acid and furfural solution. <br>Vanaspati ghee contains 5% "
+#~ "seasame oil while pure <br>desi ghee does not contain seasame oil."
+
+#~ msgid "Drag the dropper towards the test tube containing cotton seed oil to drop chloroform into it."
+#~ msgstr "Drag the dropper towards the test tube containing<br> cotton seed oil to drop chloroform into it."
+
+#~ msgid "Drag the dropper towards the test tube containing cotton seed oil to drop Huble reagent into it."
+#~ msgstr ""
+#~ "Drag the dropper towards the test tube containing <br>cotton seed oil to drop Huble's reagent into it."
+
+#~ msgid "Drag the dropper towards the test tube containing linseed oil to drop chloroform into it."
+#~ msgstr "Drag the dropper towards the test tube containing<br> linseed oil to drop chloroform into it."
+
+#~ msgid ""
+#~ "Huble reagent is an alcoholic solution of iodine which contains some mercuric chloride. During the "
+#~ "reaction, the violet colour of iodine fades away if the oil or fat is unsaturated. If the oil or fat is "
+#~ "saturated, the violet colour of iodine does not fade away. Here linseed oil is more unsaturated than "
+#~ "cotton seed oil"
+#~ msgstr ""
+#~ "Huble's reagent is an alcoholic solution of iodine which <br>contains some mercuric chloride. During "
+#~ "the reaction, <br>the violet colour of iodine fades away if the oil or fat<br> is unsaturated. If the "
+#~ "oil or fat is saturated, <br>the violet colour of iodine does not fade away. <br>Here linseed oil is "
+#~ "more unsaturated than cotton seed oil."
+
+#~ msgid "Drag the cotton seed oil test tube towards the canvas area to shake it."
+#~ msgstr "Drag the cotton seed oil test tube<br> towards the canvas area to shake it."
+
+#~ msgid "Drag the linseed oil test tube towards the canvas area to shake it."
+#~ msgstr "Drag the linseed oil test tube towards<br> the canvas area to shake it."
+
+#~ msgid "Drag the dropper of chloroform towards desi <br>ghee test tube to drop the chloroform."
+#~ msgstr "Drag the dropper of chloroform towards desi <br>ghee test tube to drop the chloroform."
+
+#~ msgid "Drag the dropper of chloroform towards vegetable <br>ghee test tube to drop the chloroform."
+#~ msgstr "Drag the dropper of chloroform towards vegetable <br>ghee test tube to drop the chloroform."
+
+#~ msgid "Drag the dropper of chloroform towards refined <br>oil test tube to drop the chloroform."
+#~ msgstr "Drag the dropper of chloroform towards refined <br>oil test tube to drop the chloroform."
+
+#~ msgid "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+#~ msgstr "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+
+#~ msgid "Drag the refined oil test tube towards <br>the burner to heat it. "
+#~ msgstr "Drag the refined oil test tube towards <br>the burner to heat it. "
+
+#~ msgid "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+#~ msgstr "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+
+#~ msgid "Samples are immiscible."
+#~ msgstr "Samples are immiscible."
+
+#~ msgid ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop vegetable ghee into filter "
+#~ "paper."
+#~ msgstr ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop vegetable ghee into filter "
+#~ "paper."
+
+#~ msgid "A transluscent spot appear on the filter paper."
+#~ msgstr "A transluscent spot appear on the filter paper."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. Sulphuric acid into <br>test tube "
+#~ "containing desi ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. Sulphuric acid into <br>test tube "
+#~ "containing desi ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% furfural solution in "
+#~ "alcohol<br> into test tube containing desi ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% furfural solution in "
+#~ "alcohol<br> into test tube containing desi ghee."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. Sulphuric acid into <br>test tube "
+#~ "containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. Sulphuric acid into <br>test tube "
+#~ "containing vanaspati ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% furfural solution in alcohol "
+#~ "<br>into test tube containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% furfural solution in alcohol "
+#~ "<br>into test tube containing vanaspati ghee."
+
+#~ msgid "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee contains sesame oil."
+#~ msgstr "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee contains sesame oil."
+
+#~ msgid "Linseed oil is more unsaturated than cotton seed oil."
+#~ msgstr "Linseed oil is more unsaturated than cotton seed oil."
+
+#~ msgid "Borax bead test"
+#~ msgstr "Borax bead test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the "
+#~ "litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the "
+#~ "litmus paper."
+
+#~ msgid "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+#~ msgstr "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water "
+#~ "milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water "
+#~ "milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask "
+#~ "during the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask "
+#~ "during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask "
+#~ "during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask "
+#~ "during the respiration of the seeds."

@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+		<TEXTVALUE>സ്റ്റാർട്ട് ബട്ടൻ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തുടങ്ങുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!-- Interactive_scenes-->
+<SCENE ID="surfacechmistry">
+	<TEXT ID="surfacechmistry_one">
+	 	<TEXTVALUE>സോളിൽ ഏതെങ്കിലും ഒന്നിൽ ക്ലിക്ക് ചെയ്ത് അതിന്റെ നിർമ്മാണത്തെക്കുറിച്ച് പഠിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>ടാബിൽ ക്ലിക്ക് ചെയ്ത് പരീക്ഷണം തിരഞ്ഞെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!-- To Prepare the crystals of Pure Copper Sulphate -->
+
+<SCENE ID="Title11">
+	<TEXT ID="Title11_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionS1">
+	<TEXT ID="IntroductionS1_one">
+	<TEXTVALUE>നമുക്ക് ആവശൃമുമുള്ളത്, കോപ്പർ സൾഫേറ്റിൻ്റെ അസംസ്കൃത സാമ്പിൾ, നേർപ്പിച്ച സൾഫൃൂറിക് ആസിഡ്, ആൽക്കഹോൾ, ശുദ്ധീകരിച്ച ജലം, ബീക്കറുകൾ, അളവ് സിലിണ്ടറുകൾ, സ്പാറ്റുല, ഗ്ലാസ്സ് റോഡ്, ചൈനാ ഡിഷ്, ഫണൽ, ഫിൽട്ടർ പേപ്പറുകൾ, ഘടിപ്പിച്ച അയൺസ്റ്റാൻഡ്, ക്രിസ്റ്റലീകരിക്കാനുള്ള ഡിഷ്, ട്രഫ്, മണൽ ബാത്ത്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="IntroductionS1_two">
+	<TEXTVALUE>കമ്പിവല, ട്രൈപോഡ് സ്റ്റാൻഡ്, ബൺസൺ ബർണർ തുടങ്ങിയവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarBkrS2">
+	<TEXT ID="Wtr2jarBkrS2_one">
+	<TEXTVALUE>അളവ് സിലിണ്ടറിൽ 30 ml ശുദ്ധീകരിച്ച ജലം എടുക്കുക, ഇത് ഒരു വൃത്തിയായ ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarBkrS2_two">
+	<TEXTVALUE>ഇത് ഒരു ബീക്കറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperinSpoonS3">
+	<TEXT ID="CopperinSpoonS3_one">
+	<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് കോപ്പർ സൾഫേറ്റിന്റെ  അസംസ്കൃത സാമ്പിൾ പൊടിച്ചത് കുറച്ച് എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Copper2bkrS4">
+	<TEXT ID="Copper2bkrS4_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കറിലേക്ക് കോപ്പർസൾഫേറ്റ് ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Glassrod2bkrS5">
+	<TEXT ID="Glassrod2bkrS5_one">
+	<TEXTVALUE>ബീക്കറിലെ മിശ്രിതം ലയിക്കുന്നതിന് വേണ്ടി ഒരു ഗ്ലാസ്സ്റോഡ് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirCopperS6">
+	<TEXT ID="StirCopperS6_one">
+	<TEXTVALUE>ബീക്കറിലെ മിശ്രിതം ലയിക്കുന്നതിന് വേണ്ടി ഒരു ഗ്ലാസ്സ്റോഡ് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="StirCopperS6_two">
+	<TEXTVALUE>ധാരാളം പ്രാവശ്യം പൊടിച്ച സാമ്പിൾ ചേർത്തുകൊണ്ടിരിക്കന്നതുകൊണ്ട് കുറച്ച് ലയിക്കാതെ അവശേഷിക്കുകയാണെങ്കിൽ കുറച്ച് സമയത്തേക്ക് ഇളക്കിക്കൊടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="GlassrodbakS7">
+	<TEXT ID="GlassrodbakS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SulphuricBottleS8">
+	<TEXT ID="SulphuricBottleS8_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 5ml നേർപ്പിച്ച സൾഫ്യുറിക് ആസിഡ് എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SulphuricBottleS8_two">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 5ml നേർപ്പിച്ച സൾഫ്യുറിക് ആസിഡ് എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourSulphuricS9">
+	<TEXT ID="PourSulphuricS9_one">
+	<TEXTVALUE>വേറൊരു അളവ് സിലിണ്ടറിൽ 5ml നേർപ്പിച്ച സൾഫ്യുറിക് ആസിഡ് എടുക്കുക, ഫണലിലേക്ക് ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക .
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_two">
+	<TEXTVALUE>കോപ്പർസൾഫേറ്റിൻ്റെ പൂരിതലായനി അടങ്ങിയ ബീക്കറിലേക്ക് ഇത് ചേർക്കുക, ഒരു ഗ്ലാസ്സ്റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. സൾഫൃൂറിക് ആസിഡ് കൂടുതലായി ചേർത്തപ്പോൾ കോപ്പർ സൾഫേറ്റ് ലായനി തെളിഞ്ഞു വൃക്തമാകുന്നു എന്ന് നിരീക്ഷിക്കുന്നു, അവിടെ കോപ്പർസൾഫേറ്റിൻ്റെ ജലവിശ്ലേഷണത്തെ ഇത് പ്രതിരോധിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PourSulphuricS9_three">
+	<TEXTVALUE>സൾഫ്യുറിക് ആസിഡ് ചേർക്കുന്നതുകൊണ്ട് കോപ്പർസൾഫേറ്റ് ലായനി സുതാര്യമാകുന്നു, ഇവിടെ കോപ്പർസൾഫേറ്റിന്റെ ഹൈഡ്രോളിസിസ് തടയുന്നു എന്നത് നിരീക്ഷിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="DishFunnel2StandS10">
+	<TEXT ID="DishFunnel2StandS10_one">
+	<TEXTVALUE>ഒരു ചെയിൻ ഡിഷ് എടുത്ത് സ്റ്റാൻഡിന് താഴെ വയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PaperRodBkr2StandS11">
+	<TEXT ID="PaperRodBkr2StandS11_one">
+	<TEXTVALUE>ഒരുഫണൽ എടുക്കുക, സ്റ്റാൻഡുമായി ഉറപ്പിക്കുക, ലായനിയുടെ തെറിക്കൽ ഒഴിവാക്കുന്നതിന് വേണ്ടി ഫണലിന്റെ തണ്ട് ചൈനാ ഡിഷിന്റെ ഭിത്തിയുമായി തട്ടിയിരിക്കണം.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PaperRodBkr2StandS11_two">
+	<TEXTVALUE>ഫണലിൽ ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolutionFilterS12">
+	<TEXT ID="SolutionFilterS12_one">
+	<TEXTVALUE>ഫണലിന് മുകളിലായി ഒരു ഗ്ലാസ്സ് റോഡ് വയ്ക്കുക, ലായനി ഫണലിലേക്ക് ഗ്ലാസ്സ് റോഡിലൂടെ ഒഴിക്കുക. ചൈനാ ഡിഷിൽ നിന്നും അരിച്ച മിശ്രിതം ശേഖരിക്കുക. ലയിക്കാത്ത മാലിന്യങ്ങൾ ഫിൽട്ടർ പേപ്പറിൽ അവശേഷിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SandbathS13">
+	<TEXT ID="SandbathS13_one">
+	<TEXTVALUE>ചൈനാ ഡിഷിലെ ലായനി മണൽജാറിൽ വച്ച് ചൂടാക്കുക, ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. ഡിഷിന്റെ  വശങ്ങളിലെ ബാഹ്യ പാളിയുടെ രൂപീകരണം തടയുന്നതിന് വേണ്ടിയാണ് ഇങ്ങനെ ചെയ്യുന്നത് (ഡിഷിലെ ലായനി തിളക്കാൻ അനുവദിക്കരുത്).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StirSolutionCloseS14">
+	<TEXT ID="StirSolutionCloseS14_one">
+	<TEXTVALUE>ചൈനാ ഡിഷിലെ ലായനി മണൽജാറിൽ വച്ച് ചൂടാക്കുക, ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. ഡിഷിന്റെ വശങ്ങളിലെ ബാഹ്യ പാളിയുടെ രൂപീകരണം തടയുന്നതിന് വേണ്ടിയാണ് ഇങ്ങനെ ചെയ്യുന്നത് (ഡിഷിലെ ലായനി തിളക്കാൻ അനുവദിക്കരുത്).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="LineDrawS15">
+	<TEXT ID="LineDrawS15_one">
+	<TEXTVALUE>യഥാർത്ഥ വ്യാപ്തത്തിന്റെ 1/3 ആയി ലായനി കുറയുന്നതുവരെ ചൂടാക്കൽ തുടരുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalinRodS16">
+	<TEXT ID="CopperCrystalinRodS16_one">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനിയുടെ ഒരു തുള്ളി എടുക്കുക, സാവധാനം ഇത് ഊതി തണുപ്പിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_two">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനിയുടെ ഒരു തുള്ളി എടുക്കുക, സാവധാനം ഇത് ഊതി തണുപ്പിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CopperCrystalinRodS16_three">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡിൽ കാണുന്ന ചെറിയ പരലുകളുടെ ആവിർഭാവം സൂചിപ്പിക്കുന്നത്, ഇവ പരൽ രൂപീകരണഘട്ടമായി  എന്നാണ്.
+    </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Sol2Dish2ColdwatrS17">
+	<TEXT ID="Sol2Dish2ColdwatrS17_one">
+	<TEXTVALUE>ഇപ്പോൾ ചൂടാക്കൽ നിർത്തി ബർണർ ഓഫ്ചെയ്യുക, ചൂടുള്ള ലായനി ഒരു ക്രിസ്റ്റലൈൻ ഡിഷിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sol2Dish2ColdwatrS17_two">
+	<TEXTVALUE>ചൂടുള്ള പൂരിത ലായനി അടങ്ങിയ ക്രിസ്റ്റലൈൻ ഡിഷ് പകുതി തണുത്ത ജലം നിറച്ച ജാറിലേക്ക് വയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="CopperCrystalsS18">
+	<TEXT ID="CopperCrystalsS18_one">
+	<TEXTVALUE>കുറച്ച് സമയത്തേക്ക് സാവധാനം തണുക്കാൻ അനുവദിക്കുക, കടും നീല തരികൾ പ്രത്യക്ഷപ്പെടുന്നു. ഒന്നര മണിക്കൂറിന് ശേഷം പരൽ രൂപീകരണം പൂർത്തിയാകുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Dish2BkrS19">
+	<TEXT ID="Dish2BkrS19_one">
+	<TEXTVALUE>തെളിഞ്ഞ ദ്രാവകം ശ്രദ്ധാപൂർവ്വം ബീക്കറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PourWtr2BkrS20">
+	<TEXT ID="PourWtr2BkrS20_one">
+	<TEXTVALUE>തെളിഞ്ഞ ദ്രാവകം ശ്രദ്ധാപൂർവ്വം ബീക്കറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WashCrystal2FilterpaperS21">
+	<TEXT ID="WashCrystal2FilterpaperS21_one">
+	<TEXTVALUE>തരികൾ തണുത്ത ജലവും ഈഥൈൽ ആൽക്കഹോളും അടങ്ങിയ ലായനിയിൽ കഴുകുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="WashCrystal2FilterpaperS21_two">
+	<TEXTVALUE>ലായനിയിൽ കുതിർന്ന പരലുകൾ ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="DryCrystals2TtubeS22">
+	<TEXT ID="DryCrystals2TtubeS22_one">
+	<TEXTVALUE>തരികൾ വേറൊരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റിയിട്ട് സാവധാനം വേറൊരു ഫിൽട്ടർ പേപ്പർ കൊണ്ട് അമർത്തി ഉണക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="DryCrystals2TtubeS22_two">
+	<TEXTVALUE>തരികൾ വേറൊരു ഉണങ്ങിയ ടെസ്ട്യൂബിലേക്ക് മാറ്റിയിട്ട് കോർക്ക് ഇട്ട് അടയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultS23">
+	<TEXT ID="ResultS23_one">
+	<TEXTVALUE>കോപ്പർസൾഫേറ്റിന്റെ തരികൾ ട്രൈക്ലിനിക്ക് ആണ്, സൂതാര്യം, നീലനിറം എന്നീ പ്രത്യേകതകളും ഉണ്ട്.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<!-- To Prepare the crystals of Pure Alum-->
+<SCENE ID="TitleAlum">
+	<TEXT ID="TitleAlum_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroductionAlumS1">
+	<TEXT ID="IntroductionAlumS1_one">
+	<TEXTVALUE>നമുക്ക് ആവശൃമുള്ളത് പൊട്ടാഷ് ആലത്തിൻ്റെഅസംസ്കൃതസാമ്പിൾ, ശുദ്ധീകരിച്ചജലം, ആൽക്കഹോൾ, ബീക്കറുകൾ, അളവ് സിലിണ്ടർ, സ്പാറ്റുല, ഗ്ലാസ്സ്റോഡ്, ചൈനാ ഡിഷ്, ഫണൽ, ഫിൽട്ടർ പേപ്പറുകൾ, ഘടിപ്പിച്ചഅയൺസ്റ്റാൻഡ് ക്രിസ്റ്റലീകരിക്കാനുള്ള ഡിഷ്, ട്രഫ്, മണൽബാത്ത്, കമ്പിവല, ട്രൈപോഡ്സ്റ്റാൻഡ്, ബൺസൺബർണർ തുടങ്ങിയവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="wtr2jarAlumS2">
+	<TEXT ID="wtr2jarAlumS2_one">
+	<TEXTVALUE>ഒരു അളവ് സിലിണ്ടറിൽ 30 ml ശുദ്ധീകരിച്ച ജലം എടുക്കുക, ഇത് ഒരു വൃത്തിയായ ബീക്കറിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="wtr2jarAlumS2_two">
+	<TEXTVALUE>ഒരു അളവ് സിലിണ്ടറിൽ 30 ml ശുദ്ധീകരിച്ച ജലം എടുക്കുക, ഇത് ഒരു വൃത്തിയായ ബീക്കറിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealuminspoonS3">
+	<TEXT ID="crudealuminspoonS3_one">
+	<TEXTVALUE>സ്പാറ്റുല ഉപയോഗിച്ച് പൊട്ടാഷ് ആലത്തിന്റെ  അസംസ്കൃത സാമ്പിൾ പൊടിച്ചത് കുറച്ച് എടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crudealum2bkrS4">
+	<TEXT ID="crudealum2bkrS4_one">
+	<TEXTVALUE>ശുദ്ധീകരിച്ച ജലം അടങ്ങിയ ബീക്കറിലേക്ക് ആലത്തിന്റെ അസംസ്കൃത സാമ്പിൾ ചേർക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="spoonglassrodS5">
+	<TEXT ID="spoonglassrodS5_one">
+	<TEXTVALUE>ബീക്കറിലെ മിശ്രിതം ലയിക്കുന്നതിന് വേണ്ടി ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodstiralumS6">
+	<TEXT ID="glassrodstiralumS6_one">
+	<TEXTVALUE>ബീക്കറിലെ മിശ്രിതം ലയിക്കുന്നതിന് വേണ്ടി ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് നല്ലതുപോലെ ഇളക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="glassrodbakalumS7">
+	<TEXT ID="GlassrodbakalumS7_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dishFunnel2standS8">
+	<TEXT ID="dishFunnel2standS8_one">
+	<TEXTVALUE>ഒരു ചെയിൻ ഡിഷ് എടുത്ത് സ്റ്റാൻഡിന് താഴെ വയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="paperodbkr2standS9">
+	<TEXT ID="paperodbkr2standS9_one">
+	<TEXTVALUE>ഒരുഫണൽ എടുക്കുക, സ്റ്റാൻഡുമായി ഉറപ്പിക്കുക, ലായനിയുടെ തെറിക്കൽ ഒഴിവാക്കുന്നതിന് വേണ്ടി ഫണലിന്റെ തണ്ട് ചൈനാ ഡിഷിന്റെ  ഭിത്തിയുമായി തട്ടിയിരിക്കണം.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="paperodbkr2standS9_two">
+	<TEXTVALUE>ഫണലിൽ ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="solfiltrateS10">
+	<TEXT ID="solfiltrateS10_one">
+	<TEXTVALUE>ഫണലിന് മുകളിലായി ഒരു ഗ്ലാസ്സ് റോഡ് വയ്ക്കുക, ലായനി ഫണലിലേക്ക് ഗ്ലാസ്സ് റോഡിലൂടെ ഒഴിക്കുക. ചൈനാ ഡിഷിൽ നിന്നും അരിച്ച മിശ്രിതം ശേഖരിക്കുക. ലയിക്കാത്ത മാലിന്യങ്ങൾ ഫിൽട്ടർ പേപ്പറിൽ അവശേഷിക്കുന്നു. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sandbathStirS11">
+	<TEXT ID="sandbathStirS11_one">
+	<TEXTVALUE>ചൈനാ ഡിഷിലെ ലായനി മണൽജാറിൽ വച്ച് ചൂടാക്കുക, ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. ഡിഷിന്റെ വശങ്ങളിലെ ബാഹ്യ പാളിയുടെ രൂപീകരണം തടയുന്നതിന് വേണ്ടിയാണ് ഇങ്ങനെ ചെയ്യുന്നത് (ഡിഷിലെ ലായനി തിളക്കാൻ അനുവദിക്കരുത്).
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="closesandstirS12">
+	<TEXT ID="SclosesandstirS12_one">
+	<TEXTVALUE>ചൈനാ ഡിഷിലെ ലായനി മണൽജാറിൽ വച്ച് ചൂടാക്കുക, ഒരു ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ഇളക്കുക. ഡിഷിന്റെ  വശങ്ങളിലെ ബാഹ്യ പാളിയുടെ രൂപീകരണം തടയുന്നതിന് വേണ്ടിയാണ് ഇങ്ങനെ ചെയ്യുന്നത് (ഡിഷിലെ ലായനി തിളക്കാൻ അനുവദിക്കരുത്).
+
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="linedrawS13">
+	<TEXT ID="linedrawS13_one">
+	<TEXTVALUE>യഥാർത്ഥ വ്യാപ്തത്തിന്റെ  1/3 ആയി ലായനി കുറയുന്നതുവരെ ചൂടാക്കൽ തുടരുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crystalinRodS14">
+	<TEXT ID="crystalinRodS14_one">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡ് ഉപയോഗിച്ച് ലായനിയുടെ ഒരു തുള്ളി എടുക്കുക, സാവധാനം ഇത് ഊതി തണുപ്പിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_two">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡിൽ കാണുന്ന ചെറിയ പരലുകളുടെ ആവിർഭാവം  സൂചിപ്പിക്കുന്നത്, ഇവ പരൽരൂപീകരണഘട്ടമായി  എന്നാണ്.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="crystalinRodS14_three">
+	<TEXTVALUE>ഗ്ലാസ്സ് റോഡിൽ കാണുന്ന ചെറിയ പരലുകളുടെ ആവിർഭാവം  സൂചിപ്പിക്കുന്നത്, ഇവ പരൽരൂപീകരണഘട്ടമായി  എന്നാണ്.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="sol2crydish2ColdwtrS15">
+	<TEXT ID="sol2crydish2ColdwtrS15_one">
+	<TEXTVALUE>ഇപ്പോൾ ചൂടാക്കൽ നിർത്തി ബർണർ ഓഫ്ചെയ്യുക, ചൂടുള്ള ലായനി ഒരു ക്രിസ്റ്റലൈൻ ഡിഷിലേക്ക് മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_two">
+	<TEXTVALUE>ചൂടുള്ള പൂരിത ലായനി അടങ്ങിയ ക്രിസ്റ്റലൈൻ ഡിഷ് പകുതി തണുത്ത ജലം നിറച്ച ജാറിലേക്ക് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sol2crydish2ColdwtrS15_three">
+	<TEXTVALUE>ചൂടുള്ള പൂരിത ലായനി അടങ്ങിയ ക്രിസ്റ്റലൈൻ ഡിഷ് പകുതി തണുത്ത ജലം നിറച്ച ജാറിലേക്ക് വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumcrystalsS16">
+	<TEXT ID="AlumcrystalsS16_one">
+	<TEXTVALUE>കുറച്ച് സമയത്തേക്ക് സാവധാനം തണുക്കാൻ അനുവദിക്കുക, കടും നീല തരികൾ പ്രത്യക്ഷപ്പടുന്നു. ഒന്നര മണിക്കൂറിന് ശേഷം പരൽ രൂപീകരണം പൂർത്തിയാകുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="crysdish2bkrS17">
+	<TEXT ID="crysdish2bkrS17_one">
+	<TEXTVALUE>തെളിഞ്ഞ ദ്രാവകം ശ്രദ്ധാപൂർവ്വം ബീക്കറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pourMotherliqourS18">
+	<TEXT ID="pourMotherliqourS18_one">
+	<TEXTVALUE>തെളിഞ്ഞ ദ്രാവകം ശ്രദ്ധാപൂർവ്വം ബീക്കറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="washCrystal2filterpaperS19">
+	<TEXT ID="washCrystal2filterpaperS19_one">
+	<TEXTVALUE>തരികൾ തണുത്ത ജലവും ഈഥൈൽ ആൽക്കഹോളും അടങ്ങിയ ലായനിയിൽ കഴുകുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="washCrystal2filterpaperS19_two">
+	<TEXTVALUE>ലായനിയിൽ കുതിർന്ന പരലുകൾ ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="dryCrystal2TtubeS20">
+	<TEXT ID="dryCrystal2TtubeS20_one">
+	<TEXTVALUE>തരികൾ വേറൊരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റിയിട്ട് സാവധാനം വേറൊരു ഫിൽട്ടർ പേപ്പർ കൊണ്ട് അമർത്തി ഉണക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dryCrystal2TtubeS20_two">
+	<TEXTVALUE>തരികൾ വേറൊരു ഉണങ്ങിയ ടെസ്ട്യൂബിലേക്ക് മാറ്റിയിട്ട് കോർക്ക് ഇട്ട് അടയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="resultAlum21">
+	<TEXT ID="resultAlum21_one">
+	<TEXTVALUE>പൊട്ടാഷ് ആലത്തിന്റെ  തരികൾ നിറമില്ലാത്തത് ആണ്, സൂതാര്യം, എട്ടു മുഖങ്ങളോടുകൂടിയവ എന്നീ പ്രത്യേകതകളും ഉണ്ട്.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<!-- To Purify impure sample of Benzoic Acid-->
+
+
+<SCENE ID="Titlebenzoic3">
+	<TEXT ID="Titlebenzoic3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrobenzoicS1">
+	<TEXT ID="IntrobenzoicS1_one">
+	<TEXTVALUE>നമുക്ക് ആവശൃമുള്ളത് ബെൻസോയിക് ആസിഡിൻ്റെ അസംസ്കൃതസാമ്പിൾ, ശുദ്ധീകരിച്ച ജലം, ബീക്കറുകൾ അളവ് സിലിണ്ടറുകൾ, സ്പാറ്റുല, ഗ്ലാസ്സ് റോഡ്, ചൈനാ ഡിഷ്, ഫ്ലൂട്ടഡ് ഫിൽട്ടർ പേപ്പർ, ഫണൽ, ഫിൽട്ടർ പേപ്പർ ഘടിപ്പിച്ച അയൺ സ്റ്റാൻഡ്, ക്രിസ്റ്റലീകരിക്കാനുള്ള ഡിഷ്, ട്രഫ്, കമ്പിവല, ട്രൈപോഡ് സ്റ്റാൻഡ്, ബൺസൺ ബർണർ തുടങ്ങിയവയാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Wtr2jarbkrbenzoicS2">
+	<TEXT ID="Wtr2jarbkrbenzoicS2_one">
+	<TEXTVALUE>ഒരു അളവ് സിലിണ്ടറിൽ 150 ml ശുദ്ധീകരിച്ച ജലം എടുക്കുക, ഇത് ഒരു വൃത്തിയായ 250ml ബീക്കറിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_two">
+	<TEXTVALUE>ഒരു അളവ് സിലിണ്ടറിൽ 150 ml ശുദ്ധീകരിച്ച ജലം എടുക്കുക, ഇത് ഒരു വൃത്തിയായ 250ml ബീക്കറിലേക്ക് ഒഴിക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2jarbkrbenzoicS2_three">
+	<TEXTVALUE>ബീക്കറിൽ ജലം ഒഴിച്ച് ബൺസൺ ബർണറിൽ വച്ച് ചൂടാക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WtrboilingS3">
+	<TEXT ID="WtrboilingS3_one">
+	<TEXTVALUE>ബീക്കറിൽ ജലം ഒഴിച്ച് ബൺസൺ ബർണറിൽ വച്ച് ചൂടാക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="AcidInSpoonS4">
+	<TEXT ID="AcidInSpoonS4_one">
+	<TEXTVALUE>വേറൊരു ബീക്കർ എടുത്തിട്ട് ബെൻസോയിക് ആസിഡിന്റെ കുറച്ച് അസംസ്കൃത സാമ്പിൾ സ്പാറ്റുല ഉപയോഗിച്ച് അതിലേക്ക് ഇടുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AcidInSpoonS4_two">
+	<TEXTVALUE>വേറൊരു ബീക്കർ എടുത്തിട്ട് ബെൻസോയിക് ആസിഡിന്റെ കുറച്ച് അസംസ്കൃത സാമ്പിൾ സ്പാറ്റുല ഉപയോഗിച്ച് അതിലേക്ക് ഇടുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2AcidStirS5">
+	<TEXT ID="Wtr2AcidStirS5_one">
+	<TEXTVALUE>വേറൊരു ബീക്കർ എടുത്തിട്ട് ബെൻസോയിക് ആസിഡിന്റെ കുറച്ച് അസംസ്കൃത സാമ്പിൾ സ്പാറ്റുല ഉപയോഗിച്ച് അതിലേക്ക് ഇടുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Wtr2AcidStirS5_two">
+	<TEXTVALUE> ബീക്കറിലെ ബെൻസോയിക് ആസിഡ് ലയിക്കുന്നതിന് കുറഞ്ഞ അളവിൽ മതിയായ രീതിയിൽ ജലം ക്രമേണ ചേർത്ത് ഇളക്കികൊടുക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="StandFunFlutedBkrS6">
+	<TEXT ID="StandFunFlutedBkrS6_one">
+	<TEXTVALUE>വേറൊരു ബീക്കർ എടുത്ത് സ്റ്റാൻഡിന് താഴെ വയ്ക്കുക. ഫണൽ സ്റ്റാൻഡുമായി ഘടിപ്പിക്കുക, ലായനി തെറിക്കുന്നത് ഒഴിവാക്കുന്നതിന് വേണ്ടി ഫണലിന്റെ  തണ്ട് ചൈനാ ഡിഷിന്റെ  ഭിത്തിയുമായി തട്ടിയിരിക്കണം. ഫണലിലേക്ക് ഒരു ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക. 
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="SolFilterbenzoicS7">
+	<TEXT ID="SolFilterbenzoicS7_one">
+	<TEXTVALUE>ഫണലിന് മുകളിലായി ഒരു ഗ്ലാസ്സ് റോഡ് വയ്ക്കുക, ലായനി ഫണലിലേക്ക് ഒരു ഗ്ലാസ്സ് റോഡിലൂടെ ഒഴിക്കുക, ചൈനാ ഡിഷിൽനിന്നും അരിച്ച മിശ്രിതം ശേഖരിക്കുക, ലയിക്കാത്ത മാലിന്യങ്ങൾ ഫിൽട്ടർ പേപ്പറിൽ അവശേഷിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Wtr2ColdwtrBenzoicS8">
+	<TEXT ID="Wtr2ColdwtrBenzoicS8_one">
+	<TEXTVALUE>അരിച്ച ലായനി സാധാരണ താപനിലയിലേക്ക് വരുത്തുക, അതിന് വേണ്ടി തണുത്ത ജലം അടങ്ങിയ ഒരു ജാറിലേക്ക് ബീക്കർ വയ്ക്കുക. ബെൻസോയിക് ആസിഡിന്റെ അതാര്യമായ വെള്ള ക്രിസ്റ്റലുകൾ രൂപം കൊള്ളുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="FunFilterRodAcidwtrbenzoicS9">
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_one">
+	<TEXTVALUE>ഒരു ചൈനാ ഡിഷ് എടുത്ത് സ്റ്റാൻഡിന് താഴെ വെയ്ക്കുക. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="FunFilterRodAcidwtrbenzoicS9_two">
+	<TEXTVALUE>ഒരുഫണൽ എടുക്കുക, സ്റ്റാൻഡുമായി ഉറപ്പിക്കുക, ലായനിയുടെ തെറിക്കൽ ഒഴിവാക്കുന്നതിന് വേണ്ടി ഫണലിന്റെ തണ്ട് ചൈനാ ഡിഷിന്റെ  ഭിത്തിയുമായി തട്ടിയിരിക്കണം.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="SolFilteredcrystalsbenziocS10">
+	<TEXT ID="SolFilteredcrystalsbenziocS10_one">
+	<TEXTVALUE>ഫണലിന് മുകളിലായി ഒരു ഗ്ലാസ്സ് റോഡ് വയ്ക്കുക, ലായനി ഫണലിലേക്ക് ഒരു ഗ്ലാസ്സ് റോഡിലൂടെ ഒഴിക്കുക, ചൈനാ ഡിഷിൽനിന്നും അരിച്ച മിശ്രിതം ശേഖരിക്കുക, ലയിക്കാത്ത മാലിന്യങ്ങൾ ഫിൽട്ടർ പേപ്പറിൽ  അവശേഷിക്കുന്നു.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SolFilteredcrystalsbenziocS10_two">
+	<TEXTVALUE>തരികൾ വേറൊരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റിയിട്ട് സാവധാനം വേറൊരു ഫിൽട്ടർ പേപ്പർ കൊണ്ട് അമർത്തി ഉണക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Crystals2FilterpaperbenzoicS11">
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_one">
+	<TEXTVALUE>തരികൾ വേറൊരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റിയിട്ട് സാവധാനം വേറൊരു ഫിൽട്ടർ പേപ്പർ കൊണ്ട് അമർത്തി ഉണക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_two">
+	<TEXTVALUE>തരികൾ വേറൊരു ഫിൽട്ടർ പേപ്പറിലേക്ക് മാറ്റിയിട്ട് സാവധാനം വേറൊരു ഫിൽട്ടർ പേപ്പർ കൊണ്ട് അമർത്തി ഉണക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Crystals2FilterpaperbenzoicS11_three">
+	<TEXTVALUE>തരികൾ വേറൊരു ഉണങ്ങിയ ടെസ്ട്യൂബിലേക്ക് മാറ്റിയിട്ട് കോർക്ക് ഇട്ട് അടയ്ക്കുക.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ResultbenzoicS12">
+	<TEXT ID="ResultbenzoicS12_one">
+	<TEXTVALUE>ബെൻസോയിക് ആസിഡിന്റെ  തരികൾ അതാര്യവും വെളുത്തതും ആണ്.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

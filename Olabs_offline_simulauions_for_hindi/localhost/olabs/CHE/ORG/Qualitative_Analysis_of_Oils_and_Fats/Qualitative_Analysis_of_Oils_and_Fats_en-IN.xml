@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title">
+	<TEXTVALUE>Qualitative Analysis of Oils and Fats</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>Start </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>Click on the "Start" button to perform the experiment.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="SolubilityTest_text">
+	<TEXTVALUE>Solubility Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TransluscentSpotTest_text">
+	<TEXTVALUE>Translucent Spot Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BaudouinTest_text">
+	<TEXTVALUE>Baudouin Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="HublesTest_text">
+	<TEXTVALUE>Huble's Test</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BackBtn_text">
+	<TEXTVALUE>&#60;&#60;Back</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>Click on the tab to choose the test.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DesiGhee_text">
+	<TEXTVALUE>Desi Ghee </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VegetableGhee_text">
+	<TEXTVALUE>Vegetable Ghee </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="RefinedOil_text">
+	<TEXTVALUE>Refined Oil</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Desighee_two">
+	<TEXTVALUE>Desi ghee </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Alcohol_text">
+	<TEXTVALUE>Alcohol</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Chloroform_text">
+	<TEXTVALUE>Chloroform</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Water_text">
+	<TEXTVALUE>Water</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>Take a small amount of desi ghee in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>Using a dropper, take about 5 ml of water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>Add it to the test tube containing desi ghee. Desi ghee is immiscible (not mixable) in water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>Now take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>Now take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>Using another dropper, take about 5 ml of alcohol.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>Add it to the test tube containing desi ghee. Desi ghee forms a lower layer. Hold the test tube with a test tube holder. </TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>Heat the test tube over the Bunsen burner. The lower layer of ghee dissolves on heating.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>Again take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>Again take a small amount of desi ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>Using another dropper, take about 5 ml of chloroform.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>Add it to the test tube containing desi ghee. Desi ghee is miscible (mixable) in chloroform.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>Take a small amount of vegetable ghee in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="VeggheeText">
+	<TEXTVALUE>Vegetable ghee</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>Take a small amount of vegetable ghee in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>Using a dropper, take about 5 ml of water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>Add it to the test tube containing vegetable ghee. Vegetable ghee is immiscible (not mixable) in water.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>Take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>Take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>Using another dropper, take about 5 ml of alcohol.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>Add it to the test tube containing vegetable ghee. Vegetable  ghee forms a lower layer. Hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>Heat the test tube over the Bunsen burner. The lower layer of ghee dissolves on heating.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>Again take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>Again take a small amount of vegetable ghee in another test tube.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>Using another dropper, take about 5 ml of chloroform. </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>Add it to the test tube containing vegetable ghee. Vegetable ghee is miscible (mixable) in chloroform.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>Using a dropper, take a small quantity of refined oil in a test tube.</TEXTVALUE>
+	</TEXT>	
+	
+	<TEXT ID="Refinedoil_text">
+		<TEXTVALUE>Refined oil</TEXTVALUE>
+	</TEXT>	
+	
+</SCENE>
+
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>Using a dropper, take a small quantity of refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>Using a dropper, take a small quantity of refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+		
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>Using a dropper, take about 5 ml of water.</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>Add it to the test tube containing refined oil. Oil is immiscible (not mixable) in water.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>Now take a small amount of refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>Now take a small amount of refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+	
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>Using another dropper, take about 5 ml of alcohol.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>Add it to the test tube containing refined oil. The oil forms a lower layer. Hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>Heat the test tube over the Bunsen burner. The lower layer of oil dissolves on heating.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>Again take a small quantity of refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>Again take a small quantity of refined oil in another test tube.</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>Using another dropper, take about 5 ml of chloroform.</TEXTVALUE>
+	</TEXT>
+		
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>Add it to the test tube containing refined oil. Oil is miscible (mixable) in chloroform.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE> Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+		
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>Take a small amount of desi ghee using a spatula and put it on a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subone">
+		<TEXTVALUE>Then press the substance on the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subtwo">
+		<TEXTVALUE>Take the filter paper and place it in front of the lighting candle and move it over the flame, the light will be partly visible only through the spot formed by the ghee.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene46_subthree">
+		<TEXTVALUE>The reason is that when fat or oil is placed on a sheet of paper, it diffracts light. The diffracted light can pass from one side of the paper to the other, giving a translucent spot.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>Take a small amount of vegetable ghee using a spatula and put it on a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subone">
+		<TEXTVALUE>Then press the substance on the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subtwo">
+		<TEXTVALUE>Take the filter paper and place it in front of the lighting candle and move it over the flame, the light will be partly visible only through the spot formed by the ghee.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene47_subthree">
+		<TEXTVALUE>The reason is that when fat or oil is placed on a sheet of paper, it diffracts light. The diffracted light can pass from one side of the paper to the other, giving a translucent spot. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>Take some refined oil using a dropper. Drop a few drops on  a filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subzero">
+		<TEXTVALUE>Then press the substance on the filter paper using another filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene48_subone">
+		<TEXTVALUE>Take the filter paper and place it in front of the lighting candle and move it over the flame, the light will be partly visible only through the spot formed by the ghee.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene48_subtwo">
+		<TEXTVALUE>The reason is that when fat or oil is placed on a sheet of paper, it diffracts light. The diffracted light can pass from one side of the paper to the other, giving a translucent spot.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="VanaspatiGhee">
+		<TEXTVALUE>Vanaspati Ghee</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>Using a dropper, take a small quantity of melted desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MeltedDesighee">
+		<TEXTVALUE>Melted Desi ghee</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConSulphuricacid">
+		<TEXTVALUE>Con. HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="furfuralSolution">
+		<TEXTVALUE>2% Furfural solution</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>Using another dropper, add 5ml Conc. HCl into the test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>Then add about 3 drops of  2% furfural solution into the test tube. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene52_subone">
+		<TEXTVALUE>Keep it aside for 5-10 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene52_subtwo">
+		<TEXTVALUE>There will be no characteristic change, indicating that pure desi ghee does not contain sesame oil.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="MINUTES_text">
+		<TEXTVALUE>5 to 10 MINUTES</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>Using a dropper, take a small quantity of melted vanaspati ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="MeltedVanaspatighee">
+		<TEXTVALUE>Melted Vanaspati ghee</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>Using another dropper, add 5ml Conc. HCl into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>Then add about 3 drops of 2% furfural solution into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_subb">
+		<TEXTVALUE>Keep it aside for 5-10 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>Rose red color appears, indicating that vanaspati ghee contains 5% sesame oil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CottonSeedOil">
+		<TEXTVALUE>Cotton Seed Oil</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LinseedOil">
+		<TEXTVALUE>Linseed Oil</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>Take about 3ml of chloroform in a test tube using  a dropper.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Hublesreagent">
+		<TEXTVALUE>Huble's reagent</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>Using another dropper, take a small quantity of cotton seed oil and add about 4 drops of it into the test tube. Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>4 drops</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>Take a small quantity of Huble's  reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>Add about 3 drops of Huble's  reagent into the test tube containing the mixture of chloroform and cotton seed oil.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene61_subone">
+		<TEXTVALUE>The violet color of iodine in the Huble's  reagent does not fade away, indicating that the cotton seed oil is less unsaturated.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="threedrops">
+		<TEXTVALUE>3 drops</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>Take about 3ml of chloroform in a test tube using  a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>Using another dropper, take a small quantity of linseed oil and add about 4 drops into the test tube. Shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>Take a small quantity of Huble's  reagent using a dropper.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>Add about 3 drops of Huble's  reagent into the test tube containing the mixture of chloroform and linseed oil. The violet color of iodine in the Huble's  reagent  fades away, indicating that linseed oil is more unsaturated.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>Click on the tab to choose the sample.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>We require desi ghee, potassium bisulphate crystals, test tube, spatula, Bunsen burner etc.</TEXTVALUE>
+	</TEXT>	
+		<TEXT ID="pottan">
+		<TEXTVALUE>Potassium Bisulphate</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="desi_ghee">
+		<TEXTVALUE>Desi ghee</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>Using a spatula take a small amount of desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>	
+
+</SCENE>
+
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>Using a spatula take a small amount of desi ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>Using another spatula take a small quantity of potassium bisulphate crystals.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>Add potassium bisulphate crystals into the test tube. Hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>Heat the test tube over the Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene72_subone">
+		<TEXTVALUE>When fat is heated strongly in the presence of a dehydrating agent like potassium bisulphate, the glycerol portion of the molecule is dehydrated to form an unsaturated aldehyde called acrolein, which has a pungent irritating odour.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="popup_txt">
+		<TEXTVALUE>Pungent irritating odour 
+of acrolein is produced</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>Back</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>Using a spatula take a small amount of vegetable ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="veg_ghee">
+		<TEXTVALUE>Vegetable Ghee</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Scene74">
+	<TEXT ID="Scene74_sub">
+		<TEXTVALUE>Using a spatula take a small amount of vegetable ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene75">
+	<TEXT ID="Scene75_sub">
+		<TEXTVALUE>Using a spatula take a small amount of vegetable ghee in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene76">
+	<TEXT ID="Scene76_sub">
+		<TEXTVALUE>Using another spatula take a small quantity of potassium bisulphate crystals. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene77">
+	<TEXT ID="Scene77_sub">
+		<TEXTVALUE>Add potassium bisulphate crystals into the test tube. Hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene78">
+	<TEXT ID="Scene78_sub">
+		<TEXTVALUE>Heat the test tube over the Bunsen burner.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene78_subone">
+		<TEXTVALUE>When fat is heated strongly in the presence of a dehydrating agent like potassium bisulphate, the glycerol portion of the molecule is dehydrated to form an unsaturated aldehyde called acrolein, which has a pungent irritating odour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene79">
+	<TEXT ID="Scene79_sub">
+		<TEXTVALUE>Using a dropper take a small amount of refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene80">
+	<TEXT ID="Scene80_sub">
+		<TEXTVALUE>Using a dropper take a small amount of refined oil in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene81">
+	<TEXT ID="Scene81_sub">
+		<TEXTVALUE>Using a spatula take a small quantity of potassium bisulphate crystals. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene82">
+	<TEXT ID="Scene82_sub">
+		<TEXTVALUE>Add potassium bisulphate crystals into the test tube. Hold the test tube with a test tube holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene83">
+	<TEXT ID="Scene83_sub">
+		<TEXTVALUE>Heat the test tube over the Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene83_subone">
+		<TEXTVALUE>When fat is heated strongly in the presence of a dehydrating agent like potassium bisulphate, the glycerol portion of the molecule is dehydrated to form an unsaturated aldehyde called acrolein, which has a pungent irritating odour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

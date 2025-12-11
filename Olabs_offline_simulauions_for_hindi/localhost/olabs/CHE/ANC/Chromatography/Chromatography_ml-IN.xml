@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA> 
+
+<SCENE ID="Titleintractive">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start_txt">
+	 	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2buttons">
+	<TEXT ID="component">
+		<TEXTVALUE>പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി വഴി ചുവപ്പ്, നീല മഷികളുടെ
+		 മിശ്രിതത്തില്‍ ഉള്ള നിറമുള്ള ഘടകങ്ങളെ വേർതിരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pigment">
+		<TEXTVALUE>ചീര ഇലകളുടെ സത്തിൽ നിന്നും വർണ്ണങ്ങളെ വേർതിരിക്കൽ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>&#60;&#60; തിരികെ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി വഴി ചുവപ്പ്, നീല മഷികളുടെ
+		 മിശ്രിതത്തില്‍ ഉള്ള നിറമുള്ള ഘടകങ്ങളെ വേർതിരിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_one">
+		<TEXTVALUE>പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി വഴി ചുവപ്പ്, നീല മഷികളുടെ
+		 മിശ്രിതത്തില്‍ ഉള്ള നിറമുള്ള ഘടകങ്ങളെ വേർതിരിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+	
+<SCENE ID="intro">
+	<TEXT ID="ink_txt">
+		<TEXTVALUE>ചുവന്ന മഷി + നീല മഷി  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="water">
+		<TEXTVALUE>ശുദ്ധീകരിച്ച വെള്ളം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcohol">
+		<TEXTVALUE>ഐസോപ്രൊപ്പൈല്‍
+		 ആൽക്കഹോള്‍ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമായവ: ചുവപ്പ്, നീല മഷികളുടെ ഒരു മിശ്രിതം, ശുദ്ധ ജലം, ഐസോപ്രൊപ്പൈല്‍ ആൽക്കഹോള്‍, വാട്മാന്‍ ഫിൽട്ടര്‍ പേപ്പർ സ്ട്രിപ്പ് (20 x 2 സെ.മീ), പെൻസിൽ, സ്കെയിൽ, കാപ്പിലറി ട്യൂബ്, ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പർ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper">
+	<TEXT ID="takefilterpaper_one">
+	<TEXTVALUE>ഒരു വാട്മാന്‍ ഫിൽട്ടര്‍ പേപ്പർ സ്ട്രിപ്പ് (20 x 2 സെ.മീ) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing">
+	<TEXT ID="drawing_one">
+	<TEXTVALUE>ഒരറ്റത്തുനിന്ന് 4 സെ.മീ മുകളിലായി പെൻസിൽ കൊണ്ട് ഒരു രേഖ വരയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing_two">
+	<TEXTVALUE>പേപ്പറിന്റെ മദ്ധ്യത്തില്‍ നിന്ന് നീളത്തില്‍ മറ്റൊരു രേഖ വരയ്ക്കുക, രണ്ട് രേഖകളും കൂട്ടിമുട്ടുന്ന ബിന്ദുവില്‍ P എന്ന്‍ നാമകരണം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary">
+	<TEXT ID="cappillary_one">
+	<TEXTVALUE>ഒരു കാപ്പിലറി ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="color">
+	<TEXT ID="color_one">
+	<TEXTVALUE>കാപ്പിലറി ട്യൂബ് ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതം അടങ്ങിയ ബീക്കറില്‍ മുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop2">
+	<TEXT ID="waterdrop2_one">
+	<TEXTVALUE>P ബിന്ദുവില്‍ ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതത്തിന്റെ ഒരു തുള്ളി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop2_two">
+	<TEXTVALUE>ഉണങ്ങുവാനായി അത് തുറന്നുവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy">
+	<TEXT ID="colorcopy_one">
+	<TEXTVALUE>കാപ്പിലറി ട്യൂബ് ഉപയോഗിച്ച് വീണ്ടും ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdrop2copy">
+	<TEXT ID="waterdrop2copy_one">
+	<TEXTVALUE>ബിന്ദുവില്‍ മിശ്രിതം ധാരാളമാകുന്ന തരത്തില്‍ അതേ ബിന്ദുവില്‍ മറ്റൊരു തുള്ളി ഒഴിക്കുക, വീണ്ടും ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater">
+	<TEXT ID="addingwater_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 5 മി.ലി ശുദ്ധജലം അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar">
+	<TEXT ID="togasjar">
+	<TEXTVALUE>ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Togasjar_one">
+	<TEXTVALUE>അതിനെ ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol">
+	<TEXT ID="takingalcohol_one">
+	<TEXTVALUE>മറ്റൊരു അളവ് ജാറില്‍ 5 മി.ലി ആൽക്കഹോള്‍ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar">
+	<TEXT ID="alcoholtogasjar_one">
+	<TEXTVALUE>ശുദ്ധജലം ഉൾക്കൊള്ളുന്ന ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറിലേക്ക് അതിനെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="alcoholtogasjar_two">
+	<TEXTVALUE>ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറില്‍ അടങ്ങിയിട്ടുള്ളവയെ മിശ്രിതപ്പെടുത്തുക. ഈ മിശ്രിതം ലായകമായി ഉപയോഗിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് അതിനെ മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution">
+	<TEXT ID="papertosolution_one">
+	<TEXTVALUE>ലായകത്തിന്റെ നിരപ്പിൽ നിന്ന് 2 സെ.മീ മുകളിൽ പെൻസിൽ രേഖ വരുന്ന വിധത്തിൽ ലായകം ഉൾക്കൊള്ളുന്ന ക്രൊമാറ്റോഗ്രാഫിക് ചേംബറിൽ ലംബമായി ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution_two">
+	<TEXTVALUE>അടപ്പ് ഉപയോഗിച്ച് ചേംബർ മൂടിയശേഷം കുറച്ചുസമയം അതിനെ അനക്കാതെ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution_three">
+	<TEXTVALUE>ചുവപ്പ്, നീല മഷികളോടൊപ്പം ലായകം ഉയരുന്നത് ശ്രദ്ധിക്കുക. ലായകം ഏകദേശം 15 സെ.മീ വരെ ഉയരുമ്പോള്‍, ചുവപ്പ്, നീല മഷികളുടെ രണ്ട് വ്യത്യസ്ത ബിന്ദുക്കള്‍ ഫിൽട്ടര്‍ പേപ്പറിൽ നിങ്ങൾക്ക് കാണാന്‍ സാധിക്കുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry">
+	<TEXT ID="paperdry_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil">
+	<TEXT ID="takingpencil_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="marking">
+	<TEXT ID="marking_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="marking_two">
+	<TEXTVALUE>ഫിൽട്ടർ പേപ്പർ അന്തരീക്ഷ വായുവില്‍ ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="marking_three">
+	<TEXTVALUE>നീലയും ചുവപ്പും ബിന്ദുക്കളുടെ മധ്യത്തില്‍ പെൻസിൽ അടയാളം ഇടുക. യഥാർത്ഥ രേഖയില്‍ നിന്ന് സോൾവന്റ് ഫ്രണ്ടിന്റെ ദൂരവും യഥാർത്ഥ ലൈനിൽ നിന്ന് രണ്ട് ബിന്ദുക്കളുടെ ദൂരവും അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="value">
+	<TEXT ID="rf_title">
+	<TEXTVALUE>Rf മൂല്യങ്ങൾ</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="numerator">
+	<TEXTVALUE>യഥാർത്ഥ രേഖയിൽ നിന്നും ലേയപദാർത്ഥം സഞ്ചരിച്ച ദൂരം.</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="denominator">
+	<TEXTVALUE>യഥാർത്ഥരേഖയിൽ നിന്നും ലായകം സഞ്ചരിച്ച ദൂരം.</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="value_one">
+	<TEXTVALUE>സൂത്രവാക്യം ഉപയോഗിച്ച് നീലയും ചുവപ്പും മഷികളുടെ Rf മൂല്യങ്ങൾ കണക്കാക്കുക.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>ക്രമ നമ്പർ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE>ഘടകങ്ങൾ സഞ്ചരിച്ച
+		 ദൂരം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>ലായകം സഞ്ചരിച്ച
+		 ദൂരം</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h4">
+		<TEXTVALUE>Rf മൂല്യങ്ങൾ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h5">
+		<TEXTVALUE>നീല മഷി</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h6">
+		<TEXTVALUE>ചുവന്ന മഷി </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result_one">
+	<TEXTVALUE>സൂത്രവാക്യം ഉപയോഗിച്ച് നീലയും ചുവപ്പും മഷികളുടെ Rf മൂല്യങ്ങൾ കണക്കാക്കുക.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+
+
+
+ 
+
+<SCENE ID="Title2">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>പേപ്പർ ക്രൊമാറ്റോഗ്രാഫി വഴി ചീര ഇലയുടെ ഘടകങ്ങളെ വേർതിരിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="intro2">
+	<TEXT ID="extract">
+		<TEXTVALUE>ചീര ഇലയുടെ സത്ത്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>നമുക്ക് ആവശ്യമായവ: ചുവപ്പ്, നീല മഷികളുടെ ഒരു മിശ്രിതം, ശുദ്ധജലം, ഐസോപ്രൊപ്പൈല്‍, ആൽക്കഹോള്‍, വാട്മാന്‍ ഫിൽട്ടര്‍ പേപ്പർ സ്ട്രിപ്പ് (20 x 2 സെ.മീ), പെൻസിൽ, സ്കെയിൽ, കാപ്പിലറി ട്യൂബ്, ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പർ മുതലായവ.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper2">
+	<TEXT ID="ttakefilterpaper2_one">
+	<TEXTVALUE>ഒരു വാട്മാന്‍ ഫിൽട്ടര്‍ പേപ്പർ സ്ട്രിപ്പ് (20x2 സെ.മീ) എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ttakefilterpaper2_two">
+	<TEXTVALUE>ഒരറ്റത്തുനിന്ന് 4 സെ.മീ മുകളിലായി പെൻസിൽ കൊണ്ട് ഒരു രേഖ വരയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing2">
+	<TEXT ID="drawing2_one">
+	<TEXTVALUE>പേപ്പറിന്റെ മദ്ധ്യത്തില്‍ നിന്ന് നീളത്തില്‍ മറ്റൊരു രേഖ വരയ്ക്കുക, രണ്ട് രേഖകളും കൂട്ടിമുട്ടുന്ന ബിന്ദുവില്‍ P എന്ന്‍ നാമകരണം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing2_two">
+	<TEXTVALUE>പേപ്പറിന്റെ മദ്ധ്യത്തില്‍ നിന്ന് നീളത്തില്‍ മറ്റൊരു രേഖ വരയ്ക്കുക, രണ്ട് രേഖകളും കൂട്ടിമുട്ടുന്ന ബിന്ദുവില്‍ P എന്ന്‍ നാമകരണം ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary2">
+	<TEXT ID="cappillary2_one">
+	<TEXTVALUE>ഒരു കാപ്പിലറി ട്യൂബ് എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="color2">
+	<TEXT ID="extract">
+		<TEXTVALUE>ചീര ഇലയുടെ സത്ത്</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="color2_one">
+	<TEXTVALUE>കാപ്പിലറി ട്യൂബ് ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതം അടങ്ങിയ ബീക്കറില്‍ മുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop21">
+	<TEXT ID="waterdrop21_one">
+	<TEXTVALUE>P ബിന്ദുവില്‍ ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതത്തിന്റെ ഒരു തുള്ളി ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop21_two">
+	<TEXTVALUE>ഉണങ്ങുവാനായി അത് തുറന്നുവയ്ക്കുക.</TEXTVALUE>
+	</TEXT>s
+	</SCENE>
+	
+
+<SCENE ID="colorcopy2">
+	<TEXT ID="colorcopy2_one">
+	<TEXTVALUE>കാപ്പിലറി ട്യൂബ് ഉപയോഗിച്ച് വീണ്ടും ചുവപ്പ്, നീല മഷികളുടെ മിശ്രിതം എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdropcopy21">
+	<TEXT ID="waterdropcopy21_one">
+	<TEXTVALUE>ബിന്ദുവില്‍ മിശ്രിതം ധാരാളമാകുന്ന തരത്തില്‍ അതേ ബിന്ദുവില്‍ മറ്റൊരു തുള്ളി ഒഴിക്കുക, വീണ്ടും ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater2">
+	<TEXT ID="addingwater2_one">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 5 മി.ലി ശുദ്ധജലംഅളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar2">
+	<TEXT ID="Togasjar2_one">
+	<TEXTVALUE>അതിനെ ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറിലേക്ക് ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol2">
+	<TEXT ID="takingalcohol2_one">
+	<TEXTVALUE>മറ്റൊരു അളവ് ജാറില്‍ 5 മി.ലി ആൽക്കഹോള്‍ അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar2">
+	<TEXT ID="alcoholtogasjar2_one">
+	<TEXTVALUE>ശുദ്ധജലം ഉൾക്കൊള്ളുന്ന ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറിലേക്ക് അതിനെ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcoholtogasjar2_two">
+	<TEXTVALUE>ഒരു ഗ്ലാസ് ദണ്ഡ് ഉപയോഗിച്ച് ക്രൊമാറ്റോഗ്രാഫിക് ചേമ്പറില്‍ അടങ്ങിയിട്ടുള്ളവയെ മിശ്രിതപ്പെടുത്തുക. ഈ മിശ്രിതം ലായകമായി ഉപയോഗിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube2">
+	<TEXT ID="drops2tube2_one">
+	<TEXTVALUE>ഒരു ടെസ്റ്റ് ട്യൂബിലേക്ക് അതിനെ മാറ്റുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution2">
+	<TEXT ID="papertosolution2_one">
+	<TEXTVALUE>ലായകത്തിന്റെ നിരപ്പിൽ നിന്ന് 2 സെ.മീ മുകളിൽ പെൻസിൽ രേഖ വരുന്ന വിധത്തിൽ ലായകം ഉൾക്കൊള്ളുന്ന ക്രൊമാറ്റോഗ്രാഫിക് ചേംബറിൽ ലംബമായി ഫിൽട്ടർ പേപ്പർ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution2_two">
+	<TEXTVALUE>അടപ്പ് ഉപയോഗിച്ച് ചേമ്പർ മൂടിയശേഷം കുറച്ചുസമയം അതിനെ അനക്കാതെ വയ്ക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_three">
+	<TEXTVALUE>ഇലയുടെ സത്തിനൊപ്പം ലായകം ഉയരുന്നത് ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_four">
+	<TEXTVALUE>ലായകം ഏകദേശം 15 സെ.മീ വരെ ഉയരുമ്പോള്‍, ചീര ഇലയുടെ സത്തിന്റെ രണ്ട് വ്യത്യസ്ത ബിന്ദുക്കള്‍ ഫിൽട്ടര്‍ പേപ്പറിൽ നിങ്ങൾക്ക്  കാണാന്‍ സാധിക്കുന്നതാണ്.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry2">
+	<TEXT ID="paperdry2_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil2">
+	<TEXT ID="takingpencil2_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_one">
+	<TEXTVALUE>ചേമ്പറില്‍ നിന്നു ഫിൽട്ടര്‍ പേപ്പർ എടുക്കുകയും ലായകം ഉയരുന്ന ദൂരം പേപ്പറില്‍ ഒരു പെൻസില്‍ ഉപയോഗിച്ച് അടയാളപ്പെടുത്തുകയും ചെയ്യുക. ഇതിനെ സോൾവന്റ് ഫ്രണ്ട് എന്ന്‍ വിളിക്കുന്നു.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_two">
+	<TEXTVALUE>ഫിൽട്ടർ പേപ്പർ അന്തരീക്ഷവായുവില്‍ ഉണക്കുക.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene392_three">
+	<TEXTVALUE>നീലയും ചുവപ്പും ബിന്ദുക്കളുടെ മധ്യത്തില്‍ പെൻസിൽ അടയാളം ഇടുക. യഥാർത്ഥ രേഖയില്‍ നിന്ന് സോൾവന്റ് ഫ്രണ്ടിന്റെ ദൂരവും യഥാർത്ഥ ലൈനിൽ നിന്ന് രണ്ട് ബിന്ദുക്കളുടെ ദൂരവും അളക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="rfvalue">
+	<TEXT ID="rfvalue_one">
+	<TEXTVALUE>സൂത്രവാക്യം ഉപയോഗിച്ച് നീലയും ചുവപ്പും മഷികളുടെ Rf മൂല്യങ്ങൾ കണക്കാക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result2">
+	<TEXT ID="Orange">
+	<TEXTVALUE>ഓറഞ്ച്
+	 (കരോട്ടിന്‍)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Yellow">
+	<TEXTVALUE>മഞ്ഞ
+	 (സാന്തോഫില്‍)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="light_green">
+	<TEXTVALUE>ഇളം പച്ച
+ (ക്ലോറോഫില്‍ a) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dark_green">
+	<TEXTVALUE>ഇരുണ്ട പച്ച 
+(ക്ലോറോഫില്‍ b)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result2_one">
+	<TEXTVALUE>സൂത്രവാക്യം ഉപയോഗിച്ച് നീലയും ചുവപ്പും മഷികളുടെ Rf മൂല്യങ്ങൾ കണക്കാക്കുക.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

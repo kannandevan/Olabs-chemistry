@@ -1,0 +1,555 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2016-03-15 12:20+0530\n"
+"PO-Revision-Date: 2016-03-15 15:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:29 simcontrols.js:58
+msgid "Drag the soap to add it in to the beaker containing distilled water."
+msgstr "साबण ओढून ऊर्ध्वपतित पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:29
+msgid "Drag the soap to add it in to the beaker containing well water."
+msgstr "साबण ओढून विहीरीचे पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:29
+msgid ""
+"Drag the soap to add it into the beaker containing Distilled water with dissolved CaCl<sub>2</"
+"sub>(s)."
+msgstr "साबण ओढून CaCl2 मिश्रित ऊर्ध्वपतित पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:30
+msgid "Distilled Water"
+msgstr "ऊर्ध्वपतित पाणी"
+
+#: simcontrols.js:30
+msgid "Well Water"
+msgstr "विहीरीचे पाणी"
+
+#: simcontrols.js:30
+msgid "Distilled Water+ CaCl&#8322;"
+msgstr "ऊर्ध्वपतित पाणी + CaCl&#8322;"
+
+#: simcontrols.js:33
+msgid "Cleaning Capacity of Soap with Hard and Soft Water"
+msgstr "हलक्या आणि जड पाण्यात साबणाची स्वच्छ करण्याची क्षमता"
+
+#: simcontrols.js:34
+msgid "Drag the soap to add it into the beaker containing distilled water."
+msgstr "साबण ओढून ऊर्ध्वपतित पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:35
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: simcontrols.js:36
+msgid "Select Procedure "
+msgstr "प्रयोग निवडा"
+
+#: simcontrols.js:37
+msgid "Instructions"
+msgstr "सूचना"
+
+#: simcontrols.js:48 simcontrols.js:170
+msgid "In beaker, soap solution formed is almost clear."
+msgstr "चंचुपात्रात साबणाचे द्रावण एकदम स्वच्छ आहे."
+
+#: simcontrols.js:49 simcontrols.js:171 simcontrols.js:188
+msgid "It was observed that lather has formed in the test tube."
+msgstr "परिक्षा नळीत फेस निर्माण झाल्याचे दिसले."
+
+#: simcontrols.js:50
+msgid ""
+"Ink spot on the cloth has almost completely disappeared indicating that soap solution with "
+"distilled water (soft water) has most cleansing capability."
+msgstr ""
+"कापडावरचा शाईचा डाग जवळजवळ अदृश्य झाला आहे, म्हणजे ऊर्ध्वपतित पाण्याच्या (हलके पाणी) साबणाच्या द्रावणात "
+"सर्वाधिक स्वच्छ करण्याची क्षमता असते."
+
+#: simcontrols.js:52
+msgid "Click here to see the inference"
+msgstr "इथे क्लिक करून अनुमान बघा"
+
+#: simcontrols.js:65 simcontrols.js:83 simcontrols.js:306
+msgid "Click on the glass rod to stir the mixture."
+msgstr "द्रावण ढवळण्यासाठी काचेचा रॉड क्लिक करा."
+
+#: simcontrols.js:71 simcontrols.js:821
+msgid "Click on the knob of the burner to turn it on."
+msgstr "बर्नरचा बटण क्लिक करून बर्नर सुरू करा."
+
+#: simcontrols.js:77
+msgid "Drag the beaker and place it over the Bunsen burner to gently heat it."
+msgstr "चंचुपात्र बन्सेन बर्नर कडे ओढा आणि बर्नर वर ठेवून हलके गरम करा."
+
+#: simcontrols.js:90 simcontrols.js:817
+msgid "Click on the knob of the burner to turn it off."
+msgstr "बर्नरचा बटण क्लिक करून बर्नर बंद करा."
+
+#: simcontrols.js:96 simcontrols.js:150 simcontrols.js:358
+msgid "Click on the test tube to move it up."
+msgstr "परिक्षा नलिका वर हलविण्यासाठी तिच्यावर क्लिक करा."
+
+#: simcontrols.js:102 simcontrols.js:494
+msgid "Click on the beaker to pour soap solution in to the test tube."
+msgstr "परिक्षा नलिकेत साबणाचे द्रावण ओतण्यासाठी चंचुपात्रावर क्लिक करा."
+
+#: simcontrols.js:108
+msgid "Click on the close button to go to previous stage."
+msgstr "आधीच्या टप्प्याकडे जाण्यासाठी ‘बंद’ बटण क्लिक करा."
+
+#: simcontrols.js:114 simcontrols.js:126
+msgid "Click on the test tube to zoom it."
+msgstr "झूम करण्यासाठी परिक्षा नलिकेवर क्लिक करा."
+
+#: simcontrols.js:120 simcontrols.js:578
+msgid "Click on the test tube to shake it up and down."
+msgstr "वर खाली हलविण्यासाठी परिक्षा नळी वर क्लिक करा."
+
+#: simcontrols.js:131 simcontrols.js:376
+msgid "Drag the cloth to put it into the beaker."
+msgstr "कापड ओढून चंचुपात्रात टाका"
+
+#: simcontrols.js:136 simcontrols.js:763
+msgid "Click on the beaker to see the zoomed view of cloth."
+msgstr "कापडाचे झूम्ड दृश्य बघायला चंचुपात्रावर क्लिक करा."
+
+#: simcontrols.js:158
+msgid "Drag the soap to add it into the beaker containing Distilled Water."
+msgstr "साबण ओढून ऊर्ध्वपतित पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:172
+msgid ""
+"Ink spot on the cloth has almost completely disappeared indicating that soap solution with "
+"distilled water (soft water) has most cleansing capability"
+msgstr ""
+"कापडावरचा शाईचा डाग जवळजवळ अदृश्य झाला आहे, म्हणजे ऊर्ध्वपतित पाण्याच्या (हलके पाणी) साबणाच्या द्रावणात "
+"सर्वाधिक स्वच्छ करण्याची क्षमता असते."
+
+#: simcontrols.js:173
+msgid "Soap solution with distilled water produces maximum length of lather."
+msgstr "ऊर्ध्वपतित पाण्याचे (हलके पाणी) साबणाचे द्रावण सर्वाधिक फेस निर्माण करते."
+
+#: simcontrols.js:177
+msgid "Drag the soap to add it into the beaker containing Well Water."
+msgstr "साबण ओढून विहीरीचे पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:187
+msgid "In beaker, some turbidity is formed."
+msgstr "चंचुपात्रात गढूळपणा निर्माण होतो."
+
+#: simcontrols.js:189
+msgid ""
+"Ink spot on the cloth has partially disappeared indicating that soap solution with well water "
+"has less cleansing capability than soft water."
+msgstr ""
+"कापडावरचा शाईचा डाग थोडासा अदृश्य झाला आहे, म्हणजे विहिरीच्या पाण्याच्या साबणाच्या द्रावणात हलक्या "
+"पाण्यापेक्षा कमी स्वच्छ करण्याची क्षमता असते."
+
+#: simcontrols.js:190
+msgid "Soap solution with well water (hard water) produces smaller length of lather."
+msgstr "विहीरीच्या पाण्याचे (जड पाणी) साबणाचे द्रावण कमी फेस निर्माण करते."
+
+#: simcontrols.js:195
+msgid ""
+"Drag the soap to add it into the beaker containing Distilled water with dissolved CaCl&#8322; "
+"(s)."
+msgstr "साबण ओढून  CaCl&#8322; (s) मिश्रित ऊर्ध्वपतित पाणी असणार्‍या चंचुपात्रात टाका."
+
+#: simcontrols.js:204
+msgid "In beaker, scum is formed."
+msgstr "चंचुपात्रात मळी निर्माण होते."
+
+#: simcontrols.js:205
+msgid "It was observed that very small lather is formed in the test tube."
+msgstr "असे दिसून येते की परिक्षा नळीत खूप कमी फेस निर्माण होतो."
+
+#: simcontrols.js:206
+msgid ""
+"No change in the colour of the ink spot indicating that soap solution with distilled water "
+"containing dissolved CaCl &#8322; has least cleansing capability."
+msgstr ""
+"शाईच्या डागाच्या रंगात काहीही फरक पडला नाही, म्हणजे CaCl2 मिश्रित ऊर्ध्वपतित पाण्याच्या साबणाच्या द्रावणात "
+"सगळ्यात कमी स्वच्छ करण्याची क्षमता असते."
+
+#: simcontrols.js:207
+msgid ""
+"Soap solution with distilled water containing dissolved CaCl &#8322;(very hard water) produces "
+"minimum length of lather."
+msgstr "CaCl2 मिश्रित ऊर्ध्वपतित पाण्याचे साबणाचे द्रावण सगळ्यात कमी फेस निर्माण करते."
+
+#: simcontrols.js:421
+msgid "Drag the beaker and place it over the Bunsen burner to gently heat it.  "
+msgstr "चंचुपात्र बन्सेन बर्नर कडे ओढा आणि बर्नर वर ठेवून हलके गरम करा."
+
+#: simcontrols.js:430 simcontrols.js:697
+msgid "NEXT STEP"
+msgstr "पुढची प्रक्रिया"
+
+#: simcontrols.js:432 simcontrols.js:698
+msgid ""
+"Click on the information icon to see the Inference.</br></br>Click on the 'NEXT STEP' icon to go "
+"to the next process."
+msgstr ""
+"माहिती आयकॉन क्लिक करून अनुमान बघा <br></br> • पुढच्या प्रक्रियेकडे जाण्यासाठी ‘पुढची प्रक्रिया’ बटण क्लिक करा."
+
+#: simcontrols.js:457
+msgid "Click on the glass rod to stir the mixture. "
+msgstr "चंचुपात्रातले द्रावण ढवळायला काचेच्या रॉड वर क्लिक करा."
+
+#: simcontrols.js:537
+msgid "Click on the test tube to zoom it"
+msgstr "झूम करण्यासाठी परिक्षा नळी वर क्लिक करा."
+
+#: simcontrols.js:553
+msgid "Drag the scale to measure the initial length of the soap solution"
+msgstr "पट्टी परिक्षा नळीकडे ओढा, व साबणाच्या द्रावणाची प्राथमिक ऊंची मोजा."
+
+#: simcontrols.js:558
+msgid "Click on the close button to go to the previous stage."
+msgstr "आधीच्या टप्प्याकडे जाण्यासाठी ‘बंद’ बटण क्लिक करा."
+
+#: simcontrols.js:668
+msgid ""
+"Click on the information icon to see the Inference.</br></br>Click on the test tube to zoom it."
+msgstr "माहिती आयकॉन क्लिक करून अनुमान बघा <br></br> झूम करण्यासाठी परिक्षा नळी वर क्लिक करा."
+
+#: simcontrols.js:688
+msgid ""
+"Drag the scale to measure the length of the lather and the final length of the soap solution."
+msgstr "पट्टी परिक्षा नळीकडे ओढा, व फेस आणि साबणाच्या द्रावणाची अंतिम ऊंची मोजा."
+
+#: simcontrols.js:788
+msgid "Click on the information icon to see the Inference."
+msgstr "माहिती आयकॉन क्लिक करून अनुमान बघा"
+
+#~ msgid "Colour test"
+#~ msgstr "Colour test"
+
+#~ msgid "Smell test"
+#~ msgstr "Smell test"
+
+#~ msgid "Dry heating test"
+#~ msgstr "Dry heating test"
+
+#~ msgid "Charcoal cavity test"
+#~ msgstr "Charcoal cavity test"
+
+#~ msgid "Cobalt nitrate test"
+#~ msgstr "Cobalt nitrate test"
+
+#~ msgid "Flame test"
+#~ msgstr "Flame test"
+
+#~ msgid "Borax bead test"
+#~ msgstr "Borax bead test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Select preliminary test:"
+#~ msgstr "Select preliminary test:"
+
+#~ msgid "Select the group test:"
+#~ msgstr "Select the group test:"
+
+#~ msgid "Select the confirmation test:"
+#~ msgstr "Select the confirmation test:"
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Ammonium-NH4+"
+#~ msgstr "Ammonium-NH4+"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Magnesium-Mg2+"
+#~ msgstr "Magnesium-Mg2+"
+
+#~ msgid "Salt.png"
+#~ msgstr "Salt.png"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</sup> "
+#~ "are absent."
+#~ msgstr ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</sup>, Mn<sup>2+</sup> "
+#~ "are absent."
+
+#~ msgid "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+#~ msgstr "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "May be Mn<sup>2+</sup> is present"
+#~ msgstr "May be Mn<sup>2+</sup> is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Acetic acid"
+#~ msgstr "Acetic acid"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution "
+#~ "over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution "
+#~ "over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns "
+#~ "lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns "
+#~ "lime water milky."
+
+#~ msgid "HELP"
+#~ msgstr "HELP"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the "
+#~ "conical flask during the respiration of the seeds."

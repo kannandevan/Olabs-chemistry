@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-06 15:49+0530\n"
+"PO-Revision-Date: 2025-10-07 12:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "HELP"
+msgstr "സഹായം"
+
+msgid "Alert"
+msgstr "മുന്നറിയിപ്പ്"
+
+msgid "Do you want to reset the simulation"
+msgstr "സിമുലേഷൻ പുനഃസജ്ജമാക്കണോ?"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "No"
+msgstr "ഇല്ല"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "വികസിപ്പിച്ചത് അമൃത സർവ്വകലാശാല <br> ധനസഹായം : ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം || <br> വിദ്യാഭ്യാസ മന്ത്രാലയം, ഇന്ത്യൻ ഗവൺമെന്റ്"
+
+msgid "RESET"
+msgstr "റീസെറ്റ്"
+
+msgid "MAXIMIZE"
+msgstr "വലുതാക്കുക"
+
+msgid "MINIMIZE"
+msgstr "ചെറുതാക്കുക"
+
+msgid "To Identify Washing soda or Baking soda among given Samples of Chemicals"
+msgstr "നൽകിയിട്ടുള്ള രാസവസ്തുക്കളുടെ സാമ്പിളുകളിൽ നിന്ന് വാഷിംഗ് സോഡാ അല്ലെങ്കിൽ ബേക്കിംഗ് സോഡാ എന്നിവയെ തിരിച്ചറിയാൻ"
+
+msgid "Next"
+msgstr "അടുത്തത്"
+
+msgid "The boiling tube A only produces effervescence when dil. HCl is added. <br>Therefore, the further procedure will be done using boiling tube A"
+msgstr "നേർപ്പിച്ച HCl ചേർക്കുമ്പോൾ തിളപ്പിക്കൽ ട്യൂബ് A യിൽ മാത്രം എഫർവെസെൻസ് (effervescence) ഉണ്ടാകുന്നു. <br>അതുകൊണ്ട്, തുടർന്നുള്ള നടപടിക്രമം തിളപ്പിക്കൽ ട്യൂബ് A ഉപയോഗിച്ച് ചെയ്യും."
+
+msgid "Wash the glass rod used for one sample before it used for another sample."
+msgstr "ഒരു സാമ്പിളിനായി ഉപയോഗിച്ച ഗ്ലാസ് റോഡ് മറ്റൊരു സാമ്പിളിനായി ഉപയോഗിക്കുന്നതിന് മുമ്പ് കഴുകുക."
+
+msgid "Pass the liberated gas evolved through the lime water in a test tube . The lime water turns milky."
+msgstr "പുറത്തുവരുന്ന വാതകം ടെസ്റ്റ് ട്യൂബിലെ ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ (ചുണ്ണാമ്പുവെള്ളം) കടത്തിവിടുക. ചുണ്ണാമ്പുവെള്ളം പാൽനിറമായി മാറുന്നു."
+
+msgid "Sodium carbonate decahydrate"
+msgstr "സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റ്"
+
+msgid "Ammonium chloride"
+msgstr "അമോണിയം ക്ലോറൈഡ്"
+
+msgid "Sodium chloride"
+msgstr "സോഡിയം ക്ലോറൈഡ്"
+
+msgid "Click on the sodium carbonate decahydrate bottle"
+msgstr "സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റ് കുപ്പിയിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "Click on the cap to open the bottle"
+msgstr "കുപ്പിയുടെ അടപ്പ് തുറക്കാൻ ക്ലിക്കുചെയ്യുക"
+
+msgid "Drag and drop the Spatula towards the bottle"
+msgstr "സ്‌പാറ്റുല കുപ്പിയുടെ അടുത്തേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the Spatula towards the Boiling tube A"
+msgstr "സ്‌പാറ്റുല തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the Spatula towards the Boiling tube B"
+msgstr "സ്‌പാറ്റുല തിളപ്പിക്കൽ ട്യൂബ് B യിലേക്ക് വലിച്ചിടുക"
+
+msgid "Drag and drop the Spatula towards the Boiling tube C"
+msgstr "സ്‌പാറ്റുല തിളപ്പിക്കൽ ട്യൂബ് C യിലേക്ക് വലിച്ചിടുക"
+
+msgid "Click here to shake."
+msgstr "കുലുക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube A."
+msgstr "മെഷറിംഗ് സിലിണ്ടർ തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube B."
+msgstr "മെഷറിംഗ് സിലിണ്ടർ തിളപ്പിക്കൽ ട്യൂബ് B യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Measuring Cylinder towards the Boiling tube C."
+msgstr "മെഷറിംഗ് സിലിണ്ടർ തിളപ്പിക്കൽ ട്യൂബ് C യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Click on the ammonium chloride bottle."
+msgstr "അമോണിയം ക്ലോറൈഡ് കുപ്പിയിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "Click on the sodium chloride bottle."
+msgstr "സോഡിയം ക്ലോറൈഡ് കുപ്പിയിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "Click on the Next button."
+msgstr "അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "Drag and drop Glass rod towards Boiling tube A."
+msgstr "ഗ്ലാസ് റോഡ് തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Click on the Inference button to see the observation."
+msgstr "നിരീക്ഷണം കാണാൻ നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "Drag and drop Glass rod towards the Boiling tube B."
+msgstr "ഗ്ലാസ് റോഡ് തിളപ്പിക്കൽ ട്യൂബ് B യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop Glass rod towards the Boiling tube C."
+msgstr "ഗ്ലാസ് റോഡ് തിളപ്പിക്കൽ ട്യൂബ് C യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the dil. HCL bottle towards the <br>Measuring Cylinder."
+msgstr "നേർപ്പിച്ച HCl കുപ്പി <br>മെഷറിംഗ് സിലിണ്ടറിലേക്ക് വലിച്ചിടുക."
+
+msgid "Click here to open the dil. HCL Bottle cap."
+msgstr "നേർപ്പിച്ച HCl കുപ്പിയുടെ അടപ്പ് തുറക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക."
+
+msgid "Drag and drop the Cork towards the Boiling tube A."
+msgstr "കോർക്ക് തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Delivery tube towards the Boiling tube A."
+msgstr "ഡെലിവറി ട്യൂബ് തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Dropper towards the Boiling tube A."
+msgstr "ഡ്രോപ്പർ തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Test tube containing Lime water<br>towards the other end of the Delivery tube."
+msgstr "ചുണ്ണാമ്പുവെള്ളമുള്ള ടെസ്റ്റ് ട്യൂബ് <br>ഡെലിവറി ട്യൂബിന്റെ മറ്റേ അറ്റത്തേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop the Wash Bottle towards the Measuring Cylinder."
+msgstr "വാഷ് ബോട്ടിൽ മെഷറിംഗ് സിലിണ്ടറിലേക്ക് വലിച്ചിടുക."
+
+msgid "Click on the Boiling tube A to shake it."
+msgstr "തിളപ്പിക്കൽ ട്യൂബ് A കുലുക്കാൻ ക്ലിക്കുചെയ്യുക."
+
+msgid "Click on the Boiling tube B to shake it."
+msgstr "തിളപ്പിക്കൽ ട്യൂബ് B കുലുക്കാൻ ക്ലിക്കുചെയ്യുക."
+
+msgid "Click on the Boiling tube C to shake it."
+msgstr "തിളപ്പിക്കൽ ട്യൂബ് C കുലുക്കാൻ ക്ലിക്കുചെയ്യുക."
+
+msgid "Drag and drop the Glass rod towards the red litmus."
+msgstr "ഗ്ലാസ് റോഡ് ചുവന്ന ലിറ്റ്മസിലേക്ക് വലിച്ചിടുക."
+
+msgid "Drag and drop Glass rod towards the Boiling tube B"
+msgstr "ഗ്ലാസ് റോഡ് തിളപ്പിക്കൽ ട്യൂബ് B യിലേക്ക് വലിച്ചിടുക"
+
+msgid "When a drop of sodium carbonate decahydrate<br>solution is dropped on red litmus, it turns blue."
+msgstr "സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റ് ലായനിയുടെ ഒരു തുള്ളി <br>ചുവന്ന ലിറ്റ്മസിൽ ഒഴിക്കുമ്പോൾ, അത് നീലയായി മാറുന്നു."
+
+msgid "Drag and drop Glass rod towards the Boiling tube C"
+msgstr "ഗ്ലാസ് റോഡ് തിളപ്പിക്കൽ ട്യൂബ് C യിലേക്ക് വലിച്ചിടുക"
+
+msgid "When a drop of ammonium chloride is added to red litmus <br>there is no change in the litmus paper."
+msgstr "ചുവന്ന ലിറ്റ്മസിലേക്ക് അമോണിയം ക്ലോറൈഡിന്റെ ഒരു തുള്ളി ചേർക്കുമ്പോൾ <br>ലിറ്റ്മസ് പേപ്പറിൽ മാറ്റമൊന്നും ഉണ്ടാകുന്നില്ല."
+
+msgid "Click on the Next button"
+msgstr "അടുത്ത ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
+
+msgid "When a drop of sodium chloride is added to red litmus<br> there is no effect on the litmus paper."
+msgstr "ചുവന്ന ലിറ്റ്മസിലേക്ക് സോഡിയം ക്ലോറൈഡിന്റെ ഒരു തുള്ളി ചേർക്കുമ്പോൾ <br>ലിറ്റ്മസ് പേപ്പറിൽ ഒരു സ്വാധീനവുമില്ല."
+
+msgid "Click here to open the dil. HCL Bottle cap"
+msgstr "നേർപ്പിച്ച HCl കുപ്പിയുടെ അടപ്പ് തുറക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക"
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide." + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റുമായി പ്രതികരിക്കുമ്പോൾ, <br>സോഡിയം ക്ലോറൈഡ്, കാർബൺ ഡൈ ഓക്സൈഡ്, വെള്ളം എന്നിവ ഉണ്ടാകുന്നു.<br>കാർബൺ ഡൈ ഓക്സൈഡ് പുറത്തുവിടുമ്പോൾ ശക്തമായ എഫർവെസെൻസ് (effervescence) കാണപ്പെടുന്നു." + "<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "When ammonium chloride reacts with dil. HCL,<br> the resultant salt will be ammonium chloride. It is an acidic salt."
+msgstr "അമോണിയം ക്ലോറൈഡ് നേർപ്പിച്ച HCl-മായി പ്രതികരിക്കുമ്പോൾ, <br>ഫലമായുണ്ടാകുന്ന ലവണം അമോണിയം ക്ലോറൈഡ് ആയിരിക്കും. ഇത് ഒരു അസിഡിക് ലവണമാണ്."
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl)."+"<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "ഹൈഡ്രോക്ലോറിക് ആസിഡ് തിളപ്പിക്കൽ ട്യൂബിൽ സോഡിയം ഹൈഡ്രോക്സൈഡുമായി പ്രതികരിച്ച് <br>സോഡിയം ക്ലോറൈഡ് (ലവണം), വെള്ളം എന്നിവ ഉണ്ടാക്കുന്നു.<br>സോഡിയം ക്ലോറൈഡ് ബേസിൽ (NaOH) നിന്നുള്ള Na<sup>+</sup> കാറ്റയോണുകളും <br>ആസിഡിൽ (HCl) നിന്നുള്ള Cl<sup>-</sup> ആനയോണുകളും ചേർന്നതാണ്." + "<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br/>" +"The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br>"+ " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "തിളപ്പിക്കൽ ട്യൂബിൽ നിന്ന് പുറത്തുവരുന്ന വാതകം <br> ടെസ്റ്റ് ട്യൂബിലെ ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ (lime water) കടത്തിവിടുക. ചുണ്ണാമ്പുവെള്ളം പാൽനിറമായി മാറുന്നു. <br/>" +"നേർപ്പിച്ച HCl സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റുമായി പ്രതികരിക്കുമ്പോൾ <br>പുറത്തുവിടുന്ന വാതകം ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ കടത്തിവിടുമ്പോൾ, ചുണ്ണാമ്പുവെള്ളം പാൽനിറമാകുകയോ <br>അല്ലെങ്കിൽ കാൽസ്യം കാർബണേറ്റിന്റെ വെള്ള അവക്ഷിപ്തം (white precipitate) രൂപപ്പെടുകയോ ചെയ്യുന്നു." + " Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+msgid "Observe the Colour of Lime water"
+msgstr "ചുണ്ണാമ്പുവെള്ളത്തിന്റെ നിറം നിരീക്ഷിക്കുക"
+
+msgid "Click on the Inference button to see the observation."
+msgstr "നിരീക്ഷണം കാണാൻ നിഗമന ബട്ടണിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "Click on the Reset<br>button to redo<br>the experiment."
+msgstr "പരീക്ഷണം<br>വീണ്ടും ചെയ്യുന്നതിനായി<br>റീസെറ്റ് ബട്ടണിൽ ക്ലിക്കുചെയ്യുക."
+
+msgid "On passing this gas in excess, it becomes clear again.<br> This confirms the presence of carbon dioxide.<br>"+ "Equation: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq). <br>"+ "On passing excess CO<sub>2</sub> through Lime water,<br> calcium hydrogen carbonate is formed.<br> It is soluble in water and forms a colourless solution."
+msgstr "ഈ വാതകം അധികമായി കടന്നുപോകുമ്പോൾ, അത് വീണ്ടും വ്യക്തമാകും.<br>ഇത് കാർബൺ ഡൈ ഓക്സൈഡിന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു.<br>സമവാക്യം: CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g) →   Ca(HCO<sub>3</sub>)<sub>2</sub> (aq). <br>ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ അധിക CO<sub>2</sub> കടത്തിവിടുമ്പോൾ, <br>കാൽസ്യം ഹൈഡ്രജൻ കാർബണേറ്റ് രൂപപ്പെടുന്നു.<br>ഇത് വെള്ളത്തിൽ ലയിക്കുന്നതും നിറമില്ലാത്ത ലായനി രൂപീകരിക്കുന്നതുമാണ്."
+
+msgid "When dilute hydrochloric acid reacts with sodium carbonate decahydrate,<br>sodium chloride, carbon dioxide and water are formed.<br>A brisk effervescence is seen in the release of carbon dioxide.<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+msgstr "നേർപ്പിച്ച ഹൈഡ്രോക്ലോറിക് ആസിഡ് സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റുമായി പ്രതികരിക്കുമ്പോൾ, <br>സോഡിയം ക്ലോറൈഡ്, കാർബൺ ഡൈ ഓക്സൈഡ്, വെള്ളം എന്നിവ ഉണ്ടാകുന്നു.<br>കാർബൺ ഡൈ ഓക്സൈഡ് പുറത്തുവിടുമ്പോൾ ശക്തമായ എഫർവെസെൻസ് (effervescence) കാണപ്പെടുന്നു.<br>Na<sub>2</sub>CO<sub>3</sub>(s) + 2 HCl → 2NaCl(aq) + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+
+msgid "Hydrochloric acid reacts with sodium hydroxide<br> to form sodium chloride (the salt) and water on the boiling tube.<br> sodium chloride is comprise of Na<sup>+</sup> cations from the base (NaOH)<br> and Cl<sup>-</sup> anions from the acid (HCl).<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+msgstr "ഹൈഡ്രോക്ലോറിക് ആസിഡ് തിളപ്പിക്കൽ ട്യൂബിൽ സോഡിയം ഹൈഡ്രോക്സൈഡുമായി പ്രതികരിച്ച് <br>സോഡിയം ക്ലോറൈഡ് (ലവണം), വെള്ളം എന്നിവ ഉണ്ടാക്കുന്നു.<br>സോഡിയം ക്ലോറൈഡ് ബേസിൽ (NaOH) നിന്നുള്ള Na<sup>+</sup> കാറ്റയോണുകളും <br>ആസിഡിൽ (HCl) നിന്നുള്ള Cl<sup>-</sup> ആനയോണുകളും ചേർന്നതാണ്.<br> HCl+NaOH→H<sub>2</sub>O+NaCl"
+
+msgid "Drag and drop the Thistle funnel towards the<br> Boiling tube A."
+msgstr "തിസ്സിൽ ഫണൽ (Thistle funnel) <br>തിളപ്പിക്കൽ ട്യൂബ് A യിലേക്ക് വലിച്ചിടുക."
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "തിളപ്പിക്കൽ ട്യൂബിൽ നിന്ന് പുറത്തുവരുന്ന വാതകം <br> ടെസ്റ്റ് ട്യൂബിലെ ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ (lime water) കടത്തിവിടുക. ചുണ്ണാമ്പുവെള്ളം പാൽനിറമായി മാറുന്നു. <br>നേർപ്പിച്ച HCl സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റുമായി പ്രതികരിക്കുമ്പോൾ <br>പുറത്തുവിടുന്ന വാതകം ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ കടത്തിവിടുമ്പോൾ, ചുണ്ണാമ്പുവെള്ളം പാൽനിറമാകുകയോ <br>അല്ലെങ്കിൽ കാൽസ്യം കാർബണേറ്റിന്റെ വെള്ള അവക്ഷിപ്തം (white precipitate) രൂപപ്പെടുകയോ ചെയ്യുന്നു.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+
+msgid "Pass the liberated gas evolved from the boiling tube through <br> the lime water in a test tube. The lime water turns milky.<br>The gas evolved when dil. HCL reacts with sodium carbonate decahydrate<br> is passed through lime water, lime water turns milky or <br> white precipitate of calcium carbonate is formed.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+msgstr "തിളപ്പിക്കൽ ട്യൂബിൽ നിന്ന് പുറത്തുവരുന്ന വാതകം <br> ടെസ്റ്റ് ട്യൂബിലെ ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ (lime water) കടത്തിവിടുക. ചുണ്ണാമ്പുവെള്ളം പാൽനിറമായി മാറുന്നു. <br>നേർപ്പിച്ച HCl സോഡിയം കാർബണേറ്റ് ഡെക്കാഹൈഡ്രേറ്റുമായി പ്രതികരിക്കുമ്പോൾ <br>പുറത്തുവിടുന്ന വാതകം ചുണ്ണാമ്പുവെള്ളത്തിലൂടെ കടത്തിവിടുമ്പോൾ, ചുണ്ണാമ്പുവെള്ളം പാൽനിറമാകുകയോ <br>അല്ലെങ്കിൽ കാൽസ്യം കാർബണേറ്റിന്റെ വെള്ള അവക്ഷിപ്തം (white precipitate) രൂപപ്പെടുകയോ ചെയ്യുന്നു.<br> Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) →  CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+

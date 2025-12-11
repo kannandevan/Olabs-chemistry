@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title02">
+	<TEXT ID="title02_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_heading_tx01">
+	 <TEXTVALUE>अपघटन अभिक्रिया</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_strt_tx001">
+	 <TEXTVALUE>शुरू करें</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="02Iintro">
+	<TEXT ID="02Iintro_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Iintro_ferous_o01">
+	 <TEXTVALUE>फेरस सल्फेट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="03tube">
+	<TEXT ID="03tube_one">
+	 <TEXTVALUE>सूखी बॉयलिंग ट्यूब में फेरस सल्फेट क्रिस्टल (FeSO4.7H2O) की थोड़ी सी मात्रा लें। 
+	 </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="03tube_two">
+	 <TEXTVALUE>टेस्ट ट्यूब होल्‍डर से बॉयलिंग ट्यूब पकड़ें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04lamp1">
+	<TEXT ID="04lamp1_one">
+	 <TEXTVALUE>बर्नर की लौ पर बॉयलिंग ट्यूब गर्म करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="04lamp1_two">
+	 <TEXTVALUE>फेरस सल्फेट के क्रिस्टल गर्म करने पर (FeSO4) अपने पानी के अणुओं को खो देते हैं और निर्जल फेरस सल्फेट का सफेद रंग का क्रिस्टल बनाते हैं।.</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="04lamp1_three">
+	 <TEXTVALUE>आगे और गर्म करने पर निर्जल फेरस सल्‍फेट गहरे भूरे रंग का फेरिक आक्‍साइड (Fe2O3), सल्‍फर डाइआक्‍साइड (SO2) और सल्फर ट्राईआक्सा्इड (SO3) गैस में टूट जाता है। निकलने वाली गैस की गंध जलते सल्‍फर की होती है। 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="04lamp1_odour_o01">
+	 <TEXTVALUE>सल्फर 
+के जलने का गंध</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	<SCENE ID="05result">
+	<TEXT ID="05result_one">
+	 <TEXTVALUE>Fe2O3 (s),  SO2 (g) and  SO3 (g) बनाने के लिए टूट जाता है। इसलिए यह अभिक्रिया अपघटन अभिक्रिया (डिकम्‍पोजीशन रिएक्‍शन) है</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_feri_o01">
+	 <TEXTVALUE>फेरिक ऑक्साइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_bakos_01">
+	 <TEXTVALUE>पीछे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>
+

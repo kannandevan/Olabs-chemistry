@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1duro">
+	<TEXT ID="1duro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2maarz">
+	<TEXT ID="2maarz_one">
+	 	<TEXTVALUE>हमे बर्फ के टुकड़े, बीकर, थर्मामीटर, विलोड़क, क्लैंप युक्त स्टैंड, तार जाली, त्रिपाद स्टैंड और एक  बनसन बर्नर आवश्यकता है| 
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3icebox">
+	<TEXT ID="3icebox_one">
+	 	<TEXTVALUE>एक बीकर में कुछ बर्फ के टुकड़े ले| 
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4burner">
+	<TEXT ID="4burner_one">
+	 	<TEXTVALUE>तार जाली पर बीकर रखे, इसे एक त्रिपाद स्टैंड पर रखे, और बीकर में एक विलोड़क डालें।|
+</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="4burner_two">
+	 	<TEXTVALUE>एक क्लैंप स्टैंड की मदद से एक थर्मामीटर को ऐसे निलंबित करें की इसके बल्ब टुकड़े के बीच में रहे|
+</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="5burner">
+	<TEXT ID="5burner_one">
+	 	<TEXTVALUE>बर्फ के टुकड़ों को परिमित रुप से बनसन बर्नर का उपयोग करके गर्म करे|  
+</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="5burner_two">
+	 	<TEXTVALUE>एक समान तापमान बनाए रखने के लिए लगातार विलोडित करते रहे। जब बर्फ पिघलने शुरू होता है, तापमान (t1°C) का ध्यान दें।|
+</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5burner_three">
+	 	<TEXTVALUE>बर्फ का गर्म करना जारी रखें।|
+</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="5burner_four">
+	 	<TEXTVALUE>जब बर्फ पानी में पूरी तरह से पिघल जाता है तापमान(t2°C) का ध्यान दें ।|
+</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="6result">
+	<TEXT ID="6result_one">
+	 	<TEXTVALUE>दो तापमान के औसत बर्फ का गलनांक देता है। बर्फ का गलनांक है|
+
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1title">
+	<TEXT ID="1title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2intro">
+	<TEXT ID="2intro_one">
+		<TEXTVALUE> ಬೇಕಾಗಿರುವ ಸಾಮಗ್ರಿಗಳು - ಆಸವಿತ ನೀರು, ಕುದಿ ಪ್ರನಾಳ,ಬೀಕರ್, ಉಷ್ಣತಾಮಾಪಕ, ಸ್ಪಾಚುಲಾ, ಪ್ಯುಮೈಸ್  ಕಲ್ಲು ಚೂರುಗಳು, ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಮತ್ತು ಬುನ್ ಸೆನ್ ಬರ್ನರ್.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3tube">
+	<TEXT ID="3tube_one">
+		<TEXTVALUE>ಕಾಯಿಸುವ ಪ್ರನಾಳದಲ್ಲಿ 25 ಎಂ.ಎಲ್ ಭಟ್ಟಿಇಳಿಸಿದ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಆಧಾರಕ್ಕೆ ಸೇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4sptulla">
+	<TEXT ID="4sptulla_one">
+		<TEXTVALUE>ಸ್ಪಾಚುಲಾ ಸಹಾಯದಿಂದ ಪ್ಯುಮೈಸ್  ಕಲ್ಲು ಚೂರುಗಳನ್ನು  ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5put">
+	<TEXT ID="5put_one">
+		<TEXTVALUE>ಅವುಗಳನ್ನು ಆಸವಿತ  ನೀರಿರುವ ಕುದಿ  ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಿ(ಕುದಿಸುವಾಗ ಬಡಿದುಕೊಳುವುದನ್ನು ತಪ್ಪಿಸಲು)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_two">
+		<TEXTVALUE>ಎರಡು ರಂಧ್ರವಿರುವ ಒಂದು ರಬ್ಬರ್ ಬಿರಡೆಯನ್ನು ಅಳವಡಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="5put_three">
+		<TEXTVALUE>ಒಂದು ರಂಧ್ರದ ಮೂಲಕ ತಾಪಮಾಪಕವನ್ನು ಅಳವಡಿಸಿ.ನೀರಿನ ಮೇಲ್ಮೈನಿಂದ 3 ರಿಂದ 5cm  ಮೇಲಿರುವಂತೆ ತಾಪಮಾಪಕ ಅಳವಡಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin">
+	<TEXT ID="6lin_one">
+		<TEXTVALUE>ವಿಸರ್ಜನಾ ನಳಿಕೆಯ ಒಂದು ತುದಿಯನ್ನು ರಬ್ಬರ್ ಬಿರಡೆಯ ಎರಡನೆಯ  ರಂಧ್ರಕ್ಕೆ ಅಳಡಿಸಿ ಮತ್ತು ವಿಸರ್ಜನಾ ನಳಿಕೆಯ ಇನ್ನೊಂದು ತುದಿಯನ್ನು ಬೀಕರ್ ಗೆ ಸೇರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6lin_two">
+		<TEXTVALUE>ಬುನ್ ಸೆನ್ ಬರ್ನರ್ ತೆಗೆದುಕೊಂಡು ಕುದಿ ಪ್ರನಾಳವನ್ನು ಜ್ವಾಲೆಯನ್ನು ತಿರುಗಿಸುತಾ ನಿಧಾನವಾಗಿ ಕಾಯಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="6lin2">
+	<TEXT ID="6lin2_one">
+		<TEXTVALUE>ನೀರು ಕುದಿಯಲು ಪ್ರಾರಂಭವಾದಾಗ ತಾಪಮಾನ t1 ಗುರುತಿಸಿಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="7zoom">
+	<TEXT ID="7zoom_one">
+		<TEXTVALUE>ನೀರು ಕುದಿಯಲು ಪ್ರಾರಂಭವಾದಾಗ ತಾಪಮಾನ t1 ಗುರುತಿಸಿಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="8drop">
+	<TEXT ID="8drop_one">
+		<TEXTVALUE>ಕಾಯಸಿದಾಗ ,ನೀರು ಹಬೆಯಾಗಿ ಪರಿವರ್ತಿತವಾಗಿ ವಿಸರ್ಜನಾ ನಳಿಕೆಯ ಮೂಲಕ ಹೋಗಿ, ಘನೀಕರಿಸುವುದು ಹಾಗೂ ಬೀಕರ್ ನಲ್ಲಿ ಸಂಗ್ರಹವಾಗುವುದು.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="9lin2">
+	<TEXT ID="9lin2_one">
+		<TEXTVALUE>ತಾಪಮಾನ ಸ್ಥಿರವಾಗುವವರೆಗೂ ನೀರನ್ನು ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರೆಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10zoom2">
+	<TEXT ID="10zoom2_one">
+		<TEXTVALUE>ನೀರು ಕುದಿಯುವುದು ಮುಂದುವರೆಯುವುದು. ಸ್ಥಿರವಾದ ತಾಪಮಾನ t2 ಎಂದು ಗುರುತಿಸಿಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="11chart">
+	<TEXT ID="11chart_one">
+		<TEXTVALUE>ಎರಡು ತಾಪಮಾನಗಳ ಸರಾಸರಿಯು ನೀರಿನ ಕುದಿಬಿಂದುವಾಗಿದೆ. ನೀರಿನ ಕುದಿಬಿಂದು  1000 C .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

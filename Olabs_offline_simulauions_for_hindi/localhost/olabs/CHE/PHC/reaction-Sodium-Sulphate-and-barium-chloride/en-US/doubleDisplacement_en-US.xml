@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="doubleDisplacement.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONICALFLASK">
+        <source>Conical flask</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_INF">
+        <source>The precipitate obtained is insoluble in dilute HCl.  </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INF1">
+        <source>A white precipitate of barium sulphate is formed.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INS1">
+        <source>1. Click on the solution to pour it into the conical flask. </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INS2">
+        <source>2. After adding both BaCl2 and Na2SO4, stir the solution by clicking on the flask.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_INS3">
+        <source>3. To decant the upper solution from the flask to a beaker, click on the flask.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INS4">
+        <source>4.Click on the dil.HCl solution to add it into the conical flask and click flask to shake it.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INSTRUCT">
+        <source>Instruction</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MSG1">
+        <source>Add dil.HCl after adding BaCl2 and Na2SO4.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_MSG2">
+        <source>Click on the icon to see the inference.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_MSG3">
+        <source>Click on the bottle to add Barium chloride into the flask.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_MSG4">
+        <source>Stir the solution by clicking the button &apos; Stir &apos;
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_MSG6">
+        <source>Click on the flask to decant the upper solution.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_MSG7">
+        <source>Click on the conical flask to shake it well.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_MSG8">
+        <source>Click on the bottle to add sodium sulphate into the flask.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_MSG9">
+        <source>Stir the solution by clicking on the flask.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_MSG10">
+        <source>Click on the bottle to add dil.HCl into the flask.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1">
+        <source>Burning of Magnesium Ribbon</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2">
+        <source>Sodium sulphate with Barium Chloride</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S3">
+        <source>Iiron nail with Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S4">
+        <source>Zinc with dil.H2SO4</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S5">
+        <source>Heating of Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_SELECT">
+        <source>Select Reaction</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STIR">
+        <source>Stir</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

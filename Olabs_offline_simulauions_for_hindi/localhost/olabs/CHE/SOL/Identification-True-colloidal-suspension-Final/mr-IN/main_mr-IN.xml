@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_3ML">
+        <source>3 ml</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ANIMATION_ALU">
+        <source>तुरटी</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_ALU10">
+        <source>तुरटी(10 gm)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANIMATION_AS">
+        <source>तुरटीचे द्रावण </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANIMATION_BACK">
+        <source>&lt;&lt;मागे</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ANIMATION_BACKE">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ANIMATION_CEA">
+        <source>अंड्याच्या पांढर्या बलकाचे </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ANIMATION_CELL">
+        <source>सेलोफेन कागद </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ANIMATION_CHAK">
+        <source>खडूची पावडर </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ANIMATION_CHAK10">
+        <source>खडू(10  gm)</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ANIMATION_CHALKPARTI">
+        <source>फिल्टर कागदावर खडूचे कण दिसतील</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ANIMATION_CHALKSUS">
+        <source>खडूचे कणयुक्त द्रव</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ANIMATION_CLFLT">
+        <source>स्पष्ट गळण </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ANIMATION_COLLO">
+        <source>कलिल द्रावणे</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ANIMATION_COLLOID">
+        <source>स्टार्चचे कलिल</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ANIMATION_CS">
+        <source>खडूची द्रावण </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ANIMATION_DIST">
+        <source>ऊर्ध्वपतित पाणी </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_ANIMATION_EAS">
+        <source>अंड्याच्या पांढर्‍या बलकाचे द्रावण</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_ANIMATION_EGG">
+        <source> अंड्याचे पांढरे बलक</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ANIMATION_EGGGM">
+        <source> अंड्याचे पांढरे बलक(1gm)</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_ANIMATION_FILT">
+        <source>गाळणे</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_ANIMATION_FP">
+        <source>फिल्टर कागद </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_ANIMATION_FS">
+        <source>माती(10 gm)</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ANIMATION_FSS">
+        <source>बारीक वाळूचे द्रावण</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_ANIMATION_HCL">
+        <source>HCl</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_ANIMATION_NO">
+        <source>No particles left
+on
+the filter paper</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_ANIMATION_PARTICLE">
+        <source>फिल्टर कागदावर मातीचे कण दिसतील. </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_ANIMATION_RESUIDE">
+        <source>फिल्टर कागदावर काही अवशेष मागे उरत नाही. </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_ANIMATION_S">
+        <source>स्टार्च द्रावण </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_ANIMATION_SAL">
+        <source>मीठ</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_ANIMATION_SALT10">
+        <source>मीठ(10 gm)</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_ANIMATION_SAN">
+        <source>माती</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_ANIMATION_SANDPARTI">
+        <source>फिल्टर कागदावर वाळूचे कण दिसतील. </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_ANIMATION_SANDSUS">
+        <source>Sand Suspension</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_ANIMATION_SO10">
+        <source>माती(10 gm)</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_ANIMATION_SOI">
+        <source>माती</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_ANIMATION_SOILS">
+        <source> मातीचे कणयुक्त द्रव</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_ANIMATION_SS">
+        <source>मीठ द्रावण </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_ANIMATION_SSO">
+        <source>माती द्रावण </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_ANIMATION_ST1">
+        <source>स्टार्च(1 gm)</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_ANIMATION_STAB">
+        <source>स्थिरता</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_ANIMATION_STAR">
+        <source>स्टार्च</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_ANIMATION_SU">
+        <source>साखर(10 gm)</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_ANIMATION_SUG">
+        <source>साखर</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_ANIMATION_SUR">
+        <source>साखर द्रावण </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_ANIMATION_SUSP">
+        <source>कणयुक्त द्रावण</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_ANIMATION_TITLE">
+        <source> द्रावणांमधील फरक ओळखा</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_ANIMATION_TRANSL">
+        <source>अर्धपारदर्शक गळण</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_ANIMATION_TRANSP">
+        <source>पारदर्शकता</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_ANIMATION_TRUE">
+        <source>खरोखरीचे द्रावण</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_ANIMATION_WAT">
+        <source>पाणी (95 ml)</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_ANIMATION_WAT100">
+        <source>पाणी  100 ml</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_5ML">
+        <source>5 ml</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

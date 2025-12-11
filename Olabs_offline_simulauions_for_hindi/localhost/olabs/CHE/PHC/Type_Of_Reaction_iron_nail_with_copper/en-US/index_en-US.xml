@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BEAKER1">
+        <source>Click the beaker to pour water into the test tube</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_COPPER">
+        <source>Iron nail with copper</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_COPPERSULPHATE">
+        <source>Click the beaker to pour Copper Sulphate solution  into the test tube</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_GLASSROD">
+        <source>Click the glass rod to stir the mixture</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_IRONNAILS">
+        <source>Click the iron nail to put it into Copper Sulphate solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MC1">
+        <source>Test Tube stand</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MC2">
+        <source>Beaker</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MC3">
+        <source>Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MC4">
+        <source>Iron Nails</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SANDPAPER">
+        <source>Click the Sand Paper to clean the iron nails</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SPOON">
+        <source>Click the spoon to take Copper Sulphate</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SPOON1">
+        <source>Click the spoon to put Copper Sulphate into Beaker</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TESTTUBE1">
+        <source>Click the test tube to pour water into the beaker</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_THREAD">
+        <source>Click the thread to take the iron nail from test tube</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-31 14:43+0530\n"
+"PO-Revision-Date: 2016-03-31 15:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:37
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols_main.js:41
+msgid "Preparation of Inorganic Compounds"
+msgstr "अकार्बनिक यौगिकों की तैयारी"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate(7g)"
+msgstr "फेरस का सल्फेट(7g)"
+
+#: simcontrols_main.js:43
+msgid "Ammonium Sulphate(3.5g)"
+msgstr "अमोनियम सल्फेट(3.5g)"
+
+#: simcontrols_main.js:43
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>(3ml)"
+msgstr "Dil. H<sub>2</sub>SO<sub>4</sub>(3ml)"
+
+#: simcontrols_main.js:43
+msgid "Next"
+msgstr "अगला"
+
+#: simcontrols_main.js:43
+msgid "Hot water(20ml)"
+msgstr "गर्म पानी(20ml)"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Sulphate+ Ammonium Sulphate"
+msgstr "फेरस का सल्फेट+ अमोनियम सल्फेट"
+
+#: simcontrols_main.js:43
+msgid "Crystallising dish"
+msgstr "क्रिस्टल पकवान"
+
+#: simcontrols_main.js:43
+msgid "Cold water"
+msgstr "ठंडा पानी"
+
+#: simcontrols_main.js:43
+msgid "Ferrous Ammonium Sulphate Crystals"
+msgstr "फेरस अमोनियम सल्फेट क्रिस्टल"
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol"
+msgstr "एथिल अल्कोहल"
+
+#: simcontrols_main.js:43
+msgid "Filter papers"
+msgstr "फ़िल्टर पत्रों"
+
+#: simcontrols_main.js:43
+msgid "30 minutes"
+msgstr "30 मिनटों"
+
+#: simcontrols_main.js:43
+msgid "Crystals of Potash Alum"
+msgstr "पोटाश फिटकिरी के कण"
+
+#: simcontrols_main.js:43
+msgid "Ethyl Alcohol+ Cold Water"
+msgstr "एथिल अल्कोहल+ठंडा पानी"
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate (2.5g)"
+msgstr "पोटेशियम सल्फेट(2.5g)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate(10g)"
+msgstr "एल्यूमीनियम सल्फेट (10g)"
+
+#: simcontrols_main.js:44
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>(1ml)"
+msgstr "Dil. H<sub>2</sub>SO<sub>4</sub>(1ml)"
+
+#: simcontrols_main.js:44
+msgid "Water(20ml)"
+msgstr "पानी(20ml)"
+
+#: simcontrols_main.js:44
+msgid "Aluminium Sulphate Solution"
+msgstr "एल्यूमीनियम सल्फेट का विलयन"
+
+#: simcontrols_main.js:44
+msgid "Potassium Sulphate Solution"
+msgstr "पोटेशियम सल्फेट का विलयन"
+
+#: simcontrols_main.js:44
+msgid "China Dish & Glass Rod"
+msgstr "चीन डिश & कांच की छड़"
+
+#: simcontrols_main.js:44
+msgid "Thin Crust"
+msgstr "पतली परत"
+
+#: simcontrols_main.js:45
+msgid "Ferric Chloride(3.5g)"
+msgstr "फ़ेरिक क्लोराइड(3.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(50ml)"
+msgstr "पानी(50ml)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Hydroxide(4g)"
+msgstr "पोटेशियम हाइड्रोक्साइड(4g)"
+
+#: simcontrols_main.js:45
+msgid "Glass Rod"
+msgstr "कांच की छड़"
+
+#: simcontrols_main.js:45
+msgid "Ferric hydroxide precipitate"
+msgstr "फेरिक हाइड्रॉक्साइड वेग"
+
+#: simcontrols_main.js:45
+msgid "Filter paper"
+msgstr "छन्ना कागज"
+
+#: simcontrols_main.js:45
+msgid "Buchner Funnel"
+msgstr "बचनर कीप"
+
+#: simcontrols_main.js:45
+msgid "Oxalic Acid(4g)"
+msgstr "बचनर कीप(4g)"
+
+#: simcontrols_main.js:45
+msgid "Potassium Oxalate(5.5g)"
+msgstr "पोटेशियम आक्जालेट(5.5g)"
+
+#: simcontrols_main.js:45
+msgid "Water(100ml)"
+msgstr "पानी(100ml)"
+
+#: simcontrols_main.js:45
+msgid "Precipitate of Ferric Hydroxide"
+msgstr "फेरिक हाइड्रॉक्साइड के वेग"
+
+#: simcontrols_main.js:45
+msgid "Black Paper"
+msgstr "काला कागज"
+
+#: simcontrols_main.js:45
+msgid "Cold Water"
+msgstr "ठंडा पानी"
+
+#: simcontrols_main.js:45
+msgid "Potassium Trioxalatoferrate(III)"
+msgstr "पोटेशियम ट्राईआक्जालेटोफेरेट (III)"
+
+#: simcontrols_main.js:50
+msgid "Select the compound: "
+msgstr "यौगिक का चयन करें: "
+
+#: simcontrols_main.js:51
+msgid "Ferrous Ammonium Sulphate"
+msgstr "फेरस अमोनियम सल्फेट"
+
+#: simcontrols_main.js:51
+msgid "Potash Alum"
+msgstr "पोटाश फिटकिरी"
+
+#: simcontrols_main.js:51
+msgid "Potassium trioxalatoferrate(III)"
+msgstr "पोटेशियम ट्राईआक्जालेटोफेरेट(III)"
+
+#: simcontrols_main.js:52
+msgid "Drag the watch glass to the beaker<br>to put ferrous sulphate into it."
+msgstr "फेरस सल्फेट डालने के लिए बीकर <br> की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:52
+msgid "Drag the watch glass to the beaker<br>to add ammonium sulphate to it."
+msgstr "अमोनियम सल्फेट मिलाने के लिए बीकर <br>की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:52
+msgid ""
+"Drag the measuring jar to the beaker<br>to pour 3 ml dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+msgstr ""
+"3 मिलीलीटर तनु H<sub>2</sub>SO<sub>4</sub> डालने के लिए बीकर <br> की ओर मापक "
+"जार खींचें।"
+
+#: simcontrols_main.js:53
+msgid ""
+"Drag the beaker to pour hot water into<br>the beaker containing ferrous "
+"sulphate<br>and ammonium sulphate."
+msgstr ""
+"फेरस सल्फेट <br> और अमोनियम सल्फेट युक्त बीकर<br> में गर्म पानी डालने के लिए बीकर खींचें।"
+
+#: simcontrols_main.js:53
+msgid "Drag the glass rod to the beaker<br>to stir the contents."
+msgstr "सामग्री चलाने के लिए बीकर <br> की ओर कांच की छड़ खींचें ।"
+
+#: simcontrols_main.js:53 simcontrols_main.js:60
+msgid "Drag the beaker to the funnel to<br>filter the solution."
+msgstr "विलयन छानने <br>के लिए कीप की ओर बीकर खींचें ।"
+
+#: simcontrols_main.js:54 simcontrols_main.js:57 simcontrols_main.js:61
+msgid "Click on the knob of the burner<br>to turn it on."
+msgstr "चालू करने के लिए बर्नर <br> की घुंडी पर क्लिक करें।"
+
+#: simcontrols_main.js:54
+msgid "Drag the glass rod to the china dish<br>to stir the solution."
+msgstr "विलयन चलाने के लिए चाइना डिश <br> की ओर कांच की छड़ खींचें ।"
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the china dish to the crystallising dish<br>to transfer the solution "
+"into it."
+msgstr "विलयन डालने के लिए क्रिस्टल बनाने वाली डिश <br> की ओर चाइना डिश खींचें।"
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the watch glass to the crystallising dish<br>to cover the dish with it."
+msgstr "डिश ढंकने के लिए क्रिस्टल बनाने वाली डिश <br> की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:54
+msgid ""
+"Drag the crystallising dish to the cold water<br>trough to place the dish in "
+"it."
+msgstr "रखने के लिए क्रिस्ट<ल बनाने वाली डिश ठंडे पानी <br>की खौल की ओर खींचें।"
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the crystallising dish to the beaker<br>to decant the mother liquor "
+"into it."
+msgstr "मदर लिकर छानने के लिए बीकर <br> की ओर क्रिस्टल बनाने वाली डिश खींचें ।"
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the bottle to the crystallising dish<br>to wash the crystals with ethyl "
+"alcohol."
+msgstr ""
+"इथाइल अल्कोहल से क्रिस्टल धोने के लिए क्रिस्टल बनाने वाली डिश <br> की ओर बोतल खींचें ।"
+
+#: simcontrols_main.js:55
+msgid ""
+"Drag the crystallising dish to<br>the filter paper to transfer<br>the "
+"crystals into it."
+msgstr "क्रिस्टल <br> रखने के लिए फिल्टर पेपर की ओर क्रिस्टuल बनाने वाली डिश खींचें।"
+
+#: simcontrols_main.js:55 simcontrols_main.js:62
+msgid ""
+"Drag the filter paper to the filter paper<br>containing crystals to dry the "
+"crystals."
+msgstr "क्रिस्टल सुखाने के लिए क्रिस्टल युक्त फिल्टर पेपर <br> की ओर फिल्टर पेपर खींचें।"
+
+#: simcontrols_main.js:55
+msgid "Drag the filter paper to the watch glass<br>to transfer the crystals."
+msgstr "क्रिस्टल रखने के लिए वॉच ग्लास  <br> की ओर फिल्टरर पेपर खींचें।"
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the watch glass to the beaker to add<br>potassium sulphate into the "
+"distilled water."
+msgstr "आसुत जल में <br> पोटेशियम सल्फेट मिलाने के लिए बीकर की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the watch glass to the beaker to add<br>aluminium sulphate to the "
+"distilled water."
+msgstr "आसुत जल में <br> एल्यूमीनियम सल्फेट मिलाने के लिए बीकर की वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:56
+msgid ""
+"Drag the measuring jar to the beaker to<br>pour 1 ml dil. dil. H<sub>2</"
+"sub>SO<sub>4</sub> into it."
+msgstr ""
+"1 मिलीलीटर तनु H<sub>2</sub>SO<sub>4</sub> डालने <br>के लिए बीकर की ओर मापक जार "
+"खींचें।"
+
+#: simcontrols_main.js:57
+msgid "Drag the beaker to the burner to heat<br>aluminium sulphate solution."
+msgstr "एल्यूमीनियम सल्फेट का विलयन गर्म करने के लिए बर्नर की ओर बीकर खींचें ।."
+
+#: simcontrols_main.js:57
+msgid ""
+"Drag the beaker to the china dish to transfer<br>aluminium sulphate solution "
+"into it."
+msgstr " एल्यूमीनियम सल्फेट का विलयन डालने के<br> लिए चाइना डिश की ओर बीकर खींचें।"
+
+#: simcontrols_main.js:57
+msgid ""
+"Drag the beaker to the china dish to transfer<br>potassium sulphate solution "
+"to it."
+msgstr "पोटेशियम सल्फेट का विलयन डालने के <br>लिए चाइना डिश की ओर बीकर खींचें।"
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the watch glass to the beaker to add<br>ferric chloride into the "
+"distilled water."
+msgstr "आसुत जल में <br> फेरिक क्लोराइड मिलाने के लिए बीकर की ओर वॉच ग्ला स खींचें।"
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the watch glass to the beaker to add<br>potassium hydroxide to the "
+"distilled water."
+msgstr "आसुत जल में <br> पोटेशियम हाइड्रॉक्साइड मिलाने के लिए बीकर की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols_main.js:58
+msgid "Drag the glass rod to the beaker<br>to stir the contents"
+msgstr "सामग्री चलाने के लिए बीकर <br> की ओर कांच की छड़ खींचें"
+
+#: simcontrols_main.js:58
+msgid ""
+"Drag the beaker to add potassium hydroxide<br>solution to the beaker "
+"containing ferric<br>chloride solution."
+msgstr ""
+"फेरिक क्लोराइड <br> के विलयन से युक्त बीकर में पोटेशियम हाइड्रॉक्साइड <br> का विलयन "
+"मिलाने के लिए बीकर खींचें।"
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the filter paper to the Buchner funnel<br>to place it in the funnel"
+msgstr "कीप में रखने के लिए फिल्टर पेपर बुचनर कीप <br> की ओर खींचें"
+
+#: simcontrols_main.js:59
+msgid ""
+"Drag the beaker to the Buchner funnel<br>to filter the contents of the "
+"beaker."
+msgstr "बीकर की सामग्री छानने के लिए बुचनर कीप <br> की ओर बीकर खींचें।"
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>hydrated oxalic acid into the "
+"distilled water."
+msgstr ""
+"बीकर में <br> जलयोजित पोटेशियम आक्जालेट मिलाने के लिए बीकर की ओर वॉच ग्ला स खींचें।."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>hydrated potassium oxalate to "
+"the beaker."
+msgstr " फेरिक हाइड्रॉक्साइड का तलछट मिलाने के<br> लिए बीकर की ओर वॉच ग्लास खींचें।."
+
+#: simcontrols_main.js:60
+msgid ""
+"Drag the watch glass to the beaker to add<br>ferric hydroxide precipitate."
+msgstr " फेरिक हाइड्रॉक्साइड का तलछट मिलाने के<br> लिए बीकर की ओर वॉच ग्लास खींचें।."
+
+#: simcontrols_main.js:61
+msgid "Drag the glass rod to the china dish to<br>stir the solution."
+msgstr "विलयन चलाने <br>के लिए चाइना डिश की ओर कांच की छड़ खींचें ।."
+
+#: simcontrols_main.js:61
+msgid ""
+"Drag the china dish to the cold water trough<br> to place the dish in it."
+msgstr "खौल में रखने के लिए ठंडे पानी की खौल <br> की ओर चाइना डिश खींचें।"
+
+#: simcontrols_main.js:61
+msgid ""
+"Drag the black paper to the cold water trough<br>to cover the china dish "
+"with it."
+msgstr "चाइना डिश ढंकने के लिए ठंडे पानी की खौल <br> की ओर काला कागज खींचें।."
+
+#: simcontrols_main.js:62
+msgid ""
+"Drag the bottle to the china dish to<br>wash the crystals with ethyl alcohol."
+msgstr "इथाइल अल्कोहल से क्रिस्टल धोने <br>  के लिए चाइना डिश की ओर बोतल खींचें ।."
+
+#: simcontrols_main.js:62
+msgid "Drag the china dish to the filter paper<br>to transfer the crystals."
+msgstr "क्रिस्टल रखने के लिए फिल्टर पेपर <br> की ओर चाइना डिश खींचें।."
+
+#: simcontrols_main.js:62
+msgid ""
+"Drag the filter paper to the watch glass<br>to transfer the crystals into it."
+msgstr "क्रिस्टल रखने के लिए वॉच ग्लास  <br> की ओर फिल्टर पेपर खींचें।."
+
+#: simcontrols_main.js:63
+msgid ""
+"The crystals of ferrous ammonium sulphate are<br>light green in colour and "
+"are monoclinic in shape."
+msgstr "फेरस अमोनियम सल्फेट के क्रिस्टल रंग में <br> हल्के हरे और आकार में एकनताक्ष होते हैं।."
+
+#: simcontrols_main.js:63
+msgid ""
+"The crystals of potash alum are colourless, transparent<br>crystals and are "
+"octahedral in shape."
+msgstr ""
+"पोटाश फिटकिरी के क्रिस्टल रंगहीन, पारदर्शी <br> क्रिस्टल होते  हैं और आकार में अष्टभुजाकार "
+"होते हैं।."
+
+#: simcontrols_main.js:63
+msgid ""
+"Potassium trioxalatoferrate (III) are green in<br>colour and are octahedral "
+"in shape."
+msgstr ""
+"पोटेशियम ट्राईआक्जा्लेटोफेरेट (III) रंग में <br> हरा और आकार में अष्टभुजाकार होता है।."
+
+#: simcontrols_main.js:63
+msgid "Precipitate of ferric hydroxide filtered<br>through the Buchner funnel."
+msgstr "बुचनर कीप के माध्यम से <br> छना फेरिक हाइड्रॉक्साइड का तलछट ।."
+
+#: simcontrols_main.js:63
+msgid ""
+"Ferric chloride reacts with potassium hydroxide<br> to form brown "
+"precipitate of ferric hydroxide."
+msgstr ""
+"फेरिक क्लोराइड पोटेशियम हाइड्रॉक्साइड<br>के साथ अभिक्रिया करता है जिससे फेरिक "
+"हाइड्रॉक्साइड का भूरे रंग का तलछट बनता है।."
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(3ml)"
+#~ msgstr "Dil.H<sub>2</sub>SO<sub>4</sub>(3ml)"
+
+#~ msgid "Dil.H<sub>2</sub>SO<sub>4</sub>(1ml)"
+#~ msgstr "Dil.H<sub>2</sub>SO<sub>4</sub>(1ml)"
+
+#~ msgid "Complex Potassium Ferric Oxalate"
+#~ msgstr "Complex Potassium Ferric Oxalate"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Detection of Starch in Food Samples"
+#~ msgstr "Detection of Starch in Food Samples"
+
+#~ msgid "Carrot extract"
+#~ msgstr "Carrot extract"
+
+#~ msgid "Wheat"
+#~ msgstr "Wheat"
+
+#~ msgid "Apple extract"
+#~ msgstr "Apple extract"
+
+#~ msgid "Egg white"
+#~ msgstr "Egg white"
+
+#~ msgid "Tomato extract "
+#~ msgstr "Tomato extract "
+
+#~ msgid "Oats"
+#~ msgstr "Oats"
+
+#~ msgid "Potato extract"
+#~ msgstr "Potato extract"
+
+#~ msgid "Bread piece"
+#~ msgstr "Bread piece"
+
+#~ msgid "Drag the dropper to the bottle to replace it."
+#~ msgstr "Drag the dropper to the bottle to replace it."
+
+#~ msgid "Select type of the test:"
+#~ msgstr "Select type of the test:"
+
+#~ msgid "Iodine test"
+#~ msgstr "Iodine test"
+
+#~ msgid "Result:  Presence of Starch"
+#~ msgstr "Result:  Presence of Starch"
+
+#~ msgid "Carrot"
+#~ msgstr "Carrot"
+
+#~ msgid "Apple"
+#~ msgstr "Apple"
+
+#~ msgid "Egg"
+#~ msgstr "Egg"
+
+#~ msgid "Tomato"
+#~ msgstr "Tomato"
+
+#~ msgid "Potato"
+#~ msgstr "Potato"
+
+#~ msgid "Bread"
+#~ msgstr "Bread"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Iodine Solution"
+#~ msgstr "Iodine Solution"

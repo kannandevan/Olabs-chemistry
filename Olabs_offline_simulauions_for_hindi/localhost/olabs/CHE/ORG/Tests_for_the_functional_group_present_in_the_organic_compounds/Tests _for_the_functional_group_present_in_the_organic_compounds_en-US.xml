@@ -1,0 +1,1725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<!-- Interactive_scenes-->
+<SCENE ID="TitleFunctionalGrp">
+	<TEXT ID="TitleFunctionalGrp_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Buttons">
+	<TEXT ID="6Buttons_one">
+		<TEXTVALUE>Click one of the group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Buttons">
+	<TEXT ID="3Buttons_one">
+		<TEXTVALUE>Click one of the group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!-- Test for unsaturation -->
+
+
+
+
+
+<SCENE ID="Tests">
+	<TEXT ID="Tests_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Brominetest">
+	<TEXT ID="Brominetest_one">
+		<TEXTVALUE>Bromine water test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>Bromine water test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakingUnknCmpnd">
+	<TEXT ID="TakingUnknCmpnd_one">
+		<TEXTVALUE>Take the unknown compound using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PowderinTube">
+	<TEXT ID="PowderinTube_one">
+		<TEXTVALUE>Add it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterinjar">
+	<TEXT ID="Waterinjar_one">
+		<TEXTVALUE>Take 2 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWater">
+	<TEXT ID="PouringWater_one">
+		<TEXTVALUE>Take 2 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterintesttube">
+	<TEXT ID="Waterintesttube_one">
+		<TEXTVALUE>Pour it into the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Brominetaking">
+	<TEXT ID="Brominetaking_one">
+		<TEXTVALUE>Take 1-2 drops of bromine water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>Add it to the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>The disappearance of orange-red colour of bromine indicates unsaturation. Otherwise, it is saturation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyerstest">
+	<TEXT ID="Baeyerstest_one">
+		<TEXTVALUE>Baeyer’s  Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TitleBaeyerstest">
+	<TEXT ID="TitleBaeyerstest_one">
+		<TEXTVALUE>Baeyer’s  Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TakingUnknCmpndBaeyer">
+	<TEXT ID="TakingUnknCmpndBaeyer_one">
+		<TEXTVALUE>Add some unknown compound into a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PowderinTubeBaeyer">
+	<TEXT ID="PowderinTubeBaeyer_one">
+		<TEXTVALUE>Add some unknown compound into a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterinjarBaeyer">
+	<TEXT ID="WaterinjarBaeyer_one">
+		<TEXTVALUE>Take 2 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWaterBaeyer">
+	<TEXT ID="PouringWaterBaeyer_one">
+		<TEXTVALUE>Take 2 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WaterintesttubeBaeyer">
+	<TEXT ID="WaterintesttubeBaeyer_one">
+		<TEXTVALUE>Add it to the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyertaking">
+	<TEXT ID="Baeyertaking_one">
+		<TEXTVALUE>Now, add 2-3 drops of KMnO[sup]4[/sup] solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BaeyerPoringzoom">
+	<TEXT ID="BaeyerPoringzoom_one">
+		<TEXTVALUE>Decolourisation of pink colour of KMnO[sup]4[/sup] indicates unsaturation. Otherwise, it is saturation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-----Alcoholic group------->
+
+
+
+
+
+
+<SCENE ID="titlealco">
+	<TEXT ID="titlealco_one">
+		<TEXTVALUE>Alcoholic Group</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>Sodium Metal Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsodium">
+	<TEXT ID="introsodium_one">
+		<TEXTVALUE>Sodium Metal Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="measuringjar">
+	<TEXT ID="measuringjar_one">
+		<TEXTVALUE>Take a clean and dry measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="liquidinto">
+	<TEXT ID="liquidinto_one">
+		<TEXTVALUE>Pour 1ml of the given unknown compound into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="liquidinto_two">
+		<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="smallamount">
+	<TEXT ID="smallamount_one">
+		<TEXTVALUE>Add a small amount of anhydrous calcium sulphate in it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Shakewell">
+	<TEXT ID="Shakewell_one">
+		<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="funnelfilte">
+	<TEXT ID="funnelfilte_one">
+		<TEXTVALUE>Place a funnel over a test tube.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="funnelfilte_two">
+		<TEXTVALUE>A filter paper is set into the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thetest">
+	<TEXT ID="thetest_one">
+		<TEXTVALUE>Filter the solution into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="thetest_two">
+		<TEXTVALUE>Remove the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Addsodiummetal">
+	<TEXT ID="Addsodiummetal_one">
+		<TEXTVALUE>Take small pieces of sodium metal using a forceps.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Addsodiummetal_two">
+		<TEXTVALUE>Place it on a filter paper and dry it with another filter paper.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sodiummetal">
+	<TEXT ID="sodiummetal_one">
+		<TEXTVALUE>Add 2-3 pieces of sodium metal into the test tube using a forceps.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumzoom">
+	<TEXT ID="sodiumzoom_one">
+		<TEXTVALUE>Alcohols react with active metals like sodium to produce effervescence due to the liberation of hydrogen gas.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="estertest">
+	<TEXT ID="estertest_one">
+		<TEXTVALUE>Ester Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro22">
+	<TEXT ID="intro22_one">
+		<TEXTVALUE>Ester Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="givenunknownliquid2">
+	<TEXT ID="givenunknownliquid2_one">
+		<TEXTVALUE>Pour 1 ml of the unknown compound into the measuring jar. Transfer it into another dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuringjar2">
+	<TEXT ID="measuringjar2_one">
+		<TEXTVALUE>Take another measuring jar.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="measuringjar2_two">
+		<TEXTVALUE>Pour 1ml of glacial acetic acid into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="testtube3">
+		<TEXT ID="testtube3_one">
+		<TEXTVALUE>Pour it into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pourit">
+	<TEXT ID="Pourit_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pourit_two">
+		<TEXTVALUE>Add 2-3 drops of concentrated sulphuric acid into the test tube.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+		<TEXTVALUE>Warm the mixture in a water bath for 10 min.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Take">
+	<TEXT ID="Take_one">
+		<TEXTVALUE>Add this mixture into 20 ml of cold water taken in a beaker and smell it.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Take_two">
+		<TEXTVALUE>Alcohol reacts with carboxylic acid in presence of concentrated sulphuric acid to form fruity smelling compound called esters. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Take_three">
+		<TEXTVALUE>A fruity smell indicates the presence of an alcoholic group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fruity">
+	<TEXT ID="fruity_one">
+		<TEXTVALUE>A fruity smell indicates the presence of an alcoholic group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="CericAmmoniumNitrate">
+	<TEXT ID="CericAmmoniumNitrate_one">
+		<TEXTVALUE>Ceric Ammonium Nitrate Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="take22">
+	<TEXT ID="take22_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="givenunknown">
+	<TEXT ID="givenunknown_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+<TEXT ID="givenunknown_two">
+	<TEXTVALUE>Pour 1ml of the given unknown compound into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_three">
+	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_four">
+	<TEXTVALUE>Add few drops of ceric ammonium nitrate reagent into it.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene671">
+	<TEXT ID="Scene671_one">
+	<TEXTVALUE>Add few drops of ceric ammonium nitrate reagent into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_two">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_three">
+	<TEXTVALUE>Alcoholic compounds on reaction with ceric ammonium nitrate to give a red colouration due to the formation of alkoxy cerium (IV) complex.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetylChloride">
+	<TEXT ID="AcetylChloride_one">
+	<TEXTVALUE>Acetyl Chloride Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro321">
+	<TEXT ID="intro321_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring4">
+	<TEXT ID="Takeameasuring4_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownliquid">
+	<TEXT ID="unknownliquid_one">
+	<TEXTVALUE>Pour 1ml of the given unknown liquid into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="unknownliquid_two">
+	<TEXTVALUE>Pour it into a dry test tube.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Addsmall">
+	<TEXT ID="Addsmall_one">
+	<TEXTVALUE>Add a small amount of anhydrous calcium sulphate into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shake">
+	<TEXT ID="Shake_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelfilter3">
+	<TEXT ID="funnelfilter3_one">
+	<TEXTVALUE>Place a funnel over a test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="funnelfilter3_two">
+	<TEXTVALUE>Place a filter paper in the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Theliquidin">
+	<TEXT ID="Theliquidin_one">
+	<TEXTVALUE>Filter the liquid in the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Theliquidin_two">
+	<TEXTVALUE>Remove the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritintothegg">
+<TEXT ID="Pouritintothegg_one">
+	<TEXTVALUE>Add 2-3 drops of acetyl chloride into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouritintothegg_two">
+	<TEXTVALUE>Take a glass rod and dip it in ammonium hydroxide solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whitefumes">
+	<TEXT ID="whitefumes_one">
+	<TEXTVALUE>Bring the glass rod near the mouth of the test tube. Alcohols on reaction with acetyl chloride form esters and give out hydrogen chloride gas. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whitefumes_two">
+	<TEXTVALUE>The hydrogen chloride gives white fumes of ammonium chloride with ammonium hydroxide.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+
+
+</SCENE>
+
+<SCENE ID="Test100">
+	<TEXT ID="Test100_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro4">
+	<TEXT ID="intro4_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring5">
+	<TEXT ID="Takeameasuring5_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="given5">
+	<TEXT ID="given5_one">
+	<TEXTVALUE>Pour 1ml of the given unknown liquid into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="given5_two">
+	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasu">
+	<TEXT ID="Takeameasu_one">
+	<TEXTVALUE>Take 1 ml of 1% iodine solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pour">
+	<TEXT ID="Pour_one">
+	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritinto">
+	<TEXT ID="Pouritinto_one">
+	<TEXTVALUE>Add dil. Sodium hydroxide solution drop wise until the brown colour of iodine is discharged.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="awaterbath">
+	<TEXT ID="awaterbath_one">
+	<TEXTVALUE>Warm the mixture gently in a water bath.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ZOOOMI">
+	<TEXT ID="ZOOOMI_one">
+	<TEXTVALUE>Formation of yellow precipitate of Iodoform indicates the presence of alcoholic group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Lucastesttitle">
+	<TEXT ID="Lucastesttitle_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lucastest1">
+	<TEXT ID="Lucastest1_one">
+	<TEXTVALUE>Take a small quantity of primary, secondary and tertiary alcohols in three different test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest2">
+	<TEXT ID="Lucastest2_one">
+	<TEXTVALUE>Using a dropper, take a small quantity of Lucas reagent.Add few drops of Lucas reagent into tertiary alcohol.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="Lucastest2_two">
+	<TEXTVALUE>Tertiary alcohol reacts instantaneously with Lucas reagent to form alkyl chloride, which being insoluble, results in cloudiness in the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest3">
+	<TEXT ID="Lucastest3_one">
+	<TEXTVALUE>Take Lucas reagent using the dropper. Add a few drops of it into the secondary alcohol and keep the test tube undisturbed for 5 minutes.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Lucastest3_two">
+	<TEXTVALUE>Secondary alcohol reacts in about 1-5 minutes with Lucas reagent to form alkyl chloride, which being insoluble, results in cloudiness in the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest4">
+	<TEXT ID="Lucastest4_one">
+	<TEXTVALUE>Again take Lucas reagent.Add a few drops of it into the primary alcohol.Using a tests tube holder, take the test tube containing primary alcohol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest5">
+	<TEXT ID="Lucastest5_one">
+	<TEXTVALUE>Heat the test tube over the Bunsen burner.On warming, primary alcohols react with the Lucas reagent to form alkyl chloride, which being insoluble, results in cloudiness in the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!---------phenolic group-------->
+
+
+
+
+
+
+<SCENE ID="LitmusTest1">
+	<TEXT ID="LitmusTest1_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitle">
+	<TEXT ID="litmusTesttitle_one">
+	 <TEXTVALUE>Take some unknown liquid from the test tube.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroLis">
+	<TEXT ID="IntroLis_one">
+	 <TEXTVALUE>Take a moist blue litmus paper.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+	<SCENE ID="Scene3droperdrp">
+	<TEXT ID="Scene3droperdrp_one">
+	 <TEXTVALUE>Pour a drop of the given liquid onto the paper using a dropper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_two">
+	 <TEXTVALUE>Pour a drop of the given liquid onto the paper using a dropper.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_three">
+	 <TEXTVALUE>Phenol is a weak acid:it turns the color of blue litmus paper red.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricchlordetest">
+	<TEXT ID="Ferricchlordetest_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrodFerric">
+	<TEXT ID="IntrodFerric_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="violetcoloration">
+	<TEXT ID="violetcoloration_one">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_two">
+	 <TEXTVALUE>Pour 1ml of neutral ferric chloride into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_three">
+	 <TEXTVALUE>Pour it into a dry test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_four">
+	 <TEXTVALUE>Add 2-3 drops of given liquid into the test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_five">
+	 <TEXTVALUE>Phenol, on reaction with neutral ferric chloride, gives a violet color due to the formation of a complex.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitlecopy">
+	<TEXT ID="litmusTesttitlecopy_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introductionp">
+	<TEXT ID="introductionp_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="animationheat">
+	<TEXT ID="animationheat_one">
+	 <TEXTVALUE>Take a test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_two">
+	 <TEXTVALUE>Add 2-3 crystals of sodium nitrite into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_three">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_four">
+	 <TEXTVALUE>Pour 1ml of phenol into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_five">
+	 <TEXTVALUE>Pour it into the test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_six">
+	 <TEXTVALUE>Heat it gently for a half a minute and allow it to cool.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="jarSulBlueORGreen">
+	<TEXT ID="jarSulBlueORGreen_one">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_two">
+	 <TEXTVALUE>Pour 1ml of conc. Sulphuric acid  into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_three">
+	 <TEXTVALUE>Pour it into the tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_four">
+	 <TEXTVALUE>Phenol, on reaction with sodium nitrite in the presence of conc. sulphuric acid, gives a deep blue or green colored product.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterDroper">
+	<TEXT ID="WaterDroper_one">
+	 <TEXTVALUE>Add water to it carefully. The blue or green colour changes to red or brown colour on treatment with water due to the formation of indophenol.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Blue2Red">
+	<TEXT ID="Blue2Red_one">
+	 <TEXTVALUE>Add water to it carefully. The blue or green colour changes to red or brown colour on treatment with water due to the formation of indophenol.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SodiumHydroxideBtl">
+	<TEXT ID="SodiumHydroxideBtl_one">
+	 <TEXTVALUE>Add excess of sodium hydroxide solution to the test tube. The red colour again changes to blue or green by the addition of a strong alkali, due to the formation of indophenol anion.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Red2Green">
+	<TEXT ID="Red2Green_one">
+	 <TEXTVALUE>Add excess of sodium hydroxide solution to the test tube. The red colour again changes to blue or green by the addition of a strong alkali, due to the formation of indophenol anion.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="phthaleindye1">
+	<TEXT ID="phthaleindye1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ph2">
+	<TEXT ID="ph2_one">
+	 <TEXTVALUE>Take a small quantity of phenol in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowder">
+	<TEXT ID="takpowder_one">
+	 <TEXTVALUE>Using a spatula take small quantity of phthalic anhydride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowde2">
+	<TEXT ID="takpowde2_one">
+	 <TEXTVALUE>Using a spatula take small quantity of phthalic anhydride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intube">
+	<TEXT ID="intube_one">
+	 <TEXTVALUE>Add it into the test tube containing phenol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+	 <TEXTVALUE>Take the test tube using a test tube holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoh2so4">
+	<TEXT ID="addcoh2so4_one">
+	 <TEXTVALUE>Using a dropper, add a small quantity of concentrated sulphuric acid to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="boiltube">
+	<TEXT ID="boiltube_one">
+	 <TEXTVALUE>Heat the contents of the test tube in an oil bath for about 1 minute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pour">
+	<TEXT ID="pour_one">
+	 <TEXTVALUE>Pour the reaction mixture carefully into a beaker containing sodium hydroxide solution.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="pour_two">
+	 <TEXTVALUE>On heating, phenol reacts with phthalic anhydride in the presence of sulphuric acid to produce phenolphthalein, which is colourless.  Phenolphthalein gives pink colour with an alkali such as NaOH.
+
+</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+
+<!---------aldyhide and ketone-------->
+
+
+
+
+
+
+<SCENE ID="TitleAldyKeton">
+	<TEXT ID="TitleAldyKeton_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydrazinetitle">
+	<TEXT ID="hydrazinetitle_one">
+	 	<TEXTVALUE>2,4-Dinitrophenyl hydrazine Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAldyKetonS1">
+	<TEXT ID="IntroAldyKetonS1_one">
+	 	<TEXTVALUE>2,4-Dinitrophenyl hydrazine Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SpoonComp2TtubeS2">
+	<TEXT ID="SpoonComp2TtubeS2_one">
+	 	<TEXTVALUE>Take a spatula.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SpoonComp2TtubeS2_two">
+	 	<TEXTVALUE>Take some given unknown compound and add it to a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Spirit2TtubeS3">
+	<TEXT ID="Spirit2TtubeS3_one">
+	 	<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Spirit2TtubeS3_two">
+	 	<TEXTVALUE>Add some drop of rectified spirit until the compound just dissolves.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Hydrazine2TtubeS4">
+	<TEXT ID="Hydrazine2TtubeS4_one">
+	 	<TEXTVALUE>Take 5 ml of 2, 4-Dinitrophenyl hydrazine solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_two">
+	 	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_three">
+	 	<TEXTVALUE>Shake the mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultorangeS5">
+	<TEXT ID="ResultorangeS5_one">
+	 	<TEXTVALUE>Allow it to stand for 5 minutes.</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="ResultorangeS5_two">
+	 	<TEXTVALUE>Yellow or orange crystals form, indicating the presence of aldehydes or ketones.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodiumtitle">
+	<TEXT ID="Sodiumtitle_one">
+	 	<TEXTVALUE>Sodium bisulphite test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodium2TtubeS6">
+	<TEXT ID="Sodium2TtubeS6_one">
+	 	<TEXTVALUE>Take 2ml of sodium bisulphite in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Sodium2TtubeS6_two">
+	 	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Compound2SodiumTubeS7">
+	<TEXT ID="Compound2SodiumTubeS7_one">
+	 	<TEXTVALUE>Add some unknown compound to it with a spatula.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Compound2SodiumTubeS7_two">
+	 	<TEXTVALUE>Cork the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultWhiteS8">
+	<TEXT ID="ResultWhiteS8_one">
+	 	<TEXTVALUE>Shake it and allow it to stand for 20 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ResultWhiteS8_two">
+	 	<TEXTVALUE>Formation of crystalline white precipitate confirms the presence of carbonyl group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!---------test for amino groups-------->
+
+
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="LitmusTest">
+	<TEXT ID="LitmusTest_one">
+	 	<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="LitmusTest_two">
+	 	<TEXTVALUE>Take some given unknown liquid from a test tube.</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="LitmusTest_three">
+	 	<TEXTVALUE>Pour few drops of it on to the moist red litmus paper.</TEXTVALUE>
+	</TEXT>		
+<TEXT ID="LitmusTest_four">
+	 	<TEXTVALUE>Amines are basic in nature, which turns red litmus paper blue.</TEXTVALUE>
+	</TEXT>			
+	
+</SCENE>
+
+
+<SCENE ID="SolubilityTest">
+<TEXT ID="SolubilityTest_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="SolubilityTest_one">
+	 	<TEXTVALUE>Take some amount of given compound in a test tube using a spatula.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_two">
+	 	<TEXTVALUE>Add a small quantity of dil. HCl to the test tube.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_three">
+	 	<TEXTVALUE>Organic compounds containing the amino group are basic in nature and easily react with acids to form soluble salts.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Carbylamines">
+
+<TEXT ID="Carbylamines_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Carbylamines_one">
+	 	<TEXTVALUE>Take some potassium hydroxide in a test tube.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_two">
+	 	<TEXTVALUE>Take 2ml of ethanol in a measuring jar.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_three">
+	 	<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_four">
+	 	<TEXTVALUE>Warm the test tube until potassium hydroxide dissolves.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_five">
+	 	<TEXTVALUE>Using a dropper, take few drops of chloroform.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_six">
+	 	<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_seven">
+	 	<TEXTVALUE>Add a small  amount of the given unknown compound in the same test tube.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_eight">
+	 	<TEXTVALUE>Gently warm it.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_nine">
+	 	<TEXTVALUE>Aliphatic, as well as aromatic primary amines, when warmed with chloroform and alcoholic KOH, give isocyanide, which has an offensive smell. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="one">
+	<TEXT ID="one_one">
+	 <TEXTVALUE>Azo – dye test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="two">
+	<TEXT ID="two_one">
+	 <TEXTVALUE>We require organic compound, dil. HCl, sodium nitrite, distilled water, beta-naphthol, dil. NaOH, spatula, droppers, test tubes etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="three">
+	<TEXT ID="three_one">
+	 <TEXTVALUE>Take a small quantity of organic compound using a dropper and transfer it into the test tube A.Using another dropper take small quantity of dil. HCl. Add it into the test tube A and shake the test tube well to dissolve the compound in HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="four">
+	<TEXT ID="four_one">
+	 <TEXTVALUE>Take a small quantity of sodium nitrite using the spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="five">
+	<TEXT ID="five_one">
+	 <TEXTVALUE>Take the test tube B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="six">
+	<TEXT ID="six_one">
+	 <TEXTVALUE>Transfer it into test tube B. Now add a small quantity of distilled water to the test tube and shake the test tube well to dissolve sodium nitrite.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seven">
+	<TEXT ID="seven_one">
+	 <TEXTVALUE>Place the test tube in the test tube rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eight">
+	<TEXT ID="eight_one">
+	 <TEXTVALUE>Using another spatula, take a small quantity of beta-naphthol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="nine">
+	<TEXT ID="nine_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ten">
+	<TEXT ID="ten_one">
+	 <TEXTVALUE>Transfer it into test tube C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eleven">
+	<TEXT ID="eleven_one">
+	 <TEXTVALUE>Using a dropper, take a small quantity of dil. NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twelve">
+	<TEXT ID="twelve_one">
+	 <TEXTVALUE>Add it into test tube C and shake the test tube well to dissolve naphthol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirteen">
+	<TEXT ID="thirteen_one">
+	 <TEXTVALUE>Take the test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fourteen">
+	<TEXT ID="fourteen_one">
+	 <TEXTVALUE>Place them in an ice bath and cool the test tubes for some time.Take the test tubes A and B.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fifteen">
+	<TEXT ID="fifteen_one">
+	 <TEXTVALUE>Add sodium nitrite solution into test tube A.Now add the resulting solution from test tube A to test tube C.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="fifteen_two">
+	 <TEXTVALUE>Aromatic primary amine reacts with nitrous acid generated in situ by the reaction of sodium nitrite with HCl at 0–5 degree celcius to produce diazonium salt. This couples with beta-naphthol to give a scarlet red dye.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sixteen">
+	<TEXT ID="sixteen_one">
+	 <TEXTVALUE>Nitrous acid test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="seventeen">
+	<TEXT ID="seventeen_one">
+	 <TEXTVALUE>We require organic compound, conc. HCl, sodium nitrite, tests tubes, </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eighteen">
+	<TEXT ID="eighteen_one">
+	 <TEXTVALUE>Take a small quantity of sodium nitrite using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="nineteen">
+	<TEXT ID="nineteen_one">
+	 <TEXTVALUE>Take the test tube A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twenty">
+	<TEXT ID="twenty_one">
+	 <TEXTVALUE>Transfer sodium nitrite into test tube A. Pour small quantity of distilled water to it and shake the test tube well to dissolve sodium nitrite.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyOne">
+	<TEXT ID="twentyOne_one">
+	 <TEXTVALUE>Place the test tube in the rack. Using a dropper transfer a small quantity of organic compound into test tube B. Using another dropper add a small quantity of conc. HCl to test tube B and shake the test tube well to dissolve the compound in HCl.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyOne_two">
+	 <TEXTVALUE>Take the test tubes.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+<SCENE ID="twentyTwo">
+	<TEXT ID="twentyTwo_one">
+	 <TEXTVALUE>Place them in an ice bath and allow them to cool form sometime.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentyThree">
+	<TEXT ID="twentyThree_one">
+	 <TEXTVALUE>Mix both the solutions.No visual change is observed, in the case of tertiary amine because tertiary amine has formed a soluble nitrite salt by reacting with the acid present. </TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="twentyThree_two">
+	 <TEXTVALUE>Primary amine reacts with nitrous acid to liberate bubbles of nitrogen gas.Secondary amine reacts with nitrous acid to form a yellow, oily layer of nitrosamine.</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="twentyFour">
+	<TEXT ID="twentyFour_one">
+	 <TEXTVALUE>Hinsberg test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyFive">
+	<TEXT ID="twentyFive_one">
+	 <TEXTVALUE>We require primary, secondary and tertiary amines in three test tubes A, B and C respectively, 25% NaOH, benzene sulphonyl chloride, Conc. HCl, droppers etc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentySix">
+	<TEXT ID="twentySix_one">
+	 <TEXTVALUE>Using a dropper take a small quantity of 25% NaOH and add few drops of it into the test tunes A, B and C.Now add small quantity of distilled water to the test tubes A, B and C.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="twentySix_two">
+	 <TEXTVALUE>Using a dropper take a small quantity of Benzene sulphonyl chloride  and add few drops of it into the test tunes A, B and C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentySeven">
+	<TEXT ID="twentySeven_one">
+	 <TEXTVALUE>Shake the test tubes well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyEight">
+	<TEXT ID="twentyEight_one">
+	 <TEXTVALUE>Cool the test tubes by placing them in a beaker containing water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyNine">
+	<TEXT ID="twentyNine_one">
+	 <TEXTVALUE>Primary amine reacts with benzene sulphonyl chloride and sodium hydroxide to form a soluble sulfonamide salt.: Secondary amine reacts with benzene sulphonyl chloride and sodium hydroxide to form an insoluble sulfonamide.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyNine_two">
+	 <TEXTVALUE>Tertiary amine will not react with the sulphonyl chloride, but is insoluble.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE
+
+
+>
+
+<SCENE ID="thirty">
+	<TEXT ID="thirty_one">
+	 <TEXTVALUE>Using another dropper, take small quantity of Conc. HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirtyOne">
+	<TEXT ID="thirtyOne_one">
+	 <TEXTVALUE>Add it into the tests tubes A, B and C.In test tube A, the soluble sulfonamide salt formed precipitates after addition of HCl. </TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="thirtyOne_two">
+	 <TEXTVALUE>In test tube B acidification of the mixture does not dissolve the insoluble sulphonamide. In test tube C, the insoluble amine is converted to a soluble ammonium salt.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE>
+<!---------test for ketones-------->
+
+
+
+
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading">
+	<TEXT ID="heading_one">
+		<TEXTVALUE>m-Dinitrobenzene Test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introsc">
+	<TEXT ID="introsc_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_one">
+		<TEXTVALUE>Take some drops of given liquid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_two">
+		<TEXTVALUE>Pour it into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_one">
+		<TEXTVALUE>Add a small amount of powdered m-dinitrobenzene to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_one">
+		<TEXTVALUE>Add a small amount of powdered m-dinitrobenzene to it</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Dilsolution">
+	<TEXT ID="Dilsolution_one">
+		<TEXTVALUE>Take a small quantity of sodium hydroxide solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diladded">
+	<TEXT ID="diladded_one">
+		<TEXTVALUE>Add some amount of dil. Sodium hydroxide solution to it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit">
+	<TEXT ID="shakeit_one">
+		<TEXTVALUE>Shake well. Appearance of a violet colour that slowly fades confirms ketonic group. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading2">
+	<TEXT ID="heading2_one">
+		<TEXTVALUE>Sodium nitroprusside test</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introsc2">
+	<TEXT ID="introsc2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_one">
+		<TEXTVALUE>Take a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_two">
+		<TEXTVALUE>Take some crystals of sodium nitroprusside into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="crystalintube">
+	<TEXT ID="crystalintube_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Watertake">
+	<TEXT ID="Watertake_one">
+		<TEXTVALUE>Add some amount of distilled water to it and shake the test tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_one">
+		<TEXTVALUE>Take a small amount of given compound using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownadded">
+	<TEXT ID="unknownadded_one">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit2">
+	<TEXT ID="shakeit2_one">
+		<TEXTVALUE>Shake well</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="downit">
+	<TEXT ID="downit_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumhydroxide">
+	<TEXT ID="sodiumhydroxide_one">
+		<TEXTVALUE>Add some drops of sodium hydroxide solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumin">
+	<TEXT ID="sodiumin_two">
+		<TEXTVALUE>The anion of the ketone formed by an alkali, reacts with nitroprusside ion to form a red coloured complex. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!---------test for Sodium biocarbonate -------->
+
+
+
+<SCENE ID="Test2">
+	<TEXT ID="Test2_one">
+		<TEXTVALUE>Sodium biocarbonate test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro">
+	<TEXT ID="Apparatusintro_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown">
+	<TEXT ID="TakingUnknown_one">
+		<TEXTVALUE>Take few drops of unknown solution.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown_two">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takincompund">
+	<TEXT ID="Takincompund_one">
+		<TEXTVALUE>Take a small quantity of sodium bicarbonate using a spatula.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Compoundtesttube">
+	<TEXT ID="Compoundtesttube_one">
+		<TEXTVALUE>Add it into the test tube, Carboxylic acid reacts with sodium bicarbonate to produce brisk effervescence due to the formation of carbon dioxide gas.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Ester -------->
+
+
+
+<SCENE ID="Test3">
+	<TEXT ID="Test3_one">
+		<TEXTVALUE>Ester test</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro2">
+	<TEXT ID="Apparatusintro2_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown2">
+	<TEXT ID="TakingUnknown2_one">
+		<TEXTVALUE>Take few drops of unknown solution.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown2_two">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takingethylalcohol">
+	<TEXT ID="Takingethylalcohol_one">
+		<TEXTVALUE>Take few drops of ethyl alcohol using a dropper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Takingethylalcohol_two">
+		<TEXTVALUE>Add ethyl alcohol into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingSulphiricacid">
+	<TEXT ID="TakingSulphiricacid_one">
+		<TEXTVALUE>Take 1-2 drops of Conc. sulphuric acid using another dropper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_two">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_three">
+		<TEXTVALUE>Take the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="burner">
+	<TEXT ID="burner_one">
+		<TEXTVALUE>Place it in a boiling water bath and heat the contents of the test tube for 5 min.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_one">
+		<TEXTVALUE>Pour it into a small beaker containing distilled water.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_two">
+		<TEXTVALUE>Carboxylic acid reacts with alcohol in the acidic medium to produce fruity smelling compounds called esters.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<!---------test for Litmus Milk -------->
+
+
+
+<SCENE ID="Test1t">
+	<TEXT ID="Test1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Test22copy">
+	<TEXT ID="Test22copy_one">
+		<TEXTVALUE>Litmus test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Starting1">
+	<TEXT ID="Starting1_one">
+		<TEXTVALUE>Litmus test.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknownsol1">
+	<TEXT ID="TakingUnknownsol1_one">
+		<TEXTVALUE>Take a small quantity of unknown solution using a dropper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_two">
+		<TEXTVALUE>Drop 2-3 drops of it on a moist blue litmus paper.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_three">
+		<TEXTVALUE>Carboxylic acid turns blue litmus red, indicating it is acidic in nature.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Schiffs-------->
+
+<SCENE ID="intro1">
+	<TEXT ID="intro1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_two">
+	 	<TEXTVALUE>Take few drops of given unknown solution using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_three">
+	 	<TEXTVALUE>Pour the taken solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_four">
+	 	<TEXTVALUE>Take 1 ml of the Schiff's reagent in a measuring jar.Take the test tube containing organic compound.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_five">
+	 	<TEXTVALUE>Pour Schiff’s reagent into the compound and Shake it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_six">
+	 	<TEXTVALUE>Appearance of pink colour confirms the presents of aldehydic group.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_two">
+	 	<TEXTVALUE>Take 1 ml of silver nitrate solution in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_three">
+	 	<TEXTVALUE>Pour it into a clean test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_four">
+	 	<TEXTVALUE>Take another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_five">
+	 	<TEXTVALUE>Take 2 ml of Dil NaOH solution in it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_six">
+	 	<TEXTVALUE>Pour it into the same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_seven">
+	 	<TEXTVALUE>Silver nitrate reacts with sodium hydroxide to form brown precipitate of silver oxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eight">
+	 	<TEXTVALUE>Take a dropper</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_nine">
+	 	<TEXTVALUE>Add dil. Ammonia solution dropwise to the test tube</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_ten">
+	 	<TEXTVALUE>The precipitate will dissolve in the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eleven">
+	 	<TEXTVALUE>Add 2-3 drops of the given liquid to the test tube</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_twelve">
+	 	<TEXTVALUE>Warm the test tube on a water bath for 5 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_thirteen">
+	 	<TEXTVALUE>In the presence of aldehydes, the silver ions in the test reagent are reduced to elemental silver and accumulate on the inner surface of the reaction vessel, producing a silver mirror effect on the inner surface of the vessel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_two">
+	 	<TEXTVALUE>: Take 1 ml of Fehling’s solution A in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_three">
+	 	<TEXTVALUE>Pour it into the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_four">
+	 	<TEXTVALUE>Take 1 ml of Fehling’s solution B in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_five">
+	 	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_six">
+	 	<TEXTVALUE>Add 4-5 drop of given solution into the test tube using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_seven">
+	 	<TEXTVALUE>Warm the test tube in a water bath for 5 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_eight">
+	 	<TEXTVALUE>Aldehydes reduce the Cu(II) ions in the test reagent to red precipitate of copper (I) oxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

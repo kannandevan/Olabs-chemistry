@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA> 
+
+<SCENE ID="Titleintractive">
+	<TEXT ID="title_txt">
+	 	<TEXTVALUE>कागद वर्णलेखन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="start_txt">
+	 	<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Titleintractive_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2buttons">
+	<TEXT ID="component">
+		<TEXTVALUE>कागद वर्णलेखन वापरून लाल आणि निळ्या शाईतले रंगीत घटक वेगळे करणे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pigment">
+		<TEXTVALUE>पालक पानाच्या अर्कातून रंगघटक वेगळे करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>&#60;&#60;मागे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>कागद वर्णलेखन वापरून लाल आणि निळ्या शाईतले 
+रंगीत घटक वेगळे करणे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_one">
+		<TEXTVALUE>कागद वर्णलेखन वापरून लाल आणि निळ्या शाईतले रंगीत घटक वेगळे करणे.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+	
+<SCENE ID="intro">
+	<TEXT ID="ink_txt">
+		<TEXTVALUE>लाल शाई + निळी शाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="water">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcohol">
+		<TEXTVALUE>आयसोप्रोपिल अल्कोहोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro_one">
+	<TEXTVALUE>आवश्यक सामग्री: लाल आणि निळ्या शाईचे मिश्रण, ऊर्ध्वपतित पाणी, आयसोप्रोपिल अल्कोहोल, व्हॉटमन फिल्टर कागद पट्टी (२० x २ सेमी), पेन्सिल, पट्टी, केशनलिका, वर्णलेखन कक्ष</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper">
+	<TEXT ID="takefilterpaper_one">
+	<TEXTVALUE>व्हॉटमन फिल्टर कागद पट्टी (२० x २ सेमी) घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing">
+	<TEXT ID="drawing_one">
+	<TEXTVALUE>एका टोकापासून ४ सेमी रेष काढा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing_two">
+	<TEXTVALUE>कागदाच्या मध्यावरून अजून एक रेष काढा आणि दोन्ही रेषा ज्या बिन्दुला छेदल्या जातात त्याला पी नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary">
+	<TEXT ID="cappillary_one">
+	<TEXTVALUE>केशनलिका घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="color">
+	<TEXT ID="color_one">
+	<TEXTVALUE>केशनलिका वापरून त्याला लाल आणि निळ्या शाईचे मिश्रण असलेल्या चंचुपात्रात बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop2">
+	<TEXT ID="waterdrop2_one">
+	<TEXTVALUE>बिन्दु पी वर लाल आणि निळ्या शाईच्या मिश्रणाचा एक थेंब टाका.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop2_two">
+	<TEXTVALUE>उघड्यावर कोरडे होऊ द्या.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy">
+	<TEXT ID="colorcopy_one">
+	<TEXTVALUE>केशनलिका वापरून लाल आणि निळ्या शाईचे मिश्रण घ्या.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdrop2copy">
+	<TEXT ID="waterdrop2copy_one">
+	<TEXTVALUE>त्याच बिन्दुवर परत एक थेंब टाका म्हणजे त्या बिन्दुवर मिश्रण नीट बसेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater">
+	<TEXT ID="addingwater_one">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली ऊर्ध्वपतित पाणी मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar">
+	<TEXT ID="togasjar">
+	<TEXTVALUE>वर्णलेखन कक्ष</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Togasjar_one">
+	<TEXTVALUE>वर्णलेखन कक्षेत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol">
+	<TEXT ID="takingalcohol_one">
+	<TEXTVALUE>दुसर्यान मापन जार मध्ये ५ मिली अल्कोहोल मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar">
+	<TEXT ID="alcoholtogasjar_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या वर्णलेखन कक्षेत ओता.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="alcoholtogasjar_two">
+	<TEXTVALUE>वर्णलेखन कक्षेतल्या द्रावणाला काचेच्या रॉडने ढवळा. हे मिश्रण द्रावक म्हणून वापरले जाते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drops2tube">
+	<TEXT ID="drops2tube_one">
+	<TEXTVALUE>ह्याला परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution">
+	<TEXT ID="papertosolution_one">
+	<TEXTVALUE>द्रावक असलेल्या वर्णलेखन कक्षेत फिल्टर कागद अशा प्रकारे लंबरेषेत लटकवा की पेन्सिलने काढलेली रेश द्रावक पातळीच्या २ सेमी वर असेल.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution_two">
+	<TEXTVALUE>वर्णलेखन कक्ष त्याच्या झाकणाने बंद करा आणि थोडा वेळ त्याला हात लावू नका.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution_three">
+	<TEXTVALUE>लाल आणि निळ्या शाईबरोबर द्रावकात वाढ होताना दिसेल. जेव्हा द्रावक १५ सेमी वाढेल, तेव्हा फिल्टर कागदावर लाल आणि निळ्या शाईचे दोन वेगळे डाग दिसतील.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry">
+	<TEXT ID="paperdry_one">
+	<TEXTVALUE>वर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil">
+	<TEXT ID="takingpencil_one">
+	<TEXTVALUE>वर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="marking">
+	<TEXT ID="marking_one">
+	<TEXTVALUE>Tवर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="marking_two">
+	<TEXTVALUE>फिल्टर कागद उघड्यावर कोरडे करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="marking_three">
+	<TEXTVALUE>निळ्या आणि लाल डागाच्या मध्यात पेन्सिलने चिन्ह करा. मूळ रेषेपासून द्रावकाचे अंतर मोजा आणि मूळ रेषेपासून दोन्ही डागांचे अंतर मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="value">
+	<TEXT ID="rf_title">
+	<TEXTVALUE>शाईचे आरएफ मूल्ये </TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="numerator">
+	<TEXTVALUE>मूळ रेषेपासून द्राव्य किती अंतर पसरले</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="denominator">
+	<TEXTVALUE>मूळ रेषेपासून द्रावक किती अंतर पसरले</TEXTVALUE>  
+	</TEXT>
+	<TEXT ID="value_one">
+	<TEXTVALUE>सूत्र वापरून निळ्या आणि लाल शाईचे आरएफ मूल्ये परिगणित करा. 
+	</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result">
+	<TEXT ID="table_h1">
+		<TEXTVALUE>नो. पदार्थ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h2">
+		<TEXTVALUE> विविध घटक किती अंतर पसरले</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>द्रावकाने पार केलेले अंतर</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h4">
+		<TEXTVALUE>आरएफ मूल्य</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h5">
+		<TEXTVALUE>निळी शाई</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h6">
+		<TEXTVALUE>लाल शाई </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result_one">
+	<TEXTVALUE>सूत्र वापरून निळ्या आणि लाल शाईचे आरएफ मूल्ये परिगणित करा.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+
+
+
+ 
+
+<SCENE ID="Title2">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>कागद वर्णलेखन पद्धत वापरून पालक पानाच्या 
+अर्कातील घटक वेगळे करणे</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="intro2">
+	<TEXT ID="extract">
+		<TEXTVALUE>पालक पानाचे अर्क</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="intro2_one">
+	<TEXTVALUE>आवश्यक सामग्री: पालक पानाचे अर्क, ऊर्ध्वपतित पाणी, आयसोप्रोपिल अल्कोहोल, व्हॉटमन फिल्टर कागद पट्टी (२० x २ सेमी), पेन्सिल, पट्टी, केशनलिका, वर्णलेखन कक्ष</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+<SCENE ID="takefilterpaper2">
+	<TEXT ID="ttakefilterpaper2_one">
+	<TEXTVALUE>व्हॉटमन फिल्टर कागद पट्टी (२० x २ सेमी) घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ttakefilterpaper2_two">
+	<TEXTVALUE>एका टोकापासून ४ सेमी रेष काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="drawing2">
+	<TEXT ID="drawing2_one">
+	<TEXTVALUE>कागदाच्या मध्यावरून अजून एक रेष काढा आणि दोन्ही रेषा ज्या बिन्दुला छेदल्या जातात त्याला पी नाव द्या.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="drawing2_two">
+	<TEXTVALUE>कागदाच्या मध्यावरून अजून एक रेष काढा आणि दोन्ही रेषा ज्या बिन्दुला छेदल्या जातात त्याला पी नाव द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="cappillary2">
+	<TEXT ID="cappillary2_one">
+	<TEXTVALUE>केशनलिका घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="color2">
+	<TEXT ID="color2_one">
+	<TEXTVALUE>केशनलिका वापरून त्याला पालक पानाचे अर्क मिश्रण असलेल्या चंचुपात्रात बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="waterdrop21">
+	<TEXT ID="waterdrop21_one">
+	<TEXTVALUE>बिन्दु पी वर पालक पानाचे अर्क मिश्रणाचा एक थेंब टाका.उघड्यावर कोरडे होऊ द्या.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="waterdrop21_two">
+	<TEXTVALUE>उघड्यावर कोरडे होऊ द्या.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="colorcopy2">
+	<TEXT ID="colorcopy2_one">
+	<TEXTVALUE>केशनलिका वापरून पालक पानाचे अर्क मिश्रण घ्या.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+
+<SCENE ID="waterdropcopy21">
+	<TEXT ID="waterdropcopy21_one">
+	<TEXTVALUE>त्याच बिन्दुवर परत एक थेंब टाका म्हणजे त्या बिन्दुवर मिश्रण नीट बसेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="addingwater2">
+	<TEXT ID="addingwater2_one">
+	<TEXTVALUE>मापन जार मध्ये ५ मिली ऊर्ध्वपतित पाणी मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Togasjar2">
+	<TEXT ID="Togasjar2_one">
+	<TEXTVALUE>वर्णलेखन कक्षेत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingalcohol2">
+	<TEXT ID="takingalcohol2_one">
+	<TEXTVALUE>दुसर्यान मापन जार मध्ये ५ मिली अल्कोहोल मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="alcoholtogasjar2">
+	<TEXT ID="alcoholtogasjar2_one">
+	<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या वर्णलेखन कक्षेत ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="alcoholtogasjar2_two">
+	<TEXTVALUE>वर्णलेखन कक्षेतल्या द्रावणाला काचेच्या रॉडने ढवळा. हे मिश्रण द्रावक म्हणून वापरले जाते.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="drops2tube2">
+	<TEXT ID="drops2tube2_one">
+	<TEXTVALUE>ह्याला परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="papertosolution2">
+	<TEXT ID="papertosolution2_one">
+	<TEXTVALUE>द्रावक असलेल्या वर्णलेखन कक्षेत फिल्टर कागद अशा प्रकारे लंबरेषेत लटकवा की पेन्सिलने काढलेली रेश द्रावक पातळीच्या २ सेमी वर असेल.</TEXTVALUE>
+	</TEXT>
+	
+
+	<TEXT ID="papertosolution2_two">
+	<TEXTVALUE>वर्णलेखन कक्ष त्याच्या झाकणाने बंद करा आणि थोडा वेळ त्याला हात लावू नका.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_three">
+	<TEXTVALUE>पान अर्काबरोबर द्रावक पण वाढताना तुम्हाला दिसेल.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="papertosolution2_four">
+	<TEXTVALUE>जेव्हा द्रावक १५ सेमी वाढेल, पालक पानाच्या अर्काच्या घटकाचे विविध डाग फिल्टर कागदावर दिसतील.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="paperdry2">
+	<TEXT ID="paperdry2_one">
+	<TEXTVALUE>वर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="takingpencil2">
+	<TEXT ID="takingpencil2_one">
+	<TEXTVALUE>वर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_one">
+	<TEXTVALUE>वर्णलेखन कक्षेतून फिल्टर कागद काढा आणि कागदावर द्रावक किती वाढले आहे त्याचे चिन्ह पेन्सिलने करा. ह्याला द्रावक फ्रंट म्हणतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene392">
+	<TEXT ID="Scene392_two">
+	<TEXTVALUE>फिल्टर कागद उघड्यावर कोरडे करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene392_three">
+	<TEXTVALUE>निळ्या आणि लाल डागाच्या मध्यात पेन्सिलने चिन्ह करा. मूळ रेषेपासून द्रावकाचे अंतर मोजा आणि मूळ रेषेपासून दोन्ही डागांचे अंतर मोजा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="rfvalue">
+	<TEXT ID="rfvalue_one">
+	<TEXTVALUE>सूत्र वापरून निळ्या आणि लाल शाईचे आरएफ मूल्ये परिगणित करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Result2">
+	<TEXT ID="Orange">
+	<TEXTVALUE>नारंगी (कॅरोटीन)
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Yellow">
+	<TEXTVALUE>पिवळे
+(क्सान्थोफिल ) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="light_green">
+	<TEXTVALUE>फिकट हिरवा
+ (क्लोरोफिल a) </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="dark_green">
+	<TEXTVALUE>गडद हिरवा
+(क्लोरोफिल b)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Result2_one">
+	<TEXTVALUE>सूत्र वापरून निळ्या आणि लाल शाईचे आरएफ मूल्ये परिगणित करा.</TEXTVALUE>  
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Scene1">
+	<TEXT ID="title">
+	<TEXTVALUE>പൊട്ടാസ്യം അയോഡേറ്റും സോഡിയം സൾഫേ‍റ്റും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ  കൈനെറ്റിക്സ് പഠനം </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>ആരംഭ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>ആരംഭിക്കുക</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>ആവശ്യമായവ: 0.01 M KIO₃ നാല് വ്യത്യസ്ത കോണിക്കല്‍ ഫ്ലാസ്ക്കുകളില്‍ സ്വേദിത ജലം, അളവ് ജാറുകള്‍, 1 M H₂SO₄, സ്റ്റാർച്ച്  ലായനി, 0.005 M Na₂SO₃, 0.01 M  പൊട്ടാസ്യം അയോഡേറ്റ്[KIO₃] ലായനി, സ്റ്റോപ് വാച്ച്.</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	<TEXT ID="PotassiumLbl_text">
+	<TEXTVALUE> 0.01 M  പൊട്ടാസ്യം അയോഡേറ്റ് [KIO&#8323;] ലായനി  2 ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_text">
+	<TEXTVALUE> 0.01M പൊട്ടാസ്യം അയോഡേറ്റ് [KIO&#8323;] ലായനി  4 ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textThree">
+	<TEXTVALUE> 0.01 M പൊട്ടാസ്യം അയോഡേറ്റ് [KIO&#8323;] ലായനി  6 ml</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="PotassiumIodateLbl_textFour">
+	<TEXTVALUE> 0.01 M പൊട്ടാസ്യം അയോഡേറ്റ് [KIO&#8323;] ലായനി  8 ml</TEXTVALUE>
+	</TEXT>
+	
+	   <TEXT ID="Distilled_text">
+	<TEXTVALUE>സ്വേദിത ജലം</TEXTVALUE>
+	</TEXT>  
+	
+	
+	 <TEXT ID="hso_text">
+	<TEXTVALUE>1 M H&#8322;SO&#8324;</TEXTVALUE>
+	</TEXT> 
+
+
+<TEXT ID="Starch_solutionText">
+	<TEXTVALUE>സ്റ്റാർച്ച്  ലായനി</TEXTVALUE>
+	</TEXT> 
+	
+	<TEXT ID="Sodium_SulphiteText">
+	<TEXTVALUE>0.005 M [ Na&#8322;SO&#8323;]</TEXTVALUE>
+	</TEXT> 
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>A, B, C, D എന്നീ നാല് വ്യത്യസ്ത കോണിക്കല്‍ ഫ്ലാസ്ക്കുകളില്‍ യഥാക്രമം 2, 4, 6, 8 ml വീതം 0.01 M പൊട്ടാസ്യം അയോഡേറ്റ് ലായനി എടുക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 10 ml 1 M H₂SO₄ എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene5">
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>ഇത് ഫ്ലാസ്ക്  A യില്‍ ഒഴിക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene6">
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>ബാക്കി മൂന്ന് ഫ്ലാസ്ക്കുകളിലും ഇതേ നടപടി ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Flask_text">
+	<TEXTVALUE>ഫ്ലാസ്ക് നമ്പര്‍:</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table2_text">
+	<TEXTVALUE> 0.01 M KIO₃ ലായനി (ml) അളവ്</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table3_text">
+	<TEXTVALUE>KIO₃ (ml) ന്റെ 1/ Vol.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table4_text">
+	<TEXTVALUE>1 M H&#8322;SO&#8324; (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table5_text">
+	<TEXTVALUE>ജലം (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table6_text">
+	<TEXTVALUE>സ്റ്റാർച്ച് ലായനി (ml)</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Table7_text">
+	<TEXTVALUE>0.005 M Na&#8322;SO&#8323; (ml)</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Table8_text">
+	<TEXTVALUE>നീല നിറം പ്രത്യക്ഷമാകാന്‍ എടുക്കുന്ന സമയം (t)</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene7">
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ 88 ml സ്വേദിത ജലം അളന്നെടുക്കുക.</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene8">
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക്  A യില്‍ ഒഴിച്ച് ലായനിയുടെ അളവ് 100 ml ആക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene9">
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക്  A യില്‍ ഒഴിച്ച് ലായനിയുടെ അളവ് 100 ml ആക്കുക. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene10">
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>അളവ് ജാറില്‍ 86, 84, 82 ml സ്വേദിത ജലം അളന്നെടുക്കുക</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene11">
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>അവ യഥാക്രമം B, C, D ഫ്ലാസ്ക്കുകളില്‍ ഒഴിച്ച് അവയിലെ ലായനിയുടെ അളവ് 100 ml ആക്കുക.   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene12">
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>അവ യഥാക്രമം B, C, D ഫ്ലാസ്ക്കുകളില്‍ ഒഴിച്ച് അവയിലെ ലായനിയുടെ അളവ് 100 ml ആക്കുക.   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene13">
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>ഒരു അളവ് ജാറില്‍ 5 ml സ്റ്റാർച്ച്  ലായനി എടുക്കുക.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene14">
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക്  A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene15">
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>ബാക്കിയുള്ള മൂന്ന് ഫ്ലാസ്ക്കുകളിലും ഇതേ പ്രക്രിയ ആവർത്തിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene16">
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>10 ml 0.005M സോഡിയം സൾഫേ‍റ്റ് ലായനി എടുക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene17">
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>അത് ഫ്ലാസ്ക് A യില്‍ ഒഴിക്കുക.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Scene17_subtwo">
+	<TEXTVALUE>ഉടന്‍ സ്റ്റോപ്പ് വാച്ച് പ്രവർത്തിപ്പിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene18">
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>ലായനിയില്‍ നീല നിറം പ്രത്യക്ഷപ്പെടുന്നത് നിരീക്ഷിക്കുക.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="Scene18_subtwo">
+	<TEXTVALUE>നീല നിറം പ്രത്യക്ഷപ്പെടുന്ന സമയം ശ്രദ്ധിക്കുക.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene19">
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>B, C, D ഫ്ലാസ്ക്കുകളില്‍ 10 ml 0.005 M സോഡിയം സൾഫേറ്റ് ചേർത്തു കൊണ്ട് പരീക്ഷണം ആവർത്തിക്കുകയും ഓരോന്നിലും ലായനി നീല നിറമാകാന്‍ എടുക്കുന്ന സമയം രേഖപ്പെടുത്തുകയും ചെയ്യുക .</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene20">
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>1/Vol.  KIO₃ യും നീലനിറം പ്രത്യക്ഷപ്പെടാന്‍ എടുക്കുന്ന സമയവും (t) തമ്മിലുള്ള ബന്ധം വിശദീകരിക്കുന്നവിധം 1/Vol.  KIO₃  X  അക്ഷത്തിലും t,  Y അക്ഷത്തിലുമായി ഒരു ഗ്രാഫ് വരയ്ക്കുക. പ്രസ്തുത ഗ്രാഫ് ഒരു നേർരേഖയായിരിക്കും. </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="volText">
+	<TEXTVALUE>Vol. of KIO₃(ml) ന്റെ അളവ്</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene21">
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>പൊട്ടാസ്യം അയോഡേറ്റും സോഡിയം സൾഫേറ്റും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിന്റെ തോത് പൊട്ടാസ്യം അയോഡേറ്റിന്റെ വർദ്ധനക്കനുസരിച്ച് വർദ്ധിക്കുന്നതായി ഗ്രാഫിൽ നിന്നും വ്യക്തമാകുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="resultText">
+	<TEXTVALUE>പൊട്ടാസ്യം അയോഡേറ്റിന്റെ ഗാഢത കൂടുന്നതനുസരിച്ച് പ്രതിപ്രവർത്തനത്തിന്റെ തോതും കൂടുന്നു.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_text">
+	<TEXTVALUE>പുറകോട്ട് </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+</DATA>

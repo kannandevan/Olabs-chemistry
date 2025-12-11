@@ -1,0 +1,1007 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: j\n"
+"POT-Creation-Date: 2015-08-13 16:40+0530\n"
+"PO-Revision-Date: 2016-02-16 10:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: j <j>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:19 simcontrols.js:36
+msgid "10 minutes"
+msgstr "10 मिनट"
+
+#: simcontrols.js:19 simcontrols.js:36
+msgid "30 minutes"
+msgstr "30 मिनट"
+
+#: simcontrols.js:20
+msgid "Lyophilic sols"
+msgstr "ल्योफ्लिक सॉल"
+
+#: simcontrols.js:20
+msgid "Lyophobic sols"
+msgstr "ल्योफोबिक सॉल"
+
+#: simcontrols.js:21
+msgid "Starch"
+msgstr "स्टार्च"
+
+#: simcontrols.js:21
+msgid "Gum"
+msgstr "गोंद"
+
+#: simcontrols.js:21
+msgid "Egg albumin"
+msgstr "अंडे की सफेदी"
+
+#: simcontrols.js:22
+msgid "Aluminium hydroxide"
+msgstr "एल्यूमीनियम हाइड्राक्साइड"
+
+#: simcontrols.js:22
+msgid "Ferric hydroxide"
+msgstr "'फेरिक हाइड्रॉक्साइड "
+
+#: simcontrols.js:22
+msgid "Arsenious sulphide"
+msgstr "संखियादार सल्फाइड"
+
+#: simcontrols.js:23
+msgid ""
+"There is no color change, thus it follows that starch molecules</br> do not "
+"diffuse through parchment membrane."
+msgstr ""
+"रंग में कोई परिवर्तन नहीं होता है, इस प्रकार यह परिणाम निकलता है कि स्टार्च के अणु </ "
+"br> चर्मपत्र की झिल्ली के माध्यम से विसरित नहीं होते हैं।"
+
+#: simcontrols.js:23
+msgid ""
+"A white precipitate of AgCl produced immediately indicates the presence<br/> "
+"of chloride ions and hence sodium chloride in water."
+msgstr ""
+"तुरंत ही AgCl की सफेद तलछट बनती है जिससे क्लोराइड आयनों की उपस्थिति<br/>  का पता "
+"चलता है और इसलिए पानी में सोडियम क्लोराइड है।"
+
+#: simcontrols.js:23
+msgid "No white precipitate is formed, Cl<sup>-</sup> ions are absent."
+msgstr "कोई सफेद तलछट नहीं बनता है, इसलिए Cl<sup>-</sup> के आयन अनुपस्थित हैं।"
+
+#: simcontrols.js:25
+msgid "Starch paste(1g)"
+msgstr "स्टार्च का पेस्ट (1ग्राम)"
+
+#: simcontrols.js:25
+msgid "Starch Sol"
+msgstr "स्टार्च का सॉल"
+
+#: simcontrols.js:25
+msgid "Dialysis of starch sol"
+msgstr "स्टार्च के सॉल का अपोहन"
+
+#: simcontrols.js:25 simcontrols.js:32
+msgid "Replace the water"
+msgstr "पानी बदलें"
+
+#: simcontrols.js:25 simcontrols.js:32 simcontrols.js:36
+msgid "Water replaced from beaker"
+msgstr "बीकर से बदला गया पानी"
+
+#: simcontrols.js:25
+msgid "Water(100 ml)"
+msgstr "पानी (100 मिलीलीटर)"
+
+#: simcontrols.js:28
+msgid "Egg Albumin"
+msgstr "अंडे की सफेदी"
+
+#: simcontrols.js:28
+msgid "Egg-albumin sol"
+msgstr "अंडे की सफेदी का सॉल"
+
+#: simcontrols.js:28
+msgid "5% NaCl Solution"
+msgstr "5% NaCl का विलयन"
+
+#: simcontrols.js:30
+msgid "Gum paste (1g)"
+msgstr "गोंद की पेस्ट (1ग्राम)"
+
+#: simcontrols.js:30
+msgid "Gum Sol"
+msgstr "गोंद का सॉल"
+
+#: simcontrols.js:32
+msgid "Water (100ml)"
+msgstr "पानी (100 मिलीलीटर)"
+
+#: simcontrols.js:32
+msgid "Ferric chloride solution (2%)"
+msgstr "फेरिक क्लोराइड का विलयन (2%)"
+
+#: simcontrols.js:32
+msgid "Dialysis of ferric hydroxide sol"
+msgstr "फेरिक हाइड्रॉक्साइड के सॉल का अपोहन"
+
+#: simcontrols.js:32 simcontrols.js:36 simcontrols.js:46
+msgid "Silver nitrate"
+msgstr "सिल्वर नाइट्रेट"
+
+#: simcontrols.js:32 simcontrols.js:38 simcontrols.js:48
+msgid "Water"
+msgstr "पानी"
+
+#: simcontrols.js:32
+msgid "Ferric Hydroxide Sol"
+msgstr "फेरिक हाइड्रॉक्साइड का सॉल"
+
+#: simcontrols.js:34
+msgid "Preparation of gum sol has been completed."
+msgstr "गोंद के सॉल की रचना पूरी हो चुकी है।"
+
+#: simcontrols.js:35
+msgid ""
+"Ferric chloride undergoes hydrolysis with <br/>boiling distilled water to "
+"form ferric hydroxide sol."
+msgstr ""
+"उबलते हुए आसुत जल के साथ फेरिक क्लोराइड अपोहन से गुजरता है जिससे फेरिक हाइड्रॉक्साइड का "
+"सॉल बनता है।"
+
+#: simcontrols.js:35
+msgid ""
+"On adding silver nitrate to water,<br/> a white precipitate of silver "
+"chloride is produced immediately,<br/> which indicates the presence of "
+"chloride ions and hence, NaCl in water. <br/>It means that chloride ions "
+"diffuse through the parchment membrane."
+msgstr ""
+"पानी में सिल्वर नाइट्रेट मिलाने पर, <br/> तुरंत ही  सिल्वर क्लोराइड का सफेद तलछट बनता "
+"है, <br/> जिससे क्लोराइड के आयनों की उपस्थिति का पता चलता है और इसलिए, पानी में NaCl "
+"है। <br/> इसका मतलब है कि क्लोराइड के आयन चर्मपत्र झिल्ली के माध्यम से विसरित होते हैं।"
+
+#: simcontrols.js:35
+msgid ""
+"No white precipitate is formed,<br/> indicating that Cl<sup>-</sup> ions are "
+"absent and dialysis is complete."
+msgstr ""
+"कोई सफेद तलछट नहीं बनता है, यह दर्शाता है कि Cl<sup>-</sup> के आयन अनुपस्थित हैं और "
+"अपोहन पूरा हो गया है।"
+
+#: simcontrols.js:36
+msgid "Water(100ml)"
+msgstr "पानी (100 मिलीलीटर)"
+
+#: simcontrols.js:36
+msgid "AlCl<sub>3</sub>"
+msgstr "AlCl<sub>3</sub>"
+
+#: simcontrols.js:36
+msgid "Aluminium chloride(2%)"
+msgstr "एल्युमीनियम क्लोराइड (2%)"
+
+#: simcontrols.js:36
+msgid "Dialysis of aluminium hydroxide sol."
+msgstr "एल्यूमीनियम हाइड्राक्सा्इड के सॉल का अपोहन।"
+
+#: simcontrols.js:36
+msgid "Aluminum hydroxide sol"
+msgstr "एल्यूमिनियम हाइड्रॉक्साइड का सॉल"
+
+#: simcontrols.js:36
+msgid "AgNO<sub>3</sub>"
+msgstr "AgNO<sub>3</sub>"
+
+#: simcontrols.js:36
+msgid "Replace distilled water from the beaker"
+msgstr "बीकर से आसुत जल बदलें"
+
+#: simcontrols.js:37
+msgid ""
+"Aluminium chloride undergoes hydrolysis with boiling<br>distilled water to "
+"form aluminium hydroxide sol."
+msgstr ""
+"उबलते हुए आसुत जल के साथ एल्युमीनियम क्लोराइड अपोहन से गुजरता है जिससे एल्यूमीनियम "
+"हाइड्राक्साइड का सॉल बनता है।"
+
+#: simcontrols.js:37
+msgid ""
+"On adding silver nitrate to water, a white precipitate of silver<br>chloride "
+"is produced immediately, which indicates the presence<br of chloride ions "
+"and hence, NaCl in water. It means that<br>chloride ions diffuse through the "
+"parchment membrane."
+msgstr ""
+"पानी में सिल्वर नाइट्रेट मिलाने पर, तुरंत ही सिल्वर <br> क्लोराइड का सफेद तलछट बनता है, "
+"जो क्लोराइड आयनों की उपस्थिति < br  दर्शाता है और इसलिए, पानी में NaCl  है। इसका "
+"मतलब है कि <br> क्लोराइड के आयन चर्मपत्र की झिल्ली के माध्यम से विसरित होते हैं।"
+
+#: simcontrols.js:37
+msgid ""
+"No white precipitate is formed, indicating that<br>Cl<sup>-</sup> ions are "
+"absent and dialysis is complete. "
+msgstr ""
+"कोई सफेद तलछट नहीं बनता है, यह दर्शाता है कि <br> Cl<sup>-</sup> के आयन अनुपस्थित हैं "
+"और अपोहन पूरा हो गया है।"
+
+#: simcontrols.js:38
+msgid "Water (100 ml)"
+msgstr "पानी (100 मिलीलीटर)"
+
+#: simcontrols.js:38
+msgid "Arsenious oxide (0.2 g)"
+msgstr "संखियादार ऑक्साइड (0.2 ग्राम)"
+
+#: simcontrols.js:38
+msgid "Pass H<sub>2</sub>S gas through arsenous acid"
+msgstr "संखियादार अम्ल के माध्यम से H<sub>2</sub>S  गैस गुजारें"
+
+#: simcontrols.js:38
+msgid "5 minutes"
+msgstr "5 मिनट"
+
+#: simcontrols.js:38
+msgid "Filter the solution"
+msgstr "विलयन छानें"
+
+#: simcontrols.js:38
+msgid "Arsenious Sulphide(Hot solution)"
+msgstr "संखियादार सल्फाइड (गरम विलयन)"
+
+#: simcontrols.js:38
+msgid "Solution of Arsenous acid"
+msgstr "संखियादार अम्ल का विलयन"
+
+#: simcontrols.js:38
+msgid "Arsenious sulphide sol"
+msgstr "संखियादार सल्फाइड का सॉल"
+
+#: simcontrols.js:39
+msgid "Filtrate is arsenious sulphide sol."
+msgstr "छनी हुई सामग्री संखियादार सल्फाइड का सॉल है।"
+
+#: simcontrols.js:39
+msgid "Arsenious oxide "
+msgstr "संखियादार ऑक्साइड"
+
+#: simcontrols.js:39
+msgid ""
+"Arsenious oxide undergoes hydrolysis with<br>boiling distilled water to form "
+"arsenous acid."
+msgstr ""
+"<br> उबलते हुए आसुत जल के साथ संखियादार ऑक्साइड अपोहन से गुजरता है जिससे संखियादार अम्ल "
+"बनता है।"
+
+#: simcontrols.js:39
+msgid ""
+"Arsenous acid reacts with H<sub>2</sub>S gas to<br>form arsenious sulphide "
+"sol."
+msgstr ""
+"संखियादार अम्ल H<sub>2</sub>S  गैस के साथ अभिक्रिया करता है जिससे संखियादार सल्फाइड "
+"का सॉल <br> बनता है।"
+
+#: simcontrols.js:40 simcontrols.js:42
+msgid "Click on the ‘knob’ of the burner<br>to turn it on. "
+msgstr "चालू करने के लिए बर्नर <br> की 'घुंडी' पर क्लिक करें।"
+
+#: simcontrols.js:40 simcontrols.js:42
+msgid ""
+"Drag the conical flask to the burner<br>to place it over the wire gauze."
+msgstr "तार की जाली पर रखने के लिए, शंक्वाकार कुप्पी बर्नर <br> की ओर खींचें ।"
+
+#: simcontrols.js:40
+msgid ""
+"Drag the dropper to the conical flask to drop<br>aluminium chloride solution "
+"into it."
+msgstr ""
+"शंक्वाकार कुप्पी में <br> एल्यूमिनियम क्लोराइड का विलयन डालने के लिए शंक्वाकार कुप्पी की ओर "
+"ड्रॉपर खींचें"
+
+#: simcontrols.js:41
+msgid ""
+"Drag the conical flask to the funnel to pour<br>aluminium hydroxide sol into "
+"the parchment bag. "
+msgstr ""
+"चर्मपत्र की थैली में <br> एल्यूमीनियम हाइड्राक्साइड का सॉल डालने के लिए कीप की ओर "
+"शंक्वाकार कुप्पी खींचें ।"
+
+#: simcontrols.js:41
+msgid ""
+"Drag the dropper to the beaker to take water<br>in it and drop water into "
+"the 1st test tube."
+msgstr ""
+"ड्रॉपर में पानी <br> लेने के लिए और पहली परखनली में पानी डालने के लिए बीकर की ओर ड्रॉपर "
+"खींचें ।"
+
+#: simcontrols.js:41
+msgid "Drag the dropper to drop silver nitrate solution<br>into the test tube."
+msgstr ""
+"ड्रॉपर में पानी <br> लेने के लिए और पहली परखनली में पानी डालने के लिए बीकर की ओर ड्रॉपर "
+"खींचें ।"
+
+#: simcontrols.js:41
+msgid ""
+"Drag the dropper to the beaker to take water in it<br>and drop water into "
+"the 2nd test tube."
+msgstr ""
+"ड्रॉपर <br> में पानी लेने के लिए और दूसरी परखनली में पानी डालने के लिए बीकर की ओर ड्रॉपर "
+"खींचें ।"
+
+#: simcontrols.js:42
+msgid ""
+"Drag the watch glass to the conical flask<br>to add arseniuos oxide into "
+"water."
+msgstr ""
+"पानी में संखियादार ऑक्साइड मिलाने के लिए शंक्वाकार कुप्पी <br> की ओर वॉच ग्लांस खींचें।"
+
+#: simcontrols.js:42
+msgid "Drag the conical flask to the funnel<br>to filter the solution."
+msgstr "विलयन छानने के लिए, कीप <br> की ओर शंक्वाकार कुप्पीं खींचें ।"
+
+#: simcontrols.js:43
+msgid ""
+"Click on the ‘knob’ of the Kipp’s apparatus to<br>pass hydrogen sulphide gas "
+"through the solution."
+msgstr ""
+"विलयन से होकर हाइड्रोजन सल्फाइड गैस गुजारने <br> के लिए किप्स उपकरण की 'घुंडी' पर क्लिक "
+"करें।"
+
+#: simcontrols.js:43
+msgid "Drag the beaker to the burner<br>to place it over the wire gauze."
+msgstr "तार की जाली पर रखने के लिए, बर्नर <br> की ओर बीकर खींचें।"
+
+#: simcontrols.js:43
+msgid "Click on the ‘knob’ of the burner<br>to turn it on."
+msgstr "चालू करने के लिए, बर्नर <br> की 'घुंडी' पर क्लिक करें।"
+
+#: simcontrols.js:43
+msgid "Drag the beaker to the funnel to<br>filter the arseniuos sulphide sol."
+msgstr "संखियादार सल्फाइड का सॉल छानने <br> के लिए, कीप की ओर बीकर खींचें।"
+
+#: simcontrols.js:45
+msgid "Preparation of Egg-albumin sol has been completed."
+msgstr "अंडे की सफेदी के सॉल की रचना पूरी हो चुकी है।"
+
+#: simcontrols.js:47
+msgid "Iodine solution"
+msgstr "आयोडीन का विलयन"
+
+#: simcontrols.js:50
+msgid "Drag the beaker to the<br/> burner to place it over the wire gauze."
+msgstr "तार की जाली पर रखने के लिए, बर्नर <br> की ओर बीकर खींचें।"
+
+#: simcontrols.js:50
+msgid "Click on the ‘knob’ of the<br/> burner to turn it on."
+msgstr "चालू करने के लिए, बर्नर <br> की 'घुंडी' पर क्लिक करें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the watch glass to the beaker<br/> to transfer starch paste into it."
+msgstr "वॉच ग्लास में स्टार्च का पेस्ट डालने के लिए बीकर <br/> की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the glass rod to the beaker to <br/>stir the contents of the beaker."
+msgstr "बीकर की सामग्री चलाने <br/> के लिए, बीकर की ओर कांच की छड़ खींचें।"
+
+#: simcontrols.js:50
+msgid "Drag the beaker to the funnel <br/>to filter the starch sol."
+msgstr "स्टॉर्च का सॉल छानने के लिए कीप <br/> की ओर बीकर खींचे।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the conical flask to the funnel to<br/> pour starch sol into the "
+"parchment bag."
+msgstr ""
+"चर्मपत्र की थैली में स्टार्च का सॉल डालने <br/> के लिए, कीप की ओर शंक्वाकार कुप्पी खींचें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to the beaker to take water<br/> in it and drag it back to "
+"drop water<br/> into the 1<sup>st</sup> test tube."
+msgstr ""
+"ड्रॉपर में पानी <br/> लेने के लिए बीकर की ओर ड्रॉपर खींचें  और 1<sup>st</sup> परखनली में "
+"पानी <br/> डालने के लिए, इसे वापस खींचें ।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to drop iodine<br/> solution into the 1<sup>st</sup> test "
+"tube."
+msgstr "परखनली में आयोडीन <br/> का विलयन डालने के लिए ड्रॉपर खींचें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to the beaker to take water <br/>in it and drag it back to "
+"drop water into the 2<sup>nd</sup> test tube."
+msgstr ""
+"ड्रॉपर में पानी <br/> लेने के लिए बीकर की ओर ड्रॉपर खींचें और 2<sup>nd</sup> परखनली में "
+"पानी <br/> डालने के लिए, इसे वापस खींचें ।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to drop silver nitrate <br/>solution into the 2<sup>nd</"
+"sup> test tube."
+msgstr "परखनली में सिल्वर नाइट्रेट का विलयन डालने के लिए ड्रॉपर खींचें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to the beaker to take water in <br/>it and drag it back to "
+"drop water into the test tube."
+msgstr ""
+"ड्रॉपर<br/> में पानी लेने के लिए बीकर की ओर ड्रॉपर खींचें और परखनली में पानी डालने के लिए, "
+"इसे वापस खींचें।"
+
+#: simcontrols.js:50
+msgid ""
+"Drag the dropper to drop silver <br/>nitrate solution into the test tube."
+msgstr "परखनली में सिल्वर <br/> नाइट्रेट का विलयन डालने के लिए ड्रॉपर खींचें।"
+
+#: simcontrols.js:51
+msgid "Drag the beaker to the burner to<br/> place it over the wire gauze."
+msgstr "तार की जाली पर रखने <br/> के लिए बर्नर की ओर बीकर खींचें ।"
+
+#: simcontrols.js:51
+msgid "Click on the ‘knob’ of<br/> the burner to turn it on."
+msgstr "चालू करने के लिए बर्नर <br> की 'घुंडी' पर क्लिक करें।"
+
+#: simcontrols.js:51
+msgid "Drag the watch glass to the beaker to<br/> transfer gum paste into it."
+msgstr "गोंद का पेस्ट डालने <br/> के लिए बीकर की ओर वॉच ग्लास खींचें।"
+
+#: simcontrols.js:51
+msgid ""
+" Drag the glass rod to the beaker to stir the<br/> contents of the beaker."
+msgstr "बीकर की <br/> सामग्री चलाने के लिए बीकर की ओर कांच की छड़ खींचें।"
+
+#: simcontrols.js:51
+msgid "Drag the beaker to the<br/> funnel to filter the gum sol."
+msgstr "गोंद का सॉल छानने के लिए कीप <br/> की ओर बीकर खींचें।"
+
+#: simcontrols.js:52
+msgid ""
+"Drag the beaker to the beaker <br/>containing NaCl solution to transfer<br/> "
+"egg albumin into it."
+msgstr ""
+"सोडियम क्लोराइड के विलयन से युक्त <br/>  बीकर में <br/>  अंडे की सफेदी डालने के लिए इसकी "
+"ओर बीकर खींचें।"
+
+#: simcontrols.js:52
+msgid ""
+"Drag the glass rod to the beaker<br/> to stir the contents of the beaker."
+msgstr "बीकर की सामग्री चलाने के लिए बीकर <br/> की ओर कांच की छड़ खींचें।"
+
+#: simcontrols.js:52
+msgid "Drag the beaker to the<br/> funnel to filter the egg albumin sol."
+msgstr "अंडे की सफेदी का सॉल छानने के लिए<br/> कीप की ओर बीकर खींचें।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the conical flask to the<br/> burner to place it over the wire gauze."
+msgstr "तार की जाली पर शंक्वाकार कुप्पीं रखने के लिए बर्नर <br/> की ओर इसे खींचें ।"
+
+#: simcontrols.js:53
+msgid "Click on the ‘knob’ of<br/>  the burner to turn it on."
+msgstr "चालू करने के लिए बर्नर <br> की 'घुंडी' पर क्लिक करें।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the dropper to the conical<br/> flask to drop ferric chloride solution "
+"into it."
+msgstr ""
+"शंक्वाकार <br/> कुप्पी् में फेरिक क्लोराइड का विलयन डालने के लिए इसकी ओर ड्रॉपर खींचें।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the conical flask to the <br/>funnel to pour ferric hydroxide<br/> sol "
+"into the parchment bag."
+msgstr ""
+"चर्मपत्र की थैली में फेरिक हाइड्रॉक्साइड <br/> का सॉल डालने के लिए कीप <br/>  की ओर "
+"शंक्वाकार कुप्पी  खींचें।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the dropper to the<br/>  beaker to take water in it and drag it back "
+"to<br/>  drop water into the 1<sup>st</sup>  test tube."
+msgstr ""
+"ड्रॉपर में पानी <br> लेने के लिए और पहली परखनली में पानी डालने के लिए बीकर की ओर ड्रॉपर "
+"खींचें ।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the dropper to drop silver<br/>  nitrate solution into the test tube."
+msgstr "परखनली में सिल्वर नाइट्रेट का विलयन डालने के लिए ड्रॉपर खींचें।"
+
+#: simcontrols.js:53
+msgid ""
+"Drag the dropper to the beaker to take water<br/>  in it and drag it back to "
+"drop <br/> water into the 2<sup>nd</sup>  test tube. "
+msgstr ""
+"ड्रॉपर<br/> में पानी लेने के लिए बीकर की ओर ड्रॉपर खींचें और परखनली में पानी डालने के लिए, "
+"इसे वापस खींचें।"
+
+#: simcontrols.js:54
+msgid "HELP"
+msgstr "मदद"
+
+#~ msgid "Egg Albumin paste"
+#~ msgstr "Egg Albumin paste"
+
+#~ msgid "Preparation of ferric sol has been completed."
+#~ msgstr "Preparation of ferric sol has been completed."
+
+#~ msgid "The white coloured solution is aluminium hydroxide."
+#~ msgstr "The white coloured solution is aluminium hydroxide."
+
+#~ msgid "Arsenious oxide solution"
+#~ msgstr "Arsenious oxide solution"
+
+#~ msgid "Select the environment:"
+#~ msgstr "Select the environment:"
+
+#~ msgid "Select viscous liquid:"
+#~ msgstr "Select viscous liquid:"
+
+#~ msgid "Select ball diameter:"
+#~ msgstr "Select ball diameter:"
+
+#~ msgid "mm"
+#~ msgstr "mm"
+
+#~ msgid "Select jar diameter:"
+#~ msgstr "Select jar diameter:"
+
+#~ msgid "cm"
+#~ msgstr "cm"
+
+#~ msgid "Show result"
+#~ msgstr "Show result"
+
+#~ msgid "Coefficient of viscosity of"
+#~ msgstr "Coefficient of viscosity of"
+
+#~ msgid "Glycerine"
+#~ msgstr "Glycerine"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "START"
+#~ msgstr "START"
+
+#~ msgid "STOP"
+#~ msgstr "STOP"
+
+#~ msgid "Density of the liquid ="
+#~ msgstr "Density of the liquid ="
+
+#~ msgid "Density of the glass ball = "
+#~ msgstr "Density of the glass ball = "
+
+#~ msgid "(ρ) Kg/m<sup>3</sup>"
+#~ msgstr "(ρ) Kg/m<sup>3</sup>"
+
+#~ msgid "Distance between point A and B = "
+#~ msgstr "Distance between point A and B = "
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "Viscosity of a Liquid"
+#~ msgstr "Viscosity of a Liquid"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid "Drag the points to adjust the distance."
+#~ msgstr "Drag the points to adjust the distance."
+
+#~ msgid "Earth (g=9.8 m/s&#178;)"
+#~ msgstr "Earth (g=9.8 m/s&#178;)"
+
+#~ msgid "Moon (g=1.6 m/s&#178;)"
+#~ msgstr "Moon (g=1.6 m/s&#178;)"
+
+#~ msgid "Uranus (g=8.69 m/s&#178;)"
+#~ msgstr "Uranus (g=8.69 m/s&#178;)"
+
+#~ msgid "Saturn (g=10.44 m/s&#178;)"
+#~ msgstr "Saturn (g=10.44 m/s&#178;)"
+
+#~ msgid "Jupiter (g=24.79 m/s&#178;)"
+#~ msgstr "Jupiter (g=24.79 m/s&#178;)"
+
+#~ msgid "Mars (g=3.711 m/s&#178;)"
+#~ msgstr "Mars (g=3.711 m/s&#178;)"
+
+#~ msgid "Venus (g=8.83 m/s&#178;)"
+#~ msgstr "Venus (g=8.83 m/s&#178;)"
+
+#~ msgid "Mercury (g=3.7 m/s&#178;)"
+#~ msgstr "Mercury (g=3.7 m/s&#178;)"
+
+#~ msgid "Neptune (g=11.15 m/s&#178;)"
+#~ msgstr "Neptune (g=11.15 m/s&#178;)"
+
+#~ msgid "Castor Oil"
+#~ msgstr "Castor Oil"
+
+#~ msgid "Drag and drop the<br/> ball into the jar."
+#~ msgstr "Drag and drop the<br/> ball into the jar."
+
+#~ msgid "Click on the start button to<br/> start the stopwatch"
+#~ msgstr "Click on the start button to<br/> start the stopwatch"
+
+#~ msgid "Earth"
+#~ msgstr "Earth"
+
+#~ msgid "Moon"
+#~ msgstr "Moon"
+
+#~ msgid "Uranus"
+#~ msgstr "Uranus"
+
+#~ msgid "Saturn"
+#~ msgstr "Saturn"
+
+#~ msgid "Jupiter"
+#~ msgstr "Jupiter"
+
+#~ msgid "Mars"
+#~ msgstr "Mars"
+
+#~ msgid "Venus"
+#~ msgstr "Venus"
+
+#~ msgid "Mercury"
+#~ msgstr "Mercury"
+
+#~ msgid "Neptune"
+#~ msgstr "Neptune"
+
+#~ msgid "Adjust the points A and B."
+#~ msgstr "Adjust the points A and B."
+
+#~ msgid "Start the stopwatch<br/> when ball reach point A."
+#~ msgstr "Start the stopwatch<br/> when ball reach point A."
+
+#~ msgid "Spring 1"
+#~ msgstr "Spring 1"
+
+#~ msgid "Spring 2"
+#~ msgstr "Spring 2"
+
+#~ msgid "Spring 3"
+#~ msgstr "Spring 3"
+
+#~ msgid "Select spring :"
+#~ msgstr "Select spring :"
+
+#~ msgid "Change hanging mass :"
+#~ msgstr "Change hanging mass :"
+
+#~ msgid "Spring constant, K = "
+#~ msgstr "Spring constant, K = "
+
+#~ msgid "Helical Spring"
+#~ msgstr "Helical Spring"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Earth g=9.8(m/s<sup>2</sup>)"
+#~ msgstr "Earth g=9.8(m/s<sup>2</sup>)"
+
+#~ msgid "Moon g=1.6(m/s<sup>2</sup>)"
+#~ msgstr "Moon g=1.6(m/s<sup>2</sup>)"
+
+#~ msgid "T.S. of"
+#~ msgstr "T.S. of"
+
+#~ msgid "Slide adjustment:"
+#~ msgstr "Slide adjustment:"
+
+#~ msgid "Select objective lens:"
+#~ msgstr "Select objective lens:"
+
+#~ msgid "sunflower stem"
+#~ msgstr "sunflower stem"
+
+#~ msgid "sunflower root"
+#~ msgstr "sunflower root"
+
+#~ msgid "maize stem"
+#~ msgstr "maize stem"
+
+#~ msgid "maize root"
+#~ msgstr "maize root"
+
+#~ msgid "Click on the eye piece of the <br/> microscope to view the sample."
+#~ msgstr "Click on the eye piece of the <br/> microscope to view the sample."
+
+#~ msgid "Select power of the lens <br/> from the drop down list."
+#~ msgstr "Select power of the lens <br/> from the drop down list."
+
+#~ msgid "Characteristics of Dicot and Monocot Stem and Root"
+#~ msgstr "Characteristics of Dicot and Monocot Stem and Root"
+
+#~ msgid "TS of"
+#~ msgstr "TS of"
+
+#~ msgid "Place the slide here."
+#~ msgstr "Place the slide here."
+
+#~ msgid "Click here to view the cell using microscope."
+#~ msgstr "Click here to view the cell using microscope."
+
+#~ msgid "Select the microscope zoom level."
+#~ msgstr "Select the microscope zoom level."
+
+#~ msgid "In petri dish: "
+#~ msgstr "In petri dish: "
+
+#~ msgid "Select the sugar concentration: "
+#~ msgstr "Select the sugar concentration: "
+
+#~ msgid "In potato: "
+#~ msgstr "In potato: "
+
+#~ msgid "Water concentration: "
+#~ msgstr "Water concentration: "
+
+#~ msgid "Cross sectional view"
+#~ msgstr "Cross sectional view"
+
+#~ msgid "2 Hours"
+#~ msgstr "2 Hours"
+
+#~ msgid ""
+#~ "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a "
+#~ "region of higher  concentration to a region of<br/> lower concentration "
+#~ "through  a semipermeable membrane."
+#~ msgstr ""
+#~ "Osmosis occurs here. It is the movement of the<br/> solvent (water)from a "
+#~ "region of higher  concentration to a region of<br/> lower concentration "
+#~ "through  a semipermeable membrane."
+
+#~ msgid "There is no change in the water concentration."
+#~ msgstr "There is no change in the water concentration."
+
+#~ msgid "Osmosis"
+#~ msgstr "Osmosis"
+
+#~ msgid "Select the sugar concentration in the petri dish."
+#~ msgstr "Select the sugar concentration in the petri dish."
+
+#~ msgid "Select the sugar concentration in the potato."
+#~ msgstr "Select the sugar concentration in the potato."
+
+#~ msgid ""
+#~ "Drag the first pin and place it at the <br/>initial level of water in the "
+#~ "potato."
+#~ msgstr ""
+#~ "Drag the first pin and place it at the <br/>initial level of water in the "
+#~ "potato."
+
+#~ msgid ""
+#~ "Drag the second pin and <br/>place it at the final level of water in the "
+#~ "potato."
+#~ msgstr ""
+#~ "Drag the second pin and <br/>place it at the final level of water in the "
+#~ "potato."
+
+#~ msgid ""
+#~ "During the process of osmosis water will move <br>from high water "
+#~ "concentration to low water concentration."
+#~ msgstr ""
+#~ "During the process of osmosis water will move <br>from high water "
+#~ "concentration to low water concentration."
+
+#~ msgid ""
+#~ "During the process of osmosis water will move<br> from low water "
+#~ "concentration to high water concentration."
+#~ msgstr ""
+#~ "During the process of osmosis water will move<br> from low water "
+#~ "concentration to high water concentration."
+
+#, fuzzy
+#~ msgid "Monocot and Dicot Plants"
+#~ msgstr "Monocot and Dicot Plants"
+
+#~ msgid "Petals"
+#~ msgstr "Petals"
+
+#~ msgid "Pollens"
+#~ msgstr "Pollens"
+
+#, fuzzy
+#~ msgid "Seeds"
+#~ msgstr "Seeds"
+
+#, fuzzy
+#~ msgid "Roots"
+#~ msgstr "Roots"
+
+#, fuzzy
+#~ msgid "Leaves"
+#~ msgstr "Leaves"
+
+#~ msgid "Vascular bundles"
+#~ msgstr "Vascular bundles"
+
+#, fuzzy
+#~ msgid "Sepals"
+#~ msgstr "Sepals"
+
+#~ msgid "3 Sepals"
+#~ msgstr "3 Sepals"
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding  flower for  this plant from the left "
+#~ "side pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding  flower for  this plant from the left "
+#~ "side pane."
+
+#~ msgid ""
+#~ "Drag and place the corresponding pollen for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding pollen for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding seed for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding seed for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding root for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding root for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding leaf for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding leaf for this plant from the left side "
+#~ "pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding stem vascular bundle for this plant from "
+#~ "the left side pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding stem vascular bundle for this plant from "
+#~ "the left side pane."
+
+#, fuzzy
+#~ msgid ""
+#~ "Drag and place the corresponding sepal for this plant from the left side "
+#~ "pane."
+#~ msgstr ""
+#~ "Drag and place the corresponding sepal for this plant from the left side "
+#~ "pane."
+
+#~ msgid ""
+#~ "The petals in the flower of a dicot plant are in multiples of four or "
+#~ "five. <br> The above plant has a tap root system and the venation is "
+#~ "reticulate."
+#~ msgstr ""
+#~ "The petals in the flower of a dicot plant are in multiples of four or "
+#~ "five. <br> The above plant has a tap root system and the venation is "
+#~ "reticulate."
+
+#~ msgid ""
+#~ "Dicot plants have three pores in the pollen. The above plant has a tap "
+#~ "<br> root system and the venation is reticulate. The flowers have four "
+#~ "petals."
+#~ msgstr ""
+#~ "Dicot plants have three pores in the pollen. The above plant has a tap "
+#~ "<br> root system and the venation is reticulate. The flowers have four "
+#~ "petals."
+
+#~ msgid ""
+#~ "Dicot plants have two cotyledons in the seeds. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+#~ msgstr ""
+#~ "Dicot plants have two cotyledons in the seeds. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+
+#~ msgid ""
+#~ "Monocot plants have a fibrous root system. <br>The above plant has a "
+#~ "parallel venation."
+#~ msgstr ""
+#~ "Monocot plants have a fibrous root system. <br>The above plant has a "
+#~ "parallel venation."
+
+#~ msgid ""
+#~ "Monocot plants have a single cotyledon in the seeds. <br>The above plant "
+#~ "has a fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "Monocot plants have a single cotyledon in the seeds. <br>The above plant "
+#~ "has a fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "Monocot plants have parallel venation. The above plant has a <br>fibrous "
+#~ "root system and the flowers have three petals and three sepals."
+#~ msgstr ""
+#~ "Monocot plants have parallel venation. The above plant has a <br>fibrous "
+#~ "root system and the flowers have three petals and three sepals."
+
+#~ msgid ""
+#~ "Dicot plants have reticulate venation. <br>The above plant has a tap root "
+#~ "system and the flowers have four petals."
+#~ msgstr ""
+#~ "Dicot plants have reticulate venation. <br>The above plant has a tap root "
+#~ "system and the flowers have four petals."
+
+#~ msgid ""
+#~ "Dicot plants have a tap root system. <br>The above plant has a reticulate "
+#~ "venation and the flowers have five petals."
+#~ msgstr ""
+#~ "Dicot plants have a tap root system. <br>The above plant has a reticulate "
+#~ "venation and the flowers have five petals."
+
+#~ msgid ""
+#~ "Dicot plants have ring shaped vascular bundles. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+#~ msgstr ""
+#~ "Dicot plants have ring shaped vascular bundles. <br>The above plant has a "
+#~ "tap root system and the venation is reticulate."
+
+#~ msgid ""
+#~ "The sepals of a dicot plant are in multiples of four or five. <br>The "
+#~ "above plant has a tap root system and the flowers have five petals."
+#~ msgstr ""
+#~ "The sepals of a dicot plant are in multiples of four or five. <br>The "
+#~ "above plant has a tap root system and the flowers have five petals."
+
+#~ msgid ""
+#~ "The sepals of a monocot plant are in multiples of three. <br>The above "
+#~ "plant has a fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "The sepals of a monocot plant are in multiples of three. <br>The above "
+#~ "plant has a fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "The petals in the flower of a monocot plant are in multiples of three. "
+#~ "<br>The above plant has a fibrous root system and the venation is "
+#~ "parallel."
+#~ msgstr ""
+#~ "The petals in the flower of a monocot plant are in multiples of three. "
+#~ "<br>The above plant has a fibrous root system and the venation is "
+#~ "parallel."
+
+#~ msgid ""
+#~ "Monocot plants have scattered vascular bundles. <br>The above plant has a "
+#~ "fibrous root system and the venation is parallel."
+#~ msgstr ""
+#~ "Monocot plants have scattered vascular bundles. <br>The above plant has a "
+#~ "fibrous root system and the venation is parallel."
+
+#~ msgid ""
+#~ "Monocot plants have a single pore in the pollen. <br>The above plant has "
+#~ "a fibrous root system and the venation is parallel. "
+#~ msgstr ""
+#~ "Monocot plants have a single pore in the pollen. <br>The above plant has "
+#~ "a fibrous root system and the venation is parallel. "

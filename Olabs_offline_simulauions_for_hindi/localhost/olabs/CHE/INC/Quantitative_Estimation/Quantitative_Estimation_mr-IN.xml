@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="Scene 72">
+	<TEXT ID="Scene 72_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_1">
+		<TEXTVALUE>संख्यात्मक अंदाज</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_2">
+		<TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+		<TEXTVALUE>सोडियम कार्बोनेट चे मानक द्रावण तयार करणे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_3">
+		<TEXTVALUE>सोडियम कार्बोनेट चे मानक द्रावण तयार करणे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: २५० मिली मानक चंबू, स्थायूरूपात सोडियम कार्बोनेट, हायड्रोक्लोरिक आम्ल (HCl), मीथाइल नारंगी, वजन करण्याची बाटली, इलेक्ट्रॉनिक काटा, नरसाळे, काचेचा रॉड, मोजनळी, २० मिली शोषनलिका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_4">
+		<TEXTVALUE>ऊर्ध्वपतित  पाणी </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lebel_5">
+		<TEXTVALUE>मीथाइल नारंगी</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_6">
+		<TEXTVALUE> सोडियम कार्बोनेट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="2botil">
+	<TEXT ID="2botil_one">
+		<TEXTVALUE>वजन करण्याची बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3weing">
+	<TEXT ID="3weing_one">
+		<TEXTVALUE>तिला इलेक्ट्रॉनिक काट्यावर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4tare">
+	<TEXT ID="4tare_one">
+		<TEXTVALUE>काटा शून्यावर आणा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5sodiam">
+	<TEXT ID="5sodiam_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम कार्बोनेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6open">
+	<TEXT ID="6open_one">
+		<TEXTVALUE>सोडियम कार्बोनेट वजन करण्याच्या बाटलीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7view">
+	<TEXT ID="7view_one">
+		<TEXTVALUE>सुमारे २.६५ ग्राम सोडियम कार्बोनेट वजन करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8go">
+	<TEXT ID="8go_one">
+		<TEXTVALUE>काट्यावरून वजन करण्याची बाटली काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9go1">
+	<TEXT ID="9go1_one">
+		<TEXTVALUE>वजन केलेली सोडियम कार्बोनेटची मात्रा काळजीपूर्वक २५० मिली चंचुपात्रात टाका. ऊर्ध्वपतित पाण्याने वजन करण्याची बाटली धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11pour">
+	<TEXT ID="11pour_one">
+		<TEXTVALUE>धुण्यासाठी वापरलेले पाणी चंचुपात्रात टाका (हे प्रक्रिया २ किंवा ३ वेळा करा). सोडियम कार्बोनेट विरघळत नाही तोपर्यंत चंचुपात्रातले द्रावण काचेच्या रॉडने ढवळा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12sta">
+	<TEXT ID="12sta_one">
+		<TEXTVALUE>संपूर्ण द्रावण नरसाळे आणि काचेचा रॉड वापरून चंचुपात्रातून २५० मिली मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13tk">
+	<TEXT ID="13tk_one">
+		<TEXTVALUE>संपूर्ण द्रावण नरसाळे आणि काचेचा रॉड वापरून चंचुपात्रातून २५० मिली मानक चंबूत ओता.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="13tk_two">
+		<TEXTVALUE>चंचुपात्र ऊर्ध्वपतित पाण्याने २-३ वेळा धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="141">
+	<TEXT ID="141_one">
+		<TEXTVALUE>धुण्यासाठी वापरलेले पाणी मानक चंबूत ओता आणि काचेचा रॉड पण धुवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="16botil">
+	<TEXT ID="16botil_one">
+		<TEXTVALUE>आता नरसाळे आणि त्याचे टोक ऊर्ध्वपतित पाण्याने नीट धुवा आणि नरसाळ्यात अडकलेले द्रावण मानक चंबूत ओता. धुण्याची बाटली वापरून काळजीपूर्वक ऊर्ध्वपतित पाणी मानक चंबूच्या अंशन चिन्हापर्यन्त ओता. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17face">
+	<TEXT ID="17face_one">
+		<TEXTVALUE>स्वच्छ शोषनलिका वापरून, थोडेसे ऊर्ध्वपतित पाणी शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="18zoom">
+	<TEXT ID="18zoom_one">
+		<TEXTVALUE>मानक चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19finger">
+	<TEXT ID="19finger_one">
+		<TEXTVALUE>मानक चंबू घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20tak1">
+	<TEXT ID="20tak1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22out">
+	<TEXT ID="22out_one">
+		<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23zoom">
+	<TEXT ID="23zoom_one">
+		<TEXTVALUE>शोषनलिका वापरून शेवटचे काही थेंब ऊर्ध्वपतित पाणी टाका म्हणजे सीमा पृष्ठाची खालची पातळी बरोबर मानक चंबूच्या चिन्हापर्यन्त जाईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="24corck">
+	<TEXT ID="24corck_one">
+		<TEXTVALUE>चंबुला बूच लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26rot2">
+	<TEXT ID="26rot2_one">
+		<TEXTVALUE>हळू हलवा म्हणजे सोडियम कार्बोनेट द्रावण एकसारखे होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla1">
+	<TEXT ID="38fla1_one">
+		<TEXTVALUE>तयार केलेल्या सोडियम कार्बोनेट द्रावणाची ग्राम रेणुकता ०.१ M ( ०.१ मोलर) आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_7">
+		<TEXTVALUE>0.1 M सोडियम कार्बोनेट द्रावणाची </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Scene2 intro">
+	<TEXT ID="Scene2 intro_one">
+		<TEXTVALUE>मानक सोडियम कार्बोनेट द्रावण वापरून हायड्रोक्लोरिक आम्लाची शक्ती निर्धारित करणे </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_8">
+		<TEXTVALUE>मानक सोडियम कार्बोनेट द्रावण वापरून हायड्रोक्लोरिक आम्लाची शक्ती निर्धारित करणे </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="27stand">
+	<TEXT ID="27stand_one">
+		<TEXTVALUE>एक स्वच्छ मोजनळी स्टँडला लावा आणि मोजनळीच्या तोंडाशी एक नरसाळे ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl">
+	<TEXT ID="28hcl_one">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्ल असलेली बाटली घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="29stad2">
+	<TEXT ID="29stad2_one">
+		<TEXTVALUE>नरसाळे वापरून मोजनळीत थोडेसे हायड्रोक्लोरिक आम्ल ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="30bak">
+	<TEXT ID="30bak_one">
+		<TEXTVALUE>नरसाळे काढून टाका आणि मोजनळी स्टँड वरून काढा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="31burot">
+	<TEXT ID="31burot_one">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्ल वापरून मोजनळी धुवा म्हणजे मोजनळीत ओलावा राहणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32zoom">
+	<TEXT ID="32zoom_one">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्ल वापरून मोजनळी धुवा म्हणजे मोजनळीत ओलावा राहणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="33wash">
+	<TEXT ID="33wash_one">
+		<TEXTVALUE>मोजनळी बेसिन मध्ये धरा आणि स्टॉप-कॉक उघडा म्हणजे मोजनळीतले उरलेले द्रावण पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34bak1">
+	<TEXT ID="34bak1_one">
+		<TEXTVALUE>मोजनळी स्टँडवर उभी लावा आणि मोजनळीच्या तोंडाशी नरसाळे लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28hcl copy">
+	<TEXT ID="28hcl copy_one">
+		<TEXTVALUE>मग हायड्रोक्लोरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29stad2 copy">
+	<TEXT ID="29stad2 copy_one">
+		<TEXTVALUE>नरसाळे वापरून मोजनळीत त्याच्या शून्य चिन्हापर्यन्त HCl ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="37full">
+	<TEXT ID="37full_one">
+		<TEXTVALUE>नरसाळे वापरून मोजनळीत त्याच्या शून्य चिन्हापर्यन्त HCl ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="371fl copy">
+	<TEXT ID="371fl copy_one">
+		<TEXTVALUE>मोजनळीच्या खाली एक चंचुपात्र ठेवा आणि स्टॉप-कॉक उघडा म्हणजे हायड्रोक्लोरिक आम्ल चंचुपात्रात पडेल आणि मोजनळीचे प्राथमिक वाचनांक शून्य करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36stad21 copy">
+	<TEXT ID="36stad21 copy_one">
+		<TEXTVALUE>मोजनळीच्या खाली एक चंचुपात्र ठेवा आणि स्टॉप-कॉक उघडा म्हणजे हायड्रोक्लोरिक आम्ल चंचुपात्रात पडेल आणि मोजनळीचे प्राथमिक वाचनांक शून्य करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl copy copy">
+	<TEXT ID="53fl copy copy_one">
+		<TEXTVALUE>मोजनळीच्या खाली एक चंचुपात्र ठेवा आणि स्टॉप-कॉक उघडा म्हणजे हायड्रोक्लोरिक आम्ल चंचुपात्रात पडेल आणि मोजनळीचे प्राथमिक वाचनांक शून्य करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38fla">
+	<TEXT ID="38fla_one">
+		<TEXTVALUE>स्वच्छ २० मिली शोषनलिका घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="17face copy">
+	<TEXT ID="17face copy_one">
+		<TEXTVALUE>शोषनलिका वापरून थोडेसे सोडियम कार्बोनेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40faz">
+	<TEXT ID="40faz_one">
+		<TEXTVALUE>शोषनलिका वापरून थोडेसे सोडियम कार्बोनेट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="410zoom5">
+	<TEXT ID="410zoom5_one">
+		<TEXTVALUE>मग सोडियम कार्बोनेट वापरून शोषनलिका धुवा म्हणजे शोषनलिकेत ओलावा राहणार नाही.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42washpip">
+	<TEXT ID="42washpip_one">
+		<TEXTVALUE>notext.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla">
+	<TEXT ID="43fla_one">
+		<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या अंशन चिन्हापर्यन्त जाईल इतके सोडियम कार्बोनेट मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43fla copy">
+	<TEXT ID="43fla copy_one">
+		<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या अंशन चिन्हापर्यन्त जाईल इतके सोडियम कार्बोनेट मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="40faz copy">
+	<TEXT ID="40faz copy_one">
+		<TEXTVALUE>आता द्रावणाची पातळी शोषनलिकेच्या अंशन चिन्हापर्यन्त जाईल इतके सोडियम कार्बोनेट मानक चंबुतून शोषून घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23">
+	<TEXT ID="46faz23_one">
+		<TEXTVALUE>शोषनलिकेचे उघडे टोक बोटाने बंद करा. हळूच बोट काढा म्हणजे सीमा पृष्ठाची खालची पातळी अंशन चिन्हापर्यंत कमी होईल. आता द्रावणाचे आकारमान २० मिली असेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="46faz23 copy">
+	<TEXT ID="46faz23 copy_one">
+		<TEXTVALUE>२० मिली सोडियम कार्बोनेट द्रावण स्वच्छ शंक्वाकृती चंबूत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="47faz23zo">
+	<TEXT ID="47faz23zo_one">
+		<TEXTVALUE>शोषनलिकेच्या टोकाने शंक्वाकृती चंबूच्या बुडाला स्पर्श करा म्हणजे शोषनलिकेतले उरलेले द्रावण चंबूत पडेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49org">
+	<TEXT ID="49org_one">
+		<TEXTVALUE>थोडेसे मीथाइल नारंगी निर्देशक घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="49org1">
+	<TEXT ID="49org1_one">
+		<TEXTVALUE>शंक्वाकृती चंबूत दोन थेंब मीथाइल नारंगी निर्देशक टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50org1">
+	<TEXT ID="50org1_one">
+		<TEXTVALUE>शंक्वाकृती चंबूतल्या द्रावणाचा रंग पिवळा होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52full1">
+	<TEXT ID="52full_one">
+		<TEXTVALUE>रंगाचा बदल नीट दिसण्यासाठी शंक्वाकृती चंबू एका पांढर्या. टाईल वर मोजनळीच्या खाली ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53fl">
+	<TEXT ID="53fl_one">
+		<TEXTVALUE>शंक्वाकृती चंबूतल्या द्रावणाचा रंग बदलत नाही तोपर्यंत द्रावण थेंब थेंब मोजनळीतून शंक्वाकृती चंबूत टाका आणि शंक्वाकृती चंबूतले द्रावण ढवळत रहा. HCl चा शेवटचा थेंब टाकल्यानंतर द्रावणाचा पिवळा रंग हलके लाल होतो. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54viu">
+	<TEXT ID="54viu_one">
+		<TEXTVALUE>मोजनळीच्या शेवटच्या वाचनांकाची नोंद करा आणि सुसंवादी मूल्ये मिळत नाही तोपर्यंत तीच प्रक्रिया परत करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart">
+	<TEXT ID="chart_one">
+		<TEXTVALUE>निरीक्षणे तक्त्यात लिहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_9">
+		<TEXTVALUE>निरीक्षणे </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_10">
+		<TEXTVALUE>निरीक्षणे तक्त्यात लिहा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_11">
+		<TEXTVALUE>मोजनळीचे प्राथमिक वाचनांक </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_12">
+		<TEXTVALUE>•	मोजनळीच्या शेवटच्या वाचनांकाची </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_13">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्लाच्या आकारमानाची(ml)</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="chart1">
+	<TEXT ID="chart1_one">
+		<TEXTVALUE>सोडियम कार्बोनेट द्रावणाच्या आकरमानाची, सोडियम कार्बोनेट द्रावणाच्या ग्राम रेणुकतेची आणि हायड्रोक्लोरिक आम्लाच्या आकारमानाची नोंद करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chart1_two">
+		<TEXTVALUE>संतुलित रासायनिक समीकरणातून अभिक्रियेत असणार्याा अभिक्रियाकारकाची मोलची संख्या काढता येते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_14">
+		<TEXTVALUE>परिगणना:</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_15">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्ल आणि सोडियम कार्बोनेट यांच्या मधील अभिक्रिया 
+खालील प्रमाणे दाखविली जाऊ शकते:</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_01">
+		<TEXTVALUE>सोडियम कार्बोनेट द्रावणाच्या आकरमानाची = 20 ml</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_02">
+		<TEXTVALUE>सोडियम कार्बोनेट द्रावणाच्या ग्राम रेणुकतेची  = 0.1 M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_03">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्लाच्या आकारमानाची  = 38 m</TEXTVALUE>
+	</TEXT>
+		
+</SCENE>
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_one">
+		<TEXTVALUE>ग्राम रेणुकता समीकरण वापरून हायड्रोक्लोरिक आम्लाची ग्राम रेणुकता काढता येते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="chart2">
+	<TEXT ID="chart2_two">
+		<TEXTVALUE>हायड्रोक्लोरिक आम्लाची ग्राम रेणुकता गुणिले हायड्रोक्लोरिक आम्लाची मोलर वस्तुमान म्हणजे हायड्रोक्लोरिक आम्लाची शक्ति असते.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_16">
+		<TEXTVALUE>ग्राम रेणुकता समीकरणानुसार:</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_17">
+		<TEXTVALUE> म्हणून, दिलेल्या HCl ची ग्राम रेणुकता = 
+(२x२०x०.१)/(३८x१) = ०.१ M</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_18">
+		<TEXTVALUE>HCl चे मोलर वस्तुमान = ३६.५ ग्राम/मोल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label_19">
+		<TEXTVALUE> म्हणून, दिलेल्या HCl ची शक्ति = HCl ची ग्राम रेणुकता x HCl चे मोलर वस्तुमान</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_2">
+		<TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_12">
+		<TEXTVALUE>HCl मोलची संख्या </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab_13">
+		<TEXTVALUE>Na2CO3 मोलची संख्या  </TEXTVALUE>
+	</TEXT>
+
+	
+</SCENE>
+
+
+
+
+</DATA>

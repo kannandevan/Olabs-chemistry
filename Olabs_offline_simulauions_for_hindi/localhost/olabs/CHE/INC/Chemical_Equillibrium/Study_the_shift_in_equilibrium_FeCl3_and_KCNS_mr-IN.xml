@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>प्रयोग करण्यासाठी ‘सुरू’ बटण क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>आवश्यक सामग्री: 0.1 मोलार फेरिक क्लोराइड (0.1 M FeCl3) द्रावण, 0.1 मोलार पोटाशियम थायोसायनेट (0.1 M KCNS) द्रावण, 0.1 मोलार पोटाशियम क्लोराइड (0.1 M KCl) द्रावण, ऊर्ध्वपतित पाणी, ए,बी,सी,डी नावे असलेल्या चार परिक्षा नळ्या, नळी ठेवण्याचा धारक.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="intro_two">
+		<TEXTVALUE>स्वच्छ 250 मिली चंचुपात्र, आणि मापन नळकांडे</TEXTVALUE>	
+	</TEXT>
+	<TEXT ID="intro_three">
+		<TEXTVALUE>मापन नळकांड्यात 10 मिली 0.1 M FeCl3 द्रावण.</TEXTVALUE>	
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutionsaddedclsup">
+	<TEXT ID="solutionsaddedclsup_one">
+		<TEXTVALUE>ते 250 मिली चंचुपात्रात ओता</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsadded2">
+	<TEXT ID="solutionsadded2_one">
+		<TEXTVALUE>दुसर्याक मापन नळकांड्यात 10 मिली 0.1 M KCNS द्रावण</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsaddedclsup2">
+	<TEXT ID="solutionsaddedclsup2_one">
+		<TEXTVALUE>FeCl3 द्रावण असलेल्या चंचुपात्रात ओता. फेरिक-थायोसायनेट कॉम्प्लेक्स [Fe(SCN)(H₂O)₅]²⁺ निर्माण झाल्यामुळे गडद लाल रंग होतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50mlwateradded">
+	<TEXT ID="50mlwateradded_one">
+		<TEXTVALUE>मापन नळकांड्यात 50 मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="wateraddedclsup">
+	<TEXT ID="wateraddedclsup_one">
+		<TEXTVALUE>फेरिक-थायोसायनेट असलेल्या चंचुपात्रात ते ओता म्हणजे द्रावण विरल होईल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixtureadded1">
+	<TEXT ID="mixtureadded1_one">
+		<TEXTVALUE>ह्या विरल द्रावणाचे 10 मिली मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="mixtureadded1_two">
+		<TEXTVALUE>ए नावाची परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>	 
+</SCENE>	
+
+
+<SCENE ID="mixtureadded1clsup">
+	<TEXT ID="mixtureadded1clsup_one">
+		<TEXTVALUE>ते द्रावण परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+
+<SCENE ID="mixtureadded2">
+	<TEXT ID="mixtureadded2_one">
+		<TEXTVALUE>अजून 10 मिली द्रावण मापन नळकांड्यात घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="mixtureadded2clsup">
+	<TEXT ID="mixtureadded2clsup_one">
+		<TEXTVALUE>बी नावाची परिक्षा नळी घ्या आणि ते द्रावण परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="testtubeclsp">
+	<TEXT ID="testtubeclsp_one">
+		<TEXTVALUE>हीच प्रक्रिया इतर दोन परिक्षा नळ्यांसाठी करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateradded">
+	<TEXT ID="5mlwateradded_one">
+		<TEXTVALUE>मापन नळकांड्यात 5 मिली ऊर्ध्वपतित पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateraddedclsup">
+	<TEXT ID="5mlwateraddedclsup_one">
+		<TEXTVALUE>ह्याला परिक्षा नळी ए मध्ये टाका आणि नळी नीट हलवा. ह्या परिक्षेतल्या द्रावणाचा रंग हा संदर्भ रंग म्हणून घेतल्या जातो.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1">
+	<TEXT ID="5mladded1_one">
+		<TEXTVALUE>मापन नळकांड्यात 5 मिली 0.1 M FeCl3 द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1clsup">
+	<TEXT ID="5mladded1clsup_one">
+		<TEXTVALUE>ह्याला परिक्षा नळी बी मध्ये ओता आणि नळी नीट हलवा. द्रावणाचा रंग गडद होतो कारण Fe3+ आयन ची संहत तीव्रता वाढते आणि त्यामुळे फेरिक-थायोसायनेट कॉम्प्लेक्स वाढते आणि समतोल पुढच्या दिशेने हलतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded2">
+	<TEXT ID="5mladded2_one">
+		<TEXTVALUE>तसेच दुसर्याे मापन नळकांड्यात 5 मिली 0.1 M KCl द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladded2clsup">
+	<TEXT ID="5mladded2clsup_one">
+		<TEXTVALUE>परिक्षा नळी C मध्ये ओता आणि नळी नीट हलवा. . द्रावणाचा रंग गडद होतो कारण SCN&#8315; आयन ची संहत तीव्रता वाढते आणि त्यामुळे फेरिक-थायोसायनेट कॉम्प्लेक्स वाढते आणि समतोल पुढच्या दिशेने हलतो. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded3">
+	<TEXT ID="5mladded3_one">
+		<TEXTVALUE>तसेच दुसर्याव मापन नळकांड्यात 5 मिली 0.1 M KCl द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="5mladdede3clsup">
+	<TEXT ID="5mladdede3clsup_one">
+		<TEXTVALUE>परिक्षा नळी डी मध्ये ओता आणि नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5mladdede3clsup_two">
+		<TEXTVALUE>द्रावणाचा रंग हलका होतो कारण K+ आयनची संहत तीव्रता वाढते आणि त्यामुळे SCN- आयनची संहत तीव्रता कमी होते आणि कॉम्प्लेक्स ची संहत तीव्रता पण कमी होते. म्हणून समतोल मागच्या दिशेला हलतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abcd">
+	<TEXT ID="abcd_one">
+		<TEXTVALUE>आता परिक्षा बी, सी आणि डी मधल्या रंगांची तुलना परिक्षा नळी ए मधल्या संदर्भ रंगाशी करा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="abcd_two">
+		<TEXTVALUE>आता परिक्षा बी, सी आणि डी मधल्या रंगांची तुलना परिक्षा नळी ए मधल्या संदर्भ रंगाशी करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abacad">
+	<TEXT ID="abacad_one">
+		<TEXTVALUE>आता परिक्षा बी, सी आणि डी मधल्या रंगांची तुलना परिक्षा नळी ए मधल्या संदर्भ रंगाशी करा.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="chart">	
+<TEXT ID="chart_one">
+		<TEXTVALUE>निरीक्षणे तक्त्यात लिहा. Fe3+ आयन आणि SCN- आयन यांच्यातला समतोल आणि अभिक्रियाकारकांची संहत तीव्रता हे अनुपातिक असतात.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+</DATA>

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<DATA>
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab0">
+	<TEXT ID="Lab0_one">
+	<TEXTVALUE>We require Beakers, Soap pieces, Cloth pieces, Distilled water, Well water, 50 ml measuring cylinders, 10 ml measuring cylinders, Measuring scale, Test tubes, Glass rods, Ink, Calcium chloride and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>Take the beaker containing distilled water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>Measure 20 ml of distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>Pour it into beaker A.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>Take the beaker containing well water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>Measure 20 ml of well water in another measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>Pour it into beaker B.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE>Again, take 20 ml of distilled water in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>Again, take 20 ml of distilled water in the measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>Pour it into beaker C.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE>Take 2 g calcium chloride.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>Transfer it into beaker C containing distilled water.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>Stir the contents with a glass rod till calcium chloride dissolves.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>Take three soap pieces each weighing 1 g.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE>And add one soap piece each into the beakers A, B and C.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_two">
+	<TEXTVALUE>Take three glass rods and place one in each beaker.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>Stir the contents with the glass rods to ensure that soap has dissolved.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>In case the soap does not dissolve completely, take the beaker and place it on a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_two">
+	<TEXTVALUE>Heat the beaker gently while stirring using a glass rod.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE>Repeat the same steps for the other two beakers.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>Repeat the same steps for the other two beakers.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>Take three test tubes labeled as A, B and C.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>Take beaker A containing soap solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>Pour 10 ml soap solution in a measuring jar.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>Transfer it into test tube A.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>Transfer it into test tube A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>Similarly, pour 10 ml of soap solution from beaker B into test tube B, and from beaker C into test tube C using different measuring cylinders.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab25_two">
+	<TEXTVALUE>Measure the initial length of soap solution in each test tube with a measuring scale.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab26chart">
+	<TEXT ID="lab26chart_one">
+	<TEXTVALUE>Note the readings.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab27">
+	<TEXT ID="Lab27_one">
+	<TEXTVALUE>Take test tube A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab28">
+	<TEXT ID="Lab28_one">
+	<TEXTVALUE>Hold the test tube by hand and close its mouth with the thumb.   Shake it up and down thoroughly 10 times.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab29">
+	<TEXT ID="Lab29_one">
+	<TEXTVALUE>You will notice that lather has formed in the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab292">
+	<TEXT ID="Lab292_one">
+	<TEXTVALUE>Repeat the same steps for the other two test tubes.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab292_two">
+	<TEXTVALUE>Measure the length of the lather and the final length of the soap solution in each test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="lab30chart2">
+	<TEXT ID="lab30chart2_one">
+	<TEXTVALUE>Soap solution in test tube A produces the maximum length of lather, the solution in test tube B produces a smaller length of lather and the solution in test tube C produces the minimum length of lather.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab31">
+	<TEXT ID="Lab31_one">
+	<TEXTVALUE>Take a tile and place three white cloth pieces on it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab32">
+	<TEXT ID="Lab32_one">
+	<TEXTVALUE>Put a drop of ink in the centre of each cloth and allow it to dry.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+<SCENE ID="Lab33">
+	<TEXT ID="Lab33_one">
+	<TEXTVALUE>Take the cloth pieces from the tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab34">
+	<TEXT ID="Lab34_one">
+	<TEXTVALUE>Dip one piece of cloth with ink spot in the remaining soap solution in beaker A, another piece of cloth in beaker B and the third piece of cloth in beaker C.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lab34_two">
+	<TEXTVALUE>Leave the three beakers undisturbed for about 10 min.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lab35">
+	<TEXT ID="Lab35_one">
+	<TEXTVALUE>Remove the pieces of cloth from the beakers.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab361">
+	<TEXT ID="Lab361_one">
+	<TEXTVALUE>Rub each piece.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Lab36">
+	<TEXT ID="Lab36_one">
+	<TEXTVALUE>The ink spot on the cloth dipped in soap solution A has almost disappeared. The ink spot on the cloth dipped in soap solution B has partially disappeared.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab36_two">
+	<TEXTVALUE>There is no change in the colour of the ink spot on the piece of cloth dipped in soap solution C, and some scum has been deposited on the surface of the cloth piece.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="lab38chart3">
+	<TEXT ID="lab38chart3_one">
+	<TEXTVALUE>It is observed that soap solution with distilled water (soft water) has the most cleansing capability. Soap solution with well water (hard water) has less cleansing capability than soft water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="lab38chart3_two">
+	<TEXTVALUE>Soap solution with distilled water with calcium chloride dissolved in it (very hard water) has the least cleansing capability.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

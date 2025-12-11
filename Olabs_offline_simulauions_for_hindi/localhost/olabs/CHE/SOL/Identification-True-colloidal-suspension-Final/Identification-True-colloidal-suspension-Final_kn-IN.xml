@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="truesolution">
+	<TEXT ID="truesolution_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sugar">
+	<TEXT ID="sugar_one">
+		<TEXTVALUE>ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆಯ ನೈಜ ದ್ರಾವಣ ತಯಾರಿಕೆ</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_two">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ಪುಡಿ ಮಾಡಿದ ಸಕ್ಕರೆ ಸೇರಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_three">
+		<TEXTVALUE>ನಂತರ ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಸಕ್ಕರೆ ಕರಗುವವರೆಗೆ  ದ್ರಾವಣವನ್ನು ಕಲಕಿ</TEXTVALUE>
+		</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solution">
+	<TEXT ID="solution_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="cellophanepaper">
+	<TEXT ID="cellophanepaper_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸಕ್ಕರೆ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="cellophanepaper_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದರಿಂದ ತಿಳಿಯುದೆನೇಂದರೆ ನೈಜ ದ್ರಾವಣವು ಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Sugarfiltration">
+	<TEXT ID="Sugarfiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿ ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿದ ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಸಕ್ಕರೆ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Sugarfiltration_two">
+		<TEXTVALUE>ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಯಾವುದೇ ಶೇಷ ಉಳಿದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಶೋಧಿಸುವಿಕೆಯಲ್ಲಿ ನೈಜ ದ್ರಾವಣದಿಂದ ಘನ ಕಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="Stability">
+	<TEXT ID="Stability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸಕ್ಕರೆ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಯಾವುದೇ ಸಂಚಯವಿಲ್ಲದೆ ದ್ರಾವಣ ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ಇದರಿಂದ ಕಂಡುಬರುವುದೇನೆಂದರೆ ನೈಜ ದ್ರಾವಣವು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ ಮತ್ತು ವಸ್ತುಗಳ ಶೇಖರಣೆಯನ್ನು ತೋರಿಸುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SaltWater">
+	
+   <TEXT ID="SaltWater_one">
+		<TEXTVALUE>ನೀರಿನಲ್ಲಿ ಸಾಮಾನ್ಯ ಉಪ್ಪಿನ ನೈಜ ದ್ರಾವಣ ತಯಾರಿಕೆ</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltWater_two">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ಪುಡಿ ಮಾಡಿದ ಉಪ್ಪನ್ನು ಸೇರಿಸಿ.</TEXTVALUE>
+ </TEXT>
+    <TEXT ID="SaltWater_three">
+		<TEXTVALUE>ನಂತರ ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಉಪ್ಪು ಕರಗುವವರೆಗೆ  ದ್ರಾವಣವನ್ನು ಕಲಕಿ</TEXTVALUE>
+ </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="solutionsalt">
+	<TEXT ID="solutionsalt_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Salttranspirancy">
+	<TEXT ID="Salttranspirancy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Salttranspirancy_two">
+		<TEXTVALUE>ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದರಿಂದ ತಿಳಿಯುದೆನೇಂದರೆ ನೈಜ ದ್ರಾವಣವು ಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="SaltFiltration">
+	<TEXT ID="SaltFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿ ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಸಾಮನ್ಯ ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltFiltration_two">
+		<TEXTVALUE>ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಯಾವುದೇ ಶೇಷ ಉಳಿದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಶೋಧಿಸುವಿಕೆಯಲ್ಲಿ ನೈಜ ದ್ರಾವಣದಿಂದ ಘನ ಕಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+    
+</SCENE>
+
+
+
+<SCENE ID="SaltStability">
+	<TEXT ID="SaltStability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಯಾವುದೇ ಸಂಚಯವಿಲ್ಲದೆ ದ್ರಾವಣ ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ಇದರಿಂದ ಕಂಡುಬರುವುದೇನೆಂದರೆ ನೈಜ ದ್ರಾವಣವು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ ಮತ್ತು ವಸ್ತುಗಳ ಶೇಖರಣೆಯನ್ನು ತೋರಿಸುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AlumWater">
+	<TEXT ID="AlumWater_one">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ಸ್ಪಟಿಕವನ್ನು ಸೇರಿಸಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumWater_two">
+		<TEXTVALUE>ನಂತರ ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಸ್ಪಟಿಕ ಕರಗುವವರೆಗೆ  ದ್ರಾವಣವನ್ನು ಕಲಕಿ</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="solutionAlum">
+	<TEXT ID="psolutionAlum_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumTranspirncy">
+	<TEXT ID="AlumTranspirncy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸ್ಪಟಿಕದ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="AlumTranspirncy_two">
+		
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಮಂದವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಕಲಿಲವು ಅರೆಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumFiltration">
+	<TEXT ID="AlumFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಆಲಮ್ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumFiltration_two">
+		<TEXTVALUE>ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಯಾವುದೇ ಶೇಷ ಉಳಿದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಶೋಧಿಸುವಿಕೆಯಲ್ಲಿ ನೈಜ ದ್ರಾವಣದಿಂದ ಘನ ಕಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+       
+</SCENE>
+
+<SCENE ID="AlumStability">
+	<TEXT ID="AlumStability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸ್ಪಟಿಕ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಯಾವುದೇ ಸಂಚಯವಿಲ್ಲದೆ ದ್ರಾವಣ ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ಇದರಿಂದ ಕಂಡುಬರುವುದೇನೆಂದರೆ ನೈಜ ದ್ರಾವಣವು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ ಮತ್ತು ವಸ್ತುಗಳ ಶೇಖರಣೆಯನ್ನು ತೋರಿಸುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilWater">
+	<TEXT ID="SoilWater_one">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ಪುಡಿ ನುಣುಪಾದ ಮಣ್ಣನ್ನು ಸೇರಿಸಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilWater_two">
+		<TEXTVALUE>ನಂತರ ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ದ್ರಾವಣವನ್ನು ಕಲಕಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilTransparency">
+	<TEXT ID="SoilTransparency_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಮಣ್ಣಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ  ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="SoilTransparency_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಕಾಣುವುದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುದೆನೇಂದರೆ ನಿಲಂಬನವು ಅಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="SoilFiltration">
+	<TEXT ID="SoilFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಮಣ್ಣಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+  <TEXT ID="SoilFiltration_two">
+		<TEXTVALUE>ಮಣ್ಣಿನ ಕಣಗಳು ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಕಾಣಬರುತ್ತವೆ. ಇದರಿಂದ ತಿಳಿದುಬರುವುದೇನೆಂದರೆ ನಿಲಂಬನದ ನಿಲಂಬಿತ ಘಟಕಗಳು ಶೋಧಿಸುವಿಕೆಯಿಂದ ಪ್ರತ್ಯೇಕಿಸಲ್ಪಡುತ್ತವೆ.</TEXTVALUE>
+   </TEXT>
+   </SCENE>
+
+
+<SCENE ID="SoilStability">
+	<TEXT ID="SoilStability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಮಣ್ಣಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಪ್ರನಾಳದ ತಳದಲ್ಲಿ ಮಣ್ಣಿನ ಕಣಗಳು ಕ್ರಮೇಣ ಶೇಖರಣೆಯಾಗಿರುವುದನ್ನು ನೀವು ಕಾಣುವಿರಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilStability_two">
+		<TEXTVALUE>ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ನಿಲಂಬನವು ಅಸ್ತಿರವಾಗಿದೆ ಮತ್ತು ಭಾರವಾದ ಕಣಗಳು ತಳವೂರುತ್ತವೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Chalkwater">
+	<TEXT ID="Chalkwater_one">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ಸೀಮೆ ಸುಣ್ಣದ ಪುಡಿ ಸೇರಿಸಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Chalkwater_two">
+		<TEXTVALUE>ನಂತರ ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ದ್ರಾವಣವನ್ನು ಕಲಕಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionchalk">
+	<TEXT ID="solutionchalk_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Chalktranspirancy">
+	<TEXT ID="Chalktranspirancy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸೀಮೆಸುಣ್ಣದ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Chalktranspirancy_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಕಾಣುವುದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುದೆನೇಂದರೆ ನಿಲಂಬನವು ಅಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="ChalkFiltration">
+	<TEXT ID="ChalkFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ  ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು  ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಸೀಮೆ ಸುಣ್ಣದ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkFiltration_two">
+		<TEXTVALUE>ಸೀಮೆ ಸುಣ್ಣದ ಕಣಗಳು ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಕಾಣಬರುತ್ತವೆ. ಇದರಿಂದ ತಿಳಿದುಬರುವುದೇನೆಂದರೆ ನಿಲಂಬನದ ನಿಲಂಬಿತ ಘಟಕಗಳು ಶೋಧಿಸುವಿಕೆಯಿಂದ ಪ್ರತ್ಯೇಕಿಸಲ್ಪಡುತ್ತವೆ.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="ChalkStability">
+	<TEXT ID="ChalkStability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಸೀಮೆ ಸುಣ್ಣದ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಪ್ರನಾಳದ ತಳದಲ್ಲಿ ಸೀಮೆಸುಣ್ಣದ ಕಣಗಳು ಕ್ರಮೇಣ ಶೇಖರಣೆಯಾಗಿರುವುದನ್ನು ನೀವು ಕಾಣುವಿರಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkStability_two">
+		<TEXTVALUE>ನಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ನಿಲಂಬನವು ಅಸ್ತಿರವಾಗಿದೆ ಮತ್ತು ಭಾರವಾದ ಕಣಗಳು ತಳವೂರುತ್ತವೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandWater">
+	<TEXT ID="FindsandWater_one">
+		<TEXTVALUE>95ml ಆಸವಿತ ನೀರು ತುಂಬಿರುವ 250ml ಬೀಕರ್ ನಲ್ಲಿ 10g ನುಣುಪಾದ ಮರಳನ್ನು ಸೇರಿಸಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandWater_two">
+		<TEXTVALUE>ಆಮೇಲೆ ದ್ರಾವಣವನ್ನು ಗಾಜಿನ ಕಡ್ಡಿಯ ಸಹಾಯದಿಂದ ಕಲಕಿರಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="solutionsoisand">
+	<TEXT ID="solutionsoisand_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandTranspirancy">
+	<TEXT ID="FindsandTranspirancy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಮರಳಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		 </TEXT>
+		<TEXT ID="FindsandTranspirancy_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಕಾಣುವುದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ನಿಲಂಬನವು ಅಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="FindsandFiltration">
+	<TEXT ID="FindsandFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು  ಇರುವ ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು  ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಮರಳಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಸ್ಪಷ್ಟ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandFiltration_two">
+		<TEXTVALUE>ಮರಳಿನ ಕಣಗಳು ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಕಾಣಬರುತ್ತವೆ. ಇದರಿಂದ ತಿಳಿದುಬರುವುದೇನೆಂದರೆ ನಿಲಂಬನದ ನಿಲಂಬಿತ ಘಟಕಗಳು ಶೋಧಿಸುವಿಕೆಯಿಂದ ಪ್ರತ್ಯೇಕಿಸಲ್ಪಡುತ್ತವೆ.</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+<SCENE ID="Findsandstability">
+	<TEXT ID="Findsandstability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಮರಳಿನ ನಿಲಂಬನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಪ್ರನಾಳದ ತಳದಲ್ಲಿ ಮರಳಿನ ಕಣಗಳು ಕ್ರಮೇಣ ಶೇಖರಣೆಯಾಗಿರುವುದನ್ನು ನೀವು ಕಾಣುವಿರಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Findsandstability_two">
+		<TEXTVALUE>ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ನಿಲಂಬನವು ಅಸ್ತಿರವಾಗಿದೆ ಮತ್ತು ಭಾರವಾದ ಕಣಗಳು ತಳವೂರುತ್ತವೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchwater">
+	<TEXT ID="Starchwater_one">
+		<TEXTVALUE>250ml ಬೀಕರಿನಲ್ಲಿ 1g ಪಿಷ್ಟದ ಪುಡಿ ತೆಗೆದು ಕೊಳ್ಲಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_two">
+		<TEXTVALUE>100ml ಆಸವಿತ ನೀರಿರುವ ಮತ್ತೊಂದು ಬೀಕರಿನಿಂದ  3ml ನೀರನ್ನು ಅಳತೆ ಜಾಡಿಯಿಂದ ತೆಗೆದುಕೊಂಡು  ಪಿಷ್ಟವಿರುವ ಬೀಕರಿಗೆ ಹಾಕಿ. ದ್ರಾವಣವನ್ನು ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_three">
+		<TEXTVALUE>ಬುನ್ ಸೆನ್  ಬರ್ನರ್ ಮೇಲೆ ಉಳಿದ 97ml ಆಸವಿತವಿರುವ ಬೀಕರನ್ನು ಬಿಸಿ ಮಾಡಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_four">
+		<TEXTVALUE>ಪಿಷ್ಟವಿರುವ ಬೀಕರಿಗೆ ಕುದಿಯುವ ನೀರನ್ನು ಹಾಕಿ. ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಬೆರೆಸಿ ನಂತರ ಅದನ್ನು ತಣ್ಣಗಾಗಲು ಬಿಡಿ.</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilstarch">
+	<TEXT ID="solutionsoilstarch_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchtranspirancy">
+	<TEXT ID="Starchtranspirancy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಪಿಷ್ಟದ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Starchtranspirancy_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಮಂದವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಕಲಿಲವು ಅರೆಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="StarchFiltration">
+	<TEXT ID="StarchFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಪಿಷ್ಟದ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಅರೆಪಾರದರ್ಶಕ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="StarchFiltration_two">
+		<TEXTVALUE>ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಯಾವುದೇ ಶೇಷ ಉಳಿದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಶೋಧಿಸುವಿಕೆಯಲ್ಲಿ ಕಲಿಲದಿಂದ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="StarchStability">
+	<TEXT ID="StarchStability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಪಿಷ್ಟದ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲದಿರುವುದನ್ನು ಗಮನಿಸಿ. ಇದರಿಂದ ಕಂಡುಬರುವುದೇನೆಂದರೆ ಕಲಿಲವು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ. ಅದರ ದ್ರಾವ್ಯ ಕಣಗಳು ಸಮಯ ಕಳೆದ ನಂತರವೂ ತಳವೂರುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Eggwater">
+	<TEXT ID="Eggwater_one">
+		<TEXTVALUE>250ml ಬೀಕರಿನಲ್ಲಿ 1g ಮೊಟ್ಟೆ ಅಲ್ಬುಮಿನ್ ತೆಗೆದು ಕೊಳ್ಲಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_two">
+		<TEXTVALUE>100ml ಆಸವಿತ ನೀರಿರುವ ಮತ್ತೊಂದು ಪಾತ್ರೆಯಿಂದ, 5ml ನೀರನ್ನು ಅಳತೆ ಜಾಡಿಯಿಂದ ತೆಗೆದುಕೊಂಡು  ಮೊಟ್ಟೆಯ ಅಲ್ಬುಮಿನ್ ಇರುವ ಬೀಕರಿಗೆ ಹಾಕಿ. ದ್ರಾವಣವನ್ನು ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_three">
+		<TEXTVALUE>ಉಳಿದ 95ml ಆಸವಿತ ನೀರಿರುವ ಬೀಕರನ್ನು ತೆಗೆದುಕೊಂಡು ಮೊಟ್ಟೆಯ ಆಲ್ಬುಮಿನ್ ಇರುವ ಬೀಕರಿಗೆ ನಿಧಾನವಾಗಿ ಹಾಕಿ. ಗಾಜಿನ ಕಡ್ಡಿ ಬಳಸಿ ಅದನ್ನು ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ. ಒಂದು ಸ್ವಚ್ಛವಾದ ದ್ರಾವಣ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_four">
+		<TEXTVALUE>ದುರ್ಬಲ HCl ನ ಕೆಲವು ಹನಿಗಳನ್ನು ಸ್ಪಷ್ಟ ದ್ರಾವಣಕ್ಕೆ ಸೇರಿಸಿ.ಮತ್ತು ಅದನ್ನು ಚನ್ನಾಗಿ ಬೆರೆಸಿ. ಆಲ್ಬುಮಿನ್ ಮತ್ತು ನೀರಿನ ಸ್ಪಷ್ಟ ದ್ರಾವಣ ಬಗ್ಗಡದಂತಾಗುತ್ತದೆ.
+
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilegg">
+	<TEXT ID="solutionsoilegg_one">
+		<TEXTVALUE>ಯಾವುದಾದರೂ ಒಂದು ಪರೀಕ್ಷೆ ಆಯ್ಕೆ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="eggtranspirancy">
+	<TEXT ID="eggtranspirancy_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಮೊಟ್ಟೆಯ ಆಲ್ಬುಮಿನ್ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಪ್ರನಾಳದ ಒಂದು ಬದಿಗೆ ಸೆಲ್ಲೋಫೇನ್  ಕಾಗದದ ಒಂದು ಸಣ್ಣ ಸ್ಟ್ರಿಪ್ ಅಂಟಿಸಿ.</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="eggtranspirancy_two">
+		<TEXTVALUE>ಇನ್ನೊಂದು ಕಡೆಯಿಂದ ವೀಕ್ಷಿಸಿ. ಪ್ರನಾಳದ ಮತ್ತೊಂದು ಕಡೆಯಿಂದ ಸೆಲ್ಲೋಫೇನ್ ಕಾಗದ ಮಂದವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಕಲಿಲವು ಅರೆಪಾರದರ್ಶಕವಾಗಿದೆ.</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="EggFiltration">
+	<TEXT ID="EggFiltration_one">
+		<TEXTVALUE>ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ ಬಳಸಿಕೊಂಡು ಒಂದು ಪ್ರನಾಳದ ಮೇಲೆ ಆಲಿಕೆಯನ್ನು ಇರಿಸಿ. ನಂತರ ಆಲಿಕೆಗೆ ಶೋಧನಾ ಕಾಗದವನ್ನು ಇರಿಸಿ.ಈಗ ಬೇರೆ ಪ್ರನಾಳದಲ್ಲಿರುವ ಮೊಟ್ಟೆ ಅಲ್ಬುಮಿನ್ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಆಲಿಕೆ ಮೂಲಕ ಸುರಿಯಿರಿ.  ಒಂದು ಅರೆಪಾರದರ್ಶಕ ಶೋಧಿತ ದೊರೆಯುತ್ತದೆ.</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="EggFiltration_two">
+		<TEXTVALUE>ಶೋಧನಾ ಕಾಗದದ ಮೇಲೆ ಯಾವುದೇ ಶೇಷ ಉಳಿದಿಲ್ಲ. ಇದರಿಂದ ತಿಳಿಯುವುದೇನೆಂದರೆ ಶೋಧಿಸುವಿಕೆಯಲ್ಲಿ ಕಲಿಲದಿಂದ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</TEXTVALUE>
+   </TEXT>
+   
+   
+</SCENE>
+
+<SCENE ID="Eggstability">
+	<TEXT ID="Eggstability_one">
+		<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಮೊಟ್ಟೆಯ ಆಲ್ಬುಮಿನ್ ಕಲಿಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದನ್ನು 20ನಿಮಿಷ ಹಾಗೆಯೇ ಪ್ರನಾಳ ರಾಕ್ ನಲ್ಲಿ ಬಿಡಿ. ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲದಿರುವುದನ್ನು ಗಮನಿಸಿ. ಇದರಿಂದ ಕಂಡುಬರುವುದೇನೆಂದರೆ ಕಲಿಲವು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ. ಅದರ ದ್ರಾವ್ಯ ಕಣಗಳು ತುಂಬಾ ಸಮಯದ ನಂತರವೂ ತಳವೂರುವುದಿಲ್ಲಿ. </TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+
+
+	
+</DATA>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title02">
+	<TEXT ID="title02_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_heading_tx01">
+	 <TEXTVALUE>अपघटन अभिक्रियांचा </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="title02_strt_tx001">
+	 <TEXTVALUE>सुरु करा</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="02Iintro">
+	<TEXT ID="02Iintro_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="02Iintro_ferous_o01">
+	 <TEXTVALUE>फेरस सल्फेट</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="03tube">
+	<TEXT ID="03tube_one">
+	 <TEXTVALUE>फेरस सल्फेट ची काही स्फटिके (FeSO4.7H2O) एका कोरड्या नलिकेत घ्या.	 
+	 </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="03tube_two">
+	 <TEXTVALUE>नलिकेला परीक्षा नलिका धारकाने पकडा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="04lamp1">
+	<TEXT ID="04lamp1_one">
+	 <TEXTVALUE>बर्नर च्या ज्योतीवर नलिका गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="04lamp1_two">
+	 <TEXTVALUE>फेरस सल्फेट स्फटिके गरम केल्या नंतर त्यातल्या पाण्याच्या रेणुचे बाष्पीभवन होते आणि पांढर्‍या रंगाची निर्जल फेरस सल्फेट स्फटिके निर्माण होतात (FeSO4)</TEXTVALUE>
+	</TEXT>
+	
+	
+		<TEXT ID="04lamp1_three">
+	 <TEXTVALUE>अजून गरम केल्यास. निर्जल फेरस सल्फेट याचे अपघटन होऊन गडद तपकिरी फेरीक ऑक्साइड (Fe2O3), सल्फर डायऑक्साइड (SO2) आणि सल्फर ट्रायऑक्साइड (SO3) वायु निर्माण होतात. वायुचा वास जळणार्‍या सल्फरचा असतो.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="04lamp1_odour_o01">
+	 <TEXTVALUE> जळणार्‍या सल्फरचा 
+गंध</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+	
+	
+	
+	<SCENE ID="05result">
+	<TEXT ID="05result_one">
+	 <TEXTVALUE>या अभिक्रियेत एक अभिक्रियाकारक FeSO4 याचे अपघटन होते आणि 3 उत्पादने निर्माण होतात. Fe2O3, SO2, SO3. म्हणून ही एक अपघटन अभिक्रिया आहे.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_feri_o01">
+	 <TEXTVALUE>फेरीक ऑक्साइड</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05result_bakos_01">
+	 <TEXTVALUE>मागे</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>
+

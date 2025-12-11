@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BARIUM_CHLORIDE">
+        <source>Click the bottle to pour Barium Chloride  to test tube</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CORK">
+        <source>Click the cork to open the bottle</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_GLASSROD">
+        <source>Click the glass rod to stir the mixture</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_MOVIE1">
+        <source>Test tubes</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_MOVIE2">
+        <source>Conical Flask</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_MOVIE3">
+        <source>Barium Chloride</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MOVIE4">
+        <source>Sodium Sulphate</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SODIUM">
+        <source>The reaction of Sodium sulphate with Barium chloride</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SODIUM-SULPHATE">
+        <source>Click the bottle to pour Sodium Sulphate to test tube</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TEST TUBE">
+        <source>Click the test tube  to pour Sodium Sulphate to conical flask</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TEST_TUBE">
+        <source>Click the test tube to pour Barium Chloride to  conical flask</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

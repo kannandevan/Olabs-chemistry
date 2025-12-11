@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<DATA>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+	<TEXTVALUE>ಟೆಕ್ಸ್ಟ್ ಇಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_title_1">
+	<TEXTVALUE>ಅಸಿಟಿಕ್ ಆಮ್ಲದ ಗುಣ ಲಕ್ಷಣಗಳು(ಇಥನೋಯಿಕ್ ಆಮ್ಲ)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Title_string_2">
+	<TEXTVALUE>ಆರಂಭ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="buttons">
+	<TEXT ID="buttons_one">
+	<TEXTVALUE>ಟೆಕ್ಸ್ಟ್ ಇಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l1">
+	<TEXTVALUE>ಕಾರ್ಬನ್ ಸಂಯುಕ್ತದ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l2">
+	<TEXTVALUE>ವಸನೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l3">
+	<TEXTVALUE>ನೀರಿನಲ್ಲಿ ವಿಲೀನತೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l4">
+	<TEXTVALUE>ಲಿಟ್ಮಸ್ ಮೇಲಿನ ಪರಿಣಾಮ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="buttons_string_l5">
+	<TEXTVALUE>ಸೋಡಿಯೋ ಕಾರ್</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="odour">
+	<TEXT ID="odour_one">
+	<TEXTVALUE>ಪ್ರನಾಳದಲ್ಲಿ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ವಾಸನೆಯನ್ನು ನೋಡಿ. ತೀಕ್ಷ್ಣವಾದ ಕಿರಿಕಿರಿ ಉಂಟುಮಾಡುವ ಘಾಟು ವಾಸನೆ ಬರುತ್ತದೆ. ಪ್ರನಾಳದ ಬಾಯಿಯನ್ನು ನಿಮ್ಮ ಮತ್ತು ನಿಮ್ಮ ತರಗತಿ ಗೆಳೆಯರ ಮುಖದಿಂದ ದೂರವಿರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_3">
+	<TEXTVALUE>ಅಸಿಟಿಕ್ ಆಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_4">
+	<TEXTVALUE>ಕೊಳೆತ ವಾಸನೆಯನ್ನು ಕಿರಿಕಿರಿಗೊಳಿಸುವಿಕೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="odour_string_5">
+	<TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+<SCENE ID="solubilityinwater">
+	<TEXT ID="solubilityinwater_one">
+	<TEXTVALUE>ಸ್ವಲ್ಪ ಮ್ರಮಾಣದ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಒಂದು ಪ್ರನಾಳದಲ್ಲಿ ಹಾಕಿರಿ ಮತ್ತು ಸ್ವಲ್ಪ ಮ್ರಮಾಣದ ಅಸವಿತ ನೀರನ್ನು ಇನ್ನೊಂದು ಪ್ರನಾಳದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_two">
+	<TEXTVALUE>ಅಸಿಟ್ ಆಮ್ಲವನ್ನು ನೀರಿಗೆ ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwater_string_6">
+	<TEXTVALUE>ನೀರು</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solubilityinwatersecond">
+	<TEXT ID="solubilityinwatersecond_one">
+	<TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಚೆನ್ನಾಗಿ ಅಲುಗಾಡಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solubilityinwaterthird">
+	<TEXT ID="solubilityinwaterthird_one">
+	<TEXTVALUE>ಒಂದು ಸಮಜ್ಯಾತ್ಯಾ ದ್ರಾವಣವು ನಿರ್ಮಾಣವಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="solubilityinwaterthird_string_7">
+	<TEXTVALUE>ಏಕರೂಪದ ಪರಿಹಾರ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="Litmus">
+	<TEXT ID="Litmus_one">
+	<TEXTVALUE>ನೀಲಿ ಬಣ್ಣದ ಕಾಗದದ ಲಿಟ್ಮಸ್ ತೆಗೆದುಮೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Litmus_string_8">
+	<TEXTVALUE>ಲಿಟ್ಮಸ್ ಕಾಗದ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Litmussecond">
+	<TEXT ID="Litmussecond_one">
+	<TEXTVALUE>ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಅಸಿಟಿಕ್ ಆಮ್ಲವಿರುವ ಪ್ರನಾಳದಲ್ಲಿ ಅದ್ದಿರಿ,.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Litmusthird">
+	<TEXT ID="Litmusthird_one">
+	<TEXTVALUE>ನೀಲಿ ಬಣ್ಣದ ಕಾಗದದ ಲಿಟ್ಮಸ್ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ,ಅಸಿಟಿಕ್ ಆಮ್ಲವು ಅಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಬಗ್ಗೆ ತಿಳಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumbicarbonate">
+	<TEXT ID="sodiumbicarbonate_one">
+	<TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳದೊಳಗೆ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಸೋಡಿಯಂ ಕಾರ್ಬನೇಟ್ ಅನ್ನು ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_two">
+	<TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳವನ್ನು ಹಿಡಿಕಟ್ಟು ಸ್ತಂಭಕ್ಕೆ ಹಿಡಿಕಟ್ಟು ಮೂಲಕ ನಿಲ್ಲಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_three">
+	<TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳದ ಬಾಯಿಯನ್ನು ಎರಡು ರಂದ್ರವಿರುವ ಬಿರಡೆಯ ಮೂಲಕ  ಮುಚ್ಚಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_four">
+	<TEXTVALUE>ಬಿರಡೆಯ  ಒಂದು ರಂದ್ರದ ಮೂಲಕ ತಿಸಲ್ ನಳಿಕೆಯನ್ನು ಇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_five">
+	<TEXTVALUE>ಇನ್ನೊಂದು ಕುದಿ ಪ್ರನಾಳದಲ್ಲಿ ಸುಣ್ಣದ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_six">
+	<TEXTVALUE>ಈ ಕುದಿ ಪ್ರನಾಳವನ್ನು ಇನ್ನೊಂದು ಸ್ತಂಭಕ್ಕೆ ಹಿಡಿಕಟ್ಟಿನಿಂದ ನಿಲ್ಲಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_seven">
+	<TEXTVALUE>ವಿಸರ್ಜನಾ ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ತುದಿಯನ್ನು ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೊನೇಟ್ ಇರುವ ಪ್ರನಾಳಕ್ಕೆ  ಮತ್ತು ಇನ್ನೊಂದು ತುದಿಯನ್ನು ಸುಣ್ಣದ ನೀರು ಇರುವ ಪ್ರನಾಳದೊಳಗೆ (ಎರಡು ರಂದ್ರವಿರುವ  ಬಿರಡೆ)ಇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_9">
+	<TEXTVALUE>ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೊನೇಟ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_string_10">
+	<TEXTVALUE>ಥಿಸಲ್ ಫನಲ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="sodiumbicarbonate_stri_ls1">
+	<TEXTVALUE>ಸುಣ್ಣದ ತಿಳಿ ನೀರು</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="takeaceticacid">
+	<TEXT ID="takeaceticacid_one">
+	<TEXTVALUE>ಅಸಿಟಿಕ್ ಆಮ್ಲವಿರುವ ಬಾಟಲ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="takeaceticacid_string11">
+	<TEXTVALUE>ಅಸಿಟಿಕ್ ಆಮ್ಲ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="last">
+	<TEXT ID="last_one">
+	<TEXTVALUE>ತಿಸಲ್ ಫನಲ್ ಮೂಲಕ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಕುದಿ ಪ್ರನಾಳದಲ್ಲಿರುವ  ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೊನೇಟ್  ನಲ್ಲಿ ಹಾಕಿರಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_two">
+	<TEXTVALUE>ಒಂದು ರೀತಿಯ ಅನಿಲವು ಹರಡುವುದು.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_three">
+	<TEXTVALUE>ಕುದಿಯುವ ಪ್ರನಾಳದಲ್ಲಿರುವ ಸುಣ್ಣದ ನೀರು ಹಾಲಿನ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="last_four">
+	<TEXTVALUE>ಹೊರಹೊಮ್ಮುವ  ಅನಿಲವು ಇಂಗಾಲದ ಡೈ ಆಕ್ಸೈಡ್ ಆಗಿದ್ದು ಸುಣ್ಣದ ನೀರು ಹಾಲಿನಂತೆ ಪರಿರ್ವತನೆ ಆಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

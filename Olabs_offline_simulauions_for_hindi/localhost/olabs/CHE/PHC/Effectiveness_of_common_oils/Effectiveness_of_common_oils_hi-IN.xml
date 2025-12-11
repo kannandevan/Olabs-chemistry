@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_txt">
+		<TEXTVALUE>पायस बनाने में अलग-अलग साधारण तेलों की प्रभावशीलता </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="button_txt">
+		<TEXTVALUE>प्रारंभ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Intrductionsc">
+	<TEXT ID="label1">
+		<TEXTVALUE>अरंडी का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label2">
+		<TEXTVALUE>बिनौले का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label3">
+		<TEXTVALUE>नारियल का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label4">
+		<TEXTVALUE>मिट्टी का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label5">
+		<TEXTVALUE>सरसों का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label6">
+		<TEXTVALUE>1% साबुन का विलयन </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="label7">
+		<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Intrductionsc_one">
+		<TEXTVALUE>हमें चाहिए अरंडी का तेल, बिनौले का तेल, नारियल का तेल, मिट्टी का तेल, सरसों का तेल, 1% साबुन का विलयन, नापने वाला सिलेंडर, 5 मिलीलीटर का विंदुक, आसुत जल, ए, बी, सी और डी के रूप में चिह्नित पांच स्टॉपर्ड बोतलें, स्टाप वॉच, आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Intrductionsc1">
+	<TEXT ID="Intrductionsc1_one">
+		<TEXTVALUE>प्लास्टिक का विंदुक लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="casteroil">
+	<TEXT ID="casteroil_one">
+		<TEXTVALUE>विंदुक का प्रयोग कर, 5 मिलीलीटर अरंडी का तेल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Abottlepoured">
+	<TEXT ID="Abottlepoured_one">
+		<TEXTVALUE>ए के रूप में चिह्नित स्टापर्ड बोतल में तेल डालें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="wastetip">
+	<TEXT ID="wastetip_one">
+		<TEXTVALUE>प्रयोग किया गया विंदुक नष्ट कर दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="pipette">
+		<TEXTVALUE>अपशिष्ट पिपेट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2pipet">
+	<TEXT ID="2pipet_one">
+		<TEXTVALUE>नया विंदुक लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="cottonseed">
+	<TEXT ID="cottonseed_one">
+		<TEXTVALUE>विंदुक का प्रयोग कर 5 मिलीलीटर बिनौले का तेल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="AbottlepouredB">
+	<TEXT ID="AbottlepouredB_one">
+		<TEXTVALUE>बी के रूप में चिह्नित बोतल में इसे डालें|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Abottlepouredall">
+	<TEXT ID="Abottlepouredall_one">
+		<TEXTVALUE>इसी तरह, बोतल सी में 5 मिलीलीटर नारियल का तेल, बोतल डी में सरसों का तेल और बोतल ई में केरोसिन का तेल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring">
+	<TEXT ID="measuring_one">
+		<TEXTVALUE>नापने वाले सिलेंडर का प्रयोग कर 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour">
+	<TEXT ID="waterpour_one">
+		<TEXTVALUE>नापने वाले सिलेंडर का प्रयोग कर 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour_two">
+		<TEXTVALUE>इसे बोतल ए में डालें|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>नापने वाले सिलेंडर का प्रयोग कर 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="waterpour2">
+	<TEXT ID="waterpour2_one">
+		<TEXTVALUE>नापने वाले सिलेंडर का प्रयोग कर 50 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="waterpour2_two">
+		<TEXTVALUE>इसे बोतल बी में डालें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="allbottles">
+	<TEXT ID="allbottles_one">
+		<TEXTVALUE>इसी प्रकार शेष बोतलों सी, डी और ई में 50 मिलीलीटर आसुत जल मिलाएं</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="allbottles_two">
+		<TEXTVALUE>स्टापर्ड बोतल ए लें </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="allbottles1">
+	<TEXT ID="allbottles1_one">
+		<TEXTVALUE>एक मिनट तक इसे जोर-जोर से हिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="minute">
+		<TEXTVALUE>1 
+मिनट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="stopwatchA">
+	<TEXT ID="stopwatchA_one">
+		<TEXTVALUE>इसके बाद इसे खड़ा रहने दें और तत्काल ही स्टाप वॉच चालू कर दें।
+		</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart1copy">
+	<TEXT ID="timeschart1copy_one">
+		<TEXTVALUE>दोनों परतों (तेल की परत और पानी की परत) को अलग होने में लगा समय नोट करें और अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h1">
+		<TEXTVALUE>तेल की बोतलें </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h1">
+		<TEXTVALUE>बिना साबुन के घोल के परतों के पृथक्कयरण में लगा समय [सेकंड में]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val">
+		<TEXTVALUE>अरंडी का तेल -A</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesB">
+	<TEXT ID="allbottlesB_one">
+		<TEXTVALUE>स्टापर्ड बोतल बी लें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottles1B">
+	<TEXT ID="allbottles1B_one">
+		<TEXTVALUE>एक मिनट तक इसे जोर-जोर से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchB">
+	<TEXT ID="stopwatchB_one">
+		<TEXTVALUE>इसके बाद इसे खड़ा रहने दें और तत्काल ही स्टाप वॉच चालू कर दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschart">
+	<TEXT ID="timeschart_one">
+		<TEXTVALUE>दोनों परतों (तेल की परत और पानी की परत) को अलग होने में लगा समय नोट करें और अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_1">
+		<TEXTVALUE>बिनौले का तेल-B</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_2">
+		<TEXTVALUE>नारियल का तेल-C</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_3">
+		<TEXTVALUE>मिट्टी का तेल -D</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_val_4">
+		<TEXTVALUE>सरसों का तेल -E</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapsolution">
+	<TEXT ID="soapsolution_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर 1% साबुन का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapA">
+	<TEXT ID="soapA_one">
+		<TEXTVALUE>साबुन के विलयन की 10 बूँदें बोतल ए में मिलाएं|</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="drops">
+		<TEXTVALUE>10 बूँदें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapB">
+	<TEXT ID="soapB_one">
+		<TEXTVALUE>इसके बाद साबुन के विलयन की 10 बूँदें बोतल बी में मिलाएं|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapall">
+	<TEXT ID="soapall_one">
+		<TEXTVALUE>इसी प्रकार शेष बोतलों सी, डी और ई में साबुन के विलयन की 10 बूँदें मिलाएं|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="soapAshake">
+	<TEXT ID="soapAshake_one">
+		<TEXTVALUE>बोतल एं लें और एक मिनट तक इसे जोर-जोर से हिलाएं</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchAsoap">
+	<TEXT ID="stopwatchAsoap_one">
+		<TEXTVALUE>इसके बाद इसे खड़ा रहने दें और तत्काल ही स्टाप वॉच चालू कर दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapA">
+	<TEXT ID="timeschartsoapA_one">
+		<TEXTVALUE>दोनों परतों (तेल की परत और पानी की परत) को अलग होने में लगा समय नोट करें। </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="table_h3">
+		<TEXTVALUE>साबुन के घोल के साथ परतों के पृथक्कयरण में लगा समय [सेकंड में]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="allbottlesBsoap">
+	<TEXT ID="allbottlesBsoap_one">
+		<TEXTVALUE>बोतल बी लें|</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="shakeBsoap">
+	<TEXT ID="shakeBsoap_one">
+		<TEXTVALUE>एक मिनट तक इसे जोर-जोर से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="stopwatchBsoap">
+	<TEXT ID="stopwatchBsoap_one">
+		<TEXTVALUE>इसके बाद इसे खड़ा रहने दें और तत्काल ही स्टाप वॉच चालू कर दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="timeschartsoapAcopy">
+	<TEXT ID="line_1">
+		<TEXTVALUE>•अपने पायस से अलग होने में सबसे लंबा समय लेने वाला तल - सरसों का तेल </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_2">
+		<TEXTVALUE>•अपने पायस से अलग होने में सबसे कम समय लेने वाला तेल - मिट्टी का तेल  </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_3">
+		<TEXTVALUE>•स्थिरता या प्रभावशीलता का घटता क्रम है :</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="line_4">
+		<TEXTVALUE>सरसों का तेल> नारियल का तेल> बिनौले का तेल> अरंडी का तेल> मिट्टी का तेल</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="back_txt">
+		<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_one">
+		<TEXTVALUE>दोनों परतों (तेल की परत और पानी की परत) को अलग होने में लगा समय नोट करें। इसी तरह सी, डी और ई बोतलें लें और प्रत्येक मामले में दोनों परतों को अलग होने में लगा समय नोट करें और अवलोकन दर्ज करें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_two">
+		<TEXTVALUE>अवलोकनों से यह स्पष्ट  है कि अपने पायस से अलग होने में सरसों का तेल सबसे लंबा समय लेता है और मिट्टी का तेल सबसे कम समय लेता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="timeschartsoapAcopy_three">
+		<TEXTVALUE>अवलोकनों से यह स्पष्ट  है कि अपने पायस से अलग होने में सरसों का तेल सबसे लंबा समय लेता है और मिट्टी का तेल सबसे कम समय लेता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>

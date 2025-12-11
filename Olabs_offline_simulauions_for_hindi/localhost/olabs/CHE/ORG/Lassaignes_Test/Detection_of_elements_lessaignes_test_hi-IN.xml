@@ -1,0 +1,926 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+
+<SCENE ID="Scene1">
+
+	<TEXT ID="title_one">
+	<TEXTVALUE>तत्वों की जांच: लैसेन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="startBtn">
+	<TEXTVALUE>शुरू करें</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene1_sub">
+	<TEXTVALUE>प्रयोग करने के लिए 'शुरू करें' बटन पर क्लिक करें|</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene2">
+
+	<TEXT ID="LassaignesExtract_text">
+	<TEXTVALUE>लैसेन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_text">
+	<TEXTVALUE>नाइट्रोजन की जांच</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_text">
+	<TEXTVALUE>सल्फर की जांच</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_text">
+	<TEXTVALUE>हैलोजंस की जांच</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Scene2_sub">
+	<TEXTVALUE>प्रयोग चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene3">
+
+	<TEXT ID="Scene3_sub">
+	<TEXTVALUE>हमें चाहिए चाइना डिश, कार्बनिक यौगिक, कीप, तिपाया स्टैण्ड , तार की जाली, आसुत जल, बुन्सेन बर्नर, संलयन नलिका, परखनली, सोडियम धातु, छोटा स्पैचुला, चिमटी, फिल्टर पेपर, कांच की छड़, और  चिमटा।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_txt">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="chinaDish_text">
+	<TEXTVALUE>चाइना डिश</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="OrganicCompound_text">
+	<TEXTVALUE>कार्बनिक यौगिक</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Funnel_text">
+	<TEXTVALUE>कीप</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TripodStand_text">
+	<TEXTVALUE>तिपाया स्टैण्ड </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="WireGauze_text">
+	<TEXTVALUE>तार की जाली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DistilledWater_text">
+	<TEXTVALUE>आसुत जल</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="BunsenBurner_text">
+	<TEXTVALUE>बुन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FusionTube_text">
+	<TEXTVALUE>संलयन नलिका</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubes_text">
+	<TEXTVALUE>परखनली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumMetal_text">
+	<TEXTVALUE>सोडियम धातु</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="SmallSpatula_text">
+	<TEXTVALUE>छोटा स्पैचुला</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Forceps_text">
+	<TEXTVALUE>चिमटी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Sodium_text">
+	<TEXTVALUE>सोडियम धातु</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene4">
+
+	<TEXT ID="Scene4_sub">
+	<TEXTVALUE>चिमटी का प्रयोग कर सोडियम धातु का छोटा सा टुकड़ा लें।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Sodium_twotext">
+	<TEXTVALUE>सोडियम धातु</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+
+</SCENE>
+
+<SCENE ID="Scene5">
+
+	<TEXT ID="Scene5_sub">
+	<TEXTVALUE>फिल्टर पेपर पर सोडियम धातु का टुकड़ा रखें और एक अन्य फिल्टर पेपर से इसे दबाकर सुखाएं। </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Filterpaper_text">
+	<TEXTVALUE>फिल्टर पेपर</TEXTVALUE>
+	</TEXT>
+	
+
+</SCENE>
+
+<SCENE ID="Scene6">
+
+	<TEXT ID="Scene6_sub">
+	<TEXTVALUE>चिमटे का प्रयोग कर संलयन नलिका पकड़ें और उस में शुष्क  सोडियम डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene7">
+
+	<TEXT ID="Scene7_sub">
+	<TEXTVALUE>चिमटे का प्रयोग कर संलयन नलिका पकड़ें और उस में शुष्क  सोडियम डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene8">
+
+	<TEXT ID="Scene8_sub">
+	<TEXTVALUE>छोटा वाला स्पैचुला लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene9">
+
+	<TEXT ID="Scene9_sub">
+	<TEXTVALUE>स्पैचुला का प्रयोग कर एक चुटकी कार्बनिक यौगिक लें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene10">
+
+	<TEXT ID="Scene10_sub">
+	<TEXTVALUE>संलयन नलिका में कार्बनिक यौगिक मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene11">
+
+	<TEXT ID="Scene11_sub">
+	<TEXTVALUE>स्पैचुला बदलें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Observation_text">
+	<TEXTVALUE>अवलोकन</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+<SCENE ID="Scene12">
+
+	<TEXT ID="Scene12_sub">
+	<TEXTVALUE>बुन्सेन बर्नर पर संलयन नलिका तब तक गर्म करें जब तक कि यह लाल तप्त न हो जाए।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+<SCENE ID="Scene13">
+
+	<TEXT ID="Scene13_sub">
+	<TEXTVALUE>आसुत जल से युक्त चाइना डिश में लाल तप्त नलिका डुबोएं। नलिका टूट जाएगी। कांच की छड़ से नलिका कुचल दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclusion_text">
+	<TEXTVALUE>निष्कर्ष</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+
+<SCENE ID="Scene14">
+
+	<TEXT ID="Scene14_sub">
+	<TEXTVALUE>इन प्रक्रियाओं को 2-3 बार दोहराएँ और कुछ मिनट तक क्वथनांक तक चाइना डिश की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene14_subone">
+	<TEXTVALUE>जब चाइना डिश में तरल पदार्थ की मात्रा उसकी प्रारंभिक मात्रा से कम होकर 1/3 रह जाए, तो गर्म करना बंद कर दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Conclsn_para">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene15">
+
+	<TEXT ID="Scene15_sub">
+	<TEXTVALUE>फिल्टर पेपर लें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene16">
+
+	<TEXT ID="Scene16_sub">
+	<TEXTVALUE>स्टैण्ड से लगे कीप में फिल्टर पेपर रखें और कीप के नीचे रखी साफ परखनली में कीप के माध्यम से चाइना डिश की सामग्री छानें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene16_sub_1">
+	<TEXTVALUE>छनी हुई सामग्री को लैसेन अर्क कहा जाता है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Back_btntxt">
+	<TEXTVALUE>वापस</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaignesextract_text">
+	<TEXTVALUE>लैसेन अर्क</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene17">
+
+	<TEXT ID="Scene17_sub">
+	<TEXTVALUE>सीन 17</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textTwo">
+	<TEXTVALUE>लैसेन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectioNitrogen_textTwo">
+	<TEXTVALUE>नाइट्रोजन की जांच</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene18">
+
+	<TEXT ID="Scene18_sub">
+	<TEXTVALUE>हमें चाहिए, ताजा तैयार फेरस सल्फेट का विलयन, फेरिक क्लोराइड का विलयन, सान्द्र HCl, परखनली, लैसेन अर्क और ड्रॉपर।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_text">
+	<TEXTVALUE>ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassignesExtract_text">
+	<TEXTVALUE>लैसेन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Tubes_text">
+	<TEXTVALUE>परखनली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_text">
+	<TEXTVALUE>सान्द्र HCl</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChlorideSolution_text">
+	<TEXTVALUE>फेरिक क्लोराइड 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_text">
+	<TEXTVALUE>ताजा तैयार फेरस सल्फेट का विलयन</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHcl_textTwo">
+	<TEXTVALUE>सान्द्र .HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textTwo">
+	<TEXTVALUE>फेरिक क्लोराइड 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textTwo">
+	<TEXTVALUE>ताजा तैयार फेरस सल्फेट का विलयन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene19">
+
+	<TEXT ID="Scene19_sub">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर लैसेन अर्क की थोड़ी सी मात्रा लें और इसे साफ परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene20">
+
+	<TEXT ID="Scene20_sub">
+	<TEXTVALUE>एक दूसरे ड्रॉपर का प्रयोग कर ताजा तैयार फेरस सल्फेट के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="FericChloride_textThree">
+	<TEXTVALUE>फेरिक क्लोराइड 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FreshlyFerrous_textThree">
+	<TEXTVALUE>ताजा तैयार फेरस सल्फेट का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene21">
+
+	<TEXT ID="Scene21_sub">
+	<TEXTVALUE>लैसेन अर्क से युक्त परखनली में फेरस सल्फेट का विलयन डालें और परखनली होल्डर से परखनली पकड़ें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene22">
+
+	<TEXT ID="Scene22_sub">
+	<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें। लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम साइनाइड फेरस सल्फेट से उपचारित करने पर सोडियम फेरोसाइनाइड, Na₄[Fe(CN)₆], में बदल जाता है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene22_sub_1">
+	<TEXTVALUE>बुन्सेन बर्नर पर परखनली गर्म करें। लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम साइनाइड फेरस सल्फेट से उपचारित करने पर सोडियम फेरोसाइनाइड, Na₄[Fe(CN)₆], में बदल जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene23">
+
+	<TEXT ID="Scene23_sub">
+	<TEXTVALUE>परखनली रैक में परखनली रखें।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene24">
+
+	<TEXT ID="Scene24_sub">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर फेरिक क्लोराइड के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFour">
+	<TEXTVALUE>फेरिक क्लोराइड 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene25">
+
+	<TEXT ID="Scene25_sub">
+	<TEXTVALUE>परखनली की सामग्री में फेरिक क्लोराइड का विलयन मिलाएं।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene26">
+
+	<TEXT ID="Scene26_sub">
+	<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर कर, सांद्रित हाइड्रोक्लोरिक अम्ल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="FericChloride_textFive">
+	<TEXTVALUE>फेरिक क्लोराइड 
+के विलयन </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_textFive">
+	<TEXTVALUE>सान्द्र .HCl </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene27">
+
+	<TEXT ID="Scene27_sub">
+	<TEXTVALUE>परखनली की सामग्री में सांद्रित हाइड्रोक्लोरिक अम्ल मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene27_subone">
+	<TEXTVALUE>फेरिक क्लोराइड और सान्द्र HCl से आगे और उपचारित करने पर, सोडियम फेरोसाइनाइड एक प्रशियाई नीला मिश्रण, फेरिक फेरोसाइनाइड, Fe₄[Fe(CN)₆]₃ बनाता है।</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="Scene28">
+
+	<TEXT ID="Scene28_sub">
+	<TEXTVALUE>सीन 28</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene29">
+
+	<TEXT ID="Scene29_sub">
+	<TEXTVALUE>परीक्षण चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_text">
+	<TEXTVALUE>सोडियम नाइट्रोप्रूसाइड परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="LeadAcetateTest_text">
+	<TEXTVALUE>लेड एसीटेट परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene30">
+
+	<TEXT ID="Scene30_sub">
+	<TEXTVALUE>हमें सोडियम नाइट्रोप्रूसाइड का विलयन, परखनली, लैसेन अर्क और ड्रॉपर चाहिए।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprusside_textt">
+	<TEXTVALUE>सोडियम नाइट्रोप्रूसाइड 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Dropper_textTwo">
+	<TEXTVALUE>ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_text">
+	<TEXTVALUE>लैसेन परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTube_textTwo">
+	<TEXTVALUE>परखनली</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene31">
+	<TEXT ID="Scene31_sub">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर लैसेन अर्क की थोड़ी सी मात्रा लें और स्वच्छ परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Lassaigne_texta">
+		<TEXTVALUE>लैसेन अर्क</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene32">
+	<TEXT ID="Scene32_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, सोडियम नाइट्रोप्रूसाइड के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Nitroprusside_text">
+		<TEXTVALUE>सोडियम नाइट्रोप्रूसाइड</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene33">
+	<TEXT ID="Scene33_sub">
+		<TEXTVALUE>लैसेन अर्क से युक्त परखनली में सोडियम नाइट्रोप्रूसाइड के विलयन की कुछ बूँदें मिलाएं। लैसेन  अर्क की तैयारी के दौरान बनने वाला </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="Scene33_subone">
+		<TEXTVALUE>सोडियम सल्फाइड, सोडियम नाइट्रोप्रूसाइड के साथ बैंगनी / जामुनी रंग देता है |</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Scene34">
+	<TEXT ID="Scene34_sub">
+		<TEXTVALUE>सीन 4</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SodiumNitroprussidetest_texttwo">
+		<TEXTVALUE>सोडियम नाइट्रोप्रूसाइड परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetateTest_texttwo">
+		<TEXTVALUE>लेड एसीटेट परीक्षण</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+<SCENE ID="Scene35">
+	<TEXT ID="Scene35_sub">
+		<TEXTVALUE>हमें सोडियम नाइट्रोप्रूसाइड का विलयन, परखनली, लैसेन अर्क और ड्रॉपर चाहिए।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AceticAcid_textnew">
+		<TEXTVALUE>एसिटिक अम्ल</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LeadAcetate_textttnew">
+		<TEXTVALUE>लेड एसीटेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Droppers_textnew">
+		<TEXTVALUE>ड्रॉपर</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="Lassaignes_textnew">
+		<TEXTVALUE>लैसेन अर्क </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Testtube_textnew">
+		<TEXTVALUE>परखनली </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="LeadAcetate_textnew">
+		<TEXTVALUE>लेड एसीटेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="AceticAcid_ttextnew">
+		<TEXTVALUE>एसिटिक अम्ल</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene36">
+	<TEXT ID="Scene36_sub">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर लैसेन अर्क की थोड़ी सी मात्रा लें और स्वच्छ परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Scene37">
+	<TEXT ID="Scene37_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, एसिटिक अम्ल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatesss_text">
+		<TEXTVALUE>लेड एसीटेट का विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AceticAcid_txtnew">
+		<TEXTVALUE>एसिटिक अम्ल</TEXTVALUE>
+	</TEXT>
+
+	
+</SCENE>
+
+<SCENE ID="Scene38">
+	<TEXT ID="Scene38_sub">
+		<TEXTVALUE>लैसेन अर्क युक्त परखनली में एसिटिक अम्ल मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene39">
+	<TEXT ID="Scene39_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर लेड एसीटेट के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetatetxt_text">
+		<TEXTVALUE>लेड एसीटेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Acidsol_txt">
+		<TEXTVALUE>एसिटिक अम्ल</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene40">
+	<TEXT ID="Scene40_sub">
+		<TEXTVALUE>परखनली की सामग्री में लेड एसीटेट विलयन की कुछ बूँदें मिलाएं। लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम सल्फाइड लेड एसीटेट के साथ अभिक्रिया करता है और लेड सल्फाइड का काला तलछट बनाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene41">
+	<TEXT ID="Scene41_sub">
+		<TEXTVALUE>सीन 41</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="LassaignesExtract_textnew">
+		<TEXTVALUE>लैसेन अर्क </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofNitrogen_textnew">
+		<TEXTVALUE>नाइट्रोजन की जांच</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofSulphur_textnew">
+		<TEXTVALUE>सल्फर की जांच</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DetectionofHalogens_textnew">
+		<TEXTVALUE>हैलोजंस की जांच</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene42">
+	<TEXT ID="Scene42_sub">
+		<TEXTVALUE>प्रयोग चुनने के लिए टैब पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrateTest_textnew">
+		<TEXTVALUE>सिल्वर नाइट्रेट परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="CarbonDisulphideTest_ttnew">
+		<TEXTVALUE>कार्बन डाईसल्फाइड परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene43">
+	<TEXT ID="Scene43_sub">
+		<TEXTVALUE>हमें चाहिए, सान्द्र  HNO3, सिल्वर नाइट्रेट का विलयन, अमोनियम हाइड्रॉक्साइड का विलयन, परखनली, लैसेन अर्क, ड्रॉपर और परखनली होल्डर।</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="ConcHNO_text">
+		<TEXTVALUE>सान्द्र HNO</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitrate_ttext">
+		<TEXTVALUE>सिल्वर नाइट्रेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxide_text">
+		<TEXTVALUE>अमोनियम 
+हाइड्रॉक्साइड </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="TestTubett_new">
+		<TEXTVALUE>परखनली</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNO_textt">
+		<TEXTVALUE>सान्द्र HNO</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="SilverNitratett_text">
+		<TEXTVALUE>सिल्वर नाइट्रेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Ammonium_text">
+		<TEXTVALUE>अमोनियम 
+हाइड्रॉक्साइड </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene44">
+	<TEXT ID="Scene44_sub">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर लैसेन अर्क की थोड़ी सी मात्रा लें और स्वच्छ परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene45">
+	<TEXT ID="Scene45_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर सांद्रित नाइट्रिक अम्ल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHNOb_text">
+		<TEXTVALUE>सान्द्र HNO</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="LeadAcetate_ttext">
+		<TEXTVALUE>सिल्वर नाइट्रेट 
+का विलयन</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene46">
+	<TEXT ID="Scene46_sub">
+		<TEXTVALUE>परखनली होल्डर का प्रयोग कर परखनली पकड़ें और लैसेन अर्क में सान्द्र HNO3 मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene47">
+	<TEXT ID="Scene47_sub">
+		<TEXTVALUE>कुछ समय तक बुन्सेन बर्नर पर परखनली की सामग्री को उबालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene48">
+	<TEXT ID="Scene48_sub">
+		<TEXTVALUE>परखनली की सामग्री ठंडा करें।</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene49">
+	<TEXT ID="Scene49_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर सिल्वर नाइट्रेट के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ConcHcl_ttttext">
+		<TEXTVALUE>सान्द्र  HNO </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene50">
+	<TEXT ID="Scene50_sub">
+		<TEXTVALUE>परखनली की सामग्री में सिल्वर नाइट्रेट मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene51">
+	<TEXT ID="Scene51_sub">
+		<TEXTVALUE>यदि कार्बनिक यौगिक में क्लोरीन होगा, तो लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम क्लोराइड सिल्वर नाइट्रेट के साथ अभिक्रिया करेगा और सिल्वर क्लोराइड का सफेद तलछट बनाएगा।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subone">
+		<TEXTVALUE>यदि कार्बनिक यौगिक में ब्रोमीन होगा, तो लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम ब्रोमाइड सिल्वर नाइट्रेट के साथ अभिक्रिया करेगा और सिल्वर ब्रोमाइड का हल्का पीला तलछट बनाएगा।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene51_subtwo">
+		<TEXTVALUE>यदि कार्बनिक यौगिक में आयोडीन होगा, तो लैसेन अर्क की तैयारी के दौरान बनने वाला सोडियम आयोडाइड सिल्वर नाइट्रेट के साथ अभिक्रिया करेगा और सिल्वर आयोडाइड का पीला तलछट बनाएगा।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene52">
+	<TEXT ID="Scene52_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर अमोनियम हाइड्रॉक्साइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="AmmoniumHydroxidet_text">
+		<TEXTVALUE>अमोनियम हाइड्रॉक्साइड</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene53">
+	<TEXT ID="Scene53_sub">
+		<TEXTVALUE>सिल्वर क्लोराइड के सफेद तलछट से युक्त परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene54">
+	<TEXT ID="Scene54_sub">
+		<TEXTVALUE>अतिरिक्त अमोनियम हाइड्रॉक्साइड सिल्वर क्लोराइड के तलछट में मिलाएं और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene55">
+	<TEXT ID="Scene55_sub">
+		<TEXTVALUE>घुलनशील मिश्रण, Ag[(NH₃)₂]Cl बनने के कारण अतिरिक्त् अमोनियम हाइड्रॉक्साइड में सिल्वर क्लोराइड घुलनशील है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene56">
+	<TEXT ID="Scene56_sub">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर अमोनियम हाइड्रॉक्साइड का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene57">
+	<TEXT ID="Scene57_sub">
+		<TEXTVALUE>सिल्वर ब्रोमाइड के हल्के पीले तलछट से युक्त परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene58">
+	<TEXT ID="Scene58_sub">
+		<TEXTVALUE>सिल्iर ब्रोमाइड के तलछट में अतिरिक्त‍ अमोनियम हाइड्रॉक्साइड मिलाएं और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene59">
+	<TEXT ID="Scene59_sub">
+		<TEXTVALUE>अतिरिक्त‍ अमोनियम हाइड्रॉक्साइड में सिल्वर ब्रोमाइड अपर्याप्तप रप से कम घुलनशील है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene60">
+	<TEXT ID="Scene60_sub">
+		<TEXTVALUE>पुन: ड्रॉपर का प्रयोग कर अमोनियम हाइड्रॉक्साइड लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene61">
+	<TEXT ID="Scene61_sub">
+		<TEXTVALUE>सिल्वर आयोडाइड के पीले तलछट से युक्त परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene62">
+	<TEXT ID="Scene62_sub">
+		<TEXTVALUE>सिल्वर आयोडाइड के तलछट में अतिरिक्त अमोनियम हाइड्रॉक्साइड </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene63">
+	<TEXT ID="Scene63_sub">
+		<TEXTVALUE>मिलाएं और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene64">
+	<TEXT ID="Scene64_sub">
+		<TEXTVALUE>सीन 64</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SilverNitrateTestyy_text">
+		<TEXTVALUE>सिल्वर नाइट्रेट परीक्षण </TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="CarbonDisulphideTestu_text">
+		<TEXTVALUE>कार्बन डाईसल्फाइड परीक्षण</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene65">
+	<TEXT ID="Scene65_sub">
+		<TEXTVALUE>हमें चाहिए, क्लोरीन का पानी, कार्बन डाइसल्फाइड, तनु HCl, परखनली, लैसेन अर्क और ड्रॉपर।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatert_text">
+		<TEXTVALUE>क्लोरीन का पानी</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Carbontt_text">
+		<TEXTVALUE>ार्बन डाइसल्फाइड </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLttr_text">
+		<TEXTVALUE> तनु HCl </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="ClorineWater_textt">
+		<TEXTVALUE>क्लोरीन का पानी</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="CarbonDisulphide_textt">
+		<TEXTVALUE>ार्बन डाइसल्फाइड</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHCLn_text">
+		<TEXTVALUE>तनु HCl </TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+<SCENE ID="Scene66">
+	<TEXT ID="Scene66_sub">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर लैसेन अर्क की थोड़ी सी मात्रा में लें और इसे साफ परखनली में डाल दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene67">
+	<TEXT ID="Scene67_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर तनु हाइड्रोक्लोरिक अम्ल‍ की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="DilHclh_text">
+		<TEXTVALUE>तनु HCl </TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Scene68">
+	<TEXT ID="Scene68_sub">
+		<TEXTVALUE>लैसेन अर्क से युक्त परखनली में तनु HCl मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene69">
+	<TEXT ID="Scene69_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर कार्बन डाइसल्फाइड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene70">
+	<TEXT ID="Scene70_sub">
+		<TEXTVALUE>परखनली में कार्बन डाइसल्फाइड मिलाएं। कार्बन डाइसल्फाइड लैसेन अर्क के ऊपर एक अलग परत बनाता है।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Scene71">
+	<TEXT ID="Scene71_sub">
+		<TEXTVALUE>एक और ड्रॉपर का प्रयोग कर क्लोरीन का पानी लें।</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="ClorineWatertt_text">
+		<TEXTVALUE>्लोरीन का पानी</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Scene72">
+	<TEXT ID="Scene72_sub">
+		<TEXTVALUE>परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Scene73">
+	<TEXT ID="Scene73_sub">
+		<TEXTVALUE>परखनली में क्लोरीन का पानी डालें और इसे अच्छी तरह हिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subone">
+		<TEXTVALUE>जब लैसेन अर्क में बना सोडियम ब्रोमाइड क्लोरीन पानी के साथ उपचारित किया जाता है, तो ब्रोमाइड ब्रोमीन में ऑक्सीकृत हो जाता है। ब्रोमीन कार्बन डाइसल्फाइड में घुल जाती है और कार्बन डाइसल्फाइड की परत में नारंगी रंग लाती है।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene73_subtwo">
+		<TEXTVALUE>जब लैसेन अर्क में बना सोडियम ब्रोमाइड क्लोरीन पानी के साथ उपचारित किया जाता है, तो ब्रोमाइड ब्रोमीन में ऑक्सीकृत हो जाता है। ब्रोमीन कार्बन डाइसल्फाइड में घुल जाती है और कार्बन डाइसल्फाइड की परत में नारंगी रंग लाती है।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Bromaine_textt">
+		<TEXTVALUE>ब्रोमीन </TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Iodinei_text">
+		<TEXTVALUE>आयोडीन</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+</DATA>

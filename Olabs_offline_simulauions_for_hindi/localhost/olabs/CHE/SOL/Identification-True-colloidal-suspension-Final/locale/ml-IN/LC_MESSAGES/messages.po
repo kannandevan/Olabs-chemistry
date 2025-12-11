@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ry\n"
+"POT-Creation-Date: 2015-05-15 11:22+0530\n"
+"PO-Revision-Date: 2016-06-07 11:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:10
+msgid "Distinguish Between Solutions"
+msgstr "ലായനികൾക്കിടയിലുള്ള താരതമൃം"
+
+#: ../js/simcontrols.js:11
+msgid "HELP"
+msgstr "HELP"
+
+#: ../js/simcontrols.js:12
+msgid "FULL SCREEN"
+msgstr "വലുത്"
+
+#: ../js/simcontrols.js:13
+msgid "EXIT"
+msgstr "പുറത്ത്"
+
+#: ../js/simcontrols.js:14
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"അമൃതാ സർവ്വകലാശാലയും CDAC മുംബെയും സംയുക്തമായി വികസിപ്പിച്ചെടുത്തത്<br>IT വിഭാഗത്തിൻ്റെ സാമ്പത്തിക സഹായത്തിലുള്ളത്."
+
+#: ../js/simcontrols.js:15 ../js/simcontrols.js:18
+msgid "True solutions"
+msgstr "ട്രൂ ലായനികൾ"
+
+#: ../js/simcontrols.js:15 ../js/simcontrols.js:18
+msgid "Suspensions"
+msgstr "സസ്പെൻഷൻ"
+
+#: ../js/simcontrols.js:15 ../js/simcontrols.js:18
+msgid "Colloids"
+msgstr "കൊളോയ്ഡുകൾ"
+
+#: ../js/simcontrols.js:16
+msgid "Transparency"
+msgstr "സുതാരൃത"
+
+#: ../js/simcontrols.js:16
+msgid "Filtrations"
+msgstr "അരിക്കലുകൾ"
+
+#: ../js/simcontrols.js:16
+msgid "Stability"
+msgstr "സ്ഥിരത"
+
+#: ../js/simcontrols.js:16
+msgid "Tyndall effect"
+msgstr "ടിൻഡാൾ പ്രഭാവം"
+
+#: ../js/simcontrols.js:18
+msgid "Select the property"
+msgstr "ഗുണം തിരഞ്ഞെടുക്കുക "
+
+#: ../js/simcontrols.js:18
+msgid "Select the solution to be tested"
+msgstr "ടെസ്റ്റ് ചെയ്യുന്നതിന് ലായനി തിരഞ്ഞെടുക്കുക"
+
+#: ../js/simcontrols.js:18
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
+
+#: ../js/simcontrols.js:19
+msgid ""
+"Drag the cellophane paper behind <br> the solutions in the test tubes for checking <br> the "
+"transparency of true solution."
+msgstr ""
+"ട്രൂ ലായനിയുടെ സുതാരൃത<br>പരിശോധിക്കുന്നതിന് വേണ്ടി ടെസ്റ്റൃൂബിലെ ലായനിക്ക്<br> പുറകിലുള്ള സെല്ലൊഫൈൻ പേപ്പർ നീക്കുക."
+
+#: ../js/simcontrols.js:19
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test tubes for checking <br> "
+"the transparency of suspension."
+msgstr ""
+"സസ്പെൻഷൻ്റെ സുതാരൃത<br>പരിശോധിക്കുന്നതിന് വേണ്ടി ടെസ്റ്റൃൂബിലെ ലായനിക്ക്<br>പുറകിലുള്ള സെല്ലൊഫൈൻ പേപ്പർ നീക്കിയിട്ട് "
+"ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:19
+msgid ""
+"Click and drag the cellophane paper behind <br> the solutions in the test tubes for checking <br> "
+"the transparency of colloid."
+msgstr ""
+"കൊളോയ്ഡ്്റെ സുതാരൃത<br>പരിശോധിക്കുന്നതിന് വേണ്ടി ടെസ്റ്റൃൂബിലെ ലായനിക്ക്<br>പുറകിലുള്ള സെല്ലൊഫൈൻ പേപ്പർ നീക്കിയിട്ട് "
+"ക്ലിക്ക് ചെയ്യുക."
+
+#: ../js/simcontrols.js:20
+msgid ""
+"Drag the test tube and pour the solution into the <br> test tube through the funnel and glass rod."
+msgstr "ടെസ്റ്റൃൂബ് നീക്കിയിട്ട് ചോർപ്പിലൂടെ ഗ്ലാസ്സ് റോഡ് <br>  ഉപയോഗിച്ച് ടെസ്റ്റൃൂബിലേക്ക്<br>ലായനി ഒഴിക്കുക."
+
+#: ../js/simcontrols.js:20
+msgid "Click on the funnel to see the <br> zoomed view of the filter paper content."
+msgstr "ചോർപ്പിൽ ക്ലിക്ക് ചെയ്ത്<br>  ഫിൽട്ടർ പേപ്പറിലെ മിശ്രിതത്തിൻ്റെ<br>വലുതാക്കിയ ദൃശൃം കാണുക."
+
+#: ../js/simcontrols.js:21
+msgid ""
+"Click on on the start button to wait<br>  for 20 minutes for the particles<br> in the solution to "
+"settle."
+msgstr "ആരംഭ ബട്ടനിൽ ക്ലിക്ക്<br>  ചെയ്ത് ലായനിയിലെ<br>കണങ്ങൾ താഴെ അടിയുന്നതിന് 20 മിന്നിട്ട്<br>കാത്തിരിക്കുക."
+
+#: ../js/simcontrols.js:22
+msgid "Drag the test tube to fit it in the stand."
+msgstr "ടെസ്റ്റൃൂബ് നീക്കി സ്റ്റാൻഡുമായി ഘടിപ്പിക്കുക."
+
+#: ../js/simcontrols.js:22
+msgid "Drag the light source to view tyndall effect clearly."
+msgstr "ടിൻഡാൾ പ്രഭാവം വൃക്തമായി കാണുന്നതിന് <br>  പ്രകാശ സ്രോതസ്സ് നീക്കി വെയ്ക്കുക."
+
+#: ../js/simcontrols.js:23
+msgid "A true solution is transparent."
+msgstr "ഒരു ട്രൂ ലായനി സുതാരൃമാണ്."
+
+#: ../js/simcontrols.js:23
+msgid "A suspension is opaque."
+msgstr "സസ്പെൻഷൻ അവൃക്തമാണ്."
+
+#: ../js/simcontrols.js:23
+msgid "A colloid is a translucent."
+msgstr "ഒരു കൊളോയ്ഡ് അർത്ഥസുതാരൃമാണ്."
+
+#: ../js/simcontrols.js:24
+msgid "Solid particles cannot be separated from <br>true solution by filtration."
+msgstr "ഖരവസ്തുക്കളെ ട്രൂ ലായനിയിൽ നിന്ന് അരിക്കലിലൂടെ<br>വേർതിരിക്കാൻ കഴിയുകയില്ല."
+
+#: ../js/simcontrols.js:24
+msgid "Suspended components of suspension <br> can be separated by filtration."
+msgstr "തൂങ്ങി നിർത്തിയിട്ടുള്ള വേറിട്ട ഘടകങ്ങളെ<br>അരിക്കലിലൂടെ വേർതിരിക്കാൻ കഴിയുന്നു."
+
+#: ../js/simcontrols.js:24
+msgid "Components causing colloid cannot be <br> separated by filtration."
+msgstr "കൊളോയ്ഡ് കാരണമാകുന്ന ഘടകങ്ങളെ <br>  അരിക്കലിലൂടെ വേർതിരിക്കാൻ<br>സാധിക്കുകയില്ല."
+
+#: ../js/simcontrols.js:25
+msgid "The true solutions are stable and do not<br> show the depositions of components."
+msgstr "ട്രൂലായനി സ്ഥിരമാണ്.ഘടകങ്ങളുടെ<br>നിക്ഷേപം കാണിക്കുന്നില്ല."
+
+#: ../js/simcontrols.js:25
+msgid "Suspension is unstable and show <br>settlement of heavier particles."
+msgstr "പൊങ്ങിനിൽക്കുന്നവ സ്ഥിരമല്ല,ഭാരം കൂടിയ കണങ്ങൾ<br>അടിയുന്നതായി കാണിക്കുന്നു."
+
+#: ../js/simcontrols.js:25
+msgid "Colloids are stable. Their solute particles <br>do not settle down when left undisturbed."
+msgstr "കൊളോയ്ഡുകൾ സ്ഥിരമാണ്. <br> അവയുടെ ലായക കണങ്ങൾ<br> അനക്കാതെ വെയ്ക്കുമ്പോൾ പോലും അടിയുന്നില്ല."
+
+#: ../js/simcontrols.js:26
+msgid ""
+"In true solutions, the solute completely dissolves in the <br>solvent and is present in its "
+"molecular size.  Because of <br>this small size,the solute particles do not scatter the <br>light "
+"passed through the solution. "
+msgstr ""
+"ട്രൂ ലായനികളിൽ പദാർത്ഥം പൂർണ്ണമായും ലായകത്തിൽ ലയിക്കുന്നു.അതിൻ്റെ  <br> തന്മാത്രരീതിയിലാണ് കാണപ്പെടുന്നത്,"
+"എന്തന്നാൽ<br>പ്രകാശം കടന്നുപോകുമ്പോൾ ചെറിയ<br>പദാർത്ഥങ്ങൾ ചിതറിക്കിടക്കുന്നില്ല."
+
+#: ../js/simcontrols.js:26
+msgid ""
+"The size of the particles in a suspension is of the order <br>of 10<sup>-5</sup> cm or larger."
+"Because of the large size of the <br>particles, suspensions do not show Tyndall effect."
+msgstr ""
+"തങ്ങിനിൽക്കുന്ന കണങ്ങളുടെ<br>വലിപ്പം പത്തോ</br>അഞ്ചോ സെ.മി. ആണ്.എന്തന്നാൽ വലിപ്പംകൂടിയ കണങ്ങളെ<br>ടിൻഡാൾ പ്രഭാവം "
+"കാണിക്കുന്നില്ല."
+
+#: ../js/simcontrols.js:26
+msgid ""
+"When a strong beam of light is passed through a colloidal solution <br>the light is scattered by "
+"the particles of the colloid. Thus the <br>path of light is clearly visible in the colloid."
+msgstr ""
+"ഒരു കൊളോയ്ഡൽ ലായനിയിലൂടെ ശക്തിയേറിയ പ്രകാശ  <br> രശ്മി കടക്കുമ്പോൾ, കൊളോയ്ഡിൻ്റെ കണങ്ങളിലേക്ക്<br> പ്രകാശം "
+"വിതറുന്നു.അങ്ങനെ കൊളോയ്ഡിൽ പ്രകാശത്തിൻ്റെ<br>പാത വൃക്തമായി കാണുന്നു."
+
+#: ../js/simcontrols.js:45
+msgid "h"
+msgstr "h"
+
+#: ../js/simcontrols.js:45
+msgid "min"
+msgstr "min"
+
+#: ../js/simcontrols.js:45
+msgid "sec"
+msgstr "sec"
+
+#: ../js/simcontrols.js:46
+msgid "START"
+msgstr "ആരംഭിക്കുക"
+
+#: ../js/simcontrols.js:46
+msgid "STOP"
+msgstr "നിൽക്കുക"
+
+#: ../js/simcontrols.js:48
+msgid "Sugar"
+msgstr "പഞ്ചസാര"
+
+#: ../js/simcontrols.js:48
+msgid "Salt"
+msgstr "ഉപ്പ്"
+
+#: ../js/simcontrols.js:48
+msgid "Alum"
+msgstr "ആലം"
+
+#: ../js/simcontrols.js:49
+msgid "Soil"
+msgstr "മണ്ണ്"
+
+#: ../js/simcontrols.js:49
+msgid "Chalk"
+msgstr "ചോക്ക്"
+
+#: ../js/simcontrols.js:49
+msgid "Sand"
+msgstr "മണൽ"
+
+#: ../js/simcontrols.js:50
+msgid "Starch"
+msgstr "സ്റ്റാർച്ച്"
+
+#: ../js/simcontrols.js:50
+msgid "Egg Albumin"
+msgstr "മുട്ടയുടെ വെള്ള"

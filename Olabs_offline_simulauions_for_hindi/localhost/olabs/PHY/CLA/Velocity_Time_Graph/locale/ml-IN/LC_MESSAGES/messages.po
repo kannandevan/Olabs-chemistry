@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-13 12:30+0530\n"
+"PO-Revision-Date: 2025-10-13 12:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: QuestionExecutePackage.js\n"
+"X-Poedit-SearchPath-1: simcontrols.js\n"
+
+#: QuestionExecutePackage.js:23
+msgid "Level "
+msgstr "നില "
+
+#: QuestionExecutePackage.js:27 QuestionExecutePackage.js:132 QuestionExecutePackage.js:176
+#: QuestionExecutePackage.js:223 QuestionExecutePackage.js:261
+msgid "Score "
+msgstr "സ്കോർ "
+
+#: QuestionExecutePackage.js:146
+msgid "2. The change in velocity over change in time is referred to as"
+msgstr "2. സമയത്തിലെ മാറ്റത്തോടനുബന്ധിച്ചുള്ള വേഗത്തിലെ മാറ്റം അറിയപ്പെടുന്നത്"
+
+#: QuestionExecutePackage.js:146
+msgid "Jerk"
+msgstr "തടിക്കുക"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:401
+msgid "Displacement"
+msgstr "സ്ഥലമാറ്റം"
+
+#: QuestionExecutePackage.js:146 simcontrols.js:401
+msgid "Acceleration"
+msgstr "ത്വരണം"
+
+#: QuestionExecutePackage.js:192
+msgid "4. The area under velocity - time graph gives"
+msgstr "4. വേഗത-സമയ ഗ്രാഫിന്റെ കീഴിലുള്ള വിസ്തീർണം നൽകുന്നത്"
+
+#: QuestionExecutePackage.js:192
+msgid "Rate of change of velocity with time"
+msgstr "സമയത്തോടൊപ്പം വേഗത്തിലെ മാറ്റത്തിന്റെ നിരക്ക്"
+
+#: QuestionExecutePackage.js:192
+msgid "Magnitude of displacement"
+msgstr "സ്ഥലമാറ്റത്തിന്റെ അളവ്"
+
+#: QuestionExecutePackage.js:192
+msgid "Speed of the object"
+msgstr "വസ്തുവിന്റെ വേഗം"
+
+#: simcontrols.js:19
+msgid "Velocity-Time(v - t)Graph"
+msgstr "വേഗത-സമയ (v - t) ഗ്രാഫ്"
+
+#: simcontrols.js:23
+msgid "Click on Show Axis"
+msgstr "അക്ഷങ്ങൾ കാണിക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23 simcontrols.js:37
+msgid "Select axis"
+msgstr "അക്ഷം തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:23
+msgid "Select the values"
+msgstr "മൂല്യങ്ങൾ തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:23
+msgid "Click to draw line"
+msgstr "രേഖ വരയ്ക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23
+msgid "Click to Show Co-ordinates"
+msgstr "കോ-ഓർഡിനേറ്റുകൾ കാണിക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23
+msgid "Click on Show Calculation<br>after Selecting correct<br>answer"
+msgstr "ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുന്നതിന് ശേഷം<br>ഗണിതം കാണിക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23
+msgid "Click on Hide Calculation after <br> Selecting correct answer"
+msgstr "ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുന്നതിന് ശേഷം<br>ഗണിതം മറയ്ക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23
+msgid "Click to Show Distance"
+msgstr "ദൂരം കാണിക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:23
+msgid "Click to Hide Distance"
+msgstr "ദൂരം മറയ്ക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:24
+msgid "Select Time and Velocity"
+msgstr "സമയംയും വേഗതയും തിരഞ്ഞെടുക്കുക"
+
+#: simcontrols.js:25
+msgid "Time in x-axis and velocity in y-axis "
+msgstr "x-അക്ഷത്തിൽ സമയം, y-അക്ഷത്തിൽ വേഗത "
+
+#: simcontrols.js:25
+msgid "Velocity in x-axis and time in y-axis"
+msgstr "x-അക്ഷത്തിൽ വേഗത, y-അക്ഷത്തിൽ സമയം"
+
+#: simcontrols.js:26
+msgid ""
+"The velocity-time graph for the motion of the car in the <br> data is a straight line. "
+"This indicates that the car is moving<br> with a uniform acceleration.<br>The "
+"acceleration of the moving car (from the graph) = 2ms<sup>-2</sup><br>It is observed that "
+"the distance travelled by the car in<br> a given time intervals but at different "
+"instances are different.<br> This shows that the car is in accelerated motion."
+msgstr ""
+"<br> നൽകിയിരിക്കുന്ന ഡാറ്റയിലെ കാർയുടെ ചലനത്തിന്‍റെ വേഗത-സമയ ഗ്രാഫ് ഒരു നേരെരേഖയാണ്.<br> ഇത് കാർ ഒരു "
+"ഏകതാന ത്വരണത്തോടെ നീങ്ങുന്നതാണ് എന്ന് കാണിക്കുന്നു.<br>ഗ്രാഫ് പ്രകാരം കാർയുടെ ത്വരണം = 2ms<sup>-2</"
+"sup><br>കാർ സമാനമായ സമയം കൊണ്ട് യാത്ര ചെയ്ത ദൂരം വ്യത്യസ്ത സമയങ്ങളിൽ വ്യത്യസ്തമാണെന്ന് കാണാം.<br> ഇത് "
+"കാർ ത്വരണചലനത്തിലാണ് എന്ന് കാണിക്കുന്നു."
+
+#: simcontrols.js:29
+msgid "Click on Inference button"
+msgstr "നിഗമന ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:30
+msgid "Click on Reset button<br> to do the experiment again"
+msgstr "പരീക്ഷണം വീണ്ടും ചെയ്യാൻ<br> റീസെറ്റ് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:31
+msgid "Time(s)"
+msgstr "സമയം (സെ.)"
+
+#: simcontrols.js:31
+msgid "Velocity(m/s)"
+msgstr "വേഗത (മീ/സെ)"
+
+#: simcontrols.js:34
+msgid "<b>Time(s)</b>"
+msgstr "<b>സമയം (സെ.)</b>"
+
+#: simcontrols.js:35
+msgid "<b>Velocity(m/s)</b>"
+msgstr "<b>വേഗത (മീ/സെ)</b>"
+
+#: simcontrols.js:36
+msgid "Show Scale"
+msgstr "അളവുകോൽ കാണിക്കുക"
+
+#: simcontrols.js:38
+msgid "Sl.No"
+msgstr "അ.ന."
+
+#: simcontrols.js:39
+msgid "Time,t(s)"
+msgstr "സമയം, t(സെ.)"
+
+#: simcontrols.js:40
+msgid "Velocity,v(m/s)"
+msgstr "വേഗത, v(മീ/സെ)"
+
+#: simcontrols.js:41
+msgid "Join Points"
+msgstr "ബിന്ദുക്കൾ ചേർക്കുക"
+
+#: simcontrols.js:42
+msgid "Show Co-ordinates"
+msgstr "കോ-ഓർഡിനേറ്റുകൾ കാണിക്കുക"
+
+#: simcontrols.js:43
+msgid "Show Calculation"
+msgstr "കണക്കുകൂട്ടൽ കാണിക്കുക"
+
+#: simcontrols.js:44
+msgid "Hide Calculation"
+msgstr "കണക്കുകൂട്ടൽ മറയ്ക്കുക"
+
+#: simcontrols.js:45
+msgid "Show Distance"
+msgstr "ദൂരം കാണിക്കുക"
+
+#: simcontrols.js:46
+msgid "Hide Distance"
+msgstr "ദൂരം മറയ്ക്കുക"
+
+#: simcontrols.js:47
+msgid "Reset"
+msgstr "റീസെറ്റ്"
+
+#: simcontrols.js:401
+msgid "3. The product of velocity and time is"
+msgstr "3. വേഗതയും സമയവും ഗുണിച്ച ഫലം"
+
+#: simcontrols.js:401
+msgid "Power"
+msgstr "ശക്തി"
+
+#: simcontrols.js:586
+msgid ""
+"1. Identify the quantity defined as the ratio of the vertical change (change in y-axis) "
+"between two points on the graph, to the horizontal change (change in x-axis) between the "
+"same two points?"
+msgstr ""
+"<empty class="pxdot8">1. ഗ്രാഫിലെ രണ്ട് ബിന്ദുക്കളുടെ ഇടയിലെ ഉയർച്ചയിലെ മാറ്റം (y-അക്ഷത്തിലെ മാറ്റം) അഥവാ വീതി (x-അക്ഷത്തിലെ "
+"മാറ്റം) തമ്മിലുള്ള അനുപാതം എന്ന രീതിയിൽ നിർവചിക്കപ്പെടുന്ന ഭൗതിക അളവിനെ തിരിച്ചറിയുക?</empty>"
+
+#: simcontrols.js:586
+msgid "Slope"
+msgstr "ചരിവ്"
+
+#: simcontrols.js:586
+msgid "Curvature"
+msgstr "വളവ്"
+
+#: simcontrols.js:586
+msgid "Tangent"
+msgstr "സ്പർശരേഖ"
+
+#: simcontrols.js:48
+msgid "Show Axis"
+msgstr "അക്സിസ് കാണിക്കുക"

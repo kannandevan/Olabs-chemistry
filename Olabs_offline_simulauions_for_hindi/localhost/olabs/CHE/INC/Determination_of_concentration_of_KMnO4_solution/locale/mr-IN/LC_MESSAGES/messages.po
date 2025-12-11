@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: g\n"
+"POT-Creation-Date: 2013-10-01 09:47+0530\n"
+"PO-Revision-Date: 2016-03-23 11:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: g <g>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:4
+msgid "Determination of Concentration/Molarity of KMnO<sub>4</sub> solution"
+msgstr "KMnO4 द्रावणाची संहत तीव्रता/ग्राम रेणुकता निर्धारित करणे"
+
+#: simcontrols.js:5
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:6
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:7
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:8
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols.js:9
+msgid "Drops rate:"
+msgstr "थेंबांचा दर:"
+
+#: simcontrols.js:9
+msgid "Titrate:"
+msgstr "विश्लेष्य:"
+
+#: simcontrols.js:9
+msgid "Molarity of titrate, M1: "
+msgstr "विश्लेष्य ची ग्राम रेणुकता, एम१:"
+
+#: simcontrols.js:9
+msgid "Volume of titrate, V1:"
+msgstr "विश्लेष्यचे आकारमान, वी१ :"
+
+#: simcontrols.js:9
+msgid "Result"
+msgstr "निकाल"
+
+#: simcontrols.js:9
+msgid "Molarity of titrant, a "
+msgstr "अनुमापकाची ग्राम रेणुकता, ए"
+
+#: simcontrols.js:9
+msgid "No of moles of titrant, n2"
+msgstr "अनुमापकाच्या मोलची संख्या, एन२"
+
+#: simcontrols.js:9
+msgid "No of moles of titrate, n1"
+msgstr "विश्लेष्याच्या मोलची संख्या, एन१"
+
+#: simcontrols.js:9
+msgid "Molar mass of titrant, b"
+msgstr "अनुमापकाचे मोलर वस्तुमान, बी"
+
+#: simcontrols.js:9
+msgid "Strength of given titrant, [a xb]"
+msgstr "दिलेल्या अनुमापकाची शक्ती, [ए x बी]"
+
+#: simcontrols.js:9
+msgid "Show volume of titrant, V2"
+msgstr "अनुमापकाचे आकारमान, वी२"
+
+#: simcontrols.js:9
+msgid "Temperature: "
+msgstr "तापमान:"
+
+#: simcontrols.js:10
+msgid "Mohr<sup>&#39;</sup>s salt"
+msgstr "मोहर क्षार"
+
+#: simcontrols.js:10
+msgid "Oxalic acid"
+msgstr "ऑक्सेलिक आम्ल"
+
+#: simcontrols.js:11
+msgid "Start"
+msgstr "सुरु करा"
+
+#: simcontrols.js:11
+msgid "Stop"
+msgstr "थांबा"
+
+#: simcontrols.js:12
+msgid "Correct."
+msgstr "बरोबर"
+
+#: simcontrols.js:12
+msgid "Wrong! Try Again"
+msgstr "चुकले! परत प्रयत्न करा."
+
+#: simcontrols.js:13
+msgid "Burette"
+msgstr "मोजनळी"
+
+#: simcontrols.js:13
+msgid "Titration flask"
+msgstr "उदासीनीकरण चंबू"
+
+#: simcontrols.js:13
+msgid "Clamp stand"
+msgstr "क्लांप स्टँड"
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or start button to start the titration."
+msgstr "उदासीनीकरण सुरू करण्यासाठी ‘सुरू’ बटण किंवा मोजनळीचे टोक क्लिक करा."
+
+#: simcontrols.js:13
+msgid "Click on the nozzle or stop button to stop the titration."
+msgstr "उदासीनीकरण बंद करण्यासाठी ‘बंद’ बटण किंवा मोजनळीचे टोक क्लिक करा."
+
+#: simcontrols.js:13
+msgid "Click on the reset button to reset the titration."
+msgstr "उदासीनीकरण पूर्ववत करण्यासाठी ‘पूर्ववत करा’ बटण क्लिक करा."
+
+#: simcontrols.js:13
+msgid "Burner"
+msgstr "बर्नर"
+
+#: simcontrols.js:14
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: simcontrols.js:15
+msgid "Select the titrate."
+msgstr "विश्लेषय निवडा."
+
+#: simcontrols.js:15
+msgid "Increase/decrease the drops rate."
+msgstr "थेंबांचा दर कमी/अधिक करा."
+
+#: simcontrols.js:15
+msgid "Change the molarity of the titrate."
+msgstr "विश्लेषयाची ग्राम रेणुकता बदला."
+
+#: simcontrols.js:15
+msgid "Change the volume of the titrate."
+msgstr "विश्लेषयाचे आकारमान बदला."
+
+#: simcontrols.js:15
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask "
+"containing </br> Mohr<sup>&#39;</sup>s salt."
+msgstr "परीक्षा नळी ओढा आणि मोहर क्षार असलेल्या शंक्वाकृती चंबूत सल्फ्युरिक आम्ल ओता."
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it below the burette."
+msgstr "शंक्वाकृती चंबू ओढा आणि मोजनळीच्या खाली ठेवा."
+
+#: simcontrols.js:15
+msgid "Click on the nozzle or  </br> start button to start the titration."
+msgstr "उदासीनीकरण सुरू करण्यासाठी ‘सुरू’ बटण किंवा मोजनळीचे टोक क्लिक करा."
+
+#: simcontrols.js:15
+msgid "Click on the checkbox to show volume of titrant."
+msgstr "अनुमापकाचे आकारमान बघण्यासाठी चेक बॉक्स क्लिक करा."
+
+#: simcontrols.js:15
+msgid "Drag the conical flask and <br> place it above the burner."
+msgstr "शंक्वाकृती चंबू ओढा आणि बर्नरवर ठेवा."
+
+#: simcontrols.js:15
+msgid "Click on the burner <br> knob to start heating."
+msgstr "गरम करण्यासाठी बर्नर चे बटण क्लिक करा."
+
+#: simcontrols.js:15
+msgid ""
+"Drag the test tube and </br> pour the  Sulphuric acid into </br> the conical flask "
+"containing </br> Oxalic acid."
+msgstr "परीक्षा नळी ओढा आणि ऑक्सेलिक आम्ल असलेल्या शंक्वाकृती चंबूत सल्फ्युरिक आम्ल ओता."

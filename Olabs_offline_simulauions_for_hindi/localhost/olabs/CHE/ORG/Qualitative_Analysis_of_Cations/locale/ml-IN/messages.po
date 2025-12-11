@@ -1,0 +1,1709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2015-03-21 10:46+0530\n"
+"PO-Revision-Date: 2016-06-15 16:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols_main.js:81
+msgid "Qualitative Analysis of Cations"
+msgstr "ലവണത്തിന്റെ ഗുണപരമായ വിശകലനം"
+
+#: simcontrols_main.js:82
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols_main.js:83
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: simcontrols_main.js:84
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols_main.js:85
+msgid "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+msgstr "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT"
+
+#: simcontrols_main.js:101
+msgid "Salt solution"
+msgstr "ലവണ ലായനി"
+
+#: simcontrols_main.js:104
+msgid "Colour test"
+msgstr "നിറ പരിശോധന"
+
+#: simcontrols_main.js:104
+msgid "Smell test"
+msgstr "ഗന്ധ പരിശോധന"
+
+#: simcontrols_main.js:104
+msgid "Dry heating test"
+msgstr "ഡ്രൈ ഹീറ്റിംഗ് പരിശോധന"
+
+#: simcontrols_main.js:104
+msgid "Charcoal cavity test"
+msgstr "ചാർക്കോള്‍ കാവിറ്റി പരിശോധന"
+
+#: simcontrols_main.js:104
+msgid "Cobalt nitrate test"
+msgstr "കോബാൾട്ട് നൈട്രേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:104 simcontrols_main.js:119 simcontrols_main.js:120 simcontrols_main.js:121
+msgid "Flame test"
+msgstr "ജ്വാലാ പരിശോധന"
+
+#: simcontrols_main.js:104 simcontrols_main.js:118
+msgid "Borax bead test"
+msgstr "ബൊറാക്സ് ബീഡ് പരിശോധന"
+
+#: simcontrols_main.js:106 simcontrols_main.js:110 simcontrols_main.js:111
+msgid "--Select--"
+msgstr "--തെരഞ്ഞെടുക്കുക--"
+
+#: simcontrols_main.js:106
+msgid "Group zero"
+msgstr "ഗ്രൂപ്പ് സീറോ"
+
+#: simcontrols_main.js:106
+msgid "Group I"
+msgstr "ഗ്രൂപ്പ് I"
+
+#: simcontrols_main.js:106
+msgid "Group II"
+msgstr "ഗ്രൂപ്പ് II"
+
+#: simcontrols_main.js:106
+msgid "Group III"
+msgstr "ഗ്രൂപ്പ് III"
+
+#: simcontrols_main.js:106
+msgid "Group IV"
+msgstr "ഗ്രൂപ്പ് IV"
+
+#: simcontrols_main.js:106
+msgid "Group V"
+msgstr "ഗ്രൂപ്പ് V"
+
+#: simcontrols_main.js:106
+msgid "Group VI"
+msgstr "ഗ്രൂപ്പ് VI"
+
+#: simcontrols_main.js:108
+msgid "Select preliminary test:"
+msgstr "പ്രാഥമിക പരിശോധന തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:108
+msgid "Select group analysis:"
+msgstr "ഗ്രൂപ്പ് വിശകലനം തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:108
+msgid "Select the cation:"
+msgstr "കാറ്റയോണ്‍ തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111 simcontrols_main.js:276 simcontrols_main.js:282 simcontrols_main.js:296 simcontrols_main.js:306 simcontrols_main.js:320
+msgid "Ammonium"
+msgstr "അമോണിയം"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Lead(II)"
+msgstr "ലെഡ്(II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Copper(II)"
+msgstr "കോപ്പര്‍(II)"
+
+#: simcontrols_main.js:110
+msgid "Arsenic"
+msgstr "ആഴ്സെനിക്"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Iron(III)"
+msgstr "അയണ്‍(III)"
+
+#: simcontrols_main.js:110
+msgid "Aluminum"
+msgstr "അലൂമിനിയം"
+
+#: simcontrols_main.js:110
+msgid "Cobalt"
+msgstr "കോബാൾട്ട്"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Nickel(ll)"
+msgstr "നിക്കല്‍(ll)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Manganese(II)"
+msgstr "മാംഗനീസ്(II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Zinc (II)"
+msgstr "സിങ്ക് (II)"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Barium"
+msgstr "ബേറിയം"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Strontium"
+msgstr "സ്ട്രോൻഷ്യം"
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Calcium"
+msgstr "കാൽസ്യം "
+
+#: simcontrols_main.js:110 simcontrols_main.js:111
+msgid "Magnesium"
+msgstr "മഗ്നീഷ്യം"
+
+#: simcontrols_main.js:111
+msgid "Arsenic (III)"
+msgstr "ആഴ്സെനിക് (III)"
+
+#: simcontrols_main.js:111
+msgid "Aluminum (III)"
+msgstr "അലൂമിനിയം (III)"
+
+#: simcontrols_main.js:111
+msgid "Cobalt (II)"
+msgstr "കോബാൾട്ട്(II)"
+
+#: simcontrols_main.js:112
+msgid "Select the confirmatory test:"
+msgstr "സ്ഥിരീകരണ പരിശോധന തെരഞ്ഞെടുക്കുക:"
+
+#: simcontrols_main.js:114
+msgid "Sodium Hydroxide test"
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈഡ് പരിശോധന"
+
+#: simcontrols_main.js:114
+msgid "Nessler's Reagent test"
+msgstr "നെസ്ലര്‍ റീയേജന്റ്  പരിശോധന"
+
+#: simcontrols_main.js:115
+msgid "Cool the solution"
+msgstr "ലായനി തണുപ്പിക്കുക"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:180
+msgid "Potassium iodide test"
+msgstr "പൊട്ടാസ്യം അയോഡൈഡ് പരിശോധന"
+
+#: simcontrols_main.js:115 simcontrols_main.js:116 simcontrols_main.js:119 simcontrols_main.js:183
+msgid "Potassium chromate test"
+msgstr "പൊട്ടാസ്യം ക്രോമേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:116 simcontrols_main.js:117 simcontrols_main.js:118 simcontrols_main.js:191
+msgid "Potassium ferrocyanide test"
+msgstr "പൊട്ടാസ്യം ഫെറോസയനൈഡ് പരിശോധന"
+
+#: simcontrols_main.js:116
+msgid "Ammonium molybdate test"
+msgstr "അമോണിയം മോളിബ്ഡേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:116
+msgid "Magnesia mixture test"
+msgstr "മഗ്നീഷ്യ മിശ്രിത പരിശോധന"
+
+#: simcontrols_main.js:117
+msgid "Potassium sulphocyanide test"
+msgstr "പൊട്ടാസ്യം സൾഫോസയനൈഡ് പരിശോധന"
+
+#: simcontrols_main.js:117
+msgid "Lake test"
+msgstr "ലേക്ക് പരിശോധന"
+
+#: simcontrols_main.js:117
+msgid "Cobalt nitrate/Charcoal cavity test"
+msgstr "കോബാൾട്ട് നൈട്രേറ്റ്/ചാർക്കോള്‍ കാവിറ്റി പരിശോധന"
+
+#: simcontrols_main.js:118
+msgid "Potassium nitrite test"
+msgstr "പൊട്ടാസ്യം നൈട്രൈറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:118
+msgid "Ammonium thiocyanate ether test"
+msgstr "അമോണിയം തയോസയനൈഡ് ഈഥര്‍ പരിശോധന"
+
+#: simcontrols_main.js:118
+msgid "Dimethyl glyoxime test"
+msgstr "ഡൈമീഥൈല്‍ ഗ്ലിയോക്സൈം പരിശോധന"
+
+#: simcontrols_main.js:118
+msgid "Sodium hydroxide-Br"
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈ്ഡ്-Br"
+
+#: simcontrols_main.js:118
+msgid "test"
+msgstr "പരിശോധന"
+
+#: simcontrols_main.js:118
+msgid "Lead peroxide test"
+msgstr "ലെഡ് പെറോക്സൈഡ് പരിശോധന"
+
+#: simcontrols_main.js:118 simcontrols_main.js:161
+msgid "Sodium hydroxide test"
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈഡ് പരിശോധന "
+
+#: simcontrols_main.js:118
+msgid "Charcoal cavity /Cobalt nitrate test"
+msgstr "ചാർക്കോള്‍ കാവിറ്റി/കോബാൾട്ട് നൈട്രേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:120
+msgid "Ammonium sulphate test"
+msgstr "അമോണിയം സൾഫേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:121
+msgid "Ammonium oxalate test"
+msgstr "അമോണിയം ഓക്സലേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:122
+msgid "Ammonium Phosphate test"
+msgstr "അമോണിയം ഫോസ്ഫേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:122
+msgid "Charcoal cavity/Cobalt nitrate test"
+msgstr "ചാർക്കോള്‍ കാവിറ്റി/കോബാൾട്ട് നൈട്രേറ്റ് പരിശോധന"
+
+#: simcontrols_main.js:130
+msgid "Reset"
+msgstr "റീസെറ്റ് "
+
+#: simcontrols_main.js:140
+msgid "May be "
+msgstr "ആയിരിക്കാം"
+
+#: simcontrols_main.js:141
+msgid " is present."
+msgstr "സാന്നിധ്യം"
+
+#: simcontrols_main.js:142 simcontrols_main.js:146
+msgid "NH<sub>4</sub><sup>+</sup>"
+msgstr "NH<sub>4</sub><sup>+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151 simcontrols_main.js:156
+msgid "Pb<sup>2+</sup>"
+msgstr "Pb<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Cu<sup>2+</sup>"
+msgstr "Cu<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "As<sup>3+</sup>"
+msgstr "As<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Fe<sup>3+</sup>"
+msgstr "Fe<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Al<sup>3+</sup>"
+msgstr "Al<sup>3+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Co<sup>2+</sup>"
+msgstr "Co<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Ni<sup>2+</sup>"
+msgstr "Ni<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mn<sup>2+</sup>"
+msgstr "Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:151
+msgid "Zn<sup>2+</sup>"
+msgstr "Zn<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ba<sup>2+</sup>"
+msgstr "Ba<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Sr<sup>2+</sup>"
+msgstr "Sr<sup>2+</sup>"
+
+#: simcontrols_main.js:142 simcontrols_main.js:156
+msgid "Ca<sup>2+</sup>"
+msgstr "Ca<sup>2+</sup>"
+
+#: simcontrols_main.js:142
+msgid "Mg<sup>2+</sup>"
+msgstr "Mg<sup>2+</sup>"
+
+#: simcontrols_main.js:144
+msgid "Note down the color of original salt."
+msgstr "യഥാർത്ഥ  ലവണത്തിന്റെ നിറം രേഖപ്പെടുത്തുക."
+
+#: simcontrols_main.js:146 simcontrols_main.js:151
+msgid "Ammonical smell"
+msgstr "അമോണിക്കല്‍ ഗന്ധം"
+
+#: simcontrols_main.js:146
+msgid "There is no smell."
+msgstr "ഗന്ധമില്ല"
+
+#: simcontrols_main.js:147 simcontrols_main.js:150 simcontrols_main.js:162 simcontrols_main.js:166
+msgid "Original salt"
+msgstr "യഥാർത്ഥ  ലവണം"
+
+#: simcontrols_main.js:147 simcontrols_main.js:177 simcontrols_main.js:186 simcontrols_main.js:201
+msgid "Water"
+msgstr "ജലം"
+
+#: simcontrols_main.js:147
+msgid "Hand"
+msgstr "കൈ"
+
+#: simcontrols_main.js:148
+msgid "Drag the original salt towards the watch glass<br>to put it into the watch glass."
+msgstr "യഥാർത്ഥ ലവണം വാച്ച് ഗ്ലാസില്‍ ഇടാനായി വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:148
+msgid "Drag the dropper towards the watch glass<br>to drop water into the sample."
+msgstr "ജലം സാമ്പിളില്‍ ഒഴിക്കാനായി ഡ്രോപ്പര്‍ വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:148
+msgid "Drag the hand towards the watch glass<br>to rub the pre-wetted salt with the fingers."
+msgstr "നനച്ചുവെച്ച ലവണം വിരലുകൾ കൊണ്ട് തിരുമ്മി നോക്കാനായി കൈ വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:150 simcontrols_main.js:156
+msgid "There is no characteristic changes."
+msgstr "സവിശേഷ മാറ്റങ്ങളൊന്നുമില്ല."
+
+#: simcontrols_main.js:150
+msgid "There is no characteristic changes and try another test."
+msgstr "സവിശേഷ മാറ്റങ്ങളൊന്നുമില്ലാത്തതിനാല്‍ മറ്റൊരു പരിശോധന ചെയ്തു നോക്കുക."
+
+#: simcontrols_main.js:151
+msgid "due to the presence of Co<sup>2+</sup> or Cu<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr "Co<sup>2+</sup> or Cu<sup>2+</sup> or Mn<sup>2+</sup>ന്റെ  സാന്നിധ്യം കാരണം."
+
+#: simcontrols_main.js:151
+msgid "due to the presence of Ba<sup>2+</sup> or Ca<sup>2+</sup> or Sr<sup>2+</sup> or Mg<sup>2+</sup> or Al<sup>2+</sup>"
+msgstr "Ba<sup>2+</sup> or Ca<sup>2+</sup> ന്റെനയോ r Sr<sup>2+</sup> ന്റെരയോ Mg<sup>2+</sup> or Al<sup>2+</sup> സാന്നിധ്യം കാരണം."
+
+#: simcontrols_main.js:152
+msgid "Drag the original salt towards the test tube<br>to put it into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ഇടാനായി യഥാർത്ഥ ലവണം ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:152
+msgid "Click on the knob of the burner to turn it on<br>and observe the characteristic changes."
+msgstr "ബർണര്‍ ഓണ്‍ ചെയ്യാന്‍ അതിന്റെ നോബ് ക്ലിക്ക് ചെയ്യുകയും സവിശേഷ മാറ്റങ്ങള്‍ നിരീക്ഷിക്കുകയും ചെയ്യുക."
+
+#: simcontrols_main.js:154
+msgid "Drag the original salt towards the watch glass<br> to put it into the watch glass."
+msgstr "യഥാർത്ഥ ലവണം വാച്ച് ഗ്ലാസില്‍ ഇടാന്‍ അത് വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:154
+msgid "Drag the dropper towards the watch glass to pour<br> concentrated Hydrochloric acid into the sample."
+msgstr "ഗാഢ ഹൈഡ്രോക്ലോറിക് അമ്ലം സാമ്പിളില്‍ ചേർക്കാന്‍ ഡ്രോപ്പര്‍ വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:154
+msgid "Drag the glass rod towards the watch glass<br> and mix the contents well to make a paste."
+msgstr "വാച്ച് ഗ്ലാസിലെ മിശ്രിതം ഒരു പേസ്റ്റ്  രൂപത്തിലാക്കാന്‍ ഗ്ലാസ് റോഡ് വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:154 simcontrols_main.js:164 simcontrols_main.js:168 simcontrols_main.js:178 simcontrols_main.js:187 simcontrols_main.js:202 simcontrols_main.js:249 simcontrols_main.js:280
+#: simcontrols_main.js:304 simcontrols_main.js:309 simcontrols_main.js:313
+msgid "Click on the knob of the burner to turn it on."
+msgstr "ബർണര്‍ ഓണ്‍ ചെയ്യാന്‍ അതിന്റെ നോബ് ക്ലിക് ചെയ്യുക."
+
+#: simcontrols_main.js:154
+msgid "Drag the platinum wire towards watch glass and dip it into<br>the paste and drag it again towards the Bunsen burner<br>and introduce it into the non-luminous flame."
+msgstr "പേസ്റ്റില്‍ മുക്കാനായി പ്ലാറ്റിനം കമ്പി വാച്ച്  ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക; തിളക്കമില്ലാത്ത ജ്വാലയില്‍ കാണിക്കാനായി അത് വീണ്ടും ബുൻസന്‍ ബർണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:155
+msgid "Sample salt"
+msgstr "സാമ്പിള്‍ ലവണം"
+
+#: simcontrols_main.js:155
+msgid "Conc. HCl"
+msgstr "ഗാഢ HCl"
+
+#: simcontrols_main.js:155 simcontrols_main.js:166 simcontrols_main.js:201 simcontrols_main.js:296
+msgid "Glass rod"
+msgstr "ഗ്ലാസ് റോഡ്"
+
+#: simcontrols_main.js:155 simcontrols_main.js:224
+msgid "Platinum wire"
+msgstr "പ്ലാറ്റിനം കമ്പി"
+
+#: simcontrols_main.js:155
+msgid "Non luminous flame "
+msgstr "തിളക്കമില്ലാത്ത ജ്വാല "
+
+#: simcontrols_main.js:156
+msgid "Zn<sup>2+</sup> or Mn<sup>2+</sup>"
+msgstr "Zn<sup>2+</sup> or Mn<sup>2+</sup>"
+
+#: simcontrols_main.js:161
+msgid "Nessler's reagent test"
+msgstr "നെസ്ലര്‍ റീയേജന്റ്"
+
+#: simcontrols_main.js:162 simcontrols_main.js:166
+msgid "Con.NaOH"
+msgstr "ഗാഢ NaOH "
+
+#: simcontrols_main.js:163
+msgid "Characteristic ammoniacal smell."
+msgstr "പ്രത്യേക അമോണിക്കല്‍ ഗന്ധം."
+
+#: simcontrols_main.js:163 simcontrols_main.js:167
+msgid "There is no characteristic ammoniacal smell."
+msgstr "പ്രത്യേക അമോണിക്കല്‍ ഗന്ധമില്ല."
+
+#: simcontrols_main.js:163
+msgid "Presence of group zero cation."
+msgstr "ഗ്രൂപ്പ് സീറോ കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:163 simcontrols_main.js:167 simcontrols_main.js:171
+msgid "Absence of group zero cation."
+msgstr "ഗ്രൂപ്പ് സീറോ കാറ്റയോണിന്റെ അഭാവം."
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid "Drag the original salt towards the test tube<br>to drop it into the test tube."
+msgstr "യഥാർത്ഥ ലവണം ടെസ്റ്റ് ട്യൂബില്‍ ഇടാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:164 simcontrols_main.js:168
+msgid "Drag the dropper towards the test tube<br>to drop NaOH into the test tube."
+msgstr "NaOH ടെസ്റ്റ് ട്യൂബില്‍ ഇടാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:166 simcontrols_main.js:236 simcontrols_main.js:300
+msgid "Dil. HCl"
+msgstr "നേർത്ത HCl"
+
+#: simcontrols_main.js:167
+msgid "NH<sub>3</sub> gas is evolved"
+msgstr "NH<sub>3</sub> വാതകം ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:167
+msgid "The white fumes is due to the formation of NH<sub>4</sub>Cl.<br>Presence of NH<sub>4</sub><sup>+</sup> is confirmed."
+msgstr "H<sub>4</sub>Cl.<br>ന്റെ രൂപീകരണമാണ് വെളുത്ത ആവിയ്ക്ക് കാരണം. NH<sub>4</sub><sup>+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:167
+msgid "The white fumes is due to the formation of NH<sub>4</sub>Cl."
+msgstr "NH<sub>4</sub>Cl ന്റെ രൂപീകരണമാണ് വെളുത്ത ആവിയ്ക്ക്  കാരണം."
+
+#: simcontrols_main.js:168
+msgid "Drag the glass rod towards the bottle to<br>dip it in dil. HCl and drag it towards the test tube<br>to shown it over the mouth of the test tube."
+msgstr "ഗ്ലാസ് റോഡ് നേർത്ത HCl-ല്‍ മുക്കാന്‍ അത് ബോട്ടിലിലേക്ക് ഡ്രാഗ് ചെയ്ത് ടെസ്റ്റ് ട്യൂബിന്റെ വായ്ഭാഗത്ത് കാണിക്കാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:170
+msgid "Cork"
+msgstr "കോർക്ക് "
+
+#: simcontrols_main.js:170
+msgid "Delivery tube"
+msgstr "ഡെലിവറി ട്യൂബ്"
+
+#: simcontrols_main.js:171
+msgid "The brown percipitate is due to the formation of<br> H<sub>2</sub>N.HgO.Hgl. Presence of NH<sub>4</sub><sup>+</sup> is confirmed."
+msgstr "<br> H<sub>2</sub>N.HgO.Hgl ന്റെ രൂപീകരണമാണ് തവിട്ട് അവക്ഷിപ്തത്തിന് കാരണം. NH<sub>4</sub><sup>+</sup> ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:172
+msgid "Drag the cork towards the test tube<br>to close the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബ് അടയ്ക്കാന്‍ കോർക്ക് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols_main.js:172
+msgid "Drag the delivery tube towards the test tube<br>to insert it in the test tube."
+msgstr "ഡെലിവറി ട്യൂബ് ടെസ്റ്റ് ട്യൂബില്‍ ഇറക്കാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:174
+msgid "Group one test"
+msgstr "ഗ്രൂപ്പ് ഒന്നിന്റെ പരിശോധന"
+
+#: simcontrols_main.js:174
+msgid "Salt"
+msgstr "ലവണം"
+
+#: simcontrols_main.js:174 simcontrols_main.js:288 simcontrols_main.js:292
+msgid "solution"
+msgstr "ലായനി"
+
+#: simcontrols_main.js:174 simcontrols_main.js:300 simcontrols_main.js:306
+msgid "Next"
+msgstr "അടുത്ത"
+
+#: simcontrols_main.js:174
+msgid "The white precipitate may due to the fomationo of PbCl<sub>2</sub>.<br>Presence of group I cation"
+msgstr "PbCl<sub>2</sub>.<br> ന്റെ  രൂപീകരണം കൊണ്ടാകാം വെളുത്ത അവക്ഷിപ്തം. ഗ്രൂപ്പ് I ന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:174
+msgid "White precipitate"
+msgstr "വെളുത്ത അവക്ഷിപ്തം "
+
+#: simcontrols_main.js:174
+msgid "Centrifuged and washed ppt."
+msgstr "സെൻട്രിഫ്യൂഗ് ചെയ്ത് കഴുകിയ അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:174
+msgid "There is no white precipitate.<br>Absence of group I cation."
+msgstr "വെളുത്ത അവക്ഷിപ്തമില്ല. ഗ്രൂപ്പ് I കാറ്റയോണിന്റെ അഭാവം."
+
+#: simcontrols_main.js:174
+msgid "There is no white  ppt."
+msgstr "വെളുത്ത അവക്ഷിപ്തമില്ല."
+
+#: simcontrols_main.js:175
+msgid "Drag the dropper towards the test tube to<br>drop the salt solution into the test tube."
+msgstr "ലവണ ലായനി ടെസ്റ്റ്  ട്യൂബില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ്  ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:175
+msgid "Drag the dropper towards the test tube to<br>drop dil. HCl into the test tube and click on<br>the 'next' button to go to the next step."
+msgstr "നേർത്ത HCl ടെസ്റ്റ് ട്യൂബില്‍ ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക. അടുത്ത ഘട്ടത്തിനായി 'അടുത്ത' ബട്ടണ്‍ ക്ലിക് ചെയ്യുക. "
+
+#: simcontrols_main.js:177
+msgid "Cooling of solution"
+msgstr "ലായനി തണുപ്പിക്കല്‍"
+
+#: simcontrols_main.js:177
+msgid "Centrifuged and washed ppt. obtained from group I analysis."
+msgstr "സെൻട്രിഫ്യൂഗ് ചെയ്ത് കഴുകിയെടുത്ത അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved. Drag and drop test tube toward the beaker"
+msgstr "അവക്ഷിപ്തം ലയിച്ചു. ടെസ്റ്റ് ട്യൂബ് ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:177 simcontrols_main.js:180
+msgid "There is no characteristic changes"
+msgstr "സവിശേഷ മാറ്റങ്ങളൊന്നും ഇല്ല."
+
+#: simcontrols_main.js:177
+msgid "On cooling precipitate settle down as PbCl<sub>2</sub>.<br>Presence of Pb<sup>2+</sup> ion is confirmed."
+msgstr "തണുപ്പിച്ചപ്പോള്‍ ലഭിച്ച അവക്ഷിപ്തം PbCl<sub>2 ആണ്. </sub>.<br> Pb<sup>2+</sup> അയോണിന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:177
+msgid "Cold Water"
+msgstr "തണുത്ത ജലം"
+
+#: simcontrols_main.js:177
+msgid "White crystalline precipitate"
+msgstr "വെളുത്ത് പരൽ രൂപത്തിലുള്ള അവക്ഷിപ്തം"
+
+#: simcontrols_main.js:177
+msgid "Drag, then release test tube"
+msgstr "ടെസ്റ്റ് ട്യൂബ് ഡ്രാഗ് ചെയ്ത് പിന്നീട് റിലീസ് ചെയ്യുക."
+
+#: simcontrols_main.js:177
+msgid "Precipitate dissolved."
+msgstr "അവക്ഷിപ്തം ലയിച്ചു ചേരുന്നു."
+
+#: simcontrols_main.js:178
+msgid "Drag the dropper towards the test tube<br>to drop water into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ജലം ഒഴിക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:178
+msgid "To cool the contents of the test tube, drag<br>the test tube towards the beaker and place it in<br>the beaker containing cold water."
+msgstr "ടെസ്റ്റ് ട്യൂബിലുള്ളവ തണുപ്പിക്കാന്‍ ടെസ്റ്റ് ട്യൂബ് ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്ത് തണുത്ത ജലമുള്ള ബീക്കറില്‍ ടെസ്റ്റ് ട്യൂബ് വയ്ക്കുക."
+
+#: simcontrols_main.js:180
+msgid "KI"
+msgstr "KI"
+
+#: simcontrols_main.js:180
+msgid "Potassium Iodide"
+msgstr "പൊട്ടാസ്യം അയോഡൈഡ്"
+
+#: simcontrols_main.js:180
+msgid "Yellow precipitate"
+msgstr "മഞ്ഞ അവക്ഷിപ്തം"
+
+#: simcontrols_main.js:180
+msgid "Yellow precipitate is due to the formation of PbI<sub>2</sub>.<br>Presence of Pb<sup>2+</sup> ion."
+msgstr "PbI<sub>2</sub> ന്റെ രൂപീകരണം കൊണ്ടാണ് മഞ്ഞ അവക്ഷിപ്തം. Pb<sup>2+</sup> അയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:180
+msgid "There is no characteristic changes. Absence of Pb<sup>2+</sup> ion."
+msgstr "സവിശേഷമാറ്റങ്ങളൊന്നുമില്ല. Pb<sup>2+</sup> അയോണിന്റെ അഭാവം."
+
+#: simcontrols_main.js:181
+msgid "Drag the dropper towards the test tube to drop<br>potassium iodide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം അയോഡൈഡ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:183 simcontrols_main.js:189
+msgid "K<sub>2</sub>CrO<sub>4</sub>"
+msgstr "K<sub>2</sub>CrO<sub>4</sub>"
+
+#: simcontrols_main.js:183 simcontrols_main.js:189 simcontrols_main.js:288
+msgid "Potassium chromate"
+msgstr "പൊട്ടാസ്യം ക്രോമേറ്റ്"
+
+#: simcontrols_main.js:183
+msgid "Yellow precipitate is due to the formation of PbCrO<sub>4</sup>.<br>Presence of Pb<sup>2+</sup> ion."
+msgstr "PbCrO<sub>4</sup> യുടെ രൂപീകരണം കൊണ്ടാണ് മഞ്ഞ അവക്ഷിപ്തം. Pb<sup>2+</sup> അയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:184
+msgid "Drag the dropper towards the test tube to drop,br>potassium chromate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം ക്രോമേറ്റ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:186
+msgid "50%HNO<sub>3</sub>"
+msgstr "50% HNO<sub>3</sub>"
+
+#: simcontrols_main.js:186
+msgid "Dil. H<sub>2</sub>SO<sub>4</sub>"
+msgstr "നേർത്ത H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>5</sub>OH"
+msgstr "C<sub>2</sub>H<sub>5</sub>OH"
+
+#: simcontrols_main.js:186
+msgid "Black precipitate formed during group II test"
+msgstr "ഗ്രൂപ്പ് II പരിശോധനയില്‍ കറുത്ത അവക്ഷിപ്തം രൂപപ്പെടുന്നു."
+
+#: simcontrols_main.js:186
+msgid "Black precipitate dissolves in 50% HNO<sub>3</sub> either due to the <br>formation of Pb(NO<sub>3</sub>)<sub>2</sub> or due to the formation of Cu(NO<sub>3</sub>)<sub>2</sub>"
+msgstr "50% HNO<sub>3</sub>ല്‍ കറുത്ത അവക്ഷിപ്തം ലയിച്ചത് Pb(NO<sub>3</sub>)<sub>2</sub> ന്റെ രൂപീകരണം കൊണ്ടോ  Cu(NO<sub>3</sub>)<sub>2</sub>ന്റെ‍ രൂപീകരണം കൊണ്ടോ ആണ്."
+
+#: simcontrols_main.js:186
+msgid "On adding H<sub>2</sub>SO<sub>4</sub>, white precipitate of<br> lead sulphate, PbSO<sub>4</sub> is formed"
+msgstr "H<sub>2</sub>SO<sub>4</sub>ചേർത്തപ്പോള്‍ ലെഡ് ഫോസ്ഫേറ്റിന്റെ വെളുത്ത അവക്ഷിപ്തം രൂപപ്പെട്ടു."
+
+#: simcontrols_main.js:186
+msgid "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+msgstr "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>"
+
+#: simcontrols_main.js:186
+msgid "Ammonium acetate"
+msgstr "അമോണിയം അസെറ്റേറ്റ്"
+
+#: simcontrols_main.js:186
+msgid "Kl"
+msgstr "Kl"
+
+#: simcontrols_main.js:186
+msgid "Potassium iodide"
+msgstr "പൊട്ടാസ്യം അയോഡൈഡ്"
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate is due to the formation of<br> Lead iodide, PbI<sub>2</sub>. Presence of Pb<sup>2+</sup> is confirmed"
+msgstr "ലെഡ് അയോഡൈഡിന്റെ( PbI<sub>2</sub>) രൂപീകരണമാണ് മഞ്ഞ അവക്ഷിപ്തത്തിന് കാരണം. Pb<sup>2+</sup> ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:186
+msgid "On adding H<sub>2</sub>SO<sub>4</sub>, there is a white precipitate"
+msgstr "H<sub>2</sub>SO<sub>4</sub> ചേർത്തപ്പോള്‍ ഒരു വെളുത്ത അവക്ഷിപ്തം കാണപ്പെടുന്നു."
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate formed during group II test"
+msgstr "ഗ്രൂപ്പ് II പരിശോധനയില്‍ മഞ്ഞ അവക്ഷിപ്തം രൂപപ്പെടുന്നു."
+
+#: simcontrols_main.js:186
+msgid "Yellow precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "മഞ്ഞ അവക്ഷിപ്തം 50% HNO<sub>3</sub>ല്‍ ലയിക്കുന്നു."
+
+#: simcontrols_main.js:186
+msgid "Precipitate dissolves in 50% HNO<sub>3</sub>"
+msgstr "അവക്ഷിപ്തം 50% HNO<sub>3</sub>ല്‍ ലയിക്കുന്നു."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube<br>to drop  50% HNO3 into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ 50% HNO3 ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop dil. H<sub>2</sub>SO<sub></sub> into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നേർപ്പിച്ച H<sub>2</sub>SO<sub></sub> ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to drop<br>C2H5OH (ethyl alcohol) into the test tube."
+msgstr "ടെസ്റ്റ്  ട്യൂബില്‍ C2H5OH (ഈഥൈല്‍ ആൽക്കഹോള്‍) ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium acetate into the test tube. "
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം അസെറ്റേറ്റ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop potassium iodide into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം അയോഡൈഡ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the test tube towards the beaker to<br>place it in the beaker containing water."
+msgstr "ടെസ്റ്റ് ട്യൂബ് ബീക്കറിലെ ജലത്തില്‍ വയ്ക്കാന്‍ ഡ്രോപ്പര്‍ ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium acetate into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം അസെറ്റേറ്റ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to drop<br>potassium chromate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം ക്രോമേറ്റ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187 simcontrols_main.js:249
+msgid "Drag the dropper towards the test tube to<br>drop NaOH into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ NaOH ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop ammonium hydroxide into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ഹൈഡ്രോക്സൈഡ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187 simcontrols_main.js:269
+msgid "Drag the dropper towards the test tube to<br>drop acetic acid into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അസെറ്റിക് അമ്ലം ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:187
+msgid "Drag the dropper towards the test tube to<br>drop potassium ferrocyanide into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം ഫെറോസയനൈഡ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:189
+msgid "Sodium hydroxide"
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈഡ്"
+
+#: simcontrols_main.js:189 simcontrols_main.js:245
+msgid "NaOH"
+msgstr "NaOH"
+
+#: simcontrols_main.js:189
+msgid "Yellow precipitate is due to the formation of lead chromate.<br>Presence of Pb<sup>2+</sup> is confirmed."
+msgstr "ലെഡ് ക്രോമേറ്റിന്റെ രൂപീകരണമാണ് മഞ്ഞ അവക്ഷിപ്തത്തിന് കാരണം. Pb<sup>2+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:189
+msgid "White precipitate formed is Cu<sub>2</sub>I<sub>2</sub>. Brown colour of the solution is<br> due to the formation of iodine. Presence of Cu<sup>2+</sup> is confirmed."
+msgstr "വെളുത്ത അവക്ഷിപ്തം Cu<sub>2</sub>I<sub>2</sub> ആണ്. ലായനിയുടെ തവിട്ടുനിറത്തിന് കാരണം അയോഡിന്റെ രൂപീകരണമാണ്. Cu<sup>2+</sup> ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:191 simcontrols_main.js:253 simcontrols_main.js:282 simcontrols_main.js:306 simcontrols_main.js:320
+msgid "NH<sub>4</sub>OH"
+msgstr "NH<sub>4</sub>OH"
+
+#: simcontrols_main.js:191 simcontrols_main.js:264
+msgid "Ammonium hydroxide"
+msgstr "അമോണിയം ഹൈഡ്രോക്സൈയഡ്"
+
+#: simcontrols_main.js:191 simcontrols_main.js:265
+msgid "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+msgstr "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:266
+msgid "Acetic acid"
+msgstr "അസെറ്റിക് അമ്ലം"
+
+#: simcontrols_main.js:191
+msgid "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+msgstr "C<sub>6</sub>N<sub>6</sub>FeK<sub>4</sub>"
+
+#: simcontrols_main.js:191 simcontrols_main.js:237
+msgid "Potassium ferrocyanide"
+msgstr "പൊട്ടാസ്യം ഫെറോസയനൈഡ്"
+
+#: simcontrols_main.js:191
+msgid "The blue coloured solution of [Cu(NH<sub>3</sub>)<sub>4</sub>][NO<sub>3</sub>]<sub>2</sub> is formed by<br>the reaction betweenCu(NO<sub>3</sub>)<sub>2</sub> and NH<sub>4</sub>OH."
+msgstr "[Cu(NH<sub>3</sub>)<sub>4</sub>][NO<sub>3</sub>]<sub>2</sub> ന്റെ നീല നിറമുള്ള ലായനി രൂപംകൊണ്ടിട്ടുള്ളത് <br>Cu(NO<sub>3</sub>)<sub>2</sub> , NH<sub>4</sub>OH എന്നിവ തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തിലൂടെയാണ്."
+
+#: simcontrols_main.js:191
+msgid "The chocolate brown precipitate is due to the formation of<br>Cu<sub>2</sub>[Fe(CN)<sub>6</sub>].Presence of Cu<sup>2+</sup> is confirmed."
+msgstr "ചോക്ലേറ്റ് തവിട്ടുനിറ അവക്ഷിപ്തത്തിനു കാരണം <br>Cu<sub>2</sub>[Fe(CN)<sub>6</sub>] ന്റെ രൂപീകരണമാണ്. Cu<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:201
+msgid "Sodium carbonate"
+msgstr "സോഡിയം കാർബണേറ്റ്"
+
+#: simcontrols_main.js:201
+msgid "Charcoal box "
+msgstr "ചാർക്കോള്‍ ബോക്സ്  "
+
+#: simcontrols_main.js:201
+msgid "Blow pipe"
+msgstr "ബ്ലോ പൈപ്പ്"
+
+#: simcontrols_main.js:201
+msgid "Tongs"
+msgstr "കൊടില്‍"
+
+#: simcontrols_main.js:201
+msgid "NEXT STEP"
+msgstr "അടുത്ത പടി"
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the watch glass to add <br>sodium carbonate into the original salt."
+msgstr "യഥാർത്ഥ ലവണത്തിലേക്ക് സോഡിയം കാർബണേറ്റ് ചേർക്കാന്‍ പ്രലേപനകത്തി വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക. "
+
+#: simcontrols_main.js:202
+msgid "Drag the glass rod towards the watch glass to mix<br> the contents of the watch glass."
+msgstr "വാച്ച് ഗ്ലാസിലെ ചേരുവകള്‍ മിശ്രണം ചെയ്യാന്‍ ഗ്ലാസ് റോഡ് വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the charcoal box near the watch glass <br>to place it in the canvas area."
+msgstr "ചാർക്കോള്‍ ബോക്സ് ക്യാൻവാസ് ഏരിയയില്‍ വയ്ക്കാന്‍ അത് വാച്ച് ഗ്ലാസിനരികിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the watch glass to take the mixture."
+msgstr "മിശ്രിതം എടുക്കാന്‍ പ്രലേപനകത്തി വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the spatula towards the charcoal box <br>to put the mixture in the cavity."
+msgstr "മിശ്രിതം കാവിറ്റിയില്‍ ഇടാന്‍ പ്രലേപനകത്തി ചാർക്കോള്‍ ബോക്സിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the bottle towards the charcoal box to <br>add water into the mixture."
+msgstr "മിശ്രിതത്തില്‍ ജലമൊഴിക്കാന്‍ കുപ്പി ചാർക്കോള്‍ ബോക്സിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Click on the air adjusting disc to close<br> the air hole to get the reducing flame."
+msgstr "വായു ക്രമീകരണ ഡിസ്ക് അടച്ച് നാളം ചെറുതാക്കാന്‍ ഡിസ്ക്കിന്മേല്‍ ക്ലിക് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the charcoal box to hold the box."
+msgstr "ചാർക്കോള്‍ ബോക്സ് പിടിക്കാന്‍ ചവണ ബോക്സിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the burner  to place <br>the charcoal box near the flame."
+msgstr "ചാർക്കോള്‍ ബോക്സ് ജ്വാലക്ക് അടുത്തുവയ്ക്കാന്‍ ചവണ ബർണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the blow pipe towards the burner to direct <br>the reducing flame and heat the mixture."
+msgstr "ചെറുതാക്കിയ ജ്വാലയും ചൂടും മിശ്രിതത്തിന്റെ ദിശയിലേക്ക് തിരിച്ചുവിടാന്‍ ബ്ലോ പൈപ്പ് ബർണറിനു നേരെ ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:202
+msgid "Drag the tongs towards the watch glass to place back <br>the charcoal box to cool the residue."
+msgstr "തണുക്കുന്നതിനായി ചാർക്കോള്‍ ബോക്സ് തിരിച്ചുവയ്ക്കുന്നതിന് ചവണ വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:203
+msgid "Oxidising flame."
+msgstr "ഓക്സീകരണ ജ്വാല "
+
+#: simcontrols_main.js:204
+msgid "Reducing flame."
+msgstr "നിരോക്സീ‍കരണ ജ്വാല"
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ മഞ്ഞ അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "White residue formed on cooling."
+msgstr "തണുപ്പിക്കുമ്പോള്‍ വെളുത്ത അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "Brown residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ തവിട്ട് അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "Yellow residue formed on cooling."
+msgstr "തണുപ്പിക്കുമ്പോള്‍ മഞ്ഞ അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "White residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ വെളുത്ത അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "Green residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ പച്ച അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "Pink residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ പിങ്ക് അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:205
+msgid "Blue residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ നീല അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:206
+msgid "Light blue residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ നീല അവശിഷ്ടം രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:207
+msgid "May be Zn<sup>2+</sup> is present."
+msgstr "Zn<sup>2+</sup> ന്റെ  സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:208
+msgid "May be Pb<sup>2+</sup> is present."
+msgstr "Pb<sup>2+</sup> ന്റെ  സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:209
+msgid "May be due to the presence of Ba<sup>2+</sup> or <br> Ca<sup>2+</sup> or Mg<sup>2+</sup>."
+msgstr "Ba<sup>2+</sup>ന്റെയോ  Ca<sup>2+</sup> ന്റെ‍യോ Mg<sup>2+</sup>ന്റെയോ സാന്നിധ്യം കൊണ്ടാകാം."
+
+#: simcontrols_main.js:210
+msgid "White residue with the odour of garlic formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ വെളുത്തുള്ളിയുടെ ഗന്ധമുള്ള അവശിഷ്ടം ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:211
+msgid "Red residue formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ ചുവപ്പ് അവശിഷ്ടം ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:212
+msgid "White residue formed on cooling.May be As<sup>3+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ വെളുത്ത അവശിഷ്ടമുണ്ടാകുന്നു. As<sup>3+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:213
+msgid "Red residue formed on cooling.May be Cu<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ ചുവന്ന അവശിഷ്ടമുണ്ടാകുന്നു. Cu<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:214
+msgid "No characteristic change."
+msgstr "സവിശേഷ മാറ്റങ്ങളൊന്നുമില്ല."
+
+#: simcontrols_main.js:218
+msgid "The residue left after charcoal cavity test"
+msgstr "ചാർക്കോള്‍ ക്യാവിറ്റി പരിശോധനക്ക് ശേഷം ബാക്കിയാവുന്ന അവശിഷ്ടം."
+
+#: simcontrols_main.js:218
+msgid "Cobalt nitrate "
+msgstr "കോബാൾട്ട് നൈട്രേറ്റ്"
+
+#: simcontrols_main.js:219
+msgid "May be Mg<sup>2+</sup> is present."
+msgstr "Mg<sup>2+</sup> യുടെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:220
+msgid "May be due to the presence of Al<sup>3+</sup>."
+msgstr "Al<sup>3+</sup>. യുടെ സാന്നിധ്യം കൊണ്ടാകാം."
+
+#: simcontrols_main.js:221
+msgid "Drag the dropper towards the charcoal box to<br>add cobalt nitrate solution into the residue left<br> in the charcoal box."
+msgstr "ചാർക്കോള്‍ ബോക്സില്‍ ബാക്കിയായ അവശിഷ്ടത്തില്‍ കോബാൾട്ട് നൈട്രേറ്റ് ലായനി ഒഴിക്കാന്‍ ചാർക്കോള്‍ ബോക്സിലേക്ക് ഡ്രോപ്പര്‍ ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:224
+msgid "Borax"
+msgstr "ബൊറാക്സ്‍"
+
+#: simcontrols_main.js:225
+msgid "Drag the watch glass containing borax towards <br>the original salt to place it in the canvas area."
+msgstr "ബൊറാക്സ്‍ അടങ്ങിയ വാച്ച് ഗ്ലാസ് ക്യാൻവാസ് ഏരിയയില്‍ വയ്ക്കാന്‍ വാച്ച് ഗ്ലാസ് യഥാർത്ഥ ലവണത്തിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the watch glass <br>to dip it in the borax powder."
+msgstr "പ്ലാറ്റിനം വയര്‍ ബൊറാക്സ് പൊടിയില്‍ മുക്കാന്‍ പ്ലാറ്റിനം വയര്‍ വാച്ച് ഗ്ലാസിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the burner to <br>heat the borax powder in the oxidizing flame."
+msgstr "ബൊറാക്സ്‍ പൊടി ഓക്സീകരണ ജ്വാലയില്‍ ചൂടാക്കാന്‍ പ്ലാറ്റിനം വയര്‍ ബർണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the watch glass<br> to dip it in the original salt."
+msgstr "പ്ലാറ്റിനം വയര്‍ യഥാർത്ഥ ലവണത്തില്‍ മുക്കാന്‍ പ്ലാറ്റിനം വയര്‍ വാച്ച്  ഗ്ലാസ്സിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:225
+msgid "Click on the knob of the burner to turn it on to get<br> the oxidizing flame/ Click on the air adjusting disc to <br>close the air hole to get the reducing flame."
+msgstr "ഓക്സീകരണ ജ്വാല കിട്ടാന്‍ ബർണ‍ര്‍ ഓണ്‍ ചെയ്യുന്നതിന് അതിന്റെ നോബ് ക്ലിക്ക് ചെയ്യുക/നിരോക്സീകരണ ജ്വാല കിട്ടാന്‍ വായു സുഷിരം അടയ്ക്കുന്നതിന് വായു ക്രമീകരണ ഡിസ്ക്കിനുമുകളില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols_main.js:225
+msgid "Drag the platinum wire towards the burner to <br>heat the contents in the oxidizing/reducing flame."
+msgstr "വാച്ച് ഗ്ലാസിലെ വസ്തുക്കള്‍ ഓക്സീകരണ/ നിരോക്സീകരണ ജ്വാലകളില്‍ ചൂടാക്കാന്‍ പ്ലാറ്റിനം വയര്‍ ബർണറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:226
+msgid "Transparent colourless glassy bead formed."
+msgstr "സുതാര്യമായ, നിറമില്ലാത്ത സ്ഫടികത്തിളക്കമുള്ള ബീഡ് രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:227
+msgid "May be Mn<sup>2+</sup> is present."
+msgstr "Mn<sup>2+</sup>ന്റെ  സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:228
+msgid "May be Ni<sup>2+</sup> is present."
+msgstr "Ni<sup>2+</sup>ന്റെ  സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:229
+msgid "May be Co<sup>2+</sup> or Mn<sup>2+</sup> is present."
+msgstr "Co<sup>2+</sup> or Mn<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:230
+msgid "Colourless bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ നിറമില്ലാത്ത ബീഡ് ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Green bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ പച്ച ബീഡ് ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:230
+msgid "Grey bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ ചാരനിറ ബീഡ് ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:230 simcontrols_main.js:232
+msgid "Deep blue bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ കടും നീല ബീഡ് ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:231
+msgid "Opaque red  bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ ചുവപ്പ് അതാര്യ ബീഡ് ഉണ്ടാകുന്നു. Cu<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:231
+msgid "Green bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ പച്ച ബീഡ് രൂപംകൊള്ളുന്നു, Fe<sup>3+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:231
+msgid "Colourless bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ നിറമില്ലാത്ത ബീഡ് രൂപംകൊള്ളുന്നു, Mn<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:231
+msgid "Opaque grey bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ അതാര്യ ചാരനിറ  ബീഡ് രൂപംകൊള്ളുന്നു, Ni<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:231 simcontrols_main.js:233
+msgid "Deep blue bead formed on cooling. May be Co<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ കടുംനീല ബീഡുകള്‍ രൂപംകൊള്ളുന്നു. Co<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:232
+msgid "Yellowish brown bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ മഞ്ഞകലർന്ന തവിട്ട് ബീഡ് രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:232
+msgid "Pinkish violet bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ പിങ്ക് കലർന്ന വയലറ്റ് ബീഡ് രൂപംകൊള്ളുന്നു."
+
+#: simcontrols_main.js:232
+msgid "Brown bead formed on heating."
+msgstr "ചൂടാക്കുമ്പോള്‍ തവിട്ട് ബീഡ് ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:233
+msgid "Light blue bead formed on cooling. May be Cu<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ ഇളം നീല ബീഡ് ഉണ്ടാകുന്നു. Cu<sup>2+</sup>ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:233
+msgid "Pale yellow bead formed on cooling. May be Fe<sup>3+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ മങ്ങിയ മഞ്ഞ ബീഡ് ഉണ്ടാകുന്നു. Fe<sup>3+</sup> ന്റെ‍ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:233
+msgid "Pinkish violet bead formed on cooling. May be Mn<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ പിങ്ക് കലർന്ന വയലറ്റ് ബീഡ് ഉണ്ടാകുന്നു. Mn<sup>2+</sup> ന്റെ  സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:233
+msgid "Pale brown bead formed on cooling. May be Ni<sup>2+</sup> is present."
+msgstr "തണുക്കുമ്പോള്‍ മങ്ങിയ തവിട്ട് ബീഡ് ഉണ്ടാകുന്നു. Ni<sup>2+</sup> ന്റെ സാന്നിധ്യമുണ്ടാകാം."
+
+#: simcontrols_main.js:238
+msgid "The reddish brown precipitate is soluble in dil. HCl"
+msgstr "ചുവപ്പുകലർന്ന തവിട്ട് അവക്ഷിപ്തം നേർത്ത HCl-ല്‍ ലയിക്കുന്നു."
+
+#: simcontrols_main.js:238
+msgid "Prussian blue colour is due to the formation of ferric ferrocyanide,<br> Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>. Presence of Fe<sup>3+</sup> is confirmed."
+msgstr "ഫെറിക്ക് ഫെറോസയനൈഡ് (Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>) രൂപീകരണം കൊണ്ടാകാം പ്രഷ്യന്‍ നീല നിറം. Fe<sup>3+</sup> ന്റെ സാന്നിധ്യം സ്ഥിരീകരിച്ചു."
+
+#: simcontrols_main.js:239 simcontrols_main.js:262
+msgid "Drag the dropper towards the test tube to<br>drop dil. HCl into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നേർത്ത HCl ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols_main.js:239
+msgid "Drag the dropper towards the test tube to drop<br>Potassium ferrocyanide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം ഫെറോസയനൈഡ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols_main.js:241
+msgid "Potassium sulphocyanide"
+msgstr "പൊട്ടാസ്യം സൾഫോസയനൈഡ്"
+
+#: simcontrols_main.js:242
+msgid "Blood red colouration is due to the formation of Ferric sulphocyanide,<br> Fe(CNS)<sub>3</sub>. Presence of Fe<sup>3+</sup> is confirmed."
+msgstr "ഫെറിക് സൾഫോസയനൈഡിന്റെ രൂപീകരണം മൂലമാണ് രക്തച്ചുവപ്പ് നിറം."
+
+#: simcontrols_main.js:243
+msgid "Drag the dropper towards the test tube to drop<br>dil. HCl into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നേർത്ത HCl ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols_main.js:243
+msgid "Drag the dropper towards the test tube to drop Potassium<br>sulphocyanide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം സൾഫോസയനൈഡ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക."
+
+#: simcontrols_main.js:246
+msgid "Bromine water"
+msgstr "ബ്രോമിന്‍ ജലം"
+
+#: simcontrols_main.js:247
+msgid "White precipitate is due to the formation of<br> manganese hydroxide, Mn(OH)<sub>2</sub>."
+msgstr "മാംഗനീസ് ഹൈഡ്രോക്സൈഡിന്റെ (Mn(OH)<sub>2</sub>) രൂപീകരണം മൂലമാണ് വെളുത്ത അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:247
+msgid "Mn(OH)<sub>2</sub> turns brown on adding Br<sub>2</sub> water due to <br>the oxidation of Mn(OH)<sub>2</sub> to MnO(OH)<sub>2</sub>.<br> Presence of Mn<sup>2+</sup> is confirmed."
+msgstr "Mn(OH)<sub>2</sub> ഓക്സീകരിക്കപ്പെട്ട്  MnO(OH)<sub>2</sub> ആകുന്നതുകാരണം Br<sub>2</sub> ജലംചേർക്കുമ്പോള്‍ Mn(OH)<sub>2</sub> തവിട്ടുനിറമാകുന്നു. Mn<sup>2+</sup>യുടെ സാന്നിധ്യം സ്ഥിരീകരിക്കപ്പെടുന്നു."
+
+#: simcontrols_main.js:248
+msgid "The green precipitate is due to the formation of Ni(OH)<sub>2</sub>."
+msgstr "Ni(OH)<sub>2</sub>ന്റെ രൂപീകരണം മൂലമാണ് പച്ച അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:248
+msgid "The black precipitate is due to the formation of nickelic hydroxide, Ni(OH)<sub>3</sub>.<br> Presence of Ni<sup>2+</sup> is confirmed."
+msgstr "Ni(OH)<sub>3</sub>, നിക്കല്‍ ഹൈഡ്രോക്സൈഡിന്റെ സാന്നിധ്യം മൂലമാണ് കറുത്ത അവക്ഷിപ്തം. Ni<sup>2+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:249
+msgid "Drag the dropper towards the test tube to<br>drop bromine water into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ബ്രോമൈഡ് ജലം ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:250
+msgid "The white precipitate of ZnS dissolves in dil. <br>HCl to form ZnCl<sub>2</sub> with the evolution of H<sub>2</sub>S gas."
+msgstr "ZnS ന്റെ വെളുത്ത അവക്ഷിപ്തം നേർത്ത HCl-ല്‍ ലയിച്ച് ZnCl<sub>2</sub> ഉണ്ടാവുകയും H<sub>2</sub>S പുറത്ത് വിടുകയും ചെയ്യുന്നു."
+
+#: simcontrols_main.js:250
+msgid "The white precipitate is due to the formation of zinc hydroxide."
+msgstr "സിങ്ക് ഹൈഡ്രോക്സൈഡിന്റെ രൂപീകരണം മൂലമാണ് വെളുത്ത അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:250
+msgid "Zn(OH)<sub>2</sub> is soluble in excess NaOH due to the formation of Na<sub>2</sub>ZnO<sub>2</sub>.<br> Presence of Zn<sup>2+</sup> is confirmed."
+msgstr "Na<sub>2</sub>ZnO<sub>2</sub>രൂപീകരണം കാരണം Zn(OH)<sub>2</sub> അധിക NaOH-ല്‍ ലയിക്കുന്നു. Zn<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:251
+msgid "The white or bluish white precipitate is due to the formation of Zn<sub>2</sub>[Fe(CN)<sub>6</sub>].<br> Presence of Zn<sup>2+</sup> is confirmed."
+msgstr "Zn<sub>2</sub>[Fe(CN)<sub>6</sub>] രൂപീകരണം മൂലമാണ് വെളുത്തതോ നീലകലർന്ന വെള്ളയോ ആയ അവക്ഷിപ്തം ഉണ്ടാകുന്നത്. Zn<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:254
+msgid "Dimethyl glyoxime"
+msgstr "ഡൈമീഥൈല്‍ ഗ്ലിയോക്സൈം"
+
+#: simcontrols_main.js:255
+msgid "The bright rose red colour is due to the formation of Ni dimethyl glyoxime complex. <br>Presence of Ni<sup>2+</sup> is confirmed."
+msgstr "Ni ഡൈമീഥൈല്‍ ഗ്ലിയോക്സൈം കോംപ്ലെക്സിന്റെ രൂപീകരണം കാരണമാണ് തിളക്കമുള്ള ചുവപ്പ് നിറം."
+
+#: simcontrols_main.js:256
+msgid "Drag the dropper towards the test tube<br>to drop NH<sub>4</sub>OH into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ NH<sub>4</sub>OH ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:256
+msgid "Drag the dropper towards the test tube to drop<br>dimethyl glyoxime into the test tube."
+msgstr "ടെസ്റ്റ്  ട്യൂബില്‍ <br>ടെസ്റ്റ് ട്യൂബില്‍ ഡൈമീഥൈല്‍ ഗ്ലിയോക്സൈം ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയുക.oxime ചേര്ക്കാ ന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ്  ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:258
+msgid "Blue litmus solution"
+msgstr "നീല ലിറ്റ്മസ് ലായനി "
+
+#: simcontrols_main.js:259
+msgid "Precipitate after centrifugation"
+msgstr "സെൻട്രിഫ്യൂഗേഷനു ശേഷം അവക്ഷിപ്തം"
+
+#: simcontrols_main.js:261
+msgid "The precipitate formed is aluminium hydroxide. Blue colour absorbs<br> on this precipitate. Presence of Al<sup>3+</sup> is confirmed."
+msgstr "രൂപീകരിക്കപ്പെട്ടത് അലൂമിനിയം ഹൈഡ്രോക്സൈഡ് അവക്ഷിപ്തം. ഈ അവക്ഷിപ്തത്തിനുമേല്‍ നീലനിറം ആഗിരണം ചെയ്യപ്പെടുന്നു. Al<sup>3+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കപ്പെട്ടു."
+
+#: simcontrols_main.js:262
+msgid "Drag the dropper towards the test tube to drop<br>blue litmus solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നീല ലിറ്റ്മസ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:262 simcontrols_main.js:269 simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to<br>drop NH<sub>4</sub>OH into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ NH<sub>4</sub>OH ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:267
+msgid "Potassium nitrite"
+msgstr "പൊട്ടാസ്യം നൈട്രൈറ്റ്"
+
+#: simcontrols_main.js:268
+msgid "The yellow precipitate is due to the formation of potassium cobaltinitrite,<br> K<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]. Presence of Co<sup>2+</sup> is confirmed."
+msgstr "പൊട്ടാസ്യം കോബാൾട്ടി നൈട്രൈറ്റിന്റെ, K<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>] രൂപീകരണം മൂലമാണ് മഞ്ഞ അവക്ഷിപ്തം. Co<sup>2+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:269
+msgid "Drag the spatula towards the test tube to<br>put potassium nitrite into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ പൊട്ടാസ്യം നൈട്രൈറ്റ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:271
+msgid "Ammonium thiocyanate"
+msgstr "അമോണിയം തയോസയനേറ്റ്"
+
+#: simcontrols_main.js:272
+msgid "Blue colour is due to the formation of ammonium cobalti thiocyanate,<br> (NH<sub>4</sub>)<sub>2</sub>[Co(CNS)<sub>4</sub>]. Presence of Co<sup>2+</sup> is confirmed."
+msgstr "കൊബാൾട്ട് തയോസയനേറ്റിന്റെ, (NH<sub>4</sub>)<sub>2</sub>[Co(CNS)<sub>4</sub>] രൂപീകരണം മൂലമാണ് നീല നിറം. Co<sup>2+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:273
+msgid "Drag the dropper towards the test tube to<br>drop ether into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ഈഥര്‍ ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:273
+msgid "Drag the spatula towards the test tube to<br>drop ammonium thiocyanate into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം തയോസയനേറ്റ് ചേർക്കാന്‍ പ്രലേപനകത്തി ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:273
+msgid "Drag the test tube from the stand to shake it well."
+msgstr "ടെസ്റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കാന്‍ അത് സ്റ്റാന്റിൽ നിന്നും ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:274
+msgid "Ether"
+msgstr "ഈഥര്‍"
+
+#: simcontrols_main.js:276
+msgid "The yellow precipitate may be<br/> due to the formation of As2S3.<br/>Presence of Group II cation."
+msgstr "As2S3 വിന്റെ രൂപീകരണം മൂലമാകാം മഞ്ഞ അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:276
+msgid "Conc. HNO<sub>3</sub>"
+msgstr "ഗാഢ HNO<sub>3</sub>"
+
+#: simcontrols_main.js:276
+msgid "Concentrated"
+msgstr "ഗാഢ"
+
+#: simcontrols_main.js:276
+msgid "nitric acid"
+msgstr "നൈട്രിക് അമ്ലം"
+
+#: simcontrols_main.js:276
+msgid "molybdate solution"
+msgstr "മോളീബ്ഡേറ്റ് ലായനി"
+
+#: simcontrols_main.js:276
+msgid "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(aq)"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>(aq)"
+
+#: simcontrols_main.js:278
+msgid "The yellow residue of As<sub>2</sub>S<sub>3</sub> is dissolved in Conc.<br/> HNO<sub>3 </sub>forming arsenic acid, H<sub>3</sub>AsO<sub>4</sub>."
+msgstr "As<sub>2</sub>S<sub>3</sub>മഞ്ഞ അവക്ഷിപ്തം HNO<sub>3 </sub>-ല്‍ ലയിച്ച് ആഴ്സെനിക് അമ്ലം,  H<sub>3</sub>AsO<sub>4</sub> ഉണ്ടാകുന്നു."
+
+#: simcontrols_main.js:278
+msgid "Yellow precipitate is due to the formation of ammonium arseno molybdate <br/>{(NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</sub>.12MoO<sub>3</sub>}. Presence of As<sup>3+</sup> is confirmed."
+msgstr "അമോണിയം ആഴ്സെനോമോളിബ്ഡേറ്റ് രൂപീകരണം മൂലമാണ് മഞ്ഞ അവക്ഷിപ്തം, <br />{(NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</ sub>. As<sup>3+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:280 simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to<br>drop Conc. HNO3 into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ഗാഢ HNO3 ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:280
+msgid "Drag the dropper towards the test tube to drop<br>ammonium molybdate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം മോളിബ്ഡേ‍റ്റ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:282 simcontrols_main.js:296
+msgid "hydroxide solution"
+msgstr "ഹൈഡ്രോക്സൈഡ് ലായനി"
+
+#: simcontrols_main.js:282
+msgid "Magnesia mixture"
+msgstr "മഗ്നീഷ്യ മിശ്രിതം"
+
+#: simcontrols_main.js:282
+msgid "mixture"
+msgstr "മിശ്രിതം"
+
+#: simcontrols_main.js:282
+msgid "Magnesia"
+msgstr "മഗ്നീഷ്യ"
+
+#: simcontrols_main.js:284
+msgid "The white precipitate is due to the formation of Mg(NH<sub>4</sub>)<sub>2</sub>AsO<sub>4</sub>.</br> Presence of As<sup>3+</sup> is confirmed."
+msgstr "Mg(NH<sub>4</sub>)<sub>2</sub>AsO<sub>4</sub> രൂപീകരണം മൂലമാണ് വെളുത്ത അവക്ഷിപ്തം. As<sup>3+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:286
+msgid "Drag the dropper towards the test tube to drop<br>Magnesia mixture into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ മഗ്നീഷ്യ മിശ്രിതം ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:288
+msgid "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+msgstr "K<sub>2</sub>CrO<sub>4</sub> (aq)"
+
+#: simcontrols_main.js:288
+msgid "The yellow precipitate is due to the formation of barium<br/> chromate, BaCrO<sub>4</sub>. Presence of Ba<sup>2+</sup> is confirmed."
+msgstr "ബേറിയം ക്രോമേറ്റിന്റെ( BaCrO<sub>4</sub>) സാന്നിധ്യം മൂലമാണ് മഞ്ഞ അവക്ഷിപ്തം. Ba<sup>2+</sup> ന്റെ‍ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:290
+msgid "Drag the dropper towards the test tube to drop<br>Potassium chromate solution into the test tube."
+msgstr "ബേറിയം ക്രോമേറ്റിന്റെ( BaCrO<sub>4</sub>) സാന്നിധ്യം മൂലമാണ് മഞ്ഞ അവക്ഷിപ്തം. Ba<sup>2+</sup> ന്റെ‍ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:292
+msgid "Ammonium sulphate"
+msgstr "അമോണിയം സൾഫേറ്റ്"
+
+#: simcontrols_main.js:292
+msgid "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> (aq)"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> (aq)"
+
+#: simcontrols_main.js:292
+msgid "The white precipitate is due to the formation of strontium sulphate,<br/> SrSO<sub>4</sub>. Presence of Sr<sup>2+</sup> is confirmed."
+msgstr "സ്ട്രോൻഷ്യം സൾഫേറ്റിന്റെ, SrSO<sub>4</sub> രൂപീകരണം മൂലമാണ് വെളുത്ത അവക്ഷിപ്തം. Sr<sup>2+</sup>ന്റെ സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:294
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium sulphate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം സൾഫേറ്റ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:296
+msgid "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>"
+
+#: simcontrols_main.js:296
+msgid "oxalate solution"
+msgstr "ഓക്സലേറ്റ് ലായനി"
+
+#: simcontrols_main.js:296
+msgid "NH<sub>4</sub>OH(aq)"
+msgstr "NH<sub>4</sub>OH(aq)"
+
+#: simcontrols_main.js:296
+msgid "The white precipitate is due to the formation of <br/> calcium oxalate, CaC<sub>2</sub>O<sub>4</sub>. Presence of Ca<sup>2+</sup> is confirmed."
+msgstr "കാൽസ്യം  ഓക്സലേറ്റിന്റെ, CaC<sub>2</sub>O<sub>4</sub>രൂപീകരണം മൂലമാണ് വെളുത്ത അവക്ഷിപ്തം. Ca<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിച്ചിരിക്കുന്നു."
+
+#: simcontrols_main.js:298
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium oxalate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ഓക്സലേറ്റ് ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:298
+msgid "Drag the dropper towards the test tube to drop<br>Ammonium hydroxide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ഹൈഡ്രോക്സൈഡ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:298
+msgid "Drag the glass rod towards the test tube to<br>rub the sides of the test tube with it."
+msgstr "ടെസ്റ്റ് ട്യൂബിന്റെ വശങ്ങള്‍ ഗ്ലാസ് റോഡു കൊണ്ട് ഉരസാന്‍ ഗ്ലാസ് റോഡ്  ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:300
+msgid "Kipp's apparatus"
+msgstr "കിപ്സ് ഉപകരണം"
+
+#: simcontrols_main.js:300
+msgid "Centrifuged and separated <br/>precipitate."
+msgstr "സെൻട്രിഫ്യൂഗ് ചെയ്ത് വേർതിരിച്ച അവക്ഷിപ്തം"
+
+#: simcontrols_main.js:302
+msgid "The black precipitate may be due to the formation of PbS or CuS.<br/> Presence of Group II cation. "
+msgstr "PbS or CuS <br/>ന്റെ‍ രൂപീകരണം മൂലമാകാം കറുത്ത അവക്ഷിപ്തം. ഗ്രൂപ്പ് II കാറ്റയോണ്‍ സാന്നിധ്യം."
+
+#: simcontrols_main.js:302
+msgid "The yellow precipitate may be due to the formation of As<sub>2</sub>S<sub>3</sub>.<br/>Presence of Group II cation."
+msgstr "As<sub>2</sub>S<sub>3</sub>ന്റെ രൂപീകരണം മൂലമാകാം മഞ്ഞ അവക്ഷിപ്തം. ഗ്രൂപ്പ്  II കാറ്റയോണ്‍ സാന്നിധ്യം."
+
+#: simcontrols_main.js:304
+msgid "Drag the dropper towards the test tube to<br>drop dil. HCl into  the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നേർത്ത HCl  ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:304
+msgid "Drag the test tube towards the Kipp apparatus to<br>pass H<sub>2</sub>S gas through the solution."
+msgstr "H<sub>2</sub>S വാതകം ലായനിയിലൂടെ കടത്തിവിടാന്‍ ടെസ്റ്റ് ട്യൂബ് കിപ്സ് ഉപകരണത്തിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:304
+msgid "Click on the nozzle to open/close the Kipp apparatus."
+msgstr "കിപ്സ് ഉപകരണം തുറക്കാന്‍/ അടയ്ക്കാന്‍ അതിന്റെ നോസ്സില്‍ ക്ലിക് ചെയ്യുക."
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "hydroxide"
+msgstr "ഹൈഡ്രോക്സൈഡ്"
+
+#: simcontrols_main.js:306
+msgid "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+msgstr "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+
+#: simcontrols_main.js:306
+msgid "carbonate"
+msgstr "കാർബോണേറ്റ്"
+
+#: simcontrols_main.js:306
+msgid "Hot dil. CH<sub>3</sub>COOH"
+msgstr "ചൂടുള്ള, നേർത്ത CH<sub>3</sub>COOH"
+
+#: simcontrols_main.js:306
+msgid "The precipitate is centrifuged<br/> and washed with water."
+msgstr "അവക്ഷിപ്തം സെൻട്രിഫ്യൂഗ് ചെയ്ത് ജലത്തില്‍ കഴുകിയിരിക്കുന്നു."
+
+#: simcontrols_main.js:306
+msgid "Sample one"
+msgstr "സാമ്പിള്‍ ഒന്ന്"
+
+#: simcontrols_main.js:306
+msgid "Sample two"
+msgstr "സാമ്പിള്‍ രണ്ട്"
+
+#: simcontrols_main.js:306
+msgid "Sample three"
+msgstr "സാമ്പിള്‍ മൂന്ന്"
+
+#: simcontrols_main.js:306 simcontrols_main.js:320
+msgid "NH<sub>4</sub>Cl"
+msgstr "NH<sub>4</sub>Cl"
+
+#: simcontrols_main.js:306
+msgid "The solution is divided into three <br/>parts."
+msgstr "ലായനി മൂന്ന് ഭാഗങ്ങളായി വിഭജിച്ചിരിക്കുന്നു."
+
+#: simcontrols_main.js:307
+msgid "The white precipitate may due to the formation of<br/> carbonates of Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>."
+msgstr "Ba<sup>2+</sup>, Sr<sup>2+</sup> ന്റെയോ Ca<sup>2+</sup>ന്റെ‍യോ കാർബണേറ്റുകളുടെ രൂപീകരണം മൂലമാകാം വെളുത്ത അവക്ഷിപ്തം."
+
+#: simcontrols_main.js:307
+msgid "The insoluble carbonate dissolves in acetic acid due to the formation of<br/> soluble acetates of Ba<sup>2+</sup>, Sr<sup>2+</sup> or Ca<sup>2+</sup>. Presence of Group V cation."
+msgstr "അലേയമായ കാർബണേറ്റ് അസെറ്റിക് അമ്ലത്തില്‍ ലയിക്കുന്നതിനു കാരണം ലേയത്വമുള്ള Ba<sup>2+</sup>, Sr<sup>2+</sup> ന്റെയോ Ca<sup>2+</sup>ന്റെയോ അസെറ്റേറ്റുകളുടെ രൂപീകരണമാണ്."
+
+#: simcontrols_main.js:309 simcontrols_main.js:316
+msgid "Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it in the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ക്ലോറൈഡ്(NH<sub>4</sub>Cl) ചേർക്കാന്‍ അതിനെ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to<br>drop ammonium hydroxide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ഹൈഡ്രോക്സൈഡ്  ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to drop<br>ammonium carbonate solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം കാർബണേറ്റ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:309
+msgid "Drag the dropper towards the test tube to drop hot<br>dil. CH3COOH (acetic acid) into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ നേർത്ത CH3COOH (അസെറ്റിക് അമ്ലം) ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:311
+msgid "Reddish brown precipitate may be due to the formation of </br> ferric hydroxide,Fe(OH)<sub>3</sub>.  Presence of Group III cation."
+msgstr "ഫെറിക് ഹൈഡ്രോക്സൈഡ്, Fe(OH)<sub>3</sub> രൂപീകരണം മൂലമാകാം ചുവപ്പ് കലർന്ന തവിട്ട് അവക്ഷിപ്തം. ഗ്രൂപ്പ് III കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:311
+msgid "White precipitate may be due to the formation of</br> aluminium hydroxide,Al(OH)<sub>3</sub>.Presence of Group III cation"
+msgstr "അലൂമിനിയം ഹൈഡ്രോക്സൈഡിന്റെ ( Al(OH)<sub>3</sub>) രൂപീകരണം മൂലമാകാം വെളുത്ത അവക്ഷിപ്തം. ഗ്രൂപ്പ് III കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:311
+msgid "Black precipitate may be due to the formation of CoS or NiS.</br>Presence of Group IV cation."
+msgstr "CoS ന്റെയോ NiS ന്റെയോ രൂപീകരണം മൂലമാകാം കറുത്ത അവക്ഷിപ്തം. ഗ്രൂപ്പ് IV കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:311
+msgid "Buff coloured precipitate may be due to the formation of MnS.</br>Presence of Group IV cation."
+msgstr "MnS രൂപീകരണം മൂലമാകാം മാംസത്തിന്റെ നിറമുള്ള അവക്ഷിപ്തം. ഗ്രൂപ്പ് IV കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:311
+msgid "Dull white precipitate may be due to the formation of ZnS.</br>Presence of Group IV cation."
+msgstr "ZnS  രൂപീകരണം മൂലമാകാം മങ്ങിയ വെളുപ്പ് നിറ അവക്ഷിപ്തം. ഗ്രൂപ്പ് IV കാറ്റയോണിന്റെ സാന്നിധ്യം."
+
+#: simcontrols_main.js:313
+msgid "Drag the dropper towards the test tube to<br>drop Con.HNO3 into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ഗാഢ HNO3 ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍  ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Drag ammonium chloride (NH<sub>4</sub>Cl) towards the test tube<br>to put it in to the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ക്ലോറൈഡ് ചേർക്കാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder towards<br> the test tube to hold the test tube<br> with it."
+msgstr "ടെസ്റ്റ് ട്യൂബ് ഹോൾഡര്‍ കൊണ്ട് ടെസ്റ്റ് ട്യുബ് പിടിക്കാന്‍ ഹോൾഡര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder towards<br> the beaker to place the test tube <br>in water to cool the solution."
+msgstr "ലായനി തണുപ്പിക്കാന്‍ ടെസ്റ്റ് ട്യൂബ് ജലത്തില്‍ വയ്ക്കാനായി ടെസ്റ്റ് ട്യൂബ് ഹോൾഡര്‍ ബീക്കറിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Drag the test tube holder to take<br> out the test tube from the beaker."
+msgstr "ടെസ്റ്റ് ട്യൂബ് ബീക്കറിൽ നിന്നെടുക്കാന്‍ ടെസ്റ്റ് ട്യൂബ് ഹോൾഡര്‍ അതിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Drag the dropper towards the<br> test tube to drop  NH<sub>4</sub>OH in to the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ NH<sub>4</sub>OH ചേർക്കാന്‍ അത് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:313
+msgid "Click on the test tube to<br> shake it well."
+msgstr "ടെസ്റ്റ് ട്യൂബ് നല്ലപോലെ കുലുക്കാന്‍ അതിന്മേല്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols_main.js:313 simcontrols_main.js:316
+msgid "Click on the inference icon to see the inference."
+msgstr "അനുമാനം കാണാന്‍ ഇൻഫറൻസ് ഐക്കണില്‍ ക്ലിക്ക് ചെയ്യുക."
+
+#: simcontrols_main.js:314
+msgid "The white precipitate is due to the formation of magnesium</br> ammonium phosphate,  Mg(NH<sub>4</sub>)PO<sub>4</sub>. Presence of Mg<sup>2+</sup>is confirmed."
+msgstr "മഗ്നീഷ്യം അമോണിയം ഫോസ്ഫേറ്റിന്റെ( Mg(NH<sub>4</sub>)PO<sub>4</sub>) രൂപീകരണം കാരണമാകാം വെളുത്ത അവക്ഷിപ്തം. Mg<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:316
+msgid "Drag the dropper towards the test tube to drop  NH<sub>4</sub>OH in to the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ NH<sub>4</sub>OH ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:316
+msgid "Drag the dropper towards the test tube to drop ammonium phosphate<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>] solution in to the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ അമോണിയം ഫോസ്ഫേറ്റ് (<br>[(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>] ) ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍  ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:316
+msgid "Drag the glass rod towards the test tube to rub the sides<br>of the test-tube with it."
+msgstr "ടെസ്റ്റ് ട്യൂബിന്റെ വശങ്ങള്‍ ഉരയ്ക്കാന്‍ ഗ്ലാസ് റോഡ് ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:317
+msgid "The pink colour is due to the formation of </br>HMnO<sub>4</sub>.Presence of Mn<sup>2+</sup> is confirmed."
+msgstr "HMnO<sub>4</sub>ന്റെ രൂപീകരണം മൂലമാണ് പിങ്ക് നിറം. Mn<sup>2+</sup> സാന്നിധ്യം സ്ഥിരീകരിക്കുന്നു."
+
+#: simcontrols_main.js:318
+msgid "Precipitate after <br>Sodium hydroxide-Br<sub>2</sub>test"
+msgstr "സോഡിയം ഹൈഡ്രോക്സൈഡ് Br<sub>2</sub> പരിശോധനയ്ക്കു ശേഷം അവക്ഷിപ്ത്ം."
+
+#: simcontrols_main.js:319
+msgid "Drag the dropper towards the test tube to drop<br>Conc. HNO<sub>3</sub> into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ഗാഢ HNO<sub>3</sub> ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:319
+msgid "Drag the dropper towards the test tube to drop<br>lead peroxide solution into the test tube."
+msgstr "ടെസ്റ്റ് ട്യൂബില്‍ ലെഡ് പെറോക്സൈ‍ഡ് ലായനി ചേർക്കാന്‍ ഡ്രോപ്പര്‍ ടെസ്റ്റ് ട്യൂബിലേക്ക് ഡ്രാഗ് ചെയ്യുക."
+
+#: simcontrols_main.js:320
+msgid "Conc.HNO<sub>3</sub>"
+msgstr "ഗാഢ HNO<sub>3</sub>"
+
+#: simcontrols_main.js:320
+msgid "Conc.Nitric"
+msgstr "ഗാഢ നൈട്രിക്"
+
+#: simcontrols_main.js:320
+msgid "acid"
+msgstr "അമ്ലം"
+
+#: simcontrols_main.js:320
+msgid "Glass Rod"
+msgstr "ഗ്ലാസ് റോഡ്"
+
+#: simcontrols_main.js:320
+msgid "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+msgstr "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>"
+
+#: simcontrols_main.js:320
+msgid "Phosphate"
+msgstr "ഫോസ്ഫേറ്റ്"
+
+#: simcontrols_main.js:320
+msgid "Salt<br>solution"
+msgstr "ലവണ ലായനി"
+
+#: simcontrols_main.js:321
+msgid "Lead Peroxide"
+msgstr "ലെഡ് പെറോക്സൈഡ്"
+
+#: simcontrols_main.js:323
+msgid "The precipitate of MnS dissolves in dil. HCl <br>to form MnCl<sub>2</sub> with the evolution of H<sub>2</sub>S gas"
+msgstr "MnS ന്റെ അവക്ഷിപ്തം നേർത്ത HCl -ല്‍ ലയിച്ച്  MnCl<sub>2</sub> രൂപീകരിക്കപ്പെടുകയും  H<sub>2</sub>S വാതകം പുറത്ത് വിടപ്പെടുകയും ചെയ്യുന്നു."
+
+#~ msgid "Select test"
+#~ msgstr "Select test"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper."
+#~ msgstr "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper."
+
+#~ msgid "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+#~ msgstr "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "A pungent smell is produced."
+#~ msgstr "A pungent smell is produced."
+
+#~ msgid "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+#~ msgstr "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the grasshoppers."
+#~ msgstr "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the grasshoppers."
+
+#, fuzzy
+#~ msgid "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr "Level of water in the delivery tube rises up due to the release of CO<sub>2</sub> in the conical flask during the respiration of the seeds."

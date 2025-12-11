@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_A">
+        <source>A</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>रासायनिक समतोल</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_B">
+        <source>B</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_BACK">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_C">
+        <source>C</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_CHEMICALEQUILIBRIUM">
+        <source>रासायनिक समतोल</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_D">
+        <source>D</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_FEC">
+        <source>0.1M FeCl द्रावण</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_FECL">
+        <source>0.1M FeCl द्रावण</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_KCL">
+        <source>0.1M KCl द्रावण</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_KCNS">
+        <source>0.1M KCNS द्रावण</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_REPLAY">
+        <source>परत करा.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_START">
+        <source>सुरु करा</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_TAAB">
+        <source>रंगात बदल</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_TAB">
+        <source> समतोल स्थितीत पदार्थ टाकला</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_TABA">
+        <source>5 ml पाणी</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_TABB">
+        <source>संहत तीव्रतेच्या बदलाचा प्रभाव [Fe(SCN)(H2O)5]2+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_TAD">
+        <source>5ml of 0.1M
+ FeCl3 द्रावण</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_TAF">
+        <source>5ml of 0.1M 
+KCNS द्रावण</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_TASE">
+        <source>संदर्भ रंग </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_TEA">
+        <source>5ml of 0.1M
+ KCl द्रावण</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_TEDA">
+        <source>द्रावणाचा रंग हलका  </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_TEK">
+        <source>वाढते</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_TEN">
+        <source>कमी होते</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_TEO">
+        <source> उजवीकडे</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_TEST">
+        <source>परिक्षा नळी </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_THREE">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_TSAM">
+        <source>रंग गडद होतो</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_TTA">
+        <source>समतोल हलते</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_TVB">
+        <source>उजवीकडे</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_WATER">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

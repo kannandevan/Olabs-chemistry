@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2016-03-17 09:25+0530\n"
+"PO-Revision-Date: 2016-03-17 09:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: h <h>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:38
+msgid "Single Displacement Reaction"
+msgstr "एकेरी विस्थापन अभिक्रियेचा "
+
+#: simcontrols.js:39
+msgid "Click and drag any of the iron nail to immerse it in one of the test tubes."
+msgstr "परिक्षा नळीत बुडविण्यासाठी दोन पैकी एक लोखंडी खिळा क्लिक करा."
+
+#: simcontrols.js:40
+msgid ""
+"Click on the thread to remove the iron nail from the test tube and compare it with the "
+"other iron nail."
+msgstr ""
+"खिळा परिक्षा नळीतून काढण्यासाठी आणि दुसर्‍या लोखंडी खिळ्याशी तुलना करण्यासाठी धाग्यावर क्लिक करा."
+
+#: simcontrols.js:41
+msgid "Click on the information icon to see the inference."
+msgstr "निष्कर्ष बघण्यासाठी माहिती आयकॉन क्लिक करा."
+
+#: simcontrols.js:44
+msgid "HELP"
+msgstr "मदत"
+
+#: simcontrols.js:48
+msgid "15 Mins"
+msgstr "15 मिनिटे"
+
+#: simcontrols.js:49
+msgid "Instructions"
+msgstr "सूचना"
+
+#: simcontrols.js:51
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: simcontrols.js:55
+msgid ""
+"Less reactive Cu<sup>2+</sup> ions are displaced</br>from CuSO<sub>4</sub> solution by "
+"the more reactive Fe<sup>2+</sup> ions."
+msgstr ""
+"अधिक अभिक्रियाशील Fe2+ आयन हे CuSO4 द्रावणातून कमी अभिक्रियाशील Cu2+ आयन ना विस्थापित करते."
+
+#: simcontrols.js:55
+msgid ""
+"The color of the solution changes to green</br>due to  the presence of FeSO<sub>4</"
+"sub> solution."
+msgstr "FeSO4 द्रावणाच्या उपस्थितीमुळे परिक्षा नळीतले द्रावण हिरवे होते."
+
+#: simcontrols.js:55
+msgid ""
+"Brown coating of copper on the iron nail is because of the displaced Cu<sup>2+</sup> "
+"ions."
+msgstr "लोखंडी खिळ्यावरचे तपकिरी आवरण हे विस्थापित Cu2+ आयन मुळे असते."
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+#~ "department of IT"

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="intro_two">
+		<TEXTVALUE>Measure 10 ml of 0.1M FeCl3 solution in a measuring cylinder.</TEXTVALUE>	
+	</TEXT>
+</SCENE>
+
+<SCENE ID="solutionsaddedclsup">
+	<TEXT ID="solutionsaddedclsup_one">
+		<TEXTVALUE>Pour it to a 250 ml beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsadded2">
+	<TEXT ID="solutionsadded2_one">
+		<TEXTVALUE>Measure 10ml of 0.1M KCNS solution in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionsaddedclsup2">
+	<TEXT ID="solutionsaddedclsup2_one">
+		<TEXTVALUE>Pour it to the same beaker. (A deep red colour will obtain.) </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="50mlwateradded">
+	<TEXT ID="50mlwateradded_one">
+		<TEXTVALUE>Measure 50 ml distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="wateraddedclsup">
+	<TEXT ID="wateraddedclsup_one">
+		<TEXTVALUE>Pour it into the same beaker to dilute.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="mixtureadded1">
+	<TEXT ID="mixtureadded1_one">
+		<TEXTVALUE>Pour 10 ml of obtained solution (deep red) to a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="mixtureadded1_two">
+		<TEXTVALUE>Take 4 test tube labeled A,B,C,D.</TEXTVALUE>
+	</TEXT>	 
+</SCENE>	
+
+
+<SCENE ID="mixtureadded1clsup">
+	<TEXT ID="mixtureadded1clsup_one">
+		<TEXTVALUE>Pour it into the first test tube, labeled “A”.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+
+<SCENE ID="mixtureadded2">
+	<TEXT ID="mixtureadded2_one">
+		<TEXTVALUE>Repeat the same process for other test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="mixtureadded2clsup">
+	<TEXT ID="mixtureadded2clsup_one">
+		<TEXTVALUE>Repeat the same process for other test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="testtubeclsp">
+	<TEXT ID="testtubeclsp_one">
+		<TEXTVALUE>Repeat the same process for other test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateradded">
+	<TEXT ID="5mlwateradded_one">
+		<TEXTVALUE>Measure 5 ml distilled water in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+
+<SCENE ID="5mlwateraddedclsup">
+	<TEXT ID="5mlwateraddedclsup_one">
+		<TEXTVALUE>Add it to the test tube, “A”. Shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1">
+	<TEXT ID="5mladded1_one">
+		<TEXTVALUE>Measure 5 ml of 0.1M FeCl3 in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="5mladded1clsup">
+	<TEXT ID="5mladded1clsup_one">
+		<TEXTVALUE>Add it to the test tube, “B”. Shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded2">
+	<TEXT ID="5mladded2_one">
+		<TEXTVALUE>Add 5 ml of 0.1M KCNS solution in a measuring cylinder. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladded2clsup">
+	<TEXT ID="5mladded2clsup_one">
+		<TEXTVALUE>Add it to the test tube, “C”. Shake it well. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5mladded3">
+	<TEXT ID="5mladded3_one">
+		<TEXTVALUE>Similarly, measure 5ml of 0.1M KCl solution in a measuring cylinder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5mladdede3clsup">
+	<TEXT ID="5mladdede3clsup_one">
+		<TEXTVALUE>Add it to the test tube, “D”. Shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abcd">
+	<TEXT ID="abcd_one">
+		<TEXTVALUE>Now compare the intensity of the colours.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="abcd_two">
+		<TEXTVALUE>Take test tubes, A and B, compare it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="abacad">
+	<TEXT ID="abacad_one">
+		<TEXTVALUE>Take test tubes, A and B, compare it.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="abacad_two">
+		<TEXTVALUE>Then A and C  and A and D respectively.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+</DATA>

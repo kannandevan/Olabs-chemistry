@@ -1,0 +1,896 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2015-07-07 14:49+0530\n"
+"PO-Revision-Date: 2015-07-07 14:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:15
+msgid "Solubility test"
+msgstr "Solubility test"
+
+#: simcontrols.js:15
+msgid "Transluscent Spot test"
+msgstr "Translucent spot test"
+
+#: simcontrols.js:15
+msgid "Acrolein test"
+msgstr "Acrolein test"
+
+#: simcontrols.js:16
+msgid "Baudouin test"
+msgstr "Baudouin test"
+
+#: simcontrols.js:16
+msgid "Huble test"
+msgstr "Huble's  test"
+
+#: simcontrols.js:18
+msgid "Water"
+msgstr "Water"
+
+#: simcontrols.js:18
+msgid "Alcohol"
+msgstr "Alcohol"
+
+#: simcontrols.js:18
+msgid "Chloroform"
+msgstr "Chloroform"
+
+#: simcontrols.js:19
+msgid "Desi ghee"
+msgstr "Desi ghee"
+
+#: simcontrols.js:19
+msgid "Vegetable ghee"
+msgstr "Vegetable ghee"
+
+#: simcontrols.js:19
+msgid "Refined oil"
+msgstr "Refined oil"
+
+#: simcontrols.js:20
+msgid "Filter papers"
+msgstr "Filter papers"
+
+#: simcontrols.js:21
+msgid "Potassium bisulphate"
+msgstr "Potassium bisulphate"
+
+#: simcontrols.js:26
+msgid "Cotton seed oil"
+msgstr "Cotton seed oil"
+
+#: simcontrols.js:27
+msgid "Linseed oil "
+msgstr "Linseed oil "
+
+#: simcontrols.js:28
+msgid "Huble reagent"
+msgstr "Huble's reagent"
+
+#: simcontrols.js:29
+msgid "Conc.H<sub>2</sub>SO<sub>4</sub>"
+msgstr "Conc.H<sub>2</sub>SO<sub>4</sub>"
+
+#: simcontrols.js:30
+msgid "Furfural solution"
+msgstr "Furfural solution"
+
+#: simcontrols.js:31
+msgid "A pungent irritating odour of acrolein is produced"
+msgstr "A pungent irritating odour of acrolein is produced"
+
+#: simcontrols.js:35
+msgid "Select the solvent:"
+msgstr "Select the solvent:"
+
+#: simcontrols.js:36
+msgid "Select the sample:"
+msgstr "Select the sample:"
+
+#: simcontrols.js:49
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:50
+msgid "FULL SCREEN"
+msgstr "FULL SCREEN"
+
+#: simcontrols.js:51
+msgid "EXIT"
+msgstr "EXIT"
+
+#: simcontrols.js:52
+msgid "Reset"
+msgstr "Reset"
+
+#: simcontrols.js:53
+msgid ""
+"Developed by CDAC Mumbai & Amrita University Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br>Under research grant from "
+"department of IT"
+
+#: simcontrols.js:55
+msgid "Qualitative Analysis of Oils and Fats"
+msgstr "Qualitative Analysis of Oils and Fats"
+
+#: simcontrols.js:57
+msgid "Select the test:"
+msgstr "Select the test:"
+
+#: simcontrols.js:61
+msgid ""
+"Drag the dropper towards the test tube containing desi ghee to drop water "
+"into it. "
+msgstr ""
+"Drag the dropper towards the test tube <br>containing desi ghee to drop "
+"water into it. "
+
+#: simcontrols.js:62
+msgid ""
+"Drag the dropper towards the test tube containing desi ghee to drop alcohol "
+"into it. "
+msgstr ""
+"Drag the dropper towards the test tube<br> containing desi ghee to drop "
+"alcohol into it. "
+
+#: simcontrols.js:63
+msgid ""
+"Drag the dropper towards the test tube containing desi ghee to drop "
+"chloroform into it. "
+msgstr ""
+"Drag the dropper towards the test tube <br>containing desi ghee to drop "
+"chloroform into it. "
+
+#: simcontrols.js:64
+msgid ""
+"Drag the dropper towards the test tube containing vegetable ghee to drop "
+"water into it. "
+msgstr ""
+"Drag the dropper towards the test tube containing<br> vegetable ghee to drop "
+"water into it. "
+
+#: simcontrols.js:65
+msgid ""
+"Drag the dropper towards the test tube containing vegetable ghee to drop "
+"alcohol into it. "
+msgstr ""
+"Drag the dropper towards the test tube containing<br> vegetable ghee to drop "
+"alcohol into it. "
+
+#: simcontrols.js:66
+msgid ""
+"Drag the dropper towards the test tube containing vegetable ghee to drop "
+"chloroform into it. "
+msgstr ""
+"Drag the dropper towards the test tube containing <br>vegetable ghee to drop "
+"chloroform into it. "
+
+#: simcontrols.js:67
+msgid ""
+"Drag the dropper towards the test tube containing refined oil to drop water "
+"into it. "
+msgstr ""
+"Drag the dropper towards the test tube<br> containing refined oil to drop "
+"water into it. "
+
+#: simcontrols.js:68
+msgid ""
+"Drag the dropper towards the test tube containing refined oil to drop "
+"alcohol into it. "
+msgstr ""
+"Drag the dropper towards the test tube <br>containing refined oil to drop "
+"alcohol into it. "
+
+#: simcontrols.js:69
+msgid ""
+"Drag the dropper towards the test tube containing refined oil to drop "
+"chloroform into it. "
+msgstr ""
+"Drag the dropper towards the test tube containing<br> refined oil to drop "
+"chloroform into it. "
+
+#: simcontrols.js:70
+msgid "Click on the knob of the burner to turn it on."
+msgstr "Click on the knob of the burner to turn it on."
+
+#: simcontrols.js:71
+msgid ""
+"Drag the test tube towards the burner to heat the contents of the test tube."
+msgstr ""
+"Drag the test tube towards the burner <br>to heat the contents of the test "
+"tube."
+
+#: simcontrols.js:72
+msgid ""
+"Drag the test tube containing desi ghee towards the burner to heat the "
+"contents of the test tube."
+msgstr ""
+"Drag the test tube containing desi ghee towards <br>the burner to heat the "
+"contents of the test tube."
+
+#: simcontrols.js:73
+msgid ""
+"Drag the test tube containing vegetable ghee towards the burner to heat the "
+"contents of the test tube."
+msgstr ""
+"Drag the test tube containing vegetable ghee towards <br>the burner to heat "
+"the contents of the test tube."
+
+#: simcontrols.js:74
+msgid ""
+"Drag the test tube containing refined oil towards the burner to heat the "
+"contents of the test tube."
+msgstr ""
+"Drag the test tube containing refined oil towards<br> the burner to heat the "
+"contents of the test tube."
+
+#: simcontrols.js:75
+msgid ""
+"Drag the test tube towards the canvas area to shake the contents of the test "
+"tube well. "
+msgstr ""
+"Drag the test tube towards the canvas area to<br> shake the contents of the "
+"test tube well. "
+
+#: simcontrols.js:76
+msgid ""
+"The samples are immiscible in water indicating the presence of oil or fat."
+msgstr ""
+"The samples are immiscible in water<br> indicating the presence of oil or "
+"fat."
+
+#: simcontrols.js:77
+msgid ""
+"The samples form lower layer, which dissolves on heating indicating the "
+"presence of oil or fat."
+msgstr ""
+"The samples form lower layer, which dissolves on <br>heating indicating the "
+"presence of oil or fat."
+
+#: simcontrols.js:78
+msgid ""
+"The samples are miscible in chloroform indicating the presence of oil or fat."
+msgstr ""
+"The samples are miscible in chloroform <br>indicating the presence of oil or "
+"fat."
+
+#: simcontrols.js:85
+msgid ""
+"Drag the dropper towards the first filter paper to drop desi ghee into it."
+msgstr ""
+"Drag the dropper towards the first<br> filter paper to drop desi ghee into "
+"it."
+
+#: simcontrols.js:85
+msgid ""
+"Drag the dropper towards the first filter paper to drop vanaspati ghee into "
+"it."
+msgstr ""
+"Drag the dropper towards the first <br>filter paper to drop vegetable ghee "
+"into it."
+
+#: simcontrols.js:86
+msgid ""
+"Drag the dropper towards the first filter paper to drop refined oil into it."
+msgstr ""
+"Drag the dropper towards the first filter paper <br>to drop refined oil into "
+"it."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"desi ghee."
+msgstr ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"desi ghee."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"vegetable ghee."
+msgstr ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"vegetable ghee."
+
+#: simcontrols.js:87
+msgid ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"refined oil."
+msgstr ""
+"Drag the filter paper to the lighting candle. Move the <br>filter paper over "
+"the flame, the light will be visible <br>only through the spot formed by the "
+"refined oil."
+
+#: simcontrols.js:88
+msgid ""
+"Drag the second filter paper towards the filter paper containing sample to "
+"press the sample with it. "
+msgstr ""
+"Drag the second filter paper towards the filter paper<br> containing sample "
+"to press the sample with it. "
+
+#: simcontrols.js:89
+msgid ""
+"Fats and oils have higher boiling points so at room temperature they cannot "
+"absorb enough heat to evaporate. When fat or oil is place on the sheet of "
+"paper, it diffracts light. The diffracted light can pass from one side of "
+"the paper to another side and gives translucent spot."
+msgstr ""
+"Fats and oils have higher boiling points so at <br>room temperature they "
+"cannot absorb enough heat<br> to evaporate. When fat or oil is place on the "
+"<br>sheet of paper, it diffracts light. The diffracted <br>light can pass "
+"from one side of the paper <br>to another side and gives translucent spot."
+
+#: simcontrols.js:91
+msgid ""
+"Drag the spatula towards the test tube to put potassium bisulphate crystals "
+"into desi ghee."
+msgstr ""
+"Drag the spatula towards the test tube to put <br>potassium bisulphate "
+"crystals into desi ghee."
+
+#: simcontrols.js:92
+msgid ""
+"Drag the spatula towards the test tube to put potassium bisulphate crystals "
+"into vanaspati ghee."
+msgstr ""
+"Drag the spatula towards the test tube to put <br>potassium bisulphate "
+"crystals into  vegetable ghee."
+
+#: simcontrols.js:93
+msgid ""
+"Drag the spatula towards the test tube to put potassium bisulphate crystals "
+"into refined oil."
+msgstr ""
+"Drag the spatula towards the test tube to put <br>potassium bisulphate "
+"crystals into refined oil."
+
+#: simcontrols.js:94
+msgid ""
+"Acrolein test is used to detect the presence of glycerol or fat. When fat is "
+"treated strongly in presence of dehydrating agent like potassium "
+"bisulphate,  the glycerol portion of the molecule is dehydrated to form an "
+"unsaturated aldehyde, acrolein that has a pungent irritating odour."
+msgstr ""
+"Acrolein test is used to detect the presence of glycerol or fat. <br>When "
+"fat is treated strongly in presence of dehydrating agent <br>like potassium "
+"bisulphate,  the glycerol portion of the molecule<br> is dehydrated to form "
+"an unsaturated aldehyde, acrolein <br>that has a pungent irritating odour."
+
+#: simcontrols.js:96
+msgid ""
+"Drag the dropper towards the test tube containing melted desi ghee to drop "
+"Conc. H2SO4 into it."
+msgstr ""
+"Drag the dropper towards the test tube containing <br>melted desi ghee to "
+"drop Conc.H<sub>2</sub>SO<sub>4</sub>into it."
+
+#: simcontrols.js:97
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube containing melted desi ghee to drop "
+"2% furfural solution in alcohol into it."
+msgstr ""
+"Drag the dropper towards the test tube containing melted <br>desi ghee to "
+"drop 2% furfural solution in alcohol into it."
+
+#: simcontrols.js:97
+msgid ""
+"Drag the dropper towards the test tube containing melted vanaspati ghee to "
+"drop Conc. H2SO4 into it."
+msgstr ""
+"Drag the dropper towards the test tube containing<br> melted vanaspati ghee "
+"to drop Conc.H<sub>2</sub>SO<sub>4</sub> into it."
+
+#: simcontrols.js:97
+#, python-format
+msgid ""
+"Drag the dropper towards the test tube containing melted vanaspati ghee to "
+"drop 2% furfural solution in alcohol into it."
+msgstr ""
+"Drag the dropper towards the test tube containing melted<br> vanaspati ghee "
+"to drop 2% furfural solution in alcohol into it."
+
+#: simcontrols.js:97
+msgid "Wait for some time to complete the reaction."
+msgstr "Wait for some time to complete the reaction."
+
+#: simcontrols.js:98
+msgid "No charateristic cahnge."
+msgstr "No characteristic change."
+
+#: simcontrols.js:99
+#, python-format
+msgid ""
+"This test is used to detect the presence of seasame oil. Seasame oil gives "
+"characteristic rose red colour with concentrated hydrochloric acid and "
+"furfural solution. Vanaspati ghee contains 5% seasame oil while pure desi "
+"ghee does not contain seasame oil."
+msgstr ""
+"This test is used to detect the presence of seasame oil.<br> Seasame oil "
+"gives characteristic rose red colour with <br>concentrated hydrochloric acid "
+"and furfural solution. <br>Vanaspati ghee contains 5% seasame oil while pure "
+"<br>desi ghee does not contain seasame oil."
+
+#: simcontrols.js:101
+msgid ""
+"Drag the dropper towards the test tube containing cotton seed oil to drop "
+"chloroform into it."
+msgstr ""
+"Drag the dropper towards the test tube containing<br> cotton seed oil to "
+"drop chloroform into it."
+
+#: simcontrols.js:101
+msgid ""
+"Drag the dropper towards the test tube containing cotton seed oil to drop "
+"Huble reagent into it."
+msgstr ""
+"Drag the dropper towards the test tube containing <br>cotton seed oil to "
+"drop Huble's reagent into it."
+
+#: simcontrols.js:101
+msgid ""
+"Drag the dropper towards the test tube containing linseed oil to drop "
+"chloroform into it."
+msgstr ""
+"Drag the dropper towards the test tube containing<br> linseed oil to drop "
+"chloroform into it."
+
+#: simcontrols.js:101
+msgid ""
+"Drag the dropper towards the test tube containing linseed oil to drop Huble "
+"reagent into it."
+msgstr ""
+"Drag the dropper towards the test tube containing<br> linseed oil to drop "
+"Huble's reagent into it."
+
+#: simcontrols.js:102
+msgid ""
+"Huble reagent is an alcoholic solution of iodine which contains some "
+"mercuric chloride. During the reaction, the violet colour of iodine fades "
+"away if the oil or fat is unsaturated. If the oil or fat is saturated, the "
+"violet colour of iodine does not fade away. Here linseed oil is more "
+"unsaturated than cotton seed oil"
+msgstr ""
+"Huble's reagent is an alcoholic solution of iodine which <br>contains some "
+"mercuric chloride. During the reaction, <br>the violet colour of iodine "
+"fades away if the oil or fat<br> is unsaturated. If the oil or fat is "
+"saturated, <br>the violet colour of iodine does not fade away. <br>Here "
+"linseed oil is more unsaturated than cotton seed oil."
+
+#: simcontrols.js:103
+msgid "Drag the cotton seed oil test tube towards the canvas area to shake it."
+msgstr ""
+"Drag the cotton seed oil test tube<br> towards the canvas area to shake it."
+
+#: simcontrols.js:104
+msgid "Drag the linseed oil test tube towards the canvas area to shake it."
+msgstr ""
+"Drag the linseed oil test tube towards<br> the canvas area to shake it."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards desi <br>ghee test tube to drop "
+#~ "the chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards desi <br>ghee test tube to drop "
+#~ "the chloroform."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards vegetable <br>ghee test tube to "
+#~ "drop the chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards vegetable <br>ghee test tube to "
+#~ "drop the chloroform."
+
+#~ msgid ""
+#~ "Drag the dropper of water towards refined <br>oil test tube to drop the "
+#~ "water."
+#~ msgstr ""
+#~ "Drag the dropper of water towards refined <br>oil test tube to drop the "
+#~ "water."
+
+#~ msgid ""
+#~ "Drag the dropper of alcohol towards refined <br>oil test tube to drop the "
+#~ "alcohol."
+#~ msgstr ""
+#~ "Drag the dropper of alcohol towards refined <br>oil test tube to drop the "
+#~ "alcohol."
+
+#~ msgid ""
+#~ "Drag the dropper of chloroform towards refined <br>oil test tube to drop "
+#~ "the chloroform."
+#~ msgstr ""
+#~ "Drag the dropper of chloroform towards refined <br>oil test tube to drop "
+#~ "the chloroform."
+
+#~ msgid "Drag the desi ghee test tube towards <br>the burner to heat it."
+#~ msgstr "Drag the desi ghee test tube towards <br>the burner to heat it."
+
+#~ msgid "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+#~ msgstr ""
+#~ "Drag the vegetable ghee test tube towards <br>the burner to heat it."
+
+#~ msgid "Drag the refined oil test tube towards <br>the burner to heat it. "
+#~ msgstr "Drag the refined oil test tube towards <br>the burner to heat it. "
+
+#~ msgid ""
+#~ "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+#~ msgstr ""
+#~ "Drag the vegetable ghee test tube towards <br>the canvas area to shake it."
+
+#~ msgid ""
+#~ "Drag the refined oil test tube towards <br>the canvas area to shake it."
+#~ msgstr ""
+#~ "Drag the refined oil test tube towards <br>the canvas area to shake it."
+
+#~ msgid "Samples are immiscible."
+#~ msgstr "Samples are immiscible."
+
+#~ msgid ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop "
+#~ "vegetable ghee into filter paper."
+#~ msgstr ""
+#~ "Drag the dropper of vegetable ghee towards the filter paper<br> to drop "
+#~ "vegetable ghee into filter paper."
+
+#~ msgid "A transluscent spot appear on the filter paper."
+#~ msgstr "A transluscent spot appear on the filter paper."
+
+#~ msgid ""
+#~ "Drag the spatula towards the test tube to add crystals of <br>potassium "
+#~ "bisulphate into the test tube containing vegetable ghee."
+#~ msgstr ""
+#~ "Drag the spatula towards the test tube to add crystals of <br>potassium "
+#~ "bisulphate into the test tube containing vegetable ghee."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. "
+#~ "Sulphuric acid into <br>test tube containing desi ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of Conc. "
+#~ "Sulphuric acid into <br>test tube containing desi ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol<br> into test tube containing desi ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol<br> into test tube containing desi ghee."
+
+#~ msgid ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. "
+#~ "Sulphuric acid into <br>test tube containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag the dropper of Conc. Sulphuric acid<br> to add 5ml of conc. "
+#~ "Sulphuric acid into <br>test tube containing vanaspati ghee."
+
+#~ msgid ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol <br>into test tube containing vanaspati ghee."
+#~ msgstr ""
+#~ "Drag dropper of 2% furfural solution in alcohol <br>to  add 3 drpos of 2% "
+#~ "furfural solution in alcohol <br>into test tube containing vanaspati ghee."
+
+#~ msgid ""
+#~ "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee "
+#~ "contains sesame oil."
+#~ msgstr ""
+#~ "Pure desi ghee does not contain sesame oil <br>but vanaspati ghee "
+#~ "contains sesame oil."
+
+#~ msgid "Linseed oil is more unsaturated than cotton seed oil."
+#~ msgstr "Linseed oil is more unsaturated than cotton seed oil."
+
+#~ msgid "Colour test"
+#~ msgstr "Colour test"
+
+#~ msgid "Charcoal cavity test"
+#~ msgstr "Charcoal cavity test"
+
+#~ msgid "Cobalt nitrate test"
+#~ msgstr "Cobalt nitrate test"
+
+#~ msgid "Borax bead test"
+#~ msgstr "Borax bead test"
+
+#~ msgid "Group zero"
+#~ msgstr "Group zero"
+
+#~ msgid "Group I"
+#~ msgstr "Group I"
+
+#~ msgid "Group II"
+#~ msgstr "Group II"
+
+#~ msgid "Group III"
+#~ msgstr "Group III"
+
+#~ msgid "Group IV"
+#~ msgstr "Group IV"
+
+#~ msgid "Group V"
+#~ msgstr "Group V"
+
+#~ msgid "Group VI"
+#~ msgstr "Group VI"
+
+#~ msgid "Select preliminary test:"
+#~ msgstr "Select preliminary test:"
+
+#~ msgid "Select the confirmation test:"
+#~ msgstr "Select the confirmation test:"
+
+#~ msgid "Ammonium-NH4+"
+#~ msgstr "Ammonium-NH4+"
+
+#~ msgid "Lead(II)-Pb2+"
+#~ msgstr "Lead(II)-Pb2+"
+
+#~ msgid "Copper(II)-Cu2+"
+#~ msgstr "Copper(II)-Cu2+"
+
+#~ msgid "Arsenic-As3+"
+#~ msgstr "Arsenic-As3+"
+
+#~ msgid "Iron(III)-Fe3+"
+#~ msgstr "Iron(III)-Fe3+"
+
+#~ msgid "Aluminum-Al3+"
+#~ msgstr "Aluminum-Al3+"
+
+#~ msgid "Cobalt-Co2+"
+#~ msgstr "Cobalt-Co2+"
+
+#~ msgid "Nickel(ll)-Ni2+"
+#~ msgstr "Nickel(ll)-Ni2+"
+
+#~ msgid "Manganese(II)-Mn2+"
+#~ msgstr "Manganese(II)-Mn2+"
+
+#~ msgid "Zinc (II)-Zn2+"
+#~ msgstr "Zinc (II)-Zn2+"
+
+#~ msgid "Barium-Ba2+"
+#~ msgstr "Barium-Ba2+"
+
+#~ msgid "Strontium-Sr2+"
+#~ msgstr "Strontium-Sr2+"
+
+#~ msgid "Calcium-Ca2+"
+#~ msgstr "Calcium-Ca2+"
+
+#~ msgid "Magnesium-Mg2+"
+#~ msgstr "Magnesium-Mg2+"
+
+#~ msgid "Salt.png"
+#~ msgstr "Salt.png"
+
+#~ msgid "Salt_blue.png"
+#~ msgstr "Salt_blue.png"
+
+#~ msgid "Salt_Greenish.png"
+#~ msgstr "Salt_Greenish.png"
+
+#~ msgid "Salt_Dark_brown.png"
+#~ msgstr "Salt_Dark_brown.png"
+
+#~ msgid "Salt_Pink.png"
+#~ msgstr "Salt_Pink.png"
+
+#~ msgid "Salt_Light_Pink.png"
+#~ msgstr "Salt_Light_Pink.png"
+
+#~ msgid ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</"
+#~ "sup>, Mn<sup>2+</sup> are absent."
+#~ msgstr ""
+#~ "May be Cu<sup>2+</sup>, Ni<sup>2+</sup>, Fe<sup>3+</sup>, Co<sup>2+</"
+#~ "sup>, Mn<sup>2+</sup> are absent."
+
+#~ msgid "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+#~ msgstr "May be Cu<sup>2+</sup> or Ni<sup>2+</sup> is present"
+
+#~ msgid "May be Fe<sup>3</sup>+ is present"
+#~ msgstr "May be Fe<sup>3</sup>+ is present"
+
+#~ msgid "May be Mn<sup>2+</sup> is present"
+#~ msgstr "May be Mn<sup>2+</sup> is present"
+
+#~ msgid "Solubility </br>&nbsp;in water"
+#~ msgstr "Solubility </br>&nbsp;in water"
+
+#~ msgid "Odour"
+#~ msgstr "Odour"
+
+#~ msgid "Effect on </br> &nbsp;&nbsp;litmus"
+#~ msgstr "Effect on </br> &nbsp;&nbsp;litmus"
+
+#~ msgid "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+#~ msgstr "&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>"
+
+#~ msgid "Acetic acid"
+#~ msgstr "Acetic acid"
+
+#~ msgid "Properties of Acetic Acid (Ethanoic Acid)"
+#~ msgstr "Properties of Acetic Acid (Ethanoic Acid)"
+
+#~ msgid "NaHCO<sub>3</sub> solution"
+#~ msgstr "NaHCO<sub>3</sub> solution"
+
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+#~ msgstr ""
+#~ "Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and "
+#~ "drop the solution over<br/> the litmus paper."
+
+#~ msgid ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+#~ msgstr ""
+#~ "Drag the conical flask  <br/>over the thistle funnel <br /> to pour the "
+#~ "acetic acid into it."
+
+#~ msgid "A homogeneous solution is formed."
+#~ msgstr "A homogeneous solution is formed."
+
+#~ msgid "Blue litmus turns red."
+#~ msgstr "Blue litmus turns red."
+
+#~ msgid ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+#~ msgstr ""
+#~ "Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</"
+#~ "sub> gas that turns lime water milky."
+
+#~ msgid "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+#~ msgstr "Drag the flask to pour acetic acid into the  <br/> thistle funnel."
+
+#~ msgid "You get an irritating pungent smell."
+#~ msgstr "You get an irritating pungent smell."
+
+#~ msgid "Drag the dropper to pick the acetic acid."
+#~ msgstr "Drag the dropper to pick the acetic acid."
+
+#~ msgid "Drag the dropper again to drop it on the litmus paper."
+#~ msgstr "Drag the dropper again to drop it on the litmus paper."
+
+#~ msgid "Solution Controls"
+#~ msgstr "समाधान नियंत्रण"
+
+#~ msgid "Select Environment"
+#~ msgstr "चुनें पर्यावरण"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "रीडिंग दर्ज करें:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "गुरुत्वाकर्षण जन (ग्राम में):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "वस्तु का द्रव्यमान, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "खंड (मीटर में):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "घनत्व (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1घन सेंटीमीटर=1ml"
+
+#~ msgid "Check"
+#~ msgstr "चेक"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Temperature:"
+#~ msgstr "Temperature:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid "Temperature : "
+#~ msgstr "Temperature : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

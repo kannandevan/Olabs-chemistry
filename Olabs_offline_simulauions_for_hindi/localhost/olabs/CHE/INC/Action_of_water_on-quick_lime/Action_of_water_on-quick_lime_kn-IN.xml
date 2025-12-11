@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 <TEXTVALUE>ಪಠ್ಯವಿಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_animatitle_01">
+	<TEXTVALUE>ಸಂಯೋಗ ಕ್ರಿಯೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="1intro_start">
+	<TEXTVALUE>ಪ್ರಾರಂಭಿಸು</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="2into">
+	<TEXT ID="2into_one">
+	 <TEXTVALUE>ಬೇಕಾಗಿರುವ ಸಾಮಗ್ರಿಗಳು : ಸುಣ್ಣ,  ಆಸವಿತ ನೀರು , ಗಾಜಿನ ಬೀಕರ್ ಗಳು, ಸ್ಪಾಚುಲಾ, ಗಾಜಿನಕಡ್ಡಿ, ಪ್ರನಾಳ, ಡ್ರಾಪರ್ ಮತ್ತು ಸುಣ್ಣದ ತಿಳಿನೀರು.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_02">
+	 <TEXTVALUE>ನೀರು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2into_text_03">
+	 <TEXTVALUE>ಸುಣ್ಣ</TEXTVALUE>
+	</TEXT>
+	
+	
+
+</SCENE>
+
+
+
+
+<SCENE ID="3lime">
+	<TEXT ID="3lime_one">
+	 <TEXTVALUE> ಸ್ಪಾಚುಲಾ  ಬಳಸಿ ಸ್ಚಲ್ಪ ಪ್ರಮಾಣದ ಸುಣ್ಣ(ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸೈಡ್) ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಒಂದು ಬೀಕರ್ ಗೆ ವರ್ಗಾಯಿಸಿ, </TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="3lime_two">
+	 <TEXTVALUE>  ಸುಣ್ಣ ನೀರಿನಲ್ಲಿ ಮುಳುಗುವಂತೆ, ನಿಧಾನವಾಗಿ ಬೀಕರ್ ಗೆ ನೀರನ್ನು ಸೇರಿಸಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="3lime_therm01">
+	 <TEXTVALUE>ಉಷ್ಣತಾಮಾಪಕ</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+<SCENE ID="4zoom">
+	<TEXT ID="4zoom_one">
+	 <TEXTVALUE>ಸುಣ್ಣವು ನೀರಿನ ಜೊತೆ ವೇಗವಾಗಿ ವರ್ತಿಸಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಶಾಖ ಬಿಡುಗಡೆಯಾಗುವುದರ ಮೂಲಕ ಸುಣ್ಣದ ನೀರಿನ ಪ್ರಕ್ಷೇಪ/ನಿಲಂಬನ  ಉಂಟಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="4zoom_text_04">
+	 <TEXTVALUE>ಅರಳಿದ ಸುಣ್ಣ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+<SCENE ID="5zom">
+	<TEXT ID="5zom_one">
+	 <TEXTVALUE>ಬೀಕರ್  ಅನ್ನು ಸ್ವಲ್ಪ ಸಮಯದ ಕಾಲ ಕದಲದ  ಸ್ಥಿತಿಯಲ್ಲಿಡುವುದು. ಸುಣ್ಣದ ನೀರಿನ ಪ್ರಕ್ಷೇಪ ಬೀಕರ್ ನ ತಳಭಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿತವಾಗಿ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸ್ಪಷ್ಟವಾದ ದ್ರಾವಣ ಕಾಣಿಸುವುದು</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5zom_two">
+	 <TEXTVALUE> ಸುಣ್ಣದ ನೀರಿನ ಪ್ರಕ್ಷೇಪ ಬೀಕರ್ ನ ತಳಭಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿತವಾಗಿ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸ್ಪಷ್ಟವಾದ ದ್ರಾವಣ ಕಾಣಿಸುವುದು.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_lime_tt01">
+	 <TEXTVALUE>ಸುಣ್ಣದ ನೀರು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="5zom_texttt_05">
+	 <TEXTVALUE>ಅರಳಿದ ಸುಣ್ಣ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+
+
+
+
+<SCENE ID="6zom1">
+	<TEXT ID="6zom1_one">
+	 <TEXTVALUE>ಡ್ರಾಪರ್ ಸಹಾಯದಿಂದ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದ ಸುಣ್ಣದ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಪ್ರನಾಳಕ್ಕೆ ವರ್ಗಾಯಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="6zom1_two">
+	 <TEXTVALUE>ಪ್ರನಾಳವನ್ನು ಬಿರಡೆಯಿಂದ ಮುಚ್ಚಿರಿ, ಬಿರಡೆಯ ರಂಧ್ರದ ಮೂಲಕ ಗಾಜಿನ ಕೊಳವೆಯನ್ನು ತೂರಿಸಿ. </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_lom_tt1">
+	 <TEXTVALUE>ಸುಣ್ಣದ ನೀರು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="6zom1_glat_txt01">
+	 <TEXTVALUE>ಗಾಜಿನ ಪ್ರನಾಳ</TEXTVALUE>
+	</TEXT>
+	
+	</SCENE>
+
+
+
+
+
+<SCENE ID="7face">
+	<TEXT ID="7face_one">
+	 <TEXTVALUE>ಉಚ್ವಾಸದ ಗಾಳಿಯನ್ನು ಗಾಜಿನ ಕೊಳವೆಯ ಮೂಲಕ ಪ್ರನಾಳದ ಒಳಕ್ಕೆ ಊದಿರಿ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="8zoom3">
+	<TEXT ID="8zoom3_one">
+	 <TEXTVALUE>ಉಚ್ವಾಸದ ಗಾಳಿಯನ್ನು ಊದಿದಾಗ ಅದರಲ್ಲಿರುವ ಇಂಗಾಲದ ಡೈ ಆಕೈಡ್ ಸುಣ್ಣದ ತಿಳಿನೀರನ್ನು ಹಾಲಿನ ಬಣ್ಣಕ್ಕೆ ಪರಿವರ್ತಿಸುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9result">
+	<TEXT ID="9result_one">
+	 <TEXTVALUE>ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಸುಣ್ಣ ಮತ್ತು ನೀರು ಸಂಯುಕ್ತಗೊಂಡು, ಒಂದು ಹೊಸ ಸಂಯುಕ್ತ ವಸ್ತು ಉಂಟಾಗುತ್ತದೆ ಅದುವೇ ಕ್ಯಾಲ್ಷಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ( ಸುಣ್ಣದ ನೀರು) . ಆದ್ದರಿಂದ ಈ ಕ್ರಿಯೆಯನ್ನು ರಾಸಾಯನಿಕ ಸಂಯೋಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_calsiumtxt_01">
+	 <TEXTVALUE>ಒದ್ದೆ ಸುಣ್ಣ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="9result_bact_01">
+	 <TEXTVALUE>ಹಿಂದಕ್ಕೆ</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+

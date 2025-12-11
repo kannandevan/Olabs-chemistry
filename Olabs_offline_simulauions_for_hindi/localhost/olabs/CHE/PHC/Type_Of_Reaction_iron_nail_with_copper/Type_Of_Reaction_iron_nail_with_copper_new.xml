@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="naming">
+	<TEXT ID="naming_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introduction">
+	<TEXT ID="introduction_one">
+		<TEXTVALUE>We will require copper sulphate, iron nails, distilled water, a beaker, measuring jar, test tubes , two clamp stands, a piece of thread and glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoppersulphate">
+	<TEXT ID="addcoppersulphate_one">
+		<TEXTVALUE>Sufficient quantity of distilled water is taken in a measuring jar and poured into a clean beaker.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_two">
+		<TEXTVALUE>To this add a required quantity of copper sulphate.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="addcoppersulphate_three">
+		<TEXTVALUE>Stir the contents in the beaker using a glass rod until the copper sulphate crystals in the beaker dissolve completely.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="cstotesttube">
+	<TEXT ID="cstotesttube_one">
+		<TEXTVALUE>Pour sufficient quantity of copper sulphate into a test tube.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="cstotesttube_two">
+		<TEXTVALUE>Clamp the test tube to a stand.</TEXTVALUE>
+		</TEXT>
+	</SCENE>
+	
+<SCENE ID="cstosecondtesttube">
+	<TEXT ID="cstosecondtesttube_one">
+		<TEXTVALUE>Then pour sufficient quantity of copper sulphate into another test tube.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="cstosecondtesttube_two">
+		<TEXTVALUE>Clamp this test tube to another stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="sandpaper">
+	<TEXT ID="sandpaper_one">
+		<TEXTVALUE>Take two iron nails.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+	
+<SCENE ID="sparkling">
+	<TEXT ID="sparkling_one">
+		<TEXTVALUE>Clean these by rubbing them with a sand paper so that their colour appears greyish.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+	<SCENE ID="ironnails">
+	<TEXT ID="ironnails_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailclose">
+	<TEXT ID="nailclose_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	<SCENE ID="nailand">
+	<TEXT ID="nailand_one">
+		<TEXTVALUE>Tie one nail with a thread.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="totesttube">
+	<TEXT ID="totesttube_one">
+		<TEXTVALUE>Immerse this into one of the test tubes containing copper sulphate solution.</TEXTVALUE>
+		</TEXT>
+</SCENE>
+	
+<SCENE ID="changecolor">
+	<TEXT ID="changecolor_one">
+		<TEXTVALUE>Keep the two test tubes undisturbed for about 15min.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="changecolor_two">
+		<TEXTVALUE>After 15min, the colour of the copper sulphate solution containing the iron nail turns light greenish colour where as the colour of the solution in the other test tube does not change.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="changecolor_three">
+		<TEXTVALUE>The greenish colour of the solution is due to the presence of Fe[sup]2+[/sup] ions.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="lastnail">
+	<TEXT ID="lastnail_one">
+		<TEXTVALUE>Remove the iron nail from the solution.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_two">
+		<TEXTVALUE>Compare it with the other nail.</TEXTVALUE>
+		</TEXT>
+	<TEXT ID="lastnail_three">
+		<TEXTVALUE>While the nail dipped in the Copper sulphate solution has a brown coating of copper, the other nail retains its greyish colour. This is a single displacement reaction as Fe ions displace Cu ions from the Copper sulphate solution. </TEXTVALUE>
+		</TEXT>
+</SCENE>
+			
+	
+</DATA>
+
+	

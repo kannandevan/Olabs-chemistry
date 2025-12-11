@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="chemicalReaction.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CANDLE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CORK">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_DAZZLINGFLAME">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_HYDMSG1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_HYDMSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_HYDMSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_HYDMSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_HYDMSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_HYDMSG6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_INS1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_INS2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_INS3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_INS4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_INS5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_INSHYD1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_INSHYD2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_INSHYD3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_INSIRON1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_INSIRON2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_INSIRON3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_INSTRUCT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_INSZN1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_INSZN2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_INSZN3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_INSZN4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_INSZN5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_INSZN6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_INSZN7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_INSZN8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_MGMSG_OFF">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_MGMSG1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_MGMSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_MGMSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_MGMSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_MGMSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_MSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_MSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_MSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_MSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_MSG6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_MSG7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_RESET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_S1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_S2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_S3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_S4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_S5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_SELECT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_SELECTZN">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_SODINF1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_SODINF2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_SODIUMINS1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_SODIUMINS2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_SODIUMINS3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_SODIUMINS4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_SODMSG1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_SODMSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_SODMSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_SODMSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_SODMSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_SODMSG7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_SODMSG8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_SODMSG9">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_STIR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TEST1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TEST2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TEST3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TEST4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TUBE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_ZNMSG1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_ZNMSG2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_ZNMSG3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_ZNMSG4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_ZNMSG5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_ZNMSG6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_ZNMSG7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_ZNMSG08">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_ZNMSG8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_ZNMSG9">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_ZNMSG10">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_ZNMSG11">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

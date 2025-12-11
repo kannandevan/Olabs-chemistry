@@ -1,0 +1,27 @@
+$.i18n.mr = {};
+ jQuery.i18n.mr.strings ={
+	"Select the test": "परिक्षा निवडा",
+	"Solubility </br>&nbsp;in water": "पाण्यातली द्रवणशीलता",
+	"Odour": "वास",
+	"Effect on </br> &nbsp;&nbsp;litmus": "लिटमस वर प्रभाव",
+	"&nbsp; &nbsp;&nbsp;Reaction  <br />with NaHCO<sub>3</sub>": "NaHCO3 बरोबर अभिक्रिया",
+	"Acetic acid": "असेटीक अॅसिड",
+	"Litmus paper": "लिटमस कागद",
+	"Water": "पाणी",
+	"Reset": "रीसेट करा",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT",
+	"Properties of Acetic Acid (Ethanoic Acid)": "असेटीक आम्लाची वैशिष्ट्ये",
+	"NaHCO<sub>3</sub> solution": "NaHCO<sub>3</sub> द्रावण",
+	"Lime water": "चुन्याची निवळी",
+	"Drag the test tube to pour acetic acid into<br/> the test tube containing water.": "पाणी असलेल्या परिक्षा नळीत असेटीक आम्ल ओतण्यासाठी परिक्षा नळी ओढा.",
+	"Click on the test tube to shake it.": "परिक्षा नळीवर क्लिक करून हलवा.",
+	"Drag and dip the dropper into <br/>the acetic acid,<br/> then drag and drop the solution over<br/> the litmus paper.": "ड्रॉपर ओढून असेटीक अॅसिड मध्ये बुडवा, मग द्रावण ओढून लिटमस पेपरवर टाका.",
+	"Drag the conical flask  <br/>over the thistle funnel <br /> to pour the acetic acid into it.": "असेटीक आम्ल ओतण्यासाठी शंक्वाकृती चंबू लांब दांडीच्या नरसाळ्यावर ओढा.",
+	"A homogeneous solution is formed.": "एकविध द्रावण निर्माण होईल",
+	"A pungent smell is produced.": "एक तिखट वास निर्माण होतो",
+	"Blue litmus turns red.": "निळे लिटमस लाल होते.",
+	"Acetic acid reacts with sodium bicarbonate <br/> to produce CO<sub>2</sub> gas that turns lime water milky.": "असेटीक आम्ल आणि सोडियम बायकार्बोनेटची अभिक्रिया होते आणि CO2 वायू निर्माण होते ज्यामुळे चुन्याची निवळी दुधासारखी होते.",
+	"HELP": "मदत",
+	"FULLSCREEN": "FULLSCREEN",
+	"EXIT": "EXIT"
+}

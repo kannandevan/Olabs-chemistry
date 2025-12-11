@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: om\n"
+"POT-Creation-Date: 2015-12-02 09:23+0530\n"
+"PO-Revision-Date: 2015-12-03 09:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+#: simcontrols.js:91
+msgid "Reactivity of Metals"
+msgstr "धातु की अभिक्रियाशीलता"
+
+#: simcontrols.js:92 simcontrols.js:123
+msgid "HELP"
+msgstr "HELP"
+
+#: simcontrols.js:98
+msgid "Select the metal:"
+msgstr "धातु का चयन करें:"
+
+#: simcontrols.js:98
+msgid "Beaker A:"
+msgstr "बीकर A:"
+
+#: simcontrols.js:98
+msgid "Beaker B:"
+msgstr "बीकर B:"
+
+#: simcontrols.js:98
+msgid "Beaker C:"
+msgstr "बीकर C:"
+
+#: simcontrols.js:98
+msgid "Most reactive metal:"
+msgstr "सबसे ज्‍यादा अभिक्रियाशील धातु:"
+
+#: simcontrols.js:98
+msgid "Least reactive metal:"
+msgstr "सबसे कम अभिक्रियाशील धातु:"
+
+#: simcontrols.js:98
+msgid "Increasing order of reactivity:"
+msgstr "अभिक्रियाशीलता का बढता क्रम:"
+
+#: simcontrols.js:98
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: simcontrols.js:98
+msgid "1 hour"
+msgstr "1 घंटा"
+
+#: simcontrols.js:98
+msgid "CHEMISTRY LAB"
+msgstr "रसायन विज्ञान प्रयोगशाला"
+
+#: simcontrols.js:98
+msgid "Result"
+msgstr "परिणाम"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Aluminium"
+msgstr "एल्युमिनियम"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Zinc"
+msgstr "Zn"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Iron"
+msgstr "आयरन"
+
+#: simcontrols.js:101 simcontrols.js:118
+msgid "Copper"
+msgstr "कॉपर"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub>."
+msgstr ""
+"u की तुलना में Al ज्‍यादा अभिक्रियाशील है और यह विलयन (साल्‍यूशन) से Cu </ br> CuSO <sub> 4 Al "
+"</ sub> को विस्‍थापित कर  सकता हैं और Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> का "
+"रंगहीन विलयन (साल्‍यूशन) बनाता है।"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Zn and it can displace Zn from </br>ZnSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub>."
+msgstr ""
+"Zn की तुलना में Al ज्‍यादा अभिक्रियाशील है और यह Zn </br>ZnSO<sub>4 </sub> के विलयन "
+"(साल्‍यूशन) में से यह Zn को विस्थापित कर सकता है और Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub> का रंगहीन विलयन (साल्यूतशन) बनाता है।।"
+
+#: simcontrols.js:104
+msgid ""
+"Al is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4 </"
+"sub>solution and forms colourless solution of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</"
+"sub>."
+msgstr ""
+"Fe की तुलना में Al ज्‍यादा अभिक्रियाशील है और यह </br>FeSO<sub>4 </sub> के विलयन (साल्यूशन) से "
+"Fe को विस्‍थापित कर सकता हैं और Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> का रंगहीन "
+"विलयन (साल्यूतशन) बनाता है।"
+
+#: simcontrols.js:107
+msgid ""
+"Zn is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</sub> "
+"solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"Cu की तुलना में Zn ज्‍यादा अभिक्रियाशील है और यह </br>CuSO<sub>4</sub>  के विलयन (साल्यूशन) से "
+"Cu को विस्थापित कर सकता हैं और ZnSO<sub>4</sub> का रंगहीन विलयन (साल्यूशन) बनाता है।"
+
+#: simcontrols.js:107
+msgid ""
+"No change is observed. Because Zn is less reactive than Al </br>so it cannot "
+"displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। क्‍योंकि Al </br>से कम Zn अभिक्रियाशील है इसलिए यह Al<sub>2</"
+"sub>(SO<sub>4</sub>)<sub>3</sub> के विलयन (साल्यूशन)  से Al को विस्‍थापित नहीं कर सकती हैं।"
+
+#: simcontrols.js:107
+msgid ""
+"Zn is more reactive than Fe and it can displace Fe from </br>FeSO<sub>4</sub> "
+"solution and forms colourless solution of ZnSO<sub>4</sub>."
+msgstr ""
+"e की तुलना में Zn ज्‍यादा अभिक्रियाशील है और यह </br>FeSO<sub>4</sub> के विलयन (साल्‍यूशन) से "
+"Fe को विस्‍थापित कर सकती हैं  और ZnSO<sub>4</sub> का रंगहीन विलयन (साल्यूशन) बनाती है।"
+
+#: simcontrols.js:110
+msgid ""
+"Fe is is more reactive than Cu and it can displace Cu from </br>CuSO<sub>4</sub> "
+"solution and forms light green coloured FeSO<sub>4</sub> solution."
+msgstr ""
+"Cu की तुलना में Fe  ज्‍यादा अभिक्रियाशील है और यह </ br> CuSO <sub> 4 </ sub> के विलयन "
+"(साल्‍यूशन) से Cu को विस्‍थापित कर सकता हैंऔर  FeSO<sub>4</sub> का रंगहीन विलयन (साल्यूशन) "
+"बनाता है।"
+
+#: simcontrols.js:110
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Zn so it "
+"cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। इससे पता चलता है कि Zn से </ br> Fe कम अभिक्रियाशील है इसलिए "
+"यह  ZnSO<sub>4</sub> के विलयन (साल्‍यूशन) से Zn को विस्‍थापित नहीं कर सकता हैं।"
+
+#: simcontrols.js:110
+msgid ""
+"No change is observed. This indicates that Fe is less reactive </br>than Al so it "
+"cannot displace Al from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। इससे पता चलता है कि  Al से </br> Fe कम अभिक्रियाशील है इसलिए "
+"यह Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> के विलयन (साल्यूशन) से Al को विस्‍थापित नहीं "
+"कर सकता।"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Zn so it "
+"cannot displace Zn from ZnSO<sub>4</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। इससे पता चलता है कि Zn से </ br> Cu कम अभिक्रियाशील है इसलिए "
+"यह ZnSO<sub>4</sub> के विलयन (साल्‍यूशन) से Zn को विस्‍थापित नहीं कर सकता हैं।"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Al so it "
+"cannot displace Al from from Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। इससे पता चलता है कि Al से </ br> Cu कम अभिक्रियाशील है इसलिए "
+"यह Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>  के विलयन (साल्‍यूशन) से Al को विस्‍थापित "
+"नहीं कर सकता हैं।"
+
+#: simcontrols.js:113
+msgid ""
+"No change is observed. This indicates that Cu is less reactive </br>than Fe so it "
+"cannot displace Fe from FeSO<sub>4</sub> solution."
+msgstr ""
+"कोई बदलाव नहीं दिखाई देता है। इससे पता चलता है कि Fe की तुलना में </ br> Cu कम अभिक्रियाशील "
+"है इसलिए FeSO <sub> 4 </ sub> के विलयन (साल्‍यूशन) से Fe को विस्‍थापित नहीं कर सकता हैं।"
+
+#: simcontrols.js:116
+msgid "Select the metal."
+msgstr "धातु का चयन करें।"
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker A."
+msgstr "बीकर A के विलयन (साल्‍यूशन) का चयन करें"
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker B."
+msgstr "बीकर B के विलयन (साल्‍यूशन) का चयन करें"
+
+#: simcontrols.js:116
+msgid "Select the solution in beaker C."
+msgstr "बीकर C के विलयन (साल्‍यूशन) का चयन करें"
+
+#: simcontrols.js:116
+msgid "Click and drag the forceps to add </br>two pieces of metal to the beaker."
+msgstr "क्लिक करें और बीकर में धातु के दो टुकड़े डालने के लिए</ br>  स्पैचुला खींचें ।"
+
+#: simcontrols.js:118 simcontrols.js:119 simcontrols.js:122
+msgid "-Select-"
+msgstr "-चयन करें-"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Al<Cu<Fe<Zn"
+msgstr "Al<Cu<Fe<Zn"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Cu<Fe<Zn<Al"
+msgstr "Cu<Fe<Zn<Al"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Cu<Zn<Al<Fe"
+msgstr "Cu<Zn<Al<Fe"
+
+#: simcontrols.js:119 simcontrols.js:122
+msgid "Fe<Zn<Cu<Al"
+msgstr "Fe<Zn<Cu<Al"
+
+#: simcontrols.js:125 simcontrols.js:126 simcontrols.js:127
+msgid "Copper sulphate"
+msgstr "कॉपर सल्फेट"
+
+#: simcontrols.js:125 simcontrols.js:127 simcontrols.js:128
+msgid "Zinc sulphate"
+msgstr "जिंक सल्फेट"
+
+#: simcontrols.js:125 simcontrols.js:126 simcontrols.js:128
+msgid "Ferrous sulphate"
+msgstr "फेरस सल्फेट"
+
+#: simcontrols.js:126 simcontrols.js:127 simcontrols.js:128
+msgid "Aluminium sulphate"
+msgstr "एल्यूमीनियम सल्फेट"

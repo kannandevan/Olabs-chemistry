@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="title">
+	<TEXT ID="title_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="truesolution">
+	<TEXT ID="truesolution_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sugar">
+	<TEXT ID="sugar_one">
+		<TEXTVALUE>पानी में चीनी का एक वास्तविक विलयन की तैयारी।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_two">
+		<TEXTVALUE>एक  95ml आसुत जल युक्त  250ml बीकर में चीनी का महीन चूर्ण डाले।</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="sugar_three">
+		<TEXTVALUE>फिर जब तक चीनी घुल न जाए तब एक गिलास छड़ के उपयोग से विलयन को विलोडित करे।</TEXTVALUE>
+		</TEXT>
+	
+</SCENE>
+
+<SCENE ID="solution">
+	<TEXT ID="solution_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="cellophanepaper">
+	<TEXT ID="cellophanepaper_one">
+		<TEXTVALUE>एक परखनली में चीनी विलयन थोड़ी मात्रा में ले और परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		</TEXT>
+		
+		
+		<TEXT ID="cellophanepaper_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें| सिलोफ़न कागज स्पष्ट रूप से परखनली के दूसरी तरफ से देखा जाता है। यह एक वास्तविक विलयन पारदर्शी है इसका इंगित करता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Sugarfiltration">
+	<TEXT ID="Sugarfiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए  कुछ चीनी विलयन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Sugarfiltration_two">
+		<TEXTVALUE>फिल्टर कागज पर कोई अवशेष नहीं रह जाता है।  यह इसकि ओर इंगित करता है की ठोस कण निस्पंदन द्वारा एक वास्तविक विलयन से अलग नहीं किया जा सकता है ।</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="Stability">
+	<TEXT ID="Stability_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब में कुछ चीनी विलयन लें और 20 मिनट के लिए एक परखनली स्टैंड में छोड़ दें। बिना कोई अवसादों के विलयन पहले जैसे ही रहता है। यह इसे  इंगित करता है कि वास्तविक विलयन स्थिर रहे हैं और 'घटकों को जमा होते हुए नहीं दीखता है ।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SaltWater">
+	
+   <TEXT ID="SaltWater_one">
+		<TEXTVALUE>पानी में साधारण नमक के एक वास्तविक विलयन की तैयारी।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltWater_two">
+		<TEXTVALUE>एक  95ml आसुत जल युक्त  250ml बीकर में 10 g नमक का महीन चूर्ण डाले ।</TEXTVALUE>
+ </TEXT>
+    <TEXT ID="SaltWater_three">
+		<TEXTVALUE>फिर जब तक नमक घुल न जाए तब एक गिलास छड़ के उपयोग से विलयन को विलोडित करे।
+</TEXTVALUE>
+ </TEXT>
+   
+</SCENE>
+
+
+<SCENE ID="solutionsalt">
+	<TEXT ID="solutionsalt_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Salttranspirancy">
+	<TEXT ID="Salttranspirancy_one">
+		<TEXTVALUE>एक परखनली में नमक विलयन थोड़ी मात्रा में ले और परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Salttranspirancy_two">
+		<TEXTVALUE>सिलोफ़न कागज स्पष्ट रूप से परखनली के दूसरी तरफ से देखा जाता है। यह एक वास्तविक विलयन पारदर्शी है इसका इंगित करता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="SaltFiltration">
+	<TEXT ID="SaltFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए  कुछ नमक विलयन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SaltFiltration_two">
+		<TEXTVALUE>फिल्टर कागज पर कोई अवशेष नहीं रह जाता है।  यह इसकि ओर इंगित करता है की ठोस कण निस्पंदन द्वारा एक वास्तविक विलयन से अलग नहीं किया जा सकता है ।</TEXTVALUE>
+   </TEXT>
+    
+</SCENE>
+
+
+
+<SCENE ID="SaltStability">
+	<TEXT ID="SaltStability_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब में कुछ नमक विलयन लें और 20 मिनट के लिए एक परखनली स्टैंड में छोड़ दें। बिना कोई अवसादों के विलयन पहले जैसे ही रहता है। यह इसे  इंगित करता है कि वास्तविक विलयन स्थिर रहे हैं और 'घटकों को जमा होते हुए नहीं दीखता है ।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AlumWater">
+	<TEXT ID="AlumWater_one">
+		<TEXTVALUE>एक  95ml आसुत जल युक्त  250ml बीकर में 10 g फिटकिरी का महीन चूर्ण डाले ।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumWater_two">
+		<TEXTVALUE>फिर जब तक फिटकिरी घुल न जाए तब एक गिलास छड़ के उपयोग से विलयन को विलोडित करे।
+</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+
+<SCENE ID="solutionAlum">
+	<TEXT ID="psolutionAlum_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumTranspirncy">
+	<TEXT ID="AlumTranspirncy_one">
+		<TEXTVALUE>एक परखनली में फिटकिरी विलयन थोड़ी मात्रा में ले और परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="AlumTranspirncy_two">
+		
+		<TEXTVALUE>दूसरी तरफ से इसे देखें| सिलोफ़न कागज स्पष्ट रूप से परखनली के दूसरी तरफ से देखा जाता है। यह एक वास्तविक विलयन पारदर्शी है इसका इंगित करता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="AlumFiltration">
+	<TEXT ID="AlumFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ फिटकिरी विलयन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="AlumFiltration_two">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए  कुछ नमक विलयन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।
+</TEXTVALUE>
+   </TEXT>
+       
+</SCENE>
+
+<SCENE ID="AlumStability">
+	<TEXT ID="AlumStability_one">
+		<TEXTVALUE>एक टेस्ट ट्यूब में कुछ फिटकिरी विलयन लें और 20 मिनट के लिए एक परखनली स्टैंड में छोड़ दें। बिना कोई अवसादों के विलयन पहले जैसे ही रहता है। यह इसे  इंगित करता है कि वास्तविक विलयन स्थिर रहे हैं और 'घटकों को जमा 
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilWater">
+	<TEXT ID="SoilWater_one">
+		<TEXTVALUE>एक 95ml आसुत जल युक्त 250ml बीकर में 10 g  मिट्टी का महीन चूर्ण डाले ।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilWater_two">
+		<TEXTVALUE>फिर एक गिलास छड़ के उपयोग से विलयन को विलोडित करे।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="SoilTransparency">
+	<TEXT ID="SoilTransparency_one">
+		<TEXTVALUE>एक परखनली में मिट्टी निलंबन थोड़ी मात्रा में ले और परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए| </TEXTVALUE>
+		</TEXT>
+		<TEXT ID="SoilTransparency_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें| सिलोफ़न कागज परखनली के दूसरी तरफ से नही देखा जाता है। यह एक निलंबन अपारदर्शी  है इसका इंगित करता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="SoilFiltration">
+	<TEXT ID="SoilFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ मिट्टी निलंबन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+  <TEXT ID="SoilFiltration_two">
+		<TEXTVALUE>मिट्टी के कण फिल्टर पेपर पर देखा जाता है। इंगित करता है की निलंबन में निलंबित घटकों को निस्पंदन द्वारा अलग किया जा सकता है|</TEXTVALUE>
+   </TEXT>
+   </SCENE>
+
+
+<SCENE ID="SoilStability">
+	<TEXT ID="SoilStability_one">
+		<TEXTVALUE>एक परखनली में कुछ मिट्टी निलंबन लें और 20 मिनट के लिए एक परखनली  रैक में छोड़ दें। आप परखनली के तल पर मिट्टी के कणों की एक क्रमिक बसाव देख सकते है| 
+</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="SoilStability_two">
+		<TEXTVALUE>यह इंगित करता है की एक निलंबन अस्थिर है और भारी कण का बसाव भी दिखता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="Chalkwater">
+	<TEXT ID="Chalkwater_one">
+		<TEXTVALUE>एक  95ml आसुत जल युक्त  250ml बीकर में 10g चाक का महीन चूर्ण डाले।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Chalkwater_two">
+		<TEXTVALUE>फिर गिलास छड़ के उपयोग से विलयन को विलोडित करे।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+<SCENE ID="solutionchalk">
+	<TEXT ID="solutionchalk_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Chalktranspirancy">
+	<TEXT ID="Chalktranspirancy_one">
+		<TEXTVALUE>एक परखनली में चाक निलंबन थोड़ी मात्रा में ले। परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="Chalktranspirancy_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें| सिलोफ़न कागज परखनली के दूसरी तरफ से नही देखा जाता है। यह एक निलंबन अपारदर्शी  है इसका इंगित करता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="ChalkFiltration">
+	<TEXT ID="ChalkFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ चाक निलंबन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkFiltration_two">
+		<TEXTVALUE>चाक के कण फिल्टर पेपर पर देखा जाता है। इंगित करता है की निलंबन में निलंबित घटकों को निस्पंदन द्वारा अलग किया जा सकता है|</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="ChalkStability">
+	<TEXT ID="ChalkStability_one">
+		<TEXTVALUE>एक परखनली में कुछ चाक निलंबन लें और 20 मिनट के लिए एक परखनली  रैक में छोड़ दें। आप परखनली के तल पर मिट्टी के कणों की एक क्रमिक बसाव देख सकते है|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="ChalkStability_two">
+		<TEXTVALUE>यह इंगित करता है की एक निलंबन अस्थिर है और भारी कण का बसाव भी दिखता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandWater">
+	<TEXT ID="FindsandWater_one">
+		<TEXTVALUE>एक  95ml आसुत जल युक्त  250ml बीकर में 10 g  महीन रेत डाले।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandWater_two">
+		<TEXTVALUE>फिर एक गिलास छड़ के उपयोग से विलयन को विलोडित करे।
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="solutionsoisand">
+	<TEXT ID="solutionsoisand_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="FindsandTranspirancy">
+	<TEXT ID="FindsandTranspirancy_one">
+		<TEXTVALUE>एक परखनली में रेत निलंबन थोड़ी मात्रा में ले। परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		 </TEXT>
+		<TEXT ID="FindsandTranspirancy_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें| सिलोफ़न कागज परखनली के दूसरी तरफ से नही देखा जाता है। यह एक निलंबन अपारदर्शी  है इसका इंगित करता है।
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="FindsandFiltration">
+	<TEXT ID="FindsandFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ रेत  निलंबन डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="FindsandFiltration_two">
+		<TEXTVALUE>रेत के कण फिल्टर पेपर पर देखा जाता है। इंगित करता है की निलंबन में निलंबित घटकों को निस्पंदन द्वारा अलग किया जा सकता है|</TEXTVALUE>
+   </TEXT>
+   
+</SCENE>
+
+<SCENE ID="Findsandstability">
+	<TEXT ID="Findsandstability_one">
+		<TEXTVALUE>एक परखनली में कुछ रेत निलंबन लें और 20 मिनट के लिए एक परखनली  रैक में छोड़ दें। आप परखनली के तल पर मिट्टी के कणों की एक क्रमिक बसाव देख सकते है|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Findsandstability_two">
+		<TEXTVALUE>यह इंगित करता है की एक निलंबन अस्थिर है और भारी कण का बसाव भी दिखता है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchwater">
+	<TEXT ID="Starchwater_one">
+		<TEXTVALUE>एक 250ml बीकर में स्टार्च पाउडर की 1g ले।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_two">
+		<TEXTVALUE>100 ml आसुत जल युक्त एक दुसरे बीकर ले, 3 ml एक मापन जार में डाले और इसको स्टार्च युक्त बीकर में डाले| विलयन को एक गिलास छड़ से अच्छी तरह मिलाए|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_three">
+		<TEXTVALUE>बचे हुए 97 ml आसुत जल युक्त बीकर को एक बनसन बर्नर के उपयोग से गर्म करे|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Starchwater_four">
+		<TEXTVALUE>उबलते पानी को स्टार्च युक्त बीकर में डाले| एक गिलास छड़ के उपयोग से अच्छी तरह विलोडित करे और ठंडा करे| </TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilstarch">
+	<TEXT ID="solutionsoilstarch_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Starchtranspirancy">
+	<TEXT ID="Starchtranspirancy_one">
+		<TEXTVALUE>स्टार्च के कोलॉइड कुछ मात्रा में एक परखनली में ले। परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए| </TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="Starchtranspirancy_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें|सिलोफ़न कागज परखनली के दूसरी तरफ से फीके ढंग से देखा जा सकता है | यहइंगित करता है कि एक कोलाइड पारदर्शी है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="StarchFiltration">
+	<TEXT ID="StarchFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ स्टार्च के कोलॉइड डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="StarchFiltration_two">
+		<TEXTVALUE>फिल्टर कागज पर कोई अवशेष नहीं रह जाता है।  यह इसकि ओर इंगित करता है की ठोस कण निस्पंदन द्वारा एक वास्तविक विलयन से अलग नहीं किया जा सकता है ।</TEXTVALUE>
+   </TEXT>
+  
+</SCENE>
+
+<SCENE ID="StarchStability">
+	<TEXT ID="StarchStability_one">
+		<TEXTVALUE>एक परखनली में कुछ स्टार्च के कोलॉइड लें और 20 मिनट के लिए एक परखनली स्टैंड में छोड़ दें। कोई बदलाव नही दिखता है|  यह इंगित करता है कि कोलॉइड स्थिर है | उनके विलेय कण कुछ समय के बाद भी नही बसते|</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="Eggwater">
+	<TEXT ID="Eggwater_one">
+		<TEXTVALUE>एक 250  ml बीकर में 1 g अंड एल्ब्युमिन ले|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_two">
+		<TEXTVALUE>100 ml आसुत जल युक्त एक दुसरे बीकर से 5ml एक मापन जार में डाले और इसे अंड एल्ब्युमिन युक्त बीकर में डाले| विलयन को एक गिलास छड़ से अच्छी तरह मिलाए|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_three">
+		<TEXTVALUE>बचे हुए 95 ml आसुत जल युक्त बीकर को ले और उसे अंड एल्ब्युमिन युक्त बीकर में धीरे डाले| इसे एक गिलास छड़ से मिलाए| एक साफ़ विलयन मिलता है|</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="Eggwater_four">
+		<TEXTVALUE>इस साफ़ विलयन में फीके HCl के कुछ बूँद डाले और अच्छी तरह मिलाए|  अंड एल्ब्युमिन का साफ़ विलयन धुँधला हो जाता है|</TEXTVALUE>
+   </TEXT>
+   
+   
+   
+</SCENE>
+
+<SCENE ID="solutionsoilegg">
+	<TEXT ID="solutionsoilegg_one">
+		<TEXTVALUE>परीक्षण में से किसी एक को चुनने के लिए क्लिक करें।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="eggtranspirancy">
+	<TEXT ID="eggtranspirancy_one">
+		<TEXTVALUE>अंड एल्ब्युमिन के कोलॉइड कुछ मात्रा में एक परखनली में ले। परखनली के एक तरफ सिलोफ़न कागज के एक छोटी सी पट्टी चिपकाए|</TEXTVALUE>
+		</TEXT>
+		
+		<TEXT ID="eggtranspirancy_two">
+		<TEXTVALUE>दूसरी तरफ से इसे देखें|सिलोफ़न कागज परखनली के दूसरी तरफ से फीके ढंग से देखा जा सकता है | यह इंगित करता है कि एक कोलाइड पारभासी है।</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+<SCENE ID="EggFiltration">
+	<TEXT ID="EggFiltration_one">
+		<TEXTVALUE>एक क्लैंप स्टैंड का उपयोग कर एक परखनली पर एक कीप रखें। फिर कीप में एक फिल्टर कागज रखें। अब कीप के माध्यम से एक और परखनली में लिए कुछ अंड एल्ब्युमिन के कोलॉइड डाले। एक स्पष्ट निस्पंदन प्राप्त होता है।</TEXTVALUE>
+   </TEXT>
+   <TEXT ID="EggFiltration_two">
+		<TEXTVALUE>फिल्टर कागज पर कोई अवशेष नहीं रह जाता है।  यह इसकि ओर इंगित करता है की ठोस कण निस्पंदन द्वारा एक वास्तविक विलयन से अलग नहीं किया जा सकता है ।</TEXTVALUE>
+   </TEXT>
+   
+   
+</SCENE>
+
+<SCENE ID="Eggstability">
+	<TEXT ID="Eggstability_one">
+		<TEXTVALUE>एक परखनली में कुछ अंड एल्ब्युमिन के कोलॉइड लें और 20 मिनट के लिए एक परखनली स्टैंड में छोड़ दें। कोई बदलाव नही दिखता है|  यह इंगित करता है कि कोलॉइड स्थिर है | उनके विलेय कण कुछ समय के बाद भी नही बसते| 
+</TEXTVALUE>
+   </TEXT>
+</SCENE>
+
+
+
+
+
+
+
+	
+</DATA>

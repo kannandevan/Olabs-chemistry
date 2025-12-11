@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1duro">
+	<TEXT ID="1duro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2maarz">
+	<TEXT ID="2maarz_one">
+	 	<TEXTVALUE>We require ice cubes, beakers, thermometer, stirrer, a stand with clamp, wire gauze, tripod stand and a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3icebox">
+	<TEXT ID="3icebox_one">
+	 	<TEXTVALUE>Take some ice cubes in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4burner">
+	<TEXT ID="4burner_one">
+	 	<TEXTVALUE>Place the beaker on wire gauze, keep it over a tripod stand, and insert a stirrer into the beaker.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="4burner_two">
+	 	<TEXTVALUE>Take a thermometer and suspend it with the help of a clamp stand so that its bulb remains in the middle of the ice cubes.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="5burner">
+	<TEXT ID="5burner_one">
+	 	<TEXTVALUE>Heat the ice cubes in a moderate temperature using a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="5burner_two">
+	 	<TEXTVALUE>Stir continuously to keep a uniform temperature throughout. Note the temperature (t1°C), when the ice starts melting.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5burner_three">
+	 	<TEXTVALUE>Continue heating the ice.</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="5burner_four">
+	 	<TEXTVALUE>Note the temperature (t2°C) when the ice is completely melted into water.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="6result">
+	<TEXT ID="6result_one">
+	 	<TEXTVALUE>The average of the two temperatures gives the melting point of ice. The melting point of ice is 0°C.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+

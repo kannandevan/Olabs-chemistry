@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="index.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_EXP_10MINTEXT">
+        <source>10Min</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_EXP_25NAOHTEXT">
+        <source>25% NaOH</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_EXP_ACETYLCHOLORIDE">
+        <source>Acetyl chloride</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EXP_AGNO3SOLN">
+        <source>AgNO3 solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_EXP_ALCOHOLICGROUP">
+        <source>Tests for Alcoholic Group</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_EXP_ALCOHOLICGROUP1">
+        <source>Alcoholic Group</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_EXP_ALCOHOLICGROUPACECHTEST">
+        <source>Acetyl Chloride Test</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_EXP_ALCOHOLICGROUPESTERTEST">
+        <source>Ester test</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_EXP_ALDEHYDES">
+        <source>Aldehydes</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_EXP_ALDEHYDESKETONIIC">
+        <source>Aldehydic and Ketonic Groups</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_EXP_ALDEHYDICKETONIC">
+        <source>Tests for Aldehydic and Ketonic Groups</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_EXP_AMMONIUMHYDROXIDE">
+        <source>Ammonium hydroxide</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_EXP_AMMONIUMSOLN">
+        <source>Dil. Ammonia solution</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_EXP_ANHYDROUSCALCIUMSULPHATE">
+        <source>Anhydrous calcium sulphate</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_EXP_ANIMATIONTITLE">
+        <source>Tests for the Functional Groups</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_EXP_AZODYETEST">
+        <source>Azo-Dye Test</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_EXP_AZODYETEST ">
+        <source>Azo-Dye Test</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_EXP_BACK">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_EXP_BAEYERTEST">
+        <source>Baeyer&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_EXP_BENZENESULPHONYLTEXT">
+        <source>Benzene sulphonyl chloride</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_EXP_BROMINETEST">
+        <source>Bromine Water Test</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_EXP_BROMINEWATER">
+        <source>Bromine water</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_EXP_CARBOXYLICGROUP">
+        <source>Tests for Carboxylic Group</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_EXP_CARBYLAMINESTEST">
+        <source>Carbylamine Test</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_EXP_CERICAMMONIUMNITRATE">
+        <source>Ceric ammonium nitrate</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_EXP_CERICAMMONIUMNITRATETEST">
+        <source>Ceric Ammonium Nitrate Test</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_EXP_CHOLOROFORM">
+        <source>Chloroform</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_EXP_COLDWATER">
+        <source>Cold water</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_EXP_CONCHCLTEST">
+        <source>Conc. HCl</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_EXP_CONCHTWO">
+        <source>Conc H2SO4</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_EXP_CONSULPHURICACID">
+        <source>Conc. Sulphuric acid</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_EXP_DILHCL">
+        <source>Dil.HCl</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_EXP_DILHCLTEXT">
+        <source>Dil.HCl</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_EXP_DILNAOHSOLN">
+        <source>Dil. NaOH solution</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_EXP_DILNAOHTEXT">
+        <source>Dil. NaOH</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_EXP_DILSODIUMHYDROXIDESOLN">
+        <source>Dil. Sodium hydroxide solution</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_EXP_DINITROBENZENE">
+        <source>m-Dinitrobenzene</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_EXP_DINITROBENZENETEST">
+        <source>m-Dinitrobenzene Test</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_EXP_DINITROPHENYLHYDRATEST">
+        <source>2,4-Dinitrophenyl hydrazine Test</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_EXP_DINITROPHENYLHYDRAZINE">
+        <source>2, 4-Dinitrophenyl hydrazine</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_EXP_DISTILLEDWATER">
+        <source>Distilled Water</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_EXP_DISTILLEDWATERTEXT">
+        <source>Distilled Water</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_EXP_DROPS">
+        <source>Drops</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_EXP_ESTERTEST">
+        <source>Ester Test</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_EXP_ETHANOL">
+        <source>Ethanol </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_EXP_ETHYLALCOHOL">
+        <source>Ethyl alcohol </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_EXP_FEHLINGSOLNA">
+        <source>Fehling&apos;s solution A</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_EXP_FEHLINGSOLNB">
+        <source>Fehling&apos;s solution B </source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_EXP_FEHLINGTEST">
+        <source>Fehling&apos;sTest</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_EXP_FERRICCHLORIDE">
+        <source>Neutral ferric chloride</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_EXP_FERRICCHLORIDETEST">
+        <source>Ferric chloride Test</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_EXP_GLACIALACETICACID">
+        <source>Glacial acetic acid</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_HCLTEXTTWO">
+        <source>Conc.HCl</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_EXP_HINSBERGTEST">
+        <source>Hinsberg Test</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_EXP_IODINESOLN">
+        <source>1% iodine solution</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_EXP_KETONIC">
+        <source>Ketones</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_EXP_KMNO4SOLUTION">
+        <source>KMnO Solution</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_EXP_LIEBERMANNTEST">
+        <source>Liebermann&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_EXP_LIMTUSPAPER">
+        <source>Moist blue litmus paper</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_EXP_LIMTUSPAPER00">
+        <source>Moist red litmus paper</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_EXP_LIMTUSTEST">
+        <source>Litmus Test </source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_EXP_LUCASREAGENT">
+        <source>Lucas reagent</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_EXP_LUCASTEST">
+        <source>Lucas test </source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_EXP_MIN">
+        <source>min</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_EXP_MINUTE">
+        <source>minute</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_EXP_ML">
+        <source>ml</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_EXP_NAPHTHOLTEXT">
+        <source>-Naphthol</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_EXP_NITROUSACIDTEST">
+        <source>Nitrous acid test</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_EXP_ONEMINUTE">
+        <source>1 minute</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_EXP_ORGANICCOMPOUNDTEXT">
+        <source>Organic Compound</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_EXP_PHENOL">
+        <source>Phenol</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_EXP_PHENOLICGROUP">
+        <source>Tests for Phenolic Group</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_EXP_PHTHALEINDYETEST">
+        <source>Phthalein Dye Test</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_EXP_PHTHALICANHYDRIDE">
+        <source>Phthalic anhydride</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_EXP_POTASIUMHYDROXIDE">
+        <source>Potassium hydroxide</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_EXP_PRIMARYALCOHOLT">
+        <source>Primary
+Alcohol
+1°</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_EXP_PRIMARYAMINETEXT">
+        <source>Primary 
+Amine</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_EXP_RECTIFIEDSPRIT">
+        <source>Rectified Spirit</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_EXP_SATURATION">
+        <source>Saturation</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_EXP_SCHIFFREAGENT">
+        <source>Schiff&apos;s reagent</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_EXP_SCHIFFSTEST">
+        <source>Schiff&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_EXP_SECONDARYALCOHOL">
+        <source>Secondary
+Alcohol
+2°</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_EXP_SECONDARYAMINETEXT">
+        <source>Secondary
+Amine</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_EXP_SODIUMBICARBONATE">
+        <source>Sodium bicarbonate</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_EXP_SODIUMBICARBONATETEST">
+        <source>Sodium bicarbonate test</source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_EXP_SODIUMBISULPHITE">
+        <source>Sodium bisulphite test</source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_EXP_SODIUMBISUPHIT">
+        <source>Sodium bisulphite</source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_EXP_SODIUMHYDROXIDE">
+        <source>Sodium Hydroxide</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_EXP_SODIUMHYDROXIDESLTN">
+        <source>Sodium hydroxide 
+solution</source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_EXP_SODIUMHYDROXIDESOLN">
+        <source>Sodium hydroxide solution</source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_EXP_SODIUMMETAL">
+        <source>Sodium metal</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_EXP_SODIUMMETALKEROCINE">
+        <source>Sodium metal in Kerosene</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_EXP_SODIUMMETALTEST">
+        <source>Sodium Metal Test</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_EXP_SODIUMNITRATE">
+        <source>Sodium Nitrite</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_EXP_SODIUMNITRITETEXT">
+        <source>Sodium nitrite</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_EXP_SODIUMNITROPRUSIDETEST">
+        <source>Sodium nitroprusside test </source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_EXP_SODIUMNITROPRUSSIDE">
+        <source>Sodium nitroprusside</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_EXP_SOLN">
+        <source>solution</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_EXP_SOLUBILITYTEST">
+        <source>SolubilityTest</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_EXP_TERTIARYALCOHOL">
+        <source>Tertiary
+Alcohol
+3° </source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_EXP_TERTIARYAMINETEXT">
+        <source>Tertiary
+Amine</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_EXP_TESTALCOHOLICGROUPIODO">
+        <source> Iodoform Test</source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_EXP_TESTALDEHYDICKETONIC">
+        <source>Tests for Aldehydic and Ketonic Groups</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_EXP_TESTAMINO">
+        <source>Tests for Amino Group</source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_EXP_TESTFORALDEHYDES">
+        <source>Tests for Aldehydes</source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_EXP_TESTFORAMINOGROUP">
+        <source>Test for Amino Group</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_EXP_TESTFORAMINOGROUPT">
+        <source>Tests for Amino group</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_EXP_TESTFORUNSATURATION">
+        <source>Tests for Unsaturation</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_EXP_TESTFUNCTIONALGROUP">
+        <source>Tests for Functional Groups</source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_EXP_TESTPHENOLICGROUP">
+        <source>Tests for Phenolic Group</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_EXP_TESTUNSATURATION">
+        <source>Tests for Unsaturation</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_EXP_TOLLENTEST">
+        <source>Tollen&apos;s Test</source>
+      </trans-unit>
+      <trans-unit id="113" resname="IDS_EXP_UNKNOWNCOMPOUND">
+        <source>Unknown compound</source>
+      </trans-unit>
+      <trans-unit id="114" resname="IDS_EXP_UNKNOWNLIQUID">
+        <source>Unknown Liquid</source>
+      </trans-unit>
+      <trans-unit id="115" resname="IDS_EXP_UNKNOWNSOLN">
+        <source>Unknown compound</source>
+      </trans-unit>
+      <trans-unit id="116" resname="IDS_EXP_UNPLEASANTODOUR">
+        <source>Unpleasant odour</source>
+      </trans-unit>
+      <trans-unit id="117" resname="IDS_EXP_UNSATURATION">
+        <source>Unsaturation</source>
+      </trans-unit>
+      <trans-unit id="118" resname="IDS_EXP_WATER">
+        <source>Water</source>
+      </trans-unit>
+      <trans-unit id="119" resname="IDS_TESTFORKETONES">
+        <source>Tests for Ketones</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

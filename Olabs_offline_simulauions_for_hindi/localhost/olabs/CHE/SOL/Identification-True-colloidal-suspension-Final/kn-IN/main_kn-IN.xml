@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="kn-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_3ML">
+        <source>3 ಮಿಲೀ
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ANIMATION_ALU">
+        <source>ಪಟಿಕಾರ
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_ALU10">
+        <source>ಪಟಿಕಾರ (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANIMATION_AS">
+        <source>ಪಟಿಕಾರ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANIMATION_BACK">
+        <source>&lt;&lt; ಹಿಂದಕ್ಕೆ
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ANIMATION_BACKE">
+        <source>ಹಿಂದಕ್ಕೆ
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ANIMATION_CEA">
+        <source>ಮೊಟ್ಟೆ ಲೋಳೆಯ ಕಲಿಲ 
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ANIMATION_CELL">
+        <source>ಸೆಲ್ಲೋಫೇನ್ ಪೇಪರ್
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ANIMATION_CHAK">
+        <source>ಚಾಕ್ ಪುಡಿ
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ANIMATION_CHAK10">
+        <source>ಚಾಕ್ (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ANIMATION_CHALKPARTI">
+        <source>&quot;ಚಾಕ್ ಕಣಗಳು
+
+ಫಿಲ್ಟರ್ ಪೇಪರ್ ಮೇಲೆ ಉಳಿದಿವೆ &quot;
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ANIMATION_CHALKSUS">
+        <source>ಚಾಕ್ ನಿಲಂಬನ
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ANIMATION_CLFLT">
+        <source>ಸ್ಪಷ್ಟ ಶೋಧಿತ 
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ANIMATION_COLLO">
+        <source>ಕಲಿಲ ದ್ರಾವಣಗಳು
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ANIMATION_COLLOID">
+        <source>ಪಿಷ್ಟದ ಕಲಿಲ 
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ANIMATION_CS">
+        <source>ಚಾಕ್ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ANIMATION_DIST">
+        <source>ಡಿಸ್ಟ್: ನೀರು
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_ANIMATION_EAS">
+        <source>ಮೊಟ್ಟೆಯ ಲೋಳೆಯ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_ANIMATION_EGG">
+        <source>ಮೊಟ್ಟೆಯ ಲೋಳೆ
+</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ANIMATION_EGGGM">
+        <source>ಮೊಟ್ಟೆಯ ಲೋಳೆ (1ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_ANIMATION_FILT">
+        <source>ಶೋಧನೆ
+</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_ANIMATION_FP">
+        <source>ಫಿಲ್ಟರ್ ಪೇಪರ್ 
+</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_ANIMATION_FS">
+        <source>ಸಣ್ಣ ಮರಳು (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ANIMATION_FSS">
+        <source>ಸಣ್ಣ ಮರಳಿನ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_ANIMATION_HCL">
+        <source>HCl</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_ANIMATION_NO">
+        <source>&quot;ಫಿಲ್ಟರ್ ಪೇಪರ್ 
+ಮೇಲೆ 
+
+ಯಾವುದೇ ಕಣಗಳು ಉಳಿದಿಲ್ಲ &quot;
+</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_ANIMATION_PARTICLE">
+        <source>&quot;ಮಣ್ಣಿನ ಕಣಗಳು
+
+ಫಿಲ್ಟರ್ ಪೇಪರ್ ಮೇಲೆ ಉಳಿದಿವೆ &quot;
+</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_ANIMATION_RESUIDE">
+        <source>&quot;ಫಿಲ್ಟರ್ ಪೇಪರ್ ಮೇಲೆ 
+
+ಯಾವುದೇ ಉಳಿಕೆ ಇಲ್ಲ   &quot;
+</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_ANIMATION_S">
+        <source>ಪಿಷ್ಟದ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_ANIMATION_SAL">
+        <source>ಉಪ್ಪು
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_ANIMATION_SALT10">
+        <source>ಉಪ್ಪು (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_ANIMATION_SAN">
+        <source>ಸಣ್ಣ ಮರಳು
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_ANIMATION_SANDPARTI">
+        <source>&quot;ಮಣ್ಣಿನ ಕಣಗಳು
+
+ಫಿಲ್ಟರ್ ಪೇಪರ್ ಮೇಲೆ ಉಳಿದಿವೆ &quot;
+</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_ANIMATION_SANDSUS">
+        <source>ಮರಳಿನ ನಿಲಂಬನ
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_ANIMATION_SO10">
+        <source>ಮಣ್ಣು (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_ANIMATION_SOI">
+        <source>ಮಣ್ಣು
+</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_ANIMATION_SOILS">
+        <source>ಮಣ್ಣಿನ ನಿಲಂಬನ
+</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_ANIMATION_SS">
+        <source>ಉಪ್ಪಿನ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_ANIMATION_SSO">
+        <source>ಮಣ್ಣಿನ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_ANIMATION_ST1">
+        <source>ಪಿಷ್ಟ (1ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_ANIMATION_STAB">
+        <source>ಸ್ಥಿರತೆ
+</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_ANIMATION_STAR">
+        <source>ಪಿಷ್ಟ
+</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_ANIMATION_SU">
+        <source>ಸಕ್ಕರೆ (10 ಗ್ರಾಂ)
+</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_ANIMATION_SUG">
+        <source>ಸಕ್ಕರೆ
+</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_ANIMATION_SUR">
+        <source>ಸಕ್ಕರೆ ದ್ರಾವಣ
+</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_ANIMATION_SUSP">
+        <source>ನಿಲಂಬನಗಳು</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_ANIMATION_TITLE">
+        <source>ದ್ರಾವಣಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_ANIMATION_TRANSL">
+        <source>ಅರೆಪಾರದರ್ಶಕ ಶೋಧಿತ
+</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_ANIMATION_TRANSP">
+        <source>ಪಾರದರ್ಶಕತೆ
+</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_ANIMATION_TRUE">
+        <source>ನೈಜ ದ್ರಾವಣಗಳು
+</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_ANIMATION_WAT">
+        <source>ನೀರು  (95 ಮಿಲೀ)
+</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_ANIMATION_WAT100">
+        <source>ನೀರು 100 ಮಿಲೀ
+</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_EXP_5ML">
+        <source>5 ಮಿಲೀ
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

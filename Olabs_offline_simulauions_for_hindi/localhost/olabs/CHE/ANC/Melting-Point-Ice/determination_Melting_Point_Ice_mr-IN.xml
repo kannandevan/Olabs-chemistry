@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<SCENE ID="1duro">
+	<TEXT ID="1duro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2maarz">
+	<TEXT ID="2maarz_one">
+	 	<TEXTVALUE>आवश्यक सामग्री: बर्फ, चंचुपात्र, थर्मामिटर, ढवळणी, क्लांप असलेला स्टँड, तार गोझ, तिवई आणि बन्सेन बर्नर</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3icebox">
+	<TEXT ID="3icebox_one">
+	 	<TEXTVALUE>काही बर्फाचे तुकडे चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4burner">
+	<TEXT ID="4burner_one">
+	 	<TEXTVALUE>चंचुपात्र तार गोझ वर ठेवा, ते तिवई वर ठेवा, आणि चंचुपात्रात ढवळणी टाका.</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="4burner_two">
+	 	<TEXTVALUE>एक थर्मामिटर घ्या आणि क्लांप स्टँड च्या मदतीने असे लटकवा की त्याचे बल्ब बर्फात बुडलेले असेल.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="5burner">
+	<TEXT ID="5burner_one">
+	 	<TEXTVALUE>बन्सेन बर्नर वापरून बर्फ मध्यम तापमानाला गरम करा.</TEXTVALUE>
+	</TEXT>
+	
+	
+	<TEXT ID="5burner_two">
+	 	<TEXTVALUE>समान तापमान ठेवण्यासाठी ढवळत रहा. ज्या तापमानाला बर्फ वितळू लागतो त्याची नोंद करा (टी१)</TEXTVALUE>
+	</TEXT>
+	
+		<TEXT ID="5burner_three">
+	 	<TEXTVALUE>बर्फ गरम करत रहा.</TEXTVALUE>
+	</TEXT>
+	
+	
+			<TEXT ID="5burner_four">
+	 	<TEXTVALUE>ज्या तापमानाला बर्फ संपूर्ण वितळतो त्याची नोंद करा (टी२)</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="6result">
+	<TEXT ID="6result_one">
+	 	<TEXTVALUE>या दोन्ही तापमानाची सरासरी म्हणजे बर्फाचा द्रवणांक. बर्फाचा द्रवणांक ००से. आहे
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+

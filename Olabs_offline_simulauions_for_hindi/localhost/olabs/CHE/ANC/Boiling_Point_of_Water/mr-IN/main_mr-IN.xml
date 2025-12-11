@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="mr-IN">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ANIMATION_BACK">
+        <source>मागे</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ANIMATION_BOIL">
+        <source>पाण्याचे उत्कलन बिन्दु</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ANIMATION_CALC">
+        <source>[t1 + t2] /2</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ANIMATION_CORK">
+        <source>दोन भोकं असलेले बूच</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ANIMATION_DEL">
+        <source>वितरण नलिका </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ANIMATION_START">
+        <source>सुरु करा</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ANIMATION_STARTST1">
+        <source>उकळणे सुरू होते टी१</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ANIMATION_T1">
+        <source>t1=100°c</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ANIMATION_T2">
+        <source>t2=100°c</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ANIMATION_TEMP">
+        <source> पाण्याचे तापमान जेव्हा</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ANIMATION_TEMPT2">
+        <source> उकळत रहा (स्थिर तापमान) टी२</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ANIMATION_THERMO">
+        <source>थर्मामिटर</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ANIMATION_TITLE">
+        <source>पाण्याचे उत्कलन बिन्दु निर्धारित करणे</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_LABEL1">
+        <source>ऊर्ध्वपतित पाणी</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_LABEL2">
+        <source>अश्मफेन</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

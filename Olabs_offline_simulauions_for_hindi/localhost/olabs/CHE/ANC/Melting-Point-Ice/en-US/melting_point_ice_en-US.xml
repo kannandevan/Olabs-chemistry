@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="melting_point_ice.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BEAKER">
+        <source>Beaker</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_BLACKWIRE">
+        <source>Black wire gauze</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BURNER">
+        <source>Burner</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BURNEROFF">
+        <source>Turn off Burner</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BURNERON">
+        <source>Turn on Burner</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ICE">
+        <source>Add Ice Cubes</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ICECUBES">
+        <source>Ice cubes</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INFORM">
+        <source>The burner turns off automatically when the ice melts. To do the experiment again click the &apos;Reset&apos; button.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_INFORM1">
+        <source>Move the mouse over the apparatus to know the names.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STIR">
+        <source>Stir</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STIRER">
+        <source>Stirer</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TEMP">
+        <source>Temperature:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_THERMOMETER">
+        <source>Thermometer</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TRIPODSTAND">
+        <source>Tripod stand</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_UNITDEGREE">
+        <source>°C</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

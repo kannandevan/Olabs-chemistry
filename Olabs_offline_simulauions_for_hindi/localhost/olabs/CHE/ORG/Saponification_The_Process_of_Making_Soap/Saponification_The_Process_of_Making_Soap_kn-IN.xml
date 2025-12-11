@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DATA>
+<SCENE ID="Zincsulphuricacid">
+	<TEXT ID="Zincsulphuricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_1">
+	<TEXTVALUE> ಸಾಬೂನೀಕರಣ: ಸಾಬೂನನ್ನು ತಯಾರಿಸುವ ವಿಧಾನ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Zincsulphuricacid_string_2">
+	<TEXTVALUE>ಪ್ರಾರಂಭಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab">
+	<TEXT ID="Lab_one">
+	<TEXTVALUE>ಅಗತ್ಯ ವಸ್ತುಗಳು: ಅಳತೆ ಜಾಡಿಗಳು  ,ಅಡಿಗೆ ಉಪ್ಪು (ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್),  ಗಾಜಿನ ಬೀಕರ್ ಗಳು, ಕೊಬ್ಬರಿ ಎಣ್ಣೆ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ, ಬುನ್‍ಸೆನ್  ಬರ್ನರ್ ,ಗಾಜಿನ ಕಡ್ಡಿ, ಫನಲ್(ಆಲಿಕೆ),ಸೋಸು ಕಾಗದ,ತಂತಿ ಜಾಲರಿ,ತ್ರಿಪಾದ ಒಲೆ, ಹಿಡಿಕಟ್ಟು ಇರುವ ಸ್ತಂಭ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_3">
+	<TEXTVALUE>ಸಾಮಾನ್ಯ ಉಪ್ಪು[15g]</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_4">
+	<TEXTVALUE>ತೆಂಗಿನ ಎಣ್ಣೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_5">
+	<TEXTVALUE>[20%] NaOH 
+ಪರಿಹಾರ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_6">
+	<TEXTVALUE>ಅಳತೆ
+ಸಿಲಿಂಡರ್ಗಳು</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_7">
+	<TEXTVALUE>ಸಾಮಾನ್ಯ ಉಪ್ಪು[</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_8">
+	<TEXTVALUE>ಗ್ಲಾಸ್ ಬೀಕರ್
+ (250 ml)</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_9">
+	<TEXTVALUE>ತೆಂಗಿನ ಎಣ್ಣೆ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_10">
+	<TEXTVALUE>20% NaOH ಪರಿಹಾರ</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_11">
+	<TEXTVALUE>ಬನ್ಸೆನ್ ಬರ್ನರ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab_string_12">
+	<TEXTVALUE>ಫಿಲ್ಟರ್ ಫನಲ್</TEXTVALUE>
+	</TEXT>
+	
+	
+	
+	
+	
+	
+	
+</SCENE>
+<SCENE ID="Lab1">
+	<TEXT ID="Lab1_one">
+	<TEXTVALUE>25 ml ಕೊಬ್ಬರಿ ಎಣ್ಣೆಯನ್ನು ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ ಅಳೆಯಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab2">
+	<TEXT ID="Lab2_one">
+	<TEXTVALUE>25 ml ಕೊಬ್ಬರಿ ಎಣ್ಣೆಯನ್ನು ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ ಅಳೆಯಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab3">
+	<TEXT ID="Lab3_one">
+	<TEXTVALUE>ಕೊಬ್ಬರಿ ಎಣ್ಣೆಯನ್ನು ಬೀಕರಿಗೆ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab4">
+	<TEXT ID="Lab4_one">
+	<TEXTVALUE>ಮತ್ತೊಂದು ಅಳತೆ ಜಾಡಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab5">
+	<TEXT ID="Lab5_one">
+	<TEXTVALUE>30 ml 20% ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣವನ್ನು ಅಳತೆಮಾಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab5_string_13">
+	<TEXTVALUE>[20%] NaOH 
+ಪರಿಹಾರ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab6">
+	<TEXT ID="Lab6_one">
+	<TEXTVALUE>ಕೊಬ್ಬರಿ ಎಣ್ಣೆ ಇರುವ ಬೀಕರಿಗೆ ಹಾಕಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab7">
+	<TEXT ID="Lab7_one">
+	<TEXTVALUE> ಗಾಜಿನ ಕಡ್ಡಿಯ ಸಹಾಯದಿಂದ ಬೀಕರಿನಲ್ಲಿರುವ ಮಿಶ್ರಣವನ್ನು ಚೆನ್ನಾಗಿ ಕಲಕಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab8">
+	<TEXT ID="Lab8_one">
+	<TEXTVALUE>ಬೀಕರನ್ನು ಹೊರಗಿನಿಂದ ಮುಟ್ಟಿ, ಬಿಸಿಯಾಗಿರುವುದನ್ನು ಗಮನಿಸಿ.ಇದು ತರಕಾರಿ ಎಣ್ಣೆ(ಕೊಬ್ಬರಿ ಎಣ್ಣೆ) ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣದ ಕ್ರಿಯೆಯಿಂದಾಗಿ ಉಷ್ಣ ಬಿಡುಗಡೆಯಾಗಿ, ಉಷ್ಣಕ್ಷೇಪಕ ಕ್ರಿಯೆಯಾಗಿದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab8_string_14">
+	<TEXTVALUE>Remove</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_one">
+	<TEXTVALUE>ಮಿಶ್ರಣವುಳ್ಳ ಬೀಕರನ್ನು ತಂತಿ ಜಾಲರಿ ಇರಿಸಿದ ತ್ರಿಪಾದ ಒಲೆಯ ಮೇಲಿರಿಸಿ. ಬುನ್‍ಸೆನ್ ಬರ್ನರ್  ಬಳಸಿ, ಮಿಶ್ರಣ ಬಿಳಿಯಾಗುವವರೆಗೆ ಬೀಕರನ್ನು ಕಾಯಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab9">
+	<TEXT ID="Lab9_two">
+	<TEXTVALUE> ಬೀಕರನ್ನು ಕೆಳಕ್ಕಿರಿಸಿ, ತಂಪಾಗಲು ಬಿಡಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_one">
+	<TEXTVALUE> ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಬೀಕರಿನಲ್ಲಿರುವ ಮಿಶ್ರಣದಲ್ಲಿ ಮುಳುಗಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab10">
+	<TEXT ID="Lab10_two">
+	<TEXTVALUE> ಲಿಟ್ಮಸ್ ಕಾಗದದ ಕೆಂಪು ಬಣ್ಣ ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ಬದಲಾಗುತ್ತದೆ.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_15">
+	<TEXTVALUE>ಕೆಂಪು ಲಿಟ್ಮಸ್ ಪೇಪರ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab10_string_16">
+	<TEXTVALUE>ಪ್ರಕೃತಿಯಲ್ಲಿ ಮೂಲಭೂತ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_one">
+	<TEXTVALUE>ಅಮಾನತುಗೊಳಿಸಿದ ನೀಲಿ ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಅದ್ದು.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_17">
+	<TEXTVALUE>ನೀಲಿ ಲಿಟ್ಮಸ್ ಪೇಪರ್</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab11_string_18">
+	<TEXTVALUE>ಪ್ರಕೃತಿಯಲ್ಲಿ ಆಮ್ಲೀಯವಲ್ಲ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab11">
+	<TEXT ID="Lab11_two">
+	<TEXTVALUE>ಲಿಟ್ಮಸ್ ಕಾಗದದ ನೀಲಿ ಬಣ್ಣ ಬದಲಾಗದೆ ಹಾಗೆ ಉಳಿಯುತ್ತದೆ.
+	</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab12">
+	<TEXT ID="Lab12_one">
+	<TEXTVALUE>15 g ಅಡಿಗೆ ಉಪ್ಪು (ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್)ನ್ನು ಒತ್ತರಕ್ಕೆ   ಸೇರಿಸಿ </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab12_bet_string">
+	<TEXTVALUE>ಸಾಮಾನ್ಯ ಉಪ್ಪು[15g]</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_one">
+	<TEXTVALUE>ಗಾಜಿನ ಕಡ್ಡಿಯ ಸಹಾಯದಿಂದ ಚೆನ್ನಾಗಿ ಕಲಕಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab13">
+	<TEXT ID="Lab13_two">
+	<TEXTVALUE>ಒತ್ತರಗೊಂಡು ಘನ ರೂಪದ ಸಾಬೂನು ಪ್ರತ್ಯೇಕಗೊಳ್ಳುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab14">
+	<TEXT ID="Lab14_one">
+	<TEXTVALUE> ಸೋಸು ಕಾಗದವನ್ನು ಆಲಿಕೆಯಲ್ಲಿರಿಸಿ, </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab14_string_19">
+	<TEXTVALUE>ಫಿಲ್ಟರ್
+ಕಾಗದ</TEXTVALUE>
+	</TEXT>
+	
+	
+</SCENE>
+
+<SCENE ID="Lab15">
+	<TEXT ID="Lab15_one">
+	<TEXTVALUE>ಗಾಜಿನ ಕಡ್ಡಿಯನ್ನು ಆಲಿಕೆಯಲ್ಲಿಡಿ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab15_string_20">
+	<TEXTVALUE>ಗ್ಲಾಸ್ ರಾಡ್</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab16">
+	<TEXT ID="Lab16_one">
+	<TEXTVALUE>ಸಾಬೂನಿನ ಮಿಶ್ರಣವನ್ನು ಹೊಂದಿರುವ ಬೀಕರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು </TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Lab17">
+	<TEXT ID="Lab17_one">
+	<TEXTVALUE>ಗಾಜಿನ ಕಡ್ಡಿಯ ಸಹಾಯದಿಂದ ಬೀಕರಿನಲ್ಲಿರುವ ಮಿಶ್ರಣವನ್ನು ಆಲಿಕೆಗೆ ಸುರಿಯಿರಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab18">
+	<TEXT ID="Lab18_one">
+	<TEXTVALUE> ಸೋಸು ಕಾಗದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab18_string_21">
+	<TEXTVALUE>ಫಿಲ್ಟರ್ ಕಾಗದದ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab19">
+	<TEXT ID="Lab19_one">
+	<TEXTVALUE>ನಳಿಕೆಯಿಂದ ಸಾಬೂನನ್ನು  ಸ್ಪ್ಯಾಚುಲಾ ಸಹಾಯದಿಂದ ಬೇರ್ಪಡಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab20">
+	<TEXT ID="Lab20_one">
+	<TEXTVALUE>ಸೋಸು ಕಾಗದದ ಮೇಲಿರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab21">
+	<TEXT ID="Lab21_one">
+	<TEXTVALUE>ಸ್ಪಾಚುಲಾ  ಸಹಾಯದಿಂದ ಸಾಬೂನನ್ನು ಬೇರ್ಪಡಿಸಿ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab22">
+	<TEXT ID="Lab22_one">
+	<TEXTVALUE>ಸೋಸು ಕಾಗದದ ಮೇಲಿರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab23">
+	<TEXT ID="Lab23_one">
+	<TEXTVALUE>ಮತ್ತೊಂದು ಸೋಸು ಕಾಗದದ ಸಹಾಯದಿಂದ ಸೋಪನ್ನು ಒತ್ತಿ ಒಣಗಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab24">
+	<TEXT ID="Lab24_one">
+	<TEXTVALUE>ಸಾಬೂನನ್ನು ಬೇಕಾದ ಆಕಾರಕ್ಕೆ ಚಾಕುವಿನ ಸಹಾಯದಿಂದ ಕತ್ತರಿಸಿ.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="Lab25">
+	<TEXT ID="Lab25_one">
+	<TEXTVALUE>ಹೀಗೆ ಸಾಬೂನನ್ನು ತಯಾರಿಸಲಾಗುತ್ತದೆ.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Lab25_last_1">
+	<TEXTVALUE>ಹಿಂದೆ</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+</DATA>

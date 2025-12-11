@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h\n"
+"POT-Creation-Date: 2016-06-06 09:54+0530\n"
+"PO-Revision-Date: 2016-06-06 10:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: h\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simcontrols.js:64
+msgid "Click here to see the inference"
+msgstr "निष्कर्ष देखने के लिए यहां पर क्लिक करें"
+
+#: simcontrols.js:70
+msgid "Saponification:The Process of Making Soap"
+msgstr "सैपोनीफिकेशन: साबुन बनाने की प्रक्रिया"
+
+#: simcontrols.js:71
+msgid "Instructions"
+msgstr "निर्देश "
+
+#: simcontrols.js:72 simcontrols.js:77
+msgid ""
+"Click on the measuring cylinder containing Coconut oil to pour it into the "
+"beaker."
+msgstr "बीकर में डालने के लिए नारियल के तेल वाले मापने वाले सिलेंडर पर क्लिक करें।"
+
+#: simcontrols.js:73
+msgid "Reset"
+msgstr "रीसेट "
+
+#: simcontrols.js:74
+msgid "Coconut oil(25ml)"
+msgstr "नारियल का तेल(25ml)"
+
+#: simcontrols.js:75
+msgid "(20%) NaOH solution(30ml)"
+msgstr "(20%) NaOH उपाय(30ml)"
+
+#: simcontrols.js:101 simcontrols.js:426
+msgid ""
+"Click on the measuring cylinder containing Sodium Hydroxide to pour it into "
+"the beaker."
+msgstr "बीकर में डालने के लिए सोडियम हाइड्रॉक्साइड वाले मापने वाले सिलेंडर पर क्लिक करें।"
+
+#: simcontrols.js:124 simcontrols.js:444
+msgid "Click on the glass rod to stir the mixture."
+msgstr "मिश्रण चलाने के लिए कांच की छड़ पर क्लिक करें।"
+
+#: simcontrols.js:148
+msgid "Click on the beaker to heat the mixture"
+msgstr "मिश्रण को गर्म करने के लिए बीकर पर क्लिक करें"
+
+#: simcontrols.js:172
+msgid "Click on the beaker to remove it from the Bunsen burner."
+msgstr "बुन्‍सेन बर्नर से हटाने के लिए बीकर पर क्लिक करें।"
+
+#: simcontrols.js:197
+msgid "Click on the red litmus paper to dip it into the soap suspension."
+msgstr "साबुन के निलंबन (सस्‍पेंशन) में डुबोने के लिए लाल लिटमस पेपर पर क्लिक करें।"
+
+#: simcontrols.js:220
+msgid "Click on the blue litmus paper to dip it into the soap suspension."
+msgstr "साबुन के निलंबन (सस्‍पेंशन) में डुबोने के लिए नीले लिटमस पेपर पर क्लिक करें।"
+
+#: simcontrols.js:243
+msgid "Click on the watch glass to add common salt to the soap suspension."
+msgstr "साबुन के निलंबन (सस्‍पेंशन) में साधारण नमक मिलाने के लिए वॉच ग्‍लास पर क्लिक करें।"
+
+#: simcontrols.js:266 simcontrols.js:626
+msgid "Click on the glass rod to stir the contents."
+msgstr "सामग्री चलाने के लिए कांच की छड़ पर क्लिक करें।"
+
+#: simcontrols.js:289 simcontrols.js:510
+msgid "Click on the beaker to filter the contents."
+msgstr "सामग्री छानने के बीकर पर क्लिक करें।"
+
+#: simcontrols.js:312
+msgid "Click on the Spatula to take soap from the funnel."
+msgstr "कीप से साबुन लेने के लिए स्‍पैचुला पर क्लिक करें।"
+
+#: simcontrols.js:336 simcontrols.js:676
+msgid "Click on the filter paper to dry the soap."
+msgstr "साबुन सुखाने के लिए फिल्टर पेपर पर क्लिक करें।"
+
+#: simcontrols.js:359
+msgid "Click here to turn on the burner."
+msgstr "बर्नर चालू करने के लिए यहां पर क्लिक करें।"
+
+#: simcontrols.js:382
+msgid "Click here to turn off the burner."
+msgstr "बर्नर बंद करने के लिए यहां पर क्लिक करें।"
+
+#: simcontrols.js:463 simcontrols.js:642
+msgid ""
+"Click on the information icon to see the inference.</br></br>Click on the "
+"'NEXT STEP' icon to go to the next process."
+msgstr ""
+"निष्‍कर्ष देखने के लिए इन्‍फ्रेंस आइकन पर क्लिक करें। </ Br> </ br> अगली प्रक्रिया में जाने के "
+"लिए 'अगला चरण' आइकन पर क्लिक करें।"
+
+#: simcontrols.js:479
+msgid "Turn on the burner by clicking the knob of the burner."
+msgstr "बर्नर की घुंडी पर क्लिक करके बर्नर चालू करें।"
+
+#: simcontrols.js:487
+msgid ""
+"Click on the red litmus paper to dip it into the soap suspension.<br/><br/"
+">Click on the information icon to see the inference.</br></br> Then click on "
+"the blue litmus paper to dip it into the soap suspension."
+msgstr ""
+"साबुन के निलंबन (सस्‍पेंशन) में डुबोने के लिए लाल लिटमस पेपर पर क्लिक करें। निष्‍कर्ष देखने के लिए "
+"इन्‍फ्रेंस आइकन पर क्लिक करें <br/> <br/>। फिर इसके बाद साबुन के निलंबन (सस्पेंशन) में डुबोने के "
+"लिए नीले लिटमस पेपर पर</ br> </ br> क्लिक करें ।"
+
+#: simcontrols.js:548
+msgid ""
+"Click on the information icon to see the inference.</br></br>Click on the "
+"beaker to remove it from the Bunsen burner for allow it to cool."
+msgstr ""
+"निष्‍कर्ष देखने के लिए इन्‍फ्रेंस आइकन पर क्लिक करें। ठंडा</ br> </ br> करने के लिए बुन्‍सेन बर्नर "
+"से हटाने के लिए बीकर पर क्लिक करें ।"
+
+#: simcontrols.js:564
+msgid "Turn off the burner by clicking the knob of the burner. "
+msgstr "बर्नर की घुंडी पर क्लिक करके बर्नर बंद कर दें।"
+
+#: simcontrols.js:604
+msgid ""
+"Click on the information icon to see the inference.<br/><br/>Click on the "
+"watch glass to add common salt to the soap suspension."
+msgstr ""
+"निष्‍कर्ष देखने के लिए इन्‍फार्मेशन आइकन पर क्लिक करें। <br/> <br/> साबुन के निलंबन (सस्‍पेंशन) "
+"में साधारण नमक मिलाने के लिए वॉच ग्‍लास पर क्लिक करें।"
+
+#: simcontrols.js:660
+msgid "Click on the spatula to take soap from the funnel."
+msgstr "कीप से साबुन लेने के लिए स्‍पैचुला पर क्लिक करें।"
+
+#: simcontrols.js:694
+msgid ""
+"Click on the information icon to see the inference.</br></br>Soap is "
+"prepared."
+msgstr "निष्‍कर्ष देखने के लिए इन्‍फार्मेशन आइकन पर क्लिक करें। </ br> </ br> साबुन तैयार है।"
+
+#: simcontrols.js:707
+msgid "Click on the beaker to heat the mixture."
+msgstr "मिश्रण गर्म करने के बीकर पर क्लिक करें।"
+
+#: simcontrols.js:716
+msgid "Click on the 'NEXT STEP' icon to go to the next process."
+msgstr "अगली प्रक्रिया में जाने के लिए 'अगला चरण' आइकन पर क्लिक करें।"
+
+#: simcontrols.js:729
+msgid ""
+"The reaction between vegetable oil and sodium hydroxide solution is "
+"exothermic."
+msgstr ""
+"वनस्पति तेल और सोडियम हाइड्रॉक्साइड के विलयन (साल्‍यूशन) के बीच अभिक्रिया (उष्‍माक्षेपी) "
+"एक्ज़ोथिर्मिक होती है।"
+
+#: simcontrols.js:731
+msgid ""
+"Whitish paste is formed and is made up of soap (suspension) and glycerol."
+msgstr ""
+"सफेद रंग का पेस्ट बनता है और यह साबुन (निलंबन (सस्‍पेंशन)) और ग्लिसरॉल से बना होता है।"
+
+#: simcontrols.js:733
+msgid ""
+"Red litmus changes to blue indicating that soap solution is basic in nature."
+msgstr ""
+"लाल लिटमस नीले रंग में बदल जाता है इससे पता चलता है कि साबुन का विलयन (साल्यूशन) प्रकृति "
+"में क्षारीय होता है।"
+
+#: simcontrols.js:735
+msgid ""
+"No change in the colour of blue litmus indicating that soap suspension is "
+"not acidic in nature."
+msgstr ""
+"नीले लिटमस के रंग में किसी बदलाव का न होना इस बात का संकेत है कि साबुन का निलंबन "
+"(सस्पेंतशन) प्रकृति में अम्लीय नहीं है।"
+
+#: simcontrols.js:737
+msgid ""
+"After adding common salt, soap in the suspension gets precipitated out as "
+"solid."
+msgstr ""
+"साधारण नमक मिलाने पर, निलंबन (सस्‍पेंशन) में साबुन ठोस के रूप में अवक्षेपित हो जाता है।"
+
+#: simcontrols.js:739
+msgid "Soap is prepared."
+msgstr "साबुन तैयार है।"
+
+#~ msgid "Determination of pH"
+#~ msgstr "Determination of pH"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "FULL SCREEN"
+#~ msgstr "FULL SCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid "ACIDIC"
+#~ msgstr "ACIDIC"
+
+#~ msgid "NEUTRAL"
+#~ msgstr "NEUTRAL"
+
+#~ msgid "BASIC"
+#~ msgstr "BASIC"
+
+#~ msgid "Universal Indicator"
+#~ msgstr "Universal Indicator"
+
+#~ msgid "Lemon juice"
+#~ msgstr "Lemon juice"
+
+#~ msgid "Tomato juice"
+#~ msgstr "Tomato juice"
+
+#~ msgid "Orange juice"
+#~ msgstr "Orange juice"
+
+#~ msgid "Pineapple juice"
+#~ msgstr "Pineapple juice"
+
+#~ msgid "Amla juice"
+#~ msgstr "Amla juice"
+
+#~ msgid " Mango juice"
+#~ msgstr " Mango juice"
+
+#~ msgid "Common salt"
+#~ msgstr "Common salt"
+
+#~ msgid "Sugar"
+#~ msgstr "Sugar"
+
+#~ msgid " Baking soda"
+#~ msgstr " Baking soda"
+
+#~ msgid " Milk"
+#~ msgstr " Milk"
+
+#~ msgid "Vinegar"
+#~ msgstr "Vinegar"
+
+#~ msgid "Butter milk"
+#~ msgstr "Butter milk"
+
+#~ msgid "Bleaching powder"
+#~ msgstr "Bleaching powder"
+
+#~ msgid "Washing soda"
+#~ msgstr "Washing soda"
+
+#~ msgid "Milk of magnesia"
+#~ msgstr "Milk of magnesia"
+
+#~ msgid ""
+#~ "Drag the dropper and dip into the solution to suck it and drop it over "
+#~ "the strip to pour the solution."
+#~ msgstr ""
+#~ "Drag the dropper and dip into the solution to suck it and drop it over "
+#~ "the strip to pour the solution."
+
+#~ msgid "Drag the dropper to the sample solution to add universal indicator."
+#~ msgstr "Drag the dropper to the sample solution to add universal indicator."
+
+#~ msgid ""
+#~ "This dropper cannot be used now, as the universal indicator has already "
+#~ "been poured."
+#~ msgstr ""
+#~ "This dropper cannot be used now, as the universal indicator has already "
+#~ "been poured."
+
+#~ msgid ""
+#~ "Drag the dropper and dip into the sample solution to suck it. Or drag the "
+#~ "universal indicator dropper to drop it into the sample solution."
+#~ msgstr ""
+#~ "Drag the dropper and dip into the sample solution to suck it. Or drag the "
+#~ "universal indicator dropper to drop it into the sample solution."
+
+#~ msgid ""
+#~ "Drag the colour strip to the sample solution or indicator strip to "
+#~ "identify the pH."
+#~ msgstr ""
+#~ "Drag the colour strip to the sample solution or indicator strip to "
+#~ "identify the pH."
+
+#~ msgid "Litmus paper"
+#~ msgstr "Litmus paper"
+
+#~ msgid "Vegetable & fruit juice"
+#~ msgstr "Vegetable & fruit juice"
+
+#~ msgid "House hold items"
+#~ msgstr "House hold items"
+
+#~ msgid "Acids & bases in the lab"
+#~ msgstr "Acids & bases in the lab"
+
+#~ msgid "Salts in water"
+#~ msgstr "Salts in water"
+
+#~ msgid "Select the aqueous solution:"
+#~ msgstr "Select the aqueous solution:"
+
+#~ msgid "Click on any one of the sample solution to start the experiment "
+#~ msgstr "Click on any one of the sample solution to start the experiment "

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Data>
+<Electrode Id ="1">
+<name>Lithium</name>
+<movieclipname></movieclipname>
+<code>Li</code>
+<potential>-3.04</potential>
+<color>0xD2E6E7</color>
+<c>1</c>
+<electrolyte><color>0xFFFFFF</color><chename>LiCl</chename></electrolyte>
+</Electrode>
+<Electrode Id ="2">
+<name>Potassium</name>
+<movieclipname>pottasiumelectrode</movieclipname>
+<code>K</code>
+<potential>-2.92</potential>
+<color>0x3e4648</color>
+<c>1</c>
+<electrolyte><color>0xFFFFFF</color><chename>KCl</chename></electrolyte>
+</Electrode>
+<Electrode Id ="3">
+<name>Barium</name>
+<movieclipname></movieclipname>
+<code>Ba</code>
+<potential>-2.90</potential>
+<color>0xCDC5C2</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>BaCl2</chename></electrolyte>
+</Electrode>
+<Electrode Id ="4">
+<name>Calcium</name>
+<movieclipname>calciumelectrode</movieclipname>
+<code>Ca</code>
+<potential>-2.87</potential>
+<color>0x66CC99</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>CaCl2</chename></electrolyte>
+</Electrode>
+<Electrode Id ="5">
+<name>Sodium</name>
+<movieclipname>sodiumelectrode</movieclipname>
+<code>Na</code>
+<potential>-2.71</potential>
+<color>0xc5b8a7</color>
+<c>1</c>
+<electrolyte><color>0xFFFFFF</color><chename>NaCl</chename></electrolyte>
+</Electrode>
+<Electrode Id ="6">
+<name>Magnesium</name>
+<movieclipname></movieclipname>
+<code>Mg</code>
+<potential>-2.52</potential>
+<color>0x95918C</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>MgSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="7">
+<name>Aluminium</name>
+<movieclipname></movieclipname>
+<code>Al</code>
+<potential>-1.66</potential>
+<color>0xDCDDDF</color>
+<c>3</c>
+<electrolyte><color>0xFFFFFF</color><chename>Al(NO3)3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="8">
+<name>Manganese</name>
+<movieclipname></movieclipname>
+<code>Mn</code>
+<potential>-1.88</potential>
+<color>0xD0D0D0</color>
+<c>2</c>
+<electrolyte><color>0xE2AACF</color><chename>MnSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="9">
+<name>Zinc</name>
+<movieclipname></movieclipname>
+<code>Zn</code>
+<potential>-0.76</potential>
+<color>0x6699CC</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>ZnSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="10">
+<name>Chromium</name>
+<movieclipname></movieclipname>
+<code>Cr</code>
+<potential>-0.74</potential>
+<color>0x898687</color>
+<c>3</c>
+<electrolyte><color>0x632168</color><chename>Cr(NO3)3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="11">
+<name>Iron</name>
+<movieclipname></movieclipname>
+<code>Fe</code>
+<potential>-0.44</potential>
+<color>0x71675b</color>
+<c>2</c>
+<electrolyte><color>0x5f5e26</color><chename>FeSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="12">
+<name>Cadmium</name>
+<movieclipname>cadmiumelectrode</movieclipname>
+<code>Cd</code>
+<potential>-0.40</potential>
+<color>0xDCDDDF</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>CdSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="13">
+<name>Thallium</name>
+<movieclipname></movieclipname>
+<code>Tl</code>
+<potential>-0.34</potential>
+<color>0x999999</color>
+<c>1</c>
+<electrolyte><color>0xFFFFFF</color><chename>TlNO3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="14">
+<name>Cobalt</name>
+<movieclipname></movieclipname>
+<code>Co</code>
+<potential>-0.27</potential>
+<color>0xCC3300</color>
+<c>2</c>
+<electrolyte><color>0xFB0400</color><chename>CoSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="15">
+<name>Nickel</name>
+<movieclipname></movieclipname>
+<code>Ni</code>
+<potential>-0.24</potential>
+<color>0x979797</color>
+<c>2</c>
+<electrolyte><color>0x002211</color><chename>NiSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="16">
+<name>Tin</name>
+<movieclipname></movieclipname>
+<code>Sn</code>
+<potential>-0.15</potential>
+<color>0xa8a499</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>SnSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="17">
+<name>Lead</name>
+<movieclipname></movieclipname>
+<code>Pb</code>
+<potential>-0.13</potential>
+<color>0x666666</color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>PbNO3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="18">
+<name>Copper</name>
+<movieclipname></movieclipname>
+<code>Cu</code>
+<potential>0.34</potential>
+<color>0xae6c5c</color>
+<c>2</c>
+<electrolyte><color>0x00258D</color><chename>CuSO4</chename></electrolyte>
+</Electrode>
+<Electrode Id ="19">
+<name>Silver</name>
+<movieclipname></movieclipname>
+<code>Ag</code>
+<potential>+0.80</potential>
+<color>0x938980</color>
+<c>1</c>
+<electrolyte><color>0xFFFFFF</color><chename>AgNO3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="20">
+<name>Gold</name>
+<movieclipname></movieclipname>
+<code>Au</code>
+<potential>+1.50</potential>
+<color>0xf6da86</color>
+<c>1</c>
+<electrolyte><color>0xd7c115</color><chename>AuNO3</chename></electrolyte>
+</Electrode>
+<Electrode Id ="21">
+<name>Hydrogen</name>
+<movieclipname>hydrogenelectrode</movieclipname>
+<code>2H</code>
+<potential>0.00</potential>
+<color></color>
+<c>2</c>
+<electrolyte><color>0xFFFFFF</color><chename>HCl</chename></electrolyte>
+</Electrode>
+</Data>

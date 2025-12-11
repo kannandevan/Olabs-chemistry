@@ -1,0 +1,1702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<!--Interactive_scenes-->
+<SCENE ID="TitleFunctionalGrp">
+	<TEXT ID="TitleFunctionalGrp_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Buttons">
+	<TEXT ID="6Buttons_one">
+		<TEXTVALUE>एका गटावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Buttons">
+	<TEXT ID="3Buttons_one">
+		<TEXTVALUE>एका गटावर क्लिक करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="Tests">
+	<TEXT ID="Tests_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Brominetest">
+	<TEXT ID="Brominetest_one">
+		<TEXTVALUE>ब्रोमीन पाणी परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>ब्रोमीन पाणी परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakingUnknCmpnd">
+	<TEXT ID="TakingUnknCmpnd_one">
+		<TEXTVALUE>स्पाट्युला वापरून अज्ञात संयुग घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PowderinTube">
+	<TEXT ID="PowderinTube_one">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterinjar">
+	<TEXT ID="Waterinjar_one">
+		<TEXTVALUE>मापन नळकांड्यात मध्ये २ मिली ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWater">
+	<TEXT ID="PouringWater_one">
+		<TEXTVALUE>मापन नळकांड्यात मध्ये २ मिली ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterintesttube">
+	<TEXT ID="Waterintesttube_one">
+		<TEXTVALUE>परिक्षा नळीत टाका आणि नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Brominetaking">
+	<TEXT ID="Brominetaking_one">
+		<TEXTVALUE>१-२ थेंब ब्रोमीन पाणी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>परिक्षा नळीत टाका आणि नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>ब्रोमीनचा नारंगी-लाल रंग अदृश्य होतो म्हणजे असम्पृक्तता आहे. नाही तर सम्पृक्तता आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyerstest">
+	<TEXT ID="Baeyerstest_one">
+		<TEXTVALUE>बेयर परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TitleBaeyerstest">
+	<TEXT ID="TitleBaeyerstest_one">
+		<TEXTVALUE>बेयर परिक्षा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TakingUnknCmpndBaeyer">
+	<TEXT ID="TakingUnknCmpndBaeyer_one">
+		<TEXTVALUE>स्पाट्युला वापरून अज्ञात संयुग परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PowderinTubeBaeyer">
+	<TEXT ID="PowderinTubeBaeyer_one">
+		<TEXTVALUE>स्पाट्युला वापरून अज्ञात संयुग परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterinjarBaeyer">
+	<TEXT ID="WaterinjarBaeyer_one">
+		<TEXTVALUE>मापन नळकांड्यात मध्ये २ मिली ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWaterBaeyer">
+	<TEXT ID="PouringWaterBaeyer_one">
+		<TEXTVALUE>मापन नळकांड्यात मध्ये २ मिली ऊर्ध्वपतित पाणी</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WaterintesttubeBaeyer">
+	<TEXT ID="WaterintesttubeBaeyer_one">
+		<TEXTVALUE>परिक्षा नळीत टाका आणि नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyertaking">
+	<TEXT ID="Baeyertaking_one">
+		<TEXTVALUE>त्यात २-३ थेंब KMnO4 द्रावण टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BaeyerPoringzoom">
+	<TEXT ID="BaeyerPoringzoom_one">
+		<TEXTVALUE>KMnO4 चा रंग अदृश्य होतो म्हणजे असम्पृक्तता आहे. नाही तर सम्पृक्तता आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="titlealco">
+	<TEXT ID="titlealco_one">
+		<TEXTVALUE>अल्कोहोलिक गट</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>सोडियम धातू परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsodium">
+	<TEXT ID="introsodium_one">
+		<TEXTVALUE>सोडियम धातू परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="measuringjar">
+	<TEXT ID="measuringjar_one">
+		<TEXTVALUE>स्वच्छ आणि कोरडे मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="liquidinto">
+	<TEXT ID="liquidinto_one">
+		<TEXTVALUE>१ मिली अज्ञात संयुग त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="liquidinto_two">
+		<TEXTVALUE>कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="smallamount">
+	<TEXT ID="smallamount_one">
+		<TEXTVALUE>थोडेसे एन्हायाड्रस कॅल्शियम सल्फेट त्यात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Shakewell">
+	<TEXT ID="Shakewell_one">
+		<TEXTVALUE>नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="funnelfilte">
+	<TEXT ID="funnelfilte_one">
+		<TEXTVALUE>परिक्षा नळीवर नरसाळे ठेवा.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="funnelfilte_two">
+		<TEXTVALUE>नरसाळ्यात एक फिल्टर कागद बसवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thetest">
+	<TEXT ID="thetest_one">
+		<TEXTVALUE>परिक्षा नळीत द्रावण गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="thetest_two">
+		<TEXTVALUE>नरसाळे काढून टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Addsodiummetal">
+	<TEXT ID="Addsodiummetal_one">
+		<TEXTVALUE>फोरसेप वापरून थोडे सोडियमचे तुकडे घ्या.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Addsodiummetal_two">
+		<TEXTVALUE>फिल्टर कागद वर ठेवम आणि दुसर्याफ फिल्टर कागदाने कोरडे करा.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sodiummetal">
+	<TEXT ID="sodiummetal_one">
+		<TEXTVALUE>फोरसेप वापरून २-३ तुकडे सोडियम परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumzoom">
+	<TEXT ID="sodiumzoom_one">
+		<TEXTVALUE>सोडियम सारख्या क्रियाशील धातुशी अल्कोहोलची अभिक्रिया होते आणि बुडबुडे निर्माण होऊन, हायड्रोजन वायू मुक्त होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="estertest">
+	<TEXT ID="estertest_one">
+		<TEXTVALUE>एस्टर परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro22">
+	<TEXT ID="intro22_one">
+		<TEXTVALUE>एस्टर परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="givenunknownliquid2">
+	<TEXT ID="givenunknownliquid2_one">
+		<TEXTVALUE>१ मिली अज्ञात संयुग मापन जार मध्ये टाका. कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuringjar2">
+	<TEXT ID="measuringjar2_one">
+		<TEXTVALUE>दुसरे मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="measuringjar2_two">
+		<TEXTVALUE>१ मिली ग्लेशियल असेटीक आम्ल त्यात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="testtube3">
+		<TEXT ID="testtube3_one">
+		<TEXTVALUE>परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pourit">
+	<TEXT ID="Pourit_one">
+		<TEXTVALUE>एक ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pourit_two">
+		<TEXTVALUE>२-३ थेंब संहत सल्फ्युरिक आम्ल परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+		<TEXTVALUE>गरम पाण्याच्या कुंडात द्रावण १० मिनिटे गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Take">
+	<TEXT ID="Take_one">
+		<TEXTVALUE>हे मिश्रण २० मिली थंड पाणी असलेल्या चंचुपात्रात टाका आणि त्याचा वास घ्या.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Take_two">
+		<TEXTVALUE>संहत सल्फ्युरिक आम्लाच्या उपस्थितीत अल्कोहोल आणि कार्बोक्सायलिक आम्लाची अभिक्रिया होते आणि एस्टर नावाची फळांचा सुगंध असलेली संयुगे निर्माण होतात.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Take_three">
+		<TEXTVALUE>फळांचा सुगंध अल्कोहोलिक गटाची उपस्थिती निर्देशित करते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fruity">
+	<TEXT ID="fruity_one">
+		<TEXTVALUE>फळांचा सुगंध अल्कोहोलिक गटाची उपस्थिती निर्देशित करते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="CericAmmoniumNitrate">
+	<TEXT ID="CericAmmoniumNitrate_one">
+		<TEXTVALUE>सेरिक अमोनियम नायट्रेट परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="take22">
+	<TEXT ID="take22_one">
+	<TEXTVALUE>मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="givenunknown">
+	<TEXT ID="givenunknown_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+<TEXT ID="givenunknown_two">
+	<TEXTVALUE>१ मिली दिलेले अज्ञात द्रव त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_three">
+	<TEXTVALUE>कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_four">
+	<TEXTVALUE>त्यात काही थेंब सेरिक अमोनियम नायट्रेट अभिकारक टाका.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene671">
+	<TEXT ID="Scene671_one">
+	<TEXTVALUE>त्यात काही थेंब सेरिक अमोनियम नायट्रेट अभिकारक टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_two">
+	<TEXTVALUE>नीट हलवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_three">
+	<TEXTVALUE>अल्कोहोलिक संयुगे आणि सेरिक अमोनियम नायट्रेटची अभिक्रिया झाली की अल्कोक्सी सेरियम (IV) कॉम्प्लेक्स निर्माण होते आणि त्यामुळे लाल रंग दिसतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetylChloride">
+	<TEXT ID="AcetylChloride_one">
+	<TEXTVALUE>एसीटाइल क्लोराइड परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro321">
+	<TEXT ID="intro321_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring4">
+	<TEXT ID="Takeameasuring4_one">
+	<TEXTVALUE>मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownliquid">
+	<TEXT ID="unknownliquid_one">
+	<TEXTVALUE>१ मिली दिलेले अज्ञात द्रव त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="unknownliquid_two">
+	<TEXTVALUE>कोरड्या परिक्षा नळीत टाका.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Addsmall">
+	<TEXT ID="Addsmall_one">
+	<TEXTVALUE>थोडेसे एन्हायाड्रस कॅल्शियम सल्फेट त्यात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shake">
+	<TEXT ID="Shake_one">
+	<TEXTVALUE>नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelfilter3">
+	<TEXT ID="funnelfilter3_one">
+	<TEXTVALUE>परिक्षा नळीवर नरसाळे ठेवा.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="funnelfilter3_two">
+	<TEXTVALUE>नरसाळ्यात फिल्टर कागद ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Theliquidin">
+	<TEXT ID="Theliquidin_one">
+	<TEXTVALUE>परिक्षा नळीत द्रव गाळून घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Theliquidin_two">
+	<TEXTVALUE>नरसाळे काढून टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritintothegg">
+<TEXT ID="Pouritintothegg_one">
+	<TEXTVALUE>२-३ थेंब एसीटाइल क्लोराइड त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouritintothegg_two">
+	<TEXTVALUE>काचेचा रॉड अमोनियम हायड्रोऑक्साइड द्रावणात बुडवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whitefumes">
+	<TEXT ID="whitefumes_one">
+	<TEXTVALUE>काचेचा रॉड परिक्षा नळीच्या तोंडाशी आणा. अल्कोहोल आणि एसीटाइल क्लोराइडची अभिक्रिया होते आणि एस्टर निर्माण होतात व हायड्रोजन क्लोराइड वायू मुक्त होते. 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whitefumes_two">
+	<TEXTVALUE>हायड्रोजन क्लोराइड आणि अमोनियम हायड्रोऑक्साइडची अभिक्रिया होते आणि  अमोनियम क्लोराइडचा पांढरा धूर निर्माण होतो. </TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+
+
+</SCENE>
+
+<SCENE ID="Test100">
+	<TEXT ID="Test100_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro4">
+	<TEXT ID="intro4_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring5">
+	<TEXT ID="Takeameasuring5_one">
+	<TEXTVALUE>मापन जार घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="given5">
+	<TEXT ID="given5_one">
+	<TEXTVALUE>१ मिली दिलेले अज्ञात द्रव त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="given5_two">
+	<TEXTVALUE>कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasu">
+	<TEXT ID="Takeameasu_one">
+	<TEXTVALUE>मापन जार मध्ये १ मिली १% आयोडीन द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pour">
+	<TEXT ID="Pour_one">
+	<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritinto">
+	<TEXT ID="Pouritinto_one">
+	<TEXTVALUE>जोपर्यंत आयोडीनचा तपकिरी रंग कमी होत नाही तोपर्यंत थेंब थेंब विरल सोडियम हायड्रोऑक्साइड द्रावण टाका. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="awaterbath">
+	<TEXT ID="awaterbath_one">
+	<TEXTVALUE>पाण्याच्या कुंडात मिश्रण हळू हळू गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ZOOOMI">
+	<TEXT ID="ZOOOMI_one">
+	<TEXTVALUE>आयोडोफॉर्म चे पिवळे अवक्षेपण निर्माण होते म्हणजे अल्कोहोलिक गट उपस्थित आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Lucastesttitle">
+	<TEXT ID="Lucastesttitle_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lucastest1">
+	<TEXT ID="Lucastest1_one">
+	<TEXTVALUE>तीन वेगळ्या परिक्षा नळ्यांमध्ये थोडे प्राथमिक, दुय्यम आणि तृतीयक अल्कोहोल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest2">
+	<TEXT ID="Lucastest2_one">
+	<TEXTVALUE>ड्रॉपर वापरून थोडेसे लुकस अभिकारक घ्या. लुकस अभिकारकाचे काही थेंब तृतीयक अल्कोहोल मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="Lucastest2_two">
+	<TEXTVALUE>तृतीयक अल्कोहोलची लगेच लुकस अभिकारकाशी अभिक्रिया होते आणि अल्किल क्लोराइड निर्माण होते. हे अविद्राव्य असल्यामुळे द्रावण गढूळ दिसते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest3">
+	<TEXT ID="Lucastest3_one">
+	<TEXTVALUE>ड्रॉपर वापरून लुकस अभिकारक घ्या. त्याचे काही थेंब दुय्यम अल्कोहोल मध्ये घाला आणि परिक्षा नळी ५ मिनिटे तशीच राहू दे.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Lucastest3_two">
+	<TEXTVALUE>दुय्यम अल्कोहोलची १-५ मिनिटात लुकस अभिकारकाशी अभिक्रिया होते आणि अल्किल क्लोराइड निर्माण होते. हे अविद्राव्य असल्यामुळे द्रावण गढूळ दिसते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest4">
+	<TEXT ID="Lucastest4_one">
+	<TEXTVALUE>परत लुकस अभिकारक घ्या. काही थेंब प्राथमिक अल्कोहोल मध्ये टाका. पकड वापरून प्राथमिक अल्कोहोल असलेली परिक्षा नळी धरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest5">
+	<TEXT ID="Lucastest5_one">
+	<TEXTVALUE>बन्सेन बर्नर वर परिक्षा नळी गरम करा. गरम झाल्यावर प्राथमिक अल्कोहोल आणि लुकस अभिकारक ह्यांची अभिक्रिया होते आणि अल्किल क्लोराइड निर्माण होते. हे अविद्राव्य असल्यामुळे द्रावण गढूळ दिसते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!--phenolic group-->
+
+
+
+
+
+
+<SCENE ID="LitmusTest1">
+	<TEXT ID="LitmusTest1_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitle">
+	<TEXT ID="litmusTesttitle_one">
+	 <TEXTVALUE>परिक्षा नळीतून थोडेसे अज्ञात द्रव घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroLis">
+	<TEXT ID="IntroLis_one">
+	 <TEXTVALUE>ओलसर निळे लिटमस कागद घ्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+	<SCENE ID="Scene3droperdrp">
+	<TEXT ID="Scene3droperdrp_one">
+	 <TEXTVALUE>ड्रॉपर वापरून दिलेल्या द्रवाचा एक थेंब कागदावर टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_two">
+	 <TEXTVALUE>ड्रॉपर वापरून दिलेल्या द्रवाचा एक थेंब कागदावर टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_three">
+	 <TEXTVALUE>फिनोल एक सौम्य आम्ल आहे: ते निळ्या लिटमस कागदाला लाल बनविते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricchlordetest">
+	<TEXT ID="Ferricchlordetest_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrodFerric">
+	<TEXT ID="IntrodFerric_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="violetcoloration">
+	<TEXT ID="violetcoloration_one">
+	 <TEXTVALUE>मापन जार घ्या.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_two">
+	 <TEXTVALUE>P१ मिली उदासीन फेरिक क्लोराइड त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_three">
+	 <TEXTVALUE>कोरड्या परिक्षा नळीत टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_four">
+	 <TEXTVALUE>दिलेल्या द्रवाचे २-३ थेंब परिक्षा नळीत टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_five">
+	 <TEXTVALUE>फिनोल आणि उदासीन फेरिक क्लोराइड यांची अभिक्रिया होते आणि कॉम्प्लेक्स निर्माण झाल्यामुळे जांभळा रंग येतो.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitlecopy">
+	<TEXT ID="litmusTesttitlecopy_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introductionp">
+	<TEXT ID="introductionp_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="animationheat">
+	<TEXT ID="animationheat_one">
+	 <TEXTVALUE>परिक्षा नळी घ्या.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_two">
+	 <TEXTVALUE>त्यात २-३ स्फटिके सोडियम नायट्राइट टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_three">
+	 <TEXTVALUE>मापन जार घ्या.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_four">
+	 <TEXTVALUE>१ मिली फिनोलत्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_five">
+	 <TEXTVALUE>परिक्षा नळीत ओता.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_six">
+	 <TEXTVALUE>अर्धा मिनिट हळुवार गरम करा आणि मग थंड होऊ द्या.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="jarSulBlueORGreen">
+	<TEXT ID="jarSulBlueORGreen_one">
+	 <TEXTVALUE>मापन जार घ्या.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_two">
+	 <TEXTVALUE>१ मिली संहत सल्फ्युरिक आम्लाच्या  त्यात टाका.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_three">
+	 <TEXTVALUE>परिक्षा नळीत ओता.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_four">
+	 <TEXTVALUE>संहत सल्फ्युरिक आम्लाच्या उपस्थितीत फिनोल आणि सोडियम नायट्राइट यांची अभिक्रिया होते आणि गडद निळे किंवा हिरवे उत्पादन मिळते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterDroper">
+	<TEXT ID="WaterDroper_one">
+	 <TEXTVALUE>काळजीपूर्वक पाणी टाका. पाण्याशी संपर्कात आल्यावर निळा किंवा हिरवा रंग बदलून लाल किंवा तपकिरी रंग होतो कारण इंडोफिनोल निर्माण होते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Blue2Red">
+	<TEXT ID="Blue2Red_one">
+	 <TEXTVALUE>काळजीपूर्वक पाणी टाका. पाण्याशी संपर्कात आल्यावर निळा किंवा हिरवा रंग बदलून लाल किंवा तपकिरी रंग होतो कारण इंडोफिनोल निर्माण होते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SodiumHydroxideBtl">
+	<TEXT ID="SodiumHydroxideBtl_one">
+	 <TEXTVALUE>अतिरिक्त सोडियम हायड्रोऑक्साइड द्रावण परिक्षा नळीत टाका. आता शक्तिमान अल्क टाकल्यामुळे लाल रंग परत निळा किंवा हिरवा होतो कारण इंडोफिनोल निर्माण होते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Red2Green">
+	<TEXT ID="Red2Green_one">
+	 <TEXTVALUE>अतिरिक्त सोडियम हायड्रोऑक्साइड द्रावण परिक्षा नळीत टाका. आता शक्तिमान अल्क टाकल्यामुळे लाल रंग परत निळा किंवा हिरवा होतो कारण इंडोफिनोल निर्माण होते.
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="phthaleindye1">
+	<TEXT ID="phthaleindye1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ph2">
+	<TEXT ID="ph2_one">
+	 <TEXTVALUE>थोडेसे फिनोल परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowder">
+	<TEXT ID="takpowder_one">
+	 <TEXTVALUE>स्पाट्युला वापरून थोडेसे थालिक एन्हायड्राइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowde2">
+	<TEXT ID="takpowde2_one">
+	 <TEXTVALUE>स्पाट्युला वापरून थोडेसे थालिक एन्हायड्राइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intube">
+	<TEXT ID="intube_one">
+	 <TEXTVALUE>फिनोल असलेल्या परिक्षा नळीत टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+	 <TEXTVALUE>परिक्षा नळी पकड वापरून धरा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoh2so4">
+	<TEXT ID="addcoh2so4_one">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे संहत सल्फ्युरिक आम्ल परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="boiltube">
+	<TEXT ID="boiltube_one">
+	 <TEXTVALUE>तेलाच्या कुंडात १ मिनिट परिक्षा नळी गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pour">
+	<TEXT ID="pour_one">
+	 <TEXTVALUE>काळजीपूर्वक हे अभिक्रिया मिश्रण एका सोडियम हायड्रोऑक्साइड द्रावण असलेल्या चंचुपात्रात टाका.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="pour_two">
+	 <TEXTVALUE> गरम झाल्यावर, सल्फ्युरिक आम्लाच्या उपस्थितीत फिनोल आणि थालिक एन्हायड्राइड यांची अभिक्रिया होते आणि रंगहीन फिनोल्फथेलीन निर्माण होते. फिनोल्फथेलीन आणि NaOH सारखा अल्क मिळून गुलाबी रंग निर्माण होतो.
+
+</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+
+<!--aldyhide and ketone-->
+
+
+
+
+
+
+<SCENE ID="TitleAldyKeton">
+	<TEXT ID="TitleAldyKeton_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydrazinetitle">
+	<TEXT ID="hydrazinetitle_one">
+	 	<TEXTVALUE>२,४-डायनायट्रोफिनाइल हायड्राझीन परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAldyKetonS1">
+	<TEXT ID="IntroAldyKetonS1_one">
+	 	<TEXTVALUE>२,४-डायनायट्रोफिनाइल हायड्राझीन परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SpoonComp2TtubeS2">
+	<TEXT ID="SpoonComp2TtubeS2_one">
+	 	<TEXTVALUE>स्पाट्युला घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SpoonComp2TtubeS2_two">
+	 	<TEXTVALUE>स्पाट्युला वापरून अज्ञात संयुग घ्या. आणि कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Spirit2TtubeS3">
+	<TEXT ID="Spirit2TtubeS3_one">
+	 	<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Spirit2TtubeS3_two">
+	 	<TEXTVALUE>संयुग विरघळेपर्यन्त काही थेंब परिशोधित स्पिरीट टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Hydrazine2TtubeS4">
+	<TEXT ID="Hydrazine2TtubeS4_one">
+	 	<TEXTVALUE>५ मिली २,४-डायनायट्रोफिनाइल हायड्राझीन द्रावण एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_two">
+	 	<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_three">
+	 	<TEXTVALUE> मिश्रण हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultorangeS5">
+	<TEXT ID="ResultorangeS5_one">
+	 	<TEXTVALUE>५ मिनिटे तसेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="ResultorangeS5_two">
+	 	<TEXTVALUE>पिवळी किंवा नारंगी स्फटिके निर्माण होतात, म्हणजे अल्डिहाइड किंवा किटोन उपस्थित आहेत.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodiumtitle">
+	<TEXT ID="Sodiumtitle_one">
+	 	<TEXTVALUE>सोडियम बायसल्फाइट परिक्षा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodium2TtubeS6">
+	<TEXT ID="Sodium2TtubeS6_one">
+	 	<TEXTVALUE>२ मिली सोडियम बायसल्फाइट एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Sodium2TtubeS6_two">
+	 	<TEXTVALUE>कोरड्या परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Compound2SodiumTubeS7">
+	<TEXT ID="Compound2SodiumTubeS7_one">
+	 	<TEXTVALUE>स्पाट्युला वापरून अज्ञात संयुग त्यात टाका.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Compound2SodiumTubeS7_two">
+	 	<TEXTVALUE>परिक्षा नळीला बूच लावा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultWhiteS8">
+	<TEXT ID="ResultWhiteS8_one">
+	 	<TEXTVALUE>हलवा आणि २० मिनिटे तसेच राहू द्या.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ResultWhiteS8_two">
+	 	<TEXTVALUE>स्फटिकरूप पांढरे अवक्षेपण निर्माण होते म्हणजे कार्बोनिल गट उपस्थित आहे.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!--test for amino groups -->
+
+
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="LitmusTest">
+	<TEXT ID="LitmusTest_one">
+	 	<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="LitmusTest_two">
+	 	<TEXTVALUE>परिक्षा नळीतून थोडेसे अज्ञात द्रव घ्या.</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="LitmusTest_three">
+	 	<TEXTVALUE>काही थेंब ओलसर लाल लिटमस कागदावर टाका.</TEXTVALUE>
+	</TEXT>		
+<TEXT ID="LitmusTest_four">
+	 	<TEXTVALUE>अमिन अल्कधर्मी असतात, त्यामुळे लाल लिटमस निळा होतो.</TEXTVALUE>
+	</TEXT>			
+	
+</SCENE>
+
+
+<SCENE ID="SolubilityTest">
+<TEXT ID="SolubilityTest_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="SolubilityTest_one">
+	 	<TEXTVALUE>स्पाट्युला वापरून दिलेले थोडेसे संयुग परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_two">
+	 	<TEXTVALUE>परिक्षा नळीत थोडेसे विरल HCl टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_three">
+	 	<TEXTVALUE>अमिनो गट असलेली कार्बनी संयुगे अल्कधर्मी असतात म्हणून त्यांची आम्लांशी पटकन अभिक्रिया होते आणि विरघळणारे क्षार निर्माण होतात.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Carbylamines">
+
+<TEXT ID="Carbylamines_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Carbylamines_one">
+	 	<TEXTVALUE>थोडेसे पोटाशियम हायड्रोऑक्साइड परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_two">
+	 	<TEXTVALUE>२ मिली इथनोल एका मापन जार मध्ये घ्या.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_three">
+	 	<TEXTVALUE>ते परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_four">
+	 	<TEXTVALUE>पोटाशियम हायड्रोऑक्साइड विरघळेपर्यन्त परिक्षा नळी गरम करा.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_five">
+	 	<TEXTVALUE>ड्रॉपर वापरून काही थेंब क्लोरोफॉर्म घ्या.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_six">
+	 	<TEXTVALUE>ते परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_seven">
+	 	<TEXTVALUE>त्याच परिक्षा नळीत थोडेसे अज्ञात संयुग टाका.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_eight">
+	 	<TEXTVALUE>हळूवार गरम करा.</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_nine">
+	 	<TEXTVALUE>एलीफाटिक आणि अॅरोमॅटिक प्राथमिक अमिन जेव्हा क्लोरोफॉर्म आणि अल्कोहोलिक KOH बरोबर गरम केले जातात तेव्हा आयसोसायनाइड निर्माण होते ज्याचा दुर्गंध असतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="one">
+	<TEXT ID="one_one">
+	 <TEXTVALUE>एझो – डाय परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="two">
+	<TEXT ID="two_one">
+	 <TEXTVALUE>आवश्यक सामग्री: कार्बनी संयुग, विरल HCl,  ऊर्ध्वपतित पाणी, परिक्षा नळी, सोडियम नायट्राइट, ड्रॉपर, बीटा-नाफ्थोल, विरल NaOH, स्पाट्युला इ.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="three">
+	<TEXT ID="three_one">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे कार्बनी संयुग घ्या आणि परिक्षा नळीत टाका. दुसरे ड्रॉपर वापरून थोडेसे विरल HCl घ्या आणि परिक्षा नळी ए मध्ये टाका. जोपर्यंत संयुग विरघळत नाही तोपर्यंत नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="four">
+	<TEXT ID="four_one">
+	 <TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम नायट्राइट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="five">
+	<TEXT ID="five_one">
+	 <TEXTVALUE>परिक्षा नळी बी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="six">
+	<TEXT ID="six_one">
+	 <TEXTVALUE>परिक्षा नळी बी मध्ये टाका. थोडेसे ऊर्ध्वपतित पाणी परिक्षा नळीत टाका आणि सोडियम नायट्राइट विरघळे पर्यन्त परिक्षा नळी हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seven">
+	<TEXT ID="seven_one">
+	 <TEXTVALUE>परिक्षा नळी परत रॅक वर ठेवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eight">
+	<TEXT ID="eight_one">
+	 <TEXTVALUE>दूसरा स्पाट्युला वापरून थोडेसे बीटा-नाफ्थोल घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="nine">
+	<TEXT ID="nine_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ten">
+	<TEXT ID="ten_one">
+	 <TEXTVALUE>परिक्षा नळी सी मध्ये टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eleven">
+	<TEXT ID="eleven_one">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे विरल NaOH घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twelve">
+	<TEXT ID="twelve_one">
+	 <TEXTVALUE>हे परिक्षा नळी सी मध्ये टाका आणि नाफ्थोल विरघळेपर्यन्त परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirteen">
+	<TEXT ID="thirteen_one">
+	 <TEXTVALUE>परिक्षा नळ्या घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fourteen">
+	<TEXT ID="fourteen_one">
+	 <TEXTVALUE>त्यांना बर्फाच्या कुंडात ठेवा आणि थोडा वेळ थंड होऊ द्या. परिक्षा नळी ए आणि बी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fifteen">
+	<TEXT ID="fifteen_one">
+	 <TEXTVALUE>परिक्षा नळी ए मध्ये सोडियम नायट्राइट द्रावण घ्या. आता हे द्रावण परिक्षा नळी सी मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="fifteen_two">
+	 <TEXTVALUE>०-५ डीग्री सेल्सियसला सोडियम नायट्राइट आणि HCl यांची अभिक्रिया होते आणि डायाझोनियम क्षार निर्माण होतो. मग अॅरोमॅटिक प्राथमिक अमिन आणि नायट्रस आम्ल यांची अभिक्रिया होते. हे आणि बीटा-नाफ्थोल मिळून भडक लाल डाय निर्माण होते. </TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sixteen">
+	<TEXT ID="sixteen_one">
+	 <TEXTVALUE>नायट्रस आम्ल परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="seventeen">
+	<TEXT ID="seventeen_one">
+	 <TEXTVALUE>आवश्यक सामग्री: कार्बनी संयुग, परिक्षा नळी, सोडियम नायट्राइट, संहत HCl</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eighteen">
+	<TEXT ID="eighteen_one">
+	 <TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम नायट्राइट घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="nineteen">
+	<TEXT ID="nineteen_one">
+	 <TEXTVALUE>परिक्षा नळी ए घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twenty">
+	<TEXT ID="twenty_one">
+	 <TEXTVALUE>सोडियम नायट्राइट परिक्षा नळी ए मध्ये टाका. थोडेसे ऊर्ध्वपतित पाणी त्यात टाका आणि परिक्षा नळी नीट हलवा म्हणजे सोडियम नायट्राइट विरघळेल.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyOne">
+	<TEXT ID="twentyOne_one">
+	 <TEXTVALUE>परिक्षा नळीत रॅक मध्ये ठेवा. ड्रॉपर वापरून थोडेसे कार्बनी संयुग परिक्षा नळी बी मध्ये घ्या. दुसरे ड्रॉपर वापरा आणि थोडेसे संहत HCl परिक्षा नळी बी मध्ये टाका. संयुग HCl मध्ये विरघळे पर्यन्त परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyOne_two">
+	 <TEXTVALUE>परिक्षा नळ्या घ्या.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+<SCENE ID="twentyTwo">
+	<TEXT ID="twentyTwo_one">
+	 <TEXTVALUE>बर्फाच्या कुंडात ठेवा आणि थोडा वेळ थंड होऊ द्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentyThree">
+	<TEXT ID="twentyThree_one">
+	 <TEXTVALUE>दोन्ही द्रावण एकत्र करा. तृतीयक अमिनच्या बाबतीत कुठलाही दृश्य स्वरुपात बदल दिसत नाही. कारण तृतीयक अमिन आणि आम्ल ह्यांची अभिक्रिया होते आणि विरघळणारे नायट्राइट क्षार निर्माण होते.</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="twentyThree_two">
+	 <TEXTVALUE>प्राथमिक अमिन आणि नायट्रस आम्ल यांची अभिक्रिया होते आणि नायट्रोजन वायूचे बुडबुडे निर्माण होतात. दुय्यम अमिन आणि नायट्रस आम्ल यांची अभिक्रिया होते आणि नायट्रोसामिन चा तेलकट थर निर्माण होतो.</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="twentyFour">
+	<TEXT ID="twentyFour_one">
+	 <TEXTVALUE>हिन्सबर्ग परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyFive">
+	<TEXT ID="twentyFive_one">
+	 <TEXTVALUE>आवश्यक सामग्री: ३ परिक्षा नळ्यांमध्ये प्राथमिक, दुय्यम आणि तृतीयक अमिन घ्या. २५% NaOH, बेंझीन सल्फोनिल क्लोराइड, ड्रॉपर, संहत HCl</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentySix">
+	<TEXT ID="twentySix_one">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे २५% NaOH घ्या आणि त्यातले काही थेंब परिक्षा नळी ए, बी आणि सी मध्ये टाका. आता थोडेसे ऊर्ध्वपतित पाणी परिक्षा नळी ए, बी आणि सी मध्ये टाका.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="twentySix_two">
+	 <TEXTVALUE>ड्रॉपर वापरून थोडेसे २५% NaOH घ्या आणि त्यातले काही थेंब परिक्षा नळी ए, बी आणि सी मध्ये टाका. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentySeven">
+	<TEXT ID="twentySeven_one">
+	 <TEXTVALUE>परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyEight">
+	<TEXT ID="twentyEight_one">
+	 <TEXTVALUE>पाणी असलेल्या चंचुपात्रात ठेवून परिक्षा नळ्या थंड करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyNine">
+	<TEXT ID="twentyNine_one">
+	 <TEXTVALUE>प्राथमिक अमिन आणि बेंझीन सल्फोनिल क्लोराइड आणि सोडियम हायड्रोऑक्साइड यांची अभिक्रिया होते आणि विरघळणारे सल्फोनामाइड क्षार निर्माण होतात. दुय्यम अमिन आणि बेंझीन सल्फोनिल क्लोराइड आणि सोडियम हायड्रोऑक्साइड यांची अभिक्रिया होते आणि अविद्राव्य सल्फोनामाइड निर्माण होते.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyNine_two">
+	 <TEXTVALUE>तृतीयक अमिन आणि सल्फोनिल क्लोराइड यांची अभिक्रिया होत नाही, पण ते अविद्राव्य आहे.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE
+
+
+>
+
+<SCENE ID="thirty">
+	<TEXT ID="thirty_one">
+	 <TEXTVALUE>दुसरे ड्रॉपर वापरून थोडेसे संहत HCl घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirtyOne">
+	<TEXT ID="thirtyOne_one">
+	 <TEXTVALUE>परिक्षा नळी ए, बी आणि सी मध्ये टाका. परिक्षा नळी ए मध्ये HCl टाकल्यानंतर विरघळणारे सल्फोनमाइड क्षार एक अवक्षेपण निर्माण करते.</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="thirtyOne_two">
+	 <TEXTVALUE>परिक्षा नळी बी मध्ये मिश्रणाचे आम्लकरण झाले तरी अविद्राव्य सल्फोनमाइड विरघळत नाही. परिक्षा नळी सी मध्ये अविद्राव्य अमिन ह्याचे रूपांतर द्रावणीय अमोनियम क्षारात होते.</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE>
+<!--test for ketones -->
+
+
+
+
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading">
+	<TEXT ID="heading_one">
+		<TEXTVALUE>एम-डायनायट्रोबेंझीन परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introsc">
+	<TEXT ID="introsc_one">
+		<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_one">
+		<TEXTVALUE>दिलेल्या द्रवाचे काही घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_two">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_one">
+		<TEXTVALUE>थोडीशी एम-डायनायट्रोबेंझीन ची पावडर घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_one">
+		<TEXTVALUE>थोडीशी एम-डायनायट्रोबेंझीन ची पावडर घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Dilsolution">
+	<TEXT ID="Dilsolution_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे सोडियम हायड्रोऑक्साइड द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diladded">
+	<TEXT ID="diladded_one">
+		<TEXTVALUE>थोडसे विरल सोडियम हायड्रोऑक्साइड द्रावण त्यात टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit">
+	<TEXT ID="shakeit_one">
+		<TEXTVALUE>नीट हलवा. दिसणारा जांभळा रंग हळू हळू अदृश्य होतो म्हणजे किटोनिक गटाच्या उपस्थितीची पुष्टी होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading2">
+	<TEXT ID="heading2_one">
+		<TEXTVALUE>सोडियम नायट्रोप्रूसाइड परिक्षा</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introsc2">
+	<TEXT ID="introsc2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_one">
+		<TEXTVALUE>स्पाट्युला घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_two">
+		<TEXTVALUE>एका परिक्षा नळीत थोडी स्फटिके सोडियम नायट्रोप्रूसाइड घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="crystalintube">
+	<TEXT ID="crystalintube_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Watertake">
+	<TEXT ID="Watertake_one">
+		<TEXTVALUE>थोडेसे ऊर्ध्वपतित पाणी त्यात टाका आणि परिक्षा नळी नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे दिलेले संयुग घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownadded">
+	<TEXT ID="unknownadded_one">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit2">
+	<TEXT ID="shakeit2_one">
+		<TEXTVALUE>नीट हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="downit">
+	<TEXT ID="downit_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumhydroxide">
+	<TEXT ID="sodiumhydroxide_one">
+		<TEXTVALUE>काही थेंब सोडियम हायड्रोऑक्साइड द्रावण टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumin">
+	<TEXT ID="sodiumin_two">
+		<TEXTVALUE>अल्क पदार्थाने निर्माण केलेल्या किटोनचे धन आयन आणि नायट्रोप्रूसाइड आयन यांची अभिक्रिया होते आणि एक लाल रंगाचे कॉम्प्लेक्स निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!--test for Sodium biocarbonate-->
+
+
+
+<SCENE ID="Test2">
+	<TEXT ID="Test2_one">
+		<TEXTVALUE>सोडियम बायकार्बोनेट परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro">
+	<TEXT ID="Apparatusintro_one">
+		<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown">
+	<TEXT ID="TakingUnknown_one">
+		<TEXTVALUE>काही थेंब अज्ञात द्रावण घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown_two">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takincompund">
+	<TEXT ID="Takincompund_one">
+		<TEXTVALUE>स्पाट्युला वापरून थोडेसे सोडियम बायकार्बोनेट घ्या.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Compoundtesttube">
+	<TEXT ID="Compoundtesttube_one">
+		<TEXTVALUE>परिक्षा नळीत टाका. कार्बोक्सायलिक आम्ल आणि सोडियम बायकार्बोनेट ह्यांची अभिक्रिया होते आणि कार्बन डायऑक्साइड वायू निर्माण होऊन खूप बुडबुडे निर्माण होतात. </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!--test for Ester -->
+
+
+
+<SCENE ID="Test3">
+	<TEXT ID="Test3_one">
+		<TEXTVALUE>एस्टर परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro2">
+	<TEXT ID="Apparatusintro2_one">
+		<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown2">
+	<TEXT ID="TakingUnknown2_one">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब इथाइल अल्कोहोल घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown2_two">
+		<TEXTVALUE>परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takingethylalcohol">
+	<TEXT ID="Takingethylalcohol_one">
+		<TEXTVALUE>ड्रॉपर वापरून काही थेंब इथाइल अल्कोहोल घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Takingethylalcohol_two">
+		<TEXTVALUE>इथाइल अल्कोहोल परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingSulphiricacid">
+	<TEXT ID="TakingSulphiricacid_one">
+		<TEXTVALUE>दुसरे ड्रॉपर वापरून १-२ थेंब संहत सल्फ्युरिक आम्ल घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_two">
+		<TEXTVALUE>परिक्षा नळीत टाका. </TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_three">
+		<TEXTVALUE>परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="burner">
+	<TEXT ID="burner_one">
+		<TEXTVALUE>उकळत्या पाण्याच्या कुंडात ठेवा आणि परिक्षा नळी ५ मिनिटे गरम करा.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_one">
+		<TEXTVALUE>ऊर्ध्वपतित पाणी असलेल्या चंचुपात्रात ओता.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_two">
+		<TEXTVALUE>आम्ल माध्यमात अल्कोहोल आणि कार्बोक्सायलिक आम्लाची अभिक्रिया होते आणि एस्टर नावाची फळांचा सुगंध असलेली संयुगे निर्माण होतात.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<!--test for Litmus Milk -->
+
+
+
+<SCENE ID="Test1t">
+	<TEXT ID="Test1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Test22copy">
+	<TEXT ID="Test22copy_one">
+		<TEXTVALUE>लिटमस परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Starting1">
+	<TEXT ID="Starting1_one">
+		<TEXTVALUE>लिटमस परिक्षा</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknownsol1">
+	<TEXT ID="TakingUnknownsol1_one">
+		<TEXTVALUE>ड्रॉपर वापरून थोडेसे अज्ञात द्रावण घ्या.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_two">
+		<TEXTVALUE>२-३ थेंब ओलसर निळ्या लिटमस कागदावर टाका.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_three">
+		<TEXTVALUE>कार्बोक्सायलिक आम्ल निळ्या लिटमसला लाल बनविते. हे दर्शविते की हे आम्लधर्मी आहे. </TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!--test for Schiffs-->
+
+<SCENE ID="intro1">
+	<TEXT ID="intro1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_two">
+	 	<TEXTVALUE>ड्रॉपर वापरून काही थेंब अज्ञात द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_three">
+	 	<TEXTVALUE>घेतलेले द्रावण परिक्षा नळीत ओता.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_four">
+	 	<TEXTVALUE>१ मिली शिफ अभिकारक एका मापन जार मध्ये घ्या. कार्बनी संयुग असलेली परिक्षा नळी घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_five">
+	 	<TEXTVALUE>शिफ अभिकारक संयुगात ओता आणि हलवा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_six">
+	 	<TEXTVALUE>गुलाबी रंग अल्डिहाइड गटाच्या उपस्थितीची पुष्टी करते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_two">
+	 	<TEXTVALUE>१ मिली सिल्वर नायट्रेट द्रावण परिक्षा नळीत घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_three">
+	 	<TEXTVALUE>स्वच्छ परिक्षा नळीत टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_four">
+	 	<TEXTVALUE>दुसरे मापन नळकांडे घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_five">
+	 	<TEXTVALUE>२ मिली विरल NaOH द्रावण घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_six">
+	 	<TEXTVALUE>ते त्याच परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_seven">
+	 	<TEXTVALUE>सिल्वर नायट्रेट आणि सोडियम हायड्रोऑक्साइड ह्यांची अभिक्रिया होते आणि सिल्वर ऑक्साइडचे तपकिरी अवक्षेपण निर्माण होते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eight">
+	 	<TEXTVALUE>ड्रॉपर घ्या.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_nine">
+	 	<TEXTVALUE>थेंब थेंब विरल अमोनिया द्रावण परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_ten">
+	 	<TEXTVALUE>अवक्षेपण द्रावणात विरघळते.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eleven">
+	 	<TEXTVALUE>दिलेल्या द्रवाचे २-३ थेंब परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_twelve">
+	 	<TEXTVALUE>पाण्याच्या कुंडात परिक्षा नळी ५ मिनिटे गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_thirteen">
+	 	<TEXTVALUE>अल्डिहाइडच्या उपस्थितीत परिक्षा अभिकारकातल्या सिल्वर आयनचे क्षपणन होते आणि मूलद्रव चांदी निर्माण होते आणि अभिक्रिया पात्राच्या आतल्या बाजूला एकत्र होते आणि त्यामुळे चांदीच्या आरशाचा परिणाम दिसतो.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_two">
+	 	<TEXTVALUE>: १ मिली फेहलिंग द्रावण ए मापन जार मध्ये टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_three">
+	 	<TEXTVALUE>परिक्षा नळीत टाका. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_four">
+	 	<TEXTVALUE>१ मिली फेहलिंग द्रावण B मापन जार मध्ये टाका</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_five">
+	 	<TEXTVALUE>परिक्षा नळीत टाका. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_six">
+	 	<TEXTVALUE>ड्रॉपर वापरून दिलेल्या द्रावणणाचे ४-५ थेंब परिक्षा नळीत टाका.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_seven">
+	 	<TEXTVALUE>पाण्याच्या कुंडात परिक्षा नळी ५ मिनिटे गरम करा.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_eight">
+	 	<TEXTVALUE>परिक्षा अभिकारकातले Cu(II) आयन ह्यांचे अल्डिहाइडमुळे क्षपणन होते आणि कॉपर ऑक्साइड (I) चे लाल अवक्षेपण निर्माण होते. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>

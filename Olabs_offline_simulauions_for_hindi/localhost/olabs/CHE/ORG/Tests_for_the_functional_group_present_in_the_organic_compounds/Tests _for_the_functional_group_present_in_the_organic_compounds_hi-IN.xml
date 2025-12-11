@@ -1,0 +1,1725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+<!-- Interactive_scenes-->
+<SCENE ID="TitleFunctionalGrp">
+	<TEXT ID="TitleFunctionalGrp_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Buttons">
+	<TEXT ID="6Buttons_one">
+		<TEXTVALUE>किसी एक समूह पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3Buttons">
+	<TEXT ID="3Buttons_one">
+		<TEXTVALUE>किसी एक समूह पर क्लिक करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!-- Test for unsaturation -->
+
+
+
+
+
+<SCENE ID="Tests">
+	<TEXT ID="Tests_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="Brominetest">
+	<TEXT ID="Brominetest_one">
+		<TEXTVALUE>ब्रोमीन जल परीक्षण।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Title">
+	<TEXT ID="Title_one">
+		<TEXTVALUE>ब्रोमीन जल परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="TakingUnknCmpnd">
+	<TEXT ID="TakingUnknCmpnd_one">
+		<TEXTVALUE>स्पैमचुला का प्रयोग कर अज्ञात यौगिक लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PowderinTube">
+	<TEXT ID="PowderinTube_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterinjar">
+	<TEXT ID="Waterinjar_one">
+		<TEXTVALUE>मापक सिलेंडर में 2 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWater">
+	<TEXT ID="PouringWater_one">
+		<TEXTVALUE>मापक सिलेंडर में 2 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Waterintesttube">
+	<TEXT ID="Waterintesttube_one">
+		<TEXTVALUE>इसे परखनली में डालें और अच्छी तरह हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Brominetaking">
+	<TEXT ID="Brominetaking_one">
+		<TEXTVALUE>ब्रोमीन जल की 1-2 बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>Add it to the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BrominePoringzoom">
+	<TEXT ID="BrominePoringzoom_one">
+		<TEXTVALUE>ब्रोमीन के नारंगी-लाल रंग के गायब होने से असंतृप्ति का पता चलता है। नहीं तो, यह संतृप्ति है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyerstest">
+	<TEXT ID="Baeyerstest_one">
+		<TEXTVALUE>बायर परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TitleBaeyerstest">
+	<TEXT ID="TitleBaeyerstest_one">
+		<TEXTVALUE>बायर परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="TakingUnknCmpndBaeyer">
+	<TEXT ID="TakingUnknCmpndBaeyer_one">
+		<TEXTVALUE>स्पैाचुला का प्रयोग कर परखनली में कुछ अज्ञात यौगिक डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="PowderinTubeBaeyer">
+	<TEXT ID="PowderinTubeBaeyer_one">
+		<TEXTVALUE>स्पैाचुला का प्रयोग कर परखनली में कुछ अज्ञात यौगिक डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterinjarBaeyer">
+	<TEXT ID="WaterinjarBaeyer_one">
+		<TEXTVALUE>मापक सिलेंडर में 2 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="PouringWaterBaeyer">
+	<TEXT ID="PouringWaterBaeyer_one">
+		<TEXTVALUE>मापक सिलेंडर में 2 मिलीलीटर आसुत जल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="WaterintesttubeBaeyer">
+	<TEXT ID="WaterintesttubeBaeyer_one">
+		<TEXTVALUE>Add it to the test tube and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Baeyertaking">
+	<TEXT ID="Baeyertaking_one">
+		<TEXTVALUE>अब, इसमें KMnO [sup] 4 [/ sup] के विलयन की 2-3 बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BaeyerPoringzoom">
+	<TEXT ID="BaeyerPoringzoom_one">
+		<TEXTVALUE>KMnO [sup] 4 [/ sup] के गुलाबी रंग के रंगहीन होने से असंतृप्ति का पता चलता है। नहीं तो, यह संतृप्ति है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<!-----Alcoholic group------->
+
+
+
+
+
+
+<SCENE ID="titlealco">
+	<TEXT ID="titlealco_one">
+		<TEXTVALUE>अल्को्हलिक समूह</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="title2">
+	<TEXT ID="title2_one">
+		<TEXTVALUE>सोडियम धातु परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="introsodium">
+	<TEXT ID="introsodium_one">
+		<TEXTVALUE>सोडियम धातु परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="measuringjar">
+	<TEXT ID="measuringjar_one">
+		<TEXTVALUE>साफ और सूखा मापक जार लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="liquidinto">
+	<TEXT ID="liquidinto_one">
+		<TEXTVALUE>इस में 1 मिलीलीटर दिया गया अज्ञात यौगिक डालें</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="liquidinto_two">
+		<TEXTVALUE>इसे सूखी परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="smallamount">
+	<TEXT ID="smallamount_one">
+		<TEXTVALUE>इस में निर्जल कैल्शियम सल्फेट की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Shakewell">
+	<TEXT ID="Shakewell_one">
+		<TEXTVALUE>अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="funnelfilte">
+	<TEXT ID="funnelfilte_one">
+		<TEXTVALUE>कीप में फिल्टर पेपर लगाएं।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="funnelfilte_two">
+		<TEXTVALUE>कीप में फिल्टर पेपर लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thetest">
+	<TEXT ID="thetest_one">
+		<TEXTVALUE>परखनली में विलयन छान लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="thetest_two">
+		<TEXTVALUE>कीप हटाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Addsodiummetal">
+	<TEXT ID="Addsodiummetal_one">
+		<TEXTVALUE>चिमटी का प्रयोग कर सोडियम धातु के छोटे-छोटे टुकड़े लें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Addsodiummetal_two">
+		<TEXTVALUE>इसे फिल्टर पेपर पर रखें और एक और फिल्टर पेपर से इसे सुखा लें।</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sodiummetal">
+	<TEXT ID="sodiummetal_one">
+		<TEXTVALUE>चिमटी का प्रयोग कर परखनली में सोडियम धातु के 2-3 टुकड़े डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumzoom">
+	<TEXT ID="sodiumzoom_one">
+		<TEXTVALUE>सोडियम जैसी सक्रिय धातुओं के साथ अल्कोहल अभिक्रिया करता है जिससे हाइड्रोजन गैस मुक्त होने से बुदबुदाहट पैदा होती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="estertest">
+	<TEXT ID="estertest_one">
+		<TEXTVALUE>एस्टर परीक्षण। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro22">
+	<TEXT ID="intro22_one">
+		<TEXTVALUE>एस्टर परीक्षण। </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuring2">
+	<TEXT ID="measuring2_one">
+		<TEXTVALUE>मापक जार लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="givenunknownliquid2">
+	<TEXT ID="givenunknownliquid2_one">
+		<TEXTVALUE>मापक जार में 1 मिलीलीटर अज्ञात यौगिक डालें। इसे एक और सूखी परखनली में स्थादनांतरित करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="measuringjar2">
+	<TEXT ID="measuringjar2_one">
+		<TEXTVALUE>एक और मापक जार लें।</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="measuringjar2_two">
+		<TEXTVALUE>इस में 1 मिलीलीटर ग्लेअसियल एसिटिक अम्ल  डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="testtube3">
+		<TEXT ID="testtube3_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Pourit">
+	<TEXT ID="Pourit_one">
+		<TEXTVALUE>ड्रॉपर लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pourit_two">
+		<TEXTVALUE>परखनली में सांद्रित सल्फ्यूरिक अम्ल  की 2-3 बूंदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="waterbath">
+	<TEXT ID="waterbath_one">
+		<TEXTVALUE>10 मिनट तक वाटर बाथ में मिश्रण गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Take">
+	<TEXT ID="Take_one">
+		<TEXTVALUE>बीकर में लिए गए 20 मिलीलीटर ठंडे जल में इस मिश्रण को मिलाएं और इसे सूंघें।</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="Take_two">
+		<TEXTVALUE>सांद्रित सल्फ्यूरिक अम्लफ की उपस्थिति में अल्को।हल कार्बोक्जिलिक अम्लघ के साथ अभिक्रिया करता है जिससे एस्ट्र नामक फल की खुशबू वाला यौगिक बनता है ।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Take_three">
+		<TEXTVALUE>फल की गंध से अल्कोकहलिक समूह की उपस्थिति पता चलता है।	 </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fruity">
+	<TEXT ID="fruity_one">
+		<TEXTVALUE>फल की गंध से अल्कोकहलिक समूह की उपस्थिति पता चलता है।	 </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="CericAmmoniumNitrate">
+	<TEXT ID="CericAmmoniumNitrate_one">
+		<TEXTVALUE>सेरिक अमोनियम नाइट्रेट परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro3">
+	<TEXT ID="intro3_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="take22">
+	<TEXT ID="take22_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>	
+
+<SCENE ID="givenunknown">
+	<TEXT ID="givenunknown_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+<TEXT ID="givenunknown_two">
+	<TEXTVALUE>Pour 1ml of the given unknown compound into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_three">
+	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="givenunknown_four">
+	<TEXTVALUE>इसमें सेरिक अमोनियम नाइट्रेट अभिकर्मक की कुछ बूँदें मिलाएं।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene671">
+	<TEXT ID="Scene671_one">
+	<TEXTVALUE>इसमें सेरिक अमोनियम नाइट्रेट अभिकर्मक की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_two">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene671_three">
+	<TEXTVALUE>सेरिक अमोनियम नाइट्रेट के साथ अभिक्रिया करने पर अल्कोिहलिक यौगिक अल्को क्जी  सेरियम (IV) यौगिक बनने की वजह से लाल रंग का रंजक देता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AcetylChloride">
+	<TEXT ID="AcetylChloride_one">
+	<TEXTVALUE>एसीटाइल क्लोराइड परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro321">
+	<TEXT ID="intro321_one">
+	<TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring4">
+	<TEXT ID="Takeameasuring4_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownliquid">
+	<TEXT ID="unknownliquid_one">
+	<TEXTVALUE>इस में 1 मिलीलीटर दिया गया अज्ञात तरल  डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="unknownliquid_two">
+	<TEXTVALUE>इसे में निर्जल कैल्शियम सल्फेट की थोड़ी सी मात्रा मिलाएं
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Addsmall">
+	<TEXT ID="Addsmall_one">
+	<TEXTVALUE>Add a small amount of anhydrous calcium sulphate into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Shake">
+	<TEXT ID="Shake_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="funnelfilter3">
+	<TEXT ID="funnelfilter3_one">
+	<TEXTVALUE>परखनली पर कीप रखें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="funnelfilter3_two">
+	<TEXTVALUE>कीप में फिल्टर पेपर रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Theliquidin">
+	<TEXT ID="Theliquidin_one">
+	<TEXTVALUE>परखनली में तरल पदार्थ छान लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Theliquidin_two">
+	<TEXTVALUE>कीप हटाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritintothegg">
+<TEXT ID="Pouritintothegg_one">
+	<TEXTVALUE>इसमें एसिटाइल क्लोराइड की 2-3 बूंदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Pouritintothegg_two">
+	<TEXTVALUE>कांच की छड़ लें और इसे अमोनियम हाइड्रॉक्साइड के विलयन में डुबोएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="whitefumes">
+	<TEXT ID="whitefumes_one">
+	<TEXTVALUE>परखनली के मुँह के पास कांच की छड़ ले आइए। एसिटाइल क्लोराइड के साथ अभिक्रिया करने पर अल्कोहल एस्टँर बनाता और हाइड्रोजन क्लोराइड गैस मुक्तर करता है। 
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="whitefumes_two">
+	<TEXTVALUE>हाइड्रोजन क्लोराइड अमोनियम हाइड्रॉक्साइड के साथ अमोनियम क्लोराइड का सफेद धूम्र देता है।</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+
+
+</SCENE>
+
+<SCENE ID="Test100">
+	<TEXT ID="Test100_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intro4">
+	<TEXT ID="intro4_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasuring5">
+	<TEXT ID="Takeameasuring5_one">
+	<TEXTVALUE>Take a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="given5">
+	<TEXT ID="given5_one">
+	<TEXTVALUE>Pour 1ml of the given unknown liquid into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="given5_two">
+	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Takeameasu">
+	<TEXT ID="Takeameasu_one">
+	<TEXTVALUE>मापक जार में 1 मिलीलीटर 1% आयोडीन का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pour">
+	<TEXT ID="Pour_one">
+	<TEXTVALUE>Add it to the test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Pouritinto">
+	<TEXT ID="Pouritinto_one">
+	<TEXTVALUE>तनु सोडियम हाइड्रॉक्साइड का विलयन बूंद-बूंद करके तब तक मिलाएं जब तक आयोडीन का भूरा रंग उतर न जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="awaterbath">
+	<TEXT ID="awaterbath_one">
+	<TEXTVALUE>वाटर बाथ में धीरे-धीरे मिश्रण गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ZOOOMI">
+	<TEXT ID="ZOOOMI_one">
+	<TEXTVALUE>आयडोफार्म का पीला तलछट बनने से अल्कोगहलिक समूह की उपस्थिति पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Lucastesttitle">
+	<TEXT ID="Lucastesttitle_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Lucastest1">
+	<TEXT ID="Lucastest1_one">
+	<TEXTVALUE>तीन अलग-अलग परखनलियों में प्राथमिक, द्वितियक और तृतीयक अल्कोहल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest2">
+	<TEXT ID="Lucastest2_one">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर, ल्युरकस अभिकर्मक की कुछ बूंदें लें। तृतीयक अल्को़हल में ल्युेकस अभिकर्मक की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="Lucastest2_two">
+	<TEXTVALUE>तृतीयक अल्को,हल ल्युकस अभिकर्मक के साथ तुरंत अभिक्रिया करता है जिससे अल्का।इल क्लोराइड बनता है, जो अघुलनशील होने के कारण विलयन में बादलनुमा हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest3">
+	<TEXT ID="Lucastest3_one">
+	<TEXTVALUE>ड्रॉपर का प्रयोग कर ल्यु कस अभिकर्मक लें। इसकी कुछ बूँदें द्वितियक अल्कोकहल में मिलाएं और परखनली 5 मिनट तक अछूती रखें।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="Lucastest3_two">
+	<TEXTVALUE>द्वितियक अल्कोइहल ल्युाकस अभिकर्मक के साथ लगभग 1-5 मिनट में अभिक्रिया करता है जिससे अल्कािइल क्लोराइड बनता है, जो अघुलनशील होने के कारण विलयन में बादलनुमा हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest4">
+	<TEXT ID="Lucastest4_one">
+	<TEXTVALUE>फिर से ल्यु्कस अभिकर्मक लें। इसकी कुछ बूँदें प्राथमिक अल्कोहल में मिलाएं। परखनली धारक का प्रयोग कर प्राथमिक अल्कोकहल युक्त परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Lucastest5">
+	<TEXT ID="Lucastest5_one">
+	<TEXTVALUE>बुन्सेमन बर्नर पर परखनली गर्म करें। गर्म करने पर, प्राथमिक अल्कोहल ल्युकस अभिकर्मक के साथ अभिक्रिया करता है जिससे अल्कालइल क्लोराइड बनता है, जो अघुलनशील होने के कारण विलयन में बादलनुमा हो जाता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!---------phenolic group-------->
+
+
+
+
+
+
+<SCENE ID="LitmusTest1">
+	<TEXT ID="LitmusTest1_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitle">
+	<TEXT ID="litmusTesttitle_one">
+	 <TEXTVALUE>परखनली से कुछ अज्ञात तरल लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroLis">
+	<TEXT ID="IntroLis_one">
+	 <TEXTVALUE>गीला नीला लिटमस पेपर लें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+	<SCENE ID="Scene3droperdrp">
+	<TEXT ID="Scene3droperdrp_one">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर दिए गए कागज पर तरल पदार्थ की एक बूंद डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_two">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर दिए गए कागज पर तरल पदार्थ की एक बूंद डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Scene3droperdrp_three">
+	 <TEXTVALUE>फिनोल दुर्बल अम्ल होता है: यह नीले लिटमस पेपर का रंग लाल बना देता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Ferricchlordetest">
+	<TEXT ID="Ferricchlordetest_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntrodFerric">
+	<TEXT ID="IntrodFerric_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="violetcoloration">
+	<TEXT ID="violetcoloration_one">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_two">
+	 <TEXTVALUE>इस में 1 मिलीलीटर उदासीन फेरिक क्लोराइड डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_three">
+	 <TEXTVALUE>Pour it into a dry test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_four">
+	 <TEXTVALUE>दिए गए तरल की 2-3 बूंदें परखनली में डालें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="violetcoloration_five">
+	 <TEXTVALUE>उदासीन फेरिक क्लोराइड के साथ अभिक्रिया करने पर फिनोल एक यौगिक बनने के कारण बैंगनी रंग देता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="litmusTesttitlecopy">
+	<TEXT ID="litmusTesttitlecopy_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introductionp">
+	<TEXT ID="introductionp_one">
+	 <TEXTVALUE>notext
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="animationheat">
+	<TEXT ID="animationheat_one">
+	 <TEXTVALUE>परखनली लें।
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_two">
+	 <TEXTVALUE>इसमें सोडियम नाइट्राइट के 2-3 क्रिस्टल डालें।	
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_three">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_four">
+	 <TEXTVALUE>Pour 1ml of phenol into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_five">
+	 <TEXTVALUE>Pour it into the test tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="animationheat_six">
+	 <TEXTVALUE>आधा मिनट तक इसे धीरे-धीरे गर्म करें और इसे ठंडा होने दें।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="jarSulBlueORGreen">
+	<TEXT ID="jarSulBlueORGreen_one">
+	 <TEXTVALUE>Take a measuring jar.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_two">
+	 <TEXTVALUE>Pour 1ml of conc. Sulphuric acid  into it.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_three">
+	 <TEXTVALUE>Pour it into the tube.
+	</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="jarSulBlueORGreen_four">
+	 <TEXTVALUE>सान्द्र सल्फ्यूरिक अम्ल,  की उपस्थिति में सोडियम नाइट्राइट के साथ अभिक्रिया करने पर फिनोल गहरे नीले या हरे रंग का उत्पाद देता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="WaterDroper">
+	<TEXT ID="WaterDroper_one">
+	 <TEXTVALUE>इसमें सवधानी पूर्वक पानी मिलाएं। पानी से उपचारित करने पर इंडोफिनोल बनने के कारण नीला या हरा रंग लाल या भूरे रंग में बदल जाता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Blue2Red">
+	<TEXT ID="Blue2Red_one">
+	 <TEXTVALUE>सोडियम हाइड्रॉक्साइड का अतिरिक्त विलयन परखनली में डालें। प्रबल क्षार मिलाने से इंडोफिनोल के ऋणायन बनने के कारण रंग नीले या हरे रंग में पुन: बदल जाता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SodiumHydroxideBtl">
+	<TEXT ID="SodiumHydroxideBtl_one">
+	 <TEXTVALUE>सोडियम हाइड्रॉक्साइड का अतिरिक्त विलयन परखनली में डालें। प्रबल क्षार मिलाने से इंडोफिनोल के ऋणायन बनने के कारण रंग नीले या हरे रंग में पुन: बदल जाता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Red2Green">
+	<TEXT ID="Red2Green_one">
+	 <TEXTVALUE>सोडियम हाइड्रॉक्साइड का अतिरिक्त विलयन परखनली में डालें। प्रबल क्षार मिलाने से इंडोफिनोल के ऋणायन बनने के कारण रंग नीले या हरे रंग में पुन: बदल जाता है।
+	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="phthaleindye1">
+	<TEXT ID="phthaleindye1_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ph2">
+	<TEXT ID="ph2_one">
+	 <TEXTVALUE>परखनली में फिनोल की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowder">
+	<TEXT ID="takpowder_one">
+	 <TEXTVALUE>स्पैलचुला का प्रयोग कर थैलीक एनहाइड्राइड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="takpowde2">
+	<TEXT ID="takpowde2_one">
+	 <TEXTVALUE>स्पैलचुला का प्रयोग कर थैलीक एनहाइड्राइड की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="intube">
+	<TEXT ID="intube_one">
+	 <TEXTVALUE>इसे फिनोल युक्त परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="taketube">
+	<TEXT ID="taketube_one">
+	 <TEXTVALUE>परखनली धारक का प्रयोग कर परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="addcoh2so4">
+	<TEXT ID="addcoh2so4_one">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर, परखनली में सांद्रित सल्फ्यूरिक अम्लल की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="boiltube">
+	<TEXT ID="boiltube_one">
+	 <TEXTVALUE>लगभग 1 मिनट तक आयल बाथ में परखनली की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="pour">
+	<TEXT ID="pour_one">
+	 <TEXTVALUE>सोडियम हाइड्रॉक्साइड के विलयन से युक्तख बीकर में अभिक्रिया मिश्रण सावधानीपूर्वक डालें।</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="pour_two">
+	 <TEXTVALUE>गर्म करने पर, सल्फ्यूरिक अम्लह की उपस्थिति में फिनोल थैलीक एनहाइड्राइड के साथ अभिक्रिया करता है जिससे रंगहीन फिनोलप्थैूलीन बनता है। फिनोलप्थैिलीन NaOH जैसे क्षार के साथ गुलाबी रंग देता है।.
+
+</TEXTVALUE>
+	</TEXT>
+
+
+
+
+
+</SCENE>
+
+<!---------aldyhide and ketone-------->
+
+
+
+
+
+
+<SCENE ID="TitleAldyKeton">
+	<TEXT ID="TitleAldyKeton_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="hydrazinetitle">
+	<TEXT ID="hydrazinetitle_one">
+	 	<TEXTVALUE>2,4-डिनाइट्रोफिनाइल हाइड्राजीन परीक्षण।	   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="IntroAldyKetonS1">
+	<TEXT ID="IntroAldyKetonS1_one">
+	 	<TEXTVALUE>2,4-डिनाइट्रोफिनाइल हाइड्राजीन परीक्षण।	   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="SpoonComp2TtubeS2">
+	<TEXT ID="SpoonComp2TtubeS2_one">
+	 	<TEXTVALUE>स्पै चुला लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="SpoonComp2TtubeS2_two">
+	 	<TEXTVALUE>दिया गया कुछ अज्ञात यौगिक लें और सूखी परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Spirit2TtubeS3">
+	<TEXT ID="Spirit2TtubeS3_one">
+	 	<TEXTVALUE>ड्रॉपर लें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Spirit2TtubeS3_two">
+	 	<TEXTVALUE>परिशोधित स्पिरिट की कुछ बूंदें तब तक मिलाएं जब तक यौगिक घुल भर न जाए।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Hydrazine2TtubeS4">
+	<TEXT ID="Hydrazine2TtubeS4_one">
+	 	<TEXTVALUE>मापक जार में 5 मिलीलीटर 2,4-डिनाइट्रोफिनाइल हाइड्राजीन</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_two">
+	 	<TEXTVALUE>इसे परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Hydrazine2TtubeS4_three">
+	 	<TEXTVALUE>मिश्रण को हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultorangeS5">
+	<TEXT ID="ResultorangeS5_one">
+	 	<TEXTVALUE>इसे 5 मिनट तक ठहरा रहने दें।</TEXTVALUE>
+	</TEXT>
+    <TEXT ID="ResultorangeS5_two">
+	 	<TEXTVALUE>पीले या नारंगी क्रिस्टल बनते हैं, जिससे एल्डीहाइड या कीटोन की उपस्थिति का पता चलता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodiumtitle">
+	<TEXT ID="Sodiumtitle_one">
+	 	<TEXTVALUE>सोडियम बाईसल्फाकइट परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Sodium2TtubeS6">
+	<TEXT ID="Sodium2TtubeS6_one">
+	 	<TEXTVALUE>मापक जार में 2 मिलीलीटर सोडियम बाईसल्फालइट लें।	 </TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Sodium2TtubeS6_two">
+	 	<TEXTVALUE>Pour it into a dry test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Compound2SodiumTubeS7">
+	<TEXT ID="Compound2SodiumTubeS7_one">
+	 	<TEXTVALUE>स्पै चुला से इसमें कुछ अज्ञात यौगिक मिलाएं।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Compound2SodiumTubeS7_two">
+	 	<TEXTVALUE>परखनली में कार्क लगाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ResultWhiteS8">
+	<TEXT ID="ResultWhiteS8_one">
+	 	<TEXTVALUE>इसे हिलाएं और इसे 20 मिनट तक ठहरा रहने दें।</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ResultWhiteS8_two">
+	 	<TEXTVALUE>क्रिस्टलीय सफेद तलछट बनने से कार्बोनिल समूह की उपस्थिति की पुष्टि होती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+<!---------test for amino groups-------->
+
+
+
+
+
+
+
+<SCENE ID="intro">
+	<TEXT ID="intro_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="LitmusTest">
+	<TEXT ID="LitmusTest_one">
+	 	<TEXTVALUE>ड्रॉपर लें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="LitmusTest_two">
+	 	<TEXTVALUE>परखनली से कुछ दिया गया अज्ञात तरल पदार्थ लें।</TEXTVALUE>
+	</TEXT>	
+<TEXT ID="LitmusTest_three">
+	 	<TEXTVALUE>गीले लाल लिटमस पेपर पर इसकी कुछ बूँदें डालें।</TEXTVALUE>
+	</TEXT>		
+<TEXT ID="LitmusTest_four">
+	 	<TEXTVALUE>एमाइंस प्रकृति में क्षारीय होते है, जो लाल लिटमस पेपर को नीला कर देते हैं।</TEXTVALUE>
+	</TEXT>			
+	
+</SCENE>
+
+
+<SCENE ID="SolubilityTest">
+<TEXT ID="SolubilityTest_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+
+	<TEXT ID="SolubilityTest_one">
+	 	<TEXTVALUE>स्पैंचुला का प्रयोग कर परखनली में दिए गए यौगिक के कुछ मात्रा लें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_two">
+	 	<TEXTVALUE>परखनली में तनु HCl की थोड़ी सी मात्रा मिलाएं। </TEXTVALUE>
+	</TEXT>
+<TEXT ID="SolubilityTest_three">
+	 	<TEXTVALUE>एमिनो समूह युक्त कार्बनिक यौगिक प्रकृति में क्षारीय होते हैं और घुलनशील लवण बनाने के लिए आसानी से अम्लक के साथ अभिक्रिया करते हैं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Carbylamines">
+
+<TEXT ID="Carbylamines_notxt">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Carbylamines_one">
+	 	<TEXTVALUE>परखनली में कुछ पोटेशियम हाइड्रॉक्साइड लें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_two">
+	 	<TEXTVALUE>मापक जार में 2 मिलीलीटर इथेनॉल लें।	   </TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_three">
+	 	<TEXTVALUE>इसे परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_four">
+	 	<TEXTVALUE>परखनली तब तक गर्म करें जब तक कि पोटेशियम हाइड्रॉक्साइड घुल न जाए।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_five">
+	 	<TEXTVALUE>ड्रॉपर का प्रयोग कर, क्लोरोफॉर्म की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_six">
+	 	<TEXTVALUE>इसे परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_seven">
+	 	<TEXTVALUE>उसी परखनली में दिए गए अज्ञात यौगिक की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_eight">
+	 	<TEXTVALUE>धीरे-धीरे इसे गर्म करें।</TEXTVALUE>
+	</TEXT>
+<TEXT ID="Carbylamines_nine">
+	 	<TEXTVALUE>क्लोरोफॉर्म और अल्कोेहलिक KOH के साथ गरम करने पर सुगंधित और साथ ही खुशबूदार प्राथमिक एमाइंस आइसोसायनाइड देते हैं,जिससे भयंकर दुर्गंध आती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="one">
+	<TEXT ID="one_one">
+	 <TEXTVALUE>एजो - डाई परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="two">
+	<TEXT ID="two_one">
+	 <TEXTVALUE>हमें चाहिए कार्बनिक यौगिक, तनु HCl, सोडियम नाइट्राइट, आसुत जल, बीटा-नैफथोल, तनु NaOH, स्पै चुला, ड्रॉपर, परखनलियां, आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="three">
+	<TEXT ID="three_one">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर कार्बनिक यौगिक की थोड़ी सी मात्रा लें और इसे परखनली A में डालें और एक और ड्रॉपर का प्रयोग कर तनु HCl की थोड़ी सी मात्रा लें। इसे परखनली ए में डालें और HCl में यौगिक घोलने के लिए अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="four">
+	<TEXT ID="four_one">
+	 <TEXTVALUE>स्पैेचुला का प्रयोग सोडियम नाइट्राइट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="five">
+	<TEXT ID="five_one">
+	 <TEXTVALUE>परखनली बी लें	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="six">
+	<TEXT ID="six_one">
+	 <TEXTVALUE>इसे परखनली बी में डालें। अब परखनली में आसुत जल की थोड़ी सी मात्रा मिलाएं और सोडियम नाइट्राइट अच्छी तरह से घोलने के लिए परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="seven">
+	<TEXT ID="seven_one">
+	 <TEXTVALUE>परखनली रैक में परखनली रखें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eight">
+	<TEXT ID="eight_one">
+	 <TEXTVALUE>एक और स्पै चुला का प्रयोग कर, बीटा-नैफथोल की थोड़ी सी मात्रा लें।	 </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="nine">
+	<TEXT ID="nine_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ten">
+	<TEXT ID="ten_one">
+	 <TEXTVALUE>इसे परखनली सी में डालें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eleven">
+	<TEXT ID="eleven_one">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर, तनु NaOH की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twelve">
+	<TEXT ID="twelve_one">
+	 <TEXTVALUE>इसे परखनली सी में डालें और नैफथोल घोलने के लिए अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirteen">
+	<TEXT ID="thirteen_one">
+	 <TEXTVALUE>परखनलियां लें।	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fourteen">
+	<TEXT ID="fourteen_one">
+	 <TEXTVALUE>उन्हें आइस बाथ में रखें और कुछ समय तक परखनलियां ठंडा करें। परखनली ए और बी लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="fifteen">
+	<TEXT ID="fifteen_one">
+	 <TEXTVALUE>परखनली A में सोडियम नाइट्राइट का विलयन मिलाएं। अब परखनली ए से उत्पन्न विलयन परखनली सी में मिलाएं</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="fifteen_two">
+	 <TEXTVALUE>सुगंधित प्राथमिक एमाइन 0-5 डिग्री सेल्सियस पर HCl के साथ सोडियम नाइट्राइट की अभिक्रिया से बगल में उत्पन्न नाइट्रस अम्ल0 के साथ अभिक्रिया करते हैं जिससे डाईएजोनियम लवण बनता है। यह गहरा लाल वर्ण देने के लिए बीटा-नैफथोल के साथ युग्मित होता है।</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="sixteen">
+	<TEXT ID="sixteen_one">
+	 <TEXTVALUE>नाइट्रस अम्लन परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="seventeen">
+	<TEXT ID="seventeen_one">
+	 <TEXTVALUE>हमें चाहिए कार्बनिक यौगिक, सान्द्र HCl, सोडियम नाइट्राइट, परखनलियां,</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="eighteen">
+	<TEXT ID="eighteen_one">
+	 <TEXTVALUE>स्पै चुला का प्रयोग कर सोडियम नाइट्राइट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="nineteen">
+	<TEXT ID="nineteen_one">
+	 <TEXTVALUE>परखनली ए लें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twenty">
+	<TEXT ID="twenty_one">
+	 <TEXTVALUE>परखनली ए में सोडियम नाइट्राइट डालें। इसमें आसुत जल की थोड़ी सी मात्रा डालें और सोडियम नाइट्राइट घोलने के लिए अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyOne">
+	<TEXT ID="twentyOne_one">
+	 <TEXTVALUE>रैक में परखनली रखें। ड्रॉपर का प्रयोग कर परखनली बी में कार्बनिक यौगिक की थोड़ी सी मात्रा डालें। एक अन्य ड्रॉपर का प्रयोग कर परखनली बी में सान्द्र HCl की थोड़ी सी मात्रा मिलाएं और HCl में यौगिक घोलने के लिए अच्छी तरह से परखनली हिलाएं ।</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyOne_two">
+	 <TEXTVALUE>परखनलियां लें।</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+<SCENE ID="twentyTwo">
+	<TEXT ID="twentyTwo_one">
+	 <TEXTVALUE>उन्हें आइस बाथ में रखें और उन्हें कुछ समय तक ठंडा होने दें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentyThree">
+	<TEXT ID="twentyThree_one">
+	 <TEXTVALUE>दोनों विलयनों को मिलाएं। तृतीयक एमाइन के मामले में कोई दृश्य परिवर्तन नहीं दिखाई देता है, क्योंकि तृतीयक एमाइन मौजूद अम्ल  के साथ अभिक्रिया करके घुलनशील नाइट्राइट का लवण बना चुका होता है।</TEXTVALUE>
+	</TEXT>
+
+<TEXT ID="twentyThree_two">
+	 <TEXTVALUE>प्राथमिक एमाइन द्वितियक एमाइन के साथ अभिक्रिया करता है जिससे नाइट्रोजन गैस के बुलबुले मुक्तम होते हैं। नाइट्रस अम्ल  के साथ द्वितियक एमाइन अभिक्रिया करता है जिससे नाइट्रोसैमाइन की  पीली, तैलिय परत बनती है।</TEXTVALUE>
+	</TEXT>
+
+
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="twentyFour">
+	<TEXT ID="twentyFour_one">
+	 <TEXTVALUE>हिंसबर्ग परीक्षण</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyFive">
+	<TEXT ID="twentyFive_one">
+	 <TEXTVALUE>हमें चाहिए क्रमश: तीन परखनलियां ए, बी और सी में प्राथमिक, द्वितियक और तृतीयक एमाइंस, 25% NaOH, बेंजीन सल्फोीनिल क्लोराइड, सान्द्र HCl, ड्रापर, आदि</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="twentySix">
+	<TEXT ID="twentySix_one">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर 25% NaOH की थोड़ी सी मात्रा लें और परखनली ए, बी, और सी में इसकी कुछ बूँदें मिलाएं। अब परखनली ए, बी और सी में आसुत जल की थोड़ी सी मात्रा मिलाएं	   </TEXTVALUE>
+	</TEXT>
+		<TEXT ID="twentySix_two">
+	 <TEXTVALUE>ड्रॉपर का प्रयोग कर 25% NaOH की थोड़ी सी मात्रा लें और परखनली ए, बी, और सी में इसकी कुछ बूँदें मिलाएं। अब परखनली ए, बी और सी में आसुत जल की थोड़ी सी मात्रा मिलाएं	   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentySeven">
+	<TEXT ID="twentySeven_one">
+	 <TEXTVALUE>परखनलियां अच्छी तरह से हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyEight">
+	<TEXT ID="twentyEight_one">
+	 <TEXTVALUE>जल युक्त बीकर में रखकर परखनलियां ठंडी करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="twentyNine">
+	<TEXT ID="twentyNine_one">
+	 <TEXTVALUE>प्राथमिक एमाइन घुलनशील सल्फोनामाइड लवण बनाने के लिए बेंजीन सल्फोइनिल क्लोराइड और सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया करता है।: द्वितियक एमाइन अघुलनशील सल्फोनामाइड बनाने के लिए बेंजीन सल्फोानिल क्लोराइड और सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया करता है।</TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="twentyNine_two">
+	 <TEXTVALUE>तृतीयक एमाइन सल्फोननिल क्लोराइड के साथ अभिक्रिया नहीं करता है, लेकिन यह अघुलनशील होता</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE
+
+
+>
+
+<SCENE ID="thirty">
+	<TEXT ID="thirty_one">
+	 <TEXTVALUE>एक और ड्रॉपर का प्रयोग कर, सान्द्र HCl की थोड़ी सी मात्रा लें।।	   </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="thirtyOne">
+	<TEXT ID="thirtyOne_one">
+	 <TEXTVALUE>इसे परखनली ए, बी और सी में डालें। परखनली ए में, HCl मिलाने के बाद घुलनशील सल्फोनामाइड का लवण तलछट बनाता है। </TEXTVALUE>
+	</TEXT>
+
+
+<TEXT ID="thirtyOne_two">
+	 <TEXTVALUE>परखनली बी में, मिश्रण का अम्लीकरण अघुलनशील सल्फोनामाइड को नहीं घोलता है। परखनली सी में, अघुलनशील एमाइन घुलनशील अमोनियम लवण में बदल जाता है।</TEXTVALUE>
+	</TEXT>
+
+
+
+
+</SCENE>
+<!---------test for ketones-------->
+
+
+
+
+
+
+<SCENE ID="title1">
+	<TEXT ID="title1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading">
+	<TEXT ID="heading_one">
+		<TEXTVALUE>एम-डाईनाइट्रोबेंजीन परीक्षण।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="introsc">
+	<TEXT ID="introsc_one">
+		<TEXTVALUE>ड्रॉपर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_one">
+		<TEXTVALUE>दिए गए तरल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="unknown">
+	<TEXT ID="unknown_two">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="powdertake">
+	<TEXT ID="powdertake_one">
+		<TEXTVALUE>इसमें पाउडर बनाए गए एम-डाईनाइट्रोबेंजीन की थोड़ी सी मात्रा मिलाएं।	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="powderadded">
+	<TEXT ID="powderadded_one">
+		<TEXTVALUE>इसमें पाउडर बनाए गए एम-डाईनाइट्रोबेंजीन की थोड़ी सी मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Dilsolution">
+	<TEXT ID="Dilsolution_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर, सोडियम हाइड्रॉक्साइड के विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="diladded">
+	<TEXT ID="diladded_one">
+		<TEXTVALUE>इसमें तनु सोडियम हाइड्रॉक्साइड के विलयन की कुछ मात्रा मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit">
+	<TEXT ID="shakeit_one">
+		<TEXTVALUE>अच्छी तरह से हिलाएं। बैंगनी रंग की उपस्थिति जो धीरे धीरे फीकी पड़ जाती है, किटोनिक समूह की पुष्टि करती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="heading2">
+	<TEXT ID="heading2_one">
+		<TEXTVALUE>सोडियम नाइट्रोप्रुस्सा इड परीक्षण	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="introsc2">
+	<TEXT ID="introsc2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_one">
+		<TEXTVALUE>स्पैयचुला लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="redpowdertake">
+	<TEXT ID="redpowdertake_two">
+		<TEXTVALUE>परखनली में सोडियम नाइट्रोप्रुस्साइड के कुछ क्रिस्टल लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="crystalintube">
+	<TEXT ID="crystalintube_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Watertake">
+	<TEXT ID="Watertake_one">
+		<TEXTVALUE>इसमें आसुत जल की कुछ मात्रा मिलाएं और अच्छी तरह से परखनली हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="powdertake2">
+	<TEXT ID="powdertake2_one">
+		<TEXTVALUE>स्पैंचुला का प्रयोग कर दिए गए यौगिक की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="unknownadded">
+	<TEXT ID="unknownadded_one">
+		<TEXTVALUE>इसे परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="shakeit2">
+	<TEXT ID="shakeit2_one">
+		<TEXTVALUE>अच्छी तरह से हिलाएं</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="downit">
+	<TEXT ID="downit_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumhydroxide">
+	<TEXT ID="sodiumhydroxide_one">
+		<TEXTVALUE>सोडियम हाइड्रॉक्साइड के विलयन की कुछ बूँदें मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="sodiumin">
+	<TEXT ID="sodiumin_two">
+		<TEXTVALUE>क्षार द्वारा निर्मित कीटोन का ऋणायन, लाल रंग का यौगिक बनाने के लिएत्र नाइट्रोप्रुस्साइड के आयन के साथ अभिक्रिया करता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!---------test for Sodium biocarbonate -------->
+
+
+
+<SCENE ID="Test2">
+	<TEXT ID="Test2_one">
+		<TEXTVALUE>सोडियम बाईकार्बोनेट परीक्षण।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro">
+	<TEXT ID="Apparatusintro_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown">
+	<TEXT ID="TakingUnknown_one">
+		<TEXTVALUE>अज्ञात विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown_two">
+		<TEXTVALUE>Add it into the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takincompund">
+	<TEXT ID="Takincompund_one">
+		<TEXTVALUE>स्पैाचुला का प्रयोग कर सोडियम बाइकार्बोनेट की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Compoundtesttube">
+	<TEXT ID="Compoundtesttube_one">
+		<TEXTVALUE>इसे परखनली में डालें, कार्बोक्जिलिक अम्लै सोडियम बाइकार्बोनेट के साथ अभिक्रिया करता है जिससे कार्बन डाइऑक्साइड गैस बनने के कारण तेज बुदबुदाहट पैदा होती है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Ester -------->
+
+
+
+<SCENE ID="Test3">
+	<TEXT ID="Test3_one">
+		<TEXTVALUE>एस्टर परीक्षण</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Apparatusintro2">
+	<TEXT ID="Apparatusintro2_one">
+		<TEXTVALUE>Take a dropper.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknown2">
+	<TEXT ID="TakingUnknown2_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग एथिल अल्कोहल की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknown2_two">
+		<TEXTVALUE>परखनली में एथिल अल्कोहल मिलाएं।	</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Takingethylalcohol">
+	<TEXT ID="Takingethylalcohol_one">
+		<TEXTVALUE>ड्रापर का प्रयोग कर सान्द्र सल्फ्यूरिक अम्ल  की 1-2 बूँदें लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="Takingethylalcohol_two">
+		<TEXTVALUE>परखनली में एथिल अल्कोहल मिलाएं।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingSulphiricacid">
+	<TEXT ID="TakingSulphiricacid_one">
+		<TEXTVALUE>ड्रापर का प्रयोग कर सान्द्र सल्फ्यूरिक अम्ल  की 1-2 बूँदें लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_two">
+		<TEXTVALUE>परखनली लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingSulphiricacid_three">
+		<TEXTVALUE>Take the test tube.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="burner">
+	<TEXT ID="burner_one">
+		<TEXTVALUE>इसे उबलते वाटरबाथ में रखें और 5 मिनट तक परखनली की सामग्री गर्म करें।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_one">
+		<TEXTVALUE>आसुत जल से युक्त छोटे बीकर में इसे डालें।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<SCENE ID="beakersmell">
+	<TEXT ID="beakersmell_two">
+		<TEXTVALUE>अम्लीय माध्यम में अल्कोबहल के साथ कार्बोक्जिलिक अम्ल  अभिक्रिया करता है जिससे एस्ट र नामक फल की खुशबु वाला यौगिक बनता है</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+<!---------test for Litmus Milk -------->
+
+
+
+<SCENE ID="Test1t">
+	<TEXT ID="Test1_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Test22copy">
+	<TEXT ID="Test22copy_one">
+		<TEXTVALUE>लिट्मस परीक्षण।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="Starting1">
+	<TEXT ID="Starting1_one">
+		<TEXTVALUE>लिट्मस परीक्षण।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="TakingUnknownsol1">
+	<TEXT ID="TakingUnknownsol1_one">
+		<TEXTVALUE>ड्रॉपर का प्रयोग कर अज्ञात विलयन की थोड़ी सी मात्रा लें।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_two">
+		<TEXTVALUE>गीले नीले लिटमस पेपर पर इसकी 2-3 बूँदें गिराएं।</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="TakingUnknownsol1_three">
+		<TEXTVALUE>कार्बोक्जिलिक अम्लप, नीले लिटमस को लाल कर देता है जिससे पता चलता है कि यह प्रकृति में अम्लीय है।</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+
+
+<!---------test for Schiffs-------->
+
+<SCENE ID="intro1">
+	<TEXT ID="intro1_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_two">
+	 	<TEXTVALUE>ड्रॉपर का प्रयोग कर दिए गए अज्ञात विलयन की कुछ बूँदें लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_three">
+	 	<TEXTVALUE>परखनली में लिया गया विलयन डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_four">
+	 	<TEXTVALUE>मापक जार में 1 मिलीलीटर स्किफ अभिकर्मक लें। कार्बनिक यौगिक युक्त परखनली लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_five">
+	 	<TEXTVALUE>यौगिक में स्किफ अभिकर्मक डालें और इसे हिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Schiffstest">
+	<TEXT ID="Schiffstest_six">
+	 	<TEXTVALUE>गुलाबी रंग की उपस्थिति से एल्डीऔहाइडिक समूह की उपस्थिति की पुष्टि होती है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_two">
+	 	<TEXTVALUE>परखनली में 1 मिलीलीटर सिल्वहर नाइट्रेट का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_three">
+	 	<TEXTVALUE>इसे साफ परखनली में डालें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_four">
+	 	<TEXTVALUE>एक और मापक सिलेंडर लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_five">
+	 	<TEXTVALUE>इसमें 2 मिलीलीटर तनु NaOH का विलयन लें।	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_six">
+	 	<TEXTVALUE>उसी परखनली में इसे डाल दें।.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_seven">
+	 	<TEXTVALUE>सिल्वर नाइट्रेट सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया करता है जिससे सिल्वrर ऑक्साइड का भूरे रंग का तलछट बनता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eight">
+	 	<TEXTVALUE>ड्रॉपर लें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_nine">
+	 	<TEXTVALUE>परखनली में बूंद-बूंद करके तनु अमोनिया का विलयन मिलाएं</TEXTVALUE>
+	</TEXT>
+</SCENE>
+ 
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_ten">
+	 	<TEXTVALUE>तलछट विलयन में घुल जाएगा।	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+ <SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_eleven">
+	 	<TEXTVALUE>दिए गए तरल की 2-3 बूंदें परखनली में डालें</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_twelve">
+	 	<TEXTVALUE>5 मिनट तक वाटर बाथ पर परखनली गर्म करें।	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Tollenstest">
+	<TEXT ID="Tollenstest_thirteen">
+	 	<TEXTVALUE>एल्डीहाइड की उपस्थिति में, परीक्षण अभिकर्मक में मौजूद सिल्वजर के आयन तात्विक सिल्वरर में अपचयित हो जाते हैं और अभिक्रिया के पात्र की भीतरी सतह पर जमा हो जाते हैं जिससे पात्र की भीतरी सतह पर रजत दर्पण का प्रभाव पैदा होता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_one">
+	 	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_two">
+	 	<TEXTVALUE>मापक जार में 1 मिलीलीटर फेलिंग का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_three">
+	 	<TEXTVALUE>इसे परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_four">
+	 	<TEXTVALUE>मापक जार में 1 मिलीलीटर फेलिंग का विलयन लें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_five">
+	 	<TEXTVALUE>इसे परखनली में मिलाएं	</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_six">
+	 	<TEXTVALUE>ड्रॉपर का प्रयोग कर दिए गए विलयन की 4-5 बूंदें परखनली में मिलाएं।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_seven">
+	 	<TEXTVALUE>5 मिनट तक वाटर बाथ में परखनली गर्म करें।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Fehlingstest">
+	<TEXT ID="Fehlingstest_eight">
+	 	<TEXTVALUE>परीक्षण अभिकर्मक में मौजूद Cu(II) के आयनों का एल्डीहाइड Cu(I) ऑक्साइड के लाल तलछट में अपचयन कर देता है।</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AS\n"
+"POT-Creation-Date: 2015-07-30 16:04+0530\n"
+"PO-Revision-Date: 2016-06-14 10:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/simcontrols.js:17
+msgid "Melting Point of Ice"
+msgstr "ഐസിൻ്റെ ദ്രവണാങ്കം"
+
+#: ../js/simcontrols.js:18
+msgid "At different Pressures"
+msgstr "മർദ്ദം(ബാർ)"
+
+#: ../js/simcontrols.js:18
+msgid "In presence of impurities"
+msgstr "മാലിനൃങ്ങളുടെ സാന്നിദ്ധൃത്തിൽ"
+
+#: ../js/simcontrols.js:19
+msgid "Drag the watch glass to drop<br>the ice cubes into the beaker."
+msgstr "നിരീക്ഷണ ഗ്ലാസ്സ് നീക്കി വെയ്ക്കുക,ഐസ് കൃൂബ്<br>ബീക്കറിലേക്ക് ഇടുക."
+
+#: ../js/simcontrols.js:19
+msgid "Click here to turn on the burner"
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് ബർണർ തിരിക്കുക."
+
+#: ../js/simcontrols.js:19
+msgid "Click here to stir the ice cubes."
+msgstr "ഇവിടെ ക്ലിക്ക് ചെയ്ത് ഐസ് കൃൂബുകൾ ഇളക്കുക."
+
+#: ../js/simcontrols.js:19
+msgid "Write the correct answer."
+msgstr "ശരിയായ ഉത്തരം എഴുതുക."
+
+#: ../js/simcontrols.js:25
+msgid "HELP"
+msgstr "HELP"
+
+#: ../js/simcontrols.js:26
+msgid "FULLSCREEN"
+msgstr "FULLSCREEN"
+
+#: ../js/simcontrols.js:27
+msgid "EXIT"
+msgstr "EXIT"
+
+#: ../js/simcontrols.js:28
+msgid ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+msgstr ""
+"Developed by CDAC Mumbai & Amrita University <br> Under research grant from "
+"department of IT"
+
+#: ../js/simcontrols.js:29
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temperature:&nbsp;"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;താപനില:&nbsp;"
+
+#: ../js/simcontrols.js:30
+msgid "27 &deg;C"
+msgstr "27 &deg;C"
+
+#: ../js/simcontrols.js:31
+msgid "Melting point of ice:"
+msgstr "ഐസിൻ്റെ ദ്രവണാങ്കം"
+
+#: ../js/simcontrols.js:34
+msgid "Select the pressure (In Bars):"
+msgstr "മർദ്ദം തിരഞ്ഞെടുക്കുക."
+
+#: ../js/simcontrols.js:35
+msgid "Temperature when the ice;"
+msgstr "ഐസിൻറെ താപനില;"
+
+#: ../js/simcontrols.js:36
+msgid ""
+"starts melting, t1 (&deg;C):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+msgstr "തുടങ്ങുമ്പോൾ, t1(&deg;C):&nbsp;&nbsp;"
+
+#: ../js/simcontrols.js:37
+msgid "completely melted, t2 (&deg;C):"
+msgstr "പൂർണ്ണമായും ദ്രവീകരിച്ചത്, t2(&deg;c):"
+
+#: ../js/simcontrols.js:38
+msgid "Result"
+msgstr "ഫലം"
+
+#: ../js/simcontrols.js:39
+msgid "Melting point of ice, (t1+t2)/2 (&deg;C):"
+msgstr "ഐസിൻ്റെ ദ്രവണാങ്കം (t1+t2)/2 (&deg;C):"
+
+#: ../js/simcontrols.js:40
+msgid "Reset"
+msgstr "പുനഃക്രമീകരണം"
