@@ -20,7 +20,7 @@
 }
 
 #filanim > img:nth-child(2)  { 
-    background-image: url(images/filter/fp1.html);
+    background-image: url(images/filter/fp1.svg);
     -webkit-animation-delay: 60ms;
     -moz-animation-delay: 60ms;
     -o-animation-delay: 60ms;
@@ -28,7 +28,7 @@
     animation-delay: 60ms; 
 }
 #filanim > img:nth-child(3) { 
-    background-image: url(images/filter/fp2.html);
+    background-image: url(images/filter/fp2.svg);
     -webkit-animation-delay: 120ms;
     -moz-animation-delay: 120ms;
     -o-animation-delay: 120ms;
@@ -36,7 +36,7 @@
     animation-delay: 120ms; 
 }
 #filanim > img:nth-child(4) { 
-    background-image: url(images/filter/fp3.html);
+    background-image: url(images/filter/fp3.svg);
     -webkit-animation-delay: 180ms;
     -moz-animation-delay: 180ms;
     -o-animation-delay: 180ms;
@@ -44,7 +44,7 @@
     animation-delay: 180ms; 
 }
 #filanim > img:nth-child(5) { 
-    background-image: url(images/filter/fp4.html);
+    background-image: url(images/filter/fp4.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -52,7 +52,7 @@
     animation-delay: 240ms; 
 }
 #filanim > img:nth-child(6) { 
-    background-image: url(images/filter/fp5.html);
+    background-image: url(images/filter/fp5.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -60,7 +60,7 @@
     animation-delay: 240ms; 
 }
 #filanim > img:nth-child(7) { 
-    background-image: url(images/filter/fp6.html);
+    background-image: url(images/filter/fp6.svg);
     -webkit-animation-delay: 300ms;
     -moz-animation-delay: 300ms;
     -o-animation-delay: 300ms;
@@ -68,7 +68,7 @@
     animation-delay: 300ms; 
 }
 #filanim > img:nth-child(8) { 
-    background-image: url(images/filter/fp7.html);
+    background-image: url(images/filter/fp7.svg);
     -webkit-animation-delay: 360ms;
     -moz-animation-delay: 360ms;
     -o-animation-delay: 360ms;
@@ -76,7 +76,7 @@
     animation-delay: 360ms; 
 }
 #filanim > img:nth-child(9) { 
-    background-image: url(images/filter/fp8.html);
+    background-image: url(images/filter/fp8.svg);
     -webkit-animation-delay: 420ms;
     -moz-animation-delay: 420ms;
     -o-animation-delay: 420ms;
@@ -84,7 +84,7 @@
     animation-delay: 420ms; 
 }
 #filanim > img:nth-child(10) { 
-    background-image: url(images/filter/fp9.html);
+    background-image: url(images/filter/fp9.svg);
     -webkit-animation-delay: 480ms;
     -moz-animation-delay: 480ms;
     -o-animation-delay: 480ms;
@@ -92,7 +92,7 @@
     animation-delay: 480ms; 
 }
 #filanim > img:nth-child(11) { 
-    background-image: url(images/filter/fp10.html);
+    background-image: url(images/filter/fp10.svg);
     -webkit-animation-delay: 540ms;
     -moz-animation-delay: 540ms;
     -o-animation-delay: 540ms;
@@ -100,7 +100,7 @@
     animation-delay: 540ms; 
 }
 #filanim > img:nth-child(12) { 
-    background-image: url(images/filter/fp11.html);
+    background-image: url(images/filter/fp11.svg);
     -webkit-animation-delay: 600ms;
     -moz-animation-delay: 600ms;
     -o-animation-delay: 600ms;
@@ -108,7 +108,7 @@
     animation-delay: 600ms; 
 }
 #filanim > img:nth-child(13) { 
-    background-image: url(images/filter/fp12.html);
+    background-image: url(images/filter/fp12.svg);
     -webkit-animation-delay: 660ms;
     -moz-animation-delay: 660ms;
     -o-animation-delay: 660ms;
@@ -116,7 +116,7 @@
     animation-delay: 660ms; 
 }
 #filanim > img:nth-child(14) { 
-    background-image: url(images/filter/fp13.html);
+    background-image: url(images/filter/fp13.svg);
     -webkit-animation-delay: 720ms;
     -moz-animation-delay: 720ms;
     -o-animation-delay: 720ms;
@@ -124,7 +124,7 @@
     animation-delay: 720ms; 
 }
 #filanim > img:nth-child(15) { 
-    background-image: url(images/filter/f14.html);
+    background-image: url(images/filter/f14.svg);
     -webkit-animation-delay: 780ms;
     -moz-animation-delay: 780ms;
     -o-animation-delay: 780ms;
@@ -132,7 +132,7 @@
     animation-delay: 780ms; 
 }
 #filanim > img:nth-child(16) { 
-    background-image: url(images/filter/fp15.html);
+    background-image: url(images/filter/fp15.svg);
     -webkit-animation-delay: 840ms;
     -moz-animation-delay: 840ms;
     -o-animation-delay: 840ms;
@@ -140,7 +140,7 @@
     animation-delay: 840ms; 
 }
 #filanim > img:nth-child(17) { 
-    background-image: url(images/filter/fp16.html);
+    background-image: url(images/filter/fp16.svg);
     -webkit-animation-delay: 900ms;
     -moz-animation-delay: 900ms;
     -o-animation-delay: 900ms;
@@ -148,7 +148,7 @@
     animation-delay: 900ms; 
 }
 #filanim > img:nth-child(18) { 
-    background-image: url(images/filter/fp17.html);
+    background-image: url(images/filter/fp17.svg);
     -webkit-animation-delay: 960ms;
     -moz-animation-delay: 960ms;
     -o-animation-delay: 960ms;
@@ -156,7 +156,7 @@
     animation-delay: 960ms; 
 }
 #filanim > img:nth-child(18) { 
-    background-image: url(images/filter/fp18.html);
+    background-image: url(images/filter/fp18.svg);
     -webkit-animation-delay: 1020ms;
     -moz-animation-delay: 1020ms;
     -o-animation-delay: 1020ms;
@@ -164,7 +164,7 @@
     animation-delay: 1020ms; 
 }
 #filanim > img:nth-child(18) { 
-    background-image: url(images/filter/fp19.html);
+    background-image: url(images/filter/fp19.svg);
     -webkit-animation-delay: 1080ms;
     -moz-animation-delay: 1080ms;
     -o-animation-delay: 1080ms;

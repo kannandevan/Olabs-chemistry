@@ -1086,7 +1086,7 @@ img {
 }
 
 #crossfade>img:nth-child(2) {
-    background-image: url(images/bf1.html);
+    background-image: url(images/bf1.svg);
     -webkit-animation-delay: 60ms;
     -moz-animation-delay: 60ms;
     -o-animation-delay: 60ms;
@@ -1095,7 +1095,7 @@ img {
 }
 
 #crossfade>img:nth-child(3) {
-    background-image: url(images/bf2.html);
+    background-image: url(images/bf2.svg);
     -webkit-animation-delay: 120ms;
     -moz-animation-delay: 120ms;
     -o-animation-delay: 120ms;
@@ -1104,7 +1104,7 @@ img {
 }
 
 #crossfade>img:nth-child(4) {
-    background-image: url(images/bf3.html);
+    background-image: url(images/bf3.svg);
     -webkit-animation-delay: 180ms;
     -moz-animation-delay: 180ms;
     -o-animation-delay: 180ms;
@@ -1113,7 +1113,7 @@ img {
 }
 
 #crossfade>img:nth-child(5) {
-    background-image: url(images/bf4.html);
+    background-image: url(images/bf4.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1122,7 +1122,7 @@ img {
 }
 
 #crossfade>img:nth-child(6) {
-    background-image: url(images/bf5.html);
+    background-image: url(images/bf5.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1131,7 +1131,7 @@ img {
 }
 
 #crossfade>img:nth-child(7) {
-    background-image: url(images/bf6.html);
+    background-image: url(images/bf6.svg);
     -webkit-animation-delay: 300ms;
     -moz-animation-delay: 300ms;
     -o-animation-delay: 300ms;
@@ -1140,7 +1140,7 @@ img {
 }
 
 #crossfade>img:nth-child(8) {
-    background-image: url(images/bf7.html);
+    background-image: url(images/bf7.svg);
     -webkit-animation-delay: 360ms;
     -moz-animation-delay: 360ms;
     -o-animation-delay: 360ms;
@@ -1149,7 +1149,7 @@ img {
 }
 
 #crossfade>img:nth-child(9) {
-    background-image: url(images/bf8.html);
+    background-image: url(images/bf8.svg);
     -webkit-animation-delay: 420ms;
     -moz-animation-delay: 420ms;
     -o-animation-delay: 420ms;
@@ -1158,7 +1158,7 @@ img {
 }
 
 #crossfade>img:nth-child(10) {
-    background-image: url(images/bf9.html);
+    background-image: url(images/bf9.svg);
     -webkit-animation-delay: 480ms;
     -moz-animation-delay: 480ms;
     -o-animation-delay: 480ms;
@@ -1167,7 +1167,7 @@ img {
 }
 
 #crossfade>img:nth-child(11) {
-    background-image: url(images/bf10.html);
+    background-image: url(images/bf10.svg);
     -webkit-animation-delay: 540ms;
     -moz-animation-delay: 540ms;
     -o-animation-delay: 540ms;
@@ -1176,7 +1176,7 @@ img {
 }
 
 #crossfade>img:nth-child(12) {
-    background-image: url(images/bf11.html);
+    background-image: url(images/bf11.svg);
     -webkit-animation-delay: 600ms;
     -moz-animation-delay: 600ms;
     -o-animation-delay: 600ms;
@@ -1185,7 +1185,7 @@ img {
 }
 
 #crossfade>img:nth-child(13) {
-    background-image: url(images/bf12.html);
+    background-image: url(images/bf12.svg);
     -webkit-animation-delay: 660ms;
     -moz-animation-delay: 660ms;
     -o-animation-delay: 660ms;
@@ -1194,7 +1194,7 @@ img {
 }
 
 #crossfade>img:nth-child(14) {
-    background-image: url(images/bf13.html);
+    background-image: url(images/bf13.svg);
     -webkit-animation-delay: 720ms;
     -moz-animation-delay: 720ms;
     -o-animation-delay: 720ms;
@@ -1203,7 +1203,7 @@ img {
 }
 
 #crossfade>img:nth-child(15) {
-    background-image: url(images/bf14.html);
+    background-image: url(images/bf14.svg);
     -webkit-animation-delay: 780ms;
     -moz-animation-delay: 780ms;
     -o-animation-delay: 780ms;
@@ -1212,7 +1212,7 @@ img {
 }
 
 #crossfade>img:nth-child(16) {
-    background-image: url(images/bf15.html);
+    background-image: url(images/bf15.svg);
     -webkit-animation-delay: 840ms;
     -moz-animation-delay: 840ms;
     -o-animation-delay: 840ms;
@@ -1221,7 +1221,7 @@ img {
 }
 
 #crossfade>img:nth-child(17) {
-    background-image: url(images/bf16.html);
+    background-image: url(images/bf16.svg);
     -webkit-animation-delay: 900ms;
     -moz-animation-delay: 900ms;
     -o-animation-delay: 900ms;
@@ -1230,7 +1230,7 @@ img {
 }
 
 #crossfade>img:nth-child(18) {
-    background-image: url(images/bf17.html);
+    background-image: url(images/bf17.svg);
     -webkit-animation-delay: 960ms;
     -moz-animation-delay: 960ms;
     -o-animation-delay: 960ms;
@@ -1378,7 +1378,7 @@ img {
 }
 
 #crossfade2>img:nth-child(2) {
-    background-image: url(images/f1.html);
+    background-image: url(images/f1.png);
     -webkit-animation-delay: 60ms;
     -moz-animation-delay: 60ms;
     -o-animation-delay: 60ms;
@@ -1387,7 +1387,7 @@ img {
 }
 
 #crossfade2>img:nth-child(3) {
-    background-image: url(images/f2.html);
+    background-image: url(images/f2.png);
     -webkit-animation-delay: 120ms;
     -moz-animation-delay: 120ms;
     -o-animation-delay: 120ms;
@@ -1396,7 +1396,7 @@ img {
 }
 
 #crossfade2>img:nth-child(4) {
-    background-image: url(images/f3.html);
+    background-image: url(images/f3.png);
     -webkit-animation-delay: 180ms;
     -moz-animation-delay: 180ms;
     -o-animation-delay: 180ms;
@@ -1405,7 +1405,7 @@ img {
 }
 
 #crossfade2>img:nth-child(5) {
-    background-image: url(images/f4.html);
+    background-image: url(images/f4.png);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1414,7 +1414,7 @@ img {
 }
 
 #crossfade2>img:nth-child(6) {
-    background-image: url(images/f5.html);
+    background-image: url(images/f5.png);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1423,7 +1423,7 @@ img {
 }
 
 #crossfade2>img:nth-child(7) {
-    background-image: url(images/f6.html);
+    background-image: url(images/f6.png);
     -webkit-animation-delay: 300ms;
     -moz-animation-delay: 300ms;
     -o-animation-delay: 300ms;
@@ -1432,7 +1432,7 @@ img {
 }
 
 #crossfade2>img:nth-child(8) {
-    background-image: url(images/f7.html);
+    background-image: url(images/f7.png);
     -webkit-animation-delay: 360ms;
     -moz-animation-delay: 360ms;
     -o-animation-delay: 360ms;
@@ -1441,7 +1441,7 @@ img {
 }
 
 #crossfade2>img:nth-child(9) {
-    background-image: url(images/f8.html);
+    background-image: url(images/f8.png);
     -webkit-animation-delay: 420ms;
     -moz-animation-delay: 420ms;
     -o-animation-delay: 420ms;
@@ -1450,7 +1450,7 @@ img {
 }
 
 #crossfade2>img:nth-child(10) {
-    background-image: url(images/f9.html);
+    background-image: url(images/f9.png);
     -webkit-animation-delay: 480ms;
     -moz-animation-delay: 480ms;
     -o-animation-delay: 480ms;
@@ -1459,7 +1459,7 @@ img {
 }
 
 #crossfade2>img:nth-child(11) {
-    background-image: url(images/f10.html);
+    background-image: url(images/f10.png);
     -webkit-animation-delay: 540ms;
     -moz-animation-delay: 540ms;
     -o-animation-delay: 540ms;
@@ -1468,7 +1468,7 @@ img {
 }
 
 #crossfade2>img:nth-child(12) {
-    background-image: url(images/f11.html);
+    background-image: url(images/f11.png);
     -webkit-animation-delay: 600ms;
     -moz-animation-delay: 600ms;
     -o-animation-delay: 600ms;
@@ -1477,7 +1477,7 @@ img {
 }
 
 #crossfade2>img:nth-child(13) {
-    background-image: url(images/f12.html);
+    background-image: url(images/f12.png);
     -webkit-animation-delay: 660ms;
     -moz-animation-delay: 660ms;
     -o-animation-delay: 660ms;
@@ -1486,7 +1486,7 @@ img {
 }
 
 #crossfade2>img:nth-child(14) {
-    background-image: url(images/f13.html);
+    background-image: url(images/f13.png);
     -webkit-animation-delay: 720ms;
     -moz-animation-delay: 720ms;
     -o-animation-delay: 720ms;
@@ -1495,7 +1495,7 @@ img {
 }
 
 #crossfade2>img:nth-child(15) {
-    background-image: url(images/f14.html);
+    background-image: url(images/f14.png);
     -webkit-animation-delay: 780ms;
     -moz-animation-delay: 780ms;
     -o-animation-delay: 780ms;
@@ -1504,7 +1504,7 @@ img {
 }
 
 #crossfade2>img:nth-child(16) {
-    background-image: url(images/f15.html);
+    background-image: url(images/f15.png);
     -webkit-animation-delay: 840ms;
     -moz-animation-delay: 840ms;
     -o-animation-delay: 840ms;
@@ -1652,7 +1652,7 @@ img {
 }
 
 #crossfade3>img:nth-child(2) {
-    background-image: url(images/fp1.html);
+    background-image: url(images/fp1.svg);
     -webkit-animation-delay: 60ms;
     -moz-animation-delay: 60ms;
     -o-animation-delay: 60ms;
@@ -1661,7 +1661,7 @@ img {
 }
 
 #crossfade3>img:nth-child(3) {
-    background-image: url(images/fp2.html);
+    background-image: url(images/fp2.svg);
     -webkit-animation-delay: 120ms;
     -moz-animation-delay: 120ms;
     -o-animation-delay: 120ms;
@@ -1670,7 +1670,7 @@ img {
 }
 
 #crossfade3>img:nth-child(4) {
-    background-image: url(images/fp3.html);
+    background-image: url(images/fp3.svg);
     -webkit-animation-delay: 180ms;
     -moz-animation-delay: 180ms;
     -o-animation-delay: 180ms;
@@ -1679,7 +1679,7 @@ img {
 }
 
 #crossfade3>img:nth-child(5) {
-    background-image: url(images/fp4.html);
+    background-image: url(images/fp4.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1688,7 +1688,7 @@ img {
 }
 
 #crossfade3>img:nth-child(6) {
-    background-image: url(images/fp5.html);
+    background-image: url(images/fp5.svg);
     -webkit-animation-delay: 240ms;
     -moz-animation-delay: 240ms;
     -o-animation-delay: 240ms;
@@ -1697,7 +1697,7 @@ img {
 }
 
 #crossfade3>img:nth-child(7) {
-    background-image: url(images/fp6.html);
+    background-image: url(images/fp6.svg);
     -webkit-animation-delay: 300ms;
     -moz-animation-delay: 300ms;
     -o-animation-delay: 300ms;
@@ -1706,7 +1706,7 @@ img {
 }
 
 #crossfade3>img:nth-child(8) {
-    background-image: url(images/fp7.html);
+    background-image: url(images/fp7.svg);
     -webkit-animation-delay: 360ms;
     -moz-animation-delay: 360ms;
     -o-animation-delay: 360ms;
@@ -1715,7 +1715,7 @@ img {
 }
 
 #crossfade3>img:nth-child(9) {
-    background-image: url(images/fp8.html);
+    background-image: url(images/fp8.svg);
     -webkit-animation-delay: 420ms;
     -moz-animation-delay: 420ms;
     -o-animation-delay: 420ms;
@@ -1724,7 +1724,7 @@ img {
 }
 
 #crossfade3>img:nth-child(10) {
-    background-image: url(images/fp9.html);
+    background-image: url(images/fp9.svg);
     -webkit-animation-delay: 480ms;
     -moz-animation-delay: 480ms;
     -o-animation-delay: 480ms;
@@ -1733,7 +1733,7 @@ img {
 }
 
 #crossfade3>img:nth-child(11) {
-    background-image: url(images/fp10.html);
+    background-image: url(images/fp10.svg);
     -webkit-animation-delay: 540ms;
     -moz-animation-delay: 540ms;
     -o-animation-delay: 540ms;
@@ -1742,7 +1742,7 @@ img {
 }
 
 #crossfade3>img:nth-child(12) {
-    background-image: url(images/fp11.html);
+    background-image: url(images/fp11.svg);
     -webkit-animation-delay: 600ms;
     -moz-animation-delay: 600ms;
     -o-animation-delay: 600ms;
@@ -1751,7 +1751,7 @@ img {
 }
 
 #crossfade3>img:nth-child(13) {
-    background-image: url(images/fp12.html);
+    background-image: url(images/fp12.svg);
     -webkit-animation-delay: 660ms;
     -moz-animation-delay: 660ms;
     -o-animation-delay: 660ms;
@@ -1760,7 +1760,7 @@ img {
 }
 
 #crossfade3>img:nth-child(14) {
-    background-image: url(images/fp13.html);
+    background-image: url(images/fp13.svg);
     -webkit-animation-delay: 720ms;
     -moz-animation-delay: 720ms;
     -o-animation-delay: 720ms;
@@ -1769,7 +1769,7 @@ img {
 }
 
 #crossfade3>img:nth-child(15) {
-    background-image: url(images/f14-2.html);
+    background-image: url(images/f14.svg);
     -webkit-animation-delay: 780ms;
     -moz-animation-delay: 780ms;
     -o-animation-delay: 780ms;
@@ -1778,7 +1778,7 @@ img {
 }
 
 #crossfade3>img:nth-child(16) {
-    background-image: url(images/fp15.html);
+    background-image: url(images/fp15.svg);
     -webkit-animation-delay: 840ms;
     -moz-animation-delay: 840ms;
     -o-animation-delay: 840ms;
@@ -1787,7 +1787,7 @@ img {
 }
 
 #crossfade3>img:nth-child(17) {
-    background-image: url(images/fp16.html);
+    background-image: url(images/fp16.svg);
     -webkit-animation-delay: 900ms;
     -moz-animation-delay: 900ms;
     -o-animation-delay: 900ms;
@@ -1796,7 +1796,7 @@ img {
 }
 
 #crossfade3>img:nth-child(18) {
-    background-image: url(images/fp17.html);
+    background-image: url(images/fp17.svg);
     -webkit-animation-delay: 960ms;
     -moz-animation-delay: 960ms;
     -o-animation-delay: 960ms;
@@ -1805,7 +1805,7 @@ img {
 }
 
 #crossfade3>img:nth-child(18) {
-    background-image: url(images/fp18.html);
+    background-image: url(images/fp18.svg);
     -webkit-animation-delay: 1020ms;
     -moz-animation-delay: 1020ms;
     -o-animation-delay: 1020ms;
@@ -1814,7 +1814,7 @@ img {
 }
 
 #crossfade3>img:nth-child(18) {
-    background-image: url(images/fp19.html);
+    background-image: url(images/fp19.svg);
     -webkit-animation-delay: 1080ms;
     -moz-animation-delay: 1080ms;
     -o-animation-delay: 1080ms;

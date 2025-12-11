@@ -46,17 +46,17 @@ $(document).ready(function () {
     helpPos = "e"
 
     for (i = 1; i < 11; i++) {
-        var path =  "images/waterDrop/" + i + ".png";
+        var path = simPath + "images/waterDrop/" + i + ".png";
         var img = "<img src='" + path + "' class='drop-animation-img' id='dropAnimationImg" + i + "'>"
         $(".water-drop-animation-div").append(img);
     }
     for (i = 1; i < 25; i++) {
-        var path =  "images/redToBlue/" + i + ".png";
+        var path = simPath + "images/redToBlue/" + i + ".png";
         var img = "<img src='" + path + "' class='litmus-red-to-blue-animation-img' id='litmusRedToBlueImg" + i + "'>"
         $(".litmus-red-to-blue-animation-div").append(img);
     }
     for (i = 1; i < 104; i++) {
-        var path =  "images/brisk/" + i + ".png";
+        var path = simPath + "images/brisk/" + i + ".png";
         var img = "<img src='" + path + "' class='brisk-img' id='brisk" + i + "'>"
         $(".brisk-div").append(img);
     }

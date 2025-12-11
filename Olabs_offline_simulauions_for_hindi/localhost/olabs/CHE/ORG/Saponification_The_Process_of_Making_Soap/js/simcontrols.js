@@ -23,7 +23,7 @@ var bgImg = new Image;
 bgImg.onload = function () {
 	bgCtx.drawImage(bgImg, 0, 0, 800, 350);
 };
-bgImg.src =  'images/BG.png';
+bgImg.src = simPath + 'images/BG.png';
 
 //for first still image
 var stilImageCanvas = document.getElementById("init_setUpCanvas");
@@ -35,7 +35,7 @@ var stillimg2 = new Image;
 stillImg.onload = function () {
 	stillCtx.drawImage(stillImg, -20, 5);
 };
-stillImg.src =  'images/stillImage01.png';
+stillImg.src = simPath + 'images/stillImage01.png';
 
 /// canvas for bgfor step2 image
 var BGCanvas02 = document.getElementById("bgCanvas02");
@@ -46,7 +46,7 @@ var bgImg02 = new Image;
 bgImg02.onload = function () {
 	bgCtx02.drawImage(bgImg02, 0, 0, 800, 375);
 };
-bgImg02.src =  'images/BG02.png';
+bgImg02.src = simPath + 'images/BG02.png';
 
 var stage;
 var selectedAnimation = "";
