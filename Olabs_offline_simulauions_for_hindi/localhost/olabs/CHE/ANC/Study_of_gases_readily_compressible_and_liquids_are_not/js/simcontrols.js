@@ -128,6 +128,7 @@ function waterComp() {
   $('.WaterPush,.WaterPu').css({ 'display': 'none' });
   $("#water2").on("click");
   $("#info").css({ 'display': 'none' });
+  $('#syDiv1').draggable()
   $('#syDiv1').draggable("enable")
   $("#water").css({ left: 15 + '%', top: 27 + '%', height: 64 + '%', width: 73 + '%' });
   $("#dropArea1,#syDiv1,#Syringelabel,#helpDiv1,#pistonClick1").css({ 'display': 'block' });
@@ -224,6 +225,7 @@ function waterComp() {
 function oilComp() {
   $("#OIL2").on("click");
   $("#info").css({ 'display': 'none' });
+  $('#syDiv2').draggable()
   $('#syDiv2').draggable("enable")
   $("#oil").css({ left: 15 + '%', top: 28 + '%', height: 64 + '%', width: 73 + '%' });
   $("#dropArea2,#syDiv2,#Syringelabel2,#helpDiv2,#pistonClick2").css({ 'display': 'block' });
@@ -320,6 +322,7 @@ function air() {
   console.log(count)
   $("#info").css({ 'display': 'none' });
   removeTrip();
+  $('#syDiv3').draggable()
   $('#syDiv3').draggable("enable")
   $("#one,#two,#ZoomAir_5,#AIR2").css({ 'display': 'none' });
   $("#three,#dropArea3,#Syringelabel3,#syDiv3,#helpDiv3,#pistonClick3").css({ 'display': 'block' });
