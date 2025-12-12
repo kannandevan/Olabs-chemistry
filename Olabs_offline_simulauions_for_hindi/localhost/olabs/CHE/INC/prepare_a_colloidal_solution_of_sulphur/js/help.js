@@ -1,5 +1,5 @@
 // JavaScript Document
-var tripFlag = false;
+
 $(document).ready(function() {
 		// $('#olabmenuBar li:first-child a').html("HELP");
 	$('#simHelp').bind('click',function(){
