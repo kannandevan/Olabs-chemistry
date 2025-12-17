@@ -1,0 +1,842 @@
+
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('digital.ttf');
+   }
+#oxalPowder,#spatulaPowder,#value1,#value2,#pour1,#inference,#inference2,#inference3,#nxtBtn,#mainDiv2,#pour2,#volFlaskWaterhigh,#volFlaskWaterlow,#oxalPowder3,
+#pourline,#waterfall,#volFlaskCap,#dropit6,#dropit7,#dropit8,#dropit9,#dropit10,#drops,#volFlaskWaterfine,#wholeVolFlask2,#dropit11,#dropit12,#dropit13,
+.secondpg_txt,.thirdpg_txt
+{
+    display: none;
+}
+.firstpg_txt,
+.secondpg_txt,
+.thirdpg_txt {
+    font-size: 11px !important;
+    line-height: 18px !important;
+}
+#volumlabel {
+    position: absolute;
+    z-index: 2;
+    width: 85px;
+    height: 20px;
+    left: 4px;
+    top: 293px;
+}
+#washlabel {
+    position: absolute;
+    z-index: 2;
+    width: 77px;
+    height: 20px;
+    left: 212px;
+    top: 293px;
+}
+#vollabelname {
+    position: absolute;
+    Z-INDEX: 3;
+    left: 7px;
+    top: 299px;
+    font-size: 8px;
+    font-weight: 1000;
+}
+#washlabelname {
+    position: absolute;
+    Z-INDEX: 3;
+    left: 220px;
+    top: 299px;
+    font-size: 9px;
+    font-weight: 1000;
+}
+.userSelect, .content { 
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select: none;
+   }
+.userDrag{ 
+    -webkit-user-drag: none;
+    -khtml-user-drag:none;
+ -moz-user-drag:none;
+ -ms-user-drag:none;
+ 
+}
+  
+
+#bg {
+    width: auto;
+    position: absolute;
+    top: -34px;
+}
+
+#inference
+ {
+    cursor: pointer;
+    position: absolute;
+    left: 7px;
+    top: 7px;
+}
+
+#nxtBtn {
+    position: absolute;
+    left: 504px;
+    top: 14px;
+    cursor: pointer;
+}
+
+#wholeWatchglass {
+    position: absolute;
+    left: 104px;
+    top: 241px;
+}
+
+#watchglassUnder {
+    position: absolute;
+    top: 32px;
+
+}
+
+#watchglassShadow {
+    position: absolute;
+    top: 38px;
+
+}
+
+#oxalPowder {
+    position: absolute;
+    z-index: 1;
+    /* width: 115px; */
+    left: 34px;
+    top: 37px;
+}
+
+#wholeOxlBottle {
+    position: absolute;
+    left: 10px;
+    top: 206px;
+}
+
+#oxlBottle {
+    position: absolute;
+}
+
+#oxlCap {
+    position: absolute;
+    z-index: 1;
+    left: 9px;
+    top: -18px;
+}
+
+#wtMachine {
+    position: absolute;
+    left: 361px;
+    top: 207px;
+}
+
+#wholeSpatula {
+    transform-origin: bottom;
+    position: absolute;
+    left: 234px;
+    top: 282px;
+}
+
+#spatula {
+    position: absolute;
+}
+
+#spatulaShadow {
+    position: absolute;
+    top: 9px;
+    z-index: 0;
+    left: 2px;
+}
+
+#spatulaPowder {
+    position: absolute;
+}
+
+#value1 {
+    position: absolute;
+    left: 420px;
+    top: 260px;
+    width: 100px;
+}
+
+#value1 p {
+    font-size: 21px;
+    color: rgb(23, 100, 0);
+    font-family: 'digital-clock-font' !important;
+   
+}
+
+#value2 {
+    position: absolute;
+    left: 420px;
+    top: 260px;
+    width: 100px;
+}
+
+#value2 p {
+    font-size: 21px;
+    color: rgb(23, 100, 0);
+    font-family: 'digital-clock-font' !important;
+    
+}
+
+#dropit {
+    position: absolute;
+    z-index: 10;
+    width: 198px;
+    height: 167px;
+    top: 133px;
+    left: 354px;
+    /* border: 1px solid black; */
+}
+#dropit2 {
+    position: absolute;
+    width: 149px;
+    height: 124px;
+    top: 133px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+
+#pour1 {
+    position: absolute;
+    z-index: 2;
+    left: 446px;
+    height: 39px;
+    width: 9px;
+    top: 172px;
+}
+
+
+
+
+
+
+
+#wholeVolFlask {
+    position: absolute;
+    left: 24px;
+    top: 123px;
+}
+#volFlask{
+    z-index: 1;
+}
+#volFlaskTop {
+    position: absolute;
+    z-index: 2;
+    left: 26px;
+}
+#volFlaskCap {
+    position: absolute;
+    left: 21.5px;
+    top: -13px;
+}
+#volFlaskCaponTable {
+    position: absolute;
+    left: 91px;
+    top: 283px;
+}
+#volFlaskWaterlow {
+    position: absolute;
+    top: 138px;
+    left: 0px;
+}
+
+#volFlaskWaterhigh {
+    position: absolute;
+    top: 71px;
+    left: 0px;
+}
+#volFlaskWaterfine {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+}
+#wholeWatchglass2 {
+    position: absolute;
+    transform-origin: center;
+    width: 91px;
+    height: 56px;
+    left: 115px;
+    top: 234px;
+}
+
+#watchglassTop2 {
+    position: absolute;
+    z-index: 2;
+    top: 32px;
+
+}
+
+#watchglassUnder2 {
+    position: absolute;
+    top: 32px;
+
+}
+
+#watchglassShadow2 {
+    position: absolute;
+    top: 38px;
+
+}
+
+#oxalPowder2 {
+    position: absolute;
+    z-index: 1;
+    /* width: 115px; */
+    left: 34px;
+    top: 37px;
+}
+#wholewashbottle {
+    position: absolute;
+    transform-origin: center;
+    left: 215px;
+    top: 164px;
+    width: 67px;
+    height: 125px;
+}
+#washBottle {
+    position: absolute;
+}
+#wholeFunnelstand {
+    position: absolute;
+    left: 316px;
+    top: 201px;
+}
+#funnelstandtop {
+    position: absolute;
+    z-index: 1;
+    left: 22px;
+    top: 30px;
+}
+#wholeDropperbottle {
+    position: absolute;
+    left: 473px;
+    top: 214px;
+}
+#dropperBottlewater {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+}
+#dropperBottleshadow {
+    position: absolute;
+    left: -1px;
+    top: 63px;
+}
+#wholedropper {
+    position: absolute;
+    left: 483px;
+    top: 179px;
+}
+#dropper {
+    position: absolute;
+
+}
+#botlabel {
+    position: absolute;
+    left: 474px;
+    top: 256px;
+    font-size: 9px;
+    font-weight: 1000;
+}
+#dropsol {
+    position: absolute;
+    left: 3px;
+    top: 53px;
+    border-style: solid;
+    border-width: 40px 3.5px 0px 3.5px;
+    border-color: #fdfdfd transparent transparent transparent;
+    opacity: 0.4;
+}
+#funnel {
+    position: absolute;
+    left: 346px;
+    top: 205px;
+}
+
+#dropit3 {
+    position: absolute;
+    width: 128px;
+    height: 159px;
+    top: 27px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#dropit4 {
+    position: absolute;
+    width: 144px;
+    height: 164px;
+    top: 1px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#pour2 {
+    position: absolute;
+    z-index: 2;
+    left: 56px;
+    height: 29px;
+    width: 7px;
+    top: 93px;
+}
+#oxalPowder3 {
+    position: absolute;
+    /* z-index: 1; */
+    /* width: 115px; */
+    left: 21px;
+    top: 157px;
+}
+#pourline {
+    position: absolute;
+    left: -32px;
+    top: 2.4px;
+    height: 2px;
+    width: 33px;
+}
+#dropit5 {
+    position: absolute;
+    width: 157px;
+    height: 195px;
+    top: 1px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#waterfall {
+    position: absolute;
+    left: 54px;
+    top: 161px;
+    width: 5px;
+    height: 106px;
+}
+#dropit6 {
+    position: absolute;
+    width: 144px;
+    height: 135px;
+    top: 147px;
+    left: 294px;
+    /* border: 1px solid black; */
+}
+#dropit7 {
+    position: absolute;
+    width: 105px;
+    height: 135px;
+    top: 27px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#dropit8 {
+    position: absolute;
+    width: 144px;
+    height: 196px;
+    top: 1px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#dropit9 {
+    position: absolute;
+    width: 144px;
+    height: 135px;
+    top: 147px;
+    left: 294px;
+    /* border: 1px solid black; */
+}
+#dropit10 {
+    position: absolute;
+    width: 125px;
+    height: 177px;
+    top: 6px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#dropit11 {
+    position: absolute;
+    width: 453px;
+    height: 331px;
+    top: 2px;
+    left: 98px;
+    /* border: 1px solid black; */
+}
+#drops {
+    position: absolute;
+    left: 54px;
+    top: 114px;
+}
+.shake{
+    position: absolute;
+    display: none;
+}
+#firstflaskshake{
+    position: absolute;
+    top: 11px;
+    left: 78px;
+}
+
+
+#wholeVolFlask2 {
+    position: absolute;
+    left: 122px;
+    top: 37px;
+}
+#volFlask2{
+    z-index: 1;
+}
+#volFlaskTop2 {
+    position: absolute;
+    z-index: 2;
+    left: 26px;
+}
+#volFlaskCap2 {
+    position: absolute;
+    left: 21.5px;
+    top: -13px;
+}
+#volFlaskWaterlow2 {
+    position: absolute;
+    top: 138px;
+    left: 0px;
+}
+
+#volFlaskWaterhigh2 {
+    position: absolute;
+    top: 71px;
+    left: 0px;
+}
+#volFlaskWaterfine2 {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+}
+#oxalPowder4 {
+    position: absolute;
+    /* z-index: 1; */
+    /* width: 115px; */
+    left: 21px;
+    top: 157px;
+}
+
+#dropit12 {
+    position: absolute;
+    width: 105px;
+    height: 135px;
+    top: 27px;
+    left: 6px;
+    /* border: 1px solid black; */
+}
+#dropit13 {
+    position: absolute;
+    width: 453px;
+    height: 317px;
+    top: 9px;
+    left: 98px;
+    /* border: 1px solid black; */
+}
+.rotate{
+    position: absolute;
+    display: none;
+}
+#secondflaskrotate{
+    position: absolute;
+    top: 11px;
+    left: 78px;
+}
+
+
+
+
+
+
+
+/* #sqrwater {
+    margin: 20px auto;
+    display: block;
+    width: 100%;
+    height: 500px;
+    -webkit-mask-image: url(http://139.59.24.243/images/invitations/birthday/ice.png);
+    mask-image: url(http://tympanus.net/codrops-playground/assets/images/cssref/properties/mask-image/mask-image.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+  } */
+
+
+
+
+
+
+
+
+
+
+  /* burner flame */
+
+/* #crossFade > img { 
+    position: absolute;
+    
+    top: 11px;
+    left: 78px;
+    opacity: 0;
+    z-index: 3;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 1560ms linear infinite 0s;
+    -moz-animation: imageAnimation 1560ms linear infinite 0s;
+    -o-animation: imageAnimation 1560ms linear infinite 0s;
+    -ms-animation: imageAnimation 1560ms linear infinite 0s;
+    animation: imageAnimation 1560ms linear infinite 0s; 
+}
+
+#crossFade > img:nth-child(2)  { 
+    background-image: url(images/flask1/1.png);
+    -webkit-animation-delay: 60ms;
+    -moz-animation-delay: 60ms;
+    -o-animation-delay: 60ms;
+    -ms-animation-delay: 60ms;
+    animation-delay: 60ms; 
+}
+#crossFade > img:nth-child(3) { 
+    background-image: url(images/flask1/2.png);
+    -webkit-animation-delay: 120ms;
+    -moz-animation-delay: 120ms;
+    -o-animation-delay: 120ms;
+    -ms-animation-delay: 120ms;
+    animation-delay: 120ms; 
+}
+#crossFade > img:nth-child(4) { 
+    background-image: url(images/flask1/3.png);
+    -webkit-animation-delay: 180ms;
+    -moz-animation-delay: 180ms;
+    -o-animation-delay: 180ms;
+    -ms-animation-delay: 180ms;
+    animation-delay: 180ms; 
+}
+#crossFade > img:nth-child(5) { 
+    background-image: url(images/flask1/4.png);
+    -webkit-animation-delay: 300ms;
+    -moz-animation-delay: 300ms;
+    -o-animation-delay: 300ms;
+    -ms-animation-delay: 300ms;
+    animation-delay: 300ms; 
+}
+#crossFade > img:nth-child(6) { 
+    background-image: url(images/flask1/5.png);
+    -webkit-animation-delay: 360ms;
+    -moz-animation-delay: 360ms;
+    -o-animation-delay: 360ms;
+    -ms-animation-delay: 360ms;
+    animation-delay: 360ms; 
+}
+#crossFade > img:nth-child(7) { 
+    background-image: url(images/flask1/6.png);
+    -webkit-animation-delay: 420ms;
+    -moz-animation-delay: 420ms;
+    -o-animation-delay: 420ms;
+    -ms-animation-delay: 420ms;
+    animation-delay: 420ms; 
+}
+#crossFade > img:nth-child(8) { 
+    background-image: url(images/flask1/7.png);
+    -webkit-animation-delay: 480ms;
+    -moz-animation-delay: 480ms;
+    -o-animation-delay: 480ms;
+    -ms-animation-delay: 480ms;
+    animation-delay: 480ms; 
+}
+#crossFade > img:nth-child(9) { 
+    background-image: url(images/flask1/8.png);
+    -webkit-animation-delay: 540ms;
+    -moz-animation-delay: 540ms;
+    -o-animation-delay: 540ms;
+    -ms-animation-delay: 540ms;
+    animation-delay: 540ms; 
+}
+#crossFade > img:nth-child(10) { 
+    background-image: url(images/flask1/9.png);
+    -webkit-animation-delay: 600ms;
+    -moz-animation-delay: 600ms;
+    -o-animation-delay: 600ms;
+    -ms-animation-delay: 600ms;
+    animation-delay: 600ms; 
+}
+#crossFade > img:nth-child(11) { 
+    background-image: url(images/flask1/10.png);
+    -webkit-animation-delay: 660ms;
+    -moz-animation-delay: 660ms;
+    -o-animation-delay: 660ms;
+    -ms-animation-delay: 660ms;
+    animation-delay: 660ms; 
+}
+#crossFade > img:nth-child(12) { 
+    background-image: url(images/flask1/11.png);
+    -webkit-animation-delay: 720ms;
+    -moz-animation-delay: 720ms;
+    -o-animation-delay: 720ms;
+    -ms-animation-delay: 720ms;
+    animation-delay: 720ms; 
+}
+#crossFade > img:nth-child(13) { 
+    background-image: url(images/flask1/12.png);
+    -webkit-animation-delay: 780ms;
+    -moz-animation-delay: 780ms;
+    -o-animation-delay: 780ms;
+    -ms-animation-delay: 780ms;
+    animation-delay: 780ms; 
+}
+#crossFade > img:nth-child(14) { 
+    background-image: url(images/flask1/13.png);
+    -webkit-animation-delay: 840ms;
+    -moz-animation-delay: 840ms;
+    -o-animation-delay: 840ms;
+    -ms-animation-delay: 840ms;
+    animation-delay: 840ms; 
+}
+#crossFade > img:nth-child(15) { 
+    background-image: url(images/flask1/14.png);
+    -webkit-animation-delay: 900ms;
+    -moz-animation-delay: 900ms;
+    -o-animation-delay: 900ms;
+    -ms-animation-delay: 900ms;
+    animation-delay: 900ms; 
+}
+#crossFade > img:nth-child(16) { 
+    background-image: url(images/flask1/15.png);
+    -webkit-animation-delay: 960ms;
+    -moz-animation-delay: 960ms;
+    -o-animation-delay: 960ms;
+    -ms-animation-delay: 960ms;
+    animation-delay: 960ms; 
+}
+#crossFade > img:nth-child(17) { 
+    background-image: url(images/flask1/16.png);
+    -webkit-animation-delay: 1020ms;
+    -moz-animation-delay: 1020ms;
+    -o-animation-delay: 1020ms;
+    -ms-animation-delay: 1020ms;
+    animation-delay: 1020ms; 
+}
+#crossFade > img:nth-child(18) { 
+    background-image: url(images/flask1/17.png);
+    -webkit-animation-delay: 1080ms;
+    -moz-animation-delay: 1080ms;
+    -o-animation-delay: 1080ms;
+    -ms-animation-delay: 1080ms;
+    animation-delay: 1080ms; 
+}
+#crossFade > img:nth-child(19) { 
+    background-image: url(images/flask1/18.png);
+    -webkit-animation-delay: 1140ms;
+    -moz-animation-delay: 1140ms;
+    -o-animation-delay: 1140ms;
+    -ms-animation-delay: 1140ms;
+    animation-delay: 1140ms; 
+}
+#crossFade > img:nth-child(20) { 
+    background-image: url(images/flask1/19.png);
+    -webkit-animation-delay: 1200ms;
+    -moz-animation-delay: 1200ms;
+    -o-animation-delay: 1200ms;
+    -ms-animation-delay: 1200ms;
+    animation-delay: 1200ms; 
+}
+#crossFade > img:nth-child(21) { 
+    background-image: url(images/flask1/20.png);
+    -webkit-animation-delay: 1260ms;
+    -moz-animation-delay: 1260ms;
+    -o-animation-delay: 1260ms;
+    -ms-animation-delay: 1260ms;
+    animation-delay: 1260ms; 
+}
+#crossFade > img:nth-child(22) { 
+    background-image: url(images/flask1/21.png);
+    -webkit-animation-delay: 1320ms;
+    -moz-animation-delay: 1320ms;
+    -o-animation-delay: 1320ms;
+    -ms-animation-delay: 1320ms;
+    animation-delay: 1320ms; 
+}
+#crossFade > img:nth-child(23) { 
+    background-image: url(images/flask1/22.png);
+    -webkit-animation-delay: 1380ms;
+    -moz-animation-delay: 1380ms;
+    -o-animation-delay: 1380ms;
+    -ms-animation-delay: 1380ms;
+    animation-delay: 1380ms; 
+}
+#crossFade > img:nth-child(24) { 
+    background-image: url(images/flask1/23.png);
+    -webkit-animation-delay: 1440ms;
+    -moz-animation-delay: 1440ms;
+    -o-animation-delay: 1440ms;
+    -ms-animation-delay: 1440ms;
+    animation-delay: 1440ms; 
+}
+#crossFade > img:nth-child(25) { 
+    background-image: url(images/flask1/24.png);
+    -webkit-animation-delay: 1500ms;
+    -moz-animation-delay: 1500ms;
+    -o-animation-delay: 1500ms;
+    -ms-animation-delay: 1500ms;
+    animation-delay: 1500ms; 
+}
+#crossFade > img:nth-child(26) { 
+    background-image: url(images/flask1/25.png);
+    -webkit-animation-delay: 1560ms;
+    -moz-animation-delay: 1560ms;
+    -o-animation-delay: 1560ms;
+    -ms-animation-delay: 1560ms;
+    animation-delay: 1560ms; 
+}
+/* @-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-ms-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -ms-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -ms-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+} */
+
+/* @keyframes imageAnimation { 
+    0% {
+        opacity: 1;
+      }
+
+      1% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 0;
+      }
+}  */

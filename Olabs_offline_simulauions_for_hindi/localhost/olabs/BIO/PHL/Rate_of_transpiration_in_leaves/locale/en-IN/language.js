@@ -1,0 +1,27 @@
+$.i18n.en = {};
+ jQuery.i18n.en.strings ={
+	"SAVE": "SAVE",
+	"FULL SCREEN": "FULL SCREEN",
+	"EXIT": "EXIT",
+	"Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT": "Developed by CDAC Mumbai & Amrita University <br> Under research grant from department of IT",
+	"Rate of Transpiration in Plants": "Rate of Transpiration in Plants",
+	"Apple": "Apple",
+	"Lilly": "Lilly",
+	"Tomato": "Tomato",
+	"Rate of transpiration is same on both the upper and lower surfaces.": "Rate of transpiration is same on both the upper and lower surfaces.",
+	"Rate of transpiration is higher on the lower surface than the upper surface.": "Rate of transpiration is higher on the lower surface than the upper surface.",
+	"Rate of transpiration is higher on the upper surface than the lower surface.": "Rate of transpiration is higher on the upper surface than the lower surface.",
+	"No change": "No change",
+	"15 Mins": "15 Mins",
+	"20 Mins": "20 Mins",
+	"Upper surface of leaf": "Upper surface of leaf",
+	"Lower surface of leaf": "Lower surface of leaf",
+	"Cobalt chloride paper": "Cobalt chloride paper",
+	"Click on the icon to choose sample:": "Click on the icon to choose sample:",
+	"Result": "Result",
+	"Expected result:": "Expected result:",
+	"Original colour:": "Original colour:",
+	"PROCEED": "PROCEED",
+	"Start": "Start",
+	"Reset": "Reset"
+}

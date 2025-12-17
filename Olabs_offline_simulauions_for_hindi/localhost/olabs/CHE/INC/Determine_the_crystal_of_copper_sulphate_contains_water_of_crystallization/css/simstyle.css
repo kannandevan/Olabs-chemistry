@@ -1,0 +1,483 @@
+#button {
+    position: fixed;
+    top: 272px;
+}
+
+#mainDiv img {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+}
+
+.userSelect,
+#mainDiv,
+.sim-footer div,
+.sim-body {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.newFlameAnimation1 {
+    position: absolute;
+    top: 21%;
+    left: -1%;
+    height: 49%;
+    width: 68%;
+}
+
+.newFlameAnimation {
+    top: -14%;
+    left: -8%;
+    height: 134%;
+    width: 39.5%;
+    display: none;
+    z-index: 2;
+
+}
+
+.newClockAnimation1 {
+    position: absolute;
+    top: 31%;
+    left: 0%;
+    height: 48%;
+    width: 97%;
+}
+
+.newClockAnimation {
+    top: -62%;
+    left: 79.3%;
+    height: 69%;
+    width: 15%;
+    position: absolute;
+    display: none;
+
+}
+
+.newClockAnimationLast1 {
+    position: absolute;
+    top: 31%;
+    left: 0%;
+    height: 48%;
+    width: 97%;
+}
+
+.newClockAnimationLast {
+    top: -62%;
+    left: 79.3%;
+    height: 69%;
+    width: 15%;
+    position: absolute;
+    display: none;
+
+}
+
+.g198.controlHolder {
+    display: none;
+}
+
+#inferenceImg {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: none
+}
+
+#inferenceImg1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: none
+}
+
+
+#instruction {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 7px;
+    height: 18px;
+    padding-top: 3px;
+}
+
+#instruction1 {
+    position: absolute;
+    top: 65px;
+    height: 5%;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 120%;
+    font-weight: 500;
+    color: #626262;
+    padding: 5px 0 0 0px;
+    margin: 0 0px 0 0;
+    left: 8px;
+    text-align: justify !important;
+}
+
+#bgCanvas2 {
+    width: 562px;
+
+}
+
+#canvasBox {
+
+    height: 337px;
+    background-color: #FFFFFF;
+    border: #FFFFFF solid 4px;
+    margin-top: 0px;
+    margin-right: 7px;
+    width: 134%;
+    margin-bottom: 0px;
+    margin-left: -211px;
+    -webkit-box-shadow: inset 0px 0px 2px 0px #999999;
+    -moz-box-shadow: inset 0px 0px 2px 0px #999999;
+    box-shadow: inset 0px 0px 2px 0px #999999;
+    -webkit-box-shadow: 0px 0px 1px 1px rgba(150, 150, 150, 0.9);
+    -moz-box-shadow: 0px 0px 1px 1px rgba(150, 150, 150, 0.9);
+    box-shadow: 0px 0px 1px 1px rgba(150, 150, 150, 0.9);
+    position: relative;
+    overflow: hidden;
+}
+
+.clock {
+    top: 15px;
+    left: 400px;
+    position: absolute;
+    display: none;
+}
+
+#bgCanvas1 {
+    width: 107%;
+    margin-left: 0%;
+    margin-top: -17%;
+}
+
+#copperWhite {
+    width: 4%;
+    height: 6%;
+    top: 74%;
+    position: absolute;
+    z-index: 9;
+    left: 40%;
+    display: none;
+}
+
+#copperwhite2 {
+    left: 17%;
+    margin-top: 21%;
+}
+
+#copperWhite1 {
+    width: 24px;
+    height: 14px;
+    bottom: 2px;
+    position: absolute;
+    z-index: 9;
+    right: 91px;
+    display: none;
+}
+
+#copperBlue2 {
+    width: 4%;
+    height: 6%;
+    top: 74%;
+    position: absolute;
+    left: 40%;
+    display: none;
+}
+
+
+#copperBlue1 {
+    width: 24px;
+    height: 14px;
+    bottom: 2px;
+    position: absolute;
+    right: 91px;
+    display: none;
+}
+
+#copperBlue {
+    width: 24px;
+    height: 14px;
+    bottom: 43px;
+    position: absolute;
+    z-index: 1;
+    display: block;
+    right: 144px;
+}
+
+#copper {
+    position: absolute;
+    top: 271px;
+    right: 37px;
+    width: 54px;
+}
+
+#bottle {
+    position: absolute;
+}
+
+#bottleCap {
+    position: absolute;
+    top: -25px;
+    left: 5px;
+    z-index: 2;
+
+}
+
+#watchglass {
+    position: absolute;
+    top: 286px;
+    width: 79px;
+    left: 196px;
+}
+
+#watchglassDiv {
+    position: absolute;
+    top: 254px;
+    width: 105px;
+    left: 275px;
+}
+
+#watchglassZoom {
+
+    position: absolute;
+    top: 20px;
+    left: 245px;
+    display: none;
+}
+
+#zoomImg {
+    margin-left: 0%;
+    width: 105%;
+    height: 124%;
+    display: none;
+    margin-top: -2%;
+    position: absolute;
+}
+
+#watchglassArea {
+    position: absolute;
+    bottom: 45px;
+    left: 251px;
+    width: 146px;
+    height: 138px;
+}
+
+#spatulaDrop {
+    position: absolute;
+    bottom: 63px;
+    left: 176px;
+    width: 137px;
+    height: 114px;
+    display: none;
+
+}
+
+#spatulaDiv1 {
+    position: absolute;
+}
+
+#spatulaDiv2 {
+    position: absolute;
+}
+
+#shift {
+    position: absolute;
+    top: 181px;
+    width: 49px;
+    right: 238px;
+    z-index: 2;
+}
+
+#bottleArea {
+    position: absolute;
+    top: 68px;
+    right: 152px;
+    width: 122px;
+    height: 129px;
+}
+
+#flameField {
+    position: absolute;
+    top: 54px;
+    left: 1px;
+    width: 209px;
+    height: 123px;
+}
+
+#spatulaDiv {
+    position: absolute;
+    width: 115px;
+    height: 23px;
+    top: 251px;
+    right: 51px;
+    display: block;
+}
+
+
+#burnerKnob {
+    position: absolute;
+    top: 63%;
+    align-self: 10%;
+    width: 6%;
+    left: 12%;
+    height: 13%;
+    pointer-events: none;
+
+}
+
+#spatulaDivArea {
+    position: absolute;
+    top: 166px;
+    right: 114px;
+    width: 143px;
+    height: 151px;
+
+}
+
+#burner {
+    position: absolute;
+    top: 21%;
+    left: -1%;
+}
+
+#burnerFlame1 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame2 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame3 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame4 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame5 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame6 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame7 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame8 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame9 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame10 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame11 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame12 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame13 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame14 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+#burnerFlame15 {
+    position: absolute;
+    top: 94px;
+    left: -45px;
+    display: none;
+}
+
+.linear {
+    animation-timing-function: linear;
+}
+
+.rotate {
+    animation: rotation 2s;
+}
+
+
+.infinite {
+    animation-iteration-count: 5;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(-45deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+
+
+}
