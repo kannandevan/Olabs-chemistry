@@ -44,43 +44,25 @@ var secondAnimation = ["../CHE/INC/prepare_a_colloidal_solution_of_sulphur/image
   "../CHE/INC/prepare_a_colloidal_solution_of_sulphur/images/FinalMilkywater/19.png",
   "../CHE/INC/prepare_a_colloidal_solution_of_sulphur/images/FinalMilkywater/20.png",
   "../CHE/INC/prepare_a_colloidal_solution_of_sulphur/images/FinalMilkywater/21.png"]
-var tripFlag = false;
+
 var alertmsg = 0;
 var wM = false;
 var helpCount = 0;
-  var firstHelpmsg;
-  var secondHelpmsg;
-  var ThirdHelpmsg;
-  var ShakeMsg;
-  var toAnothertestube;
-  var FourthHelpmsg;
-  var fifthHelpmsg;
-  var sixthHelpmsg;
-  var seventhHelpmsg;
-  var Common_Next;
-  var eighthHelpmsg;
-  var ninethHelpmsg;
-  // finalpageHelp
-  var Thelastscreenfirsthelp;
-  var thelastscreenSecondhelp;
-  var toAnothertestubeScreen2;
-  var RepeateAllmsg;
-  // inference MSg
-  var FirstWarningMsg;
-  var Firstpage;
-
-  var TheFirstInference_msg;
-  var theSecondInference_msg;
-  var theThirdInference_msg;
-
-  var theFinalhelpmsg;
-
-  var QuestionHelp;
-  var QuestionHelp2;
 $(window).on('load', function () {
   gt = new Gettext({ 'domain': 'messages' });
+  $('[data-translate]').html(function (index, originalHtml) {
+    // console.log(originalHtml);
+    return gt.gettext(originalHtml);
+  });
 
+  const lang = getLang();
+    console.log(lang);
+    if (lang == 'ml-IN') {
+        console.log("Malayalam");
+        $(".theInstruction,#thealertP").css("font-size", "1.2vw");
+        $(".optionTestDesign").css("font-size", "1vw");
 
+    }
   document.getElementById("expName").innerHTML = gt.gettext("Prepare a Colloidal Solution of Sulphur");
   helpCount = 0;
   QuestionHelp = 1;
@@ -113,14 +95,7 @@ $(window).on('load', function () {
   theThirdInference_msg = gt.gettext("A suspension is heterogeneous mixture. <br>The particles of a suspension are visible<br>to the naked eye. They settle down on <br>standing and can be separated by filtration.")
 
   theFinalhelpmsg = gt.gettext("Click on the Reset button <br>to repeat the experiment again")
-  QuizCoreExecuter(1,
-     "Fog is a colloidal solution of:",
-   "Solid in gas",
-   "Gas in liquid",
-   "Liquid in gas",
-   "Gas in gas",
-   "Liquid in gas",
-    1, 2)
+  QuizCoreExecuter(1, gt.gettext("Fog is a colloidal solution of:"), gt.gettext("Solid in gas"), gt.gettext("Gas in liquid"), gt.gettext("Liquid in gas"), gt.gettext("Gas in gas"), gt.gettext("Liquid in gas"), 1, 2)
 
   ImageInitLoad(Firstimage, "testtubeWater1Animation", "newtesttubeWater1Animation", "testtubeWater1Animation_class")
   ImageInitLoad(secondAnimation, "testtubeWater2Animation", "newtesttubeWater2Animation", "testtubeWater2Animation_class")
@@ -574,5 +549,17 @@ function inference(inferenceMessageArray, imageId, thedelay) {
 
 }
 function getLang(){
-  
+    let lang;
+    try {
+        const iframeElement = window.frameElement;
+        const mySrc = iframeElement.src;
+ 
+        const url = new URL(mySrc);
+        lang = url.searchParams.get('elink_lan');
+ 
+    } catch (error) {
+        console.error('Could not access frameElement due to same-origin policy.');
+        document.getElementById('message').textContent = 'Error: Cannot access frame details due to security restrictions.';
+    }
+    return lang;
 }

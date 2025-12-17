@@ -101,8 +101,8 @@ $(document).ready(function () {
     ]
 
 
-Inference_msg = [gt.gettext("The liquid phase changes to gaseous phase, as water evaporates on heating.<br>The molecules move and vibrate so quickly that they escape into the<br>atmosphere as molecules of water vapour."),
-gt.gettext("Spirit is a volatile liquid and has a lower boiling point<br>when compared to water. Hence, spirit evaporates<br>faster than water at room temperature."),
+Inference_msg = [gt.gettext("infe_1"),
+gt.gettext("infe_2"),
 
 ]
 //  nextButton()

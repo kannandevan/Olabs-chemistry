@@ -6,7 +6,7 @@ var path = "../CHE/INC/Enthalpy_Change_for_the_Interaction_between_Acetone_and_C
 $(window).on('load',function(){
 	for(i = 0;i<60;i++)
 	{
-		waterAnimArr[i] = path+"waterAnimation"+(i+1)+".png" ;
+		waterAnimArr[i] = path+"waterAnimation"+(i+1) ;
 	}
 	ImageInitLoad(waterAnimArr,"polytheneBottleDiv","waterAnim","waterAnimClass");
 	ImageInitLoad(waterAnimArr,"polytheneBottleDiv1","waterAnimPage2","waterAnimPage2Class");
