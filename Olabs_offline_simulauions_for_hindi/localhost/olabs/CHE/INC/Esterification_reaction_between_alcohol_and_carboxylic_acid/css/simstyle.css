@@ -1,0 +1,812 @@
+#mainDiv2,#slantwater,#cylsoln,#pour,#drops,#burner_off,#crossfade,#smoke,#thermometer1,#testsol,#cork_under,#corkshadow,#thermometer3,
+#pour2,#dropsol2,#slantwater2,#effer,#testsol2,#inference,#bubbles,#temp40,#burner_on2,.secondpg_txt
+{
+    display: none;
+}
+
+
+
+
+#inference{
+    
+    position: absolute;
+    left: 2%;
+    top: 4%;
+}
+#message{
+    position: absolute;
+    left: 18%;
+    top: 7%;
+    background-color: black;
+    color: #ffffff;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-justify: auto;
+    opacity: 0.8;
+}
+.firstpg_txt{
+  
+    font-size: 11px !important;
+    line-height: 18px !important;
+}
+.secondpg_txt{
+    font-size: 11px !important;
+    line-height: 18px !important;
+    /* margin-bottom: 34px; */
+}
+
+
+
+#bg{
+    width: 100%;
+    position: absolute;
+    top: -9px;
+    height: 125%;
+}
+#droper {
+position: absolute;
+top: 28.1%;
+left: 84%;
+
+}
+#drop{
+position: absolute;
+}
+#drops {
+    position: absolute;
+    top: 30%;
+    left: 21%;
+
+}
+#dropsol{
+    position: absolute;
+    left: 7px;
+    top: 81px;
+    border-style: solid;
+    border-width: 55px 5px 0 5px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.4;
+}
+#soln{
+    
+    position: absolute;
+    height: 0px;
+    width: 19px;
+    left: 20.1%;
+    top:245px;
+    
+}
+#bottle{
+	position: absolute;
+    left: 628px;
+	top: 46%;
+    width: 9%;
+}
+#wat {
+    position: absolute;
+    top: 62%;
+    left: 630px;
+    width: 68px;
+    height: 93px;
+}
+#dropit{
+    position: absolute;
+    width: 223px;
+    height: 264px;
+    top: 2%;
+    left: 1%;
+    
+}
+#water{
+    position: absolute;
+    top: 62%;
+    left: 451px;
+    width: 68px;
+    height: 27%
+}
+#cyl{
+    position: absolute;
+    top: 33%;
+    left: 55%;
+    z-index: 3;
+    width: 50px;
+   
+}
+#meas_cyl{
+    position: absolute;
+    height: 185px;
+    left: 83%;   
+}
+#cylwater {
+    position: absolute;
+    top: 127px;
+    left: 51px;
+    width: 34px;
+    height: 45px;
+    
+} 
+#cylsoln{
+
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 20%;
+    top: 245px;
+}
+#ethanoic{
+    
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 20%;
+    top: 265px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+    
+#slantwater{
+    position: absolute;
+    width: 0;
+    height: 0px;
+    top: -2px;
+    left: 52px;
+    opacity: 0.5;
+    border-left: 0px solid transparent;
+    border-right: 22px solid transparent;
+    border-bottom: 174px solid rgb(255, 255, 255);
+}
+#pour{
+    position: absolute;
+    top: 34%;
+    left: 164px;
+
+}
+    
+       
+#testube{
+    position: absolute;
+    top: 48%;
+    left: 153px;
+    z-index: 1;
+   
+    
+    
+}
+#teststand{
+    position: absolute;
+    top: 53%;
+    left: 12%;
+    
+}
+#testbar{
+    position: absolute;
+    top: 66%;
+    left: 15.5%;
+    z-index: 2;
+
+}
+    
+
+
+#cork{
+    position: absolute;
+    top: 83%;
+    left: 42%;
+}
+    
+#next_btn {
+    position: absolute;
+    
+    top: 7%;
+    left: 85%;
+    height: 30px;
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px 0px rgba(255,255,255,0.25);
+-webkit-box-shadow: 5px 5px 5px 0px rgba(255,255,255,0.25);
+-moz-box-shadow: 5px 5px 5px 0px rgba(255,255,255,0.25);
+font-weight: 200;
+}
+
+/*-------------------Starting of  page styling---------------------*/
+
+#testube2{
+    position: absolute;
+    top: 40px;
+    left: 9px;
+    z-index: 2;
+    
+}
+
+
+#teststand2{
+    position: absolute;
+    top: 61%;
+    left: 62%;
+    width: 22%;
+    height: 28%;
+    z-index: 1;
+}
+
+
+#testbar2{
+    position: absolute;
+    top: 71%;
+    left: 524px;
+    z-index: 2;
+    width: 14%;
+    height: 2%;
+    
+    
+}
+   #soln2{
+    position: absolute;
+    top: 83px;
+    left: 10px;
+    border-radius: 0 0 22px 22px;
+    width: 14px;
+    height: 39px;
+    z-index: 1;
+   }
+   #cork2{
+    position: absolute;
+    top: 27px;
+    left: 8px;
+    z-index: 1;
+    width: 18px;
+    
+    
+    
+   }
+   #cork3{
+    position: absolute;
+    top: 27px;
+    left: 8px;
+    z-index: 1;
+    width: 18px; 
+     
+   }
+
+   #tststand_top{
+    position: absolute;
+    top: 101px;
+    left: 128px;
+
+   }
+   #tststand{
+    position: absolute;
+    top: 4%;
+    
+   }
+   #burner{
+    position: absolute;
+    left: -5%;
+    top: 59%;
+   }
+   #burner_on{
+    position: absolute;
+    left: 170px;
+    top: 78%;
+    
+}
+#burner_on2{
+    position: absolute;
+    left: 170px;
+    top: 78%;
+    
+}
+   #burner_off{
+    position: absolute;
+    left: 176px;
+    top: 78%;
+    
+}
+#beaker{
+    position: absolute;
+    top: 37%;
+    left: 20%;
+
+}
+#beakerwater{
+    position: absolute;
+    top: 50%;
+    left: 161px;
+    width: 64px;
+    height: 32px;
+}
+#testwithsol{
+    position: absolute;
+    left: 72%;
+    top: 49%;
+    
+}
+
+#dropit1{
+    position: absolute;
+    width: 100px;
+    height: 161px;
+    top: 0%;
+    left: 18.5%;
+   
+}
+#dropit2{
+    position: absolute;
+    width: 100px;
+    height: 161px;
+    top: 4%;
+    left: 18.5%;
+    
+}
+#dropit3{
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 1%;
+    left: 34%;
+    
+}
+#smoke{
+    position: absolute;
+    left: 16%;
+    top: 49%;
+    height: 34px;
+    width: 127px;
+    opacity: 0.3;
+    color: white;
+}
+#thermostand{
+    position: absolute;
+    left: 87%;
+    top: 63%;
+}
+#thermometer{
+    position: absolute;
+    left: 719px;
+    top: 41%;
+    
+
+}
+#thermometer1{
+    position: absolute;
+    left: 13px;
+    top: -40px;
+    
+
+}
+#thermometer2{
+    position: absolute;
+    left: 13px;
+    top: -40px;
+    z-index: 0;
+    
+
+}
+#thermometer3{
+    position: absolute;
+    left: 718px;
+    top: 41%;
+    
+}
+
+#thermobar{
+    position: absolute;
+    left: 704px;
+    top: 69%;
+    z-index: 3;
+}
+#testsol{
+    position: absolute;
+    top: 55px;
+    left: 176px;
+    
+}
+#cork_under{
+    position: absolute;
+    left: 56%;
+    top: 83%;
+    z-index: 1;
+}
+#corkshadow{
+    position: absolute;
+    top: 295px;
+    left: 325px;
+}
+#beakerwater1{
+    position: absolute;
+    top: 79%;
+    left: 324px;
+    width: 64px;
+    border-radius: 0 0 12px 12px;
+    height: 32px;
+}
+
+#beaker1{
+    position: absolute;
+    top: 65%;
+    left: 41%;
+}
+#beaker1label{
+    position: absolute;
+    top: 70%;
+    left: 332px;
+    z-index: 3;
+    background-color: #ffffff;
+    padding: 2px 1px 1px 1px;
+    color: black;
+    
+}
+#soln3{
+    position: absolute;
+    top: 83px;
+    left: 11px;
+    border-radius: 0 0 22px 22px;
+    width: 12px;
+    height: 39px;
+    z-index: 1;
+}
+#dropit4{
+    position: absolute;
+    width: 123px;
+    height: 248px;
+    top: 1%;
+    left: 40%;
+    z-index: 3;
+}
+#pour2{
+    position: absolute;
+    top: 40%;
+    left: 379px;
+    height: 136px;
+    width: 3px;
+}
+#dropsol2{
+    position: absolute;
+    left: 378px;
+    top: 263px;
+    border-style: solid;
+    border-width: 25px 2px 0 2px;
+    border-color: #ffffff transparent transparent transparent;
+    opacity: 0.2;
+}
+#slantwater2{
+    position: absolute;
+    width: 0;
+    height: 0px;
+    top: 47px;
+    left: 13px;
+    opacity: 0.2;
+    border-left: 0px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 73px solid rgb(255, 255, 255);
+}
+#bubbles1{
+    position: relative;
+    width: 40px;
+    left: 30px;
+    height: 31px;
+}
+#bubbles2{
+    position: relative;
+    width: 35px;
+    left: -38px;
+    height: 31px;
+    
+}
+#bubbles{
+    position: absolute;
+    left: 45%;
+    top: 78%;
+
+}
+#testsol2{
+    position: absolute;
+    top: 120px;
+    left: 274px;
+    z-index: 1;
+}
+ #label1{
+    position: absolute;
+    left: -5%;
+    top: -22%;
+    width: 93px;
+    height: 30px;
+} 
+ #text{
+    
+    z-index: 4;
+    position: relative;
+    font-weight: 1000;
+} 
+.label1{
+    
+    position: absolute;
+    left: 17%;
+    top: 86%;
+    z-index: 3;
+    width: 100px;
+    height: 30px;
+}
+#label2{
+    position: absolute;
+    left: -20%;
+    top: -22%;
+    width: 84px;
+    height: 30px;
+}
+#text2{
+    z-index: 4;
+    position: relative;
+    font-weight: 1000;
+}
+.label2{
+    position: absolute;
+    left: 61%;
+    top: 85%;
+    z-index: 3;
+    width: 100px;
+    height: 30px;
+}
+#waterlab{
+    position: absolute;
+    top: 52%;
+    left: 174px;
+    z-index: 3;
+    background-color: #ffffff;
+    padding: 2px 1px 1px 1px;
+    color: black;
+}
+#effer{
+    position: absolute;
+    contain: content;
+    left: 317px;
+    top: 262px;
+    width: 75px;
+    height: 36px;
+    border-radius: 0px 0px 35px 35px;
+}
+#temp40{
+    position: absolute;
+    left: 282px;
+    /* text-align: center; */
+    top: 29px;
+}
+#burnerarea{
+    position: absolute;
+    /* border: 1px solid black; */
+    top: 263px;
+    left: 180px;
+    width: 1px;
+    height: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------flames css-------------------- */
+#crossfade{
+    position: absolute;
+    top: 60%;
+    left: 190px;
+}
+
+
+#crossfade > img { 
+    
+   
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 840ms linear infinite 0s;
+    -moz-animation: imageAnimation 840ms linear infinite 0s;
+    -o-animation: imageAnimation 840ms linear infinite 0s;
+    -ms-animation: imageAnimation 840ms linear infinite 0s;
+    animation: imageAnimation 840ms linear infinite 0s; 
+}
+
+#crossfade > img:nth-child(2)  { 
+    background-image: url(images/1.png);
+    -webkit-animation-delay: 60ms;
+    -moz-animation-delay: 60ms;
+    -o-animation-delay: 60ms;
+    -ms-animation-delay: 60ms;
+    animation-delay: 60ms; 
+}
+#crossfade > img:nth-child(3) { 
+    background-image: url(images/2.png);
+    -webkit-animation-delay: 120ms;
+    -moz-animation-delay: 120ms;
+    -o-animation-delay: 120ms;
+    -ms-animation-delay: 120ms;
+    animation-delay: 120ms; 
+}
+#crossfade > img:nth-child(4) { 
+    background-image: url(images/3.png);
+    -webkit-animation-delay: 180ms;
+    -moz-animation-delay: 180ms;
+    -o-animation-delay: 180ms;
+    -ms-animation-delay: 180ms;
+    animation-delay: 180ms; 
+}
+#crossfade > img:nth-child(5) { 
+    background-image: url(images/4.png);
+    -webkit-animation-delay: 240ms;
+    -moz-animation-delay: 240ms;
+    -o-animation-delay: 240ms;
+    -ms-animation-delay: 240ms;
+    animation-delay: 240ms; 
+}
+#crossfade > img:nth-child(6) { 
+    background-image: url(images/5.png);
+    -webkit-animation-delay: 240ms;
+    -moz-animation-delay: 240ms;
+    -o-animation-delay: 240ms;
+    -ms-animation-delay: 240ms;
+    animation-delay: 240ms; 
+}
+#crossfade > img:nth-child(7) { 
+    background-image: url(images/6.png);
+    -webkit-animation-delay: 300ms;
+    -moz-animation-delay: 300ms;
+    -o-animation-delay: 300ms;
+    -ms-animation-delay: 300ms;
+    animation-delay: 300ms; 
+}
+#crossfade > img:nth-child(8) { 
+    background-image: url(images/7.png);
+    -webkit-animation-delay: 360ms;
+    -moz-animation-delay: 360ms;
+    -o-animation-delay: 360ms;
+    -ms-animation-delay: 360ms;
+    animation-delay: 360ms; 
+}
+#crossfade > img:nth-child(9) { 
+    background-image: url(images/8.png);
+    -webkit-animation-delay: 420ms;
+    -moz-animation-delay: 420ms;
+    -o-animation-delay: 420ms;
+    -ms-animation-delay: 420ms;
+    animation-delay: 420ms; 
+}
+#crossfade > img:nth-child(10) { 
+    background-image: url(images/9.png);
+    -webkit-animation-delay: 480ms;
+    -moz-animation-delay: 480ms;
+    -o-animation-delay: 480ms;
+    -ms-animation-delay: 480ms;
+    animation-delay: 480ms; 
+}
+#crossfade > img:nth-child(11) { 
+    background-image: url(images/10.png);
+    -webkit-animation-delay: 540ms;
+    -moz-animation-delay: 540ms;
+    -o-animation-delay: 540ms;
+    -ms-animation-delay: 540ms;
+    animation-delay: 540ms; 
+}
+#crossfade > img:nth-child(12) { 
+    background-image: url(images/11.png);
+    -webkit-animation-delay: 600ms;
+    -moz-animation-delay: 600ms;
+    -o-animation-delay: 600ms;
+    -ms-animation-delay: 600ms;
+    animation-delay: 600ms; 
+}
+#crossfade > img:nth-child(13) { 
+    background-image: url(images/12.png);
+    -webkit-animation-delay: 660ms;
+    -moz-animation-delay: 660ms;
+    -o-animation-delay: 660ms;
+    -ms-animation-delay: 660ms;
+    animation-delay: 660ms; 
+}
+#crossfade > img:nth-child(14) { 
+    background-image: url(images/13.png);
+    -webkit-animation-delay: 720ms;
+    -moz-animation-delay: 720ms;
+    -o-animation-delay: 720ms;
+    -ms-animation-delay: 720ms;
+    animation-delay: 720ms; 
+}
+#crossfade > img:nth-child(15) { 
+    background-image: url(images/14.png);
+    -webkit-animation-delay: 780ms;
+    -moz-animation-delay: 780ms;
+    -o-animation-delay: 780ms;
+    -ms-animation-delay: 780ms;
+    animation-delay: 780ms; 
+}
+#crossfade > img:nth-child(16) { 
+    background-image: url(images/15.png);
+    -webkit-animation-delay: 840ms;
+    -moz-animation-delay: 840ms;
+    -o-animation-delay: 840ms;
+    -ms-animation-delay: 840ms;
+    animation-delay: 840ms; 
+}
+
+@-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-ms-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -ms-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -ms-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0;
+    animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+

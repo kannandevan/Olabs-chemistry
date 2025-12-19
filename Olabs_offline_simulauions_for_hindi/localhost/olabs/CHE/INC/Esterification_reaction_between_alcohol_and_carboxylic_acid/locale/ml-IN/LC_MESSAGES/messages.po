@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-08 11:25+0530\n"
+"PO-Revision-Date: 2025-10-08 11:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "വികസിപ്പിച്ചത് അമൃത സർവ്വകലാശാല <br> ധനസഹായം : ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം || <br> വിദ്യാഭ്യാസ മന്ത്രാലയം, ഇന്ത്യൻ ഗവൺമെന്റ്"
+
+msgid "Alert"
+msgstr "മുന്നറിയിപ്പ്"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "സിമുലേഷൻ പുനഃസജ്ജമാക്കണോ?"
+ 
+msgid "Yes"
+msgstr "അതെ"
+ 
+msgid "No"
+msgstr "ഇല്ല"
+
+#: simcontrols.js:26
+msgid "HELP"
+msgstr "സഹായം"
+
+#: simcontrols.js:27
+msgid "RESET"
+msgstr "റീസെറ്റ്"
+
+#: simcontrols.js:31
+msgid "Esterification reaction between alcohol and carboxylic acid"
+msgstr "<empty class="pxdot11">അല്കഹോളും കാർബോക്സിലിക് ആസിഡും തമ്മിലുള്ള എസ്റ്ററിഫിക്കേഷൻ പ്രതികരണം</empty>"
+
+#: simcontrols.js:32
+msgid "click on next button"
+msgstr "അടുത്ത ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:33
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: simcontrols.js:34
+msgid ""
+"Drag the measuring cylinder<br> containing 3 mL ethanol into test tube<br> containing 3 mL "
+"ethanoic acid."
+msgstr ""
+"3 mL എതാനോൾ അടങ്ങിയ അളക്കുന്ന സിലിണ്ടർ വലിച്ച്<br> 3 mL എതാനോയിക് ആസിഡ് ഉള്ള ടെസ്റ്റ് ട്യൂബിലേക്ക് ഇടുക."
+
+#: simcontrols.js:35
+msgid ""
+"Drag the dropper from the conc. H<sub>2</sub>SO<sub>4</sub> bottle with 5 drops "
+"ofconc.H<sub>2</sub>SO<sub>4</sub> into the test tube"
+msgstr ""
+"കോൺസെൻട്രേറ്റഡ് H<sub>2</sub>SO<sub>4</sub> ബോട്ടിലിൽ നിന്ന് 5 തുള്ളികൾ അടങ്ങിയ ഡ്രോപ്പർ വലിച്ച് ടെസ്റ്റ് "
+"ട്യൂബിലേക്ക് ഇടുക."
+
+#: simcontrols.js:35
+msgid "Drag a cork over the mouth of the test tube"
+msgstr "ടെസ്റ്റ് ട്യൂബിന്റെ വായിൽ കോർക്കു വലിച്ച് ഇടുക"
+
+#: simcontrols.js:35
+msgid "Drag the testube towards <br> the beaker containing water"
+msgstr "ടെസ്റ്റ് ട്യൂബ് വെള്ളമുള്ള ബീക്കറിലേക്കു വലിക്കുക"
+
+#: simcontrols.js:35
+msgid "Drag a thermometer into the testube"
+msgstr "ഒരു താപനിലാമാപിനി ടെസ്റ്റ് ട്യൂബിലേക്ക് വലിക്കുക"
+
+#: simcontrols.js:35
+msgid "Click on the burner knob<br> to heat the water in the beaker"
+msgstr "ബീക്കറിലുള്ള വെള്ളം ചൂടാക്കാൻ<br> ബർണർ നോബ് ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:35
+msgid "Click on the burner knob again to turn off flame"
+msgstr "ജ്വാല ഓഫ് ചെയ്യാൻ വീണ്ടും ബർണർ നോബ് ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:36
+msgid "Drag the testube to shake"
+msgstr "ടെസ്റ്റ് ട്യൂബ് കുലുക്കാൻ വലിക്കുക"
+
+#: simcontrols.js:36
+msgid "Click on the cork to open it"
+msgstr "കോർക്കു തുറക്കാൻ അതിൽ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:36
+msgid "Drag the testube to pour into <br> the beaker containing aquaeous NAHCO<sub>3</sub>"
+msgstr "ടെസ്റ്റ് ട്യൂബ് വലിച്ച്<br> ജലീയമായ NAHCO<sub>3</sub> അടങ്ങിയ ബീക്കറിലേക്ക് ഒഴിക്കുക"
+
+#: simcontrols.js:36
+msgid "Click on the Inference button"
+msgstr "നിഗമന ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
+
+#: simcontrols.js:37
+msgid ""
+"We observe a fruity smell of ester, Ethanoic acid has vinegar like<br> smell and Ethanol "
+"has sweet and pungent smell"
+msgstr ""
+"നമുക്ക് എസ്റ്ററിന്റെ പഴസൗരഭ്യമുള്ള ഗന്ധം കാണാം.<br> എതാനോയിക് ആസിഡിന് വെനിഗർ പോലുള്ള ഗന്ധവുമാണ്,<br> "
+"എതാനോളിന് മധുരവും കഠിനവുമായ ഗന്ധവുമുണ്ട്."
+
+#: simcontrols.js:38
+msgid "Reset"
+msgstr "പുനഃസജ്ജമാക്കുക"
+
+#: simcontrols.js:39
+msgid "<h5>WATER</h5>"
+msgstr "<h5>വെള്ളം</h5>"
+
+#: simcontrols.js:40
+msgid "<h5>NaHCO<sub>3</sub></h5>"
+msgstr "<h5>NaHCO<sub>3</sub></h5>"
+
+#: simcontrols.js:41
+msgid "Ethanoic Acid"
+msgstr "<empty class="pxdot8">എതാനോയിക് ആസിഡ്</empty>"
+
+#: simcontrols.js:42
+msgid "Ethanol"
+msgstr "<empty class="pxdot8">എതാനോൾ</empty>"
+
+#: simcontrols.js:43
+msgid "1. Drag the measuring cylinder containing 3mL Ethanoic Acid into the test tube."
+msgstr "1. 3 mL എതാനോയിക് ആസിഡ് അടങ്ങിയ അളക്കുന്ന സിലിണ്ടർ ടെസ്റ്റ് ട്യൂബിലേക്ക് വലിക്കുക."
+
+#: simcontrols.js:44
+msgid ""
+"2. Drag the dropper containing H<sub>2</sub>SO<sub>4</sub> to the top of the test tube"
+msgstr "2. H<sub>2</sub>SO<sub>4</sub> അടങ്ങിയ ഡ്രോപ്പർ ടെസ്റ്റ് ട്യൂബിന്റെ മുകളിലേക്കു വലിക്കുക."
+
+#: simcontrols.js:45
+msgid "1. Drag the test tube towards the test tube clamp"
+msgstr "1. ടെസ്റ്റ് ട്യൂബ് ക്ലാമ്പിലേക്കു ടെസ്റ്റ് ട്യൂബ് വലിക്കുക."
+
+#: simcontrols.js:46
+msgid "2. Drag the thermometer towards the top of the test tube"
+msgstr "2. താപനിലാമാപിനി ടെസ്റ്റ് ട്യൂബിന്റെ മുകളിലേക്കു വലിക്കുക."
+
+#: simcontrols.js:47
+msgid "Instructions"
+msgstr "നിർദ്ദേശങ്ങൾ"
+
+msgid "Maintain a temperature between <span class="auto-style-sim-2">40<sup>o</sup>C</span> to <span class="auto-style-sim-3">60<sup>o</sup>C</span>"
+msgstr "താപനില <span class="auto-style-sim-2">40<sup>o</sup>C</span> മുതൽ <span class="auto-style-sim-3">60<sup>o</sup>C</span> വരെയുള്ള പരിധിയിൽ നിലനിർത്തുക"
+

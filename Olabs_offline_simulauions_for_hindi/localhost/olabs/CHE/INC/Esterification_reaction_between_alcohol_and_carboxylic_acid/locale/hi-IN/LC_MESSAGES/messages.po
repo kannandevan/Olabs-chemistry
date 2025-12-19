@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-10-08 11:25+0530\n"
+"PO-Revision-Date: 2025-10-08 11:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../js\n"
+"X-Poedit-SearchPath-0: simcontrols.js\n"
+
+msgid "Developed by Amrita University <br> Funded by : Ministry of Electronics and Information Technology || <br> Ministry of Education Government of India"
+msgstr "अमृता विश्वविद्यालय द्वारा विकसित <br> वित्त पोषित : इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय || <br> शिक्षा मंत्रालय, भारत सरकार"
+
+msgid "Alert"
+msgstr "चेतावनी"
+ 
+msgid "Do you want to reset the simulation"
+msgstr "क्या आप सिमुलेशन को रीसेट करना चाहते हैं?"
+ 
+msgid "Yes"
+msgstr "हाँ"
+ 
+msgid "No"
+msgstr "नहीं"
+
+#: simcontrols.js:26
+msgid "HELP"
+msgstr "सहायता"
+
+#: simcontrols.js:27
+msgid "RESET"
+msgstr "रीसेट"
+
+#: simcontrols.js:31
+msgid "Esterification reaction between alcohol and carboxylic acid"
+msgstr "अल्कोहल और कार्बोक्सिलिक अम्ल के बीच एस्टरीकरण अभिक्रिया"
+
+#: simcontrols.js:32
+msgid "click on next button"
+msgstr "अगले बटन पर क्लिक करें"
+
+#: simcontrols.js:33
+msgid "Next"
+msgstr "अगला"
+
+#: simcontrols.js:34
+msgid ""
+"Drag the measuring cylinder<br> containing 3 mL ethanol into test tube<br> containing 3 mL "
+"ethanoic acid."
+msgstr "3 mL एथेनॉल वाला माप सिलिंडर<br> 3 mL एथेनोइक अम्ल वाली टेस्ट ट्यूब में<br> खींचकर डालें।"
+
+#: simcontrols.js:35
+msgid ""
+"Drag the dropper from the conc. H<sub>2</sub>SO<sub>4</sub> bottle with 5 drops "
+"ofconc.H<sub>2</sub>SO<sub>4</sub> into the test tube"
+msgstr "5 बूँदें सं. H<sub>2</sub>SO<sub>4</sub> की लेकर ड्रॉपर को बोतल से खींचें और टेस्ट ट्यूब में डालें।"
+
+#: simcontrols.js:35
+msgid "Drag a cork over the mouth of the test tube"
+msgstr "टेस्ट ट्यूब के मुँह पर कॉर्क लगाएँ।"
+
+#: simcontrols.js:35
+msgid "Drag the testube towards <br> the beaker containing water"
+msgstr "टेस्ट ट्यूब को पानी वाले बीकर की ओर खींचें।"
+
+#: simcontrols.js:35
+msgid "Drag a thermometer into the testube"
+msgstr "थर्मामीटर को टेस्ट ट्यूब में डालें।"
+
+#: simcontrols.js:35
+msgid "Click on the burner knob<br> to heat the water in the beaker"
+msgstr "बीकर में पानी गर्म करने के लिए बर्नर के नॉब पर क्लिक करें।"
+
+#: simcontrols.js:35
+msgid "Click on the burner knob again to turn off flame"
+msgstr "ज्योति बंद करने के लिए फिर से बर्नर नॉब पर क्लिक करें।"
+
+#: simcontrols.js:36
+msgid "Drag the testube to shake"
+msgstr "टेस्ट ट्यूब को हिलाने के लिए खींचें।"
+
+#: simcontrols.js:36
+msgid "Click on the cork to open it"
+msgstr "कॉर्क को खोलने के लिए उस पर क्लिक करें।"
+
+#: simcontrols.js:36
+msgid "Drag the testube to pour into <br> the beaker containing aquaeous NAHCO<sub>3</sub>"
+msgstr "टेस्ट ट्यूब को खींचकर<br> NaHCO<sub>3</sub> युक्त जलीय विलयन वाले बीकर में डालें।"
+
+#: simcontrols.js:36
+msgid "Click on the Inference button"
+msgstr "निष्कर्ष बटन पर क्लिक करें।"
+
+#: simcontrols.js:37
+msgid ""
+"We observe a fruity smell of ester, Ethanoic acid has vinegar like<br> smell and Ethanol has "
+"sweet and pungent smell"
+msgstr ""
+"हम एस्टर की फल जैसी गंध महसूस करते हैं। एथेनोइक अम्ल में सिरके जैसी<br> गंध होती है और एथेनॉल में मीठी व तीखी "
+"गंध होती है।"
+
+#: simcontrols.js:38
+msgid "Reset"
+msgstr "रीसेट"
+
+#: simcontrols.js:39
+msgid "<h5>WATER</h5>"
+msgstr "<h5>पानी</h5>"
+
+#: simcontrols.js:40
+msgid "<h5>NaHCO<sub>3</sub></h5>"
+msgstr "<h5>NaHCO<sub>3</sub></h5>"
+
+#: simcontrols.js:41
+msgid "Ethanoic Acid"
+msgstr "एथेनोइक अम्ल"
+
+#: simcontrols.js:42
+msgid "Ethanol"
+msgstr "एथेनॉल"
+
+#: simcontrols.js:43
+msgid "1. Drag the measuring cylinder containing 3mL Ethanoic Acid into the test tube."
+msgstr "1. 3 mL एथेनोइक अम्ल वाला माप सिलिंडर टेस्ट ट्यूब में खींचकर डालें।"
+
+#: simcontrols.js:44
+msgid "2. Drag the dropper containing H<sub>2</sub>SO<sub>4</sub> to the top of the test tube"
+msgstr "2. H<sub>2</sub>SO<sub>4</sub> वाला ड्रॉपर टेस्ट ट्यूब के ऊपर तक खींचें।"
+
+#: simcontrols.js:45
+msgid "1. Drag the test tube towards the test tube clamp"
+msgstr "1. टेस्ट ट्यूब को क्लैंप की ओर खींचें।"
+
+#: simcontrols.js:46
+msgid "2. Drag the thermometer towards the top of the test tube"
+msgstr "2. थर्मामीटर को टेस्ट ट्यूब के ऊपर की ओर खींचें।"
+
+#: simcontrols.js:47
+msgid "Instructions"
+msgstr "निर्देश"
+
+msgid "Maintain a temperature between <span class="auto-style-sim-2">40<sup>o</sup>C</span> to <span class="auto-style-sim-3">60<sup>o</sup>C</span>"
+msgstr "तापमान <span class="auto-style-sim-2">40<sup>o</sup>C</span> से <span class="auto-style-sim-3">60<sup>o</sup>C</span> के बीच बनाए रखें"
